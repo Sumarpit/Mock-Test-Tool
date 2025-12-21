@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
-    <title>SEBI Grade A Tool (v32 - Dual Mode)</title>
+    <title>SEBI Grade A Tool (v33)</title>
     <link rel="manifest" href="manifest.json">
     <style>
         :root {
-            --header-bg: #1a237e; /* SEBI: Deep Blue/Indigo */
+            --header-bg: #1a237e;
             --bg-color: #f4f7f6;
             --card-bg: #ffffff;
             --text-color: #333;
-            --accent: #2962ff; /* SEBI: Bright Blue */
+            --accent: #2962ff;
             --correct: #2ecc71;
             --wrong: #e74c3c;
             --cloud: #00bcd4;
@@ -31,7 +31,7 @@
         #exam-screen.active { display: flex; } 
 
         /* --- 1. UPLOAD SCREEN & LIBRARY --- */
-        .container-box { max-width: 900px; margin: 20px auto; padding: 0 20px 140px 20px; }
+        .container-box { max-width: 900px; margin: 20px auto; padding: 0 20px 160px 20px; }
         
         /* SEARCH & TABS */
         .filter-bar { margin-bottom: 20px; background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
@@ -42,9 +42,10 @@
 
         .library-box { background: var(--card-bg); padding: 20px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center; margin-bottom: 20px; }
         
-        .lib-controls { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
+        .lib-controls { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; flex-wrap: wrap; gap:10px; }
         .toggle-btn { background: #eee; color: #333; padding: 6px 12px; border-radius: 20px; cursor: pointer; border: 1px solid #ccc; font-size: 0.85rem; display: flex; align-items: center; gap: 5px; }
         .toggle-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
+        .paste-btn { background: #e3f2fd; color: var(--accent); border: 1px solid var(--accent); font-weight: bold; }
 
         .drop-zone { border: 2px dashed #ccc; background: #fafafa; cursor: pointer; border-radius: 6px; transition: 0.2s; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px; margin-bottom: 20px; }
         .drop-zone:hover { border-color: var(--accent); background: #f0f8ff; }
@@ -54,28 +55,32 @@
         .file-card { background: #fff; border: 1px solid #eee; padding: 12px; border-radius: 6px; cursor: pointer; transition: 0.2s; box-shadow: 0 2px 5px rgba(0,0,0,0.05); text-align: left; height: 110px; display: flex; flex-direction: column; justify-content: center; position: relative; overflow: hidden; }
         .file-card:hover { transform: translateY(-2px); border-color: var(--accent); }
         .file-card.active { border: 2px solid var(--accent); background: #e3f2fd; }
-        
         .file-card.cloud { border-left: 4px solid var(--cloud); }
         .cloud-badge { position: absolute; top: 5px; right: 5px; font-size: 1.2rem; color: var(--cloud); }
         .local-badge { position: absolute; top: 5px; right: 5px; font-size: 1.2rem; color: #aaa; }
-        
         .file-name { font-weight: bold; font-size: 0.85rem; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; margin-bottom: 5px; word-break: break-word; padding-right: 15px; }
         .file-meta { font-size: 0.75rem; color: #777; display: block; }
         .del-file { position: absolute; bottom: 5px; right: 5px; color: #aaa; font-size: 1.2rem; line-height: 1; padding: 5px; z-index: 5; }
-        .del-file:hover { color: var(--wrong); }
-
         .file-card.multi-selected { border: 2px solid var(--accent); background: #e3f2fd; }
         .multi-check { position: absolute; top: 5px; right: 5px; background: var(--accent); color: white; border-radius: 50%; width: 20px; height: 20px; display: flex; align-items: center; justify-content: center; font-size: 0.7rem; display: none; }
         .file-card.multi-selected .multi-check { display: flex; }
         .file-card.multi-selected .cloud-badge { display: none; } 
 
-        /* --- STICKY FOOTER (UPDATED v32) --- */
+        /* --- PASTE MODAL --- */
+        #pasteModal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 5000; align-items: center; justify-content: center; }
+        .modal-content { background: white; padding: 20px; border-radius: 8px; width: 90%; max-width: 500px; display: flex; flex-direction: column; gap: 10px; }
+        .modal-content h3 { margin: 0 0 10px 0; color: var(--accent); }
+        .modal-content textarea { width: 100%; height: 200px; padding: 10px; border: 1px solid #ccc; border-radius: 4px; font-family: monospace; resize: none; }
+        .modal-content input { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; }
+        .modal-actions { display: flex; justify-content: flex-end; gap: 10px; margin-top: 10px; }
+
+        /* --- STICKY FOOTER --- */
         .fixed-footer {
             position: fixed; bottom: 0; left: 0; width: 100%;
             background: #fff; border-top: 1px solid #ccc;
             padding: 10px 15px;
             display: grid; 
-            grid-template-columns: 0.85fr 1fr; /* Split for Mode Select */
+            grid-template-columns: 1fr 1fr;
             gap: 10px;
             align-items: center;
             box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
@@ -85,25 +90,17 @@
 
         .footer-left { display: flex; flex-direction: column; gap: 5px; }
         
-        /* NEW: Mode Select Dropdown */
-        .mode-select {
-            padding: 6px; border-radius: 4px; border: 1px solid var(--accent);
-            font-size: 0.8rem; font-weight: bold; color: var(--accent); background: #e3f2fd;
-            width: 100%;
-        }
+        /* NEW: Radio Group */
+        .radio-group { display: flex; gap: 10px; background: #e3f2fd; padding: 5px; border-radius: 4px; border: 1px solid var(--accent); justify-content: space-around; }
+        .radio-item { display: flex; align-items: center; gap: 3px; font-size: 0.8rem; font-weight: bold; cursor: pointer; color: var(--accent); }
+        .radio-item input { accent-color: var(--accent); cursor: pointer; }
 
-        .time-row { display: flex; align-items: center; gap: 3px; }
+        .time-row { display: flex; align-items: center; gap: 3px; margin-top: 2px; }
         .mini-input { width: 38px; padding: 4px; text-align: center; border: 1px solid #ccc; border-radius: 4px; font-size: 0.95rem; font-weight: bold; }
         .colon { font-weight: bold; color: #888; }
 
         .footer-right { display: flex; justify-content: flex-end; }
-        
-        .start-btn { 
-            width: 100%; height: 50px; 
-            background: var(--accent); color: white; font-weight: bold; 
-            border: none; border-radius: 6px; font-size: 1rem; cursor: pointer; 
-            text-transform: uppercase;
-        }
+        .start-btn { width: 100%; height: 50px; background: var(--accent); color: white; font-weight: bold; border: none; border-radius: 6px; font-size: 1rem; cursor: pointer; text-transform: uppercase; }
         .start-btn:disabled { background: #ccc; cursor: not-allowed; }
         .resume-btn { width: 100%; height: 50px; background: #f39c12; color: white; border: none; border-radius: 6px; font-weight: bold; display: none; }
 
@@ -112,47 +109,34 @@
         table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
         th, td { padding: 12px; border-bottom: 1px solid #eee; text-align: left; }
         th { background: #f8f9fa; color: #666; font-weight: 600; }
-
         button.clear { background: transparent; color: #e74c3c; text-decoration: underline; margin-top: 10px; padding: 0; border: none; cursor:pointer;}
         button.retake { background: #27ae60; padding: 6px 12px; font-size: 0.8rem; color: white; border:none; border-radius:4px; cursor:pointer;}
         
-        /* GENERAL UI */
         button.primary { background: var(--accent); color: white; padding: 10px 20px; border-radius: 4px; border:none;}
         button.review { background: #6c757d; color: white; padding: 10px 20px; border-radius: 4px; border:none;}
         
-        /* EXAM HEADER */
-        header { 
-            height: 60px; background: var(--header-bg); color: white; 
-            display: flex; align-items: center; justify-content: space-between; 
-            padding: 0 20px; width: 100%; flex-shrink: 0; z-index: 3000;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.2); padding-top: env(safe-area-inset-top); 
-        }
+        /* EXAM STYLES */
+        header { height: 60px; background: var(--header-bg); color: white; display: flex; align-items: center; justify-content: space-between; padding: 0 20px; width: 100%; flex-shrink: 0; z-index: 3000; box-shadow: 0 2px 10px rgba(0,0,0,0.2); padding-top: env(safe-area-inset-top); }
         header.review-mode { background: #343a40; border-bottom: 3px solid #ffc107; }
-        
-        .header-title { font-size: 1.1rem; font-weight: 700; letter-spacing: 1px; white-space: nowrap; text-transform: uppercase; overflow: hidden; text-overflow: ellipsis; max-width: 60%; }
-        .header-controls { display: flex; align-items: center; gap: 10px; }
+        .header-title { font-size: 1.1rem; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 60%; }
         .timer { font-weight: bold; background: #222; color: #00ff00; padding: 5px 10px; border-radius: 4px; font-family: 'Courier New', monospace; font-size: 1.1rem; border: 1px solid #444; }
         .timer.critical { background: #e74c3c; color: white; animation: pulse 1s infinite; }
         .timer.review-timer { color: #ffc107; border-color: #ffc107; }
         
-        /* EXAM LAYOUT */
         .exam-layout { display: flex; flex: 1; width: 100%; overflow: hidden; background: #e9ecef; position: relative; }
         .pane-passage { flex: 1; background: #fffbf2; padding: 25px; overflow-y: auto; border-right: 1px solid #ddd; font-family: Georgia, serif; line-height: 1.6; display: none; }
         .pane-passage.active { display: block; }
-        
-        .pane-question { flex: 1.2; background: #fff; padding: 20px; overflow-y: auto; display: flex; flex-direction: column; min-width: 300px; -webkit-overflow-scrolling: touch; }
+        .pane-question { flex: 1.2; background: #fff; padding: 20px; overflow-y: auto; display: flex; flex-direction: column; min-width: 300px; }
         .q-meta { font-size: 0.85rem; color: #777; margin-bottom: 10px; display: flex; justify-content: space-between; font-weight: bold; border-bottom: 1px solid #f0f0f0; padding-bottom: 8px; }
         .q-text { font-size: 1.15rem; margin-bottom: 20px; line-height: 1.5; font-weight: 500; }
         
         .opt-label { display: flex; align-items: flex-start; padding: 12px; border: 1px solid #eee; margin-bottom: 10px; border-radius: 6px; cursor: pointer; transition: 0.2s; }
-        .opt-label:hover { background: #f8f9fa; border-color: #ccc; }
         .opt-label.selected { background: #e3f2fd; border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
         .opt-label input { margin-right: 12px; margin-top: 4px; }
 
-        .sidebar-handle { width: 15px; background: #dcdcdc; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 0.7rem; color: #555; z-index: 10; border-left: 1px solid #ccc; border-right: 1px solid #ccc; }
+        .sidebar-handle { width: 15px; background: #dcdcdc; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 0.7rem; color: #555; z-index: 10; border-left: 1px solid #ccc; }
         .pane-sidebar { width: 300px; background: #fff; display: flex; flex-direction: column; transition: width 0.3s ease; flex-shrink: 0; }
         .pane-sidebar.collapsed { width: 0; border: none; overflow: hidden; }
-        
         .palette-grid { flex: 1; overflow-y: auto; padding: 15px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; align-content: start; }
         .pal-btn { height: 35px; border: 1px solid #ddd; background: #fff; cursor: pointer; border-radius: 4px; font-weight: bold; display: flex; align-items: center; justify-content: center; }
         .pal-btn.ans { background: var(--correct); color: white; border: none; }
@@ -165,9 +149,8 @@
         .c-btn { flex: 1; padding: 6px; font-size: 0.8rem; border: 1px solid #ccc; background: white; border-radius: 4px; cursor: pointer; text-align: center; }
         .c-btn.sel { background: #673ab7; color: white; border-color: #5e35b1; }
 
-        /* MOBILE NAV & RESULTS */
         .mobile-nav { display: none; height: 60px; background: #fff; border-top: 1px solid #ccc; align-items: center; justify-content: space-around; flex-shrink: 0; z-index: 3000; padding-bottom: env(safe-area-inset-bottom); }
-        .mn-btn { background: transparent; color: #555; font-size: 1.2rem; padding: 10px; border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; border:none; }
+        .mn-btn { background: transparent; color: #555; font-size: 1.2rem; padding: 10px; border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; }
         .mn-btn.primary { color: var(--accent); font-weight: bold; font-size: 1.5rem; }
         .mobile-menu { display: none; background: transparent; font-size: 1.5rem; margin-left: 10px; border:none; color: white;}
         
@@ -178,7 +161,6 @@
         .score-card.cor { border-color: var(--correct); }
         .score-card.wrg { border-color: var(--wrong); }
         .analysis-section { background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); padding: 20px; margin-bottom: 25px; }
-        .analysis-section h3 { margin-bottom: 15px; text-align: center; color: #444; border-bottom: 1px solid #eee; padding-bottom: 10px; }
         .review-item { background: white; border-left: 5px solid #ccc; padding: 15px; margin-bottom: 15px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); position: relative; }
         .review-item.correct { border-left-color: var(--correct); }
         .review-item.wrong { border-left-color: var(--wrong); }
@@ -203,6 +185,18 @@
 
 <div id="overlay" onclick="closeSidebar()"></div>
 
+<div id="pasteModal">
+    <div class="modal-content">
+        <h3>📋 Paste JSON Code</h3>
+        <input type="text" id="pasteFileName" placeholder="Enter Filename (e.g. My_Test)">
+        <textarea id="pasteContent" placeholder='Paste your JSON here... Example: [{"question":"...", "options":[...], "answer":0}]'></textarea>
+        <div class="modal-actions">
+            <button onclick="closePasteModal()" style="background:#ccc; border:none; padding:8px 16px; border-radius:4px; cursor:pointer;">Cancel</button>
+            <button onclick="savePastedJSON()" style="background:var(--accent); color:white; border:none; padding:8px 16px; border-radius:4px; cursor:pointer;">Save to Library</button>
+        </div>
+    </div>
+</div>
+
 <div id="upload-screen" class="screen active">
     <div class="container-box">
         
@@ -218,8 +212,13 @@
         <div class="library-box">
             <div class="lib-controls">
                 <h1 style="font-size:1.2rem;">SEBI Grade A Library</h1>
-                <div class="toggle-btn" id="multiToggle" onclick="toggleMultiSelect()">
-                    <span class="icon">❑</span> Select Multiple
+                <div style="display:flex; gap:10px;">
+                    <div class="toggle-btn paste-btn" onclick="openPasteModal()">
+                        <span class="icon">📋</span> Paste JSON
+                    </div>
+                    <div class="toggle-btn" id="multiToggle" onclick="toggleMultiSelect()">
+                        <span class="icon">❑</span> Select Multiple
+                    </div>
                 </div>
             </div>
             
@@ -244,11 +243,11 @@
 
     <div class="fixed-footer">
         <div class="footer-left">
-            <select id="paperMode" class="mode-select">
-                <option value="1">Paper 1 (+1 / -0.25)</option>
-                <option value="2">Paper 2 (+2 / -0.5)</option>
-                <option value="auto">Auto (from JSON)</option>
-            </select>
+            <div class="radio-group">
+                <label class="radio-item"><input type="radio" name="pMode" value="auto" checked> Auto</label>
+                <label class="radio-item"><input type="radio" name="pMode" value="1"> P1(+1)</label>
+                <label class="radio-item"><input type="radio" name="pMode" value="2"> P2(+2)</label>
+            </div>
             <div class="time-row">
                 <input type="number" id="hInput" class="mini-input" value="01" min="0">
                 <span class="colon">:</span>
@@ -405,8 +404,9 @@
         else if (touchEndX - touchStartX > 50) prevQ();
     }
 
+    // --- FIX: UPDATED MANIFEST PATH ---
     function loadCloudManifest() {
-        fetch('test_manifest.json')
+        fetch('tests/test_manifest.json')
             .then(res => res.json())
             .then(data => { cloudList = data; renderGrid(); })
             .catch(err => console.log('No cloud manifest found'));
@@ -439,6 +439,36 @@
         }
     }
 
+    // --- PASTE JSON LOGIC ---
+    function openPasteModal() { document.getElementById('pasteModal').style.display = 'flex'; }
+    function closePasteModal() { document.getElementById('pasteModal').style.display = 'none'; }
+    
+    function savePastedJSON() {
+        const name = document.getElementById('pasteFileName').value.trim();
+        const content = document.getElementById('pasteContent').value.trim();
+        
+        if(!name) { alert("Please enter a filename."); return; }
+        if(!content) { alert("Please paste JSON code."); return; }
+        
+        try {
+            const parsed = JSON.parse(content);
+            const fileName = name.endsWith('.json') ? name : name + '.json';
+            
+            library[fileName] = parsed;
+            saveLibraryToStorage();
+            renderGrid();
+            closePasteModal();
+            
+            // Clean inputs
+            document.getElementById('pasteFileName').value = '';
+            document.getElementById('pasteContent').value = '';
+            
+            alert("Test added to Library! Select it below.");
+        } catch(e) {
+            alert("Invalid JSON code. Please check formatting.");
+        }
+    }
+
     function setTab(tab) {
         currentTab = tab;
         document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
@@ -461,8 +491,13 @@
         }
 
         if (currentTab === 'all' || currentTab === 'cloud') {
-            cloudList.forEach(path => {
-                const name = path.split('/').pop();
+            cloudList.forEach(item => {
+                // If cloudList is array of objects from manifest
+                let name = item.name || item.filename || item;
+                if (typeof item === 'string') name = item.split('/').pop();
+                
+                const path = item.filename ? `tests/${item.filename}` : item; // Path logic
+                
                 if(!library[name] && name.toLowerCase().includes(search)) { 
                     displayList.push({ type: 'cloud', name: name, path: path });
                 }
@@ -740,8 +775,11 @@
         
         reviewSet = [];
 
-        // NEW: Get Marking Scheme from Footer
-        const mode = document.getElementById('paperMode').value; // '1', '2', or 'auto'
+        // NEW: Get Marking Scheme from Footer Radios
+        const radios = document.getElementsByName('pMode');
+        let mode = 'auto';
+        for(let r of radios) { if(r.checked) mode = r.value; }
+        
         let modeLabel = '';
 
         questions.forEach((q, i) => {
