@@ -1,0 +1,272 @@
+[
+  {
+    "question": "<b>Topic: Definitions</b><br>As per Section 2(85), a 'Small Company' means a company other than a public company, whose paid-up share capital does not exceed ___ and turnover does not exceed ___.",
+    "options": ["₹2 Crore; ₹20 Crore", "₹4 Crore; ₹40 Crore", "₹10 Crore; ₹100 Crore", "₹50 Lakh; ₹2 Crore"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Definitions",
+    "explanation": "Latest amendment: Small Company threshold is Paid-up Capital ≤ ₹4 Cr AND Turnover ≤ ₹40 Cr."
+  },
+  {
+    "question": "<b>Topic: Incorporation</b><br>Which form is used for the integrated incorporation of a company (One Person, Private, Public, or Section 8)?",
+    "options": ["INC-1", "DIR-3", "SPICe+", "MGT-7"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Incorporation",
+    "explanation": "SPICe+ (Simplified Proforma for Incorporating Company Electronically Plus) is the mandatory web form for incorporation."
+  },
+  {
+    "question": "<b>Topic: Share Capital</b><br>Section 54 allows the issue of 'Sweat Equity Shares'. What is the maximum limit of sweat equity shares a company can issue in a year?",
+    "options": ["10% of Paid-up Capital or ₹2 Cr", "15% of Paid-up Capital or ₹5 Cr", "25% of Paid-up Capital or ₹10 Cr", "No limit if Special Resolution passed"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Share Capital",
+    "explanation": "Max 15% of Paid-up Capital or ₹5 Crore (whichever is higher) in a year. Overall cap is 25% of Paid-up Capital."
+  },
+  {
+    "question": "<b>Topic: Prospectus</b><br>A 'Shelf Prospectus' is valid for a period not exceeding ___ from the date of opening of the first offer of securities.",
+    "options": ["6 months", "1 year", "2 years", "5 years"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Prospectus (Sec 31)",
+    "explanation": "Section 31 states that a Shelf Prospectus is valid for a maximum period of 1 year."
+  },
+  {
+    "question": "<b>Topic: Deposits</b><br>Eligible public companies can accept deposits from the public. An 'Eligible Company' must have a Net Worth of at least ___ OR a Turnover of at least ___.",
+    "options": ["₹50 Cr; ₹200 Cr", "₹100 Cr; ₹500 Cr", "₹500 Cr; ₹1000 Cr", "₹100 Cr; ₹200 Cr"],
+    "answer": 1,
+    "marks": 2,
+    "section": "Companies Act",
+    "topic": "Deposits (Sec 76)",
+    "explanation": "Eligible Company: Net Worth ≥ ₹100 Cr OR Turnover ≥ ₹500 Cr."
+  },
+  {
+    "question": "<b>Topic: Charges</b><br>A company must register a charge with the Registrar (ROC) within ___ days of its creation.",
+    "options": ["15 Days", "30 Days", "45 Days", "60 Days"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Registration of Charges",
+    "explanation": "Charges must be registered in Form CHG-1 within 30 days of creation."
+  },
+  {
+    "question": "<b>Topic: AGM</b><br>The first Annual General Meeting (AGM) of a company must be held within ___ months from the date of closing of the first financial year.",
+    "options": ["6 months", "9 months", "15 months", "18 months"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Meetings (Sec 96)",
+    "explanation": "First AGM: Within 9 months of FY close. Subsequent AGMs: Within 6 months."
+  },
+  {
+    "question": "<b>Topic: Dividend</b><br>Once a dividend is declared, it must be paid within ___ days. If unpaid, it transfers to 'Unpaid Dividend Account' within ___ days thereafter.",
+    "options": ["30 days; 7 days", "30 days; 30 days", "45 days; 7 days", "14 days; 2 days"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Dividend (Sec 123-124)",
+    "explanation": "Payment within 30 days. Transfer to Unpaid Account within 7 days after expiry of 30 days."
+  },
+  {
+    "question": "<b>Topic: CSR</b><br>Which of the following triggers the mandatory formation of a CSR Committee under Section 135?",
+    "options": ["Net Profit ≥ ₹2 Cr", "Turnover ≥ ₹500 Cr", "Net Worth ≥ ₹500 Cr", "Paid-up Capital ≥ ₹100 Cr"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "CSR",
+    "explanation": "Triggers: Net Worth ≥ ₹500 Cr OR Turnover ≥ ₹1000 Cr OR Net Profit ≥ ₹5 Cr."
+  },
+  {
+    "question": "<b>Topic: CSR</b><br>The minimum amount to be spent on CSR activities is ___ of the average net profits of the company made during the three immediately preceding financial years.",
+    "options": ["1%", "2%", "2.5%", "5%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "CSR",
+    "explanation": "Mandatory spend: 2% of Average Net Profits of last 3 years."
+  },
+  {
+    "question": "<b>Topic: Audit</b><br>The First Auditor of a Non-Government company is appointed by the Board within ___ days of incorporation.",
+    "options": ["15", "30", "45", "60"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Audit (Sec 139)",
+    "explanation": "First Auditor (Non-Govt): Board appoints within 30 days. If fail -> Members in EGM within 90 days."
+  },
+  {
+    "question": "<b>Topic: Audit</b><br>Section 139(2) regarding 'Rotation of Auditors' is applicable to unlisted public companies having a paid-up share capital of ___ or more.",
+    "options": ["₹5 Cr", "₹10 Cr", "₹20 Cr", "₹50 Cr"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Audit Rotation",
+    "explanation": "Rotation applies to Listed Cos, Public Cos (Paid-up ≥ 10Cr), and Pvt Cos (Paid-up ≥ 50Cr)."
+  },
+  {
+    "question": "<b>Topic: Directors</b><br>Every listed company and every other public company having a paid-up share capital of ___ must appoint at least one Woman Director.",
+    "options": ["₹50 Cr", "₹100 Cr", "₹200 Cr", "₹500 Cr"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Directors (Sec 149)",
+    "explanation": "Woman Director Criteria: Listed Co OR Public Co with Paid-up ≥ ₹100 Cr OR Turnover ≥ ₹300 Cr."
+  },
+  {
+    "question": "<b>Topic: Independent Directors</b><br>An Independent Director can hold office for a term up to ___ consecutive years and is eligible for reappointment on passing a ___.",
+    "options": ["3 years; Ordinary Resolution", "5 years; Special Resolution", "5 years; Ordinary Resolution", "2 years; Board Resolution"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Independent Directors",
+    "explanation": "Term: Up to 5 consecutive years. Re-appointment requires Special Resolution. Max 2 terms."
+  },
+  {
+    "question": "<b>Topic: Directors</b><br>To obtain a Director Identification Number (DIN), an individual must file form ___.",
+    "options": ["DIR-2", "DIR-3", "DIR-11", "DIR-12"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "DIN (Sec 153)",
+    "explanation": "DIR-3 is the application form for DIN."
+  },
+  {
+    "question": "<b>Topic: Disqualification</b><br>A director is disqualified under Sec 164 if they have been convicted of an offense and sentenced to imprisonment for ___ or more.",
+    "options": ["3 months", "6 months", "1 year", "2 years"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Disqualification (Sec 164)",
+    "explanation": "Imprisonment of 6 months or more disqualifies a person for 5 years."
+  },
+  {
+    "question": "<b>Topic: Board Meetings</b><br>The maximum gap between two consecutive Board Meetings cannot exceed ___ days.",
+    "options": ["90", "100", "120", "150"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Board Meetings (Sec 173)",
+    "explanation": "Max gap: 120 days. Minimum 4 meetings per year."
+  },
+  {
+    "question": "<b>Topic: Quorum</b><br>What is the quorum for a Board Meeting?",
+    "options": ["1/3rd of total strength or 2 directors (whichever is higher)", "1/2 of total strength", "2 Directors always", "1/3rd of total strength or 3 directors"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Quorum (Sec 174)",
+    "explanation": "1/3rd of Total Strength OR 2 Directors, whichever is Higher."
+  },
+  {
+    "question": "<b>Topic: Audit Committee</b><br>The Audit Committee must consist of a minimum of ___ directors, with the majority being ___.",
+    "options": ["2; Executive", "3; Independent", "3; Executive", "5; Independent"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Audit Committee (Sec 177)",
+    "explanation": "Min 3 Directors. Majority must be Independent."
+  },
+  {
+    "question": "<b>Topic: Loans to Directors</b><br>Under Section 185, giving loans to directors is generally prohibited. This does NOT apply to loans given to a Managing Director as a part of ___.",
+    "options": ["Conditions of service extended to all employees", "Discretionary Board power", "Special Resolution", "CSR Policy"],
+    "answer": 0,
+    "marks": 2,
+    "section": "Companies Act",
+    "topic": "Loans to Directors",
+    "explanation": "Exempt if loan is part of conditions of service extended to all employees or pursuant to a scheme approved by members."
+  },
+  {
+    "question": "<b>Topic: Related Party</b><br>For entering into specified Related Party Transactions (RPT) exceeding limits, the company requires ___.",
+    "options": ["Board Resolution only", "Ordinary Resolution", "Special Resolution", "Central Govt Approval"],
+    "answer": 1,
+    "marks": 2,
+    "section": "Companies Act",
+    "topic": "RPT (Sec 188)",
+    "explanation": "Prior approval of shareholders via Ordinary Resolution is required if transaction exceeds prescribed limits (formerly Special Resolution)."
+  },
+  {
+    "question": "<b>Topic: KMP</b><br>Appointment of a Whole-time Key Managerial Personnel (KMP) is mandatory for every public company having a paid-up share capital of ___ or more.",
+    "options": ["₹5 Cr", "₹10 Cr", "₹25 Cr", "₹50 Cr"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "KMP (Sec 203)",
+    "explanation": "Mandatory for Listed Cos and Public Cos with Paid-up Capital ≥ ₹10 Crore."
+  },
+  {
+    "question": "<b>Topic: Fraud</b><br>Under Section 447, if fraud involves an amount of at least ₹10 Lakh or 1% of turnover, the minimum imprisonment is ___.",
+    "options": ["3 months", "6 months", "1 year", "3 years"],
+    "answer": 1,
+    "marks": 2,
+    "section": "Companies Act",
+    "topic": "Penalties (Sec 447)",
+    "explanation": "Min 6 months imprisonment (Max 10 years). If public interest involved, min 3 years."
+  },
+  {
+    "question": "<b>Topic: Buy-Back</b><br>The debt-equity ratio after buy-back of shares should not be more than ___.",
+    "options": ["1:1", "1.5:1", "2:1", "3:1"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Buy-Back (Sec 68)",
+    "explanation": "Post buy-back, the ratio of aggregate debts to paid-up capital + free reserves must not exceed 2:1."
+  },
+  {
+    "question": "<b>Topic: Private Placement</b><br>In a Private Placement offer, the securities must be allotted within ___ days from receipt of application money.",
+    "options": ["30", "45", "60", "90"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Private Placement (Sec 42)",
+    "explanation": "Allotment must be made within 60 days. If not, money must be refunded within next 15 days."
+  },
+  {
+    "question": "<b>Topic: Resignation</b><br>When a director resigns, they may forward a copy of resignation to ROC in Form ___.",
+    "options": ["DIR-11", "DIR-12", "DIR-8", "DIR-3"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Directors",
+    "explanation": "Director files DIR-11 (Optional). Company files DIR-12 (Mandatory)."
+  },
+  {
+    "question": "<b>Topic: Share Capital</b><br>Which section prohibits the issue of shares at a discount?",
+    "options": ["Section 52", "Section 53", "Section 54", "Section 55"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Discount Issue",
+    "explanation": "Sec 53 prohibits issue at discount (Void). Sec 54 (Sweat Equity) is the exception."
+  },
+  {
+    "question": "<b>Topic: General Meeting</b><br>The notice for calling a General Meeting must be given at least ___ clear days in advance.",
+    "options": ["7", "14", "21", "28"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Meetings (Sec 101)",
+    "explanation": "21 clear days notice is mandatory."
+  },
+  {
+    "question": "<b>Topic: Internal Audit</b><br>Internal Audit is mandatory for unlisted public companies if Turnover is ___ or more.",
+    "options": ["₹100 Cr", "₹200 Cr", "₹500 Cr", "₹1000 Cr"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Internal Audit (Sec 138)",
+    "explanation": "Unlisted Public Co triggers: Capital ≥ 50Cr OR Turnover ≥ 200Cr OR Loans ≥ 100Cr OR Deposits ≥ 25Cr."
+  },
+  {
+    "question": "<b>Topic: Financial Year</b><br>Who can approve a financial year other than ending on 31st March for a company associated with a foreign entity?",
+    "options": ["Regional Director", "NCLT (Tribunal)", "ROC", "Central Government"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Financial Year",
+    "explanation": "Only the National Company Law Tribunal (NCLT) has the power to allow a different financial year."
+  }
+]
