@@ -1,48 +1,21 @@
-name: Save Test from Issue
-on:
-  issues:
-    types: [opened, labeled]  # <--- Added 'labeled' so it works if you add the label later
-
-permissions:
-  contents: write
-  issues: write
-
-jobs:
-  save-json:
-    if: contains(github.event.issue.labels.*.name, 'new-test')
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
-
-      - name: Save JSON to Tests Folder
-        env:
-          JSON_CONTENT: ${{ github.event.issue.body }}
-          FILE_NAME: ${{ github.event.issue.title }}
-        run: |
-          mkdir -p tests
-          echo "$JSON_CONTENT" > "tests/$FILE_NAME"
-          
-          # Simple validation
-          if jq -e . "tests/$FILE_NAME" >/dev/null 2>&1; then
-            echo "Valid JSON detected."
-          else
-            echo "Error: Invalid JSON format."
-            rm "tests/$FILE_NAME"
-            exit 1
-          fi
-
-      - name: Commit and Push
-        run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add "tests/${{ github.event.issue.title }}"
-          git commit -m "Added test via Issue Ops: ${{ github.event.issue.title }}"
-          git push
-
-      - name: Close Issue
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ISSUE_NUM: ${{ github.event.issue.number }}
-        run: |
-          gh issue close $ISSUE_NUM --comment "✅ Success! File created: tests/${{ github.event.issue.title }}"
+- name: Commit and Push changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        
+        # Stage the new files
+        git add tests/*.json
+        git add tests/test_manifest.json
+        # If you are using the PDF upload workflow, keep this line too:
+        # git add -u uploads/
+        
+        # Commit the changes
+        git commit -m "Added test via Issue Ops: Processed JSON" || echo "No changes to commit"
+        
+        # --- THE FIX STARTS HERE ---
+        # Pull the latest changes from the remote repo to avoid conflicts
+        git pull --rebase origin main
+        # --- THE FIX ENDS HERE ---
+        
+        # Now push
+        git push
