@@ -1,7 +1,7 @@
 name: Save Test from Issue
 on:
   issues:
-    types: [opened, labeled]  # <--- Added 'labeled' so it works if you add the label later
+    types: [opened, labeled]
 
 permissions:
   contents: write
@@ -15,15 +15,18 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Save JSON to Tests Folder
+      - name: Save JSON and Update Manifest
         env:
           JSON_CONTENT: ${{ github.event.issue.body }}
           FILE_NAME: ${{ github.event.issue.title }}
         run: |
+          # 1. Create the Tests Directory if missing
           mkdir -p tests
+
+          # 2. Save the New Test File
           echo "$JSON_CONTENT" > "tests/$FILE_NAME"
           
-          # Simple validation
+          # 3. Validation: Check if it is valid JSON
           if jq -e . "tests/$FILE_NAME" >/dev/null 2>&1; then
             echo "Valid JSON detected."
           else
@@ -32,12 +35,38 @@ jobs:
             exit 1
           fi
 
+          # 4. IMMEDIATELY UPDATE MANIFEST (Copied logic from update_manifest.yml)
+          echo "[" > tests/test_manifest.json
+          first=true
+          for file in tests/*.json; do
+            # Skip the manifest file itself
+            if [ "$(basename "$file")" != "test_manifest.json" ]; then
+              if [ "$first" = true ]; then
+                first=false
+              else
+                echo "," >> tests/test_manifest.json
+              fi
+              
+              FILENAME=$(basename "$file")
+              NAME="${FILENAME%.*}"
+              # Create JSON object string (Simple qCount 0 placeholder is fine)
+              echo "{\"name\": \"$NAME\", \"filename\": \"$FILENAME\", \"qCount\": 0}" >> tests/test_manifest.json
+            fi
+          done
+          echo "]" >> tests/test_manifest.json
+
       - name: Commit and Push
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
+          
+          # Add the new test file
           git add "tests/${{ github.event.issue.title }}"
-          git commit -m "Added test via Issue Ops: ${{ github.event.issue.title }}"
+          
+          # Add the updated manifest file
+          git add tests/test_manifest.json
+          
+          git commit -m "Added test and updated manifest: ${{ github.event.issue.title }}"
           git push
 
       - name: Close Issue
@@ -45,4 +74,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUM: ${{ github.event.issue.number }}
         run: |
-          gh issue close $ISSUE_NUM --comment "✅ Success! File created: tests/${{ github.event.issue.title }}"
+          gh issue close $ISSUE_NUM --comment "✅ Success! File created and Manifest updated: tests/${{ github.event.issue.title }}"
