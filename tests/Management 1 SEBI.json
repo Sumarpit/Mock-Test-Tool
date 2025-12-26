@@ -1,0 +1,182 @@
+[
+  {
+    "question": "<b>Topic: Basics</b><br>Which of the following best describes 'Effectiveness' in management?",
+    "options": ["Doing the task correctly with minimum cost", "Doing the right task and achieving goals on time", "Reducing the wastage of resources", "Standardizing the production process"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Nature of Management",
+    "explanation": "Effectiveness is about 'doing the right things' and achieving end results. Efficiency is about 'doing things right' (cost/process)."
+  },
+  {
+    "question": "<b>Topic: Functions</b><br>In the acronym 'POSDCORB' coined by Luther Gulick, what does 'CO' stand for?",
+    "options": ["Controlling", "Coordinating", "Cooperating", "Commanding"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Functions of Management",
+    "explanation": "POSDCORB: Planning, Organizing, Staffing, Directing, Coordinating, Reporting, Budgeting."
+  },
+  {
+    "question": "<b>Topic: Motivation</b><br>According to Herzberg's Two-Factor Theory, which of the following is considered a 'Hygiene Factor'?",
+    "options": ["Recognition", "Responsibility", "Salary", "Achievement"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Motivation Theories",
+    "explanation": "Salary, Working Conditions, and Job Security are Hygiene Factors (prevent dissatisfaction). Recognition and Achievement are Motivators."
+  },
+  {
+    "question": "<b>Topic: Leadership</b><br>In the Managerial Grid developed by Blake and Mouton, the 'Country Club Management' style is represented by which coordinates?",
+    "options": ["1,1", "9,1", "1,9", "9,9"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Leadership Theories",
+    "explanation": "1,9 represents High Concern for People (Country Club) and Low Concern for Production."
+  },
+  {
+    "question": "<b>Topic: Theories</b><br>Who is known as the 'Father of Scientific Management'?",
+    "options": ["Henri Fayol", "F.W. Taylor", "Elton Mayo", "Peter Drucker"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Evolution of Management",
+    "explanation": "F.W. Taylor introduced Scientific Management (Time & Motion studies). Henri Fayol is the father of Administrative Management."
+  },
+  {
+    "question": "<b>Topic: Communication</b><br>Which barrier to communication arises due to different meanings attached to words or symbols?",
+    "options": ["Psychological Barrier", "Semantic Barrier", "Organizational Barrier", "Personal Barrier"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Communication",
+    "explanation": "Semantic barriers occur when words/symbols are interpreted differently by sender and receiver (e.g., jargon, technical terms)."
+  },
+  {
+    "question": "<b>Topic: Control</b><br>Which of the following is the correct sequence of the Control Process?",
+    "options": ["Measurement -> Comparison -> Setting Standards -> Corrective Action", "Setting Standards -> Measurement -> Comparison -> Corrective Action", "Setting Standards -> Corrective Action -> Measurement -> Comparison", "Comparison -> Measurement -> Setting Standards -> Corrective Action"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Controlling",
+    "explanation": "Standard logic: First set the benchmark (Standard), then measure actuals, compare them, and fix deviations."
+  },
+  {
+    "question": "<b>Topic: Motivation</b><br>In Vroom's Expectancy Theory, 'Valence' refers to:",
+    "options": ["The belief that effort leads to performance", "The belief that performance leads to reward", "The value or preference placed on the reward", "The inherent difficulty of the task"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Motivation Theories",
+    "explanation": "Formula: Motivation = Expectancy * Instrumentality * Valence. Valence is the emotional value/attractiveness of the outcome."
+  },
+  {
+    "question": "<b>Topic: HRD</b><br>Which of the following is an 'Off-the-Job' training method?",
+    "options": ["Apprenticeship", "Job Rotation", "Vestibule Training", "Coaching"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Management",
+    "topic": "HRD & Training",
+    "explanation": "Vestibule Training involves simulated work environments away from the actual job floor. Others are On-the-Job."
+  },
+  {
+    "question": "<b>Topic: Organizing</b><br>The concept of 'Span of Management' (or Span of Control) refers to:",
+    "options": ["The number of levels in the organization hierarchy", "The number of subordinates a superior can effectively manage", "The total number of employees in the firm", "The geographical reach of the business"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Organizing",
+    "explanation": "Span of Control determines the width of the organization structure (Wide span = Flat structure, Narrow span = Tall structure)."
+  },
+  {
+    "question": "<b>Topic: Leadership</b><br>Which leadership theory suggests that 'Leaders are born, not made'?",
+    "options": ["Trait Theory", "Behavioral Theory", "Situational Theory", "Path-Goal Theory"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Leadership Theories",
+    "explanation": "Trait Theory (Great Man Theory) focuses on inherent personal characteristics/traits of a leader."
+  },
+  {
+    "question": "<b>Topic: Principles</b><br>Which principle of management states that an employee should receive orders from ONE superior only?",
+    "options": ["Unity of Direction", "Unity of Command", "Scalar Chain", "Order"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Fayol's Principles",
+    "explanation": "Unity of Command = One Boss. (Unity of Direction = One Head/Plan for a group of activities)."
+  },
+  {
+    "question": "<b>Topic: Motivation</b><br>Who proposed the 'ERG Theory' of motivation (Existence, Relatedness, Growth)?",
+    "options": ["Abraham Maslow", "Clayton Alderfer", "David McClelland", "Douglas McGregor"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Motivation Theories",
+    "explanation": "Alderfer condensed Maslow's 5 needs into 3: Existence (E), Relatedness (R), and Growth (G)."
+  },
+  {
+    "question": "<b>Topic: Communication</b><br>The informal communication network within an organization is commonly known as:",
+    "options": ["The Chain", "The Wheel", "The Grapevine", "The Circle"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Communication",
+    "explanation": "Grapevine is the informal, unstructured communication channel."
+  },
+  {
+    "question": "<b>Topic: Theories</b><br>The 'Hawthorne Experiments' conducted by Elton Mayo laid the foundation for which management approach?",
+    "options": ["Classical Approach", "Human Relations Approach", "Systems Approach", "Contingency Approach"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Evolution of Management",
+    "explanation": "The experiments showed that social factors and group dynamics (Human Relations) affect productivity more than physical conditions."
+  },
+  {
+    "question": "<b>Topic: Planning</b><br>Which of the following is a 'Single-Use Plan'?",
+    "options": ["Policy", "Procedure", "Budget", "Rule"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Planning",
+    "explanation": "A Budget is created for a specific period/project (Single-use). Policies, Procedures, and Rules are Standing Plans (recurring)."
+  },
+  {
+    "question": "<b>Topic: Leadership</b><br>In Hersey and Blanchard's Situational Leadership Model, which style is appropriate for a subordinate who is 'Unable and Unwilling' (R1)?",
+    "options": ["Delegating (S4)", "Participating (S3)", "Selling (S2)", "Telling (S1)"],
+    "answer": 3,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Leadership Theories",
+    "explanation": "For low readiness (R1), the leader must provide specific instructions and close supervision (Telling/Directing)."
+  },
+  {
+    "question": "<b>Topic: Motivation</b><br>According to McClelland's Needs Theory, the desire to influence and control others is called:",
+    "options": ["Need for Achievement (nAch)", "Need for Affiliation (nAff)", "Need for Power (nPow)", "Need for Status"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Motivation Theories",
+    "explanation": "nPow is the desire to have impact, to be influential, and to control others."
+  },
+  {
+    "question": "<b>Topic: Directing</b><br>Which of the following is NOT an element of Directing?",
+    "options": ["Supervision", "Leadership", "Communication", "Staffing"],
+    "answer": 3,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Directing",
+    "explanation": "Elements of Directing are: Supervision, Motivation, Leadership, Communication. Staffing is a separate function."
+  },
+  {
+    "question": "<b>Topic: HRD</b><br>The process of introducing a new employee to the organization, its culture, and their job role is called:",
+    "options": ["Recruitment", "Selection", "Induction/Orientation", "Placement"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Management",
+    "topic": "HRD",
+    "explanation": "Induction (or Orientation) is the process of familiarizing the new employee with the organization."
+  }
+]
