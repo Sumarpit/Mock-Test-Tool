@@ -1,0 +1,182 @@
+[
+  {
+    "question": "<b>Topic: Marginal Costing</b><br>The 'Indifference Point' refers to the level of activity where:",
+    "options": ["Total Sales equals Total Cost", "Total Variable Cost of two alternatives is equal", "Total Cost of two alternatives is equal", "Contribution is equal to Fixed Cost"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Decision Making",
+    "explanation": "Indifference Point is the volume of sales at which Total Costs (Fixed + Variable) of two options are identical. Below this point, the option with lower Fixed Cost is preferred."
+  },
+  {
+    "question": "<b>Topic: Basics</b><br>'Conversion Cost' is the sum of:",
+    "options": ["Direct Material + Direct Labour", "Direct Labour + Direct Expenses", "Direct Labour + Factory Overheads", "Prime Cost + Factory Overheads"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Cost Classification",
+    "explanation": "Conversion Cost is the cost incurred to convert raw material into finished goods. Formula: Direct Labour + Factory Overheads."
+  },
+  {
+    "question": "<b>Topic: Lean Systems</b><br>In Six Sigma, the standard of '3.4 defects per million opportunities' corresponds to a process capability of:",
+    "options": ["3 Sigma", "4 Sigma", "5 Sigma", "6 Sigma"],
+    "answer": 3,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Six Sigma",
+    "explanation": "Six Sigma aims for near-perfection, defined statistically as no more than 3.4 defects per million opportunities (DPMO)."
+  },
+  {
+    "question": "<b>Topic: Methods</b><br>Which costing method is most appropriate for the Pharmaceutical industry where medicines are produced in lots of similar units?",
+    "options": ["Job Costing", "Batch Costing", "Process Costing", "Contract Costing"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Methods of Costing",
+    "explanation": "Batch Costing is used when goods are produced in batches (groups) that are identical, like medicines, biscuits, or nuts & bolts."
+  },
+  {
+    "question": "<b>Topic: ABC Costing</b><br>In Activity Based Costing (ABC), a 'Cost Driver' is defined as:",
+    "options": ["A unit of product", "A factor that causes a change in the cost of an activity", "The total overhead cost", "The profit margin per unit"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Activity Based Costing",
+    "explanation": "A Cost Driver is the factor that triggers a cost (e.g., Number of setups drives Setup Cost; Number of inspections drives Inspection Cost)."
+  },
+  {
+    "question": "<b>Topic: Marginal Costing</b><br>A firm should shut down its operations in the short run if the Selling Price is less than:",
+    "options": ["Total Cost", "Average Fixed Cost", "Average Variable Cost", "Marginal Cost"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Shutdown Decision",
+    "explanation": "In the short run, a firm must at least cover its Variable Costs. If Price < AVC, every unit sold increases the loss, so it must shut down."
+  },
+  {
+    "question": "<b>Topic: Standard Costing</b><br>If Standard Rate = ₹20/hr, Actual Rate = ₹22/hr, and Actual Hours = 1,000, calculate the Labour Rate Variance.",
+    "options": ["₹2000 (Favorable)", "₹2000 (Adverse)", "₹2200 (Adverse)", "₹20000 (Adverse)"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Standard Costing",
+    "explanation": "Rate Variance = (Std Rate - Actual Rate) × Actual Hours = (20 - 22) × 1000 = -2000 (Adverse). (HR hired expensive labour)."
+  },
+  {
+    "question": "<b>Topic: Lean Systems</b><br>The Japanese term 'Kaizen' implies:",
+    "options": ["Breakthrough innovation", "Continuous small improvements", "Zero defects", "Just-In-Time production"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Lean Systems",
+    "explanation": "Kaizen means 'Change for Good' or Continuous Improvement involving everyone from the CEO to the assembly line workers."
+  },
+  {
+    "question": "<b>Topic: Material Control</b><br>VED Analysis classifies items based on:",
+    "options": ["Value of consumption", "Unit Price of material", "Criticality of the item", "Lead time of supply"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Inventory Control",
+    "explanation": "VED stands for Vital, Essential, and Desirable. It is based on the criticality of the spare part for production continuity."
+  },
+  {
+    "question": "<b>Topic: Basics</b><br>A cost which has already been incurred and cannot be recovered is called:",
+    "options": ["Imputed Cost", "Sunk Cost", "Opportunity Cost", "Replacement Cost"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Decision Making Costs",
+    "explanation": "Sunk Costs are historical costs (e.g., R&D spent last year) and are irrelevant for future decision making."
+  },
+  {
+    "question": "<b>Topic: Lean Systems</b><br>In the 5S framework, 'Seiso' translates to:",
+    "options": ["Sort", "Set in Order", "Shine", "Sustain"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "5S",
+    "explanation": "Seiso means 'Shine' or Cleaning. (Seiri=Sort, Seiton=Set in Order, Seiso=Shine, Seiketsu=Standardize, Shitsuke=Sustain)."
+  },
+  {
+    "question": "<b>Topic: Overheads</b><br>The 'High-Low Method' is used for:",
+    "options": ["Allocating overheads", "Separating semi-variable costs into fixed and variable components", "Calculating labour bonus", "Valuing inventory"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Cost Behavior",
+    "explanation": "The High-Low method takes the difference in cost at the highest and lowest activity levels to find the Variable Cost per unit."
+  },
+  {
+    "question": "<b>Topic: Marginal Costing</b><br>If the P/V Ratio is 40% and Fixed Cost is ₹1,00,000, what is the Break-Even Sales in Value?",
+    "options": ["₹2,00,000", "₹2,50,000", "₹4,00,000", "₹1,40,000"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Break-Even Point",
+    "explanation": "BEP (Value) = Fixed Cost / PV Ratio = 1,00,000 / 40% = 1,00,000 / 0.4 = ₹2,50,000."
+  },
+  {
+    "question": "<b>Topic: Standard Costing</b><br>Fixed Overhead Volume Variance arises due to difference between:",
+    "options": ["Standard Fixed Overheads and Actual Fixed Overheads", "Budgeted Fixed Overheads and Actual Fixed Overheads", "Absorbed Fixed Overheads and Budgeted Fixed Overheads", "Absorbed Fixed Overheads and Actual Fixed Overheads"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Overhead Variances",
+    "explanation": "Volume Variance = Absorbed Overhead (based on actual output) - Budgeted Overhead. It measures if we produced enough volume to absorb the fixed costs."
+  },
+  {
+    "question": "<b>Topic: Budgeting</b><br>A budget which is prepared for a single level of activity is known as:",
+    "options": ["Flexible Budget", "Fixed Budget", "Master Budget", "Cash Budget"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Budgeting",
+    "explanation": "A Fixed Budget is static and does not change even if the actual activity level differs from the plan."
+  },
+  {
+    "question": "<b>Topic: Methods</b><br>'Uniform Costing' is not a distinct method of costing but rather:",
+    "options": ["A technique for cost reduction", "A system where several firms use the same costing principles", "A method for government companies only", "A statutory requirement"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Techniques",
+    "explanation": "Uniform Costing involves the adoption of common costing principles by several undertakings for easier inter-firm comparison."
+  },
+  {
+    "question": "<b>Topic: Basics</b><br>Which of the following is an example of a 'Step Cost'?",
+    "options": ["Raw Material Cost", "Factory Rent", "Supervisor Salary (one for every 10 workers)", "Depreciation of Machinery"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Cost Behavior",
+    "explanation": "Step Costs remain constant for a range of activity and then jump to a new level (e.g., hiring a 2nd supervisor when worker count exceeds 10)."
+  },
+  {
+    "question": "<b>Topic: Six Sigma</b><br>Which methodology in Six Sigma is used for improving EXISTING processes?",
+    "options": ["DMADV", "DMAIC", "PDCA", "SWOT"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Six Sigma",
+    "explanation": "DMAIC (Define, Measure, Analyze, Improve, Control) is for existing processes. DMADV is for new designs."
+  },
+  {
+    "question": "<b>Topic: Marginal Costing</b><br>An increase in the Variable Cost per unit will have what effect on the Break-Even Point (BEP)?",
+    "options": ["Decrease BEP", "Increase BEP", "No change", "Make BEP zero"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "BEP Analysis",
+    "explanation": "Increase in VC reduces Contribution (Sales - VC). Lower contribution means you need to sell MORE units to cover Fixed Costs. Hence, BEP Increases."
+  },
+  {
+    "question": "<b>Topic: Material Control</b><br>In ABC Analysis of inventory, 'A' category items are characterized by:",
+    "options": ["High Quantity, Low Value", "Low Quantity, High Value", "Low Quantity, Low Value", "High Quantity, High Value"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "ABC Analysis",
+    "explanation": "Category A items are small in number (Low Qty) but account for the majority of the cost (High Value). (Pareto Principle)."
+  }
+]
