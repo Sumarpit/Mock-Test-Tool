@@ -1,0 +1,182 @@
+[
+  {
+    "question": "<b>Topic: Bond Math</b><br>A Zero-Coupon Bond with a Face Value of ₹100 is trading at ₹90. What is the approximate Yield to Maturity (YTM) if it matures in 1 year?",
+    "options": ["10%", "11.11%", "9%", "8%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Bond Yields",
+    "explanation": "Yield = (Profit / Investment) * 100. Profit = ₹10. Investment = ₹90. Yield = (10/90) * 100 = 11.11%."
+  },
+  {
+    "question": "<b>Topic: Derivatives</b><br>Which of the following options has 'Intrinsic Value' if the Spot Price is ₹100 and Strike Price is ₹110?",
+    "options": ["Call Option", "Put Option", "Both Call and Put", "Neither"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Option Valuation",
+    "explanation": "Intrinsic Value exists only for ITM options. For Put (Right to Sell at ₹110), Spot ₹100 is ITM (Profit of ₹10). For Call, it is OTM (Zero Intrinsic Value)."
+  },
+  {
+    "question": "<b>Topic: Ratios</b><br>Calculate the 'Debt-Service Coverage Ratio' (DSCR) if Net Operating Income = ₹50 Lakh, and Total Debt Service (Interest + Principal) = ₹25 Lakh.",
+    "options": ["1.5", "2.0", "0.5", "4.0"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Financial Ratios",
+    "explanation": "DSCR = Net Operating Income / Total Debt Service = 50 / 25 = 2.0. (Indicates the firm generates 2x the cash needed to pay debt)."
+  },
+  {
+    "question": "<b>Topic: Forex</b><br>Under the Liberalised Remittance Scheme (LRS) of RBI, what is the maximum amount a resident individual can remit overseas per financial year?",
+    "options": ["USD 100,000", "USD 150,000", "USD 200,000", "USD 250,000"],
+    "answer": 3,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "RBI Regulations",
+    "explanation": "The LRS limit is USD 2,50,000 per financial year for permissible current or capital account transactions."
+  },
+  {
+    "question": "<b>Topic: Primary Market</b><br>In an IPO, 'Anchor Investors' are Institutional Buyers who are allotted shares just before the issue opens. What is the lock-in period for 50% of their allocation?",
+    "options": ["30 Days", "90 Days", "6 Months", "1 Year"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "IPO Guidelines",
+    "explanation": "Lock-in for Anchor Investors: 50% shares for 30 days, remaining 50% for 90 days from the date of allotment."
+  },
+  {
+    "question": "<b>Topic: Money Market</b><br>Certificates of Deposit (CDs) are issued by Scheduled Commercial Banks. What is the minimum denomination for a CD?",
+    "options": ["₹25,000", "₹1 Lakh", "₹5 Lakh", "₹10 Lakh"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Money Market Instruments",
+    "explanation": "Minimum amount for CD is ₹1 Lakh. (Note: CP is ₹5 Lakh, T-Bills are ₹25,000)."
+  },
+  {
+    "question": "<b>Topic: Hybrid Instruments</b><br>A bond that gives the holder the right to convert it into a specified number of equity shares of the issuing company is called:",
+    "options": ["Callable Bond", "Puttable Bond", "Convertible Bond", "Floating Rate Bond"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Bond Types",
+    "explanation": "Convertible Bonds allow the investor to exchange the debt for equity at a pre-set conversion ratio."
+  },
+  {
+    "question": "<b>Topic: Cost of Capital</b><br>Calculate Cost of Debt (Post-tax) if the Interest Rate is 10% and the Tax Rate is 30%.",
+    "options": ["10%", "3%", "7%", "13%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "WACC",
+    "explanation": "Kd = Interest * (1 - Tax Rate) = 10 * (1 - 0.30) = 10 * 0.7 = 7%."
+  },
+  {
+    "question": "<b>Topic: Mutual Funds</b><br>According to SEBI categorization, a 'Large Cap Fund' must invest at least ___ of its total assets in large-cap companies (Top 100 by market cap).",
+    "options": ["65%", "75%", "80%", "90%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "SEBI MF Norms",
+    "explanation": "Large Cap Funds must invest min 80% in Large Cap stocks."
+  },
+  {
+    "question": "<b>Topic: Derivatives</b><br>Mark-to-Market (MTM) settlement in Futures contracts happens:",
+    "options": ["Weekly", "Monthly", "Daily", "At Maturity only"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Futures Mechanism",
+    "explanation": "Futures are settled daily. Profits/Losses are credited/debited to the margin account at the end of every trading day."
+  },
+  {
+    "question": "<b>Topic: REITs/InvITs</b><br>Real Estate Investment Trusts (REITs) are mandated to distribute at least ___ of their Net Distributable Cash Flows to investors.",
+    "options": ["50%", "75%", "90%", "100%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Alternative Investments",
+    "explanation": "REITs/InvITs must distribute at least 90% of their cash flows to unit holders (usually as interest/dividend)."
+  },
+  {
+    "question": "<b>Topic: Risk</b><br>Which of the following risks is associated with the possibility that a borrower will fail to make promised interest or principal payments?",
+    "options": ["Market Risk", "Liquidity Risk", "Credit (Default) Risk", "Operational Risk"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Risk Types",
+    "explanation": "Credit Risk (or Default Risk) is the risk of the counterparty not meeting their financial obligations."
+  },
+  {
+    "question": "<b>Topic: Indices</b><br>The S&P BSE SENSEX comprises of how many constituent stocks?",
+    "options": ["30", "50", "100", "500"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Stock Indices",
+    "explanation": "Sensex = 30 stocks. Nifty = 50 stocks."
+  },
+  {
+    "question": "<b>Topic: Markets</b><br>Which regulator recently took over the regulation of Housing Finance Companies (HFCs) from the National Housing Bank (NHB)?",
+    "options": ["SEBI", "RBI", "IRDAI", "Ministry of Finance"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Regulatory Changes",
+    "explanation": "RBI now regulates HFCs. NHB remains the supervisor/refinancing agency, but regulation is with RBI."
+  },
+  {
+    "question": "<b>Topic: Bond Math</b><br>If market interest rates fall, what happens to the price of an existing fixed-coupon bond?",
+    "options": ["Price Increases", "Price Decreases", "Price remains same", "Coupon rate changes"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Bond Price-Yield",
+    "explanation": "Interest Rates and Bond Prices have an inverse relationship. If Rates Fall, Bond Prices Rise."
+  },
+  {
+    "question": "<b>Topic: International Finance</b><br>Receipts issued by a US depositary bank representing shares of a foreign stock (e.g., Indian company) trading in the US are called:",
+    "options": ["GDR (Global Depositary Receipts)", "ADR (American Depositary Receipts)", "IDR (Indian Depositary Receipts)", "Masala Bonds"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Instruments",
+    "explanation": "ADRs trade in the US. GDRs trade elsewhere (e.g., Europe). IDRs trade in India representing foreign stocks."
+  },
+  {
+    "question": "<b>Topic: Ratios</b><br>Return on Equity (ROE) is calculated as:",
+    "options": ["Net Profit / Total Assets", "EBIT / Total Equity", "Net Profit / Shareholder's Equity", "Sales / Shareholder's Equity"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Financial Ratios",
+    "explanation": "ROE measures return to owners. Formula: Net Profit After Tax (PAT) / Shareholder's Equity (Net Worth)."
+  },
+  {
+    "question": "<b>Topic: Primary Market</b><br>SEBI (ICDR) Regulations mandate that the minimum Promoter's Contribution in an IPO shall be:",
+    "options": ["10%", "20%", "25%", "50%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "IPO Regulations",
+    "explanation": "Promoters must hold at least 20% of the post-issue capital, locked in for 18 months."
+  },
+  {
+    "question": "<b>Topic: Derivatives</b><br>A 'Put Option' gives the buyer the:",
+    "options": ["Right to Buy", "Obligation to Buy", "Right to Sell", "Obligation to Sell"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Option Basics",
+    "explanation": "Call = Right to Buy. Put = Right to Sell. (The buyer has the Right, the seller has the Obligation)."
+  },
+  {
+    "question": "<b>Topic: General Awareness</b><br>The 'Priority Sector Lending' (PSL) target for Domestic Scheduled Commercial Banks in India is ___ of ANBC.",
+    "options": ["18%", "40%", "50%", "75%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Banking Norms",
+    "explanation": "Overall PSL target is 40% of Adjusted Net Bank Credit (ANBC) for domestic commercial banks. (Target is 75% for RRBs/SFBs)."
+  }
+]
