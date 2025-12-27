@@ -1,0 +1,182 @@
+[
+  {
+    "question": "<b>Topic: Costing (Marginal)</b><br>Sales = ₹2,00,000; Variable Cost = ₹1,20,000; Fixed Cost = ₹40,000. Calculate the <b>P/V Ratio</b>.",
+    "options": ["20%", "40%", "50%", "60%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Marginal Costing",
+    "explanation": "Contribution = 2L - 1.2L = 80,000. PV Ratio = (80k / 200k) * 100 = 40%."
+  },
+  {
+    "question": "<b>Topic: Costing (Marginal)</b><br>Using the data above (Sales=2L, VC=1.2L, FC=40k), calculate the <b>Break-Even Point (in Value)</b>.",
+    "options": ["₹80,000", "₹1,00,000", "₹1,20,000", "₹1,50,000"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Marginal Costing",
+    "explanation": "BEP (Value) = Fixed Cost / PV Ratio = 40,000 / 40% = 40,000 / 0.4 = ₹1,00,000."
+  },
+  {
+    "question": "<b>Topic: Costing (Standard)</b><br>Standard Price = ₹10/kg; Actual Price = ₹12/kg; Actual Quantity = 500 kg. Calculate <b>Material Price Variance</b>.",
+    "options": ["₹1000 (F)", "₹1000 (A)", "₹1200 (A)", "₹200 (A)"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Standard Costing",
+    "explanation": "Price Variance = (Std Price - Actual Price) * Actual Qty = (10 - 12) * 500 = -1000 (Adverse)."
+  },
+  {
+    "question": "<b>Topic: Finance (Bonds)</b><br>A bond with Face Value ₹1000 pays a coupon of ₹80 annually. It is trading at ₹900. Calculate the <b>Current Yield</b>.",
+    "options": ["8.00%", "8.88%", "9.12%", "11.11%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Bond Yields",
+    "explanation": "Current Yield = (Coupon / Market Price) * 100 = (80 / 900) * 100 = 8.88%."
+  },
+  {
+    "question": "<b>Topic: Finance (WACC)</b><br>A company has issued 10% Debentures. The tax rate is 30%. Calculate the <b>Post-tax Cost of Debt (Kd)</b>.",
+    "options": ["10%", "3%", "7%", "13%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Cost of Capital",
+    "explanation": "Kd = Interest * (1 - Tax) = 10 * (1 - 0.3) = 7%."
+  },
+  {
+    "question": "<b>Topic: Costing (Marginal)</b><br>Profit = ₹50,000; P/V Ratio = 25%. Calculate the <b>Margin of Safety (Value)</b>.",
+    "options": ["₹1,00,000", "₹1,50,000", "₹2,00,000", "₹12,500"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Marginal Costing",
+    "explanation": "MOS (Value) = Profit / PV Ratio = 50,000 / 0.25 = ₹2,00,000."
+  },
+  {
+    "question": "<b>Topic: Finance (Ratios)</b><br>Current Assets = ₹5,00,000; Inventory = ₹1,00,000; Current Liabilities = ₹2,00,000. Calculate the <b>Quick Ratio</b>.",
+    "options": ["2.5 : 1", "2 : 1", "1.5 : 1", "3 : 1"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Ratio Analysis",
+    "explanation": "Quick Assets = CA - Inventory = 5L - 1L = 4L. Quick Ratio = 4L / 2L = 2 : 1."
+  },
+  {
+    "question": "<b>Topic: Costing (EOQ)</b><br>Annual Demand = 10,000 units; Ordering Cost = ₹50 per order; Carrying Cost = ₹1 per unit p.a. Calculate <b>EOQ</b>.",
+    "options": ["500 units", "707 units", "1000 units", "2000 units"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Material Costing",
+    "explanation": "EOQ = sqrt(2 * 10000 * 50 / 1) = sqrt(10,00,000) = 1000 units."
+  },
+  {
+    "question": "<b>Topic: Finance (CAPM)</b><br>Risk Free Rate = 5%; Market Return = 15%; Beta = 1.2. Calculate <b>Expected Return (Ke)</b>.",
+    "options": ["15%", "16%", "17%", "12%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Valuation",
+    "explanation": "Ke = Rf + B(Rm - Rf) = 5 + 1.2(15 - 5) = 5 + 1.2(10) = 17%."
+  },
+  {
+    "question": "<b>Topic: Costing (Standard)</b><br>Standard Hours = 100; Actual Hours = 110; Standard Rate = ₹20/hr. Calculate <b>Labour Efficiency Variance</b>.",
+    "options": ["₹200 (A)", "₹200 (F)", "₹220 (A)", "₹100 (A)"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Standard Costing",
+    "explanation": "Efficiency Var = (Std Hrs - Actual Hrs) * Std Rate = (100 - 110) * 20 = -200 (Adverse)."
+  },
+  {
+    "question": "<b>Topic: Finance (Ratios)</b><br>Net Profit = ₹20 Lakh; Shareholder's Equity = ₹100 Lakh; Long Term Debt = ₹50 Lakh. Calculate <b>Return on Equity (ROE)</b>.",
+    "options": ["13.33%", "20%", "40%", "10%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Ratio Analysis",
+    "explanation": "ROE = Net Profit / Equity = 20 / 100 = 20%."
+  },
+  {
+    "question": "<b>Topic: Finance (Bonds)</b><br>A Zero Coupon Bond of Face Value ₹100 matures in 2 years. If the market discount rate is 10%, calculate its <b>Present Value (Price)</b>.",
+    "options": ["₹80.5", "₹82.6", "₹90.9", "₹100"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Time Value of Money",
+    "explanation": "PV = FV / (1+r)^n = 100 / (1.1)^2 = 100 / 1.21 = ₹82.64."
+  },
+  {
+    "question": "<b>Topic: Costing (Marginal)</b><br>Fixed Cost = ₹60,000; Profit = ₹40,000; Sales = ₹2,00,000. Calculate the <b>Variable Cost</b>.",
+    "options": ["₹1,00,000", "₹1,40,000", "₹80,000", "₹1,20,000"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Marginal Costing",
+    "explanation": "Sales - VC - FC = Profit. 2L - VC - 60k = 40k. VC = 2L - 100k = ₹1,00,000."
+  },
+  {
+    "question": "<b>Topic: Finance (Ratios)</b><br>COGS = ₹3,00,000; Average Inventory = ₹50,000. Calculate <b>Inventory Turnover Ratio</b>.",
+    "options": ["4 times", "5 times", "6 times", "8 times"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Ratio Analysis",
+    "explanation": "ITR = COGS / Avg Inventory = 3L / 50k = 6 times."
+  },
+  {
+    "question": "<b>Topic: Costing (Standard)</b><br>Standard Qty = 100 kg; Actual Qty = 90 kg; Standard Price = ₹5/kg. Calculate <b>Material Usage Variance</b>.",
+    "options": ["₹50 (A)", "₹50 (F)", "₹45 (F)", "₹10 (F)"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Standard Costing",
+    "explanation": "Usage Var = (Std Qty - Actual Qty) * Std Price = (100 - 90) * 5 = +50 (Favorable)."
+  },
+  {
+    "question": "<b>Topic: Finance (Leverage)</b><br>EBIT = ₹1,00,000; Interest = ₹20,000. Calculate the <b>Degree of Financial Leverage (DFL)</b>.",
+    "options": ["1.2", "1.25", "0.8", "5.0"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Leverage",
+    "explanation": "DFL = EBIT / EBT = 1,00,000 / (1,00,000 - 20,000) = 1L / 80k = 1.25."
+  },
+  {
+    "question": "<b>Topic: Costing (Marginal)</b><br>Two machines have the same variable cost ratio. Machine A has Fixed Cost ₹20k, Machine B has Fixed Cost ₹30k. What is the Indifference Point?",
+    "options": ["Depends on Sales", "Zero", "Undefined (Parallel lines)", "50,000 units"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Decision Making",
+    "explanation": "If VC ratio is same, the Contribution lines are parallel. They never intersect. Indifference point is undefined (or impossible)."
+  },
+  {
+    "question": "<b>Topic: Finance (Ratios)</b><br>Price per Share = ₹200; Earnings Per Share (EPS) = ₹10. Calculate the <b>P/E Ratio</b>.",
+    "options": ["10", "20", "5", "0.05"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Valuation",
+    "explanation": "P/E = MPS / EPS = 200 / 10 = 20."
+  },
+  {
+    "question": "<b>Topic: Costing (Labour)</b><br>Standard Rate = ₹50; Actual Rate = ₹55; Actual Hours = 1000. Calculate <b>Labour Rate Variance</b>.",
+    "options": ["₹5000 (A)", "₹5000 (F)", "₹5500 (A)", "₹500 (A)"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Standard Costing",
+    "explanation": "Rate Var = (Std Rate - Actual Rate) * Actual Hours = (50 - 55) * 1000 = -5000 (Adverse)."
+  },
+  {
+    "question": "<b>Topic: Finance (WACC)</b><br>Equity = 60%, Debt = 40%. Cost of Equity = 15%, Post-tax Cost of Debt = 8%. Calculate <b>WACC</b>.",
+    "options": ["11.5%", "12.2%", "13.0%", "10.8%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Cost of Capital",
+    "explanation": "WACC = (0.6 * 15) + (0.4 * 8) = 9 + 3.2 = 12.2%."
+  }
+]
