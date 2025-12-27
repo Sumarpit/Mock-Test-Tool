@@ -1,0 +1,182 @@
+[
+  {
+    "question": "<b>Topic: Bonds</b><br>Which of the following bonds will have the highest 'Interest Rate Risk' (Sensitivity to interest rate changes)?",
+    "options": ["High Coupon, Short Maturity", "Low Coupon, Short Maturity", "High Coupon, Long Maturity", "Low Coupon, Long Maturity"],
+    "answer": 3,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Bond Duration",
+    "explanation": "Duration measures interest rate risk. Lower Coupon and Longer Maturity increase Duration, making the bond more sensitive to rate changes."
+  },
+  {
+    "question": "<b>Topic: Risk & Return</b><br>Calculate the Expected Return using CAPM if Risk-Free Rate = 6%, Market Return = 14%, and Beta = 1.5.",
+    "options": ["16%", "18%", "20%", "21%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "CAPM (Numerical)",
+    "explanation": "E(R) = Rf + Beta(Rm - Rf) = 6 + 1.5(14 - 6) = 6 + 1.5(8) = 6 + 12 = 18%."
+  },
+  {
+    "question": "<b>Topic: Markets</b><br>In the Book Building process for an IPO, the difference between the Floor Price and the Cap Price (Price Band) cannot exceed:",
+    "options": ["10%", "15%", "20%", "25%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Primary Market",
+    "explanation": "SEBI regulations state that the Cap Price shall not exceed 120% of the Floor Price (i.e., a 20% spread)."
+  },
+  {
+    "question": "<b>Topic: Derivatives</b><br>A 'European Option' can be exercised:",
+    "options": ["At any time up to the expiration date", "Only on the expiration date", "Only if the price crosses a barrier", "At any time after a lock-in period"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Options",
+    "explanation": "European Options can be exercised ONLY on the maturity date. American Options can be exercised anytime before maturity."
+  },
+  {
+    "question": "<b>Topic: Money Market</b><br>What is the minimum denomination for issuing Commercial Paper (CP) in India?",
+    "options": ["₹1 Lakh", "₹5 Lakh", "₹25,000", "₹1 Crore"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Money Market Instruments",
+    "explanation": "Commercial Papers are issued in denominations of ₹5 Lakh or multiples thereof."
+  },
+  {
+    "question": "<b>Topic: Bond Yields</b><br>If a bond is trading at a 'Discount' (Market Price < Face Value), which of the following relationships is TRUE?",
+    "options": ["Coupon Rate > Current Yield > YTM", "YTM > Current Yield > Coupon Rate", "Current Yield > YTM > Coupon Rate", "YTM = Coupon Rate"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Bond Yields",
+    "explanation": "When Price < FV, you get capital appreciation plus interest. Hence, YTM (Total Return) > Current Yield > Coupon Rate."
+  },
+  {
+    "question": "<b>Topic: Derivatives</b><br>In a Futures Contract, the 'Initial Margin' is collected to:",
+    "options": ["Pay the exchange fee", "Cover the potential daily loss", "Initiate the contract as a performance guarantee", "Pay the broker's commission"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Futures Margins",
+    "explanation": "Initial Margin is the collateral required to open a position, acting as a performance guarantee to handle counterparty risk."
+  },
+  {
+    "question": "<b>Topic: Risk</b><br>'Systematic Risk' refers to:",
+    "options": ["Risk specific to a company (e.g., Strike)", "Risk that can be eliminated by diversification", "Market-wide risk affecting all firms (e.g., Inflation)", "Default risk of a borrower"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Risk Management",
+    "explanation": "Systematic Risk (Non-diversifiable) affects the entire market (War, Interest Rates, Inflation). Unsystematic risk is firm-specific."
+  },
+  {
+    "question": "<b>Topic: Regulators</b><br>Which of the following entities is regulated by the Reserve Bank of India (RBI)?",
+    "options": ["Mutual Funds", "Insurance Companies", "Primary Dealers", "Commodity Derivatives"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Regulatory Bodies",
+    "explanation": "Primary Dealers dealing in Govt Securities are regulated by RBI. Mutual Funds (SEBI), Insurance (IRDAI), Commodities (SEBI)."
+  },
+  {
+    "question": "<b>Topic: Bond Math</b><br>What is the 'Macaulay Duration' of a Zero-Coupon Bond?",
+    "options": ["Zero", "Equal to its Maturity", "Less than its Maturity", "Greater than its Maturity"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Duration",
+    "explanation": "Since a ZCB has only one cash flow at the end, its weighted average time to receive cash flows (Duration) is exactly equal to its maturity."
+  },
+  {
+    "question": "<b>Topic: Derivatives</b><br>A 'Call Option' is said to be 'In-The-Money' (ITM) when:",
+    "options": ["Strike Price > Spot Price", "Spot Price > Strike Price", "Spot Price = Strike Price", "Premium = 0"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Option Moneyness",
+    "explanation": "For a Call Option (Right to Buy), it is profitable (ITM) if the Current Market Price (Spot) is higher than the agreed Buying Price (Strike)."
+  },
+  {
+    "question": "<b>Topic: Basics</b><br>According to the 'Rule of 72', if the interest rate is 8%, how many years will it take for money to double?",
+    "options": ["8 years", "9 years", "10 years", "12 years"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Time Value of Money",
+    "explanation": "Years to Double ≈ 72 / Rate. 72 / 8 = 9 years."
+  },
+  {
+    "question": "<b>Topic: Markets</b><br>What is 'ASBA' in the context of Primary Markets?",
+    "options": ["Association of Securities Brokers Association", "Application Supported by Blocked Amount", "Allotment System for Bond Application", "Authorized Securities Buying Agent"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Primary Market Mechanisms",
+    "explanation": "ASBA (Application Supported by Blocked Amount) ensures money leaves the investor's account only when shares are allotted."
+  },
+  {
+    "question": "<b>Topic: International Finance</b><br>'Masala Bonds' are:",
+    "options": ["Dollar denominated bonds issued in India", "Rupee denominated bonds issued outside India", "Euro denominated bonds issued in India", "Gold bonds issued by RBI"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Instruments",
+    "explanation": "Masala Bonds are Rupee-denominated borrowings by Indian entities in overseas markets."
+  },
+  {
+    "question": "<b>Topic: Ratios</b><br>Which ratio measures a company's ability to meet its long-term debt obligations?",
+    "options": ["Current Ratio", "Interest Coverage Ratio", "Inventory Turnover Ratio", "P/E Ratio"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Financial Ratios",
+    "explanation": "Interest Coverage Ratio (EBIT / Interest) measures solvency/ability to service debt. Current Ratio is for short-term liquidity."
+  },
+  {
+    "question": "<b>Topic: Money Market</b><br>Treasury Bills (T-Bills) are issued by the Govt of India for which of the following tenures?",
+    "options": ["14, 91, 182 days", "91, 182, 364 days", "14, 182, 364 days", "60, 90, 180 days"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Money Market Instruments",
+    "explanation": "Currently, T-Bills are issued in 91-day, 182-day, and 364-day tenures. (14-day T-Bills were discontinued)."
+  },
+  {
+    "question": "<b>Topic: Derivatives</b><br>The party taking a 'Short Position' in a Futures contract expects the price to:",
+    "options": ["Rise", "Fall", "Remain Constant", "Fluctuate wildly"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Futures Basics",
+    "explanation": "Short Position = Selling. You sell when you expect prices to Fall (Bearish view)."
+  },
+  {
+    "question": "<b>Topic: Risk</b><br>Beta ($\beta$) is a measure of:",
+    "options": ["Unsystematic Risk", "Total Risk", "Systematic Risk", "Liquidity Risk"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Risk Metrics",
+    "explanation": "Beta measures Systematic (Market) Risk. Standard Deviation measures Total Risk."
+  },
+  {
+    "question": "<b>Topic: Bond Yields</b><br>A bond with a face value of ₹1000 and a coupon rate of 10% is trading at ₹1250. What is its Current Yield?",
+    "options": ["8%", "10%", "12.5%", "8.5%"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Bond Yields (Numerical)",
+    "explanation": "Current Yield = (Annual Coupon / Current Market Price) * 100. Coupon = 10% of 1000 = 100. CY = (100 / 1250) * 100 = 8%."
+  },
+  {
+    "question": "<b>Topic: Basics</b><br>Which form of Market Efficiency implies that all public and private information is already reflected in the stock price?",
+    "options": ["Weak Form", "Semi-Strong Form", "Strong Form", "Efficient Form"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Efficient Market Hypothesis",
+    "explanation": "Strong Form Efficiency asserts that prices reflect ALL information (Public + Private/Insider). Semi-strong reflects all Public info."
+  }
+]
