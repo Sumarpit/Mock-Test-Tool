@@ -1,0 +1,182 @@
+[
+  {
+    "question": "<b>Topic: Share Capital</b><br>A company forfeited 1,000 shares of ₹10 each (₹8 called up) for non-payment of allotment money of ₹3 per share. Application money of ₹2 was received. What amount will be credited to the 'Share Forfeiture Account'?",
+    "options": ["₹2,000", "₹3,000", "₹5,000", "₹8,000"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Forfeiture of Shares",
+    "explanation": "Share Forfeiture A/c is credited with the amount *actually received*. Amount received = 1,000 shares * ₹2 (Application) = ₹2,000."
+  },
+  {
+    "question": "<b>Topic: Accounting Standards</b><br>Which Accounting Standard deals with 'Revenue Recognition'?",
+    "options": ["AS 2", "AS 9", "AS 10", "AS 3"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Accounting Standards",
+    "explanation": "AS 9 deals with Revenue Recognition. (AS 2: Inventory, AS 10: PPE, AS 3: Cash Flow)."
+  },
+  {
+    "question": "<b>Topic: Cash Flow</b><br>Interest paid by a non-financial company is classified under which activity in the Cash Flow Statement (AS 3)?",
+    "options": ["Operating Activity", "Investing Activity", "Financing Activity", "Extraordinary Activity"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Cash Flow Statement",
+    "explanation": "For a non-financial firm, Interest Paid is a cost of finance, hence a Financing Activity. (Interest Received would be Investing)."
+  },
+  {
+    "question": "<b>Topic: Ratios</b><br>If Current Ratio is 2.5, Liquid Ratio is 1.5, and Working Capital is ₹60,000, calculate the value of **Inventory**.",
+    "options": ["₹20,000", "₹40,000", "₹60,000", "₹1,00,000"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Ratio Analysis",
+    "explanation": "CR = CA/CL = 2.5; LR = (CA-Inv)/CL = 1.5. Diff (Inv/CL) = 1. Working Cap = CA - CL = 1.5 CL = 60k => CL = 40k. Inv = 1 * CL = ₹40,000."
+  },
+  {
+    "question": "<b>Topic: Concepts</b><br>The policy of 'anticipate no profit and provide for all possible losses' arises due to which accounting concept?",
+    "options": ["Consistency", "Conservatism (Prudence)", "Materiality", "Matching"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Accounting Concepts",
+    "explanation": "Conservatism (or Prudence) dictates that expenses/liabilities should be recorded as soon as probable, but revenues only when realized."
+  },
+  {
+    "question": "<b>Topic: Share Capital</b><br>When shares are re-issued, the discount allowed on re-issue CANNOT exceed:",
+    "options": ["10% of Face Value", "The amount previously forfeited on those shares", "The Called-up value", "The Face Value"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Re-issue of Shares",
+    "explanation": "Max discount on re-issue is limited to the amount standing to the credit of Share Forfeiture A/c for those specific shares."
+  },
+  {
+    "question": "<b>Topic: Final Accounts</b><br>Preliminary Expenses are an example of:",
+    "options": ["Capital Expenditure", "Revenue Expenditure", "Deferred Revenue Expenditure", "Intangible Asset"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Expenditure Types",
+    "explanation": "Preliminary Expenses (incorporation costs) are fictitious assets or Deferred Revenue Expenditure, usually written off over time."
+  },
+  {
+    "question": "<b>Topic: Accounting Standards</b><br>AS 10 (Property, Plant and Equipment) does NOT apply to:",
+    "options": ["Land", "Biological Assets (Livestock)", "Buildings", "Machinery"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "AS 10",
+    "explanation": "AS 10 excludes Biological Assets related to agricultural activity (except bearer plants) and Wasting Assets (mines)."
+  },
+  {
+    "question": "<b>Topic: Bonus Shares</b><br>Which of the following reserves CANNOT be used for issuing fully paid Bonus Shares?",
+    "options": ["Capital Redemption Reserve", "Securities Premium", "General Reserve", "Revaluation Reserve"],
+    "answer": 3,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Bonus Issue",
+    "explanation": "Revaluation Reserve is an unrealized gain (book adjustment) and cannot be capitalized to issue bonus shares."
+  },
+  {
+    "question": "<b>Topic: Ratios</b><br>Debt-Equity Ratio is a measure of:",
+    "options": ["Short-term Liquidity", "Long-term Solvency", "Profitability", "Activity/Efficiency"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Ratio Analysis",
+    "explanation": "Debt-Equity measures the relationship between external debt and internal equity, indicating long-term financial stability (Solvency)."
+  },
+  {
+    "question": "<b>Topic: Buy-Back</b><br>According to the Companies Act, the buy-back of equity shares in any financial year shall not exceed ___ of the total paid-up equity capital of the company.",
+    "options": ["10%", "15%", "25%", "50%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Buy-Back of Shares",
+    "explanation": "Maximum buy-back in a year is 25% of total paid-up capital and free reserves. (Though for equity specifically, the 25% cap applies)."
+  },
+  {
+    "question": "<b>Topic: Inventory</b><br>According to AS 2, Inventories should be valued at:",
+    "options": ["Cost Price", "Market Price", "Lower of Cost or Net Realizable Value (NRV)", "Higher of Cost or NRV"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "AS 2 Valuation",
+    "explanation": "Prudence dictates inventory is valued at Lower of Cost or NRV."
+  },
+  {
+    "question": "<b>Topic: Depreciation</b><br>Which method of depreciation is prohibited under the Income Tax Act but allowed under Companies Act?",
+    "options": ["Straight Line Method (SLM)", "Written Down Value (WDV)", "Sum of Years Digits", "Machine Hour Rate"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Depreciation",
+    "explanation": "Income Tax Act generally mandates WDV (Block of Assets). SLM is allowed for Power Generating Units only. Companies Act allows SLM/WDV."
+  },
+  {
+    "question": "<b>Topic: ESOP</b><br>The difference between the Market Price and the Exercise Price of an option granted to an employee is called:",
+    "options": ["Option Premium", "Intrinsic Value", "Fair Value", "Vesting Cost"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "ESOP Accounting",
+    "explanation": "Intrinsic Value = Market Price - Exercise Price. This represents the immediate gain to the employee."
+  },
+  {
+    "question": "<b>Topic: Ratios</b><br>Cost of Goods Sold (COGS) = ₹4,00,000; Gross Profit Ratio = 20% on Sales. Calculate **Sales**.",
+    "options": ["₹4,80,000", "₹5,00,000", "₹5,20,000", "₹4,20,000"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Profit Ratios",
+    "explanation": "If GP is 20% on Sales, COGS is 80% of Sales. Sales = COGS / 0.8 = 4,00,000 / 0.8 = ₹5,00,000."
+  },
+  {
+    "question": "<b>Topic: Accounting Standards</b><br>AS 26 deals with which of the following?",
+    "options": ["Earnings Per Share", "Intangible Assets", "Impairment of Assets", "Investments"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "AS List",
+    "explanation": "AS 26 covers Intangible Assets. (AS 20: EPS, AS 28: Impairment, AS 13: Investments)."
+  },
+  {
+    "question": "<b>Topic: Cash Flow</b><br>Dividend received by a mutual fund company is classified as:",
+    "options": ["Operating Activity", "Investing Activity", "Financing Activity", "None of the above"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Cash Flow Statement",
+    "explanation": "For a financial enterprise (Mutual Fund), investing in securities is the core business. Hence, Dividend Received is Operating Activity."
+  },
+  {
+    "question": "<b>Topic: Errors</b><br>Purchase of office furniture for ₹5,000 was debited to the 'Purchases Account'. This is an error of:",
+    "options": ["Omission", "Commission", "Principle", "Compensating Error"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Rectification of Errors",
+    "explanation": "Treating a Capital Expenditure (Furniture) as Revenue Expenditure (Purchases) violates accounting principles. Hence, Error of Principle."
+  },
+  {
+    "question": "<b>Topic: Share Capital</b><br>Balance in the 'Share Forfeiture Account' after re-issue of forfeited shares is transferred to:",
+    "options": ["General Reserve", "Capital Reserve", "Securities Premium", "Profit & Loss Account"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Forfeiture",
+    "explanation": "The net profit on re-issue (Amount forfeited - Discount given) is a Capital Profit and transferred to Capital Reserve."
+  },
+  {
+    "question": "<b>Topic: Ratios</b><br>Which of the following is a non-cash expense added back to Net Profit while calculating Cash Flow from Operations?",
+    "options": ["Dividend Paid", "Tax Paid", "Depreciation", "Salary Paid"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Accountancy",
+    "topic": "Cash Flow Indirect Method",
+    "explanation": "Depreciation is a non-cash expense deducted to find Net Profit. To find Cash Profit, it must be added back."
+  }
+]
