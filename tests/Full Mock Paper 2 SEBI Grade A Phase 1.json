@@ -314,5 +314,231 @@
     "section": "Management",
     "topic": "Controlling",
     "explanation": "Stages: Standards → Measurement → Comparison → Correction. 'Finalising measurements' is not a distinct stage. <br><b>EXAMINER'S TRAP:</b> Corrective action is the most critical final step; the process is incomplete without it."
+  },
+  {
+    "question": "<b>Topic: IPO Stabilization</b><br>Under the guidelines for price stabilization in an initial public offering (IPO), what is the maximum percentage of shares that the promoter is required to lend for price stabilization, and who typically carries out the stabilization?",
+    "options": ["10% of the issue size, carried out by the company's financial auditor.", "20% of the issue size, carried out by the company's internal committee.", "15% of the issue size, carried out by a stabilizing agent", "5% of the issue size, carried out by an external legal advisor.", "25% of the issue size, carried out by a regulatory body."],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "IPO Mechanics",
+    "explanation": "The promoter must lend up to <b>15%</b> of the issue size to a stabilizing agent (typically a merchant banker).<br><b>EXAMINER'S TRAP:</b> Do not confuse this with the 25% minimum public shareholding or the 20% promoter contribution lock-in."
+  },
+  {
+    "question": "<b>Topic: Marginal Costing</b><br>A company has sales of ₹1,00,00,000, profit of ₹2,00,000, and fixed assets worth ₹ 18,00,000. What is the PV Ratio?",
+    "options": ["15%", "30%", "25%", "20%", "35%"],
+    "answer": 3,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Marginal Costing",
+    "explanation": "<b>Formula:</b> PV Ratio = (Contribution / Sales) × 100. In the absence of VC, assume Profit = Contribution. Calculation: 2,00,000 / 10,00,000 = 0.20 or <b>20%</b>.<br><b>EXAMINER'S TRAP:</b> Fixed Assets are noise; ignore them in PV Ratio calculations."
+  },
+  {
+    "question": "<b>Topic: Balance of Trade</b><br>What situation is indicated by a deficit on the Balance of Trade (BOT)?",
+    "options": ["The value of exports of goods is greater than the value of imports of goods.", "The value of imports of goods is equal to the value of exports of goods.", "The value of imports of goods is greater than the value of exports of goods.", "The net value of invisible exports exceeds the net value of invisible imports.", "The nation's receipts on the current account are equal to its payments on the current account."],
+    "answer": 2,
+    "marks": 1,
+    "section": "Economics",
+    "topic": "Balance of Payments",
+    "explanation": "A BOT deficit (Trade Deficit) occurs strictly when <b>Imports of Goods > Exports of Goods</b>.<br><b>EXAMINER'S TRAP:</b> BOT only includes 'visible' trade; 'invisibles' (services) belong to the Balance of Payments (BOP) Current Account, not BOT."
+  },
+  {
+    "question": "<b>Topic: Management Principles</b><br>What term did Fayol use to express the idea that teamwork is essential for achieving objectives and that 'In union, there is strength'?",
+    "options": ["Unity of Command", "Strike", "Esprit de Corps", "Unity of Direction", "Authority"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Fayol's Principles",
+    "explanation": "<b>Esprit de Corps</b> refers to team spirit and harmony within the organization.<br><b>EXAMINER'S TRAP:</b> Do not confuse with 'Unity of Direction,' which focuses on 'one head, one plan' rather than team morale."
+  },
+  {
+    "question": "<b>Topic: Maintenance</b><br>Which of the following statements is/are TRUE in regards to the Total Productive Maintenance (TPM)?<br>I. It is a system of maintaining and improving the integrity of production and quality systems only<br>II. It is done through the machines, equipment, processes, and employees<br>III. It helps in keeping all equipment in top working condition",
+    "options": ["Only I", "Only II", "Only III", "Only I and II", "Only II and III"],
+    "answer": 4,
+    "marks": 1,
+    "section": "Management",
+    "topic": "TPM",
+    "explanation": "TPM involves employees and machines to maintain top working condition to avoid delays.<br><b>BRUTAL FACT:</b> Statement I is too restrictive ('only'); TPM integrates production, quality, and maintenance."
+  },
+  {
+    "question": "<b>Topic: Decision Making</b><br>The ___________ is the tendency to fix on the initial information as the starting point for making a decision, and the failure to adjust for subsequent information as it's collected.",
+    "options": ["Anchoring bias", "Overconfidence bias", "Confirmation Bias", "Hindsight bias", "Availability bias"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Biases",
+    "explanation": "<b>Anchoring bias</b> locks the mind onto the first piece of data received.<br><b>EXAMINER'S TRAP:</b> Confirmation bias is looking for data that supports your belief; Anchoring is being stuck on the *initial* data point regardless of new evidence."
+  },
+  {
+    "question": "<b>Topic: Companies Act</b><br>Based on the Companies Act, 2013, determine the correct statements related to private placement of securities.<br>II. Offer or invitation for private placement can be made to not more than 200 persons in aggregate in a financial year, excluding QIB and employees under stock option schemes.<br>IV. The monies received from private placement must be kept in a separate bank account and used only for allotment or refund.",
+    "options": ["Statements I and III are correct", "Statements II and IV are correct", "Statements III and V are correct", "Statements II and V are correct", "Statements I and IV are correct"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Private Placement",
+    "explanation": "<b>Limit:</b> 200 persons/year. <b>Bank Account:</b> Must be separate.<br><b>EXAMINER'S TRAP:</b> Allotment must be made within <b>60 days</b>, not 45 or 30 days."
+  },
+  {
+    "question": "<b>Topic: Costing Methods</b><br>The only difference between job costing & batch costing is that, in batch costing, a number of items are costed together as ______, instead of ______.",
+    "options": ["Multiple units, a single item", "A Single unit, a single item", "A single item, multiple items", "Multiple units, multiple items", "Multiple units; composite items"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Methods of Costing",
+    "explanation": "Job costing focuses on a single unit/job; Batch costing groups <b>multiple units</b> together as one cost unit.<br><b>LOGIC:</b> Treat a 'batch' as a single macro-gate for costing purposes."
+  },
+  {
+    "question": "<b>Topic: SEBI Preamble</b><br>A preamble is the introductory part of a constitution or statute that usually states the reasons for and intent of the law. What is the preamble of SEBI?",
+    "options": ["To protect the interests of investors in securities and it does not promote the development of, and to regulate the securities market...", "To protect the interests of banks in money and to promote the development of...", "To protect the interests of investors in securities and to promote the development of, and to regulate the securities market...", "To protect the interests of investors in agriculture...", "To protect the interests of investors in MSME..."],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "SEBI Act",
+    "explanation": "<b>The Triad Objective:</b> Protect investors + Promote development + Regulate the market.<br><b>EXAMINER'S TRAP:</b> Often options omit one of the three pillars; all three are essential."
+  },
+  {
+    "question": "<b>Topic: Adjustments</b><br>A company needs to make the following adjustment entries: Accrued Wages: ₹4,000; Prepaid Rent: ₹3,000. How should these adjustments be reflected?",
+    "options": ["Increase expenses by ₹4,000, Decrease assets by ₹3,000", "Increase liabilities by ₹4,000, Increase assets by ₹3,000", "Increase expenses by ₹4,000, Increase liabilities by ₹3,000", "Decrease expenses by ₹4,000 , Decrease assets by ₹3,000", "None of the above"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Accounts",
+    "topic": "Accounting Process",
+    "explanation": "<b>Accrued Wages</b> = Liability (Outstanding). <b>Prepaid Rent</b> = Asset.<br><b>BRUTAL LOGIC:</b> Outstanding increases CL; Prepaid increases CA. Correct Answer is B."
+  },
+  {
+    "question": "<b>Topic: Group Decision Making</b><br>Which of the following techniques is a structured method for group brainstorming that encourages contributions from everyone and facilitates quick agreement on the relative importance of issues?",
+    "options": ["Programme Evaluation Review Technique", "Decision Trees", "Brainstorming", "Nominal Group Technique", "None of the above"],
+    "answer": 3,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Group Dynamics",
+    "explanation": "<b>Nominal Group Technique (NGT)</b> uses silent ideation followed by structured voting to reach consensus.<br><b>EXAMINER'S TRAP:</b> General 'Brainstorming' is unstructured; NGT is the structured alternative for 'quick agreement'."
+  },
+  {
+    "question": "<b>Topic: Option Valuation</b><br>Current stock price is ₹100, strike price is ₹90, option premium is ₹15. What is the time value of the call option?",
+    "options": ["₹10", "₹15", "₹20", "₹5", "₹0"],
+    "answer": 3,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Derivatives",
+    "explanation": "<b>Formula:</b> Time Value = Premium - Intrinsic Value. <br><b>Calculation:</b> Intrinsic = 100 - 90 = 10. Time Value = 15 - 10 = <b>₹5</b>.<br><b>EXAMINER'S TRAP:</b> If the option is out-of-the-money, Intrinsic Value is 0 (never negative)."
+  },
+  {
+    "question": "<b>Topic: Green Shoe Option</b><br>Which of the following effects does the green shoe option have on the market and the reputation of the issuer and underwriter?",
+    "options": ["It guarantees the shares will always trade above the offer price.", "It allows underwriters to control the final offer size based on market demand, minimizing reputational risk if shares trade below the offer price.", "It ensures that the share price will double in the immediate aftermath of the IPO.", "It reduces the need for the issuer to engage in buybacks to support the share price.", "It minimizes the underwriters’ fees by allowing them to sell fewer shares."],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "IPO Stabilization",
+    "explanation": "Green shoe options provide a price support mechanism by allowing underwriters to buy back shares from the market to prevent prices from crashing.<br><b>LIMIT:</b> 15% of the original issue size."
+  },
+  {
+    "question": "<b>Topic: Inflation Indices</b><br>Which of the following statements is true regarding the Wholesale Price Index (WPI) and the Producer Price Index (PPI)?",
+    "options": ["WPI includes prices received by the producer and excludes indirect taxes...", "The weight of an item in PPI is based on net traded value, whereas in WPI weights are derived from Supply.", "PPI removes the multiple counting bias inherent in WPI, and WPI does not cover services while PPI includes services.", "WPI measures the average change in prices received by the producer...", "Both WPI and PPI include indirect taxes and distribution costs..."],
+    "answer": 2,
+    "marks": 1,
+    "section": "Economics",
+    "topic": "Inflation",
+    "explanation": "<b>PPI</b> is technically superior as it removes 'multiple counting' (tax-on-tax/value added stages) and <b>includes services</b>, unlike WPI."
+  },
+  {
+    "question": "<b>Topic: Contract Costing</b><br>Retention money provides a safeguard against the risk of loss due to faulty workmanship. Retention money equals to:",
+    "options": ["Value of work certified + Payment actually made", "Value of work certified - value of work not certified", "Retention Money = Value of work certified - Payment actually made", "Value of work certified + value of work not certified", "None of the above"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Methods of Costing",
+    "explanation": "<b>Retention Money = Value of Work Certified - Cash Paid.</b><br><b>LOGIC:</b> It is the 'Security Deposit' withheld by the contractee to ensure compliance."
+  },
+  {
+    "question": "<b>Topic: Cash Flow (Indirect)</b><br>While calculating cash flow from operating activities using the indirect method, which of the following adjustments is incorrectly applied?",
+    "options": ["Add back depreciation.", "Subtract profit on sale of fixed assets.", "Add interest received as it is related to operating activities.", "Subtract foreign exchange gain.", "Subtract dividend received."],
+    "answer": 2,
+    "marks": 1,
+    "section": "Accounts",
+    "topic": "Cash Flow Statement",
+    "explanation": "<b>Interest Received</b> is an <b>Investing Activity</b>. It must be subtracted from net profit to find 'Operating' cash flow.<br><b>EXAMINER'S TRAP:</b> For finance companies, interest is operating; for normal firms, it is investing."
+  },
+  {
+    "id": 42,
+    "question": "<b>Topic: Material Costing</b><br>Read data: Opening RM: 13,500; Purchase: 70,000; RM Expenses: 22,500; Closing RM: 17,500. Calculate total raw material consumed.",
+    "options": ["89,000", "55,500", "65,000", "88,500", "98,500"],
+    "answer": 3,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Material Cost",
+    "explanation": "<b>Formula:</b> Consumed = Opening + Purchase + RM Expenses - Closing. <br><b>Calculation:</b> 13,500 + 70,000 + 22,500 - 17,500 = <b>88,500</b>."
+  },
+  {
+    "question": "<b>Topic: Auditor Appointment</b><br>What is the maximum duration within which the Comptroller and Auditor-General of India (CAG) must appoint the first auditor for a Government Company after its registration?",
+    "options": ["30 days", "45 days", "60 days", "90 days", "120 days"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Companies Act",
+    "topic": "Audit and Auditors",
+    "explanation": "For Govt Companies, the CAG has <b>60 Days</b> to appoint the first auditor.<br><b>EXAMINER'S TRAP:</b> For non-govt companies, the Board appoints within 30 days."
+  },
+  {
+    "question": "<b>Topic: Non-Verbal Communication</b><br>Maria adjusted her tone, pitch, and vocal cues. What communication technique did she use?",
+    "options": ["Paralinguistics", "Proxemics", "Kinesics", "Chronemics", "Artifacts"],
+    "answer": 0,
+    "marks": 1,
+    "section": "Management",
+    "topic": "Communication",
+    "explanation": "<b>Paralinguistics:</b> How you speak (pitch, volume, speed). <b>Proxemics:</b> Space. <b>Kinesics:</b> Body language."
+  },
+  {
+    "question": "<b>Topic: Consumption Function</b><br>If C = 50 + 0.8Y and income (Y) is ₹1000, then consumption is:",
+    "options": ["Rs 50", "Rs 1050", "Rs 250", "Rs 850", "Rs 800"],
+    "answer": 3,
+    "marks": 1,
+    "section": "Economics",
+    "topic": "National Income",
+    "explanation": "<b>Calculation:</b> 50 + (0.8 * 1000) = 50 + 800 = <b>850</b>.<br><b>LOGIC:</b> MPC is 0.8; Savings would be (1000 - 850) = 150."
+  },
+  {
+    "question": "<b>Topic: Asset Impairment</b><br>As per the AS 28, which of the following is an internal indicator of 'Asset Impairment'?",
+    "options": ["Change in technology leading to decline in value", "Increased market interest rate", "Restriction on the use of the asset due to legal matters", "Physical damage of the assets", "Carrying amount > Market cap"],
+    "answer": 3,
+    "marks": 1,
+    "section": "Accounts",
+    "topic": "Accounting Standards",
+    "explanation": "<b>Internal Indicators:</b> Physical damage, obsolescence, restructuring.<br><b>EXAMINER'S TRAP:</b> Market interest rates and technology shifts are <b>External</b> indicators."
+  },
+  {
+    "question": "<b>Topic: Prime Cost</b><br>RM consumed: 88,500; Direct labor: 32,500; Direct expenses: 23,400. Compute Prime cost.",
+    "options": ["1,34,400", "1,44,000", "1,42,400", "88,500", "1,44,400"],
+    "answer": 4,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Cost Sheet",
+    "explanation": "<b>Formula:</b> Prime Cost = Direct Material + Direct Labor + Direct Expenses. <br><b>Calculation:</b> 88,500 + 32,500 + 23,400 = <b>1,44,400</b>."
+  },
+  {
+    "question": "<b>Topic: IS-LM Curve</b><br>The IS-LM model shows the market for economic goods (IS) interacts with the loanable funds market (LM). Which statement is correct?",
+    "options": ["Investment has a negative relationship with the rate of interest.", "Investment curve is negatively sloped.", "Savings curve is positively sloped.", "None of the above", "All the above"],
+    "answer": 4,
+    "marks": 1,
+    "section": "Economics",
+    "topic": "Macroeconomics",
+    "explanation": "All are correct. Higher interest rates increase capital costs (Neg. Investment slope), while higher rates incentivize saving (Pos. Savings slope)."
+  },
+  {
+    "question": "<b>Topic: Costing Definitions</b><br>Kohler defines ___________ as 'the expected cost of manufacture... computed on the basis of information available in advance...'",
+    "options": ["Expected Cost", "Estimated Cost", "Standard Cost", "Marginal Cost", "Capitalised Cost"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Costing",
+    "topic": "Basics",
+    "explanation": "<b>Estimated Cost</b> is a prediction/prospective cost.<br><b>EXAMINER'S TRAP:</b> Standard Cost is a 'norm' or target; Estimated Cost is a projection of actuals based on early info."
+  },
+  {
+    "question": "<b>Topic: Keynesian Break-even</b><br>In Keynesian economics, the point where the consumption curve intersects a specific line, indicating income equals consumption and savings are zero, is the:",
+    "options": ["30-degree line", "60-degree line", "45-degree line", "90-degree line", "15-degree line"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Economics",
+    "topic": "National Income",
+    "explanation": "The <b>45-degree line</b> represents Y = C + S. Where the C curve hits this line, S = 0."
   }
 ]
