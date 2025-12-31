@@ -1,0 +1,182 @@
+[
+  {
+    "question": "<b>Topic: National News - Digital Infrastructure</b><br>Which Indian company successfully demonstrated the country's first 500 km Quantum Key Distribution (QKD) network over existing optical fiber?",
+    "options": ["Tata Communications", "QNu Labs", "Reliance Jio", "Airtel"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "National News",
+    "explanation": "QNu Labs achieved a historic milestone by demonstrating India's first 500 km QKD network using existing optical fiber infrastructure."
+  },
+  {
+    "question": "<b>Topic: State News - Industry</b><br>India's first Silicon Carbide (SiC) semiconductor plant has been established by SiCSem in which of the following cities?",
+    "options": ["Bengaluru", "Hyderabad", "Bhubaneswar", "Gandhinagar"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "State News",
+    "explanation": "The first Silicon Carbide (SiC) semiconductor plant in India was set up in Bhubaneswar, Odisha."
+  },
+  {
+    "question": "<b>Topic: Social Indicators</b><br>Which Indian state recently became the first in the country to officially eradicate extreme poverty?",
+    "options": ["Tamil Nadu", "Kerala", "Sikkim", "Goa"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "State News",
+    "explanation": "Kerala has achieved the milestone of becoming the first state in India to eradicate extreme poverty."
+  },
+  {
+    "question": "<b>Topic: Labor Welfare</b><br>Which state government has recently approved one day of paid menstrual leave per month for all women employees?",
+    "options": ["Odisha", "Kerala", "Karnataka", "Maharashtra"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "State News",
+    "explanation": "Karnataka became the first state to approve a mandatory one day of paid menstrual leave per month for all women workers."
+  },
+  {
+    "question": "<b>Topic: Energy & Infrastructure</b><br>India's first MWh-scale Vanadium Redox Flow Battery (VRFB) for long-duration energy storage was inaugurated at which location?",
+    "options": ["NTPC NETRA, Noida", "Kawas, Gujarat", "Ramagundam, Telangana", "Talcher, Odisha"],
+    "answer": 0,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "National News",
+    "explanation": "The MWh-scale Vanadium Redox Flow Battery was inaugurated at NTPC NETRA in Noida to support long-duration energy storage."
+  },
+  {
+    "question": "<b>Topic: International News</b><br>Which country recently became the first in the world to implement a 'generational tobacco ban' by prohibiting sales to anyone born after January 1, 2007?",
+    "options": ["New Zealand", "Maldives", "Sweden", "Bhutan"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "International News",
+    "explanation": "The Maldives has implemented a generational ban on tobacco sales for those born after the start of 2007."
+  },
+  {
+    "question": "<b>Topic: Global Summits</b><br>The G20 Summit in 2025 is scheduled to be hosted in which city?",
+    "options": ["New Delhi", "Rio de Janeiro", "Johannesburg", "Belém"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Summits",
+    "explanation": "The 2025 G20 Summit will be hosted in Johannesburg, South Africa, chaired by Cyril Ramaphosa."
+  },
+  {
+    "question": "<b>Topic: Environmental Indices</b><br>What is India's rank in the Climate Change Performance Index (CCPI) 2026?",
+    "options": ["7th", "10th", "23rd", "85th"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Rankings",
+    "explanation": "India is ranked 23rd in the CCPI 2026. Note that the top three ranks remain vacant as no country met all criteria."
+  },
+  {
+    "question": "<b>Topic: Mobility & Logistics</b><br>Which country launched the 'Arctic Express Route' to reduce East Asia-Europe shipping time to just 18 days?",
+    "options": ["Russia", "China", "Norway", "Canada"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "International News",
+    "explanation": "China launched the Arctic Express Route to significantly cut down shipping times between East Asia and Europe."
+  },
+  {
+    "question": "<b>Topic: Global Wealth Rankings</b><br>According to the Hurun Billionaire Cities 2025 report, which Indian city ranks 3rd globally with 92 billionaires?",
+    "options": ["New Delhi", "Mumbai", "Bengaluru", "Hyderabad"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Rankings",
+    "explanation": "Mumbai is ranked 3rd globally in terms of billionaire residents, following New York and London."
+  },
+  {
+    "question": "<b>Topic: National Initiatives</b><br>The 'e-Jagriti' platform, which supports multilingual AI assistance for consumer grievances, is an initiative of which Ministry?",
+    "options": ["Ministry of Electronics and IT", "Ministry of Consumer Affairs", "Ministry of Law and Justice", "Ministry of Home Affairs"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Initiatives",
+    "explanation": "The e-Jagriti platform is managed by the Ministry of Consumer Affairs to streamline grievance redressal."
+  },
+  {
+    "question": "<b>Topic: Literature Awards</b><br>Who is the winner of the Booker Prize 2025 for the novel <i>Flesh</i>?",
+    "options": ["David Szalay", "Rabih Alameddine", "Omar El Akkad", "Sunil Kant Munjal"],
+    "answer": 0,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Awards",
+    "explanation": "David Szalay won the 2025 Booker Prize for his literary work titled 'Flesh'."
+  },
+  {
+    "question": "<b>Topic: Environmental Conservation</b><br>Which state secured the 1st Rank in the National Water Awards 2024 for Best State in water conservation?",
+    "options": ["Gujarat", "Haryana", "Maharashtra", "Telangana"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Awards",
+    "explanation": "Maharashtra ranked 1st in the National Water Awards 2024, followed by Gujarat and Haryana."
+  },
+  {
+    "question": "<b>Topic: Sports - Cricket</b><br>Which country won its first-ever title at the ICC Women’s World Cup 2025 by defeating South Africa in the final?",
+    "options": ["Australia", "India", "England", "New Zealand"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Sports",
+    "explanation": "India made history by winning its first ICC Women’s World Cup title in 2025 on home soil."
+  },
+  {
+    "question": "<b>Topic: Sports - Milestones</b><br>Raahul VS recently became India's ___ Chess Grandmaster.",
+    "options": ["89th", "90th", "91st", "92nd"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Sports",
+    "explanation": "Raahul VS is the 91st Chess Grandmaster of India, while Ilamparthi AR is the 90th."
+  },
+  {
+    "question": "<b>Topic: Defence - Military Exercises</b><br>Exercise MILAN 2026, a multilateral naval exercise where India is seen as a 'Preferred Security Partner', will be held in:",
+    "options": ["Kochi", "Mumbai", "Visakhapatnam", "Chennai"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Defence",
+    "explanation": "The multilateral Exercise MILAN 2026 is scheduled to take place in Visakhapatnam."
+  },
+  {
+    "question": "<b>Topic: Defence Technology</b><br>The 'Poseidon', recently in the news, is a type of underwater nuclear drone belonging to which country?",
+    "options": ["USA", "China", "Russia", "North Korea"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Defence",
+    "explanation": "Poseidon is an underwater nuclear drone carried by the Khabarovsk. (Note: Source lists it under induction news)."
+  },
+  {
+    "question": "<b>Topic: Regulatory Body Appointments</b><br>Who was recently appointed as a Whole-Time Member (WTM) of the Securities and Exchange Board of India (SEBI)?",
+    "options": ["Justice Surya Kant", "Sandip Pradhan", "Vishvajit Sahay", "Sanjay Garg"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Appointments",
+    "explanation": "Sandip Pradhan has been appointed as a Whole-Time Member of SEBI."
+  },
+  {
+    "question": "<b>Topic: Constitutional Bodies</b><br>Who is the current Chief Justice of India (CJI) as per the November 2025 appointments?",
+    "options": ["Justice Ashok Bhushan", "Justice Vikram Nath", "Justice Surya Kant", "Justice D.Y. Chandrachud"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Appointments",
+    "explanation": "Justice Surya Kant has been appointed as the Chief Justice of India."
+  },
+  {
+    "question": "<b>Topic: International Alliances</b><br>Which country recently became the 6th member of the Colombo Security Conclave?",
+    "options": ["Maldives", "Mauritius", "Seychelles", "Bangladesh"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "International News",
+    "explanation": "Seychelles joined as the 6th member of the Colombo Security Conclave, a key regional security group."
+  }
+]
