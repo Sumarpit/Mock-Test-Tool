@@ -1,0 +1,182 @@
+[
+  {
+    "question": "<b>Topic: SEBI (LODR) Norms</b><br>Under the revised threshold-based framework for Related Party Transactions (RPTs), what is the absolute materiality ceiling (ceiling cap) established for high-turnover entities with a consolidated turnover exceeding ₹40,000 crore?",
+    "options": ["₹1,000 crore", "₹2,000 crore", "₹5,000 crore", "₹10,000 crore"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "SEBI Regulations",
+    "explanation": "For entities with a turnover > ₹40,000 crore, materiality is defined as the lower of ₹5,000 crore or a formula-based amount (₹3,000 crore + 2.5% of turnover exceeding ₹40,000 crore). This ceiling protects minority shareholders.,"
+  },
+  {
+    "question": "<b>Topic: Index Methodology</b><br>SEBI recently revised the norms for non-benchmark indices like Bank Nifty. What is the new minimum number of constituents required for the Bank Nifty index?",
+    "options": ["10", "12", "14", "15"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Primary Market",
+    "explanation": "SEBI increased the minimum number of constituents for the Bank Nifty index from 12 to 14 to reduce concentration risk.,"
+  },
+  {
+    "question": "<b>Topic: Index Weightage</b><br>In the new SEBI framework for non-benchmark indices, what is the maximum permissible weightage for a single stock in indices such as Bank Nifty or FINNIFTY?",
+    "options": ["15%", "20%", "25%", "33%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Finance",
+    "topic": "Primary Market",
+    "explanation": "The weightage cap for a single stock has been reduced from 33% to 20%. Additionally, the top three stocks' combined weight is capped at 45%.,"
+  },
+  {
+    "question": "<b>Topic: Alternative Investment Funds (AIFs)</b><br>SEBI has reduced the minimum investment threshold for Large Value Funds (LVFs) for Accredited Investors. What is the new threshold?",
+    "options": ["₹10 crore", "₹25 crore", "₹50 crore", "₹70 crore"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "AIF Reforms",
+    "explanation": "The minimum investment threshold for LVFs for Accredited Investors was reduced significantly from ₹70 crore to ₹25 crore to encourage participation.,"
+  },
+  {
+    "question": "<b>Topic: FEMA & Trade Finance</b><br>According to the recent RBI FEMA amendments, the timeline for realization and repatriation of full export proceeds has been extended to:",
+    "options": ["6 months", "9 months", "12 months", "15 months"],
+    "answer": 3,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "RBI Guidelines",
+    "explanation": "The realization and repatriation timeline for full export proceeds was extended from 9 months to 15 months.,"
+  },
+  {
+    "question": "<b>Topic: Banking Regulation (Nomination)</b><br>As per the RBI Directions on Nomination Facilities 2025, banks must acknowledge the receipt of nomination forms within how many working days?",
+    "options": ["2 working days", "3 working days", "5 working days", "7 working days"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Banking",
+    "topic": "RBI Directions",
+    "explanation": "Effective November 1, 2025, banks must acknowledge nomination forms (addition, change, or cancellation) within three working days of receipt.,"
+  },
+  {
+    "question": "<b>Topic: Small Finance Banks (SFBs)</b><br>What is the minimum net worth required for a Small Finance Bank (SFB) to be eligible to apply for a transition into a Universal Bank?",
+    "options": ["₹200 crore", "₹500 crore", "₹1,000 crore", "₹2,000 crore"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Banking",
+    "topic": "Universal Banking",
+    "explanation": "To apply for a universal bank license, an SFB must have a minimum net worth of ₹1,000 crore, be listed, and meet specific NPA criteria.,"
+  },
+  {
+    "question": "<b>Topic: Banking Milestones</b><br>Which Public Sector Bank (PSB) became the first to join the $100 billion market capitalization club in 2025?",
+    "options": ["Bank of Baroda", "Punjab National Bank", "State Bank of India", "Canara Bank"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Banking Sector",
+    "explanation": "SBI became the first PSB and the sixth Indian company overall to reach the $100 billion market capitalization milestone."
+  },
+  {
+    "question": "<b>Topic: UPI Circle</b><br>Under the 'UPI Circle' feature, what is the maximum monthly spending limit a primary user can delegate to a secondary user?",
+    "options": ["₹5,000", "₹10,000", "₹15,000", "₹25,000"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Banking",
+    "topic": "Fintech",
+    "explanation": "Primary users can delegate independent payment authority to secondary users for up to ₹15,000 per month for a maximum duration of 5 years.,"
+  },
+  {
+    "question": "<b>Topic: Macro Indicators</b><br>In October 2025, India's headline CPI inflation reached which of the following significant values?",
+    "options": ["0.25%", "2.50%", "4.00%", "6.10%"],
+    "answer": 0,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Economic Indicators",
+    "explanation": "Headline CPI inflation in October 2025 was recorded at 0.25%, which is the lowest in the current series."
+  },
+  {
+    "question": "<b>Topic: Government Outlays</b><br>What is the total budgetary outlay for the Pradhan Mantri Viksit Bharat Rozgar Yojana (PMVBRY) launched in 2025?",
+    "options": ["₹25,060 crore", "₹76,000 crore", "₹93,068 crore", "₹99,446 crore"],
+    "answer": 3,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Government Schemes",
+    "explanation": "PMVBRY, aimed at promoting employment in the manufacturing sector, has a total outlay of ₹99,446 crore.,"
+  },
+  {
+    "question": "<b>Topic: Capital Markets Data</b><br>As of October 2025, the total number of live demat accounts across NSDL and CDSL reached a historic milestone of:",
+    "options": ["10 crore", "15 crore", "21 crore", "25 crore"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Market Statistics",
+    "explanation": "Driven by the IPO boom, live demat accounts reached a historic milestone of 21 crore in October 2025.,"
+  },
+  {
+    "question": "<b>Topic: Foreign Exchange</b><br>What was the total value of India's Foreign Exchange Reserves as of end-September 2025?",
+    "options": ["$500.09 billion", "$600.09 billion", "$700.09 billion", "$800.09 billion"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "External Sector",
+    "explanation": "India's FX reserves stood at $700.09 billion at the end of September 2025, providing an import cover of roughly 11.4 months.,"
+  },
+  {
+    "question": "<b>Topic: Mutual Funds</b><br>The Indian Mutual Fund industry's Assets Under Management (AUM) crossed which significant milestone in October 2025?",
+    "options": ["₹50 lakh crore", "₹65 lakh crore", "₹80 lakh crore", "₹100 lakh crore"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Mutual Funds",
+    "explanation": "The total industry AUM reached an all-time high of ₹80 lakh crore in October 2025.,"
+  },
+  {
+    "question": "<b>Topic: Investment Advisors (IAs)</b><br>According to SEBI norms, at what trigger point must an individual Investment Advisor (IA) apply for corporatisation?",
+    "options": ["100 clients or ₹1 crore fee", "300 clients or ₹3 crore fee", "500 clients or ₹5 crore fee", "1,000 clients or ₹10 crore fee"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "SEBI Regulations",
+    "explanation": "Individual IAs must notify SEBI and transition to a corporate entity once they cross the limit of 300 clients or ₹3 crore in fees."
+  },
+  {
+    "question": "<b>Topic: India Semiconductor Mission (ISM)</b><br>What is the total financial outlay approved for the India Semiconductor Mission (ISM)?",
+    "options": ["₹10,683 crore", "₹25,060 crore", "₹76,000 crore", "₹93,068 crore"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Government Schemes",
+    "explanation": "The ISM has a total outlay of ₹76,000 crore to support companies investing in semiconductor and display manufacturing.,"
+  },
+  {
+    "question": "<b>Topic: Digital Gold</b><br>SEBI recently issued an advisory stating that 'Digital Gold' is not a regulated financial product. Which tax rate is currently applicable to purchases of digital gold?",
+    "options": ["0%", "3%", "5%", "12%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Taxation",
+    "explanation": "Digital gold purchases attract a GST rate of 3%. SEBI warned it does not fall under securities laws.,"
+  },
+  {
+    "question": "<b>Topic: Regulatory Penalties</b><br>The RBI imposed a monetary penalty of ₹39.60 lakh in November 2025 on which of the following banks?",
+    "options": ["Utkarsh SFB", "Jana SFB", "Tamilnad Mercantile Bank", "AU Small Finance Bank"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Regulatory Action",
+    "explanation": "RBI imposed a fine of ₹39.60 lakh on Tamilnad Mercantile Bank for contraventions of the PSS Act and Banking Regulation Act.,"
+  },
+  {
+    "question": "<b>Topic: Trade Compliance</b><br>Under the revised RBI FEMA guidelines, exporters must now preserve prescribed export documents for a mandatory period of:",
+    "options": ["1 year", "2 years", "3 years", "5 years"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "RBI Guidelines",
+    "explanation": "The mandatory preservation period for export documents has been increased from 1 year to 3 years.,"
+  },
+  {
+    "question": "<b>Topic: GST Revenue</b><br>What was the Gross GST Revenue recorded for the month of October 2025?",
+    "options": ["₹1.45 lakh crore", "₹1.69 lakh crore", "₹1.95 lakh crore", "₹2.10 lakh crore"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Economic Indicators",
+    "explanation": "Gross GST Revenue for October 2025 was ₹1.95 lakh crore, representing a 4.6% YoY growth."
+  }
+]
