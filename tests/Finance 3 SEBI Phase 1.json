@@ -1,0 +1,322 @@
+[
+  {
+    "question": "Which of the following bodies is the 'First-Line Regulator' for stock brokers under the newly approved SEBI (Stock Brokers) Regulations, 2025?",
+    "options": [
+      "SEBI",
+      "Stock Exchanges",
+      "Depositories",
+      "Association of Mutual Funds in India (AMFI)",
+      "Ministry of Finance"
+    ],
+    "answer": 1,
+    "explanation": "Under the new SEBI (Stock Brokers) Regulations, 2025, Stock Exchanges are explicitly recognized as the 'first-line regulators' responsible for detecting malpractices before they escalate to SEBI.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Under the SEBI (Mutual Funds) Regulations, 2026, the 'Base Expense Ratio' (BER) explicitly excludes which of the following costs?",
+    "options": [
+      "Fund management fees",
+      "Registrar and transfer agent fees",
+      "Statutory levies (STT, GST, Stamp Duty)",
+      "Marketing and selling expenses",
+      "Custodian fees"
+    ],
+    "answer": 2,
+    "explanation": "The new Base Expense Ratio (BER) covers fund management and operational costs but excludes statutory levies like STT, GST, and Stamp Duty, which are now charged on an 'actuals' basis.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "What is the primary function of the 'Secondary Market'?",
+    "options": [
+      "Raising new capital for companies",
+      "Price discovery and liquidity for existing securities",
+      "Issuing IPOs",
+      "Providing loans to industries",
+      "Regulating stock exchanges"
+    ],
+    "answer": 1,
+    "explanation": "The secondary market facilitates the trading of existing securities, providing liquidity to investors and enabling price discovery based on demand and supply.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Which ratio relates the change in money supply to a given change in the monetary base?",
+    "options": [
+      "Reserve Ratio",
+      "Money Multiplier",
+      "Liquidity Coverage Ratio",
+      "Capital Adequacy Ratio",
+      "Credit-Deposit Ratio"
+    ],
+    "answer": 1,
+    "explanation": "The Money Multiplier is the ratio that relates the change in the money supply to a given change in the monetary base.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "In the context of the Primary Market, what is an 'Offer for Sale' (OFS)?",
+    "options": [
+      "Issuing new shares to the public to raise fresh capital",
+      "Existing shareholders selling their stake to the public",
+      "Issuing bonus shares to existing shareholders",
+      "Private placement of shares to institutional investors",
+      "Rights issue to existing shareholders"
+    ],
+    "answer": 1,
+    "explanation": "In an Offer for Sale (OFS), existing shareholders (like promoters) sell a part of their holding to the public. No fresh capital is raised by the company.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "The newly approved SEBI regulations for 2025 have increased the threshold for 'High Value Debt Listed Entities' (HVDLE) from ₹1,000 Crore to:",
+    "options": [
+      "₹2,000 Crore",
+      "₹3,000 Crore",
+      "₹5,000 Crore",
+      "₹10,000 Crore",
+      "₹7,500 Crore"
+    ],
+    "answer": 2,
+    "explanation": "The HVDLE threshold was raised from ₹1,000 Crore to ₹5,000 Crore to ease compliance for mid-sized debt issuers.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Which of the following instruments is NOT traded in the Money Market?",
+    "options": [
+      "Treasury Bills",
+      "Commercial Paper",
+      "Certificate of Deposit",
+      "Equity Shares",
+      "Call Money"
+    ],
+    "answer": 3,
+    "explanation": "Equity Shares are capital market instruments (long-term). The Money Market deals in short-term funds (less than 1 year) like T-Bills, CP, and CDs.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Disposable Income is defined as:",
+    "options": [
+      "Personal Income - Indirect Taxes",
+      "Personal Income - Personal Direct Taxes",
+      "GDP - Depreciation",
+      "NNP at Factor Cost",
+      "Private Income - Corporate Tax"
+    ],
+    "answer": 1,
+    "explanation": "Disposable Income is the income remaining with individuals after deduction of personal direct taxes (like Income Tax).",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "What is the new brokerage limit for the 'Cash Segment' as per the latest SEBI regulations?",
+    "options": [
+      "0.25%",
+      "0.10%",
+      "0.06%",
+      "0.02%",
+      "0.50%"
+    ],
+    "answer": 2,
+    "explanation": "SEBI slashed the permissible brokerage limit for the cash segment from 0.25% (25 bps) to 0.06% (6 bps).",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Which of the following is a function of the Reserve Bank of India (RBI)?",
+    "options": [
+      "Regulating the insurance sector",
+      "Managing the government's debt",
+      "Deciding the fiscal deficit",
+      "Regulating the capital market",
+      "Allocating funds for infrastructure projects"
+    ],
+    "answer": 1,
+    "explanation": "RBI acts as the 'Banker to the Government' and manages its debt. Fiscal deficit is decided by the government, and capital markets are regulated by SEBI.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Tangible Net Worth is calculated as:",
+    "options": [
+      "Share Capital + Reserves",
+      "Total Assets - Total Liabilities",
+      "Net Worth - Intangible Assets",
+      "Fixed Assets - Depreciation",
+      "Current Assets - Current Liabilities"
+    ],
+    "answer": 2,
+    "explanation": "Tangible Net Worth is the Net Worth (Share Capital + Reserves) minus Intangible Assets (like goodwill, patents).",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Which term describes the market where securities are issued for the first time?",
+    "options": [
+      "Secondary Market",
+      "Money Market",
+      "Primary Market",
+      "Derivatives Market",
+      "Spot Market"
+    ],
+    "answer": 2,
+    "explanation": "The Primary Market is where new securities are issued by companies to raise capital directly from investors.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "The 'Angle of Incidence' in a Break-Even Chart indicates:",
+    "options": [
+      "Fixed Cost",
+      "Variable Cost",
+      "Profit earning capacity",
+      "Margin of Safety",
+      "Break-Even Point"
+    ],
+    "answer": 2,
+    "explanation": "A wider Angle of Incidence indicates a higher rate of profit generation once the break-even point is crossed.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Which of the following is NOT a credit rating agency in India?",
+    "options": [
+      "CRISIL",
+      "ICRA",
+      "CARE",
+      "CIBIL",
+      "Fitch India"
+    ],
+    "answer": 3,
+    "explanation": "CIBIL (TransUnion CIBIL) is a Credit Information Company (CIC) that maintains credit records of individuals, not a Credit Rating Agency that rates debt instruments.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "In the context of inflation, what does 'Core Inflation' exclude?",
+    "options": [
+      "Housing and Clothing",
+      "Food and Energy",
+      "Services",
+      "Manufacturing goods",
+      "Capital goods"
+    ],
+    "answer": 1,
+    "explanation": "Core Inflation excludes volatile components like Food and Energy to provide a clearer picture of the underlying inflation trend.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "What is the full form of 'ASBA' in the context of IPO applications?",
+    "options": [
+      "Application Supported by Blocked Amount",
+      "Application Secured by Bank Account",
+      "Allotment Supported by Bank Authorization",
+      "Application System for Bank Authorization",
+      "Account Settlement by Blocked Amount"
+    ],
+    "answer": 0,
+    "explanation": "ASBA stands for Application Supported by Blocked Amount, a process where the application money remains blocked in the investor's bank account until allotment.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Under the new RBI guidelines for inoperative accounts (effective Jan 1, 2026), an account is classified as inoperative if there are no customer-induced transactions for:",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "5 years",
+      "10 years"
+    ],
+    "answer": 1,
+    "explanation": "Accounts with no customer-induced transactions for two years are classified as dormant/inoperative.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Which financial statement is primarily used to analyze a company's liquidity position?",
+    "options": [
+      "Income Statement",
+      "Cash Flow Statement",
+      "Statement of Retained Earnings",
+      "Balance Sheet",
+      "Director's Report"
+    ],
+    "answer": 1,
+    "explanation": "While the Balance Sheet shows assets/liabilities, the Cash Flow Statement (specifically operating cash flow) is the best indicator of dynamic liquidity and cash generation.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "A 'Red Herring Prospectus' (RHP) does not contain which of the following details?",
+    "options": [
+      "Company History",
+      "Price or Quantum of securities",
+      "Promoter Details",
+      "Risk Factors",
+      "Management Discussion and Analysis"
+    ],
+    "answer": 1,
+    "explanation": "An RHP contains most details except the final price or the specific quantum of securities to be offered, which are determined via book building.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "According to the Economic Survey/Budget 2025-26 (hypothetical context for exam), India has surpassed which country to become the 4th largest economy?",
+    "options": [
+      "Germany",
+      "United Kingdom",
+      "Japan",
+      "France",
+      "Brazil"
+    ],
+    "answer": 2,
+    "explanation": "As per Dec 2025 data, India's GDP ($4.18 Trillion) surpassed Japan to become the 4th largest economy.",
+    "section": "General Stream",
+    "topic": "Finance",
+    "marks": 2,
+    "negative": 0.5
+  }
+]
