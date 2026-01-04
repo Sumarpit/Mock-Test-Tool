@@ -1,0 +1,322 @@
+[
+  {
+    "question": "Under Ind AS 2 (Inventories), inventory should be valued at:",
+    "options": [
+      "Cost Price",
+      "Net Realizable Value (NRV)",
+      "Lower of Cost or Net Realizable Value",
+      "Higher of Cost or Net Realizable Value",
+      "Fair Value"
+    ],
+    "answer": 2,
+    "explanation": "Ind AS 2 mandates that inventories must be measured at the lower of Cost and Net Realizable Value (NRV). This follows the principle of conservatism/prudence.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "In a Cash Flow Statement prepared under Ind AS 7, 'Interest Paid' by a non-financial enterprise is classified as:",
+    "options": [
+      "Operating Activity",
+      "Investing Activity",
+      "Financing Activity",
+      "Cash Equivalent",
+      "Extraordinary Item"
+    ],
+    "answer": 2,
+    "explanation": "For a non-financial entity, interest paid acts as a cost of obtaining finance, so it is classified as a Financing Activity. (Note: For a financial institution like a bank, it would be Operating).",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "A company forfeits 1,000 shares of ₹10 each (₹8 called up) on which the shareholder had paid application and allotment money of ₹5 per share. What amount will be credited to the 'Share Forfeiture Account'?",
+    "options": [
+      "₹3,000",
+      "₹5,000",
+      "₹8,000",
+      "₹10,000",
+      "₹2,000"
+    ],
+    "answer": 1,
+    "explanation": "The Share Forfeiture Account is credited with the amount *actually received* from the shareholder (excluding securities premium, if any). Here, amount received = 1,000 shares × ₹5 = ₹5,000.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Which of the following reserves CANNOT be used for the issue of Bonus Shares?",
+    "options": [
+      "Capital Redemption Reserve",
+      "Securities Premium Account",
+      "General Reserve",
+      "Revaluation Reserve",
+      "Profit & Loss Account Credit Balance"
+    ],
+    "answer": 3,
+    "explanation": "Revaluation Reserve is created by revaluing assets and is not a realized profit. Therefore, it cannot be used for issuing fully paid bonus shares.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Under Ind AS 16 (Property, Plant and Equipment), if the 'Component Approach' is used, depreciation is calculated:",
+    "options": [
+      "On the asset as a whole based on useful life",
+      "Separately for each significant part of the asset with a different useful life",
+      "Based on the written down value of the entire block",
+      "Only when the asset is retired",
+      "Based on the tax rate"
+    ],
+    "answer": 1,
+    "explanation": "Ind AS 16 requires the 'Component Approach', where each part of an item of PPE with a cost that is significant in relation to the total cost of the item must be depreciated separately (e.g., an aircraft's engine vs. its body).",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Which ratio measures a company's ability to pay off its short-term liabilities with its most liquid assets (excluding inventory)?",
+    "options": [
+      "Current Ratio",
+      "Quick Ratio (Acid Test Ratio)",
+      "Debt-Equity Ratio",
+      "Proprietary Ratio",
+      "Inventory Turnover Ratio"
+    ],
+    "answer": 1,
+    "explanation": "The Quick Ratio (or Acid Test Ratio) excludes Inventory and Prepaid Expenses from current assets to measure immediate liquidity. Formula: (Current Assets - Inventory - Prepaid Exp) / Current Liabilities.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Under Section 52 of the Companies Act, 2013, the 'Securities Premium Account' can be used for:",
+    "options": [
+      "Payment of dividends",
+      "Writing off preliminary expenses",
+      "Writing off bad debts",
+      "Revaluation of assets",
+      "Payment of salary"
+    ],
+    "answer": 1,
+    "explanation": "Section 52 restricts the use of Securities Premium. It can be used for writing off preliminary expenses, issuing bonus shares, buy-back of shares, providing for premium on redemption of preference shares/debentures, etc. It CANNOT be used for dividends.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Ind AS 115 deals with:",
+    "options": [
+      "Leases",
+      "Revenue from Contracts with Customers",
+      "Financial Instruments",
+      "Employee Benefits",
+      "Income Taxes"
+    ],
+    "answer": 1,
+    "explanation": "Ind AS 115 is the standard for 'Revenue from Contracts with Customers', which introduced the 5-step model for revenue recognition.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "When 'Rights Shares' are offered, the 'Value of Right' is calculated as:",
+    "options": [
+      "Market Price - Issue Price",
+      "Cum-Right Price - Ex-Right Price",
+      "Issue Price - Paid up Value",
+      "Ex-Right Price - Cum-Right Price",
+      "Paid up Value - Market Price"
+    ],
+    "answer": 1,
+    "explanation": "The theoretical value of a right is the difference between the Cum-Right Price (price before right issue effect) and the Ex-Right Price (theoretical price after right issue dilution).",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "According to Ind AS 21, foreign currency monetary items (like Debtors/Creditors) outstanding at the balance sheet date should be translated using:",
+    "options": [
+      "The rate at the date of transaction",
+      "The closing rate (spot rate at reporting date)",
+      "The average rate for the year",
+      "The forward rate",
+      "Historical cost rate"
+    ],
+    "answer": 1,
+    "explanation": "Ind AS 21 requires monetary items (which are to be settled in cash) to be restated using the closing rate at the balance sheet date, with exchange differences recognized in P&L.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Which of the following items is NOT included in the 'Cash and Cash Equivalents' heading in the Balance Sheet?",
+    "options": [
+      "Balances with Banks",
+      "Cheques, drafts on hand",
+      "Cash in hand",
+      "Bank deposits with more than 12 months maturity",
+      "Short-term highly liquid investments"
+    ],
+    "answer": 3,
+    "explanation": "Bank deposits with more than 12 months maturity are classified as 'Other Bank Balances' (Non-Current or Current depending on maturity), but they are not 'Cash and Cash Equivalents' due to the liquidity constraint.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Calculate the 'Return on Equity' (ROE) if Net Income = ₹50 Lakh, Preference Dividend = ₹5 Lakh, and Average Common Equity = ₹300 Lakh.",
+    "options": [
+      "16.67%",
+      "15%",
+      "18.33%",
+      "20%",
+      "12.5%"
+    ],
+    "answer": 1,
+    "explanation": "ROE = (Net Income - Preference Dividend) / Average Common Equity. ROE = (50 - 5) / 300 = 45 / 300 = 0.15 or 15%.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Under the Employee Stock Option Plan (ESOP), the 'Vesting Period' refers to:",
+    "options": [
+      "The period during which the option can be exercised",
+      "The period between the grant date and the vesting date",
+      "The period after the option expires",
+      "The period before the grant date",
+      "The lock-in period after allotment"
+    ],
+    "answer": 1,
+    "explanation": "The Vesting Period is the period the employee must serve (or performance conditions must be met) between the Grant Date and the date they become entitled to exercise the option (Vesting Date).",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "A change in the method of depreciation (e.g., SLM to WDV) is treated as:",
+    "options": [
+      "Change in Accounting Policy",
+      "Change in Accounting Estimate",
+      "Prior Period Error",
+      "Extraordinary Item",
+      "Fundamental Accounting Assumption"
+    ],
+    "answer": 1,
+    "explanation": "Under Ind AS 8 (and revised AS 10), a change in depreciation method is treated as a 'Change in Accounting Estimate'. Its effect is prospective (future periods only), not retrospective.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "If a company buys back its own shares, the maximum limit for buy-back in any financial year is:",
+    "options": [
+      "10% of Paid-up Capital + Free Reserves",
+      "25% of Paid-up Capital + Free Reserves",
+      "50% of Paid-up Capital",
+      "15% of Free Reserves",
+      "20% of Authorized Capital"
+    ],
+    "answer": 1,
+    "explanation": "Section 68 of the Companies Act limits the buy-back to 25% of the total Paid-up Capital and Free Reserves of the company.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "In 'Common Size' Financial Statements, each item in the Balance Sheet is expressed as a percentage of:",
+    "options": [
+      "Total Sales",
+      "Total Assets (or Total Equities & Liabilities)",
+      "Share Capital",
+      "Net Profit",
+      "Fixed Assets"
+    ],
+    "answer": 1,
+    "explanation": "In a Common Size Balance Sheet, Total Assets (or Total Liabilities + Equity) is taken as the base (100%), and every other item is expressed as a percentage of that base.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Which accounting standard deals with 'Earnings Per Share' (EPS)?",
+    "options": [
+      "Ind AS 10",
+      "Ind AS 33",
+      "Ind AS 16",
+      "Ind AS 38",
+      "Ind AS 115"
+    ],
+    "answer": 1,
+    "explanation": "Ind AS 33 prescribes the principles for determination and presentation of Earnings Per Share (Basic and Diluted).",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Contingent Liabilities are disclosed in the financial statements due to which accounting convention?",
+    "options": [
+      "Consistency",
+      "Materiality",
+      "Full Disclosure",
+      "Conservatism",
+      "Going Concern"
+    ],
+    "answer": 2,
+    "explanation": "The convention of 'Full Disclosure' requires that all significant information, even if it doesn't affect the numbers immediately (like contingent liabilities), must be disclosed in the footnotes.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "Under Ind AS 38 (Intangible Assets), internally generated goodwill is:",
+    "options": [
+      "Capitalized and amortized",
+      "Capitalized but not amortized",
+      "Not recognized as an asset",
+      "Recognized at fair value",
+      "Recognized at replacement cost"
+    ],
+    "answer": 2,
+    "explanation": "Ind AS 38 explicitly prohibits the recognition of internally generated goodwill because it is not an identifiable resource controlled by the entity that can be reliably measured at cost.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  },
+  {
+    "question": "What is the impact on the 'Debt-Equity Ratio' if a company issues Bonus Shares?",
+    "options": [
+      "Increase",
+      "Decrease",
+      "No Change",
+      "Doubles",
+      "Halves"
+    ],
+    "answer": 2,
+    "explanation": "Debt-Equity Ratio = Total Debt / Shareholders' Equity. Bonus shares are issued by capitalizing reserves (moving money from Reserves to Share Capital). Both Reserves and Share Capital are part of 'Shareholders' Equity'. Thus, the denominator (Equity) remains the same total amount, just the composition changes. The ratio remains unchanged.",
+    "section": "General Stream",
+    "topic": "Commerce & Accountancy",
+    "marks": 2,
+    "negative": 0.5
+  }
+]
