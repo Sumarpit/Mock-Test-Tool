@@ -218,11 +218,10 @@
         <input type="text" id="pasteFileName" placeholder="Enter Filename (e.g. My_Test)">
         <textarea id="pasteContent" placeholder='Paste your JSON here... Example: [{"question":"...", "options":[...], "answer":0}]'></textarea>
         <div class="modal-actions">
-            <button onclick="closePasteModal()" style="background:#ccc; border:none; padding:8px 16px; border-radius:4px; cursor:pointer;">Cancel</button>
-            <div class="modal-group-right">
-                <button onclick="saveToCloud()" style="background:#00bcd4; color:white; border:none; padding:8px 16px; border-radius:4px; cursor:pointer;">☁️ Save to Cloud</button>
-                <button onclick="savePastedJSON()" style="background:var(--accent); color:white; border:none; padding:8px 16px; border-radius:4px; cursor:pointer;">Save to Library</button>
-            </div>
+            <button onclick="closePasteModal()" style="background:#ccc; border:none; padding:8px 16px; border-radius:4px; cursor:pointer; color:#333; font-weight:bold;">Cancel</button>
+            <button onclick="saveAndSync()" style="background:var(--accent); color:white; border:none; padding:10px 20px; border-radius:4px; cursor:pointer; font-weight:bold; flex:1; margin-left:10px;">
+            💾 Save JSON & Sync
+            </button>
         </div>
         <small style="color:#777; margin-top:5px; font-size:0.8rem;">* "Save to Cloud" will copy the code and open a GitHub Issue.</small>
     </div>
@@ -488,36 +487,65 @@
     function openPasteModal() { document.getElementById('pasteModal').style.display = 'flex'; }
     function closePasteModal() { document.getElementById('pasteModal').style.display = 'none'; }
     
-    function savePastedJSON() {
-        const name = document.getElementById('pasteFileName').value.trim();
-        const content = document.getElementById('pasteContent').value.trim();
-        if(!name || !content) { alert("Invalid Input"); return; }
-        try {
-            const parsed = JSON.parse(content);
-            const fileName = name.endsWith('.json') ? name : name + '.json';
-            library[fileName] = parsed;
-            saveLibraryToStorage();
-            renderGrid();
-            closePasteModal();
-            document.getElementById('pasteFileName').value = '';
-            document.getElementById('pasteContent').value = '';
-            alert("Test added!");
-        } catch(e) { alert("Invalid JSON"); }
+    
+
+    // --- NEW UNIFIED SAVE FUNCTION ---
+async function saveAndSync() {
+    const nameInput = document.getElementById('pasteFileName');
+    const contentInput = document.getElementById('pasteContent');
+    const name = nameInput.value.trim();
+    const content = contentInput.value.trim();
+    
+    // 1. Validation
+    if(!name || !content) { alert("Please enter filename and content."); return; }
+    
+    let parsed;
+    try {
+        parsed = JSON.parse(content);
+    } catch(e) { 
+        alert("Invalid JSON code. Please check formatting."); 
+        return; 
     }
 
-    function saveToCloud() {
-        const name = document.getElementById('pasteFileName').value.trim();
-        const content = document.getElementById('pasteContent').value.trim();
-        if(!name || !content) return;
-        try { JSON.parse(content); } catch(e) { alert("Invalid JSON"); return; }
-        navigator.clipboard.writeText(content).then(() => {
-            const title = encodeURIComponent(name.endsWith('.json') ? name : name + '.json');
-            const url = `https://github.com/${REPO_OWNER}/${REPO_NAME}/issues/new?title=${title}&labels=new-test`;
-            alert("Copied! Paste into the GitHub Issue.");
-            window.open(url, '_blank');
-            closePasteModal();
-        });
+    // 2. SAVE LOCALLY (Immediate Access)
+    try {
+        const fileName = name.endsWith('.json') ? name : name + '.json';
+        library[fileName] = parsed;
+        saveLibraryToStorage();
+        
+        // Auto-select the new test so user can play immediately
+        activeFile = fileName;
+        renderGrid(); 
+        
+        // Update the Start Button text to show it's ready
+        let shortName = fileName.replace(/\.json$/i,'').substring(0,10) + (fileName.length>10?'...':'');
+        document.getElementById('start-btn').innerText = 'START: ' + shortName;
+        document.getElementById('start-btn').disabled = false;
+
+        // 3. COPY TO CLIPBOARD & OPEN GITHUB (Background Process)
+        await navigator.clipboard.writeText(content);
+        
+        const title = encodeURIComponent(fileName);
+        // We use the variables REPO_OWNER and REPO_NAME defined at the top of your script
+        const url = `https://github.com/${REPO_OWNER}/${REPO_NAME}/issues/new?title=${title}&labels=new-test`;
+        
+        // Open GitHub in new tab
+        window.open(url, '_blank');
+        
+        // Cleanup UI
+        closePasteModal();
+        nameInput.value = '';
+        contentInput.value = '';
+        
+        // Final Confirmation
+        alert(`✅ Test "${fileName}" is ready in your library!\n\nGitHub Issue tab opened. Paste the code (Ctrl+V) there to sync with Cloud.`);
+        
+    } catch(err) {
+        console.error(err);
+        alert("Saved locally, but failed to open GitHub or Copy to Clipboard. You can play the test locally now.");
+        closePasteModal();
     }
+}
 
     // --- RENDER GRID (LIST VIEW) ---
     function renderGrid() {
