@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
-    <title>SEBI Grade A Tool (v40)</title>
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎓</text></svg>">
+    <title>Exam Mock Tool (Multi-Profile)</title>
     <link rel="manifest" href="manifest.json">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📘</text></svg>">
     <style>
         :root {
             --header-bg: #1a237e;
@@ -35,11 +35,17 @@
         .container-box { max-width: 900px; margin: 20px auto; padding: 0 20px 160px 20px; }
         
         .filter-bar { margin-bottom: 20px; background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        
+        /* EXAM SELECTOR */
+        .exam-select {
+            width: 100%; padding: 12px; border: 2px solid var(--accent); border-radius: 6px;
+            font-size: 1rem; font-weight: bold; color: var(--accent); background: white;
+            margin-bottom: 15px; cursor: pointer; outline: none;
+        }
+        .exam-select:focus { box-shadow: 0 0 0 3px rgba(41, 98, 255, 0.2); }
+
         .search-box { width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 6px; font-size: 1rem; margin-bottom: 10px; }
         
-        /* Tabs Hidden as requested */
-        .tabs { display: none; gap: 10px; }
-
         .library-box { background: var(--card-bg); padding: 20px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); text-align: center; margin-bottom: 20px; }
         
         .lib-controls { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; flex-wrap: wrap; gap:10px; }
@@ -51,39 +57,18 @@
         .drop-zone:hover { border-color: var(--accent); background: #f0f8ff; }
         input[type="file"] { display: none; }
 
-        /* --- LIST VIEW STYLES (UPDATED) --- */
-        .file-grid { 
-            display: flex; 
-            flex-direction: column; 
-            gap: 8px; 
-            margin-top: 10px; 
-        }
+        /* --- LIST VIEW STYLES --- */
+        .file-grid { display: flex; flex-direction: column; gap: 8px; margin-top: 10px; }
 
         .file-card { 
-            background: #fff; 
-            border: 1px solid #eee; 
-            padding: 12px 15px; 
-            border-radius: 6px; 
-            cursor: pointer; 
-            transition: 0.2s; 
-            box-shadow: 0 1px 3px rgba(0,0,0,0.05); 
-            text-align: left; 
-            min-height: 50px;
-            display: flex; 
-            flex-direction: row; 
-            align-items: center; 
-            position: relative; 
-            overflow: hidden; 
-        }
-        /* Fix: Add padding to the right of local cards so text doesn't touch the X button */
-        .file-card:not(.cloud-item) {
-            padding-right: 45px !important; 
+            background: #fff; border: 1px solid #eee; padding: 12px 15px; border-radius: 6px; 
+            cursor: pointer; transition: 0.2s; box-shadow: 0 1px 3px rgba(0,0,0,0.05); 
+            text-align: left; min-height: 50px; display: flex; flex-direction: row; 
+            align-items: center; position: relative; overflow: hidden; 
         }
 
-        /* Ensure the delete button stays centered in that new padding space */
-        .del-btn {
-        right: 12px;
-        }
+        /* Fix overlapping text for local files */
+        .file-card:not(.cloud-item) { padding-right: 45px !important; }
 
         .file-card:hover { background-color: #f8f9fa; border-color: var(--accent); }
         .file-card.active { border: 1px solid var(--accent); background: #e3f2fd; }
@@ -106,6 +91,15 @@
         }
         .file-card.multi-selected .multi-check { display: flex; }
 
+        /* DELETE BUTTON */
+        .del-btn {
+            position: absolute; right: 12px; top: 50%; transform: translateY(-50%);
+            color: #ff5252; font-size: 1.6rem; font-weight: bold; cursor: pointer;
+            padding: 0 8px; z-index: 20; line-height: 1; display: none;
+        }
+        .del-btn:hover { color: #d50000; background-color: #ffebee; border-radius: 50%; }
+        .file-card:not(.cloud-item) .del-btn { display: block; }
+
 
         /* --- MODAL --- */
         #pasteModal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 5000; align-items: center; justify-content: center; }
@@ -113,9 +107,10 @@
         .modal-content h3 { margin: 0 0 10px 0; color: var(--accent); }
         .modal-content textarea { width: 100%; height: 200px; padding: 10px; border: 1px solid #ccc; border-radius: 4px; font-family: monospace; resize: none; }
         .modal-content input { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; }
+        
+        /* Unified Modal Actions */
         .modal-actions { display: flex; justify-content: space-between; margin-top: 10px; }
-        .modal-group-right { display: flex; gap: 10px; }
-
+        
         /* --- STICKY FOOTER --- */
         .fixed-footer {
             position: fixed; bottom: 0; left: 0; width: 100%;
@@ -216,37 +211,6 @@
             #next-btn { display: none; } 
         }
         @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
-
-        /* Delete Button Style */
-.del-btn {
-    position: absolute;
-    right: 10px; 
-    top: 50%;
-    transform: translateY(-50%);
-    color: #ff5252;
-    font-size: 1.6rem;
-    font-weight: bold;
-    cursor: pointer;
-    padding: 0 8px;
-    z-index: 20;
-    line-height: 1;
-    display: none; /* Hidden by default */
-}
-.del-btn:hover {
-    color: #d50000;
-    background-color: #ffebee;
-    border-radius: 50%;
-}
-
-/* Show Delete button ONLY when it is NOT a cloud file */
-.file-card:not(.cloud-item) .del-btn {
-    display: block;
-}
-
-/* Adjust text padding so it doesn't overlap the delete button */
-.file-card:not(.cloud-item) .file-name {
-    padding-right: 40px; 
-}
     </style>
 </head>
 <body>
@@ -257,14 +221,13 @@
     <div class="modal-content">
         <h3>📋 Paste JSON Code</h3>
         <input type="text" id="pasteFileName" placeholder="Enter Filename (e.g. My_Test)">
-        <textarea id="pasteContent" placeholder='Paste your JSON here... Example: [{"question":"...", "options":[...], "answer":0}]'></textarea>
+        <textarea id="pasteContent" placeholder='Paste your JSON here...'></textarea>
         <div class="modal-actions">
             <button onclick="closePasteModal()" style="background:#ccc; border:none; padding:8px 16px; border-radius:4px; cursor:pointer; color:#333; font-weight:bold;">Cancel</button>
             <button onclick="saveAndSync()" style="background:var(--accent); color:white; border:none; padding:10px 20px; border-radius:4px; cursor:pointer; font-weight:bold; flex:1; margin-left:10px;">
-            💾 Save JSON & Sync
+                💾 Save JSON & Sync
             </button>
         </div>
-        <small style="color:#777; margin-top:5px; font-size:0.8rem;">* "Save to Cloud" will copy the code and open a GitHub Issue.</small>
     </div>
 </div>
 
@@ -272,12 +235,15 @@
     <div class="container-box">
         
         <div class="filter-bar">
-            <input type="text" class="search-box" id="searchInput" placeholder="🔍 Search SEBI Mock Tests..." onkeyup="renderGrid()">
+            <select id="examSelector" class="exam-select" onchange="switchExam(this.value)">
+                </select>
+
+            <input type="text" class="search-box" id="searchInput" placeholder="🔍 Search Tests..." onkeyup="renderGrid()">
         </div>
 
         <div class="library-box">
             <div class="lib-controls">
-                <h1 style="font-size:1.2rem;">SEBI Grade A Library</h1>
+                <h1 style="font-size:1.2rem;">Mock Test Library</h1>
                 <div style="display:flex; gap:10px;">
                     <div class="toggle-btn paste-btn" onclick="openPasteModal()">
                         <span class="icon">📋</span> Paste JSON
@@ -331,7 +297,7 @@
 
 <div id="exam-screen" class="screen">
     <header id="main-header">
-        <div class="header-title" id="exam-title">SEBI Grade A Mock Test</div>
+        <div class="header-title" id="exam-title">Mock Test</div>
         <div class="header-controls">
             <div class="timer" id="timer">00:00:00</div>
             <button class="mobile-menu" onclick="openSidebar()">☰</button>
@@ -340,7 +306,7 @@
     
     <div class="exam-layout">
         <div id="pane-passage" class="pane-passage">
-            <div style="font-weight:bold; text-decoration:underline; margin-bottom:10px; color:#8a6d3b;">Reading Comprehension</div>
+            <div style="font-weight:bold; text-decoration:underline; margin-bottom:10px; color:#8a6d3b;">Reading Passage</div>
             <div id="passage-content"></div>
         </div>
 
@@ -435,18 +401,28 @@
     const REPO_OWNER = "Sumarpit";
     const REPO_NAME = "SEBI-Mock-Test-Tool";
     
+    // --- EXAM PROFILES CONFIGURATION ---
+    const EXAM_PROFILES = {
+        'SEBI':   { name: 'SEBI Grade A', folder: 'tests/sebi',   marks: 1.25, neg: 0.3125 },
+        'RBI':    { name: 'RBI Grade B',  folder: 'tests/rbi',    marks: 1.0,  neg: 0.25 },
+        'NABARD': { name: 'NABARD Gr A',  folder: 'tests/nabard', marks: 1.0,  neg: 0.25 },
+        'SSC':    { name: 'SSC CGL',      folder: 'tests/ssc',    marks: 2.0,  neg: 0.50 },
+        'UPSC':   { name: 'UPSC CSE',     folder: 'tests/upsc',   marks: 2.0,  neg: 0.66 }
+    };
+
     // --- VARIABLES ---
     const KEY = 'sebi_v1_data';
     const HIST = 'sebi_v1_hist';
     const LIB_KEY = 'sebi_v1_library';
     
+    let currentProfile = 'SEBI'; 
     let library = {}, cloudList = [], activeFile = '', questions = [], currIdx = 0;
     let responses = {}, confidence = {}, visited = {};
     let timer, seconds = 0;
     let isMultiMode = false, selectedFiles = new Set();
     let isReviewMode = false, reviewSet = [];
     
-    // NEW: Timer Variables
+    // Timer Variables
     let qTimers = {}; 
     let lastQTime = 0;
 
@@ -463,8 +439,15 @@
     
     window.onload = () => { 
         try { 
+            // 1. Initialize Profile
+            const savedProfile = localStorage.getItem('sebi_exam_profile');
+            if (savedProfile && EXAM_PROFILES[savedProfile]) {
+                currentProfile = savedProfile;
+            }
+            initExamSelector(); 
+
             loadLibraryFromStorage();
-            loadFromGitHubAPI(); // Auto-load from repo
+            loadFromGitHubAPI(); 
             loadHistory(); 
             checkResume(); 
             
@@ -479,15 +462,49 @@
         else if (touchEndX - touchStartX > 50) prevQ();
     }
 
-    // --- NEW: FETCH LIST DIRECTLY FROM GITHUB API ---
+    // --- EXAM SWITCHER LOGIC ---
+    function initExamSelector() {
+        const sel = document.getElementById('examSelector');
+        sel.innerHTML = '';
+        Object.keys(EXAM_PROFILES).forEach(key => {
+            const opt = document.createElement('option');
+            opt.value = key;
+            opt.innerText = EXAM_PROFILES[key].name;
+            if (key === currentProfile) opt.selected = true;
+            sel.appendChild(opt);
+        });
+    }
+
+    function switchExam(newKey) {
+        if (!EXAM_PROFILES[newKey]) return;
+        
+        if (confirm(`Switch to ${EXAM_PROFILES[newKey].name}?`)) {
+            currentProfile = newKey;
+            localStorage.setItem('sebi_exam_profile', newKey);
+            
+            // Clear cloud list only, keep local files but maybe filter visual later? 
+            // For now, refreshing fetches new cloud files.
+            cloudList = []; 
+            activeFile = '';
+            
+            renderGrid();           
+            loadFromGitHubAPI();    
+            document.getElementById('searchInput').placeholder = `🔍 Search ${EXAM_PROFILES[newKey].name}...`;
+        } else {
+            document.getElementById('examSelector').value = currentProfile;
+        }
+    }
+
+    // --- FETCH LIST DIRECTLY FROM GITHUB API ---
     async function loadFromGitHubAPI() {
         try {
-            const apiUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/tests`;
+            const folderPath = EXAM_PROFILES[currentProfile].folder;
+            const apiUrl = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${folderPath}`;
+            
             const res = await fetch(apiUrl);
-            if (!res.ok) throw new Error("Failed to fetch repo contents");
+            if (!res.ok) throw new Error("Repo folder not found or empty");
             const data = await res.json();
             
-            // Filter JSONs
             cloudList = data
                 .filter(file => file.name.endsWith('.json') && file.type === 'file')
                 .map(file => ({
@@ -497,8 +514,8 @@
                 }));
             renderGrid();
         } catch (err) {
-            console.error("Offline or API Limit:", err);
-            renderGrid(); // Fallback to local only
+            console.warn("API Error:", err);
+            renderGrid(); // Fallback to local
         }
     }
 
@@ -524,154 +541,119 @@
         }
     }
 
-    // --- PASTE JSON LOGIC ---
+    // --- PASTE JSON LOGIC (UNIFIED) ---
     function openPasteModal() { document.getElementById('pasteModal').style.display = 'flex'; }
     function closePasteModal() { document.getElementById('pasteModal').style.display = 'none'; }
     
-    
+    async function saveAndSync() {
+        const nameInput = document.getElementById('pasteFileName');
+        const contentInput = document.getElementById('pasteContent');
+        const name = nameInput.value.trim();
+        const content = contentInput.value.trim();
+        
+        if(!name || !content) { alert("Invalid Input"); return; }
+        let parsed;
+        try { parsed = JSON.parse(content); } catch(e) { alert("Invalid JSON"); return; }
 
-    // --- NEW UNIFIED SAVE FUNCTION ---
-async function saveAndSync() {
-    const nameInput = document.getElementById('pasteFileName');
-    const contentInput = document.getElementById('pasteContent');
-    const name = nameInput.value.trim();
-    const content = contentInput.value.trim();
-    
-    // 1. Validation
-    if(!name || !content) { alert("Please enter filename and content."); return; }
-    
-    let parsed;
-    try {
-        parsed = JSON.parse(content);
-    } catch(e) { 
-        alert("Invalid JSON code. Please check formatting."); 
-        return; 
+        try {
+            const fileName = name.endsWith('.json') ? name : name + '.json';
+            library[fileName] = parsed;
+            saveLibraryToStorage();
+            
+            activeFile = fileName;
+            renderGrid(); 
+            
+            let shortName = fileName.replace(/\.json$/i,'').substring(0,10) + (fileName.length>10?'...':'');
+            document.getElementById('start-btn').innerText = 'START: ' + shortName;
+            document.getElementById('start-btn').disabled = false;
+
+            await navigator.clipboard.writeText(content);
+            
+            const title = encodeURIComponent(fileName);
+            const url = `https://github.com/${REPO_OWNER}/${REPO_NAME}/issues/new?title=${title}&labels=new-test`;
+            
+            window.open(url, '_blank');
+            closePasteModal();
+            nameInput.value = '';
+            contentInput.value = '';
+            
+            alert(`✅ Saved locally! GitHub Issue opened.\nPaste the code there to sync.`);
+        } catch(err) {
+            console.error(err);
+            alert("Saved locally.");
+            closePasteModal();
+        }
     }
-
-    // 2. SAVE LOCALLY (Immediate Access)
-    try {
-        const fileName = name.endsWith('.json') ? name : name + '.json';
-        library[fileName] = parsed;
-        saveLibraryToStorage();
-        
-        // Auto-select the new test so user can play immediately
-        activeFile = fileName;
-        renderGrid(); 
-        
-        // Update the Start Button text to show it's ready
-        let shortName = fileName.replace(/\.json$/i,'').substring(0,10) + (fileName.length>10?'...':'');
-        document.getElementById('start-btn').innerText = 'START: ' + shortName;
-        document.getElementById('start-btn').disabled = false;
-
-        // 3. COPY TO CLIPBOARD & OPEN GITHUB (Background Process)
-        await navigator.clipboard.writeText(content);
-        
-        const title = encodeURIComponent(fileName);
-        // We use the variables REPO_OWNER and REPO_NAME defined at the top of your script
-        const url = `https://github.com/${REPO_OWNER}/${REPO_NAME}/issues/new?title=${title}&labels=new-test`;
-        
-        // Open GitHub in new tab
-        window.open(url, '_blank');
-        
-        // Cleanup UI
-        closePasteModal();
-        nameInput.value = '';
-        contentInput.value = '';
-        
-        // Final Confirmation
-        alert(`✅ Test "${fileName}" is ready in your library!\n\nGitHub Issue tab opened. Paste the code (Ctrl+V) there to sync with Cloud.`);
-        
-    } catch(err) {
-        console.error(err);
-        alert("Saved locally, but failed to open GitHub or Copy to Clipboard. You can play the test locally now.");
-        closePasteModal();
-    }
-}
 
     // --- RENDER GRID (LIST VIEW) ---
     function renderGrid() {
-    const grid = document.getElementById('file-grid');
-    grid.innerHTML = '';
-    const search = document.getElementById('searchInput').value.toLowerCase();
-    
-    let masterMap = new Map();
-    
-    // 1. Process Cloud Files
-    cloudList.forEach(item => {
-        masterMap.set(item.name, { ...item, source: 'cloud', qCount: 'Tap to Load' });
-    });
-
-    // 2. Process Local Files (Overwrite cloud entry if exists locally)
-    Object.keys(library).forEach(name => {
-        masterMap.set(name, { 
-            name: name, 
-            source: 'local', 
-            qCount: library[name].length + ' Qs' 
+        const grid = document.getElementById('file-grid');
+        grid.innerHTML = '';
+        const search = document.getElementById('searchInput').value.toLowerCase();
+        
+        let masterMap = new Map();
+        cloudList.forEach(item => {
+            masterMap.set(item.name, { ...item, source: 'cloud', qCount: 'Tap to Load' });
         });
-    });
+        Object.keys(library).forEach(name => {
+            masterMap.set(name, { name: name, source: 'local', qCount: library[name].length + ' Qs' });
+        });
 
-    // 3. Filter & Sort
-    let displayList = Array.from(masterMap.values()).filter(item => 
-        item.name.toLowerCase().includes(search)
-    );
-    displayList.sort((a, b) => a.name.localeCompare(b.name));
+        let displayList = Array.from(masterMap.values()).filter(item => 
+            item.name.toLowerCase().includes(search)
+        );
+        displayList.sort((a, b) => a.name.localeCompare(b.name));
 
-    // 4. Render
-    displayList.forEach(item => {
-        const d = document.createElement('div');
-        // Add specific class 'cloud-item' if source is cloud
-        d.className = `file-card ${item.source === 'cloud' ? 'cloud-item' : ''}`;
-        
-        if (isMultiMode && selectedFiles.has(item.name)) d.classList.add('multi-selected');
-        else if (item.name === activeFile) d.classList.add('active');
+        displayList.forEach(item => {
+            const d = document.createElement('div');
+            // Class for hiding delete button on cloud items
+            d.className = `file-card ${item.source === 'cloud' ? 'cloud-item' : ''}`;
+            
+            if (isMultiMode && selectedFiles.has(item.name)) d.classList.add('multi-selected');
+            else if (item.name === activeFile) d.classList.add('active');
 
-        const icon = item.source === 'local' ? '📂' : '☁️';
-        const metaColor = item.source === 'local' ? '#666' : 'var(--accent)';
-        
-        // Only generate Delete HTML if source is local
-        const deleteHtml = item.source === 'local' 
-            ? `<div class="del-btn" onclick="deleteFile(event, '${item.name}')" title="Delete Local Copy">×</div>` 
-            : '';
+            const icon = item.source === 'local' ? '📂' : '☁️';
+            const metaColor = item.source === 'local' ? '#666' : 'var(--accent)';
+            
+            // Delete Button (Local Only)
+            const deleteHtml = item.source === 'local' 
+                ? `<div class="del-btn" onclick="deleteFile(event, '${item.name}')" title="Delete Local">×</div>` 
+                : '';
 
-        d.innerHTML = `
-            <div class="status-badge">${icon}</div>
-            <span class="file-name">${item.name}</span>
-            <small class="file-meta" style="color:${metaColor}">${item.qCount}</small>
-            ${deleteHtml}
-            <div class="multi-check">✔</div>
-        `;
-        
-        d.onclick = async () => {
-            if(isMultiMode) {
-               if(item.source === 'local') handleCardClick(item.name);
-            } else {
-                if(item.source === 'local') handleCardClick(item.name);
-                else await fetchAndLoad(item);
-            }
-        };
-        grid.appendChild(d);
-    });
-
-    if(displayList.length === 0) grid.innerHTML = '<div style="color:#999; padding:20px; text-align:center;">No tests found.</div>';
-}
-    function deleteFile(event, name) {
-    // Stop the click from bubbling up to the card (prevent opening the test)
-    event.stopPropagation();
-    
-    if(confirm(`Remove "${name}" from local library?`)) {
-        delete library[name];
-        saveLibraryToStorage();
-        
-        // If the deleted file was currently selected, reset selection
-        if(activeFile === name) {
-            activeFile = '';
-            document.getElementById('start-btn').innerText = "SELECT TEST";
-            document.getElementById('start-btn').disabled = true;
-        }
-        
-        renderGrid(); // Refresh the list
+            d.innerHTML = `
+                <div class="status-badge">${icon}</div>
+                <span class="file-name">${item.name}</span>
+                <small class="file-meta" style="color:${metaColor}">${item.qCount}</small>
+                ${deleteHtml}
+                <div class="multi-check">✔</div>
+            `;
+            
+            d.onclick = async () => {
+                if(isMultiMode) {
+                   if(item.source === 'local') handleCardClick(item.name);
+                } else {
+                    if(item.source === 'local') handleCardClick(item.name);
+                    else await fetchAndLoad(item);
+                }
+            };
+            grid.appendChild(d);
+        });
+        if(displayList.length === 0) grid.innerHTML = '<div style="color:#999; padding:20px; text-align:center;">No tests found.</div>';
     }
-}
+
+    function deleteFile(event, name) {
+        event.stopPropagation();
+        if(confirm(`Remove "${name}" from local library?`)) {
+            delete library[name];
+            saveLibraryToStorage();
+            if(activeFile === name) {
+                activeFile = '';
+                document.getElementById('start-btn').innerText = "SELECT TEST";
+                document.getElementById('start-btn').disabled = true;
+            }
+            renderGrid();
+        }
+    }
 
     document.getElementById('jsonFile').onchange = (e) => loadFiles(e.target.files);
     function loadLibraryFromStorage() {
@@ -702,7 +684,6 @@ async function saveAndSync() {
     }
 
     function handleCardClick(name) {
-        // Ensure file is loaded locally
         if (!library[name]) return; 
 
         if (isMultiMode) {
@@ -724,7 +705,7 @@ async function saveAndSync() {
         renderGrid();
     }
 
-    // --- NEW: GROUPING & SHUFFLING LOGIC ---
+    // --- PREPARE QUESTIONS (GROUPING & SHUFFLING) ---
     function prepareQuestions(sourceList) {
         // 1. Group by Passage or GroupID
         let groups = [];
@@ -936,7 +917,7 @@ async function saveAndSync() {
         responses = d.responses; confidence = d.confidence; visited = d.visited;
         currIdx = d.currIdx; seconds = d.seconds; isReviewMode = d.isReviewMode;
         qTimers = d.qTimers || {}; 
-        lastQTime = Date.now(); // Reset to avoid offline drift
+        lastQTime = Date.now(); 
         initExamUI();
     }
 
@@ -966,14 +947,24 @@ async function saveAndSync() {
             const ans = responses[i]; const conf = confidence[i];
             if(!tStats[q.topic]) tStats[q.topic] = {t:0, c:0, w:0}; tStats[q.topic].t++;
             let isWrong = false; let isSkipped = false;
+            
             let qMark = 1, qNeg = 0.25;
 
-            if (mode === '2') { qMark = 2.0; qNeg = 0.5; modeLabel = "Forced Paper 2 (+2 / -0.5)"; } 
-            else if (mode === '1') { qMark = 1.25; qNeg = 0.3125; modeLabel = "Paper 1 (+1.25 / -0.3125)"; } 
+            // SCORING LOGIC
+            if (mode === '2') { qMark = 2.0; qNeg = 0.5; modeLabel = "Forced Paper 2"; } 
+            // SEBI SPECIFIC LOGIC: 1.25 / 0.3125 for P1
+            else if (mode === '1') { qMark = 1.25; qNeg = 0.3125; modeLabel = "Forced P1 (+1.25)"; } 
             else {
-                qMark = q.marks ? parseFloat(q.marks) : 1.0;
-                qNeg = q.negative ? parseFloat(q.negative) : (qMark * 0.25);
-                modeLabel = "Auto-Detected from JSON";
+                // Auto Mode: Check question overrides first, then Profile Defaults
+                if (q.marks) {
+                    qMark = parseFloat(q.marks);
+                    qNeg = q.negative ? parseFloat(q.negative) : (qMark * 0.25);
+                } else {
+                    const profile = EXAM_PROFILES[currentProfile];
+                    qMark = profile.marks;
+                    qNeg = profile.neg;
+                }
+                modeLabel = `Auto (${currentProfile} Rules)`;
             }
 
             if(ans === undefined) { skip++; isSkipped=true; } 
