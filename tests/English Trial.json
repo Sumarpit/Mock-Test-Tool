@@ -1,0 +1,327 @@
+[
+  {
+    "section": "English Language",
+    "topic": "Spotting Errors",
+    "question": "Identify the segment that contains a grammatical error: <br><i>'Neither of the two candidates have paid their subscription fees.'</i>",
+    "options": [
+      "Neither of the two",
+      "candidates have",
+      "paid their",
+      "subscription fees"
+    ],
+    "answer": 1,
+    "explanation": "When 'Neither of' is used as the subject, it takes a **singular verb**. <br>Correct: 'Neither of the two candidates <b>has</b> paid...'."
+  },
+  {
+    "section": "English Language",
+    "topic": "Spotting Errors",
+    "question": "Identify the segment that contains a grammatical error: <br><i>'If I was the Prime Minister, I would ban all heavy industries.'</i>",
+    "options": [
+      "If I was",
+      "the Prime Minister",
+      "I would ban",
+      "all heavy industries"
+    ],
+    "answer": 0,
+    "explanation": "This is a hypothetical condition (subjunctive mood). In such cases, we use <b>'were'</b> with all subjects.<br>Correct: 'If I <b>were</b> the Prime Minister...'."
+  },
+  {
+    "section": "English Language",
+    "topic": "Sentence Improvement",
+    "question": "Select the alternative that will improve the underlined part:<br><i>'He is <u>addicted to smoke</u> heavily.'</i>",
+    "options": [
+      "addicted to smoking",
+      "used to smoke",
+      "addicted with smoking",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "The phrase 'addicted to' is followed by a Gerund (V1 + ing).<br>Correct: 'He is <b>addicted to smoking</b> heavily.'"
+  },
+  {
+    "section": "English Language",
+    "topic": "Fill in the Blanks",
+    "question": "Select the most appropriate word to fill in the blank:<br><i>'The jury was ______ in its verdict.'</i>",
+    "options": [
+      "unanimous",
+      "divided",
+      "separate",
+      "segregated"
+    ],
+    "answer": 0,
+    "explanation": "The verb used is 'was' (singular), implying the jury acted as a single unit. Therefore, they must agree.<br><b>Unanimous</b> means fully in agreement."
+  },
+  {
+    "section": "English Language",
+    "topic": "Synonyms",
+    "question": "Select the synonym of the given word: <br><b>CANDID</b>",
+    "options": [
+      "Cruel",
+      "Frank",
+      "Arrogant",
+      "Sweet"
+    ],
+    "answer": 1,
+    "explanation": "<b>Candid</b> means truthful and straightforward.<br><b>Frank</b> has the same meaning."
+  },
+  {
+    "section": "English Language",
+    "topic": "Synonyms",
+    "question": "Select the synonym of the given word: <br><b>LETHARGY</b>",
+    "options": [
+      "Activity",
+      "Drowsiness",
+      "Modesty",
+      "Pleasure"
+    ],
+    "answer": 1,
+    "explanation": "<b>Lethargy</b> means a lack of energy and enthusiasm.<br><b>Drowsiness</b> (sleepiness/inactivity) is the closest synonym."
+  },
+  {
+    "section": "English Language",
+    "topic": "Antonyms",
+    "question": "Select the antonym of the given word: <br><b>TRANSIENT</b>",
+    "options": [
+      "Temporary",
+      "Permanent",
+      "Celestial",
+      "Stable"
+    ],
+    "answer": 1,
+    "explanation": "<b>Transient</b> means lasting only for a short time.<br><b>Permanent</b> is the opposite."
+  },
+  {
+    "section": "English Language",
+    "topic": "Antonyms",
+    "question": "Select the antonym of the given word: <br><b>LIBERTY</b>",
+    "options": [
+      "Freedom",
+      "Slavery",
+      "Autonomy",
+      "Reservation"
+    ],
+    "answer": 1,
+    "explanation": "<b>Liberty</b> means the state of being free.<br><b>Slavery</b> (bondage) is the opposite."
+  },
+  {
+    "section": "English Language",
+    "topic": "Idioms & Phrases",
+    "question": "Select the meaning of the idiom: <br><b>'To read between the lines'</b>",
+    "options": [
+      "To read carefully",
+      "To understand the hidden meaning",
+      "To read very fast",
+      "To criticise the writer"
+    ],
+    "answer": 1,
+    "explanation": "<b>To read between the lines</b> means to look for or discover a meaning that is implied rather than explicitly stated."
+  },
+  {
+    "section": "English Language",
+    "topic": "Idioms & Phrases",
+    "question": "Select the meaning of the idiom: <br><b>'A white elephant'</b>",
+    "options": [
+      "A rare species",
+      "A useful item",
+      "Costly and useless possession",
+      "A close friend"
+    ],
+    "answer": 2,
+    "explanation": "<b>A white elephant</b> refers to a possession that is useless or troublesome, especially one that is expensive to maintain."
+  },
+  {
+    "section": "English Language",
+    "topic": "One Word Substitution",
+    "question": "Select the word which means the same as the group of words: <br><b>'One who knows everything'</b>",
+    "options": [
+      "Omnipresent",
+      "Omnipotent",
+      "Omniscient",
+      "Gullible"
+    ],
+    "answer": 2,
+    "explanation": "<b>Omniscient</b> means knowing everything.<br>(Omnipresent = present everywhere; Omnipotent = all-powerful)."
+  },
+  {
+    "section": "English Language",
+    "topic": "One Word Substitution",
+    "question": "Select the word which means the same as the group of words: <br><b>'A place where birds are kept'</b>",
+    "options": [
+      "Apiary",
+      "Aviary",
+      "Aquarium",
+      "Sanctuary"
+    ],
+    "answer": 1,
+    "explanation": "<b>Aviary</b> is a place for birds.<br>(Apiary is for bees)."
+  },
+  {
+    "section": "English Language",
+    "topic": "Spelling Correction",
+    "question": "Select the correctly spelled word.",
+    "options": [
+      "Embarassment",
+      "Embarrasment",
+      "Embarrassment",
+      "Embarasment"
+    ],
+    "answer": 2,
+    "explanation": "Correct spelling: <b>Embarrassment</b> (Double 'r', Double 's')."
+  },
+  {
+    "section": "English Language",
+    "topic": "Spelling Correction",
+    "question": "Select the incorrectly spelled word.",
+    "options": [
+      "Receive",
+      "Decieve",
+      "Perceive",
+      "Conceive"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is <b>Deceive</b> (Rule: 'i' before 'e' except after 'c')."
+  },
+  {
+    "section": "English Language",
+    "topic": "Voice (Active/Passive)",
+    "question": "Select the correct passive form: <br><i>'The police caught the thief.'</i>",
+    "options": [
+      "The thief was caught by the police.",
+      "The thief is caught by the police.",
+      "The thief had been caught by the police.",
+      "The police was caught by the thief."
+    ],
+    "answer": 0,
+    "explanation": "Active: Subject + V2 + Object (Past Indefinite).<br>Passive: Object + <b>was/were + V3</b> + by Subject.<br>'The thief <b>was caught</b> by the police.'"
+  },
+  {
+    "section": "English Language",
+    "topic": "Narration (Direct/Indirect)",
+    "question": "Select the correct indirect form: <br><i>He said to me, 'I am reading a book.'</i>",
+    "options": [
+      "He told me that he is reading a book.",
+      "He told me that he was reading a book.",
+      "He said to me that he was reading a book.",
+      "He told me that I was reading a book."
+    ],
+    "answer": 1,
+    "explanation": "Reporting verb 'said to' changes to 'told'. Present Continuous ('am reading') changes to Past Continuous (<b>'was reading'</b>)."
+  },
+  {
+    "section": "English Language",
+    "topic": "Para-Jumbles (PQRS)",
+    "question": "Given below are four jumbled sentences. Select the option that gives their correct order.<br>P. However, the rate of population increase is another important factor to consider.<br>Q. This change can be expressed in two ways.<br>R. Growth of population refers to the change in the number of inhabitants of a country.<br>S. First, in terms of absolute numbers and second, in terms of percentage change.",
+    "options": [
+      "RQSP",
+      "SRPQ",
+      "RQPS",
+      "QSPR"
+    ],
+    "answer": 0,
+    "explanation": "<b>R</b> introduces the topic (Growth of population).<br><b>Q</b> connects to R, mentioning 'two ways' to express the change.<br><b>S</b> details the 'two ways' mentioned in Q.<br><b>P</b> adds a contrasting/additional factor.<br>Order: <b>RQSP</b>."
+  },
+  {
+    "section": "English Language",
+    "topic": "Para-Jumbles (PQRS)",
+    "question": "Select the correct order:<br>A. He was a funny man.<br>B. People would laugh whenever they saw him.<br>C. Even when he was serious, he looked funny.<br>D. One day, he decided to change his image.",
+    "options": [
+      "ABCD",
+      "BADC",
+      "ACBD",
+      "CBAD"
+    ],
+    "answer": 0,
+    "explanation": "<b>A</b> introduces the character. <b>B</b> describes the effect of A. <b>C</b> elaborates on his funniness. <b>D</b> introduces a new event (change). Order: <b>ABCD</b>."
+  },
+  {
+    "section": "English Language",
+    "topic": "Sentence Improvement",
+    "question": "Improve the bracketed part: <br><i>She did not like the movie, (nor I did).</i>",
+    "options": [
+      "nor did I",
+      "nor I like it",
+      "nor did I like",
+      "No improvement"
+    ],
+    "answer": 0,
+    "explanation": "When a negative clause begins with 'nor' or 'neither', inversion is used (Auxiliary verb before subject).<br>Correct: '...nor <b>did I</b>'."
+  },
+  {
+    "section": "English Language",
+    "topic": "Fill in the Blanks",
+    "question": "Success is not solely dependent on intelligence; hard work is ______ important.",
+    "options": [
+      "hardly",
+      "equally",
+      "scarcely",
+      "never"
+    ],
+    "answer": 1,
+    "explanation": "The sentence compares intelligence and hard work, suggesting they have similar weight.<br><b>Equally</b> fits best."
+  },
+  {
+    "section": "English Language",
+    "topic": "Cloze Test",
+    "question": "<b>(Passage Q21-25)</b> Fill in blank #1.<br><i>Sanitation refers to public health conditions ______ (1) to clean drinking water and adequate treatment and disposal of human excreta and sewage.</i>",
+    "options": [
+      "relate",
+      "related",
+      "relating",
+      "relation"
+    ],
+    "answer": 1,
+    "explanation": "We need the past participle to function as an adjective modifying 'conditions'.<br>Correct: 'conditions <b>related</b> to...'."
+  },
+  {
+    "section": "English Language",
+    "topic": "Cloze Test",
+    "question": "<b>(Passage Q21-25)</b> Fill in blank #2.<br><i>Preventing human contact with feces is part of ______ (2) sanitation.</i>",
+    "options": [
+      "sanitation",
+      "hygiene",
+      "procedural",
+      "sanitary"
+    ],
+    "answer": 0,
+    "explanation": "This is a standard definition. 'Sanitation' is the noun used here to complete the phrase 'part of <b>sanitation</b>' (referring to the system/process)."
+  },
+  {
+    "section": "English Language",
+    "topic": "Cloze Test",
+    "question": "<b>(Passage Q21-25)</b> Fill in blank #3.<br><i>Sanitation systems ______ (3) to protect human health by providing a clean environment...</i>",
+    "options": [
+      "aim",
+      "aims",
+      "aimed",
+      "aiming"
+    ],
+    "answer": 0,
+    "explanation": "Subject is 'Sanitation systems' (plural). Verb must be plural.<br>Correct: <b>aim</b>."
+  },
+  {
+    "section": "English Language",
+    "topic": "Cloze Test",
+    "question": "<b>(Passage Q21-25)</b> Fill in blank #4.<br><i>...that will stop the transmission of ______ (4).</i>",
+    "options": [
+      "diseases",
+      "discomfort",
+      "problems",
+      "bacteria"
+    ],
+    "answer": 0,
+    "explanation": "The context is public health. Sanitation stops the transmission of <b>diseases</b>."
+  },
+  {
+    "section": "English Language",
+    "topic": "Cloze Test",
+    "question": "<b>(Passage Q21-25)</b> Fill in blank #5.<br><i>Lack of ______ (5) sanitation is a major cause of disease worldwide.</i>",
+    "options": [
+      "plenty",
+      "adequate",
+      "good",
+      "extreme"
+    ],
+    "answer": 1,
+    "explanation": "The standard collocation in health contexts is <b>adequate</b> sanitation (meaning sufficient/satisfactory)."
+  }
+]
