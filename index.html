@@ -206,6 +206,37 @@
             #next-btn { display: none; } 
         }
         @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
+
+        /* Delete Button Style */
+.del-btn {
+    position: absolute;
+    right: 10px; 
+    top: 50%;
+    transform: translateY(-50%);
+    color: #ff5252;
+    font-size: 1.6rem;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0 8px;
+    z-index: 20;
+    line-height: 1;
+    display: none; /* Hidden by default */
+}
+.del-btn:hover {
+    color: #d50000;
+    background-color: #ffebee;
+    border-radius: 50%;
+}
+
+/* Show Delete button ONLY when it is NOT a cloud file */
+.file-card:not(.cloud-item) .del-btn {
+    display: block;
+}
+
+/* Adjust text padding so it doesn't overlap the delete button */
+.file-card:not(.cloud-item) .file-name {
+    padding-right: 40px; 
+}
     </style>
 </head>
 <body>
@@ -549,53 +580,88 @@ async function saveAndSync() {
 
     // --- RENDER GRID (LIST VIEW) ---
     function renderGrid() {
-        const grid = document.getElementById('file-grid');
-        grid.innerHTML = '';
-        const search = document.getElementById('searchInput').value.toLowerCase();
+    const grid = document.getElementById('file-grid');
+    grid.innerHTML = '';
+    const search = document.getElementById('searchInput').value.toLowerCase();
+    
+    let masterMap = new Map();
+    
+    // 1. Process Cloud Files
+    cloudList.forEach(item => {
+        masterMap.set(item.name, { ...item, source: 'cloud', qCount: 'Tap to Load' });
+    });
+
+    // 2. Process Local Files (Overwrite cloud entry if exists locally)
+    Object.keys(library).forEach(name => {
+        masterMap.set(name, { 
+            name: name, 
+            source: 'local', 
+            qCount: library[name].length + ' Qs' 
+        });
+    });
+
+    // 3. Filter & Sort
+    let displayList = Array.from(masterMap.values()).filter(item => 
+        item.name.toLowerCase().includes(search)
+    );
+    displayList.sort((a, b) => a.name.localeCompare(b.name));
+
+    // 4. Render
+    displayList.forEach(item => {
+        const d = document.createElement('div');
+        // Add specific class 'cloud-item' if source is cloud
+        d.className = `file-card ${item.source === 'cloud' ? 'cloud-item' : ''}`;
         
-        // Merge Local and Cloud
-        let masterMap = new Map();
-        cloudList.forEach(item => {
-            masterMap.set(item.name, { ...item, source: 'cloud', qCount: 'Tap to Load' });
-        });
-        Object.keys(library).forEach(name => {
-            masterMap.set(name, { name: name, source: 'local', qCount: library[name].length + ' Qs' });
-        });
+        if (isMultiMode && selectedFiles.has(item.name)) d.classList.add('multi-selected');
+        else if (item.name === activeFile) d.classList.add('active');
 
-        // Filter and Sort Alphabetically
-        let displayList = Array.from(masterMap.values()).filter(item => 
-            item.name.toLowerCase().includes(search)
-        );
-        displayList.sort((a, b) => a.name.localeCompare(b.name));
+        const icon = item.source === 'local' ? '📂' : '☁️';
+        const metaColor = item.source === 'local' ? '#666' : 'var(--accent)';
+        
+        // Only generate Delete HTML if source is local
+        const deleteHtml = item.source === 'local' 
+            ? `<div class="del-btn" onclick="deleteFile(event, '${item.name}')" title="Delete Local Copy">×</div>` 
+            : '';
 
-        displayList.forEach(item => {
-            const d = document.createElement('div');
-            d.className = 'file-card';
-            if (isMultiMode && selectedFiles.has(item.name)) d.classList.add('multi-selected');
-            else if (item.name === activeFile) d.classList.add('active');
+        d.innerHTML = `
+            <div class="status-badge">${icon}</div>
+            <span class="file-name">${item.name}</span>
+            <small class="file-meta" style="color:${metaColor}">${item.qCount}</small>
+            ${deleteHtml}
+            <div class="multi-check">✔</div>
+        `;
+        
+        d.onclick = async () => {
+            if(isMultiMode) {
+               if(item.source === 'local') handleCardClick(item.name);
+            } else {
+                if(item.source === 'local') handleCardClick(item.name);
+                else await fetchAndLoad(item);
+            }
+        };
+        grid.appendChild(d);
+    });
 
-            const icon = item.source === 'local' ? '📂' : '☁️';
-            const metaColor = item.source === 'local' ? '#666' : 'var(--accent)';
-            
-            d.innerHTML = `
-                <div class="status-badge">${icon}</div>
-                <span class="file-name">${item.name}</span>
-                <small class="file-meta" style="color:${metaColor}">${item.qCount}</small>
-                <div class="multi-check">✔</div>
-            `;
-            
-            d.onclick = async () => {
-                if(isMultiMode) {
-                   handleCardClick(item.name); // Only works if local
-                } else {
-                    if(item.source === 'local') handleCardClick(item.name);
-                    else await fetchAndLoad(item);
-                }
-            };
-            grid.appendChild(d);
-        });
-        if(displayList.length === 0) grid.innerHTML = '<div style="color:#999; padding:20px; text-align:center;">No tests found.</div>';
+    if(displayList.length === 0) grid.innerHTML = '<div style="color:#999; padding:20px; text-align:center;">No tests found.</div>';
+}
+    function deleteFile(event, name) {
+    // Stop the click from bubbling up to the card (prevent opening the test)
+    event.stopPropagation();
+    
+    if(confirm(`Remove "${name}" from local library?`)) {
+        delete library[name];
+        saveLibraryToStorage();
+        
+        // If the deleted file was currently selected, reset selection
+        if(activeFile === name) {
+            activeFile = '';
+            document.getElementById('start-btn').innerText = "SELECT TEST";
+            document.getElementById('start-btn').disabled = true;
+        }
+        
+        renderGrid(); // Refresh the list
     }
+}
 
     document.getElementById('jsonFile').onchange = (e) => loadFiles(e.target.files);
     function loadLibraryFromStorage() {
