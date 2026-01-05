@@ -807,11 +807,26 @@
     }
     function returnToLibrary() { document.getElementById('result-screen').classList.remove('active'); document.getElementById('upload-screen').classList.add('active'); renderGrid(); loadHistory(); }
     function downloadRes() {
-        const html = document.getElementById('result-screen').innerHTML;
-        const css = document.getElementsByTagName('style')[0].innerText;
-        const blob = new Blob([`<html><head><style>${css} body{overflow:visible;} #result-screen{display:block!important;}</style></head><body><div id="result-screen">${html}</div></body></html>`], {type:'text/html'});
-        const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = `Result.html`; a.click();
-    }
+    const html = document.getElementById('result-screen').innerHTML;
+    const css = document.getElementsByTagName('style')[0].innerText;
+    
+    // Create the Blob
+    const blob = new Blob([`<html><head><style>${css} body{overflow:visible;} #result-screen{display:block!important;}</style></head><body><div id="result-screen">${html}</div></body></html>`], {type:'text/html'});
+    
+    // Generate Dynamic Filename
+    // 1. Remove .json extension
+    let cleanName = activeFile.replace(/\.json$/i, '');
+    // 2. Remove " (Review)" tag if present
+    cleanName = cleanName.replace(/ \(Review\)$/i, '');
+    // 3. Replace special characters/spaces with underscores for safety
+    cleanName = cleanName.replace(/[^a-z0-9\-_]/gi, '_');
+    
+    const a = document.createElement('a'); 
+    a.href = URL.createObjectURL(blob);
+    // 4. Set the filename
+    a.download = `Result_${cleanName}.html`; 
+    a.click();
+}
 </script>
 </body>
 </html>
