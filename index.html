@@ -457,7 +457,7 @@
             if(item.name === activeFile) d.classList.add('active');
             if(selectedFiles.has(item.name)) d.classList.add('multi-selected');
             
-            const del = item.source === 'local' ? `<div class="del-btn" onclick="deleteFile(event,'${item.name}')">🗑️</div>` : '';
+            const del = item.source === 'local' ? `<div class="del-btn" onclick="deleteFile(event,'${item.name}')">⛔</div>` : '';
             d.innerHTML = `<div class="status-badge">${item.source==='local'?'📂':'☁️'}</div>
                            <span class="file-name">${item.name}</span>
                            <small class="file-meta">${item.qCount}</small>${del}
