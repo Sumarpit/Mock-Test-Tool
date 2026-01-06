@@ -1,0 +1,182 @@
+[
+  {
+    "question": "<b>Topic: Union Budget 2025-26 (Fiscal Metrics)</b><br>As per the Union Budget 2025-26, the Fiscal Deficit target for the year 2025-26 has been set at what percentage of GDP?",
+    "options": ["5.1%", "4.9%", "4.5%", "4.4%"],
+    "answer": 3,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Union Budget - Deficits",
+    "explanation": "The fiscal deficit target is set at **4.4% of GDP** for 2025-26, continuing the declining trend from previous years."
+  },
+  {
+    "question": "<b>Topic: Union Budget 2025-26 (MSME)</b><br>Under the revised MSME classification announced in the Union Budget 2025-26, the investment limit for 'Micro Enterprises' has been increased to:",
+    "options": ["₹1 Crore", "₹2 Crore", "₹2.5 Crore", "₹5 Crore"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Government Schemes - MSME",
+    "explanation": "The investment limit for Micro Enterprises has been increased to **₹2.5 Crore** to encourage growth and modernization."
+  },
+  {
+    "question": "<b>Topic: Union Budget 2025-26 (Taxation)</b><br>The Tax Deduction at Source (TDS) limit for senior citizens has been doubled in the Union Budget 2025-26 from ₹50,000 to:",
+    "options": ["₹75,000", "₹1 Lakh", "₹1.5 Lakh", "₹2 Lakh"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Direct Tax",
+    "explanation": "To provide relief to senior citizens, the TDS deduction limit on interest income has been raised to **₹1 Lakh**."
+  },
+  {
+    "question": "<b>Topic: Union Budget 2025-26 (FDI)</b><br>In a major boost to the financial sector, the Union Budget 2025-26 has proposed to increase the Foreign Direct Investment (FDI) limit in the Insurance sector to:",
+    "options": ["49%", "74%", "100%", "51%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Financial Sector Reforms",
+    "explanation": "The budget proposes raising the FDI limit in the insurance sector from 74% to **100%** to attract more global capital."
+  },
+  {
+    "question": "<b>Topic: Union Budget 2025-26 (Infrastructure)</b><br>The 'Asset Monetization Plan' announced in the Union Budget aims to raise what amount for reinvestment in new infrastructure projects over the period 2025-2030?",
+    "options": ["₹5 Lakh Crore", "₹6 Lakh Crore", "₹10 Lakh Crore", "₹12.5 Lakh Crore"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Infrastructure Financing",
+    "explanation": "The plan aims to monetize public infrastructure assets to raise **₹10 Lakh Crore** for fresh investment."
+  },
+  {
+    "question": "<b>Topic: Union Budget 2025-26 (Credit Guarantee)</b><br>To support Micro and Small Enterprises (MSEs), the credit guarantee cover has been increased from ₹5 Crore to:",
+    "options": ["₹7.5 Crore", "₹10 Crore", "₹15 Crore", "₹20 Crore"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Banking & Finance Schemes",
+    "explanation": "The credit guarantee cover for MSEs has been doubled to **₹10 Crore** to improve credit flow."
+  },
+  {
+    "question": "<b>Topic: Union Budget 2025-26 (Housing)</b><br>The SWAMIH Fund-2 has been allocated a corpus of ______ to complete 1 lakh dwelling units.",
+    "options": ["₹10,000 Crore", "₹12,000 Crore", "₹15,000 Crore", "₹25,000 Crore"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Housing Finance",
+    "explanation": "An allocation of **₹15,000 Crore** has been made to the SWAMIH Fund-2 for completing stalled housing projects."
+  },
+  {
+    "question": "<b>Topic: Union Budget 2025-26 (Deficits)</b><br>The 'Revenue Deficit' target for the fiscal year 2025-26 has been set at what percentage of GDP?",
+    "options": ["1.2%", "1.5%", "1.8%", "2.0%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Fiscal Policy",
+    "explanation": "The Revenue Deficit target is set at **1.5% of GDP**, indicating an improvement in the quality of government expenditure."
+  },
+  {
+    "question": "<b>Topic: Union Budget 2025-26 (Investment)</b><br>The investment period for Sovereign Wealth Funds and Pension Funds in the infrastructure sector has been extended by how many years?",
+    "options": ["2 Years", "3 Years", "5 Years", "7 Years"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Capital Markets",
+    "explanation": "To attract long-term capital, the tax exemption/investment period for these funds has been extended by **5 years**."
+  },
+  {
+    "question": "<b>Topic: Economic Survey 2024-25 (GDP)</b><br>According to the first advance estimates by NSO, what is the projected Real GDP growth rate of India for FY25?",
+    "options": ["6.1%", "6.4%", "6.7%", "7.0%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Economics",
+    "topic": "National Income",
+    "explanation": "India's real GDP growth for FY25 is projected at **6.4%**, reflecting stability amidst global headwinds."
+  },
+  {
+    "question": "<b>Topic: Economic Survey 2024-25 (Inflation)</b><br>Retail headline inflation (CPI) moderated during April-December 2024 to:",
+    "options": ["4.5%", "4.9%", "5.1%", "5.4%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Economics",
+    "topic": "Inflation",
+    "explanation": "CPI inflation decreased to **4.9%** during Apr-Dec 2024, down from 5.4% in FY24."
+  },
+  {
+    "question": "<b>Topic: Economic Survey 2024-25 (Banking)</b><br>The consolidated Capital to Risk-Weighted Assets Ratio (CRAR) of Regional Rural Banks (RRBs) reached an all-time high of ______ by March 2024.",
+    "options": ["13.8%", "14.0%", "14.2%", "14.5%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Banking Ratios",
+    "explanation": "RRBs showed robust health with CRAR reaching **14.2%** and GNPA improving to 6.1%."
+  },
+  {
+    "question": "<b>Topic: Economic Survey 2024-25 (Capital Markets)</b><br>According to the Survey, the Corporate Bond Market in India is currently what percentage of GDP?",
+    "options": ["15%", "18%", "22%", "25%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Financial Markets",
+    "explanation": "The corporate bond market remains undercapitalized at **18% of GDP**, compared to 80% in Korea."
+  },
+  {
+    "question": "<b>Topic: Economic Survey 2024-25 (External Sector)</b><br>India's share in global services exports increased to approximately ______ in 2023.",
+    "options": ["3.5%", "4.0%", "4.3%", "4.8%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Economics",
+    "topic": "Foreign Trade",
+    "explanation": "India's share in global services exports rose to **4.3%**, ranking it 7th globally."
+  },
+  {
+    "question": "<b>Topic: Economic Survey 2024-25 (Insurance)</b><br>What was India's Insurance Penetration in FY24?",
+    "options": ["2.7%", "3.2%", "3.7%", "4.2%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Insurance Sector",
+    "explanation": "Insurance penetration stood at **3.7%** in FY24, a slight decline from 4% in FY23."
+  },
+  {
+    "question": "<b>Topic: Economic Survey 2024-25 (Forex)</b><br>In 2024, India became the ______ largest foreign exchange reserve holder in the world.",
+    "options": ["3rd", "4th", "5th", "6th"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Economics",
+    "topic": "External Sector",
+    "explanation": "India is the **4th** largest forex holder, after China, Japan, and Switzerland."
+  },
+  {
+    "question": "<b>Topic: Economic Survey 2024-25 (External Debt)</b><br>As of September 2024, which currency held the largest share in India's external debt composition?",
+    "options": ["Indian Rupee", "US Dollar", "Euro", "SDR"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Economics",
+    "topic": "External Debt",
+    "explanation": "**US Dollar** denominated debt accounted for **53.4%**, followed by the Indian Rupee at 31.2%."
+  },
+  {
+    "question": "<b>Topic: Economic Survey 2024-25 (Stock Market)</b><br>At the end of December 2024, India's Market Capitalization to GDP ratio stood at:",
+    "options": ["112%", "124%", "136%", "145%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Capital Markets",
+    "explanation": "The Market Cap to GDP ratio reached **136%**, significantly higher than other emerging economies."
+  },
+  {
+    "question": "<b>Topic: Economic Survey 2024-25 (Primary Market)</b><br>In 2024, India's share in global IPO listings rose to ______ making it a leading contributor to global primary resource mobilization.",
+    "options": ["20%", "25%", "28%", "30%"],
+    "answer": 3,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Primary Markets",
+    "explanation": "India's share in global IPO listings surged to **30%** in 2024, up from 17% in 2023."
+  },
+  {
+    "question": "<b>Topic: Economic Survey 2024-25 (Power)</b><br>What is the target set for the share of non-fossil fuel sources in India's installed electricity generation capacity by 2030?",
+    "options": ["40%", "50%", "60%", "75%"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Infrastructure - Power",
+    "explanation": "India aims to achieve **50%** cumulative electric power installed capacity from non-fossil fuel-based energy resources by 2030. (Current status: ~46.8%)."
+  }
+]
