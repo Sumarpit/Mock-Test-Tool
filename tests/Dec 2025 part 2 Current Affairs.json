@@ -1,0 +1,182 @@
+[
+  {
+    "question": "<b>Topic: SEBI (Merchant Bankers) Regulations</b><br>As per the December 2025 overhaul, what is the minimum net worth requirement for Category 2 Merchant Bankers?",
+    "options": ["₹5 crore", "₹10 crore", "₹25 crore", "₹50 crore"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Regulatory Bodies",
+    "explanation": "While Category 1 MBs require ₹50 crore, Category 2 Merchant Bankers are now mandated to have a minimum net worth of ₹10 crore and a cumulative revenue of ₹2.5 crore."
+  },
+  {
+    "question": "<b>Topic: SEBI Capital Adequacy</b><br>Under the new framework for Merchant Bankers, all categories must maintain a liquid net worth of at least what percentage of their minimum requirement at all times?",
+    "options": ["10%", "20%", "25%", "50%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Regulatory Bodies",
+    "explanation": "According to the SEBI December 2025 update, all Merchant Bankers must maintain a liquid net worth of at least 25% of the minimum requirement at all times."
+  },
+  {
+    "question": "<b>Topic: SEBI SWAGAT-FI Framework</b><br>The Single Window Automatic & Generalised Access for Trusted Foreign Investors (SWAGAT-FI) framework is set to become effective from which date?",
+    "options": ["January 1, 2026", "April 1, 2026", "June 1, 2026", "December 17, 2025"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Regulatory Bodies",
+    "explanation": "SEBI notified the SWAGAT-FI framework to simplify registration for low-risk FPIs and FVCIs, with an effective date of June 1, 2026."
+  },
+  {
+    "question": "<b>Topic: SEBI PaRRVA Pilot</b><br>Which two entities partnered to develop the Past Risk and Return Verification Agency (PaRRVA) to authenticate performance claims by investment advisers?",
+    "options": ["CRISIL and BSE", "Care Ratings and NSE", "ICRA and NSDL", "India Ratings and MCX"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Regulatory Bodies",
+    "explanation": "The PaRRVA pilot was launched by SEBI and developed specifically by Care Ratings and NSE."
+  },
+  {
+    "question": "<b>Topic: RBI Monetary Policy</b><br>Following the December 2025 MPC meeting, what is the current Standing Deposit Facility (SDF) rate?",
+    "options": ["5.50%", "5.25%", "5.00%", "4.75%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Banking Awareness",
+    "topic": "RBI Policy",
+    "explanation": "With the Policy Repo Rate reduced to 5.25%, the Standing Deposit Facility (SDF) remains at 5.00%."
+  },
+  {
+    "question": "<b>Topic: PFRDA (NPS) Regulations</b><br>What is the new maximum entry and exit age for the National Pension System (NPS) as per the December 2025 amendments?",
+    "options": ["65 years", "70 years", "75 years", "85 years"],
+    "answer": 3,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Regulatory Bodies",
+    "explanation": "PFRDA has increased the maximum entry and exit age for NPS participants to 85 years."
+  },
+  {
+    "question": "<b>Topic: Insurance Regulatory Updates</b><br>The Insurance Laws (Amendment) Bill, 2025, reduced the Net Owned Fund (NOF) requirement for foreign reinsurance branches to what amount?",
+    "options": ["₹500 crore", "₹1,000 crore", "₹2,500 crore", "₹5,000 crore"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Regulatory Bodies",
+    "explanation": "The NOF requirement for foreign reinsurance branches was significantly reduced from ₹5,000 crore to ₹1,000 crore."
+  },
+  {
+    "question": "<b>Topic: Banking Supervision (D-SIBs)</b><br>Which bank is required to maintain an additional Common Equity Tier 1 (CET1) requirement of 0.20% as a D-SIB in 2025?",
+    "options": ["SBI", "HDFC Bank", "ICICI Bank", "Axis Bank"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Banking Awareness",
+    "topic": "Banking Sector",
+    "explanation": "Under the D-SIB 2025 framework, the CET1 requirements are: SBI (0.80%), HDFC Bank (0.40%), and ICICI Bank (0.20%)."
+  },
+  {
+    "question": "<b>Topic: Banking History / Legislation</b><br>The Model Co-op. Bank Ltd. was recently included in which schedule of the RBI Act, 1934?",
+    "options": ["First Schedule", "Second Schedule", "Third Schedule", "Fourth Schedule"],
+    "answer": 1,
+    "marks": 1,
+    "section": "Banking Awareness",
+    "topic": "Banking Sector",
+    "explanation": "Model Co-op. Bank Ltd. was included in the Second Schedule to the RBI Act, 1934, granting it Scheduled Bank status."
+  },
+  {
+    "question": "<b>Topic: Economic Reports</b><br>According to the World Inequality Report 2026, the top 10% of the population in India earns what percentage of the national income?",
+    "options": ["45%", "50%", "58%", "62%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "ESI",
+    "topic": "Reports and Indices",
+    "explanation": "The report highlighted significant inequality, with the top 10% earning 58% of national income while the bottom 50% earn only 15%."
+  },
+  {
+    "question": "<b>Topic: GDP Projections</b><br>The Asian Development Bank (ADB) in its Asian Development Outlook revised India's GDP growth forecast for FY2026 to what percentage?",
+    "options": ["7.3%", "7.2%", "6.5%", "6.8%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "ESI",
+    "topic": "National Income",
+    "explanation": "ADB revised the FY2025 forecast to 7.2%, while the forecast for FY2026 is set at 6.5%."
+  },
+  {
+    "question": "<b>Topic: Macroeconomic Indicators</b><br>What was the headline inflation rate for Q2 2025-26 as mentioned in the RBI December 2025 MPC report?",
+    "options": ["1.7%", "2.0%", "4.0%", "5.1%"],
+    "answer": 0,
+    "marks": 1,
+    "section": "ESI",
+    "topic": "Inflation",
+    "explanation": "While the FY26 projection is 2%, the headline inflation for Q2 2025-26 was recorded at 1.7%."
+  },
+  {
+    "question": "<b>Topic: Employment Statistics</b><br>As per the latest PLFS data, the rural Unemployment Rate (UR) reached a new low of what percentage?",
+    "options": ["4.7%", "4.2%", "3.9%", "3.1%"],
+    "answer": 2,
+    "marks": 1,
+    "section": "ESI",
+    "topic": "Employment",
+    "explanation": "The overall UR was 4.7%, but the rural UR reached a specific new low of 3.9%."
+  },
+  {
+    "question": "<b>Topic: Payment Aggregator Norms</b><br>To be approved as a Payment Aggregator (PA), a firm must achieve a minimum net worth of how much by the end of the second year?",
+    "options": ["₹10 crore", "₹15 crore", "₹25 crore", "₹50 crore"],
+    "answer": 2,
+    "marks": 1,
+    "section": "Banking Awareness",
+    "topic": "Regulatory Bodies",
+    "explanation": "Firms need a minimum net worth of ₹15 crore in the first year and must reach ₹25 crore by the second year to maintain PA status."
+  },
+  {
+    "question": "<b>Topic: International Relations</b><br>India is scheduled to take over the BRICS presidency in 2026 from which country?",
+    "options": ["Russia", "China", "South Africa", "Brazil"],
+    "answer": 3,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "International Bodies",
+    "explanation": "India will assume the BRICS presidency for 2026, receiving the gavel from Brazil."
+  },
+  {
+    "question": "<b>Topic: Government Schemes (VB–G RAM G)</b><br>The newly launched VB–G RAM G scheme replaces MGNREGA and increases the statutory guarantee of employment to how many days?",
+    "options": ["100 days", "125 days", "150 days", "200 days"],
+    "answer": 1,
+    "marks": 1,
+    "section": "ESI",
+    "topic": "Government Schemes",
+    "explanation": "VB–G RAM G (Viksit Bharat—Guarantee for Rozgar and Ajeevika Mission) officially replaces MGNREGA and raises the guarantee to 125 days."
+  },
+  {
+    "question": "<b>Topic: Nuclear Energy Mission</b><br>Phase 1 of the Nuclear Energy Mission Scheme targets reaching a total capacity of 100 GW by which year?",
+    "options": ["2030", "2035", "2040", "2047"],
+    "answer": 3,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "National News",
+    "explanation": "The scheme, with an outlay of ₹20,000 crore, targets a capacity of 100 GW by the year 2047."
+  },
+  {
+    "question": "<b>Topic: Digital Agriculture Mission</b><br>What is the total outlay for the Digital Agriculture Mission as approved in December 2025?",
+    "options": ["₹1,827 Crore", "₹2,817 Crore", "₹6,000 Crore", "₹11,718 Crore"],
+    "answer": 1,
+    "marks": 1,
+    "section": "ESI",
+    "topic": "Government Schemes",
+    "explanation": "The Digital Agriculture Mission was approved with a total outlay of ₹2,817 crore, of which the Central share is ₹1,940 crore."
+  },
+  {
+    "question": "<b>Topic: Science & Technology (NISAR)</b><br>The NISAR satellite, described as the world's most expensive Earth observation satellite, was jointly developed by ISRO and which other agency?",
+    "options": ["ESA", "JAXA", "NASA", "Roscosmos"],
+    "answer": 2,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Science and Technology",
+    "explanation": "NISAR is the first satellite jointly developed by NASA and ISRO."
+  },
+  {
+    "question": "<b>Topic: Startup Ecosystem</b><br>India's first incubator-linked deep tech VC fund, the Y-Point Venture Capital Fund, was launched with a corpus of how much?",
+    "options": ["₹100 crore", "₹250 crore", "₹500 crore", "₹1,000 crore"],
+    "answer": 1,
+    "marks": 1,
+    "section": "General Awareness",
+    "topic": "Banking and Finance",
+    "explanation": "Launched by IIT Bombay’s SINE, the Y-Point Venture Capital Fund has a corpus of ₹250 crore."
+  }
+]
