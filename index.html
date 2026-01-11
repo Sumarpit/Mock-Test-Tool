@@ -355,8 +355,7 @@
 </div>
 
 <script src="config.js"></script>
-
-<script src="config.js"></script>
+<script src="extensions.js"></script>
 
 <script>
     // --- VARIABLES ---
@@ -381,16 +380,14 @@
     
     window.onload = () => { 
         try { 
-            // 1. Load Profile (Default to first in config if missing)
+            // 1. Load Profile
             const savedProfile = localStorage.getItem(BASE_KEY + 'profile');
             if (savedProfile && typeof EXAM_PROFILES !== 'undefined' && EXAM_PROFILES[savedProfile]) {
                 currentProfile = savedProfile;
             } else if (typeof EXAM_PROFILES !== 'undefined') {
                 currentProfile = Object.keys(EXAM_PROFILES)[0];
             } else {
-                console.error("Config.js not loaded!");
-                alert("Error: config.js missing.");
-                return;
+                alert("Error: config.js missing."); return;
             }
 
             updateKeys();
@@ -401,23 +398,21 @@
             loadHistory(); 
             checkResume(); 
             
-            let touchStartX=0, touchEndX=0;
             const ta = document.getElementById('touch-area');
             if(ta) {
-                ta.addEventListener('touchstart', e => touchStartX = e.changedTouches[0].screenX);
-                ta.addEventListener('touchend', e => { touchEndX = e.changedTouches[0].screenX; handleSwipe(touchStartX, touchEndX); });
+                let ts=0, te=0;
+                ta.addEventListener('touchstart', e => ts = e.changedTouches[0].screenX);
+                ta.addEventListener('touchend', e => { te = e.changedTouches[0].screenX; if(ts-te>50)nextQ(); else if(te-ts>50)prevQ(); });
             }
         } catch(e){ console.error("Init Error:", e); } 
     };
 
     function updateKeys() { LIB_KEY = BASE_KEY + 'lib_' + currentProfile; HIST_KEY = BASE_KEY + 'hist_' + currentProfile; }
-    function handleSwipe(start, end) { if (start - end > 50) nextQ(); else if (end - start > 50) prevQ(); }
 
     // --- SWITCHER ---
     function initExamSelector() {
         const sel = document.getElementById('examSelector'); 
-        if(!sel) return;
-        sel.innerHTML = '';
+        if(!sel) return; sel.innerHTML = '';
         Object.keys(EXAM_PROFILES).forEach(key => {
             const opt = document.createElement('option');
             opt.value = key; opt.innerText = EXAM_PROFILES[key].name;
@@ -448,9 +443,7 @@
     // --- DATA ---
     async function loadFromGitHubAPI() {
         try {
-            // Check if REPO_OWNER is defined (from config.js)
             if(typeof REPO_OWNER === 'undefined') return;
-            
             const res = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${EXAM_PROFILES[currentProfile].folder}`);
             if (!res.ok) throw new Error("Empty");
             const data = await res.json();
@@ -513,8 +506,7 @@
     }
 
     function deleteFile(e, name) {
-        e.stopPropagation();
-        if(confirm(`Delete ${name}?`)) {
+        e.stopPropagation(); if(confirm(`Delete ${name}?`)) {
             delete library[name]; saveLibraryToStorage();
             if(activeFile===name) { activeFile=''; document.getElementById('start-btn').disabled=true; }
             renderGrid();
@@ -550,10 +542,7 @@
         if(!files.length) return;
         Array.from(files).forEach(f => {
             const r = new FileReader();
-            r.onload = e => { 
-                try { library[f.name] = JSON.parse(e.target.result); saveLibraryToStorage(); renderGrid(); } 
-                catch(x){ alert('Invalid JSON'); }
-            };
+            r.onload = e => { try { library[f.name] = JSON.parse(e.target.result); saveLibraryToStorage(); renderGrid(); } catch(x){ alert('Invalid JSON'); } };
             r.readAsText(f);
         });
     }
@@ -578,7 +567,6 @@
         }
         return groups.flat().map(q => {
             let nq = JSON.parse(JSON.stringify(q));
-            // Only shuffle options for Objective Questions
             if (nq.type !== 'descriptive' && nq.noShuffle !== true) {
                 const fixed = ["Both", "All of", "None of", "Only A"].some(x => nq.options.some(o => o.includes(x)));
                 if (!fixed) {
@@ -628,10 +616,15 @@
         else { hdr.classList.remove('review-mode'); tmr.classList.remove('review-timer'); }
 
         questions.forEach((_,i) => visited[i]=false);
+        
+        // --- HOOK: EXAM START ---
+        if(typeof EXAM_HOOKS !== 'undefined' && EXAM_HOOKS.onExamStart) {
+            EXAM_HOOKS.onExamStart(currentProfile);
+        }
+
         startTimer(); loadQ(0); saveState();
     }
 
-    // --- LOAD QUESTION (Descriptive & Objective) ---
     function loadQ(i) {
         if (lastQTime !== 0) { qTimers[currIdx] = (qTimers[currIdx] || 0) + (Date.now() - lastQTime) / 1000; }
         lastQTime = Date.now(); 
@@ -649,34 +642,27 @@
         document.getElementById('q-text').innerHTML = q.question;
         
         const box = document.getElementById('options-box'); box.innerHTML = '';
+        const cBox = document.getElementById('conf-box');
+
+        // Reset Confidence Box to Default (Block)
+        cBox.style.display = 'block';
 
         if (q.type === 'descriptive') {
-            // Render Text Area
+            // Descriptive UI
             const savedText = responses[i] || "";
             const textArea = document.createElement('textarea');
-            textArea.style.width = "100%";
-            textArea.style.height = "250px";
-            textArea.style.padding = "10px";
-            textArea.style.border = "1px solid #ccc";
-            textArea.style.borderRadius = "6px";
-            textArea.style.fontFamily = "Arial, sans-serif";
-            textArea.style.fontSize = "1rem";
-            textArea.style.marginBottom = "10px";
+            textArea.style.width = "100%"; textArea.style.height = "250px"; textArea.style.padding = "10px";
+            textArea.style.border = "1px solid #ccc"; textArea.style.borderRadius = "6px";
+            textArea.style.fontSize = "1rem"; textArea.style.marginBottom = "10px";
             textArea.placeholder = "Type your answer here...";
             textArea.value = savedText;
-            
-            textArea.oninput = (e) => {
-                responses[i] = e.target.value;
-                saveState();
-            };
+            textArea.oninput = (e) => { responses[i] = e.target.value; saveState(); };
             box.appendChild(textArea);
             
-            // Hide Confidence Box for Descriptive
-            document.getElementById('conf-box').style.display = 'none';
+            cBox.style.display = 'none'; // Default hide for descriptive
 
         } else {
-            // Render Objective Options
-            document.getElementById('conf-box').style.display = 'block';
+            // Objective UI
             q.options.forEach((opt, idx) => {
                 const div = document.createElement('div'); div.className = 'opt-label';
                 if(responses[i] === idx) div.classList.add('selected');
@@ -685,8 +671,7 @@
                 box.appendChild(div);
             });
 
-            // Update Confidence UI
-            const cBox = document.getElementById('conf-box');
+            // Update Confidence
             const cBtns = document.querySelectorAll('.c-btn');
             if(responses[i] !== undefined) {
                 cBox.classList.add('active');
@@ -700,6 +685,12 @@
         const btn = document.getElementById('next-btn');
         if(i === questions.length-1) { btn.innerText = "Submit Test"; btn.style.background = "#e67e22"; }
         else { btn.innerText = "Save & Next"; btn.style.background = "#2962ff"; }
+        
+        // --- HOOK: QUESTION LOAD ---
+        if(typeof EXAM_HOOKS !== 'undefined' && EXAM_HOOKS.onQuestionLoad) {
+            EXAM_HOOKS.onQuestionLoad(currentProfile, q, i);
+        }
+
         renderPalette();
         saveState();
     }
@@ -710,13 +701,11 @@
     function prevQ() { if(currIdx > 0) loadQ(currIdx-1); }
 
     function renderPalette() {
-        const p = document.getElementById('palette');
-        p.innerHTML = '';
+        const p = document.getElementById('palette'); p.innerHTML = '';
         questions.forEach((q, i) => {
             const b = document.createElement('div'); b.className = 'pal-btn'; b.innerText = i+1;
             if(i===currIdx) b.classList.add('current');
             
-            // Logic for coloring palette
             if(q.type === 'descriptive') {
                 if(responses[i] && responses[i].length > 5) b.classList.add('ans');
                 else if(visited[i]) b.classList.add('visit');
@@ -788,7 +777,6 @@
             const ans = responses[i]; 
             const conf = confidence[i];
 
-            // DYNAMIC MARKS SUPPORT
             let qMark = q.marks ? parseFloat(q.marks) : EXAM_PROFILES[currentProfile].marks;
             let qNeg = q.negative ? parseFloat(q.negative) : (q.marks ? parseFloat(q.marks)*0.25 : EXAM_PROFILES[currentProfile].neg);
 
@@ -845,10 +833,7 @@
             // Descriptive Review
             if (q.type === 'descriptive') {
                 const userText = responses[i] || "<i>No Answer Typed</i>";
-                
-                // SAFE ESCAPING for HTML interpolation
                 const safeQ = q.question.replace(/"/g, '&quot;').replace(/<[^>]*>/g, '');
-                // Escape backslashes first, then double quotes, then newlines
                 const safeAns = (responses[i] || "").replace(/\\/g, '\\\\').replace(/"/g, '\\"').replace(/\n/g, '\\n');
                 
                 rev.innerHTML += `
