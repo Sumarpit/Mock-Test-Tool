@@ -354,25 +354,15 @@
     </div>
 </div>
 
-<script>
-    // --- CONFIG ---
-    const REPO_OWNER = "Sumarpit";
-    const REPO_NAME = "SEBI-Mock-Test-Tool";
-    
-    // --- EXAM PROFILES ---
-    const EXAM_PROFILES = {
-        'SEBI':   { name: 'SEBI Grade A', folder: 'tests/sebi',   marks: 1.25, neg: 0.3125, time: [1, 0, 0] },
-        'RBI':    { name: 'RBI Grade B',  folder: 'tests/rbi',    marks: 1.0,  neg: 0.25,   time: [2, 0, 0] },
-        'NABARD': { name: 'NABARD Gr A',  folder: 'tests/nabard', marks: 1.0,  neg: 0.25,   time: [2, 0, 0] },
-        'SSC':    { name: 'SSC CGL',      folder: 'tests/ssc',    marks: 2.0,  neg: 0.50,   time: [1, 0, 0] },
-        'UPSC':   { name: 'UPSC CSE',     folder: 'tests/upsc',   marks: 2.0,  neg: 0.66,   time: [2, 0, 0] }
-    };
+<script src="config.js"></script>
 
+<script src="config.js"></script>
+
+<script>
     // --- VARIABLES ---
     const BASE_KEY = 'sebi_v40_'; 
     let currentProfile = 'SEBI'; 
-    let LIB_KEY = BASE_KEY + 'lib_SEBI';
-    let HIST_KEY = BASE_KEY + 'hist_SEBI';
+    let LIB_KEY, HIST_KEY;
 
     let library = {}, cloudList = [], activeFile = '', questions = [], currIdx = 0;
     let responses = {}, confidence = {}, visited = {};
@@ -388,12 +378,21 @@
             try { loadFiles([await launchParams.files[0].getFile()]); } catch (err) {}
         });
     }
-    if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js');
-
+    
     window.onload = () => { 
         try { 
+            // 1. Load Profile (Default to first in config if missing)
             const savedProfile = localStorage.getItem(BASE_KEY + 'profile');
-            if (savedProfile && EXAM_PROFILES[savedProfile]) currentProfile = savedProfile;
+            if (savedProfile && typeof EXAM_PROFILES !== 'undefined' && EXAM_PROFILES[savedProfile]) {
+                currentProfile = savedProfile;
+            } else if (typeof EXAM_PROFILES !== 'undefined') {
+                currentProfile = Object.keys(EXAM_PROFILES)[0];
+            } else {
+                console.error("Config.js not loaded!");
+                alert("Error: config.js missing.");
+                return;
+            }
+
             updateKeys();
             initExamSelector(); 
             updateTimerUI();
@@ -404,9 +403,11 @@
             
             let touchStartX=0, touchEndX=0;
             const ta = document.getElementById('touch-area');
-            ta.addEventListener('touchstart', e => touchStartX = e.changedTouches[0].screenX);
-            ta.addEventListener('touchend', e => { touchEndX = e.changedTouches[0].screenX; handleSwipe(touchStartX, touchEndX); });
-        } catch(e){ console.error(e); } 
+            if(ta) {
+                ta.addEventListener('touchstart', e => touchStartX = e.changedTouches[0].screenX);
+                ta.addEventListener('touchend', e => { touchEndX = e.changedTouches[0].screenX; handleSwipe(touchStartX, touchEndX); });
+            }
+        } catch(e){ console.error("Init Error:", e); } 
     };
 
     function updateKeys() { LIB_KEY = BASE_KEY + 'lib_' + currentProfile; HIST_KEY = BASE_KEY + 'hist_' + currentProfile; }
@@ -414,7 +415,9 @@
 
     // --- SWITCHER ---
     function initExamSelector() {
-        const sel = document.getElementById('examSelector'); sel.innerHTML = '';
+        const sel = document.getElementById('examSelector'); 
+        if(!sel) return;
+        sel.innerHTML = '';
         Object.keys(EXAM_PROFILES).forEach(key => {
             const opt = document.createElement('option');
             opt.value = key; opt.innerText = EXAM_PROFILES[key].name;
@@ -445,6 +448,9 @@
     // --- DATA ---
     async function loadFromGitHubAPI() {
         try {
+            // Check if REPO_OWNER is defined (from config.js)
+            if(typeof REPO_OWNER === 'undefined') return;
+            
             const res = await fetch(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${EXAM_PROFILES[currentProfile].folder}`);
             if (!res.ok) throw new Error("Empty");
             const data = await res.json();
@@ -483,7 +489,7 @@
             if(item.name === activeFile) d.classList.add('active');
             if(selectedFiles.has(item.name)) d.classList.add('multi-selected');
             
-            const del = item.source === 'local' ? `<div class="del-btn" onclick="deleteFile(event,'${item.name}')">🗡️</div>` : '';
+            const del = item.source === 'local' ? `<div class="del-btn" onclick="deleteFile(event,'${item.name}')">×</div>` : '';
             d.innerHTML = `<div class="status-badge">${item.source==='local'?'📂':'☁️'}</div>
                            <span class="file-name">${item.name}</span>
                            <small class="file-meta">${item.qCount}</small>${del}
@@ -521,7 +527,6 @@
         renderGrid(); document.getElementById('start-btn').disabled=true;
     }
 
-    // --- PASTE ---
     function openPasteModal() { document.getElementById('pasteModal').style.display='flex'; }
     function closePasteModal() { document.getElementById('pasteModal').style.display='none'; }
     async function saveAndSync() {
@@ -556,24 +561,34 @@
     // --- EXAM LOGIC ---
     function prepareQuestions(list) {
         let groups = [], cur = [];
-        list.forEach((q, i) => {
-            if(i===0) cur.push(q);
+        list.forEach((q, index) => {
+            if (index === 0) { cur.push(q); } 
             else {
-                const prev = list[i-1];
-                const sameP = q.passage && prev.passage && q.passage.trim()===prev.passage.trim();
-                const sameG = q.group_id && prev.group_id && q.group_id===prev.group_id;
-                if(sameP || sameG) cur.push(q); else { groups.push(cur); cur=[q]; }
+                const prev = list[index - 1];
+                const sameP = q.passage && prev.passage && (q.passage.trim() === prev.passage.trim());
+                const sameGroup = q.group_id && prev.group_id && (q.group_id === prev.group_id);
+                if (sameP || sameGroup) { cur.push(q); } 
+                else { groups.push(cur); cur = [q]; }
             }
         });
-        if(cur.length>0) groups.push(cur);
-        for(let i=groups.length-1; i>0; i--) { const j=Math.floor(Math.random()*(i+1)); [groups[i], groups[j]] = [groups[j], groups[i]]; }
+        if (cur.length > 0) groups.push(cur);
+        for (let i = groups.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [groups[i], groups[j]] = [groups[j], groups[i]];
+        }
         return groups.flat().map(q => {
             let nq = JSON.parse(JSON.stringify(q));
-            const fixed = ["Both","All of","None of","Only A"].some(x => nq.options.some(o => o.includes(x)));
-            if(nq.noShuffle!==true && !fixed) {
-                let ansTxt = nq.options[nq.answer];
-                for(let i=nq.options.length-1; i>0; i--) { const j=Math.floor(Math.random()*(i+1)); [nq.options[i], nq.options[j]] = [nq.options[j], nq.options[i]]; }
-                nq.answer = nq.options.indexOf(ansTxt);
+            // Only shuffle options for Objective Questions
+            if (nq.type !== 'descriptive' && nq.noShuffle !== true) {
+                const fixed = ["Both", "All of", "None of", "Only A"].some(x => nq.options.some(o => o.includes(x)));
+                if (!fixed) {
+                    let ansTxt = nq.options[nq.answer];
+                    for (let i = nq.options.length - 1; i > 0; i--) {
+                        const j = Math.floor(Math.random() * (i + 1));
+                        [nq.options[i], nq.options[j]] = [nq.options[j], nq.options[i]];
+                    }
+                    nq.answer = nq.options.indexOf(ansTxt);
+                }
             }
             return nq;
         });
@@ -581,17 +596,25 @@
 
     function startExam() {
         if(localStorage.getItem(BASE_KEY+'resume_'+currentProfile)) if(!confirm("Discard current progress?")) return;
+        
         isReviewMode = false;
         let raw = [];
-        if(isMultiMode) selectedFiles.forEach(f => { if(library[f]) raw.push(...library[f]); });
-        else { if(!library[activeFile]) return; raw = library[activeFile]; }
-        
+        if (isMultiMode) {
+            if (selectedFiles.size === 0) return;
+            selectedFiles.forEach(f => { if(library[f]) raw.push(...library[f]); });
+            activeFile = "Combined Test";
+        } else {
+            if(!activeFile || !library[activeFile]) return;
+            raw = library[activeFile];
+        }
         questions = prepareQuestions(raw);
-        responses = {}; confidence = {}; visited = {}; qTimers = {}; currIdx = 0; lastQTime = 0;
+        responses = {}; confidence = {}; visited = {}; 
+        qTimers = {}; currIdx = 0; lastQTime = 0;
+        
         const h = parseInt(document.getElementById('hInput').value)||0;
         const m = parseInt(document.getElementById('mInput').value)||0;
         const s = parseInt(document.getElementById('sInput').value)||0;
-        seconds = h*3600 + m*60 + s || 3600;
+        seconds = (h*3600)+(m*60)+s || 3600; 
         initExamUI();
     }
 
@@ -601,68 +624,110 @@
         document.getElementById('exam-screen').classList.add('active');
         const hdr = document.getElementById('main-header');
         const tmr = document.getElementById('timer');
-        if(isReviewMode) { hdr.classList.add('review-mode'); tmr.classList.add('review-timer'); }
+        if(isReviewMode) { hdr.classList.add('review-mode'); tmr.classList.add('review-timer'); } 
         else { hdr.classList.remove('review-mode'); tmr.classList.remove('review-timer'); }
-        questions.forEach((_,i)=>visited[i]=false);
+
+        questions.forEach((_,i) => visited[i]=false);
         startTimer(); loadQ(0); saveState();
     }
 
+    // --- LOAD QUESTION (Descriptive & Objective) ---
     function loadQ(i) {
-        if(lastQTime!==0) qTimers[currIdx] = (qTimers[currIdx]||0) + (Date.now()-lastQTime)/1000;
-        lastQTime = Date.now(); currIdx = i; visited[i] = true;
-        
+        if (lastQTime !== 0) { qTimers[currIdx] = (qTimers[currIdx] || 0) + (Date.now() - lastQTime) / 1000; }
+        lastQTime = Date.now(); 
+
+        currIdx = i; visited[i] = true;
         const q = questions[i];
-        const pass = document.getElementById('pane-passage');
-        if(q.passage) { pass.classList.add('active'); document.getElementById('passage-content').innerHTML=q.passage; }
-        else pass.classList.remove('active');
         
+        const passDiv = document.getElementById('pane-passage');
+        if(q.passage) { passDiv.classList.add('active'); document.getElementById('passage-content').innerHTML = q.passage; }
+        else { passDiv.classList.remove('active'); }
+
         document.getElementById('q-num').innerText = i+1;
         document.getElementById('q-sec').innerText = q.section || '-';
         document.getElementById('q-topic').innerText = q.topic || '-';
         document.getElementById('q-text').innerHTML = q.question;
         
-        const box = document.getElementById('options-box'); box.innerHTML='';
-        q.options.forEach((o, idx) => {
-            const d = document.createElement('div'); d.className='opt-label';
-            if(responses[i]===idx) d.classList.add('selected');
-            d.innerHTML = `<input type="radio" ${responses[i]===idx?'checked':''}> ${o}`;
-            d.onclick = () => { responses[i]=idx; loadQ(i); saveState(); };
-            box.appendChild(d);
-        });
+        const box = document.getElementById('options-box'); box.innerHTML = '';
 
-        // FIXED: Confidence buttons now check exact text
-        const cf = document.querySelectorAll('.c-btn');
-        if(responses[i]!==undefined) {
-            document.getElementById('conf-box').classList.add('active');
-            cf.forEach(b => { 
-                b.classList.remove('sel'); 
-                if(b.innerText === confidence[i]) b.classList.add('sel'); 
+        if (q.type === 'descriptive') {
+            // Render Text Area
+            const savedText = responses[i] || "";
+            const textArea = document.createElement('textarea');
+            textArea.style.width = "100%";
+            textArea.style.height = "250px";
+            textArea.style.padding = "10px";
+            textArea.style.border = "1px solid #ccc";
+            textArea.style.borderRadius = "6px";
+            textArea.style.fontFamily = "Arial, sans-serif";
+            textArea.style.fontSize = "1rem";
+            textArea.style.marginBottom = "10px";
+            textArea.placeholder = "Type your answer here...";
+            textArea.value = savedText;
+            
+            textArea.oninput = (e) => {
+                responses[i] = e.target.value;
+                saveState();
+            };
+            box.appendChild(textArea);
+            
+            // Hide Confidence Box for Descriptive
+            document.getElementById('conf-box').style.display = 'none';
+
+        } else {
+            // Render Objective Options
+            document.getElementById('conf-box').style.display = 'block';
+            q.options.forEach((opt, idx) => {
+                const div = document.createElement('div'); div.className = 'opt-label';
+                if(responses[i] === idx) div.classList.add('selected');
+                div.onclick = () => { responses[i] = idx; loadQ(i); saveState(); };
+                div.innerHTML = `<input type="radio" ${responses[i]===idx?'checked':''}> ${opt}`;
+                box.appendChild(div);
             });
-        } else { document.getElementById('conf-box').classList.remove('active'); cf.forEach(b=>b.classList.remove('sel')); }
+
+            // Update Confidence UI
+            const cBox = document.getElementById('conf-box');
+            const cBtns = document.querySelectorAll('.c-btn');
+            if(responses[i] !== undefined) {
+                cBox.classList.add('active');
+                cBtns.forEach(b => {
+                    b.classList.remove('sel');
+                    if(b.innerText === confidence[i]) b.classList.add('sel');
+                });
+            } else { cBox.classList.remove('active'); cBtns.forEach(b => b.classList.remove('sel')); }
+        }
 
         const btn = document.getElementById('next-btn');
-        if(i===questions.length-1) { btn.innerText="Submit Test"; btn.style.background="#e67e22"; }
-        else { btn.innerText="Save & Next"; btn.style.background="#2962ff"; }
-        renderPalette(); saveState();
+        if(i === questions.length-1) { btn.innerText = "Submit Test"; btn.style.background = "#e67e22"; }
+        else { btn.innerText = "Save & Next"; btn.style.background = "#2962ff"; }
+        renderPalette();
+        saveState();
     }
 
-    function setConf(v) { confidence[currIdx]=v; saveState(); loadQ(currIdx); }
-    function clearRes() { delete responses[currIdx]; delete confidence[currIdx]; saveState(); loadQ(currIdx); }
-    function nextQ() { if(currIdx<questions.length-1) loadQ(currIdx+1); else submitExam(); }
-    function prevQ() { if(currIdx>0) loadQ(currIdx-1); }
+    function setConf(val) { confidence[currIdx] = val; loadQ(currIdx); saveState(); }
+    function clearRes() { delete responses[currIdx]; delete confidence[currIdx]; loadQ(currIdx); saveState(); }
+    function nextQ() { if(currIdx < questions.length-1) loadQ(currIdx+1); else submitExam(); }
+    function prevQ() { if(currIdx > 0) loadQ(currIdx-1); }
+
     function renderPalette() {
-        const p = document.getElementById('palette'); p.innerHTML='';
-        questions.forEach((_, i) => {
-            const b = document.createElement('div'); b.className='pal-btn'; b.innerText=i+1;
+        const p = document.getElementById('palette');
+        p.innerHTML = '';
+        questions.forEach((q, i) => {
+            const b = document.createElement('div'); b.className = 'pal-btn'; b.innerText = i+1;
             if(i===currIdx) b.classList.add('current');
-            if(responses[i]!==undefined) b.classList.add('ans'); else if(visited[i]) b.classList.add('visit');
+            
+            // Logic for coloring palette
+            if(q.type === 'descriptive') {
+                if(responses[i] && responses[i].length > 5) b.classList.add('ans');
+                else if(visited[i]) b.classList.add('visit');
+            } else {
+                if(responses[i] !== undefined) b.classList.add('ans');
+                else if(visited[i]) b.classList.add('visit');
+            }
             b.onclick = () => { loadQ(i); if(window.innerWidth<=768) closeSidebar(); };
             p.appendChild(b);
         });
     }
-    function toggleSidebar() { const s=document.getElementById('pane-sidebar'); s.classList.toggle('collapsed'); document.querySelector('.sidebar-handle').innerText=s.classList.contains('collapsed')?'◀':'▶'; }
-    function openSidebar() { document.getElementById('pane-sidebar').classList.add('open'); document.getElementById('overlay').classList.add('active'); }
-    function closeSidebar() { document.getElementById('pane-sidebar').classList.remove('open'); document.getElementById('overlay').classList.remove('active'); }
 
     function startTimer() {
         clearInterval(timer);
@@ -672,59 +737,80 @@
             const m = Math.floor((seconds%3600)/60).toString().padStart(2,'0');
             const s = (seconds%60).toString().padStart(2,'0');
             document.getElementById('timer').innerText = `${h}:${m}:${s}`;
-            if(!isReviewMode) document.getElementById('timer').classList.toggle('critical', seconds<60);
+            if(!isReviewMode) document.getElementById('timer').classList.toggle('critical', seconds < 60);
         }, 1000);
     }
 
-    function saveState() { localStorage.setItem(BASE_KEY+'resume_'+currentProfile, JSON.stringify({library, activeFile, questions, responses, confidence, visited, currIdx, seconds, isReviewMode, qTimers, lastQTime})); }
-    function checkResume() { if(localStorage.getItem(BASE_KEY+'resume_'+currentProfile)) document.getElementById('resume-btn').style.display='inline-block'; }
+    function saveState() {
+        localStorage.setItem(BASE_KEY+'resume_'+currentProfile, JSON.stringify({ 
+            library, activeFile, questions, responses, confidence, 
+            visited, currIdx, seconds, isReviewMode, qTimers, lastQTime 
+        }));
+    }
+
+    function checkResume() { 
+        if(localStorage.getItem(BASE_KEY+'resume_'+currentProfile)) document.getElementById('resume-btn').style.display = 'inline-block';
+        else document.getElementById('resume-btn').style.display = 'none';
+    }
+
     function resumeExam() {
         const d = JSON.parse(localStorage.getItem(BASE_KEY+'resume_'+currentProfile));
-        loadLibraryFromStorage(); activeFile=d.activeFile; questions=d.questions; responses=d.responses; confidence=d.confidence; visited=d.visited; currIdx=d.currIdx; seconds=d.seconds; isReviewMode=d.isReviewMode; qTimers=d.qTimers||{}; lastQTime=Date.now();
+        loadLibraryFromStorage();
+        activeFile = d.activeFile; questions = d.questions;
+        responses = d.responses; confidence = d.confidence; visited = d.visited;
+        currIdx = d.currIdx; seconds = d.seconds; isReviewMode = d.isReviewMode;
+        qTimers = d.qTimers || {}; lastQTime = Date.now();
         initExamUI();
     }
 
     function submitExam(force=false) {
         if(!force && !confirm("End Exam?")) return;
-        clearInterval(timer);
-        if(lastQTime!==0) qTimers[currIdx] = (qTimers[currIdx]||0) + (Date.now()-lastQTime)/1000;
+        clearInterval(timer); 
+        if (lastQTime !== 0) { qTimers[currIdx] = (qTimers[currIdx] || 0) + (Date.now() - lastQTime)/1000; }
+        lastQTime = 0; 
+        
         localStorage.removeItem(BASE_KEY+'resume_'+currentProfile);
 
         let score=0, cor=0, wrg=0, skip=0;
-        // RESTORED: Stats Objects for Tables
         let tStats={}, cStats={ '100%':{c:0,w:0}, '50:50':{c:0,w:0}, 'Logic':{c:0,w:0}, 'Guess':{c:0,w:0} };
         reviewSet = [];
         
         questions.forEach((q, i) => {
-            const ans = responses[i]; const conf = confidence[i];
-            
-            // Topic Logic
-            const top = q.topic || 'Unknown';
+            const top = q.topic || 'General';
             if(!tStats[top]) tStats[top] = {t:0, c:0, w:0}; 
-            tStats[top].t++;
+            
+            if (q.type === 'descriptive') {
+                reviewSet.push(q);
+                return; 
+            }
 
+            tStats[top].t++;
+            const ans = responses[i]; 
+            const conf = confidence[i];
+
+            // DYNAMIC MARKS SUPPORT
             let qMark = q.marks ? parseFloat(q.marks) : EXAM_PROFILES[currentProfile].marks;
             let qNeg = q.negative ? parseFloat(q.negative) : (q.marks ? parseFloat(q.marks)*0.25 : EXAM_PROFILES[currentProfile].neg);
-            
-            if(ans === undefined) { skip++; reviewSet.push(q); }
-            else if(ans === q.answer) { 
-                score += qMark; cor++; 
-                tStats[top].c++;
-                if(conf && cStats[conf]) cStats[conf].c++;
-            }
-            else { 
-                score -= qNeg; wrg++; 
-                tStats[top].w++;
-                if(conf && cStats[conf]) cStats[conf].w++;
-                reviewSet.push(q); 
+
+            if(ans === undefined) { skip++; reviewSet.push(q); } 
+            else {
+                if(ans === q.answer) {
+                    score += qMark; cor++; tStats[top].c++;
+                    if(conf && cStats[conf]) cStats[conf].c++;
+                } else {
+                    score -= qNeg; wrg++; tStats[top].w++;
+                    if(conf && cStats[conf]) cStats[conf].w++;
+                    reviewSet.push(q);
+                }
             }
         });
 
         initialScore = score; 
 
-        // Save History
         if(!isReviewMode) {
-            const dur = parseInt(document.getElementById('hInput').value)*3600 + parseInt(document.getElementById('mInput').value)*60 + parseInt(document.getElementById('sInput').value);
+            const dur = parseInt(document.getElementById('hInput').value)*3600 + 
+                        parseInt(document.getElementById('mInput').value)*60 + 
+                        parseInt(document.getElementById('sInput').value);
             let h = JSON.parse(localStorage.getItem(HIST_KEY)||'[]');
             h.unshift({name:activeFile, score:score.toFixed(2), date:new Date().toLocaleDateString(), dur: dur});
             localStorage.setItem(HIST_KEY, JSON.stringify(h));
@@ -738,46 +824,76 @@
         
         updateResultCards(score, cor, wrg, skip);
         
-        // RESTORED: POPULATE TABLES
-        const tConf = document.getElementById('tbl-conf').querySelector('tbody'); tConf.innerHTML='';
+        // TABLES
+        const tc = document.getElementById('tbl-conf').querySelector('tbody'); tc.innerHTML='';
         Object.keys(cStats).forEach(k => {
             const d = cStats[k], tot = d.c+d.w;
-            if(tot > 0) { // Only show used confidence levels
-                tConf.innerHTML += `<tr><td>${k}</td><td class="txt-green">${d.c}</td><td class="txt-red">${d.w}</td><td>${tot}</td><td>${Math.round((d.c/tot)*100)}%</td></tr>`;
-            }
+            if(tot > 0) tc.innerHTML += `<tr><td>${k}</td><td class="txt-green">${d.c}</td><td class="txt-red">${d.w}</td><td>${tot}</td><td>${Math.round((d.c/tot)*100)}%</td></tr>`;
         });
 
-        const tTopic = document.getElementById('tbl-topic').querySelector('tbody'); tTopic.innerHTML='';
+        const tt = document.getElementById('tbl-topic').querySelector('tbody'); tt.innerHTML='';
         Object.keys(tStats).forEach(k => {
             const d = tStats[k];
-            tTopic.innerHTML += `<tr><td>${k}</td><td>${d.t}</td><td class="txt-green">${d.c}</td><td class="txt-red">${d.w}</td></tr>`;
+            tt.innerHTML += `<tr><td>${k}</td><td>${d.t}</td><td class="txt-green">${d.c}</td><td class="txt-red">${d.w}</td></tr>`;
         });
-
-        const rb = document.getElementById('smart-review-btn');
-        if(reviewSet.length>0) { rb.style.display='inline-block'; } else rb.style.display='none';
 
         const rev = document.getElementById('review-list'); rev.innerHTML = '';
         questions.forEach((q, i) => {
-            const ans = responses[i]; const conf = confidence[i]||'';
-            const t = Math.round(qTimers[i]||0);
-            const ts = t>60 ? Math.floor(t/60)+'m '+(t%60)+'s' : t+'s';
+            const t = Math.round(qTimers[i] || 0);
+            const ts = t > 60 ? Math.floor(t/60) + 'm ' + (t%60) + 's' : t + 's';
             
+            // Descriptive Review
+            if (q.type === 'descriptive') {
+                const userText = responses[i] || "<i>No Answer Typed</i>";
+                
+                // SAFE ESCAPING for HTML interpolation
+                const safeQ = q.question.replace(/"/g, '&quot;').replace(/<[^>]*>/g, '');
+                // Escape backslashes first, then double quotes, then newlines
+                const safeAns = (responses[i] || "").replace(/\\/g, '\\\\').replace(/"/g, '\\"').replace(/\n/g, '\\n');
+                
+                rev.innerHTML += `
+                <div class="review-item skip">
+                    <div style="display:flex; justify-content:space-between; border-bottom:1px solid #eee; padding-bottom:5px; margin-bottom:5px;">
+                        <strong>Q${i+1} (Descriptive)</strong>
+                        <div style="font-size:0.8rem; color:#666;">⏱ ${ts}</div>
+                    </div>
+                    <div style="margin-bottom:10px;">${q.question}</div>
+                    <div style="background:#fff3e0; padding:10px; border-radius:4px; margin-bottom:10px; font-family: 'Courier New', monospace; white-space: pre-wrap;">${userText}</div>
+                    
+                    <div style="display:flex; justify-content:space-between; align-items:center; background:#f9f9f9; padding:10px; border-radius:4px;">
+                        <span style="font-size:0.9rem; color:#555;"><b>Marks:</b> ${q.marks || 10}</span>
+                        <button onclick="copyDescriptivePrompt('${safeQ}', '${safeAns}', ${q.marks||10})" style="background:#673ab7; color:white; border:none; padding:6px 12px; border-radius:4px; cursor:pointer; font-weight:bold; font-size:0.85rem;">
+                            ✨ Check with AI
+                        </button>
+                    </div>
+                </div>`;
+                return;
+            }
+
+            const ans = responses[i];
+            const conf = confidence[i] || '';
             let status = 'Skipped', cls = 'skip', uAns = 'Skipped';
+
             if(ans !== undefined) {
                 if(ans === q.answer) { status='Correct'; cls='correct'; uAns=q.options[ans]; }
                 else { status='Wrong'; cls='wrong'; uAns=q.options[ans]; }
             }
             
             rev.innerHTML += `
-            <div class="review-item ${cls}">
-                <div style="display:flex; justify-content:space-between; border-bottom:1px solid #eee; padding-bottom:5px; margin-bottom:5px;">
-                    <strong>Q${i+1} (${status})</strong>
-                    <div style="font-size:0.8rem; color:#666;">⏱ ${ts} ${conf?`| ${conf}`:''}</div>
-                </div>
-                <div style="margin-bottom:10px;">${q.question}</div>
-                <div style="font-size:0.9rem;">You: <b>${uAns}</b> <br> Ans: <span class="txt-green">${q.options[q.answer]}</span></div>
-                <div style="background:#f9f9f9; padding:8px; margin-top:10px; font-size:0.9rem;">Exp: ${q.explanation}</div>
-            </div>`;
+                <div class="review-item ${cls}">
+                    <div style="display:flex; justify-content:space-between; border-bottom:1px solid #eee; padding-bottom:5px; margin-bottom:5px;">
+                        <strong>Q${i+1} (${status})</strong>
+                        <div style="font-size:0.8rem; color:#666;">⏱ ${ts} ${conf?`| ${conf}`:''}</div>
+                    </div>
+                    <div style="margin-bottom:10px;">${q.question}</div>
+                    <div style="font-size:0.9rem;">
+                        You: <b>${uAns}</b> <br>
+                        Ans: <span class="txt-green">${q.options[q.answer]}</span>
+                    </div>
+                    <div style="background:#f9f9f9; padding:8px; margin-top:10px; font-size:0.9rem;">
+                        <b>Exp:</b> ${q.explanation}
+                    </div>
+                </div>`;
         });
     }
 
@@ -833,26 +949,40 @@
     }
     function returnToLibrary() { document.getElementById('result-screen').classList.remove('active'); document.getElementById('upload-screen').classList.add('active'); renderGrid(); loadHistory(); }
     function downloadRes() {
-    const html = document.getElementById('result-screen').innerHTML;
-    const css = document.getElementsByTagName('style')[0].innerText;
-    
-    // Create the Blob
-    const blob = new Blob([`<html><head><style>${css} body{overflow:visible;} #result-screen{display:block!important;}</style></head><body><div id="result-screen">${html}</div></body></html>`], {type:'text/html'});
-    
-    // Generate Dynamic Filename
-    // 1. Remove .json extension
-    let cleanName = activeFile.replace(/\.json$/i, '');
-    // 2. Remove " (Review)" tag if present
-    cleanName = cleanName.replace(/ \(Review\)$/i, '');
-    // 3. Replace special characters/spaces with underscores for safety
-    cleanName = cleanName.replace(/[^a-z0-9\-_]/gi, '_');
-    
-    const a = document.createElement('a'); 
-    a.href = URL.createObjectURL(blob);
-    // 4. Set the filename
-    a.download = `Result_${cleanName}.html`; 
-    a.click();
-}
+        const html = document.getElementById('result-screen').innerHTML;
+        const css = document.getElementsByTagName('style')[0].innerText;
+        const blob = new Blob([`<html><head><style>${css} body{overflow:visible;} #result-screen{display:block!important;}</style></head><body><div id="result-screen">${html}</div></body></html>`], {type:'text/html'});
+        
+        let cleanName = activeFile.replace(/\.json$/i, '').replace(/ \(Review\)$/i, '');
+        cleanName = cleanName.replace(/[^a-z0-9\-_]/gi, '_');
+        
+        const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = `Result_${cleanName}.html`; a.click();
+    }
+
+    function copyDescriptivePrompt(question, answer, marks) {
+        if (!answer || answer.length < 5) { alert("No answer text found."); return; }
+        
+        const prompt = `Act as an expert NABARD GRADE A Phase 2 examiner. 
+Evaluate the following answer for the question:
+
+Q: ${question}
+
+My Answer:
+${answer}
+
+Please provide:
+1. Strengths of the answer.
+2. Weaknesses/Gaps.
+3. A realistic Score out of ${marks}.
+4. Specific suggestions to improve.`;
+
+        navigator.clipboard.writeText(prompt).then(() => {
+            alert("✅ Prompt Copied!\n\nPaste this into Gemini/ChatGPT to get your evaluation.");
+        }).catch(err => {
+            console.error('Failed to copy: ', err);
+            alert("Failed to copy automatically. Please check console permissions.");
+        });
+    }
 </script>
 </body>
 </html>
