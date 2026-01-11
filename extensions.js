@@ -1,45 +1,91 @@
 // extensions.js
-// This file handles specific behavioral overrides for exams.
+// Handles specific behavioral overrides and UI injections.
 
 const EXAM_HOOKS = {
     
-    // 1. Run when the Exam Starts (Initialize UI)
+    // 1. Run when the Exam Starts
     onExamStart: function(profileName) {
-        console.log("Extension Hook: Exam Started for " + profileName);
+        console.log("Exam Started: " + profileName);
         
-        // Reset Defaults (Important so previous exam settings don't stick)
+        // Reset defaults
         document.getElementById('next-btn').style.background = "#2962ff"; 
         document.getElementById('timer').style.display = 'block';
 
-        // --- CUSTOMIZATIONS ---
-
-        // Example: For NABARD Phase 2, change button color to Purple to indicate "Phase 2 Mode"
+        // NABARD Phase 2 Specifics
         if (profileName === 'NABARD_P2') {
-            document.getElementById('next-btn').style.background = "#673ab7"; // Deep Purple
-        }
-
-        // Example: For SSC, maybe you want to hide the timer? (Just an example)
-        if (profileName === 'SSC_NO_TIMER') {
-            document.getElementById('timer').style.display = 'none';
+            document.getElementById('next-btn').style.background = "#673ab7"; // Purple Theme
         }
     },
 
-    // 2. Run every time a Question Loads (Per-Question Logic)
+    // 2. Run every time a Question Loads
     onQuestionLoad: function(profileName, question, index) {
-        // Reset defaults
         const cBox = document.getElementById('conf-box');
         
-        // --- CUSTOMIZATIONS ---
+        // --- LOGIC FOR DESCRIPTIVE QUESTIONS ---
+        if (question.type === 'descriptive') {
+            // 1. Always hide Confidence Box for descriptive
+            cBox.style.display = 'none';
 
-        // Logic: If it's NABARD Phase 2, we might want to hide Confidence options 
-        // even for objective questions if we want to simulate a standard exam feel.
-        if (profileName === 'NABARD_P2') {
-            if (question.type === 'descriptive') {
-                cBox.style.display = 'none'; // Always hide for descriptive
-            } else {
-                // Optional: Hide for objective too if you prefer
-                // cBox.style.display = 'none'; 
+            // 2. Inject Word Counter Logic
+            // We look inside 'options-box' where the textarea lives
+            const box = document.getElementById('options-box');
+            const textArea = box.querySelector('textarea');
+
+            if (textArea) {
+                // Prevent duplicate counters if we revisit the question
+                if (!document.getElementById('word-counter-' + index)) {
+                    
+                    // Create Counter UI
+                    const counter = document.createElement('div');
+                    counter.id = 'word-counter-' + index;
+                    counter.style.fontSize = "0.85rem";
+                    counter.style.color = "#555";
+                    counter.style.textAlign = "right";
+                    counter.style.marginBottom = "5px";
+                    counter.style.fontFamily = "monospace";
+                    
+                    // Define Counting Logic
+                    const updateCount = () => {
+                        const text = textArea.value.trim();
+                        // Count words (split by spaces)
+                        const wordCount = text === "" ? 0 : text.split(/\s+/).length;
+                        const charCount = text.length;
+                        
+                        counter.innerText = `Words: ${wordCount} | Chars: ${charCount}`;
+
+                        // Simulating TCS iON Limit Warning (e.g., usually ~400 words)
+                        // Turn text Red if it exceeds a 'safe' limit
+                        if (wordCount > 400) {
+                            counter.style.color = "#d32f2f"; // Warning Red
+                            counter.style.fontWeight = "bold";
+                        } else {
+                            counter.style.color = "#555";
+                            counter.style.fontWeight = "normal";
+                        }
+                    };
+
+                    // Initialize count immediately
+                    updateCount();
+
+                    // Attach listener to update as you type
+                    textArea.addEventListener('input', updateCount);
+
+                    // Insert Counter BEFORE the text area
+                    box.insertBefore(counter, textArea);
+                }
             }
+        } 
+        // --- LOGIC FOR OBJECTIVE QUESTIONS ---
+        else {
+            // Restore Confidence Box if it was hidden
+            // (Unless you want to hide it for NABARD P2 objective questions too)
+             if (profileName === 'NABARD_P2') {
+                 // Optional: Keep it hidden if you want pure exam feel
+                 // cBox.style.display = 'none';
+                 cBox.style.display = 'block'; // Or show it
+             } else {
+                 cBox.style.display = 'block';
+             }
         }
     }
 };
