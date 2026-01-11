@@ -177,6 +177,22 @@
         display: none !important;
     }
 }
+        /* --- FIX: FORCE SIDEBAR COLLAPSE --- */
+.pane-sidebar.collapsed {
+    width: 0 !important;
+    min-width: 0 !important;
+    flex-basis: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    overflow: hidden !important;
+}
+
+/* Ensure the arrow handle stays visible and clickable */
+.sidebar-handle {
+    cursor: pointer;
+    user-select: none; /* Prevents highlighting text when clicking fast */
+    z-index: 9999;     /* Keeps it on top of everything */
+}
     </style>
 </head>
 <body>
