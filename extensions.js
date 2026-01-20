@@ -132,3 +132,55 @@ document.addEventListener('keydown', (e) => {
         }
     }
 });
+// ... (Previous code in extensions.js) ...
+
+// --- FEATURE: EXAM KEYBOARD SHORTCUTS ---
+document.addEventListener('keydown', (e) => {
+    // 1. Only run if Exam Screen is active
+    const examScreen = document.getElementById('exam-screen');
+    if (!examScreen || !examScreen.classList.contains('active')) return;
+
+    // 2. SAFETY: Stop if user is typing in a text box (Descriptive/Search)
+    const tag = e.target.tagName;
+    if (tag === 'INPUT' || tag === 'TEXTAREA' || e.target.isContentEditable) return;
+
+    const key = e.key.toLowerCase();
+
+    // 3. Navigation (Left/Right Arrows)
+    if (e.key === 'ArrowRight') {
+        if (typeof nextQ === 'function') nextQ();
+    } 
+    else if (e.key === 'ArrowLeft') {
+        if (typeof prevQ === 'function') prevQ();
+    }
+
+    // 4. Option Selection (Number Keys 1-5)
+    if (['1', '2', '3', '4', '5'].includes(e.key)) {
+        const idx = parseInt(e.key) - 1;
+        const options = document.querySelectorAll('#options-box .opt-label');
+        // Simulate a click on the option so it triggers save/load logic automatically
+        if (options[idx]) {
+            options[idx].click();
+        }
+    }
+
+    // 5. Confidence Selection (WASD - Positional Mapping)
+    // W=Top(100%), A=Left(50:50), S=Bottom(Guess), D=Right(Logic)
+    const confMap = {
+        'w': '100%',
+        'a': '50:50',
+        'd': 'Logic',
+        's': 'Guess'
+    };
+
+    if (confMap[key]) {
+        const targetText = confMap[key];
+        const buttons = document.querySelectorAll('.c-btn');
+        // Find the button with the matching text and click it
+        buttons.forEach(btn => {
+            if (btn.innerText.trim() === targetText) {
+                btn.click();
+            }
+        });
+    }
+});
