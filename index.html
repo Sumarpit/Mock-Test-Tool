@@ -912,6 +912,23 @@
                     </div>
                 </div>`;
         });
+        // ... existing code inside submitExam ...
+
+    // --- FIX FOR SMART REVIEW BUTTON ---
+    const srBtn = document.getElementById('smart-review-btn');
+    if (srBtn) {
+        if (reviewSet.length > 0) {
+            srBtn.style.display = 'inline-block';
+            srBtn.innerText = `Smart Review (${reviewSet.length} Qs)`;
+            // Make it stand out
+            srBtn.style.background = "#ffc107"; 
+            srBtn.style.color = "#000";
+        } else {
+            srBtn.style.display = 'none';
+        }
+    }
+
+} // <--- End of submitExam function
     }
 
     function recalcScore() {
