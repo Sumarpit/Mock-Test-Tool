@@ -1,32 +1,41 @@
-// extensions.js - COMPLETE FILE
+// extensions.js
+// Handles specific behavioral overrides and UI injections.
 
-// 1. Hook Logic (Must be inside this object)
 const EXAM_HOOKS = {
-    // Run when Exam Starts
+    
+    // 1. Run when the Exam Starts
     onExamStart: function(profileName) {
         console.log("Exam Started: " + profileName);
+        
+        // Reset defaults
         document.getElementById('next-btn').style.background = "#2962ff"; 
         document.getElementById('timer').style.display = 'block';
 
+        // NABARD Phase 2 Specifics
         if (profileName === 'NABARD_P2') {
-            document.getElementById('next-btn').style.background = "#673ab7"; 
+            document.getElementById('next-btn').style.background = "#673ab7"; // Purple Theme
         }
     },
 
-    // Run when Question Loads
+    // 2. Run every time a Question Loads
     onQuestionLoad: function(profileName, question, index) {
         const cBox = document.getElementById('conf-box');
         
-        // Logic for Descriptive Questions
+        // --- LOGIC FOR DESCRIPTIVE QUESTIONS ---
         if (question.type === 'descriptive') {
-            cBox.style.display = 'none'; // Hide confidence buttons
-            
-            // Add Word Counter
+            // 1. Always hide Confidence Box for descriptive
+            cBox.style.display = 'none';
+
+            // 2. Inject Word Counter Logic
+            // We look inside 'options-box' where the textarea lives
             const box = document.getElementById('options-box');
             const textArea = box.querySelector('textarea');
 
             if (textArea) {
+                // Prevent duplicate counters if we revisit the question
                 if (!document.getElementById('word-counter-' + index)) {
+                    
+                    // Create Counter UI
                     const counter = document.createElement('div');
                     counter.id = 'word-counter-' + index;
                     counter.style.fontSize = "0.85rem";
@@ -35,104 +44,48 @@ const EXAM_HOOKS = {
                     counter.style.marginBottom = "5px";
                     counter.style.fontFamily = "monospace";
                     
+                    // Define Counting Logic
                     const updateCount = () => {
                         const text = textArea.value.trim();
+                        // Count words (split by spaces)
                         const wordCount = text === "" ? 0 : text.split(/\s+/).length;
                         const charCount = text.length;
-                        counter.innerText = `Words: ${wordCount} | Chars: ${charCount}`;
                         
+                        counter.innerText = `Words: ${wordCount} | Chars: ${charCount}`;
+
+                        // Simulating TCS iON Limit Warning (e.g., usually ~400 words)
+                        // Turn text Red if it exceeds a 'safe' limit
                         if (wordCount > 400) {
-                            counter.style.color = "#d32f2f";
+                            counter.style.color = "#d32f2f"; // Warning Red
                             counter.style.fontWeight = "bold";
                         } else {
                             counter.style.color = "#555";
                             counter.style.fontWeight = "normal";
                         }
                     };
+
+                    // Initialize count immediately
                     updateCount();
+
+                    // Attach listener to update as you type
                     textArea.addEventListener('input', updateCount);
+
+                    // Insert Counter BEFORE the text area
                     box.insertBefore(counter, textArea);
                 }
             }
         } 
-        // Logic for Objective Questions
+        // --- LOGIC FOR OBJECTIVE QUESTIONS ---
         else {
-             cBox.style.display = 'block';
+            // Restore Confidence Box if it was hidden
+            // (Unless you want to hide it for NABARD P2 objective questions too)
+             if (profileName === 'NABARD_P2') {
+                 // Optional: Keep it hidden if you want pure exam feel
+                 // cBox.style.display = 'none';
+                 cBox.style.display = 'block'; // Or show it
+             } else {
+                 cBox.style.display = 'block';
+             }
         }
     }
-}; // <--- CRITICAL: This closes the EXAM_HOOKS object. Do not delete this!
-
-
-// 2. KEYBOARD SHORTCUTS (Must be OUTSIDE the EXAM_HOOKS object)
-
-// A. Exam Shortcuts (WASD, Arrows, Numbers)
-document.addEventListener('keydown', (e) => {
-    const examScreen = document.getElementById('exam-screen');
-    
-    // Only run if Exam Screen is active
-    if (!examScreen || !examScreen.classList.contains('active')) return;
-
-    // SAFETY: Stop if user is typing in a text box
-    const tag = e.target.tagName;
-    if (tag === 'INPUT' || tag === 'TEXTAREA' || e.target.isContentEditable) return;
-
-    const key = e.key.toLowerCase();
-
-    // Navigation
-    if (e.key === 'ArrowRight') {
-        if (typeof nextQ === 'function') nextQ();
-    } 
-    else if (e.key === 'ArrowLeft') {
-        if (typeof prevQ === 'function') prevQ();
-    }
-
-    // Option Selection (1-5)
-    if (['1', '2', '3', '4', '5'].includes(e.key)) {
-        const idx = parseInt(e.key) - 1;
-        const options = document.querySelectorAll('#options-box .opt-label');
-        if (options[idx]) options[idx].click();
-    }
-
-    // Confidence Selection (WASD)
-    const confMap = { 'w': '100%', 'a': '50:50', 'd': 'Logic', 's': 'Guess' };
-    if (confMap[key]) {
-        const targetText = confMap[key];
-        const buttons = document.querySelectorAll('.c-btn');
-        buttons.forEach(btn => {
-            if (btn.innerText.trim() === targetText) btn.click();
-        });
-    }
-});
-
-// B. Result Page Smart Scrolling (Spacebar)
-document.addEventListener('keydown', (e) => {
-    const resScreen = document.getElementById('result-screen');
-    
-    // Only run if Result Screen is active
-    if (!resScreen || !resScreen.classList.contains('active')) return;
-
-    // Ignore if typing
-    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
-
-    // Spacebar Logic
-    if (e.code === 'Space') {
-        e.preventDefault(); 
-        const items = document.querySelectorAll('.review-item');
-        const headerOffset = 80; 
-        const currentTop = window.scrollY + headerOffset + 10; 
-
-        let nextItem = null;
-        for (let item of items) {
-            if (item.offsetTop > currentTop) {
-                nextItem = item;
-                break; 
-            }
-        }
-        if (nextItem) {
-            window.scrollTo({
-                top: nextItem.offsetTop - headerOffset,
-                behavior: 'smooth'
-            });
-        }
-    }
-});
+};
