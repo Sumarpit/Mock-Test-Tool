@@ -330,9 +330,9 @@
             </select>
 
             <div class="btn-group">
-                <button class="btn" onclick="returnToLibrary()">Library</button>
-                <button class="btn" onclick="downloadRes()">Download</button>
-                <button id="smart-review-btn" class="btn" onclick="startSmartReview()" style="display:none; background:#ff4081; color:white; margin-left:10px;">Smart Review</button>
+                <button onclick="returnToLibrary()">Library</button>
+                <button id="smart-review-btn" onclick="startSmartReview()" style="display:none; background:#ffc107; color:#333;">Smart Review</button>
+                <button style="background:#27ae60;" onclick="downloadRes()">Download</button>
             </div>
         </div>
 
@@ -912,22 +912,6 @@
                     </div>
                 </div>`;
         });
-    // ... inside submitExam(force) ...
-    
-    // (Existing code for updating tables...)
-    // const tt = document.getElementById('tbl-topic').querySelector('tbody'); ...
-
-    // --- ADD THIS BLOCK TO FIX SMART REVIEW ---
-    const srBtn = document.getElementById('smart-review-btn');
-        if (srBtn) {
-            if (reviewSet.length > 0) {
-                srBtn.style.display = 'inline-block';
-                srBtn.innerText = `Smart Review (${reviewSet.length} Qs)`;
-                } else {
-                srBtn.style.display = 'none';
-                }
-            }
-        } // <--- End of submitExam function
     }
 
     function recalcScore() {
