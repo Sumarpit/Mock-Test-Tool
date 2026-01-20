@@ -1,652 +1,1303 @@
 [
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "Which of the following are the essential requirements for a person to be appointed as a member of the Finance Commission?\n1. A Supreme Court judge or one qualified to be appointed as such.\n2. A person having wide experience in financial matters and administration.\n3. A person having special knowledge of economics.\nSelect the correct answer using the code given below:",
+
+    "question": "Which of the following are the essential requirements for a person to be appointed as a member of the Finance Commission?<br>1. A Supreme Court judge or one qualified to be appointed as such.<br>2. A person having wide experience in financial matters and administration.<br>3. A person having special knowledge of economics.<br>Select the correct answer using the code given below:",
+
     "options": [
+
       "1, 2 and 3",
+
       "1 and 2 only",
+
       "2 and 3 only",
+
       "1 and 3 only"
+
     ],
+
     "answer": 2,
-    "explanation": "Option c is the correct answer. The chairman of a finance commission is selected from people with experience of public affairs. The other four members are selected from people who: Are, or have been, or are qualified, as judges of a high court; Have knowledge of government finances or accounts; Have had experience in administration and financial expertise; or Have special knowledge of economics."
+
+    "explanation": "<b>Option c is the correct answer.</b><br>The chairman of a finance commission is selected from people with experience of public affairs. The other four members are selected from people who:<br>1. Are, or have been, or are qualified, as judges of a high court,<br>2. Have knowledge of government finances or accounts, or<br>3. Have had experience in administration and financial expertise; or<br>4. Have special knowledge of economics."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "With reference to the Constitution of India, consider the following provisions:\nI. Parliament can alter the boundaries of a State without the consent of that State.\nII. Only Parliament can initiate constitutional amendments under Article 368.\nIII. A money bill can be introduced in a state legislature only with the prior recommendation of the Governor of the state.\nHow many of the above provisions illustrate that the Indian Constitution has established a strong Centre?",
+
+    "question": "With reference to the Constitution of India, consider the following provisions:<br>I. Parliament can alter the boundaries of a State without the consent of that State.<br>II. Only Parliament can initiate constitutional amendments under Article 368.<br>III. A money bill can be introduced in a state legislature only with the prior recommendation of the Governor of the state.<br>How many of the above provisions illustrate that the Indian Constitution has established a strong Centre?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "All the three",
+
       "None"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. The framers of the Constitution deliberately gave more powers to the Centre to ensure national unity, integrity, and coordinated development. Statement I is correct: Under Articles 2 and 3, Parliament has the authority to form new States or alter boundaries without the binding consent of the State Legislature. Statement II is correct: Only Parliament can initiate constitutional amendments under Article 368. Statement III is incorrect: The Governor’s recommendation for a Money Bill is a procedural requirement to ensure financial discipline, not a discretionary power furthering Centre–State dominance."
+
+    "explanation": "<b>Option b is the correct answer.</b><br>India is a federal country with a unitary bias. The framers of the Constitution deliberately gave more powers to the Centre to ensure national unity.<br><br><b>Statement I is correct:</b> Under Articles 2 and 3, Parliament has the authority to form new States or alter boundaries. The opinion of the State Legislature is sought but is not binding on Parliament.<br><b>Statement II is correct:</b> Only Parliament can initiate constitutional amendments under Article 368. States have no role in initiating such amendments.<br><b>Statement III is incorrect:</b> The Governor’s recommendation for a Money Bill (Article 207) is a procedural requirement ensuring financial discipline, not a discretionary power furthering Centre–State dominance."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Nature of Federalism",
-    "question": "Consider the following statements:\nStatement I: The Parliament has exclusive power to make a law imposing a tax which is not mentioned in any of the lists of the Seventh Schedule of the Constitution of India.\nStatement II: ‘Any other matter not enumerated in List II or List III of the Seventh schedule, including any tax not mentioned in either of those Lists’ is one of the entries under Union List of the Seventh Schedule.\nWhich one of the following is correct in respect of the above statements?",
+
+    "question": "Consider the following statements:<br>Statement I: The Parliament has exclusive power to make a law imposing a tax which is not mentioned in any of the lists of the Seventh Schedule of the Constitution of India.<br>Statement II: ‘Any other matter not enumerated in List II or List III of the Seventh schedule, including any tax not mentioned in either of those Lists’ is one of the entries under Union List of the Seventh Schedule.<br>Which one of the following is correct in respect of the above statements?",
+
     "options": [
+
       "Both Statement I and Statement II are correct, and Statement II explains Statement I",
+
       "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+
       "Statement I is correct, but Statement II is not correct",
+
       "Statement I is not correct, but Statement II is correct"
+
     ],
+
     "answer": 0,
-    "explanation": "Option a is the correct answer. Statement I is correct: Parliament holds the exclusive residuary power of taxation under Article 248 for any tax subject not explicitly mentioned in the Union, State, or Concurrent Lists. Statement II is correct: Entry 97 of the Union List expressly includes 'any other matter not enumerated in List II or List III, including any tax not mentioned in either of those Lists', providing the constitutional basis for Statement I."
+
+    "explanation": "<b>Option a is the correct answer.</b><br><br><b>Statement I is correct:</b> In India, Parliament holds the exclusive residuary power of taxation (Article 248). Any tax subject not explicitly mentioned in the lists is reserved for the Centre.<br><b>Statement II is correct:</b> Entry 97 of the Union List explicitly includes 'any other matter not enumerated in List II or List III, including any tax not mentioned in either of those Lists'. This entry provides the constitutional basis for Statement I."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
-    "question": "In the context of Indian polity, consider the following statements:\nStatement I: The Central Government can impose annual Net Borrowing Ceiling (NBC) on certain Indian states to regulate their borrowings.\nStatement II: Article 293 of the Indian constitution empowers the central government to impose restrictions on any type of borrowing by any State in India.\nWhich one of the following is correct in respect of the above statements?",
+
+    "question": "In the context of Indian polity, consider the following statements:<br>Statement I: The Central Government can impose annual Net Borrowing Ceiling (NBC) on certain Indian states to regulate their borrowings.<br>Statement II: Article 293 of the Indian constitution empowers the central government to impose restrictions on any type of borrowing by any State in India.<br>Which one of the following is correct in respect of the above statements?",
+
     "options": [
+
       "Both Statement I and Statement II are correct, and Statement II explains Statement I",
+
       "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+
       "Statement I is correct, but Statement II is not correct",
+
       "Statement I is not correct, but Statement II is correct"
+
     ],
+
     "answer": 2,
-    "explanation": "Option c is the correct answer. Statement I is correct: The annual Net Borrowing Ceiling (NBC) on Indian states is imposed by the Central Government, typically as a percentage of GSDP based on Finance Commission recommendations. Statement II is incorrect: Article 293 does not give the Centre blanket power to impose restrictions on borrowing by any State; it empowers the Centre to impose conditions only when the State has outstanding loans or guarantees from the Central Government."
+
+    "explanation": "<b>Option c is the correct answer.</b><br><br><b>Statement I is correct:</b> The annual Net Borrowing Ceiling (NBC) is a fiscal tool set by the central government, based on Finance Commission recommendations, limiting how much each state can borrow yearly.<br><b>Statement II is incorrect:</b> Article 293(3) empowers the Centre to impose conditions on State borrowing only when the State has outstanding loans or guarantees from the Central Government. It does not give blanket power to restrict borrowing if the State has no such liabilities."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
+
     "question": "The Sarkaria Commission was constituted in 1983 to address the growing concerns related to Centre-State relations in India. In this context, which of the following was not recommended by the Sarkaria Commission?",
+
     "options": [
+
       "Appointing an eminent person who is from outside the state as Governor of that state.",
+
       "Strengthening of All-India Services",
+
       "Setting up a permanent Inter-State Council under Article 263",
+
       "Discontinuation of the Three-Language Formula in education to avoid centre-state conflicts on this issue."
+
     ],
+
     "answer": 3,
-    "explanation": "Option d is the correct answer. The Sarkaria Commission recommended steps to uniformly implement the three-language formula in its true spirit to foster national unity and linguistic harmony. It also recommended that the Governor should be an eminent person from outside the state, strengthening All-India Services, and setting up a permanent Inter-State Council."
+
+    "explanation": "<b>Option d is the correct answer.</b><br>The Sarkaria Commission recommended steps to uniformly implement the three-language formula in its true spirit to foster national unity, rather than discontinuing it.<br><br><b>Option a is correct:</b> It recommended the Governor should be an eminent person from outside the state.<br><b>Option b is correct:</b> It recommended strengthening All-India Services.<br><b>Option c is correct:</b> It recommended setting up a permanent Inter-State Council under Article 263."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
+
     "question": "During the President's Rule in a State under Article 356 of the Constitution of India, the State Legislative Assembly is dissolved by which of the following authority?",
+
     "options": [
+
       "Parliament of India",
+
       "President of India",
+
       "Chief justice of High Court",
+
       "Governor of the state"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. Under Article 356, the President can dissolve the Legislative Assembly of the concerned state. However, based on the S.R. Bommai v. Union of India (1994) case, the Assembly can only be dissolved after the Proclamation is approved by both Houses of Parliament; until then, it can only be suspended."
+
+    "explanation": "<b>Option b is the correct answer.</b><br>Under Article 356, the President can dissolve the Legislative Assembly of the concerned state. However, based on the S.R. Bommai v. Union of India (1994) case, the Assembly can only be dissolved after the Proclamation is approved by both Houses of Parliament. Until such approval, the President can only suspend the Legislative Assembly."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
-    "question": "Consider the following states:\nI. Jharkhand\nII. Goa\nIII. Sikkim\nHow many of the above states were granted full statehood through Constitutional Amendments, rather than through ordinary legislative acts of Parliament?",
+
+    "question": "Consider the following states:<br>I. Jharkhand<br>II. Goa<br>III. Sikkim<br>How many of the above states were granted full statehood through Constitutional Amendments, rather than through ordinary legislative acts of Parliament?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "All the three",
+
       "None"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. Jharkhand was created by the Bihar Reorganization Act, 2000, an ordinary act of Parliament. Goa became a full-fledged state via the 56th Constitutional Amendment Act of 1987. Sikkim became a full state through the 36th Constitutional Amendment Act of 1975."
+
+    "explanation": "<b>Option b is the correct answer.</b><br><br><b>Option I is incorrect:</b> Jharkhand was created by the Bihar Reorganization Act, 2000, which is an ordinary act of Parliament.<br><b>Option II is correct:</b> Goa became a full-fledged state via the 56th Constitutional Amendment Act of 1987.<br><b>Option III is correct:</b> Sikkim became a full state through the 36th Constitutional Amendment Act of 1975."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
-    "question": "Consider the following Indian States:\nI. Haryana\nII. Chhattisgarh\nIII. Arunachal Pradesh\nIV. Meghalaya\nArrange the above chronologically based on the year of their establishment as a state of the Indian Union?",
+
+    "question": "Consider the following Indian States:<br>I. Haryana<br>II. Chhattisgarh<br>III. Arunachal Pradesh<br>IV. Meghalaya<br>Arrange the above chronologically based on the year of their establishment as a state of the Indian Union?",
+
     "options": [
+
       "I - IV - III - II",
+
       "IV - I - II - III",
+
       "I - III - IV - II",
+
       "III - I - IV - II"
+
     ],
+
     "answer": 0,
-    "explanation": "Option a is the correct answer. Haryana was created on November 1, 1966. Meghalaya was granted full statehood on 21 January 1972. Arunachal Pradesh was granted full statehood on 20 February 1987. Chhattisgarh came into being on 1 November 2000."
+
+    "explanation": "<b>Option a is the correct answer.</b><br>1. <b>Haryana:</b> Created on November 1, 1966.<br>2. <b>Meghalaya:</b> Granted full statehood on January 21, 1972.<br>3. <b>Arunachal Pradesh:</b> Granted full statehood on February 20, 1987.<br>4. <b>Chhattisgarh:</b> Came into being on November 1, 2000.<br><br>Order: I – IV – III – II."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Special Provisions/Areas",
-    "question": "The Part XXI of the Constitution of India contains Temporary, Transitional and Special Provisions related to various states. In this context consider the following states:\nI. Gujarat\nII. Goa\nIII. Sikkim\nIV. Odisha\nV. Chhattisgarh\nVI. Tamil Nadu\nVII. Mizoram\nProvisions related to how many of the above states are included in Part XXI of the Constitution?",
+
+    "question": "The Part XXI of the Constitution of India contains Temporary, Transitional and Special Provisions related to various states. In this context consider the following states:<br>I. Gujarat<br>II. Goa<br>III. Sikkim<br>IV. Odisha<br>V. Chhattisgarh<br>VI. Tamil Nadu<br>VII. Mizoram<br>Provisions related to how many of the above states are included in Part XXI of the Constitution?",
+
     "options": [
+
       "Only four",
+
       "Only five",
+
       "Only six",
+
       "All the seven"
+
     ],
+
     "answer": 0,
-    "explanation": "Option a is the correct answer. Part XXI includes special provisions for Gujarat (Article 371), Goa (Article 371-I), Sikkim (Article 371F), and Mizoram (Article 371G). Odisha, Chhattisgarh, and Tamil Nadu do not have any special provision under Part XXI of the Indian Constitution."
+
+    "explanation": "<b>Option a is the correct answer.</b><br>Part XXI includes special provisions for:<br>- <b>Gujarat</b> (Article 371)<br>- <b>Goa</b> (Article 371-I)<br>- <b>Sikkim</b> (Article 371F)<br>- <b>Mizoram</b> (Article 371G)<br><br>Odisha, Chhattisgarh, and Tamil Nadu do not have special provisions under Part XXI."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "With reference to the electoral system in India, consider the following functions:\nI. Fixing dates for General election to the House of People\nII. Postponing elections to a State Legislative Assembly\nIII. Appointment of the Chief Electoral Officer at the State level\nIV. De-registering the political parties if they do not participate in any elections for a prolonged period.\nHow many of the above are the functions of the Election commission of India?",
+
+    "question": "With reference to the electoral system in India, consider the following functions:<br>I. Fixing dates for General election to the House of People<br>II. Postponing elections to a State Legislative Assembly<br>III. Appointment of the Chief Electoral Officer at the State level<br>IV. De-registering the political parties if they do not participate in any elections for a prolonged period.<br>How many of the above are the functions of the Election commission of India?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "Only three",
+
       "All the four"
+
     ],
+
     "answer": 2,
-    "explanation": "Option c is the correct answer. The Election Commission of India (ECI) fixes dates for elections and can postpone or cancel elections if conditions are not conducive. It also nominates the Chief Electoral Officer at the State level in consultation with the administration. However, the ECI has no authority to de-register a political party for failing to contest elections or other internal failures, as held by the Supreme Court."
+
+    "explanation": "<b>Option c is the correct answer.</b><br><b>I is correct:</b> ECI fixes election dates.<br><b>II is correct:</b> ECI can postpone elections if conditions are not conducive.<br><b>III is correct:</b> ECI nominates/designates the Chief Electoral Officer at the State level in consultation with the administration.<br><b>IV is incorrect:</b> The ECI has no authority to de-register a political party for failing to contest elections (Indian National Congress v. Institute of Social Welfare, 2002)."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "What are the duties of the Chief of Defence Staff (CDS) as Head of the Department of Military Affairs?\n1. Permanent Chairman of Chiefs of Staff Committee\n2. Exercise military command over the three Service Chiefs\n3. Principal Military Advisor to Defence Minister on all tri-Service matters\nSelect the correct answer using the code given below:",
+
+    "question": "What are the duties of the Chief of Defence Staff (CDS) as Head of the Department of Military Affairs?<br>1. Permanent Chairman of Chiefs of Staff Committee<br>2. Exercise military command over the three Service Chiefs<br>3. Principal Military Advisor to Defence Minister on all tri-Service matters<br>Select the correct answer using the code given below:",
+
     "options": [
+
       "1, 2 and 3",
+
       "1 and 2 only",
+
       "2 and 3 only",
+
       "1 and 3 only"
+
     ],
+
     "answer": 3,
-    "explanation": "Option d is the correct answer. The CDS functions as the Permanent Chairman of the Chiefs of Staff Committee and acts as the Principal Military Advisor to the Defence Minister on all Tri-Service matters. The CDS does not exercise military command over the three Service Chiefs to ensure impartial advice."
+
+    "explanation": "<b>Option d is the correct answer.</b><br>The CDS functions as the Permanent Chairman of the Chiefs of Staff Committee (Statement 1) and Principal Military Advisor to the Defence Minister on tri-Service matters (Statement 3).<br><b>Statement 2 is incorrect:</b> The CDS will not exercise any military command, including over the three Service Chiefs, to ensure impartial advice."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
+
     "question": "To implement international treaties, Parliament is empowered to make laws on subjects mentioned in the State List of the Seventh Schedule of the Constitution. Such a law:",
+
     "options": [
+
       "is required to be passed by Parliament with simple majority in both houses and also requires consent from at least half of the states.",
+
       "is required to be passed by the Rajya Sabha with a majority of two-thirds of the members present and voting and given an asset by the Lok Sabha.",
+
       "must be passed by both houses of the parliament with a majority of two-thirds of the members present and voting in each house.",
+
       "can be passed by Parliament with simple majority in both houses, without requiring any consent from the States."
+
     ],
+
     "answer": 3,
-    "explanation": "Option d is the correct answer. Under Article 253, Parliament can enact laws to implement international treaties even on State List subjects. Such laws are treated as Ordinary Bills, requiring only a simple majority in both houses, and do not need the consent of any State."
+
+    "explanation": "<b>Option d is the correct answer.</b><br>Article 253 grants Parliament the power to enact laws to implement international treaties even if the subject is in the State List. Such laws are treated as Ordinary Bills and require only a <b>simple majority</b> in both houses. No consent from the States is required."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
-    "question": "With reference to legislative powers of the Parliament of India and state legislative assemblies, consider the following statements:\nI. Only Parliament by law can exclude the jurisdiction of a High Court from any Union Territory.\nII. Only the Parliament can make laws related to citizenship.\nIII. Only Parliament can make laws with respect to the Goods and Services Tax (GST) where the supply of goods, or services takes place in the course of inter-State trade or commerce.\nWhich of the above given statements is/are correct?",
+
+    "question": "With reference to legislative powers of the Parliament of India and state legislative assemblies, consider the following statements:<br>I. Only Parliament by law can exclude the jurisdiction of a High Court from any Union Territory.<br>II. Only the Parliament can make laws related to citizenship.<br>III. Only Parliament can make laws with respect to the Goods and Services Tax (GST) where the supply of goods, or services takes place in the course of inter-State trade or commerce.<br>Which of the above given statements is/are correct?",
+
     "options": [
+
       "I only",
+
       "II and III only",
+
       "I and II only",
+
       "I, II and III"
+
     ],
+
     "answer": 3,
-    "explanation": "Option d is the correct answer. Statement I is correct: Parliament may by law exclude the jurisdiction of a High Court from any Union territory under Article 230. Statement II is correct: Article 11 empowers Parliament to enact laws regarding citizenship. Statement III is correct: Article 246A grants Parliament exclusive power to make laws for GST on inter-State trade or commerce."
+
+    "explanation": "<b>Option d is the correct answer.</b><br><b>Statement I is correct:</b> Article 230 empowers Parliament to extend or exclude the jurisdiction of a High Court from any UT.<br><b>Statement II is correct:</b> Article 11 empowers Parliament to enact laws regarding citizenship.<br><b>Statement III is correct:</b> Article 246A grants Parliament exclusive power to legislate on GST for inter-State trade (IGST)."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Special Provisions/Areas",
-    "question": "In the context of Indian Polity, with reference to the limitations to the territorial jurisdictions of Parliament consider the following statements:\nI. The Fifth Schedule of the Constitution empowers the President to declare that specific Acts of Parliament will not apply to Scheduled Areas in a State.\nII. The Sixth Schedule empowers the Governor of Assam to direct that certain Acts of Parliament will not apply to autonomous districts in Assam.\nWhich of the statements given above is/are correct?",
+
+    "question": "In the context of Indian Polity, with reference to the limitations to the territorial jurisdictions of Parliament consider the following statements:<br>I. The Fifth Schedule of the Constitution empowers the President to declare that specific Acts of Parliament will not apply to Scheduled Areas in a State.<br>II. The Sixth Schedule empowers the Governor of Assam to direct that certain Acts of Parliament will not apply to autonomous districts in Assam.<br>Which of the statements given above is/are correct?",
+
     "options": [
+
       "I only",
+
       "II only",
+
       "Both I and II",
+
       "Neither I nor II"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. Statement I is incorrect: The Fifth Schedule empowers the Governor of a State, not the President, to direct that an act of Parliament does not apply to a scheduled area. Statement II is correct: Under the Sixth Schedule, the Governor of Assam has the power to direct that certain Acts of Parliament do not apply to autonomous districts."
+
+    "explanation": "<b>Option b is the correct answer.</b><br><b>Statement I is incorrect:</b> The Fifth Schedule empowers the <b>Governor of a State</b> (not the President) to direct that an Act of Parliament does not apply to a scheduled area.<br><b>Statement II is correct:</b> Under the Sixth Schedule, the Governor of Assam has the power to direct that certain Acts of Parliament do not apply to autonomous districts."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "With reference to the “Tea Board” in India, consider the following statements:\n1. The Tea Board is a statutory body.\n2. It is a regulatory body attached to the Ministry of Agriculture and Farmers Welfare.\n3. The Tea Board’s Head Office is situated in Bengaluru.\n4. The Board has overseas offices in Dubai and Moscow.\nWhich of the statements given above are correct?",
+
+    "question": "With reference to the “Tea Board” in India, consider the following statements:<br>1. The Tea Board is a statutory body.<br>2. It is a regulatory body attached to the Ministry of Agriculture and Farmers Welfare.<br>3. The Tea Board’s Head Office is situated in Bengaluru.<br>4. The Board has overseas offices in Dubai and Moscow.<br>Which of the statements given above are correct?",
+
     "options": [
+
       "1 and 3",
+
       "2 and 4",
+
       "3 and 4",
+
       "1 and 4"
+
     ],
+
     "answer": 3,
-    "explanation": "Option d is the correct answer. Statement 1 is correct: The Tea Board is a statutory body constituted under the Tea Act 1953. Statement 2 is incorrect: It functions under the Ministry of Commerce, not Agriculture. Statement 3 is incorrect: The Head Office is in Kolkata. Statement 4 is correct: It has overseas offices in Moscow and Dubai."
+
+    "explanation": "<b>Option d is the correct answer.</b><br><b>Statement 1 is correct:</b> Tea Board is a statutory body under the Tea Act 1953.<br><b>Statement 2 is incorrect:</b> It functions under the <b>Ministry of Commerce</b>.<br><b>Statement 3 is incorrect:</b> The Head Office is in <b>Kolkata</b>.<br><b>Statement 4 is correct:</b> It has overseas offices in Moscow and Dubai."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
-    "question": "Consider the following statements about Centre-State legislative relation when an Emergency is proclaimed under Article 352 of the Indian Constitution:\nI. While the proclamation of emergency is in operation, the power of State Legislatures to make laws on the State List subjects is suspended.\nII. The laws made by Parliament on State List subjects while the proclamation of emergency was in operation will continue only for six months after the proclamation has ceased to operate.\nWhich of the statements given above is/are correct?",
+
+    "question": "Consider the following statements about Centre-State legislative relation when an Emergency is proclaimed under Article 352 of the Indian Constitution:<br>I. While the proclamation of emergency is in operation, the power of State Legislatures to make laws on the State List subjects is suspended.<br>II. The laws made by Parliament on State List subjects while the proclamation of emergency was in operation will continue only for six months after the proclamation has ceased to operate.<br>Which of the statements given above is/are correct?",
+
     "options": [
+
       "I only",
+
       "II only",
+
       "Both I and II",
+
       "Neither I nor II"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. Statement I is incorrect: State Legislatures are not suspended from making laws on State List subjects during a proclamation under Article 352. Statement II is correct: Laws made by Parliament on State subjects cease to have effect six months after the emergency ends."
+
+    "explanation": "<b>Option b is the correct answer.</b><br><b>Statement I is incorrect:</b> State Legislatures are <b>not suspended</b>; Parliament gets concurrent power to legislate on State subjects (Article 250).<br><b>Statement II is correct:</b> Laws made by Parliament on State subjects cease to have effect six months after the emergency ends."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
+
     "question": "As per the Constitution of India, which of the following is authorized to delegate the functions in relation to any matter to which the executive power of the State extends, to the Government of India?",
+
     "options": [
+
       "The Legislature of the State with consent of the Government of India",
+
       "The President of India with consent of Legislature of the State",
+
       "The Governor of the State with consent of the Parliament of India",
+
       "The Governor of the State with consent of the Government of India"
+
     ],
+
     "answer": 3,
-    "explanation": "Option d is the correct answer. Under Article 258A, the Governor of a State may, with the consent of the Government of India, entrust functions to that Government or its officers."
+
+    "explanation": "<b>Option d is the correct answer.</b><br>Under Article 258A, the <b>Governor of a State</b> may, with the consent of the <b>Government of India</b>, entrust functions to that Government or its officers."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
-    "question": "In the context of Indian Polity, consider the following statements:\nStatement I: Final judgments or orders delivered or passed by civil courts in any part of the territory of India are capable of execution anywhere within that territory according to law.\nStatement II: According to the Constitution of India, all the Civil Courts in India act as court of records.\nWhich one of the following is correct in respect of the above statements?",
+
+    "question": "In the context of Indian Polity, consider the following statements:<br>Statement I: Final judgments or orders delivered or passed by civil courts in any part of the territory of India are capable of execution anywhere within that territory according to law.<br>Statement II: According to the Constitution of India, all the Civil Courts in India act as court of records.<br>Which one of the following is correct in respect of the above statements?",
+
     "options": [
+
       "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
       "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+
       "Statement I is correct but Statement II is not correct",
+
       "Statement I is not correct but Statement II is correct"
+
     ],
+
     "answer": 2,
-    "explanation": "Option c is the correct answer. Statement I is correct: Under Article 261(3), final judgments of civil courts are capable of execution anywhere in India. Statement II is incorrect: Only the Supreme Court and High Courts are declared as Courts of Record by the Constitution, not all Civil Courts."
+
+    "explanation": "<b>Option c is the correct answer.</b><br><b>Statement I is correct:</b> Under Article 261(3), final civil court judgments are capable of execution anywhere in India.<br><b>Statement II is incorrect:</b> Only the Supreme Court (Art 129) and High Courts (Art 215) are declared as Courts of Record. Civil Courts do not have this constitutional status."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Inter-State Relations",
-    "question": "With reference to the Inter-State Council in India, consider the following statements:\nI. The Constitution makes it mandatory for the President to establish the Inter-State Council every fifth year.\nII. The Inter-State Council possesses adjudicating power on disputes between the State Governments and between Union and the State Governments.\nWhich of the statements given above is/are correct?",
+
+    "question": "With reference to the Inter-State Council in India, consider the following statements:<br>I. The Constitution makes it mandatory for the President to establish the Inter-State Council every fifth year.<br>II. The Inter-State Council possesses adjudicating power on disputes between the State Governments and between Union and the State Governments.<br>Which of the statements given above is/are correct?",
+
     "options": [
+
       "I only",
+
       "II only",
+
       "Both I and II",
+
       "Neither I nor II"
+
     ],
+
     "answer": 3,
-    "explanation": "Option d is the correct answer. Statement I is incorrect: Article 263 empowers the President to establish the Council if it is in the public interest, but it does not mandate establishment every fifth year. Statement II is incorrect: The Inter-State Council is an advisory body and does not possess adjudicatory powers."
+
+    "explanation": "<b>Option d is the correct answer.</b><br><b>Statement I is incorrect:</b> Article 263 empowers the President to establish the Council if it is in the public interest, but it is not mandatory every fifth year.<br><b>Statement II is incorrect:</b> The Inter-State Council is an advisory body; it does not possess adjudicatory powers."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
+
     "question": "Who holds the final authority to dismiss or remove an All India Services officer, posted in a State, from the service?",
+
     "options": [
+
       "The President of India",
+
       "The Governor of the State",
+
       "Union Public Service Commission",
+
       "The Civil Services Board (CSB)"
+
     ],
+
     "answer": 0,
-    "explanation": "Option a is the correct answer. According to Article 311 and 310, the power of appointment and dismissal of All India Services officers rests with the President of India, who is the appointing authority."
+
+    "explanation": "<b>Option a is the correct answer.</b><br>According to Article 311 and 310, the power of appointment and dismissal of All India Services officers rests with the <b>President of India</b>. No person shall be dismissed by an authority subordinate to that by which he was appointed."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
+
     "question": "Who among the following is not associated to the Governing Council of NITI Aayog?",
+
     "options": [
+
       "The Prime Minister",
+
       "The President",
+
       "The Chief Ministers of States",
+
       "The Chief Ministers of Union Territories"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. The President of India is not a member of the Governing Council of NITI Aayog, which comprises the Prime Minister, Chief Ministers, Lt Governors, and NITI Aayog members."
+
+    "explanation": "<b>Option b is the correct answer.</b><br>The Governing Council comprises the Prime Minister, Chief Ministers, Lt Governors, and NITI Aayog members. The <b>President of India</b> is not a member."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
-    "question": "Consider the following statements regarding provisions related to grants from the Union to certain States under Article 275 of the Constitution of India:\nI. The Union can grant aid to States for any public purpose which may not be mentioned in any existing statute.\nII. They are given to states based on the recommendations of the Finance Commission.\nWhich of the statements given above is/are correct?",
+
+    "question": "Consider the following statements regarding provisions related to grants from the Union to certain States under Article 275 of the Constitution of India:<br>I. The Union can grant aid to States for any public purpose which may not be mentioned in any existing statute.<br>II. They are given to states based on the recommendations of the Finance Commission.<br>Which of the statements given above is/are correct?",
+
     "options": [
+
       "I only",
+
       "II only",
+
       "Both I and II",
+
       "Neither I nor II"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. Statement I is incorrect: Grants under Article 275 are statutory grants defined by law, whereas discretionary grants for any public purpose fall under Article 282. Statement II is correct: Statutory grants under Article 275 are provided based on the recommendations of the Finance Commission."
+
+    "explanation": "<b>Option b is the correct answer.</b><br><b>Statement I is incorrect:</b> Grants for any public purpose (discretionary) fall under Article 282. Article 275 deals with statutory grants.<br><b>Statement II is correct:</b> Statutory grants under Article 275 are provided based on the recommendations of the Finance Commission."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
+
     "question": "In the context of fiscal federalism during the British rule in India, which one of the following Acts for the first time provided a complete separation between the Central and the Provincial heads of revenue?",
+
     "options": [
+
       "Indian Councils Act, 1909",
+
       "Indian Councils Act, 1892",
+
       "Government of India Act, 1919",
+
       "Government of India Act, 1935"
+
     ],
+
     "answer": 2,
-    "explanation": "Option c is the correct answer. The Government of India Act, 1919 (Montagu-Chelmsford Reforms) for the first time introduced a clear-cut separation of revenue heads between the Centre and the Provincial governments."
+
+    "explanation": "<b>Option c is the correct answer.</b><br>The <b>Government of India Act, 1919</b> (Montagu-Chelmsford Reforms) for the first time introduced a clear-cut separation of revenue heads between the Centre and the Provincial governments."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
-    "question": "The 42nd Constitutional Amendment Act, 1976, transferred which of the following subjects from the State List to the Concurrent List of the Seventh Schedule of the Constitution of India?\nI. Forests\nII. Newspapers, books and printing presses\nIII. Protection of wild animals and birds\nIV. Social security and social insurance\nV. Maintenance of land records\nSelect the correct answer using the code given below:",
+
+    "question": "The 42nd Constitutional Amendment Act, 1976, transferred which of the following subjects from the State List to the Concurrent List of the Seventh Schedule of the Constitution of India?<br>I. Forests<br>II. Newspapers, books and printing presses<br>III. Protection of wild animals and birds<br>IV. Social security and social insurance<br>V. Maintenance of land records<br>Select the correct answer using the code given below:",
+
     "options": [
+
       "I and III only",
+
       "II, IV and V only",
+
       "I, II and III only",
+
       "I, III and IV only"
+
     ],
+
     "answer": 0,
-    "explanation": "Option a is the correct answer. The 42nd Constitutional Amendment transferred Forests (I) and Protection of Wild Animals and Birds (III) to the Concurrent List. Newspapers (II) were already in the Concurrent List (Entry 39), Social security (IV) was also already in the Concurrent List, and Land records (V) remain in the State List."
+
+    "explanation": "<b>Option a is the correct answer.</b><br>The 42nd Amendment transferred 5 subjects to the Concurrent List: Education, Forests, Weights & Measures, Protection of Wild Animals/Birds, and Administration of Justice.<br><b>I and III are correct.</b><br><b>II (Newspapers)</b> was already in the Concurrent List.<br><b>IV (Social Security)</b> was already in the Concurrent List.<br><b>V (Land Records)</b> remains in the State List."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Inter-State Relations",
+
     "question": "Which of the following States/UTs are included in the Northern Zonal Council?",
+
     "options": [
+
       "Uttarakhand, Uttar Pradesh, Haryana, Punjab, Jammu and Kashmir",
+
       "Haryana, Punjab, Himachal Pradesh, Rajasthan and NCT of Delhi",
+
       "Uttar Pradesh, Uttarakhand, Punjab, Haryana and Rajasthan",
+
       "Uttarakhand, Uttar Pradesh, Himachal Pradesh, Punjab and Haryana"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. The Northern Zonal Council comprises the states and union territories of Chandigarh, National Capital Territory of Delhi, Haryana, Himachal Pradesh, Jammu and Kashmir, Punjab, Rajasthan and Ladakh."
+
+    "explanation": "<b>Option b is the correct answer.</b><br>The Northern Zonal Council comprises Chandigarh, NCT of Delhi, Haryana, Himachal Pradesh, Jammu and Kashmir, Punjab, Rajasthan, and Ladakh."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "Which of the following statements with regard to the Election Commission of India (ECI) is/are correct?\nI. According to the Constitution of India, the Election commission of India consists of a Chief Election Commissioner and two other election commissioners.\nII. The Chief Election Commissioner can only be removed from office in like manner and on the like grounds as a Judge of the Supreme Court of India.\nIII. No civil or criminal proceedings can be initiated against the Chief Election Commissioner or the Election Commissioners for actions taken in the discharge of their official duties.\nSelect the correct answer using the code given below.",
+
+    "question": "Which of the following statements with regard to the Election Commission of India (ECI) is/are correct?<br>I. According to the Constitution of India, the Election commission of India consists of a Chief Election Commissioner and two other election commissioners.<br>II. The Chief Election Commissioner can only be removed from office in like manner and on the like grounds as a Judge of the Supreme Court of India.<br>III. No civil or criminal proceedings can be initiated against the Chief Election Commissioner or the Election Commissioners for actions taken in the discharge of their official duties.<br>Select the correct answer using the code given below.",
+
     "options": [
+
       "I and II only",
+
       "II and III only",
+
       "III only",
+
       "I, II and III"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. Statement I is incorrect: Article 324(2) provides for a Chief Election Commissioner and such number of other Election Commissioners as the President may fix; it does not mandate two other commissioners. Statement II is correct: The Chief Election Commissioner can be removed only in the like manner and on the like grounds as a Judge of the Supreme Court. Statement III is correct: The Chief Election Commissioner and Other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023 grants legal protection against civil or criminal proceedings for official acts."
+
+    "explanation": "<b>Option b is the correct answer.</b><br><br><b>Statement I is incorrect:</b> Article 324(2) of the Constitution provides for a Chief Election Commissioner and such number of other Election Commissioners as the President may fix. It does not strictly mandate two other commissioners; the number is determined by the President.<br><b>Statement II is correct:</b> The Chief Election Commissioner can be removed from office only in the like manner and on the like grounds as a Judge of the Supreme Court (Article 324(5)).<br><b>Statement III is correct:</b> The Chief Election Commissioner and Other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023 grants legal protection against civil or criminal proceedings for official acts."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "Consider the following constitutional authorities in India:\nI. Comptroller and Auditor General of India (CAG)\nII. Attorney General of India\nIII. The Chairman of the Union Public Service Commission (UPSC)\nIV. Members of the Finance Commission\nHow many of the above, after they cease to hold respective offices, are eligible to further hold any other office under the Government of India or under the Government of a State?",
+
+    "question": "Consider the following constitutional authorities in India:<br>I. Comptroller and Auditor General of India (CAG)<br>II. Attorney General of India<br>III. The Chairman of the Union Public Service Commission (UPSC)<br>IV. Members of the Finance Commission<br>How many of the above, after they cease to hold respective offices, are eligible to further hold any other office under the Government of India or under the Government of a State?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "Only three",
+
       "All the four"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. The CAG is ineligible for further office under the Government of India or any State after their term ends. The Attorney General is eligible to hold further office. The Chairman of the UPSC is not eligible for further employment under the Government. Members of the Finance Commission are eligible for further appointment under the Government of India or a State."
+
+    "explanation": "<b>Option b is the correct answer.</b><br><br><b>I is ineligible:</b> The CAG is ineligible for further office under the Government of India or any State after their term ends (Article 148(4)).<br><b>II is eligible:</b> The Attorney General is eligible to hold further office (Article 76).<br><b>III is ineligible:</b> The Chairman of the UPSC is not eligible for further employment under the Government (Article 319).<br><b>IV is eligible:</b> The Constitution does not restrict members of the Finance Commission from holding further office (Article 280)."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "Consider the following bodies:\nI. National Human Rights Commission (NHRC)\nII. Lokpal\nIII. Central Vigilance Commission (CVC)\nIV. Central Information Commission (CIC)\nThe committee making recommendation for appointment of members to how many of the above bodies consist of the Speaker of Lok Sabha?",
+
+    "question": "Consider the following bodies:<br>I. National Human Rights Commission (NHRC)<br>II. Lokpal<br>III. Central Vigilance Commission (CVC)<br>IV. Central Information Commission (CIC)<br>The committee making recommendation for appointment of members to how many of the above bodies consist of the Speaker of Lok Sabha?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "Only three",
+
       "All the four"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. The Speaker of the Lok Sabha is a member of the selection committee for the NHRC. The Speaker is also a member of the selection committee for the Lokpal. The Speaker is not a member of the committee for the CVC or the CIC."
+
+    "explanation": "<b>Option b is the correct answer.</b><br><br><b>I (NHRC):</b> The Speaker of the Lok Sabha is a member of the selection committee.<br><b>II (Lokpal):</b> The Speaker of the Lok Sabha is a member of the selection committee.<br><b>III (CVC):</b> The Speaker is <b>not</b> a member (Committee: PM, Home Minister, Leader of Opposition).<br><b>IV (CIC):</b> The Speaker is <b>not</b> a member (Committee: PM, Leader of Opposition, Union Cabinet Minister)."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "Consider the following organizations/bodies in India:\nI. Central Pay Commission\nII. Anusandhan National Research Foundation (ANRF)\nIII. Unique Identification Authority of India (UIDAI)\nHow many of the above are statutory bodies?",
+
+    "question": "Consider the following organizations/bodies in India:<br>I. Central Pay Commission<br>II. Anusandhan National Research Foundation (ANRF)<br>III. Unique Identification Authority of India (UIDAI)<br>How many of the above are statutory bodies?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "All the three",
+
       "None"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. The Central Pay Commission is an ad hoc advisory body and not a statutory body. The Anusandhan National Research Foundation (ANRF) is a statutory body established under the Anusandhan National Research Foundation Act, 2023. The UIDAI is a statutory body under the Aadhaar Act, 2016."
+
+    "explanation": "<b>Option b is the correct answer.</b><br><br><b>I is not statutory:</b> The Central Pay Commission is an ad hoc advisory body set up by executive resolution.<br><b>II is statutory:</b> ANRF was established under the Anusandhan National Research Foundation Act, 2023.<br><b>III is statutory:</b> UIDAI is a statutory authority under the Aadhaar Act, 2016."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "Consider the following statements:\nThe President may by order remove from office the Chairman or any other member of the Union Public Service Commission if:\nI. s/he is adjudged an insolvent.\nII. s/he engages during his/her term of office in any paid employment outside the duties of his/her office.\nIII. s/he, in the opinion of the President, unfit to continue in office by reason of infirmity of mind or body.\nWhich of the statements given above are correct?",
+
+    "question": "Consider the following statements:<br>The President may by order remove from office the Chairman or any other member of the Union Public Service Commission if:<br>I. s/he is adjudged an insolvent.<br>II. s/he engages during his/her term of office in any paid employment outside the duties of his/her office.<br>III. s/he, in the opinion of the President, unfit to continue in office by reason of infirmity of mind or body.<br>Which of the statements given above are correct?",
+
     "options": [
+
       "I, II and III",
+
       "I and III only",
+
       "I and II only",
+
       "II and III only"
+
     ],
+
     "answer": 0,
-    "explanation": "Option a is the correct answer. According to Article 317(3) of the Constitution, the President may remove the Chairman or member of the UPSC if they are adjudged an insolvent, engage in paid employment outside their duties, or are unfit due to infirmity of mind or body."
+
+    "explanation": "<b>Option a is the correct answer.</b><br>Under Article 317(3) of the Constitution, the President may remove the Chairman or member of the UPSC without a Supreme Court inquiry if they are adjudged an insolvent, engage in paid employment outside their duties, or are unfit due to infirmity of mind or body."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "In India, other than ensuring that public funds are used efficiently and for the intended purpose, what is the importance of the office of the Comptroller and Auditor General (CAG)?\n1. CAG exercises exchequer control on behalf of the Parliament when the President of India declares national emergency/financial emergency.\n2. CAG reports on the execution of projects or programmes by the ministries which are discussed by the Public Accounts Committee.\n3. Information from CAG reports can be used by investigating agencies to press charges against those who have violated the law while managing public finances.\n4. While dealing with the audit and accounting of government companies, CAG has certain judicial powers for prosecuting those who violate the law.\nWhich of the statements given above is/are correct?",
+
+    "question": "In India, other than ensuring that public funds are used efficiently and for the intended purpose, what is the importance of the office of the Comptroller and Auditor General (CAG)?<br>1. CAG exercises exchequer control on behalf of the Parliament when the President of India declares national emergency/financial emergency.<br>2. CAG reports on the execution of projects or programmes by the ministries which are discussed by the Public Accounts Committee.<br>3. Information from CAG reports can be used by investigating agencies to press charges against those who have violated the law while managing public finances.<br>4. While dealing with the audit and accounting of government companies, CAG has certain judicial powers for prosecuting those who violate the law.<br>Which of the statements given above is/are correct?",
+
     "options": [
+
       "1, 2 and 4 only",
+
       "2 only",
+
       "2 and 3 only",
+
       "1, 2, 3 and 4"
+
     ],
+
     "answer": 2,
-    "explanation": "Option c is the correct answer. Statements 2 and 3 are correct: CAG reports are discussed by the Public Accounts Committees, and information from these reports can be used by investigating agencies to press charges. Statements 1 and 4 are incorrect: The CAG does not exercise exchequer control during emergencies and does not possess judicial powers."
+
+    "explanation": "<b>Option c is the correct answer.</b><br><br><b>Statements 2 and 3 are correct:</b> CAG reports are discussed by the Public Accounts Committee, and findings (like in the 2G scam) can be used by agencies to press charges.<br><b>Statements 1 and 4 are incorrect:</b> The CAG does not exercise exchequer control (money can be withdrawn without CAG approval) and does not possess judicial powers to prosecute."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "With reference to the National Commission for Scheduled Tribes (NCST), consider the following statements:\nI. It is mandatory to have at least one woman member in the Commission.\nII. As per the Constitution of India, it will annually submit a report to the Parliament relating to the working of the commission.\nIII. It has all the powers of a civil court while summoning any person from any part of India and examining him on oath.\nWhich of the statements given above is/are correct?",
+
+    "question": "With reference to the National Commission for Scheduled Tribes (NCST), consider the following statements:<br>I. It is mandatory to have at least one woman member in the Commission.<br>II. As per the Constitution of India, it will annually submit a report to the Parliament relating to the working of the commission.<br>III. It has all the powers of a civil court while summoning any person from any part of India and examining him on oath.<br>Which of the statements given above is/are correct?",
+
     "options": [
+
       "I only",
+
       "II and III only",
+
       "I and III only",
+
       "I, II and III"
+
     ],
+
     "answer": 2,
-    "explanation": "Option c is the correct answer. Statement I is correct: At least one member of the NCST must be a woman. Statement II is incorrect: The Commission submits its report to the President, not directly to Parliament. Statement III is correct: The Commission has the powers of a civil court while investigating matters."
+
+    "explanation": "<b>Option c is the correct answer.</b><br><br><b>Statement I is correct:</b> At least one member of the NCST must be a woman.<br><b>Statement II is incorrect:</b> The Commission submits its report to the <b>President</b>, not directly to Parliament (Article 338A(5)(d)).<br><b>Statement III is correct:</b> The Commission has the powers of a civil court while investigating matters (Article 338A(8))."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "With reference to ‘Special Officer for Linguistic Minorities’, consider the following statements:\nI. Based on the recommendations of States Reorganisation Commission (SRC) 1956, a provision related to Special Officer for linguistic minorities was added to the Constitution of India.\nII. The officer is responsible for identifying linguistic minorities in the state and declaring the same.\nWhich of the statements given above is/are correct?",
+
+    "question": "With reference to ‘Special Officer for Linguistic Minorities’, consider the following statements:<br>I. Based on the recommendations of States Reorganisation Commission (SRC) 1956, a provision related to Special Officer for linguistic minorities was added to the Constitution of India.<br>II. The officer is responsible for identifying linguistic minorities in the state and declaring the same.<br>Which of the statements given above is/are correct?",
+
     "options": [
+
       "I only",
+
       "II only",
+
       "Both I and II",
+
       "Neither I nor II"
+
     ],
+
     "answer": 0,
-    "explanation": "Option a is the correct answer. Statement I is correct: The provision for a Special Officer for Linguistic Minorities (Article 350B) was added by the 7th Amendment, 1956, based on the SRC recommendations. Statement II is incorrect: Linguistic minorities are identified by the respective States/UTs, not by the Special Officer."
+
+    "explanation": "<b>Option a is the correct answer.</b><br><br><b>Statement I is correct:</b> The provision (Article 350B) was added by the 7th Amendment, 1956, based on SRC recommendations.<br><b>Statement II is incorrect:</b> The Special Officer does not identify or declare linguistic minorities; they are identified by the respective States/UTs."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "With reference to the organizations/bodies in India, consider the following information:\nI. National Commission for Scheduled Castes: Tenure - Hold office for a term of four years.\nII. State Information Commission: Tenure - Hold office for a period of three years.\nIII. State Human Rights Commission: Tenure - A term of 5 years provided that no Member shall hold office after s/he has attained the age of seventy years.\nIV. Central Vigilance Commission: Tenure - A term of 6 years or until the age of 65 years.\nIn how many of the above rows is the information correctly matched?",
+
+    "question": "With reference to the organizations/bodies in India, consider the following information:<br><b>Organisation — Salaries determined by — Tenure</b><br>I. National Commission for Scheduled Castes — President — Term of 4 years<br>II. State Information Commission — State Legislature — Term of 3 years<br>III. State Human Rights Commission — State Government — Term of 5 years/age 70<br>IV. Central Vigilance Commission — Central Government — Term of 6 years/age 65<br>In how many of the above rows is the information correctly matched?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "Only three",
+
       "All the four"
+
     ],
+
     "answer": 0,
-    "explanation": "Option a is the correct answer. Row I is incorrect: NCSC members hold office for three years. Row II is incorrect: While the tenure is three years under 2019 rules, the table incorrectly states salaries are determined by the State Legislature (they are prescribed by the Central Government). Row III is considered correctly matched by the source. Row IV is incorrect: CVC members serve a term of four years."
+
+    "explanation": "<b>Option a is the correct answer.</b><br><br><b>Row I is incorrect:</b> NCSC members hold office for 3 years, not 4.<br><b>Row II is incorrect:</b> Salaries are prescribed by the Central Government, not State Legislature.<br><b>Row III is considered correctly matched</b> by the source (despite the tenure being 3 years under current acts, the source marks this row as the only correct match).<br><b>Row IV is incorrect:</b> CVC members serve a term of 4 years, not 6."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
+
     "question": "M.M. Punchhi Commission on Centre-State Relationship has recommended the disposal of a bill reserved for the consideration of the Union Executive within-",
+
     "options": [
+
       "Four months",
+
       "Six months",
+
       "Eight months",
+
       "Five months"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. The M.M. Punchhi Commission recommended that a bill reserved for the consideration of the Union Executive should be disposed of within six months."
+
+    "explanation": "<b>Option b is the correct answer.</b><br>The M.M. Punchhi Commission recommended that a bill reserved for the consideration of the Union Executive should be disposed of within <b>six months</b>."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "Consider the following organizations/bodies in India:\nI. Central Bureau of Investigation\nII. Central Vigilance Commission\nIII. Enforcement Directorate\nHow many of the above bodies/organizations in India were established based on the recommendation of Santhanam Committee (Committee on Prevention of Corruption)?",
+
+    "question": "Consider the following organizations/bodies in India:<br>I. Central Bureau of Investigation<br>II. Central Vigilance Commission<br>III. Enforcement Directorate<br>How many of the above bodies/organizations in India were established based on the recommendation of Santhanam Committee (Committee on Prevention of Corruption)?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "All the three",
+
       "None"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. The CBI (Option I) and the CVC (Option II) were established following recommendations of the Santhanam Committee. The Enforcement Directorate (Option III) was established in 1956, before the Santhanam Committee."
+
+    "explanation": "<b>Option b is the correct answer.</b><br><br><b>I (CBI):</b> Established in 1963 on Santhanam Committee recommendations.<br><b>II (CVC):</b> Established in 1964 on Santhanam Committee recommendations.<br><b>III (ED):</b> Established in 1956, before the Santhanam Committee."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "Consider the following:\nI. Comptroller and Auditor General of India (CAG)\nII. Chairman of the Union Public Service Commission (UPSC)\nIII. Chairperson of the National Commission for Women (NCW)\nIV. Chairperson of the National Human Rights Commission (NHRC)\nThe salaries and allowances of how many of the above shall be charged upon the Consolidated Fund of India?",
+
+    "question": "Consider the following:<br>I. Comptroller and Auditor General of India (CAG)<br>II. Chairman of the Union Public Service Commission (UPSC)<br>III. Chairperson of the National Commission for Women (NCW)<br>IV. Chairperson of the National Human Rights Commission (NHRC)<br>The salaries and allowances of how many of the above shall be charged upon the Consolidated Fund of India?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "Only three",
+
       "All the four"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. The salaries of the CAG (I) and the Chairman of the UPSC (II) are charged on the Consolidated Fund of India. The salaries for the NCW (III) and NHRC (IV) are paid out of grants and are not charged on the Consolidated Fund."
+
+    "explanation": "<b>Option b is the correct answer.</b><br><br><b>Charged on CFI:</b> CAG (Article 148) and UPSC Chairman (Article 322).<br><b>Not Charged (Paid via Grants):</b> NCW (Statutory grant) and NHRC (Statutory grant)."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
+
     "question": "A State legislature introduces a bill that imposes taxes on the consumption of electricity by the Government of India (Union Government) in that State. In this context which of the statements given below is correct?",
+
     "options": [
+
       "A prior recommendation of the President of India is required for introduction of any such bill.",
+
       "When Parliament by law authorizes the same, only then the State legislature can pass such a bill.",
+
       "Such a bill must be passed by the State legislature by majority of total membership of the house and majority of two-third of the members of the house present and voting.",
+
       "Such a bill cannot be introduced in the State legislature as tax on the consumption of electricity is a Union List subject under the Seventh Schedule of the Constitution."
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. Article 287 provides that a State Legislature can impose a tax on electricity consumed by the Union Government only when Parliament enacts a law permitting such taxation."
+
+    "explanation": "<b>Option b is the correct answer.</b><br>Article 287 of the Constitution provides that a State Legislature can impose a tax on electricity consumed by the Union Government only when <b>Parliament enacts a law</b> permitting such taxation."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Inter-State Relations",
-    "question": "Consider the following statements regarding Zonal Councils in India:\nI. The idea for establishment of Zonal Council was first mooted by the first Prime minister of India, Pt. Jawaharlal Nehru.\nII. In case a Union Territory is a part of a zonal council, two members from such territory is nominated by the President to that zonal council.\nIII. Presently, all states in India are included in the zonal councils.\nWhich of the statements given above is/ are correct?",
+
+    "question": "Consider the following statements regarding Zonal Councils in India:<br>I. The idea for establishment of Zonal Council was first mooted by the first Prime minister of India, Pt. Jawaharlal Nehru.<br>II. In case a Union Territory is a part of a zonal council, two members from such territory is nominated by the President to that zonal council.<br>III. Presently, all states in India are included in the zonal councils.<br>Which of the statements given above is/ are correct?",
+
     "options": [
+
       "III only",
+
       "II only",
+
       "I and III",
+
       "I and II"
+
     ],
+
     "answer": 3,
-    "explanation": "Option d is the correct answer. Statement I is correct: The idea was mooted by Pandit Jawaharlal Nehru in 1956. Statement II is correct: Two members from a Union Territory included in the zone are nominated by the President. Statement III is incorrect: The North Eastern States are not included in the Zonal Councils but in the North Eastern Council."
+
+    "explanation": "<b>Option d is the correct answer.</b><br><br><b>Statement I is correct:</b> The idea was mooted by Pandit Nehru in 1956 to counter linguistic hostilities.<br><b>Statement II is correct:</b> Two members from a UT are nominated by the President.<br><b>Statement III is incorrect:</b> The North Eastern States are not included in the Zonal Councils; they are under the North Eastern Council."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "With reference to statutory bodies in India, consider the following:\nI. National Commission for Protection of Child Rights\nII. Central Vigilance Commission\nIII. Bar Council of India\nIV. National Human Rights Commission\nHow many of the above bodies have the power to take a suo moto cognizance of a matter falling within their functional jurisdiction?",
+
+    "question": "With reference to statutory bodies in India, consider the following:<br>I. National Commission for Protection of Child Rights<br>II. Central Vigilance Commission<br>III. Bar Council of India<br>IV. National Human Rights Commission<br>How many of the above bodies have the power to take a suo moto cognizance of a matter falling within their functional jurisdiction?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "Only three",
+
       "All the four"
+
     ],
+
     "answer": 3,
-    "explanation": "Option d is the correct answer. All four bodies—NCPCR (I), CVC (II), Bar Council of India (III), and NHRC (IV)—have the power to take suo motu cognizance of matters within their jurisdiction."
+
+    "explanation": "<b>Option d is the correct answer.</b><br>All four bodies—NCPCR, CVC, Bar Council of India, and NHRC—have the legal power to take <i>suo motu</i> cognizance of matters within their respective jurisdictions."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Nature of Federalism",
-    "question": "We adopted parliamentary democracy based on the British model, but how does our model differ from that model?\n1. As regards legislation, the British Parliament is supreme or sovereign but in India, the power of the Parliament to legislate is limited.\n2. In India, matters related to the constitutionality of Amendment of an Act of the Parliament are referred to the Constitution Bench by the Supreme Court.\nSelect the correct answer using the code given below:",
+
+    "question": "We adopted parliamentary democracy based on the British model, but how does our model differ from that model?<br>1. As regards legislation, the British Parliament is supreme or sovereign but in India, the power of the Parliament to legislate is limited.<br>2. In India, matters related to the constitutionality of Amendment of an Act of the Parliament are referred to the Constitution Bench by the Supreme Court.<br>Select the correct answer using the code given below:",
+
     "options": [
+
       "1 only",
+
       "2 only",
+
       "Both 1 and 2",
+
       "Neither 1 nor 2"
+
     ],
+
     "answer": 2,
-    "explanation": "Option c is the correct answer. Statement 1 is correct: The Indian Parliament is not sovereign like the British Parliament; its powers are limited by the written Constitution and the basic structure doctrine. Statement 2 is correct: Constitutional amendments and their validity can be reviewed by a Constitution Bench of the Supreme Court."
+
+    "explanation": "<b>Option c is the correct answer.</b><br><br><b>Statement 1 is correct:</b> The Indian Parliament is not sovereign like the British Parliament; its powers are limited by the written Constitution and the basic structure doctrine.<br><b>Statement 2 is correct:</b> Constitutional amendments and their validity can be reviewed by a Constitution Bench of the Supreme Court."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Nature of Federalism",
-    "question": "Which of the following provisions of the Indian Constitution reflect the asymmetric character of India’s federal system?\nI. Second Schedule\nII. Fourth Schedule\nIII. Fifth Schedule\nIV. Sixth Schedule\nSelect the correct answer using the code given below.",
+
+    "question": "Which of the following provisions of the Indian Constitution reflect the asymmetric character of India’s federal system?<br>I. Second Schedule<br>II. Fourth Schedule<br>III. Fifth Schedule<br>IV. Sixth Schedule<br>Select the correct answer using the code given below.",
+
     "options": [
+
       "I and II only",
+
       "II, III and IV only",
+
       "III and IV only",
+
       "I, II, III and IV"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. The Fourth Schedule (unequal Rajya Sabha representation), Fifth Schedule (Special Administrative framework for Scheduled Areas), and Sixth Schedule (Autonomous Districts in NE states) reflect asymmetric federalism. The Second Schedule is purely administrative and does not reflect asymmetry."
+
+    "explanation": "<b>Option b is the correct answer.</b><br><br><b>Asymmetric features include:</b><br>- <b>Fourth Schedule:</b> Unequal representation in Rajya Sabha based on population.<br>- <b>Fifth Schedule:</b> Special administration for Scheduled Areas.<br>- <b>Sixth Schedule:</b> Autonomous Councils in North-East states.<br>The <b>Second Schedule</b> (Salaries) is administrative and does not reflect federal asymmetry."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "With reference to the Enforcement Directorate/Directorate of Enforcement, which of the following statements is/are correct?\nI. It is neither a statutory nor a constitutional body.\nII. It functions under the administrative control of the Ministry of Home Affairs.\nIII. It has the authority to declare any individual as a fugitive economic offender under the Fugitive Economic Offenders Act, 2018.\nSelect the correct answer using the code given below.",
+
+    "question": "With reference to the Enforcement Directorate/Directorate of Enforcement, which of the following statements is/are correct?<br>I. It is neither a statutory nor a constitutional body.<br>II. It functions under the administrative control of the Ministry of Home Affairs.<br>III. It has the authority to declare any individual as a fugitive economic offender under the Fugitive Economic Offenders Act, 2018.<br>Select the correct answer using the code given below.",
+
     "options": [
+
       "I only",
+
       "II and III only",
+
       "I and III only",
+
       "I, II and III"
+
     ],
+
     "answer": 0,
-    "explanation": "Option a is the correct answer. Statement I is correct: The ED is neither a constitutional nor a statutory body. Statement II is incorrect: It functions under the Department of Revenue, Ministry of Finance, not Home Affairs. Statement III is incorrect: The power to declare an individual a Fugitive Economic Offender lies with the Special Court, not the ED."
+
+    "explanation": "<b>Option a is the correct answer.</b><br><br><b>Statement I is correct:</b> The ED is established by executive order, making it neither constitutional nor statutory.<br><b>Statement II is incorrect:</b> It functions under the Department of Revenue, <b>Ministry of Finance</b>.<br><b>Statement III is incorrect:</b> The power to declare an individual a Fugitive Economic Offender lies with the <b>Special Court</b>, not the ED."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Special Provisions/Areas",
-    "question": "Consider the following statements in respect of the special provisions for Nagaland under Article 371A of the Constitution of India:\nI. The President of India has a special responsibility with respect to law and order in the State for so long as, in his/her opinion, internal disturbances in the State continue.\nII. An Act of Parliament relating to ownership and transfer of land and its resources shall not apply to the state of Nagaland unless the Legislative Assembly of the State decides otherwise by a resolution.\nWhich of the statements given above is/are correct?",
+
+    "question": "Consider the following statements in respect of the special provisions for Nagaland under Article 371A of the Constitution of India:<br>I. The President of India has a special responsibility with respect to law and order in the State for so long as, in his/her opinion, internal disturbances in the State continue.<br>II. An Act of Parliament relating to ownership and transfer of land and its resources shall not apply to the state of Nagaland unless the Legislative Assembly of the State decides otherwise by a resolution.<br>Which of the statements given above is/are correct?",
+
     "options": [
+
       "Only I",
+
       "Only II",
+
       "Both I and II",
+
       "Neither I nor II"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. Statement I is incorrect: The Governor of Nagaland (not the President) has the special responsibility regarding law and order. Statement II is correct: Acts of Parliament regarding ownership and transfer of land do not apply unless the State Assembly decides so."
+
+    "explanation": "<b>Option b is the correct answer.</b><br><br><b>Statement I is incorrect:</b> The <b>Governor of Nagaland</b> (not the President) has the special responsibility regarding law and order.<br><b>Statement II is correct:</b> Acts of Parliament regarding ownership and transfer of land do not apply unless the Nagaland Legislative Assembly decides so."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "Consider the following organizations/bodies at the State level in India:\nI. State Public Service Commission\nII. State Finance Commission\nIII. State Election Commission\nIV. State Human Rights Commission\nThe Chairperson of how many of the above organizations/bodies shall only be removed from his/her office by the order of the President of India?",
+
+    "question": "Consider the following organizations/bodies at the State level in India:<br>I. State Public Service Commission<br>II. State Finance Commission<br>III. State Election Commission<br>IV. State Human Rights Commission<br>The Chairperson of how many of the above organizations/bodies shall only be removed from his/her office by the order of the President of India?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "Only three",
+
       "All the four"
+
     ],
+
     "answer": 2,
-    "explanation": "Option c is the correct answer. The Chairperson/Members of the State Public Service Commission, State Election Commission, and State Human Rights Commission are removed by the President. The State Finance Commission members are removed based on state law, typically by the Governor."
+
+    "explanation": "<b>Option c is the correct answer.</b><br><br><b>Removed by President:</b><br>- SPSC (Article 317)<br>- State Election Commission (Article 243K - like HC Judge, i.e., by President)<br>- SHRC (Protection of Human Rights Act - by President)<br><b>Removed by Governor/State mechanism:</b> State Finance Commission (as per state law)."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
-    "question": "With reference to the seventh schedule of the Constitution of India, consider the following pairs:\nI. Trade unions — Union List\nII. Population control and family planning — Concurrent List\nIII. Public health and sanitation — State List\nHow many of the pairs given above are correctly matched?",
+
+    "question": "With reference to the seventh schedule of the Constitution of India, consider the following pairs:<br><b>Subject — Associated List</b><br>I. Trade unions — Union List<br>II. Population control and family planning — Concurrent List<br>III. Public health and sanitation — State List<br>How many of the pairs given above are correctly matched?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "All the three",
+
       "None"
+
     ],
+
     "answer": 1,
-    "explanation": "Option b is the correct answer. Pair I is incorrect: Trade unions are in the Concurrent List. Pair II is correct: Population control is in the Concurrent List. Pair III is correct: Public health and sanitation is in the State List."
+
+    "explanation": "<b>Option b is the correct answer.</b><br><br><b>Pair I is incorrect:</b> Trade unions are in the <b>Concurrent List</b>.<br><b>Pair II is correct:</b> Population control is in the <b>Concurrent List</b>.<br><b>Pair III is correct:</b> Public health and sanitation is in the <b>State List</b>."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "Consider the following functionaries:\nI. Attorney General of India\nII. Members of the National Commission for Backward Classes\nIII. Comptroller and Auditor-General of India\nAs per the Constitution of India, how many of the above functionaries shall hold office during the pleasure of the President of India?",
+
+    "question": "Consider the following functionaries:<br>I. Attorney General of India<br>II. Members of the National Commission for Backward Classes<br>III. Comptroller and Auditor-General of India<br>As per the Constitution of India, how many of the above functionaries shall hold office during the pleasure of the President of India?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "All the three",
+
       "None"
+
     ],
+
     "answer": 0,
-    "explanation": "Option a is the correct answer. The Attorney General holds office during the pleasure of the President. Members of the NCBC have a fixed tenure of three years. The CAG has a fixed tenure and can only be removed like a Supreme Court Judge."
+
+    "explanation": "<b>Option a is the correct answer.</b><br><br><b>I (Attorney General):</b> Holds office during the pleasure of the President (Article 76).<br><b>II (NCBC Members):</b> Have a fixed tenure of 3 years.<br><b>III (CAG):</b> Has a fixed tenure and removal process like an SC Judge; does not hold office during pleasure."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Centre State Relations- legislative, administrative and Financial",
+
     "question": "The Parliament can make laws on matters listed in the State List if the Council of States passes a resolution to that effect. In this context, which of the following statements is correct?",
+
     "options": [
+
       "Such a resolution is considered as passed if it is supported by a majority of the members who are actually present and voting.",
+
       "Once passed, such a resolution remains in force for a maximum period of six months.",
+
       "This provision does not restrict the power of a state legislature to make laws on the same matter.",
+
       "Laws enacted by the Parliament through such a resolution remain valid after the expiry of resolution unless repealed by respective State Legislature."
+
     ],
+
     "answer": 2,
-    "explanation": "Option c is the correct answer. This provision does not restrict the State Legislature from making laws on the same matter, though Parliamentary law prevails in case of inconsistency. The resolution requires a special majority, remains in force for one year, and laws remain valid for six months after the resolution expires."
+
+    "explanation": "<b>Option c is the correct answer.</b><br>Article 249 allows Parliament to legislate on State subjects if Rajya Sabha passes a resolution by <b>2/3rd majority</b>. This does <b>not</b> restrict the State Legislature from making laws on the same matter, though Parliamentary law prevails in case of inconsistency."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "Which of the following statements is/are correct in respect of the Lokpal in India?\nI. Only a former Chief Justice of India can be appointed as the Chairperson of the Lokpal.\nII. The Chairperson of Lokpal can be removed from his/her office only in like manner and on like grounds as a judge of the Supreme Court.\nIII. The Lokpal has jurisdiction to inquire into allegations of corruption against the President of India with certain exceptions.\nSelect the correct answer using the code given below:",
+
+    "question": "Which of the following statements is/are correct in respect of the Lokpal in India?<br>I. Only a former Chief Justice of India can be appointed as the Chairperson of the Lokpal.<br>II. The Chairperson of Lokpal can be removed from his/her office only in like manner and on like grounds as a judge of the Supreme Court.<br>III. The Lokpal has jurisdiction to inquire into allegations of corruption against the President of India with certain exceptions.<br>Select the correct answer using the code given below:",
+
     "options": [
+
       "I and III only",
+
       "II only",
+
       "I only",
+
       "None of the above"
+
     ],
+
     "answer": 3,
-    "explanation": "Option d is the correct answer. Statement I is incorrect: A former Supreme Court Judge or an eminent person can also be Chairperson. Statement II is incorrect: Removal is by order of the President after a Supreme Court inquiry, not exactly like a SC Judge. Statement III is incorrect: The President is not under the Lokpal's jurisdiction."
+
+    "explanation": "<b>Option d is the correct answer.</b><br><br><b>Statement I is incorrect:</b> A former SC Judge or an eminent person can also be Chairperson.<br><b>Statement II is incorrect:</b> Removal involves a Presidential order after an SC inquiry, differing from the impeachment-like process of an SC Judge.<br><b>Statement III is incorrect:</b> The President is <b>not</b> under the Lokpal's jurisdiction."
+
   },
+
   {
-    "section": "General Studies",
+
+    "section": "Polity",
+
     "topic": "Constitutional and Non-Constitutional Bodies",
-    "question": "Consider the following statements:\nStatement I: The Central Bureau of Investigation (CBI) must obtain the consent of the state government concerned before investigating any offences within the territory of that state.\nStatement II: The subject ‘Public order’ and ‘Police’ fall under the State List of the Seventh Schedule of the Constitution of India.\nWhich one of the following is correct in respect of the above statements?",
+
+    "question": "Consider the following statements:<br>Statement I: The Central Bureau of Investigation (CBI) must obtain the consent of the state government concerned before investigating any offences within the territory of that state.<br>Statement II: The subject ‘Public order’ and ‘Police’ fall under the State List of the Seventh Schedule of the Constitution of India.<br>Which one of the following is correct in respect of the above statements?",
+
     "options": [
+
       "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
       "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+
       "Statement I is correct but Statement II is not correct",
+
       "Statement I is not correct but Statement II is correct"
+
     ],
+
     "answer": 3,
-    "explanation": "Option d is the correct answer. Statement I is incorrect: While general or specific consent is usually required, the Supreme Court and High Courts can order the CBI to investigate anywhere in the country without State consent. Statement II is correct: 'Public Order' and 'Police' are in the State List."
+
+    "explanation": "<b>Option d is the correct answer.</b><br><br><b>Statement I is incorrect:</b> While the DSPE Act generally requires State consent, the <b>Supreme Court and High Courts</b> can order the CBI to investigate anywhere in the country without State consent.<br><b>Statement II is correct:</b> 'Public Order' and 'Police' are in the State List."
+
   }
+
 ]
