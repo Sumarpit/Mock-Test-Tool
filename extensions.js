@@ -1,41 +1,32 @@
-// extensions.js
-// Handles specific behavioral overrides and UI injections.
+// extensions.js - COMPLETE FILE
 
+// 1. Hook Logic (Must be inside this object)
 const EXAM_HOOKS = {
-    
-    // 1. Run when the Exam Starts
+    // Run when Exam Starts
     onExamStart: function(profileName) {
         console.log("Exam Started: " + profileName);
-        
-        // Reset defaults
         document.getElementById('next-btn').style.background = "#2962ff"; 
         document.getElementById('timer').style.display = 'block';
 
-        // NABARD Phase 2 Specifics
         if (profileName === 'NABARD_P2') {
-            document.getElementById('next-btn').style.background = "#673ab7"; // Purple Theme
+            document.getElementById('next-btn').style.background = "#673ab7"; 
         }
     },
 
-    // 2. Run every time a Question Loads
+    // Run when Question Loads
     onQuestionLoad: function(profileName, question, index) {
         const cBox = document.getElementById('conf-box');
         
-        // --- LOGIC FOR DESCRIPTIVE QUESTIONS ---
+        // Logic for Descriptive Questions
         if (question.type === 'descriptive') {
-            // 1. Always hide Confidence Box for descriptive
-            cBox.style.display = 'none';
-
-            // 2. Inject Word Counter Logic
-            // We look inside 'options-box' where the textarea lives
+            cBox.style.display = 'none'; // Hide confidence buttons
+            
+            // Add Word Counter
             const box = document.getElementById('options-box');
             const textArea = box.querySelector('textarea');
 
             if (textArea) {
-                // Prevent duplicate counters if we revisit the question
                 if (!document.getElementById('word-counter-' + index)) {
-                    
-                    // Create Counter UI
                     const counter = document.createElement('div');
                     counter.id = 'word-counter-' + index;
                     counter.style.fontSize = "0.85rem";
@@ -44,109 +35,50 @@ const EXAM_HOOKS = {
                     counter.style.marginBottom = "5px";
                     counter.style.fontFamily = "monospace";
                     
-                    // Define Counting Logic
                     const updateCount = () => {
                         const text = textArea.value.trim();
-                        // Count words (split by spaces)
                         const wordCount = text === "" ? 0 : text.split(/\s+/).length;
                         const charCount = text.length;
-                        
                         counter.innerText = `Words: ${wordCount} | Chars: ${charCount}`;
-
-                        // Simulating TCS iON Limit Warning (e.g., usually ~400 words)
-                        // Turn text Red if it exceeds a 'safe' limit
+                        
                         if (wordCount > 400) {
-                            counter.style.color = "#d32f2f"; // Warning Red
+                            counter.style.color = "#d32f2f";
                             counter.style.fontWeight = "bold";
                         } else {
                             counter.style.color = "#555";
                             counter.style.fontWeight = "normal";
                         }
                     };
-
-                    // Initialize count immediately
                     updateCount();
-
-                    // Attach listener to update as you type
                     textArea.addEventListener('input', updateCount);
-
-                    // Insert Counter BEFORE the text area
                     box.insertBefore(counter, textArea);
                 }
             }
         } 
-        // --- LOGIC FOR OBJECTIVE QUESTIONS ---
+        // Logic for Objective Questions
         else {
-            // Restore Confidence Box if it was hidden
-            // (Unless you want to hide it for NABARD P2 objective questions too)
-             if (profileName === 'NABARD_P2') {
-                 // Optional: Keep it hidden if you want pure exam feel
-                 // cBox.style.display = 'none';
-                 cBox.style.display = 'block'; // Or show it
-             } else {
-                 cBox.style.display = 'block';
-             }
+             cBox.style.display = 'block';
         }
     }
-};
-// ... (Your existing EXAM_HOOKS code ends here) ...
+}; // <--- CRITICAL: This closes the EXAM_HOOKS object. Do not delete this!
 
-// --- FEATURE: SMART SPACEBAR SCROLLING (RESULT PAGE) ---
+
+// 2. KEYBOARD SHORTCUTS (Must be OUTSIDE the EXAM_HOOKS object)
+
+// A. Exam Shortcuts (WASD, Arrows, Numbers)
 document.addEventListener('keydown', (e) => {
-    const resScreen = document.getElementById('result-screen');
-    
-    // 1. Only run if we are currently on the Result Screen
-    if (!resScreen || !resScreen.classList.contains('active')) return;
-
-    // 2. Ignore if typing in a search box or text area (safety check)
-    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
-
-    // 3. Detect SPACEBAR press
-    if (e.code === 'Space') {
-        e.preventDefault(); // Stop the default "jerky" page down scroll
-
-        const items = document.querySelectorAll('.review-item');
-        const headerOffset = 80; // Buffer for the top sticky header (adjust if needed)
-        
-        // Calculate where we are currently looking (Top of screen + buffer)
-        // We add a small +10px buffer so if we are already perfectly aligned, 
-        // it knows to jump to the NEXT one, not stay on the current one.
-        const currentTop = window.scrollY + headerOffset + 10; 
-
-        // 4. Find the Next Box
-        let nextItem = null;
-        for (let item of items) {
-            // Find the first question box whose top edge is below our current view
-            if (item.offsetTop > currentTop) {
-                nextItem = item;
-                break; // Found it! Stop looking.
-            }
-        }
-
-        // 5. Scroll Smoothly
-        if (nextItem) {
-            window.scrollTo({
-                top: nextItem.offsetTop - headerOffset, // Align to top (minus header space)
-                behavior: 'smooth'
-            });
-        }
-    }
-});
-// ... (Previous code in extensions.js) ...
-
-// --- FEATURE: EXAM KEYBOARD SHORTCUTS ---
-document.addEventListener('keydown', (e) => {
-    // 1. Only run if Exam Screen is active
     const examScreen = document.getElementById('exam-screen');
+    
+    // Only run if Exam Screen is active
     if (!examScreen || !examScreen.classList.contains('active')) return;
 
-    // 2. SAFETY: Stop if user is typing in a text box (Descriptive/Search)
+    // SAFETY: Stop if user is typing in a text box
     const tag = e.target.tagName;
     if (tag === 'INPUT' || tag === 'TEXTAREA' || e.target.isContentEditable) return;
 
     const key = e.key.toLowerCase();
 
-    // 3. Navigation (Left/Right Arrows)
+    // Navigation
     if (e.key === 'ArrowRight') {
         if (typeof nextQ === 'function') nextQ();
     } 
@@ -154,33 +86,53 @@ document.addEventListener('keydown', (e) => {
         if (typeof prevQ === 'function') prevQ();
     }
 
-    // 4. Option Selection (Number Keys 1-5)
+    // Option Selection (1-5)
     if (['1', '2', '3', '4', '5'].includes(e.key)) {
         const idx = parseInt(e.key) - 1;
         const options = document.querySelectorAll('#options-box .opt-label');
-        // Simulate a click on the option so it triggers save/load logic automatically
-        if (options[idx]) {
-            options[idx].click();
-        }
+        if (options[idx]) options[idx].click();
     }
 
-    // 5. Confidence Selection (WASD - Positional Mapping)
-    // W=Top(100%), A=Left(50:50), S=Bottom(Guess), D=Right(Logic)
-    const confMap = {
-        'w': '100%',
-        'a': '50:50',
-        'd': 'Logic',
-        's': 'Guess'
-    };
-
+    // Confidence Selection (WASD)
+    const confMap = { 'w': '100%', 'a': '50:50', 'd': 'Logic', 's': 'Guess' };
     if (confMap[key]) {
         const targetText = confMap[key];
         const buttons = document.querySelectorAll('.c-btn');
-        // Find the button with the matching text and click it
         buttons.forEach(btn => {
-            if (btn.innerText.trim() === targetText) {
-                btn.click();
-            }
+            if (btn.innerText.trim() === targetText) btn.click();
         });
+    }
+});
+
+// B. Result Page Smart Scrolling (Spacebar)
+document.addEventListener('keydown', (e) => {
+    const resScreen = document.getElementById('result-screen');
+    
+    // Only run if Result Screen is active
+    if (!resScreen || !resScreen.classList.contains('active')) return;
+
+    // Ignore if typing
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+    // Spacebar Logic
+    if (e.code === 'Space') {
+        e.preventDefault(); 
+        const items = document.querySelectorAll('.review-item');
+        const headerOffset = 80; 
+        const currentTop = window.scrollY + headerOffset + 10; 
+
+        let nextItem = null;
+        for (let item of items) {
+            if (item.offsetTop > currentTop) {
+                nextItem = item;
+                break; 
+            }
+        }
+        if (nextItem) {
+            window.scrollTo({
+                top: nextItem.offsetTop - headerOffset,
+                behavior: 'smooth'
+            });
+        }
     }
 });
