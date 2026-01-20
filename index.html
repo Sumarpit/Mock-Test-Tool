@@ -919,15 +919,15 @@
 
     // --- ADD THIS BLOCK TO FIX SMART REVIEW ---
     const srBtn = document.getElementById('smart-review-btn');
-    if (srBtn) {
-        if (reviewSet.length > 0) {
-            srBtn.style.display = 'inline-block';
-            srBtn.innerText = `Smart Review (${reviewSet.length} Qs)`;
-        } else {
-            srBtn.style.display = 'none';
-        }
-    }
-} // <--- End of submitExam function
+        if (srBtn) {
+            if (reviewSet.length > 0) {
+                srBtn.style.display = 'inline-block';
+                srBtn.innerText = `Smart Review (${reviewSet.length} Qs)`;
+                } else {
+                srBtn.style.display = 'none';
+                }
+            }
+        } // <--- End of submitExam function
     }
 
     function recalcScore() {
