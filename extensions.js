@@ -89,3 +89,46 @@ const EXAM_HOOKS = {
         }
     }
 };
+// ... (Your existing EXAM_HOOKS code ends here) ...
+
+// --- FEATURE: SMART SPACEBAR SCROLLING (RESULT PAGE) ---
+document.addEventListener('keydown', (e) => {
+    const resScreen = document.getElementById('result-screen');
+    
+    // 1. Only run if we are currently on the Result Screen
+    if (!resScreen || !resScreen.classList.contains('active')) return;
+
+    // 2. Ignore if typing in a search box or text area (safety check)
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+    // 3. Detect SPACEBAR press
+    if (e.code === 'Space') {
+        e.preventDefault(); // Stop the default "jerky" page down scroll
+
+        const items = document.querySelectorAll('.review-item');
+        const headerOffset = 80; // Buffer for the top sticky header (adjust if needed)
+        
+        // Calculate where we are currently looking (Top of screen + buffer)
+        // We add a small +10px buffer so if we are already perfectly aligned, 
+        // it knows to jump to the NEXT one, not stay on the current one.
+        const currentTop = window.scrollY + headerOffset + 10; 
+
+        // 4. Find the Next Box
+        let nextItem = null;
+        for (let item of items) {
+            // Find the first question box whose top edge is below our current view
+            if (item.offsetTop > currentTop) {
+                nextItem = item;
+                break; // Found it! Stop looking.
+            }
+        }
+
+        // 5. Scroll Smoothly
+        if (nextItem) {
+            window.scrollTo({
+                top: nextItem.offsetTop - headerOffset, // Align to top (minus header space)
+                behavior: 'smooth'
+            });
+        }
+    }
+});
