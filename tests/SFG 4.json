@@ -1,0 +1,1303 @@
+[
+
+{
+
+"section": "Polity",
+
+"topic": "Justice System",
+
+"question": "With reference to the writs issued by the Courts in India, consider the following statements:<br>1. Mandamus will not lie against a private organisation unless it is entrusted with a public duty.<br>2. Mandamus will not lie against a Company even though it may be a Government Company.<br>3. Any public minded person can be a petitioner to move the Court to obtain the writ of Quo Warranto.<br>Which of the statements given above are correct?",
+
+"options": [
+
+"1 and 2 only",
+
+"2 and 3 only",
+
+"1 and 3 only",
+
+"1, 2 and 3"
+
+],
+
+"answer": 3,
+
+"explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement 1 is correct:</b> Mandamus is a command issued by the court to a public official or body to perform official duties. It is usually not usable against a private entity unless entrusted with a public duty.<br><b>Statement 2 is correct:</b> Mandamus cannot be used against a government company incorporated under the Companies Act if there is no statutory or public duty imposed on it.<br><b>Statement 3 is correct:</b> Quo Warranto enquires into the legality of a claim to public office. Unlike other writs, this can be sought by any interested person, not necessarily the aggrieved person."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Subordinate Courts",
+
+"question": "In context of the judicial system in India, which of the following statements is/are correct regarding the appointment of District Judges in a State?<br>I. They are appointed by the Chief Justice of the concerned High Court after consulting the Governor of the State.<br>II. Only practicing advocates having at least ten years of experience can be appointed as District Judges in a state.<br>III. A person already in the judicial service of the State (judicial officers) are not eligible for direct appointment as a District Judge in that State.<br>Select the correct answer using the code given below:",
+
+"options": [
+
+"I and III",
+
+"I and II",
+
+"III only",
+
+"None of the above"
+
+],
+
+"answer": 3,
+
+"explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I is incorrect:</b> Article 233 empowers the Governor of the State to appoint district judges in consultation with the High Court, not the Chief Justice appointing them.<br><b>Statement II is incorrect:</b> A person not already in service is eligible if they have been an advocate or pleader for not less than seven years (not ten years).<br><b>Statement III is incorrect:</b> The Supreme Court has held that eligible Judicial Officers are entitled to be considered for appointment as District Judges in the direct recruitment process."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "A Supreme Court Judge cannot be removed from office except by an order of the President passed after his/her removal motion is passed in each house of the Parliament. In this context, Which of the following statements is/are correct?<br>I. A judge of the Supreme Court can be removed only on the ground of ‘violation of the Constitution’.<br>II. The presiding officer of Lok Sabha or Rajya Sabha is bound to admit the removal motion that is duly signed by the required number of Members of Parliament in the respective House.<br>III. A motion to remove a judge must be passed in each House by a majority of total membership of that House and by not less than two-thirds of members present and voting.<br>Select the correct answer using the code given below:",
+
+"options": [
+
+"II only",
+
+"I and III",
+
+"III only",
+
+"II and III"
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is incorrect:</b> A judge can be removed only on the ground of ‘proven misbehaviour or incapacity’, not ‘violation of the Constitution’ (which applies to the President).<br><b>Statement II is incorrect:</b> The Presiding Officer (Speaker/Chairman) has the discretion to admit or refuse to admit the motion.<br><b>Statement III is correct:</b> The motion must be passed by a special majority: a majority of the total membership of the House and a majority of not less than two-thirds of members present and voting."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "Who among the following is the competent authority to transfer a Case from any High Court to another High Court?",
+
+"options": [
+
+"The Chief Justices of both the High Courts after consulting each other",
+
+"The Governor of the State from which the Case is being transferred",
+
+"The President of India",
+
+"The Supreme Court of India"
+
+],
+
+"answer": 3,
+
+"explanation": "<b>Correct Answer: (d)</b><br><br><b>Option (d) is correct:</b> Under Article 139A of the Constitution, the Supreme Court of India has the power to direct the transfer of any civil or criminal case from one High Court to another High Court if it deems it expedient for the ends of justice."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "The Judgment of the Supreme Court in Peoples’ Union for Civil Liberties v. Union of India 2004 is related to which of the following?",
+
+"options": [
+
+"Right to Shelter",
+
+"Right against Custodial violence",
+
+"Right to Information",
+
+"Right to Speedy trial"
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Option (c) is correct:</b> In <i>Peoples’ Union for Civil Liberties v. Union of India</i> (2004), the Supreme Court held that the Indian voters have a right under Article 19(1)(a) (freedom of speech and expression) to obtain information about political candidates, declaring the Right to Information as an essential part of this freedom."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "With reference to the jurisdiction of the Supreme Court of India, consider the following statements:<br>Statement I: An Indian citizen can directly move to the Supreme Court for the enforcement of his/her fundamental rights.<br>Statement II: The power to enforce Fundamental Rights falls under the exclusive original jurisdiction of the Supreme Court.<br>Which one of the following is correct in respect of the statements given above?",
+
+"options": [
+
+"Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+"Both Statement I and Statement II are correct, but Statement II does not explain Statement I.",
+
+"Statement I is correct, but Statement II is not correct.",
+
+"Statement I is not correct, but Statement II is correct."
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> Under Article 32, a citizen can directly move the Supreme Court for the enforcement of Fundamental Rights.<br><b>Statement II is incorrect:</b> The jurisdiction is not exclusive; it is concurrent with the High Courts (Article 226). The exclusive original jurisdiction of the SC applies to federal disputes (e.g., between Centre and States)."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "With reference to the advisory jurisdiction of the Supreme Court of India, consider the following statements:<br>I. The Supreme Court is obligated to give its advice as it thinks fit, when the President seeks its opinion on any question of law or fact of public importance.<br>II. A Presidential reference must be considered by a bench of at least five judges.<br>III. The advice of the Supreme Court in case of Presidential reference is binding on the President.<br>Which of the statements given above is/are correct?",
+
+"options": [
+
+"I only",
+
+"II and III only",
+
+"II only",
+
+"None of the above"
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is incorrect:</b> Under Article 143, for questions of law or fact of public importance, the Supreme Court has the discretion to refuse to tender its opinion.<br><b>Statement II is correct:</b> As per Article 145(3), a reference under Article 143 must be considered by a bench of at least five judges.<br><b>Statement III is incorrect:</b> The advice given under Article 143 is not binding on the President."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Judiciary",
+
+"question": "In the context of the Indian Judicial System, consider the following statements regarding the ‘collegium system’:<br>I. The Constitution of India explicitly provides for a ‘collegium’ system to recommend appointment of Judges to the Supreme Court and High Courts.<br>II. The Third Judges Case (1998) clarified the composition of the collegium to consist of the Chief Justice of India and 4 senior-most Supreme Court Judges for the appointment of High Court judges.<br>Which of the statements given above is/are correct?",
+
+"options": [
+
+"I only",
+
+"II only",
+
+"Both I and II",
+
+"Neither I nor II"
+
+],
+
+"answer": 3,
+
+"explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I is incorrect:</b> The Constitution does not explicitly provide for the Collegium System; it evolved through judicial interpretation in the Second and Third Judges Cases.<br><b>Statement II is incorrect:</b> The Third Judges Case (1998) specified that for High Court appointments, the Collegium consists of the CJI and the <b>2</b> senior-most SC judges (not 4). The CJI + 4 configuration is for SC appointments."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Judiciary",
+
+"question": "Which of the following statements is/are correct regarding the Public Interest Litigations (PILs) in India?<br>I. The Legal Services Authorities Act, 1987 provides the legal basis for the filing of PILs.<br>II. PILs can only be filed in the Supreme Court or the High Courts in India, and not in the lower courts.<br>III. The concept of Public Interest Litigation originated and evolved in British jurisprudence.<br>Select the correct answer using the code given below:",
+
+"options": [
+
+"I and II",
+
+"II only",
+
+"III only",
+
+"II and III"
+
+],
+
+"answer": 1,
+
+"explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I is incorrect:</b> The legal basis for PILs stems from Articles 32 and 226 and judicial activism, not the Legal Services Authorities Act.<br><b>Statement II is correct:</b> PILs can only be filed in the Supreme Court (Article 32) or High Courts (Article 226).<br><b>Statement III is incorrect:</b> The concept originated and evolved in American jurisprudence, not British."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "The Constitution of India safeguards the independence of the Supreme Court of India by mandating which of the following?<br>I. No discussion shall take place in Parliament with respect to the conduct of any Judge of the Supreme Court in the discharge of his duties except upon a motion for the removal of the Judge.<br>II. The salaries and allowances of the Supreme Court judges are not subjected to the approval of the Parliament.<br>III. The Supreme Court judges have been provided with a fixed tenure of five years.<br>IV. Retired Judges of the Supreme Court are debarred from taking any office under the Union or any State Government.<br>Select the correct answer using the code given below:",
+
+"options": [
+
+"I and III only",
+
+"I, II and IV only",
+
+"I and II only",
+
+"II and IV only"
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> Conduct cannot be discussed in Parliament except during impeachment.<br><b>Statement II is correct:</b> Salaries are charged on the Consolidated Fund of India.<br><b>Statement III is incorrect:</b> Judges hold office until the age of 65; there is no fixed tenure of 5 years.<br><b>Statement IV is incorrect:</b> Retired judges are debarred from pleading/acting in any court, but are not prohibited from holding offices under the government (e.g., NHRC, Commissions)."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "Consider the following statements:<br>1. The 44th Amendment to the Constitution of India introduced an Article placing the election of the Prime Minister beyond judicial review.<br>2. The Supreme Court of India struck down the 99th Amendment to the Constitution of India as being violative of the independence of judiciary.<br>Which of the statements given above is/are correct?",
+
+"options": [
+
+"1 only",
+
+"2 only",
+
+"Both 1 and 2",
+
+"Neither 1 nor 2"
+
+],
+
+"answer": 1,
+
+"explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement 1 is incorrect:</b> The 39th Amendment (not 44th) placed the election of the PM beyond judicial review. The 44th Amendment nullified such provisions.<br><b>Statement 2 is correct:</b> The SC struck down the 99th Amendment (NJAC) in 2015 as it violated the independence of the judiciary."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "In Kesavananda Bharati Case of 1973, the Supreme Court of India ruled that the-<br>I. Right to Property is not a basic feature of the Indian Constitution.<br>II. Parliament does not have the power to amend any of the fundamental rights of the citizens provided under Part III of the Constitution of India.<br>Which of the statements given above is/are correct?",
+
+"options": [
+
+"I only",
+
+"II only",
+
+"Both I and II",
+
+"Neither I nor II"
+
+],
+
+"answer": 0,
+
+"explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> The Court ruled that the Right to Property is not part of the basic structure.<br><b>Statement II is incorrect:</b> The Court upheld the Parliament's power to amend Fundamental Rights, provided such amendments do not alter the basic structure of the Constitution."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "High Courts",
+
+"question": "Consider the following statements:<br>Statement I: The High Courts in India do not have the authority to examine the constitutional validity of laws enacted by Parliament.<br>Statement II: The 42nd Constitutional Amendment Act, 1976, restricted the power of judicial review exercised by the High Courts.<br>Which one of the following is correct in respect of the above statements?",
+
+"options": [
+
+"Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+"Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+"Statement I is not correct but Statement II is correct.",
+
+"Statement I is correct but Statement II is not correct."
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is incorrect:</b> High Courts have the authority to examine the constitutional validity of both State and Central laws under Article 226.<br><b>Statement II is correct:</b> The 42nd Amendment did restrict High Courts from reviewing Central laws (Article 226A), but this restriction was removed by the 43rd Amendment."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Judiciary",
+
+"question": "Consider the following:<br>I. A member of Scheduled Castes or Scheduled Tribes<br>II. An Industrial workmen<br>III. A mentally ill or otherwise disabled person<br>IV. A victim of trafficking in human beings or begar as referred to in Article 23 of the Indian Constitution<br>V. A Members of Other Backward Classes (OBCs)<br>How many of the above are eligible for free legal services without any income ceiling limit under the provisions of the Legal Services Authorities Act, 1987?",
+
+"options": [
+
+"Only two",
+
+"Only three",
+
+"Only four",
+
+"All the five"
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Eligible Categories:</b> SC/ST (I), Industrial workmen (II), Disabled persons (III), Victims of trafficking (IV), Women/Children, etc.<br><b>Not Eligible by Category:</b> OBCs (V) are not automatically eligible; they must satisfy income criteria.<br>Thus, four categories are eligible."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Judiciary",
+
+"question": "In India, Judicial Review implies-",
+
+"options": [
+
+"The power of the Judiciary to pronounce upon the constitutionality of laws and executive orders.",
+
+"The power of the Judiciary to question the wisdom of the laws enacted by the Legislatures.",
+
+"The power of the Judiciary to review all the legislative enactments before they are assented to by the President.",
+
+"The power of the Judiciary to review its own judgements given earlier in similar or different cases."
+
+],
+
+"answer": 0,
+
+"explanation": "<b>Correct Answer: (a)</b><br><br><b>Option (a) is correct:</b> Judicial Review is the power of the Courts to examine the constitutionality of legislative acts and executive orders and declare them void if they violate the Constitution."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Judiciary",
+
+"question": "With reference to the distinction between Civil Law and Criminal Law in India, which of the following statements is/are correct?<br>I. In Civil law, the initiation of a case starts with the filing of a complaint by the aggrieved party against the wrongdoer, whereas in Criminal Law, the case is filed by the State against the accused.<br>II. In civil cases, filing of an FIR is not required, whereas in criminal cases, an FIR is mandatory for all types of offences.<br>Select the correct answer using the code given below:",
+
+"options": [
+
+"I only",
+
+"II only",
+
+"Both I and II",
+
+"Neither I nor II"
+
+],
+
+"answer": 0,
+
+"explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> Civil cases are disputes between individuals/entities (e.g., Ramesh v. Suresh), while criminal cases are against the State (e.g., State v. Ramesh).<br><b>Statement II is incorrect:</b> In criminal law, FIR is mandatory only for <b>cognizable</b> offences. For non-cognizable offences, a complaint must be filed with the magistrate."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "In this landmark case, the Supreme Court of India held that the Right to Livelihood is an integral part of the Right to Life guaranteed under Article 21 of the Constitution. The case arose when pavement dwellers and slum dwellers of a city challenged their eviction without provision for alternative accommodation, arguing that such eviction would deprive them of their livelihood. Which one of the following cases is best described in the above passage?",
+
+"options": [
+
+"Maneka Gandhi vs Union of India (1978)",
+
+"Olga Tellis vs Bombay Municipal Corporation (1985)",
+
+"M.C. Mehta vs Union of India (1987)",
+
+"Mohini Jain vs State of Karnataka (1992)"
+
+],
+
+"answer": 1,
+
+"explanation": "<b>Correct Answer: (b)</b><br><br><b>Option (b) is correct:</b> In <i>Olga Tellis vs Bombay Municipal Corporation</i> (1985), the SC held that the right to life includes the right to livelihood, as no person can live without the means of living."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Judiciary",
+
+"question": "With reference to the evolution of judiciary in pre-independent India, consider the following statements:<br>I. Under the provisions of the Regulating Act of 1773, the High Courts were set up in Bombay, Madras and Allahabad.<br>II. During British Rule, the Federal Court of India was the final court of appeal for Indians.<br>Which of the statements given above is/are correct?",
+
+"options": [
+
+"I only",
+
+"II only",
+
+"Both I and II",
+
+"Neither I nor II"
+
+],
+
+"answer": 3,
+
+"explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I is incorrect:</b> The Regulating Act of 1773 established a Supreme Court at Calcutta. High Courts were set up later under the Act of 1861.<br><b>Statement II is incorrect:</b> The Privy Council (in England) was the final court of appeal, not the Federal Court."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Judiciary",
+
+"question": "With reference to the criminal justice system in India, consider the following statements:<br>Statement I: Confessions made in police custody cannot be used as evidence against an accused in the Courts.<br>Statement II: Article 20(3) of Indian Constitution states that no person accused of any offence shall be compelled to be a witness against himself in any civil or criminal proceeding.<br>Which one of the following is correct in respect of the statements given above?",
+
+"options": [
+
+"Both Statement I and Statement II are correct and Statement II explains Statement I",
+
+"Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+
+"Statement I is correct but Statement II is not correct",
+
+"Statement I is not correct but Statement II is correct"
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> Confessions to police are inadmissible as evidence (Section 25 of Evidence Act/Section 23 of BSA).<br><b>Statement II is incorrect:</b> Article 20(3) protection applies only to <b>criminal</b> proceedings, not civil proceedings."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "The D.K. Basu Guidelines, issued by the Supreme Court of India in the D.K. Basu vs State Of West Bengal, 1997 case, are related to:",
+
+"options": [
+
+"Guidelines to be followed in the process of adoption of children in India by foreign parents.",
+
+"Guidelines to prevent or deter the commission of acts of sexual harassment at workplaces.",
+
+"Guidelines that the police must follow in all cases of arrest and detention.",
+
+"Guidelines for preventing forced labour and human trafficking."
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Option (c) is correct:</b> The D.K. Basu Guidelines lay down mandatory procedures for police during arrest and detention to prevent custodial torture."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Justice System",
+
+"question": "With reference to India, consider the following statements:<br>1. When a prisoner makes out a sufficient case, parole cannot be denied to such prisoner because it becomes a matter of his/her right.<br>2. State Governments have their own Prisoner Release on Parole Rules.<br>Which of the statements given above is/are correct?",
+
+"options": [
+
+"1 only",
+
+"2 only",
+
+"Both 1 and 2",
+
+"Neither 1 nor 2"
+
+],
+
+"answer": 1,
+
+"explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement 1 is incorrect:</b> Parole is not a matter of right; it can be denied even if a sufficient case is made.<br><b>Statement 2 is correct:</b> Prisons are a State subject, and State Governments have their own parole rules."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Justice System",
+
+"question": "With reference to the criminal justice system in India, which of the following statements is/are correct with respect to the First Information Report (FIR)?<br>I. An FIR for eligible cases must be documented in writing by the responding police officer, regardless of whether the complaint is made orally.<br>II. The complainant has a legal right to receive a copy of the FIR.<br>III. An FIR can never be filed against a sitting judge of the Supreme Court or any High Court.<br>Select the correct answer using the code given below:",
+
+"options": [
+
+"II and III",
+
+"II only",
+
+"III only",
+
+"I and II"
+
+],
+
+"answer": 3,
+
+"explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I is correct:</b> Oral information must be reduced to writing.<br><b>Statement II is correct:</b> The complainant has a right to a free copy.<br><b>Statement III is incorrect:</b> FIRs can be filed against sitting judges but only with the mandatory consultation/consent of the Chief Justice of India (K. Veeraswami case)."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "Which of the following statements regarding ad hoc and retired judges of the Supreme Court of India is incorrect?<br>The Chief Justice of India-<br>a) may appoint a High Court judge as an ad hoc judge of the Supreme Court when there is a lack of quorum of permanent judges.<br>b) may request a retired judge of the Supreme Court to act as a judge of the Supreme Court for a temporary period.<br>c) requires the prior consent of the Governor of the concerned state to appoint a High Court judge as an ad hoc judge of the Supreme Court.<br>d) requires the prior consent of the President of India to appoint a retired judge of the Supreme Court to act as a judge of the Supreme Court.",
+
+"options": [
+
+"a",
+
+"b",
+
+"c",
+
+"d"
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Option (c) is incorrect:</b> To appoint a High Court judge as an ad hoc judge of the Supreme Court, the CJI needs the prior consent of the <b>President of India</b>, not the Governor of the State. (Article 127)."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "High Courts",
+
+"question": "Which of the following statements regarding the Judges of the High Courts in India are correct?<br>I. The oath or affirmation to a High Court Judge is administered by the Governor of the state concerned.<br>II. High Court Judges are transferred from one High Court to another by the President after consultation with the Chief Justice of India.<br>III. No person who has held office as a permanent Judge of a High Court shall plead or act in any court or before any authority in India.<br>Select the correct answer using the code given below:",
+
+"options": [
+
+"I, II and III",
+
+"II and III only",
+
+"I and III only",
+
+"I and II only"
+
+],
+
+"answer": 3,
+
+"explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I is correct:</b> Oath is administered by the Governor.<br><b>Statement II is correct:</b> Transfer is by the President after consulting the CJI.<br><b>Statement III is incorrect:</b> A permanent HC Judge is barred from pleading in courts <b>except</b> the Supreme Court and other High Courts."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Justice System",
+
+"question": "With reference to India, consider the following statements:<br>1. Judicial custody means an accused is in the custody of the magistrate concerned and such an accused is locked up in a police station, not in jail.<br>2. During judicial custody, the police officer in charge of the case is not allowed to interrogate the suspect without the approval of the court.<br>Which of the statements given above is/are correct?",
+
+"options": [
+
+"1 only",
+
+"2 only",
+
+"Both 1 and 2",
+
+"Neither 1 nor 2"
+
+],
+
+"answer": 1,
+
+"explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement 1 is incorrect:</b> In Judicial Custody, the accused is locked up in <b>jail</b>, not the police station.<br><b>Statement 2 is correct:</b> Police cannot interrogate a suspect in judicial custody without the court's permission."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Justice System",
+
+"question": "The Constitution designates Delhi as the seat of the Supreme Court of India. In this context, who has the authority to establish other places as seats of the Supreme Court of India?",
+
+"options": [
+
+"Parliament",
+
+"President",
+
+"Chief Justice of India",
+
+"Presently, no one has the authority to change the seat of the Supreme Court of India from Delhi."
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Option (c) is correct:</b> Under Article 130, the Chief Justice of India, with the approval of the President, has the authority to appoint other places as seats of the Supreme Court."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "With reference to jurisdiction and power of the Supreme Court of India, consider the following statements about the special leave to appeal by the Supreme Court:<br>I. It can be granted against any judgment, decree, sentence, or order passed by any court or tribunal in the territory of India, including military courts.<br>II. It can be granted for both civil and criminal cases.<br>III. It can grant special leave to appeal only to an aggrieved party of a case.<br>Which of the statements given above is/are correct?",
+
+"options": [
+
+"I and II only",
+
+"II only",
+
+"I and III only",
+
+"None of the above"
+
+],
+
+"answer": 1,
+
+"explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I is incorrect:</b> Article 136 excludes courts and tribunals constituted under laws relating to the Armed Forces.<br><b>Statement II is correct:</b> It applies to both civil and criminal cases.<br><b>Statement III is incorrect:</b> The SC is not restricted to entertaining applications only from aggrieved parties; the power is discretionary and broad."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "Consider the following statements about Curative Petition in India:<br>I. A Curative Petition can be filed only after the Supreme Court dismisses a Review Petition against its final judgment.<br>II. The power or jurisdiction of the Supreme Court of India regarding hearing of a Curative Petition is inherent in Articles 129 and 142 of the Constitution of India.<br>Which of the statements given above is/are correct?",
+
+"options": [
+
+"I only",
+
+"II only",
+
+"Both I and II",
+
+"Neither I nor II"
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> Curative Petition is the last resort after the dismissal of a Review Petition.<br><b>Statement II is correct:</b> The power is traced to Articles 129 and 142 to prevent miscarriage of justice (Rupa Ashok Hurra case)."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Judiciary",
+
+"question": "Consider the following actions:<br>l. Wilful disobedience to any judgment, decree, direction, order, writ or other process of a court.<br>ll. Publishing material that scandalises or lowers the authority of any court.<br>lll. Fair and accurate reporting of judicial proceedings.<br>lV. Any act which interferes with the due course of any judicial proceeding.<br>How many of the above are considered civil contempt of court under the Contempt of Courts Act, 1971?",
+
+"options": [
+
+"Only one",
+
+"Only two",
+
+"Only three",
+
+"All the four"
+
+],
+
+"answer": 0,
+
+"explanation": "<b>Correct Answer: (a)</b><br><br><b>I is Civil Contempt:</b> Wilful disobedience.<br><b>II & IV are Criminal Contempt:</b> Scandalizing the court or interfering with proceedings.<br><b>III is Not Contempt:</b> Fair reporting is protected.<br>Thus, only one (I) is civil contempt."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "Fees and other amounts received by the Supreme Court of India are deposited into which of the following funds?",
+
+"options": [
+
+"Public Account of India",
+
+"Contingency Fund of India",
+
+"Consolidated Fund of India",
+
+"None of the above"
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Option (c) is correct:</b> Under Article 146(3), fees and moneys taken by the Court form part of the Consolidated Fund of India."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court",
+
+"question": "Consider the following statements:<br>1. Pursuant to the report of H.N. Sanyal Committee, the Contempt of Courts Act, 1971 was passed.<br>2. The Constitution of India empowers the Supreme Court and the High Courts to punish for contempt of themselves.<br>3. The Constitution of India defines Civil Contempt and Criminal Contempt.<br>4. In India, the Parliament is vested with the powers to make laws on Contempt of Court.<br>Which of the statements given above is/are correct?",
+
+"options": [
+
+"1 and 2 only",
+
+"1, 2 and 4",
+
+"3 and 4 only",
+
+"3 only"
+
+],
+
+"answer": 1,
+
+"explanation": "<b>Correct Answer: (b)</b><br><br><b>Statements 1, 2, and 4 are correct:</b> The Sanyal Committee led to the Act; SC/HC have constitutional power (Art 129/215); Parliament can legislate (Art 142(2)).<br><b>Statement 3 is incorrect:</b> The Constitution does <b>not</b> define Civil/Criminal Contempt; the Act of 1971 does."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "The Supreme Court of India invokes Article 142 in exceptional cases where statutory provisions may not be sufficient. Which of the following scenarios best represents the use of Article 142 of the Constitution of India by the Supreme Court?",
+
+"options": [
+
+"The Supreme Court provides an opinion to the President on whether to impose any timelines for decisions of the President and the Governor on granting assent to Bills under the Constitution.",
+
+"The Supreme Court transfers a case from a High Court to itself involving a major corruption scandal involving high-ranking officials.",
+
+"The Supreme Court grants special leave to appeal from any judgment or order made by any court in the territory of India.",
+
+"The Supreme Court overturns the result of the election for the post of Mayor of a Municipal corporation."
+
+],
+
+"answer": 3,
+
+"explanation": "<b>Correct Answer: (d)</b><br><br><b>Option (d) is correct:</b> The Supreme Court invoked Article 142 (power to do complete justice) to overturn the Chandigarh Mayoral poll results, bypassing procedural limitations to ensure justice."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Quasi-Judicial Bodies",
+
+"question": "With reference to the Bar Council of India (BCI), which of the following statements are correct?<br>I. It is a statutory body established under the Advocates Act, 1961.<br>II. It consists of one member elected by each State Bar Council from amongst its members.<br>III. To exercise general supervision and control over State Bar Councils is one of its functions.<br>IV. The Attorney General of India is the ex-officio chairperson of the Council.<br>Select the correct answer using the code given below.",
+
+"options": [
+
+"I, II and III",
+
+"I, II and IV",
+
+"I, III and IV",
+
+"II and III only"
+
+],
+
+"answer": 0,
+
+"explanation": "<b>Correct Answer: (a)</b><br><br><b>Statements I, II, and III are correct.</b><br><b>Statement IV is incorrect:</b> The Attorney General is an ex-officio member, but not the Chairperson. The Chairperson is elected from among the members."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "High Courts",
+
+"question": "As per the Constitution of India, every High Court shall be a court of record. What does it signify?<br>I. The decisions and judgements of a High Court are recognized as legal precedents in any other lower court in India.<br>II. A High Court has the power to punish for its own contempt.<br>III. A High Court can withdraw a case pending in a subordinate court under its jurisdiction, if it involves a substantial question of law that requires interpretation of the Constitution of India.<br>Select the correct answer using the code given below:",
+
+"options": [
+
+"I and II only",
+
+"II and III only",
+
+"I only",
+
+"I, II and III"
+
+],
+
+"answer": 0,
+
+"explanation": "<b>Correct Answer: (a)</b><br><br><b>Statements I and II are correct:</b> Being a Court of Record implies evidentiary value of judgments (precedents) and the power to punish for contempt (Article 215).<br><b>Statement III is incorrect:</b> While the High Court has the power to withdraw cases (Article 228), this power is independent and not a direct consequence of being a 'Court of Record' under Article 215."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court",
+
+"question": "A Writ of Prohibition is an order issued by the Supreme Court or High Courts to:",
+
+"options": [
+
+"a government officer prohibiting him from taking a particular action.",
+
+"the Parliament/Legislative Assembly to pass a law on Prohibition.",
+
+"the lower court prohibiting continuation of proceedings in a case.",
+
+"the Government prohibiting it from following an unconstitutional policy."
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Option (c) is correct:</b> Prohibition is issued to a lower court or tribunal to prevent it from exceeding its jurisdiction."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Judiciary",
+
+"question": "The Parliament of India may by law provide for the creation of All India Judicial Service if a resolution is passed declaring that it is necessary in the national interest to do so. The resolution to this effect:",
+
+"options": [
+
+"can be introduced in Lok Sabha only and shall be passed by a majority of its total membership.",
+
+"can be introduced in Lok Sabha only and shall be passed by a majority of not less than two-thirds of its members present and voting.",
+
+"can be introduced in Rajya Sabha only and shall be passed by a majority of its total membership.",
+
+"can be introduced in Rajya Sabha only and shall be passed by a majority of not less than two-thirds of its members present and voting."
+
+],
+
+"answer": 3,
+
+"explanation": "<b>Correct Answer: (d)</b><br><br><b>Option (d) is correct:</b> Under Article 312, the resolution must be introduced in the <b>Rajya Sabha</b> and passed by a <b>2/3rds majority</b> of members present and voting."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Tribunals",
+
+"question": "With reference to the Tribunals in India, which of the following statements is incorrect?",
+
+"options": [
+
+"Part XIV-A of the Constitution of India contains provisions for the creation of tribunals in India.",
+
+"The provisions relating to Tribunals were first incorporated in the Constitution of India by the 44th Constitutional Amendment Act,1978.",
+
+"The provisions relating to Tribunals were added to the Indian Constitution on the recommendations of the Swaran Singh Committee.",
+
+"Only the Central Government is empowered to establish Administrative Tribunals at both central and state level."
+
+],
+
+"answer": 1,
+
+"explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement (b) is incorrect:</b> Provisions relating to Tribunals were added by the <b>42nd Constitutional Amendment Act, 1976</b>, not the 44th."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Tribunals",
+
+"question": "Consider the following functionaries:<br>I. Any member of the All-India Services<br>II. Any member of the naval, military or air forces<br>III. Any officer or servant of the Supreme Court<br>IV. Any person appointed to the secretarial staff of either House of Parliament<br>All service matters related to how many of the above fall under the jurisdiction of the Central Administrative Tribunal (CAT)?",
+
+"options": [
+
+"Only one",
+
+"Only two",
+
+"Only three",
+
+"All four"
+
+],
+
+"answer": 0,
+
+"explanation": "<b>Correct Answer: (a)</b><br><br><b>I falls under CAT:</b> All-India Services.<br><b>II, III, and IV are excluded:</b> The Administrative Tribunals Act specifically excludes armed forces, court staff, and parliamentary staff from CAT jurisdiction.<br>Thus, only one (I) falls under CAT."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "Consider the following disputes:<br>I. A conflict between the Union Government and a State Government regarding legislative powers.<br>II. A dispute between two States over the alignment of their common boundary.<br>III. An appeal against the Election Commission’s order disqualifying a Member of Parliament.<br>Which of the above fall under the original exclusive jurisdiction of the Supreme Court of India?",
+
+"options": [
+
+"I and II only",
+
+"II and III only",
+
+"I and III only",
+
+"I, II and III"
+
+],
+
+"answer": 0,
+
+"explanation": "<b>Correct Answer: (a)</b><br><br><b>I and II fall under Original Exclusive Jurisdiction (Article 131):</b> Federal disputes between Centre-State or State-State.<br><b>III falls under Appellate Jurisdiction:</b> Election disputes regarding MPs are heard by High Courts initially, or appeals go to SC, but not under original exclusive jurisdiction."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Judiciary",
+
+"question": "With reference to the National Legal Services Authority (NALSA), consider the following statements:<br>I. It has been constituted under the Legal Services Authorities Act, 1987 with one of the objectives to organize Lok Adalats for amicable settlement of disputes.<br>II. The Chief Justice of India is the Patron-in-Chief of the National Legal Services Authority.<br>Which of the statements given above is/are correct?",
+
+"options": [
+
+"I only",
+
+"II only",
+
+"Both I and II",
+
+"Neither I nor II"
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> NALSA organizes Lok Adalats.<br><b>Statement II is correct:</b> The CJI is the Patron-in-Chief."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "High Courts",
+
+"question": "How many High Courts in India have jurisdiction over more than one State (Union Territories not included)?",
+
+"options": [
+
+"2",
+
+"3",
+
+"4",
+
+"5"
+
+],
+
+"answer": 1,
+
+"explanation": "<b>Correct Answer: (b)</b><br><br>There are <b>3</b> High Courts with jurisdiction over more than one State:<br>1. <b>Bombay HC:</b> Maharashtra and Goa.<br>2. <b>Guwahati HC:</b> Assam, Nagaland, Mizoram, Arunachal Pradesh.<br>3. <b>Punjab & Haryana HC:</b> Punjab and Haryana."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Quasi-Judicial Bodies",
+
+"question": "Consider the following:<br>I. National Consumer Disputes Redressal Commission (NCDRC)<br>II. Central Information Commission (CIC)<br>III. Election Commission of India (ECI)<br>IV. Inter-State Council<br>How many of the above are identified as quasi-judicial bodies in India?",
+
+"options": [
+
+"Only one",
+
+"Only two",
+
+"Only three",
+
+"All the four"
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Quasi-Judicial:</b> NCDRC (I), CIC (II), ECI (III).<br><b>Not Quasi-Judicial:</b> Inter-State Council (IV) is an advisory body.<br>Thus, three are quasi-judicial."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Justice System",
+
+"question": "In the context of the Indian judicial system, “Plea Bargaining” refers to:",
+
+"options": [
+
+"A process where the accused agrees to plead guilty in return for a lesser sentence or charge.",
+
+"A process under which the accused seeks early release through remission or parole.",
+
+"A mechanism allowing settlement of civil disputes through mediation or conciliation.",
+
+"A procedure where the court reviews its own judgment under curative petition."
+
+],
+
+"answer": 0,
+
+"explanation": "<b>Correct Answer: (a)</b><br><br><b>Option (a) is correct:</b> Plea Bargaining allows an accused to plead guilty in exchange for leniency in the sentence."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Subordinate Courts",
+
+"question": "With reference to the Gram Nyayalayas, consider the following statements:<br>I. The Nyayadhikari (presiding officer) of a Gram Nyayalaya is appointed by the State Government in consultation with the High Court of the State.<br>II. Gram Nyayalaya has the jurisdiction to try both civil and criminal cases.<br>Which of the statements given above is/are correct?",
+
+"options": [
+
+"I only",
+
+"II only",
+
+"Both I and II",
+
+"Neither 1 nor II"
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> Nyayadhikari is appointed by the State Govt in consultation with the High Court.<br><b>Statement II is correct:</b> Gram Nyayalayas try both criminal cases (First Schedule) and civil suits (Second Schedule)."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Justice System",
+
+"question": "Consider the following statements:<br>Statement-I: In India, prisons are managed by State Governments with their own rules and regulations for the day-to-day administration of prisons.<br>Statement-II: In India, prisons are governed by the Prisons Act, 1894 which expressly kept the subject of prisons in the control of Provincial Governments.<br>Which one of the following is correct in respect of the above statements?",
+
+"options": [
+
+"Both Statement-I and Statement-II are correct, and Statement-II is the correct explanation for Statement-I",
+
+"Both Statement-I and Statement-II are correct, and Statement-II is not the correct explanation for Statement-I",
+
+"Statement-I is correct but Statement-II is incorrect",
+
+"Statement-I is incorrect but Statement-II is correct"
+
+],
+
+"answer": 0,
+
+"explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> Prisons are a State subject.<br><b>Statement II is correct:</b> The Prisons Act, 1894 kept prisons under Provincial (State) control.<br><b>Explanation:</b> Statement II explains why States manage prisons with their own rules (Statement I)."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "High Courts",
+
+"question": "Consider the following-<br>A person is a citizen of India and-<br>I. has for at least ten years held a judicial office in the territory of India.<br>II. in the opinion of the President, is a distinguished jurist.<br>III. has for at least ten years been an advocate of a High Court or of two or more such Courts in succession.<br>As per the Constitution of India, how many of the above persons shall be qualified for appointment as a Judge of a High Court in India?",
+
+"options": [
+
+"Only one",
+
+"Only two",
+
+"All three",
+
+"None"
+
+],
+
+"answer": 1,
+
+"explanation": "<b>Correct Answer: (b)</b><br><br><b>Qualified:</b> Persons satisfying I (Judicial Office) or III (Advocate).<br><b>Not Qualified:</b> Person II (Distinguished Jurist) is a qualification for SC Judges, not HC Judges.<br>Thus, only two categories are qualified."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Tribunals",
+
+"question": "Consider the following pairs regarding Court/ Tribunals and their strength/composition:<br><b>Court/Tribunal — Authority Empowered to Determine its Strength/Composition</b><br>I. Supreme Court — Parliament of India<br>II. High Courts — Chief Justice of India in consultation with the Chief Justice of the concerned High Court and with the consent of President of India<br>III. National Green Tribunal (NGT) — Central Government under the provisions of National Green Tribunal Act, 2010<br>How many of the above pairs are correctly matched?",
+
+"options": [
+
+"Only one",
+
+"Only two",
+
+"All the three",
+
+"None"
+
+],
+
+"answer": 1,
+
+"explanation": "<b>Correct Answer: (b)</b><br><br><b>Pair I is correct:</b> Parliament determines SC strength (Article 124).<br><b>Pair II is incorrect:</b> The <b>President</b> determines HC strength (Article 216).<br><b>Pair III is correct:</b> Central Government determines NGT strength.<br>Thus, two pairs are correct."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Judiciary",
+
+"question": "It is a judicial principle that assumes laws enacted by the legislature are valid and constitutional unless proven otherwise. The burden of proving a law unconstitutional rests on the person challenging it, and the courts interpret statutes in a manner that upholds their validity whenever possible. The description given above most appropriately refers to which one of the following legal doctrines, recently seen in news?",
+
+"options": [
+
+"Doctrine of Eclipse",
+
+"Doctrine of Severability",
+
+"Doctrine of Presumption of Constitutionality",
+
+"Doctrine of Pith and Substance"
+
+],
+
+"answer": 2,
+
+"explanation": "<b>Correct Answer: (c)</b><br><br><b>Option (c) is correct:</b> The Doctrine of Presumption of Constitutionality assumes a law is valid unless proven otherwise."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Subordinate Courts",
+
+"question": "With reference to Family Courts in India, consider the following statements:<br>I. It is mandatory for every State Government to establish a Family Court in every city or town with a population exceeding one million.<br>II. The Family Courts in India are not strictly bound by the provisions of Code of Civil Procedure 1908, and have power to make their own rules of procedure to arrive at a settlement.<br>III. An appeal from the judgment of a Family Court lies directly to the High Court of the respective state.<br>Which of the statements given above is/are correct?",
+
+"options": [
+
+"I only",
+
+"I and II only",
+
+"II and III only",
+
+"I, II and III"
+
+],
+
+"answer": 3,
+
+"explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I is correct:</b> Mandatory for cities >1 million population.<br><b>Statement II is correct:</b> Not strictly bound by CPC; can lay down own procedure.<br><b>Statement III is correct:</b> Appeals lie directly to the High Court."
+
+},
+
+{
+
+"section": "Polity",
+
+"topic": "Supreme Court of India",
+
+"question": "In the Supreme Court of India, the term “Puisne Judges” refers to -",
+
+"options": [
+
+"Judges other than the Chief Justice of India",
+
+"Ad hoc judges appointed by the President of India",
+
+"Retired judges reappointed temporarily under Article 128 of the Constitution of India",
+
+"Chief Justice of India and all the other judges"
+
+],
+
+"answer": 0,
+
+"explanation": "<b>Correct Answer: (a)</b><br><br><b>Option (a) is correct:</b> 'Puisne' means junior or inferior in rank. In the Supreme Court, it refers to all judges other than the Chief Justice of India."
+
+}
+
+]
