@@ -587,24 +587,26 @@
             const parsed = JSON.parse(content);
             const fname = name.endsWith('.json')?name:name+'.json';
             
-            // 1. Save Locally (Keep filename simple for local storage)
+            // 1. Save Locally
             library[fname] = parsed; saveLibraryToStorage();
             activeFile = fname; renderGrid();
             document.getElementById('start-btn').innerText='START: '+fname.substring(0,10);
             document.getElementById('start-btn').disabled=false;
             
-            // 2. Prepare for GitHub Issue (Add Subfolder Path)
+            // 2. Prepare for GitHub Issue
             await navigator.clipboard.writeText(content);
             
-            // Get the subfolder (e.g., 'upsc') from 'tests/upsc'
-            // We strip 'tests/' because the workflow adds it back automatically
-            const profileFolder = EXAM_PROFILES[currentProfile].folder; 
+            // --- NEW LOGIC: CALCULATE SUBFOLDER ---
+            // Get folder from config (e.g., 'tests/upsc') and strip 'tests/'
+            const profileFolder = EXAM_PROFILES[currentProfile].folder || 'tests/general'; 
             const subDir = profileFolder.replace(/^tests\//, ''); 
+            
+            // If subDir exists, prepend it (e.g., "upsc/Test1.json")
             const gitHubTitle = subDir ? `${subDir}/${fname}` : fname;
 
             window.open(`https://github.com/${REPO_OWNER}/${REPO_NAME}/issues/new?title=${encodeURIComponent(gitHubTitle)}&labels=new-test`, '_blank');
             closePasteModal();
-        } catch(e){ alert("Invalid JSON"); }
+        } catch(e){ alert("Invalid JSON: " + e); }
     }
 
     function loadFiles(files) {
