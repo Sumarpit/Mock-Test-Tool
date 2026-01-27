@@ -586,12 +586,23 @@
         try {
             const parsed = JSON.parse(content);
             const fname = name.endsWith('.json')?name:name+'.json';
+            
+            // 1. Save Locally (Keep filename simple for local storage)
             library[fname] = parsed; saveLibraryToStorage();
             activeFile = fname; renderGrid();
             document.getElementById('start-btn').innerText='START: '+fname.substring(0,10);
             document.getElementById('start-btn').disabled=false;
+            
+            // 2. Prepare for GitHub Issue (Add Subfolder Path)
             await navigator.clipboard.writeText(content);
-            window.open(`https://github.com/${REPO_OWNER}/${REPO_NAME}/issues/new?title=${encodeURIComponent(fname)}&labels=new-test`, '_blank');
+            
+            // Get the subfolder (e.g., 'upsc') from 'tests/upsc'
+            // We strip 'tests/' because the workflow adds it back automatically
+            const profileFolder = EXAM_PROFILES[currentProfile].folder; 
+            const subDir = profileFolder.replace(/^tests\//, ''); 
+            const gitHubTitle = subDir ? `${subDir}/${fname}` : fname;
+
+            window.open(`https://github.com/${REPO_OWNER}/${REPO_NAME}/issues/new?title=${encodeURIComponent(gitHubTitle)}&labels=new-test`, '_blank');
             closePasteModal();
         } catch(e){ alert("Invalid JSON"); }
     }
