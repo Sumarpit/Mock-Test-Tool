@@ -1,4 +1,4 @@
-// extensions.js - COMPLETE (Hooks + Shortcuts + S-Pen Annotation)
+// extensions.js - COMPLETE (Hooks + Shortcuts + S-Pen Annotation + Smart Nav)
 
 // --- GLOBAL DRAWING STATE ---
 let canvas, ctx;
@@ -70,22 +70,25 @@ function initCanvas() {
     
     // Smart Event Listener on Parent to detect Pen
     const container = document.getElementById('touch-area');
-    container.addEventListener('pointerdown', (e) => {
-        // If it's a PEN, activate canvas immediately
-        if (e.pointerType === 'pen') {
-            canvas.style.pointerEvents = 'auto'; // Capture the stroke
-            // We might miss the first down event, so manually trigger
-            canvas.dispatchEvent(new PointerEvent('pointerdown', e));
-        } else {
-            // If Finger/Mouse, let it scroll/click options (Pass through)
-            canvas.style.pointerEvents = 'none';
-        }
-    });
+    if (container) {
+        container.addEventListener('pointerdown', (e) => {
+            // If it's a PEN, activate canvas immediately
+            if (e.pointerType === 'pen') {
+                canvas.style.pointerEvents = 'auto'; // Capture the stroke
+                // We might miss the first down event, so manually trigger
+                canvas.dispatchEvent(new PointerEvent('pointerdown', e));
+            } else {
+                // If Finger/Mouse, let it scroll/click options (Pass through)
+                canvas.style.pointerEvents = 'none';
+            }
+        });
+    }
 }
 
 function resizeAndLoadCanvas(qIndex) {
     if(!canvas) return;
     const container = document.getElementById('touch-area');
+    if (!container) return;
     
     // Resize canvas to full scrollable height
     canvas.width = container.offsetWidth;
@@ -104,7 +107,7 @@ function startDraw(e) {
     
     const rect = canvas.getBoundingClientRect();
     const x = e.clientX - rect.left;
-    const y = e.clientY - rect.top; // Correct for scroll is handled by CSS positioning
+    const y = e.clientY - rect.top; 
     
     // Start a new path
     currentPaths.push({
@@ -137,56 +140,8 @@ function endDraw(e) {
     canvas.releasePointerCapture(e.pointerId);
     
     // Save to global storage
-    // NOTE: In real app, you'd want to persist 'drawings' to localStorage too
-    // But strokes are heavy, so we keep in RAM for session only here.
     if(typeof currIdx !== 'undefined') drawings[currIdx] = currentPaths;
 }
-// --- SMART GESTURE NAVIGATION (BLOCKS PEN SWIPES) ---
-(function initSmartGestures() {
-    const container = document.getElementById('touch-area');
-    if (!container) return;
-
-    let touchStartX = 0;
-    let touchStartY = 0;
-
-    container.addEventListener('touchstart', (e) => {
-        // 1. REJECT PEN: If it's a pen, ignore completely (let it draw)
-        // 2. REJECT MULTI-TOUCH: If zooming/pinching, ignore
-        if (e.pointerType === 'pen' || e.touches.length > 1) return;
-
-        touchStartX = e.changedTouches[0].screenX;
-        touchStartY = e.changedTouches[0].screenY;
-    }, { passive: false });
-
-    container.addEventListener('touchend', (e) => {
-        // Safety Check: If we are currently drawing, DO NOT swipe
-        if (isDrawing) return; 
-        
-        // REJECT PEN AGAIN (Just in case)
-        // Note: 'changedTouches' doesn't always have pointerType, 
-        // so we rely on the logic that drawing captures the pointer first.
-        
-        const touchEndX = e.changedTouches[0].screenX;
-        const touchEndY = e.changedTouches[0].screenY;
-        
-        const diffX = touchStartX - touchEndX;
-        const diffY = touchStartY - touchEndY;
-
-        // --- SWIPE LOGIC ---
-        // 1. Horizontal swipe must be longer than 60px (Threshold)
-        // 2. Vertical movement must be small (less than 50px) to prevent accidental swipes while scrolling down
-        if (Math.abs(diffX) > 60 && Math.abs(diffY) < 50) {
-            
-            if (diffX > 0) {
-                // Swipe Left -> Next Question
-                if (typeof nextQ === 'function') nextQ();
-            } else {
-                // Swipe Right -> Prev Question
-                if (typeof prevQ === 'function') prevQ();
-            }
-        }
-    });
-})();
 
 function setupBrush() {
     ctx.lineCap = 'round';
@@ -285,3 +240,56 @@ document.addEventListener('keydown', (e) => {
         }
     }
 });
+
+// 4. SMART GESTURE NAVIGATION (STRICTLY BLOCKS PEN)
+(function initSmartGestures() {
+    const container = document.getElementById('touch-area');
+    if (!container) return;
+
+    let startX = 0;
+    let startY = 0;
+    let isValidSwipe = false;
+
+    // Use POINTER events instead of TOUCH events to reliably detect Pen
+    container.addEventListener('pointerdown', (e) => {
+        // STRICT FILTER: Only 'touch' (finger) is allowed for navigation.
+        // 'pen' and 'mouse' are completely ignored for swipe logic.
+        if (e.pointerType !== 'touch') {
+            isValidSwipe = false;
+            return;
+        }
+
+        // If we are somehow drawing, also ignore
+        if (isDrawing) {
+            isValidSwipe = false;
+            return;
+        }
+
+        isValidSwipe = true;
+        startX = e.clientX;
+        startY = e.clientY;
+    });
+
+    container.addEventListener('pointerup', (e) => {
+        if (!isValidSwipe) return;
+
+        const endX = e.clientX;
+        const endY = e.clientY;
+        const diffX = startX - endX;
+        const diffY = startY - endY;
+
+        // Thresholds: Swipe must be > 80px horizontal and < 60px vertical
+        // This prevents scrolling from being interpreted as a swipe
+        if (Math.abs(diffX) > 80 && Math.abs(diffY) < 60) {
+            if (diffX > 0) {
+                // Swipe Left -> Next
+                if (typeof nextQ === 'function') nextQ();
+            } else {
+                // Swipe Right -> Prev
+                if (typeof prevQ === 'function') prevQ();
+            }
+        }
+        
+        isValidSwipe = false; // Reset
+    });
+})();
