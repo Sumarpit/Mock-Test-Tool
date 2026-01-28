@@ -451,17 +451,6 @@
             
             // Touch Navigation logic moved to extensions.js pointer events if needed, 
             // but kept simple swipe here for basic phone usage
-            const ta = document.getElementById('touch-area');
-            if(ta) {
-                let ts=0, te=0;
-                ta.addEventListener('touchstart', e => ts = e.changedTouches[0].screenX);
-                ta.addEventListener('touchend', e => { 
-                    te = e.changedTouches[0].screenX; 
-                    // Only swipe if not drawing (handled in extensions.js via pointer events)
-                    // We assume drawing prevents this event if needed, or we check pointer type
-                    if(ts-te>50) nextQ(); else if(te-ts>50) prevQ(); 
-                });
-            }
         } catch(e){ console.error("Init Error:", e); } 
     };
 
