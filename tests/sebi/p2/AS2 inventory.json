@@ -1,0 +1,82 @@
+[
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-2)",
+    "question": "<b>Case Study 1: The 'Price Drop' Scenario</b><br><br>Alpha Ltd. deals in electronic components. For a specific batch of 1,000 units of 'Component X', the cost data is as follows:<br>• Cost per unit: ₹100<br>• Current Market Selling Price: ₹90<br>• Estimated Selling Expenses per unit: ₹5<br><br>At what total value should this inventory be recorded in the Balance Sheet?",
+    "options": [
+      "₹1,00,000",
+      "₹90,000",
+      "₹85,000",
+      "₹95,000",
+      "₹80,000"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: ₹85,000</b><br><br><b>Logic:</b> AS-2 states inventory must be valued at the <b>Lower of Cost and Net Realizable Value (NRV)</b>.<br>1. <b>Cost:</b> ₹100.<br>2. <b>NRV:</b> Estimated Selling Price (₹90) - Est. Selling Expenses (₹5) = ₹85.<br>3. <b>Valuation:</b> Lower of ₹100 and ₹85 is ₹85.<br>Total Value = 1,000 units × ₹85 = <b>₹85,000</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-2)",
+    "question": "<b>Case Study 2: The 'Abnormal Loss' Trap</b><br><br>A factory produced 10,000 units of a product. The total production cost was ₹1,00,000. During the process, 500 units were destroyed due to an accidental fire (considered abnormal). The remaining 9,500 units are in stock.<br><br>Calculate the value of Closing Stock to be recognized in the Balance Sheet.",
+    "options": [
+      "₹1,00,000",
+      "₹95,000",
+      "₹90,000",
+      "₹1,05,000",
+      "₹9,500"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹95,000</b><br><br><b>Logic:</b> Abnormal amounts of wasted materials or labor are <b>excluded</b> from the cost of inventories and recognized as an expense in the period in which they occur.<br>1. <b>Cost per unit (Normal):</b> ₹1,00,000 / 10,000 = ₹10 per unit.<br>2. <b>Abnormal Loss:</b> 500 units × ₹10 = ₹5,000 (Charged to P&L).<br>3. <b>Closing Stock:</b> 9,500 units × ₹10 = <b>₹95,000</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-2)",
+    "question": "<b>Case Study 3: The 'WIP Allocation' Rule</b><br><br>A manufacturing unit has a <b>Normal Capacity</b> of 10,000 units per month. In January, actual production was only 5,000 units. The Total Fixed Production Overheads for the month were ₹50,000.<br><br>What amount of Fixed Overhead should be allocated to each unit of production?",
+    "options": [
+      "₹10 per unit",
+      "₹5 per unit",
+      "₹7.5 per unit",
+      "₹2 per unit",
+      "₹0 (Charged to P&L)"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹5 per unit</b><br><br><b>Rule:</b> The allocation of fixed production overheads to the costs of conversion is based on the <b>normal capacity</b> of the production facilities.<br>• Allocation Rate = Total Fixed Overheads / Normal Capacity<br>• Rate = ₹50,000 / 10,000 units = <b>₹5 per unit</b>.<br><i>Note: The unallocated overheads (₹25,000) will be recognized as an expense in the P&L account.</i>",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-2)",
+    "question": "<b>Case Study 4: The 'Raw Material' Exception</b><br><br>Beta Ltd. holds Raw Material 'R' purchased at ₹200/kg. The Replacement Cost of 'R' has fallen to ₹150/kg. The Finished Product 'F' (made from 'R') is expected to be sold at a price that covers its full cost (i.e., sold at a profit).<br><br>At what price should the Raw Material 'R' be valued?",
+    "options": [
+      "₹150 (Replacement Cost)",
+      "₹175 (Average)",
+      "₹200 (Cost)",
+      "₹0 (Write off)",
+      "₹180 (NRV)"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: ₹200 (Cost)</b><br><br><b>Exception Rule:</b> Materials and other supplies held for use in the production of inventories are <b>not written down below cost</b> if the finished products in which they will be incorporated are expected to be sold at or above cost.<br>Since Product 'F' is profitable, the Raw Material 'R' stays at <b>Cost (₹200)</b>, ignoring the drop in replacement cost.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-2)",
+    "question": "<b>Case Study 5: Joint Products</b><br><br>In a chemical process, Joint Products A and B are produced. Total Joint Cost up to the split-off point is ₹1,00,000. At the split-off point:<br>• Sales Value of A = ₹60,000<br>• Sales Value of B = ₹40,000<br><br>Calculate the cost allocated to Product A.",
+    "options": [
+      "₹50,000",
+      "₹60,000",
+      "₹40,000",
+      "₹70,000",
+      "₹30,000"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹60,000</b><br><br><b>Rule:</b> When costs of conversion of each product are not separately identifiable, they are allocated between the products on a rational and consistent basis, typically on the <b>relative sales value</b> of each product.<br>• Ratio of Sales Value (A:B) = 60,000 : 40,000 = 6:4.<br>• Cost Allocated to A = ₹1,00,000 × (6/10) = <b>₹60,000</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  }
+]
