@@ -18,8 +18,8 @@ const EXAM_PROFILES = {
     'SEBI_P2': { 
         name: 'SEBI Grade A (Phase 2)', 
         folder: 'tests/sebi/p2', // Creates a separate subfolder for P2 tests
-        marks: 2.0,              // 2 Marks per question (50 Qs = 100 Marks)
-        neg: 0.50,               // 1/4th Negative Marking
+        marks: 1.0,              // 1 Marks per question (100 Qs = 100 Marks)
+        neg: 0.25,               // 1/4th Negative Marking
         time: [0, 40, 0]         // STRICT 40 Minutes Timer
     },
 
