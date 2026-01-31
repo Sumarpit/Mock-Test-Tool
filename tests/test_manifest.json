@@ -73,6 +73,8 @@
 ,
 {"name": "Survey Budget", "filename": "Survey Budget.json", "path": "tests/sebi/Survey Budget.json"}
 ,
+{"name": "Marginal costing", "filename": "Marginal costing.json", "path": "tests/sebi/p2/Marginal costing.json"}
+,
 {"name": "dummy", "filename": "dummy.json", "path": "tests/ssc/dummy.json"}
 ,
 {"name": "SFG 1", "filename": "SFG 1.json", "path": "tests/upsc/SFG 1.json"}

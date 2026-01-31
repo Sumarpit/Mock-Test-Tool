@@ -1,0 +1,322 @@
+[
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "Given: Sales = ₹2,00,000; Profit = ₹20,000; Variable Cost = 60%. Calculate the Fixed Cost.",
+    "options": [
+      "₹60,000",
+      "₹80,000",
+      "₹1,00,000",
+      "₹1,20,000",
+      "₹40,000"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: ₹60,000</b><br><br>1. <b>Calculate P/V Ratio:</b> If Variable Cost is 60%, P/V Ratio = 100% - 60% = 40%.<br>2. <b>Calculate Contribution:</b> Sales × P/V Ratio = ₹2,00,000 × 40% = ₹80,000.<br>3. <b>Calculate Fixed Cost:</b> Contribution - Profit = Fixed Cost.<br>₹80,000 - ₹20,000 = ₹60,000.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "If the Break-Even Point (BEP) is ₹40,000 and the Profit-Volume (P/V) Ratio is 20%, what is the Fixed Cost?",
+    "options": [
+      "₹8,000",
+      "₹2,00,000",
+      "₹80,000",
+      "₹20,000",
+      "₹10,000"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: ₹8,000</b><br><br><b>Formula:</b> BEP (in Value) = Fixed Cost / P/V Ratio<br>Therefore, Fixed Cost = BEP × P/V Ratio<br>Fixed Cost = ₹40,000 × 20% = ₹8,000.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "Calculate the Margin of Safety (MOS) ratio if the Break-Even Point is 40% of Total Sales.",
+    "options": [
+      "40%",
+      "60%",
+      "25%",
+      "150%",
+      "100%"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 60%</b><br><br><b>Logic:</b> Total Sales = Break-Even Sales + Margin of Safety Sales.<br>If BEP is 40% of Sales, then MOS is the remaining portion.<br>MOS Ratio = 100% - 40% = 60%.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "Given: Fixed Cost = ₹1,50,000; Selling Price Per Unit (SPPU) = ₹15; Variable Cost Per Unit (VCPU) = ₹10. Calculate the Break-Even Point in Units.",
+    "options": [
+      "10,000 units",
+      "15,000 units",
+      "30,000 units",
+      "25,000 units",
+      "20,000 units"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 30,000 units</b><br><br>1. <b>Calculate Contribution Per Unit (CPU):</b> SPPU - VCPU = ₹15 - ₹10 = ₹5.<br>2. <b>Calculate BEP (Units):</b> Fixed Cost / CPU<br>₹1,50,000 / ₹5 = 30,000 units.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "A company sells products at ₹20 per unit with a Variable Cost of ₹12. If the Fixed Costs are ₹60,000, what sales volume is required to earn a profit of ₹20,000?",
+    "options": [
+      "8,000 units",
+      "10,000 units",
+      "12,000 units",
+      "15,000 units",
+      "20,000 units"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 10,000 units</b><br><br>1. <b>Contribution Per Unit:</b> ₹20 - ₹12 = ₹8.<br>2. <b>Target Sales (Units):</b> (Fixed Cost + Desired Profit) / Contribution Per Unit<br>(₹60,000 + ₹20,000) / ₹8 = ₹80,000 / ₹8 = 10,000 units.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "Given: Profit = ₹25,000; Margin of Safety (MOS) = ₹1,00,000. Calculate the P/V Ratio.",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "40%",
+      "50%"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 25%</b><br><br><b>Formula:</b> Profit = Margin of Safety × P/V Ratio<br>Therefore, P/V Ratio = Profit / MOS<br>P/V Ratio = ₹25,000 / ₹1,00,000 = 0.25 or 25%.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "Year 1 Sales: ₹1,00,000, Profit: ₹10,000. Year 2 Sales: ₹1,50,000, Profit: ₹20,000. Calculate the P/V Ratio.",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 20%</b><br><br><b>Formula:</b> Change in Profit / Change in Sales × 100<br>Change in Profit = ₹20,000 - ₹10,000 = ₹10,000.<br>Change in Sales = ₹1,50,000 - ₹1,00,000 = ₹50,000.<br>P/V Ratio = (10,000 / 50,000) × 100 = 20%.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "Using the data from the previous question (Year 1 Sales: ₹1,00,000, Profit: ₹10,000, P/V Ratio: 20%), calculate the Fixed Cost.",
+    "options": [
+      "₹5,000",
+      "₹10,000",
+      "₹15,000",
+      "₹20,000",
+      "₹25,000"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹10,000</b><br><br><b>Formula:</b> Contribution - Profit = Fixed Cost<br>Contribution = Sales × P/V Ratio = ₹1,00,000 × 20% = ₹20,000.<br>Fixed Cost = ₹20,000 - ₹10,000 = ₹10,000.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "If the Variable Cost to Sales ratio is 70% and the Fixed Cost is ₹90,000, calculate the Break-Even Sales.",
+    "options": [
+      "₹1,28,571",
+      "₹3,00,000",
+      "₹2,50,000",
+      "₹9,00,000",
+      "₹1,50,000"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹3,00,000</b><br><br>1. <b>Calculate P/V Ratio:</b> 100% - Variable Cost Ratio (70%) = 30%.<br>2. <b>Calculate BEP (Sales):</b> Fixed Cost / P/V Ratio<br>₹90,000 / 30% = ₹3,00,000.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "Find the Sales value if Fixed Cost is ₹40,000, Profit is ₹20,000, and Variable Cost is 50%.",
+    "options": [
+      "₹80,000",
+      "₹1,00,000",
+      "₹1,20,000",
+      "₹60,000",
+      "₹1,40,000"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: ₹1,20,000</b><br><br>1. <b>Determine P/V Ratio:</b> 100% - 50% = 50%.<br>2. <b>Determine Required Contribution:</b> Fixed Cost + Profit = ₹40,000 + ₹20,000 = ₹60,000.<br>3. <b>Calculate Sales:</b> Contribution / P/V Ratio<br>₹60,000 / 50% = ₹1,20,000.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "If Selling Price is reduced by 10%, keeping Variable Cost and Fixed Cost constant, what happens to the Break-Even Point (BEP)?",
+    "options": [
+      "BEP Decreases",
+      "BEP Increases",
+      "BEP remains same",
+      "BEP becomes zero",
+      "Cannot be determined"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: BEP Increases</b><br><br><b>Logic:</b> Reducing the Selling Price while keeping Variable Costs constant reduces the Contribution Per Unit (SP - VC).<br>Since BEP = Fixed Cost / Contribution, a smaller denominator (Contribution) results in a larger BEP. You need to sell more units to cover the same fixed costs.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "Given: Sales = 4,000 units; Break-Even Point = 2,500 units; Fixed Cost = ₹10,000. Calculate Profit.",
+    "options": [
+      "₹4,000",
+      "₹6,000",
+      "₹8,000",
+      "₹10,000",
+      "₹16,000"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹6,000</b><br><br>1. <b>Find Contribution Per Unit:</b> At BEP, Total Contribution = Fixed Cost.<br>Contribution for 2,500 units = ₹10,000.<br>Contribution Per Unit = ₹10,000 / 2,500 = ₹4 per unit.<br>2. <b>Calculate Margin of Safety (Units):</b> Actual Sales - BEP Sales = 4,000 - 2,500 = 1,500 units.<br>3. <b>Calculate Profit:</b> Profit = MOS Units × Contribution Per Unit<br>1,500 units × ₹4 = ₹6,000.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "If Margin of Safety is ₹40,000 and Profit is ₹10,000, calculate the Variable Cost for Sales of ₹1,00,000.",
+    "options": [
+      "₹50,000",
+      "₹60,000",
+      "₹75,000",
+      "₹80,000",
+      "₹25,000"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: ₹75,000</b><br><br>1. <b>Calculate P/V Ratio:</b> Profit / Margin of Safety = ₹10,000 / ₹40,000 = 25%.<br>2. <b>Calculate Variable Cost Ratio:</b> 100% - P/V Ratio = 100% - 25% = 75%.<br>3. <b>Calculate Variable Cost:</b> 75% of Sales (₹1,00,000) = ₹75,000.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "A firm has Fixed Costs of ₹20,000. To maintain the same Break-Even Point when Fixed Costs increase by 10%, by what percentage must the Contribution increase?",
+    "options": [
+      "5%",
+      "10%",
+      "20%",
+      "15%",
+      "No change needed"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 10%</b><br><br><b>Logic:</b> BEP = Fixed Cost / Contribution.<br>If Fixed Cost (Numerator) increases by 10%, the Contribution (Denominator) must also increase by 10% to keep the ratio (BEP) constant.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "Calculate Fixed Cost if: Sales = ₹2,00,000; Profit = ₹40,000; and MOS = 50% of Sales.",
+    "options": [
+      "₹20,000",
+      "₹40,000",
+      "₹60,000",
+      "₹80,000",
+      "₹1,00,000"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹40,000</b><br><br>1. <b>Calculate MOS Value:</b> 50% of ₹2,00,000 = ₹1,00,000.<br>2. <b>Calculate P/V Ratio:</b> Profit / MOS = ₹40,000 / ₹1,00,000 = 40%.<br>3. <b>Calculate Total Contribution:</b> Sales × P/V = ₹2,00,000 × 40% = ₹80,000.<br>4. <b>Calculate Fixed Cost:</b> Contribution - Profit = ₹80,000 - ₹40,000 = ₹40,000.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "If the BEP is 2,000 units and the P/V ratio is 40%, and the Selling Price is ₹50, calculate the Fixed Cost.",
+    "options": [
+      "₹20,000",
+      "₹30,000",
+      "₹40,000",
+      "₹50,000",
+      "₹60,000"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: ₹40,000</b><br><br>1. <b>Calculate Contribution Per Unit:</b> Selling Price × P/V Ratio = ₹50 × 40% = ₹20 per unit.<br>2. <b>Calculate Fixed Cost:</b> BEP (Units) × Contribution Per Unit = 2,000 × ₹20 = ₹40,000.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "Company A has a P/V Ratio of 40%. Company B has a P/V Ratio of 20%. Both have the same Sales and same Total Profit. Which company has higher Fixed Costs?",
+    "options": [
+      "Company A",
+      "Company B",
+      "Both are equal",
+      "Cannot be determined",
+      "None of the above"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Company A</b><br><br><b>Logic:</b> Profit = (Sales × P/V) - Fixed Cost. => Fixed Cost = (Sales × P/V) - Profit.<br>Since Sales and Profit are equal for both:<br>Company A FC = (Sales × 0.40) - Profit<br>Company B FC = (Sales × 0.20) - Profit<br>Since 0.40 Sales > 0.20 Sales, Company A must have a higher Fixed Cost to arrive at the same Profit.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "Given: Sales = ₹3,00,000; Variable Cost = ₹1,80,000; Fixed Cost = ₹80,000. Calculate the percentage of Margin of Safety.",
+    "options": [
+      "25%",
+      "33.33%",
+      "66.67%",
+      "50%",
+      "40%"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 33.33%</b><br><br>1. <b>Calculate Contribution:</b> ₹3,00,000 - ₹1,80,000 = ₹1,20,000.<br>2. <b>Calculate Profit:</b> ₹1,20,000 - ₹80,000 = ₹40,000.<br>3. <b>Calculate MOS Ratio:</b> Profit / Contribution = ₹40,000 / ₹1,20,000 = 1/3 or 33.33%.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "What is the indifference point (in units) between two machines if: Machine A (FC ₹10,000, VC ₹5/unit) and Machine B (FC ₹16,000, VC ₹3/unit)?",
+    "options": [
+      "2,000 units",
+      "2,500 units",
+      "3,000 units",
+      "4,000 units",
+      "5,000 units"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 3,000 units</b><br><br><b>Formula:</b> Indifference Point = Change in Fixed Cost / Change in Variable Cost Per Unit<br>Change in FC = ₹16,000 - ₹10,000 = ₹6,000.<br>Change in VC = ₹5 - ₹3 = ₹2.<br>Indifference Point = ₹6,000 / ₹2 = 3,000 units.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing",
+    "question": "If the Margin of Safety is 20% and the P/V Ratio is 60%, what is the ratio of Profit to Sales?",
+    "options": [
+      "12%",
+      "20%",
+      "30%",
+      "8.33%",
+      "15%"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 12%</b><br><br><b>Formula:</b> Profit Ratio = Margin of Safety Ratio × P/V Ratio<br>Profit / Sales = 20% × 60% = 0.20 × 0.60 = 0.12 or 12%.",
+    "marks": 2.0,
+    "negative": 0.5
+  }
+]
