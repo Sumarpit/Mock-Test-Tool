@@ -608,23 +608,50 @@
     }
 
     // --- EXAM LOGIC ---
-    function prepareQuestions(list) {
+    // --- EXAM LOGIC ---
+    function prepareQuestions(inputData) {
+        let rawList = [];
+
+        // 1. Detect Format: Is it the "Optimized Object" or "Standard Array"?
+        if (!Array.isArray(inputData) && inputData.questions && inputData.passages) {
+            // OPTIMIZED FORMAT DETECTED
+            // We map the passage text back into the questions dynamically
+            rawList = inputData.questions.map(q => {
+                if (q.passageId && inputData.passages[q.passageId]) {
+                    // Inject the full passage text
+                    q.passage = inputData.passages[q.passageId];
+                }
+                return q;
+            });
+        } else if (Array.isArray(inputData)) {
+            // STANDARD ARRAY FORMAT
+            rawList = inputData;
+        } else {
+            // Fallback for empty or error
+            rawList = [];
+        }
+
         let groups = [], cur = [];
         
-        // 1. Grouping Logic
-        list.forEach((q, index) => {
+        // 2. Grouping Logic (Existing)
+        rawList.forEach((q, index) => {
             if (index === 0) { cur.push(q); } 
             else {
-                const prev = list[index - 1];
-                const sameP = q.passage && prev.passage && (q.passage.trim() === prev.passage.trim());
+                const prev = rawList[index - 1];
+                // Check if passages match (handling undefined safely)
+                const p1 = q.passage ? q.passage.trim() : "";
+                const p2 = prev.passage ? prev.passage.trim() : "";
+                const sameP = p1 && p2 && (p1 === p2);
+                
                 const sameG = q.group_id && prev.group_id && (q.group_id === prev.group_id);
+                
                 if (sameP || sameG) { cur.push(q); } 
                 else { groups.push(cur); cur = [q]; }
             }
         });
         if (cur.length > 0) groups.push(cur);
 
-        // 2. Shuffle Question Groups
+        // 3. Shuffle Question Groups
         const shouldShuffle = EXAM_PROFILES[currentProfile].shuffle !== false;
 
         if (shouldShuffle) {
@@ -634,7 +661,7 @@
             }
         }
 
-        // 3. Flatten and Process Options
+        // 4. Flatten and Process Options
         return groups.flat().map(q => {
             let nq = JSON.parse(JSON.stringify(q));
             
@@ -651,6 +678,36 @@
             }
             return nq;
         });
+    }
+    // --- SIDEBAR & NAVIGATION FUNCTIONS ---
+    function toggleSidebar() {
+        const sb = document.getElementById('pane-sidebar');
+        const handle = document.querySelector('.sidebar-handle');
+        
+        // Toggle the class
+        sb.classList.toggle('collapsed');
+        
+        // Update the arrow icon
+        if (sb.classList.contains('collapsed')) {
+            handle.innerText = '◀'; 
+        } else {
+            handle.innerText = '▶';
+        }
+        
+        // Resize canvas if annotation is active (prevents drawing distortion)
+        if (typeof resizeAndLoadCanvas === 'function' && typeof currIdx !== 'undefined') {
+            setTimeout(() => resizeAndLoadCanvas(currIdx), 300); // Wait for CSS transition
+        }
+    }
+
+    function openSidebar() {
+        document.getElementById('pane-sidebar').classList.add('open');
+        document.getElementById('overlay').classList.add('active');
+    }
+
+    function closeSidebar() {
+        document.getElementById('pane-sidebar').classList.remove('open');
+        document.getElementById('overlay').classList.remove('active');
     }
 
     function startExam() {
