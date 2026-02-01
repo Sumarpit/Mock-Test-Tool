@@ -75,6 +75,8 @@
 ,
 {"name": "AS2 inventory", "filename": "AS2 inventory.json", "path": "tests/sebi/p2/AS2 inventory.json"}
 ,
+{"name": "AS3 Cashflow 2", "filename": "AS3 Cashflow 2.json", "path": "tests/sebi/p2/AS3 Cashflow 2.json"}
+,
 {"name": "AS3 Cashflow", "filename": "AS3 Cashflow.json", "path": "tests/sebi/p2/AS3 Cashflow.json"}
 ,
 {"name": "Marginal costing", "filename": "Marginal costing.json", "path": "tests/sebi/p2/Marginal costing.json"}

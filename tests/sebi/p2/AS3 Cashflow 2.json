@@ -1,0 +1,162 @@
+[
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "Calculate the adjustment required in Operating Activities if 'Inventory' decreases from ₹50,000 to ₹40,000 during the year.",
+    "options": [
+      "Deduct ₹10,000",
+      "Add ₹10,000",
+      "Add ₹50,000",
+      "Ignore as it is a Valuation adjustment",
+      "Deduct ₹40,000"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Add ₹10,000</b><br><br><b>Logic:</b> Decrease in Current Asset (Inventory) means stock was sold or consumed, releasing cash. <br><b>Rule:</b> Decrease in Current Assets = <b>(+) ADD</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "How is a 'Decrease in Trade Payables (Creditors)' treated in the Cash Flow Statement under the Indirect Method?",
+    "options": [
+      "Added to Net Profit",
+      "Added to Financing Activities",
+      "Deducted from Net Profit",
+      "Deducted from Investing Activities",
+      "Ignored"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Deducted from Net Profit</b><br><br><b>Logic:</b> Decrease in Current Liability means you have paid off your creditors, resulting in a <b>Cash Outflow</b>.<br><b>Rule:</b> Decrease in Current Liability = <b>(-) DEDUCT</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "For the year ended 31st March 2026, Proposed Dividend for 2024-25 was ₹15,000 and for 2025-26 is ₹18,000. What is the treatment for the <b>Current Year's (2025-26)</b> Proposed Dividend?",
+    "options": [
+      "Add ₹18,000 to Net Profit",
+      "Deduct ₹18,000 in Financing Activity",
+      "Add ₹15,000 to Net Profit",
+      "No treatment (Contingent Liability)",
+      "Average of both years"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: No treatment (Contingent Liability)</b><br><br><b>Rule (AS-4):</b> Proposed Dividend for the current reporting period (₹18,000) is declared <i>after</i> the balance sheet date. It is treated as a Contingent Liability and is <b>NOT recognized</b> in the financial statements or Cash Flow until approved.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "Which of the following items is <b>DEDUCTED</b> from Net Profit while calculating Cash from Operating Activities?",
+    "options": [
+      "Depreciation",
+      "Loss on sale of Fixed Assets",
+      "Goodwill Amortized",
+      "Profit on sale of Investments",
+      "Increase in Provision for Bad Debts"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Profit on sale of Investments</b><br><br><b>Logic:</b> Profit on sale is a non-operating gain included in the Net Profit. Since it belongs to <b>Investing Activity</b> (sale proceeds), it must be removed (deducted) from the Operating Profit to avoid double counting.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "Given: Opening Provision for Tax: ₹40,000; Closing Provision for Tax: ₹55,000; Provision Made during the year: ₹45,000. Calculate the <b>Tax Paid</b>.",
+    "options": [
+      "₹30,000",
+      "₹45,000",
+      "₹55,000",
+      "₹60,000",
+      "₹25,000"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: ₹30,000</b><br><br><b>Formula:</b> Opening + Provision Made - Tax Paid = Closing<br>40,000 + 45,000 - Tax Paid = 55,000<br>85,000 - Tax Paid = 55,000<br>Tax Paid = <b>₹30,000</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "If 'Prepaid Insurance' increases from ₹2,000 to ₹5,000, what is the impact on Cash Flow from Operations?",
+    "options": [
+      "Add ₹3,000",
+      "Deduct ₹3,000",
+      "Add ₹5,000",
+      "Deduct ₹5,000",
+      "No effect"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Deduct ₹3,000</b><br><br><b>Logic:</b> Increase in Prepaid Expenses (Current Asset) means cash has been paid in advance. <br><b>Rule:</b> Increase in Current Asset = <b>(-) DEDUCT</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "Where is 'Interest Paid' by a non-financial enterprise shown in the Cash Flow Statement?",
+    "options": [
+      "Operating Activity",
+      "Investing Activity",
+      "Financing Activity",
+      "Both Operating and Financing",
+      "Not shown"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Financing Activity</b><br><br><b>Logic:</b> Interest paid is a cost of servicing debt (Capital). Hence, it is a <b>Financing Outflow</b>. <br><i>Note: It is added back to Net Profit in Operating Activity only to cancel its effect, but its actual classification is Financing.</i>",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "Calculate Cash Flow from Operating Activities:<br>Net Profit: ₹1,00,000<br>Depreciation: ₹20,000<br>Increase in Debtors: ₹10,000<br>Increase in Creditors: ₹15,000",
+    "options": [
+      "₹1,25,000",
+      "₹1,15,000",
+      "₹1,35,000",
+      "₹1,05,000",
+      "₹95,000"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: ₹1,25,000</b><br><br>1. <b>Op Profit:</b> 1,00,000 + 20,000 (Dep) = 1,20,000.<br>2. <b>WC Adjustments:</b><br>   • Increase in Debtors (Asset ↑): <b>(-) 10,000</b><br>   • Increase in Creditors (Liability ↑): <b>(+) 15,000</b><br>3. <b>Total:</b> 1,20,000 - 10,000 + 15,000 = <b>₹1,25,000</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "How is the 'Interim Dividend' paid during the year treated?",
+    "options": [
+      "Added to Net Profit & Deducted in Financing",
+      "Deducted from Net Profit & Added in Financing",
+      "Shown only in Financing",
+      "Shown only in Operating",
+      "Ignored"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Added to Net Profit & Deducted in Financing</b><br><br><b>Logic:</b> Interim Dividend is an appropriation of profit. It is added back to Net Profit to find 'Cash from Operations' and shown as an <b>Outflow</b> in Financing Activity.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "Under AS-3, 'Cash and Cash Equivalents' includes which of the following?",
+    "options": [
+      "Inventory",
+      "Trade Receivables",
+      "Short-term highly liquid investments (maturity < 3 months)",
+      "Machinery",
+      "Long-term Govt Bonds"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Short-term highly liquid investments (maturity < 3 months)</b><br><br><b>Definition:</b> Cash Equivalents are short-term, highly liquid investments that are readily convertible to known amounts of cash and are subject to an insignificant risk of changes in value (usually maturity of 3 months or less).",
+    "marks": 2.0,
+    "negative": 0.5
+  }
+]
