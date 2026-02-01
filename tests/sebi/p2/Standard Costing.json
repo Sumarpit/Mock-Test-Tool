@@ -1,0 +1,242 @@
+[
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "Calculate the Material Price Variance if: Standard Price (SP) = ₹20/kg; Actual Price (AP) = ₹22/kg; Actual Quantity (AQ) = 1,000 kg.",
+    "options": [
+      "₹2,000 (Favorable)",
+      "₹2,000 (Adverse)",
+      "₹20,000 (Adverse)",
+      "₹2,200 (Adverse)",
+      "₹0"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹2,000 (Adverse)</b><br><br><b>Formula:</b> Material Price Variance = (Standard Price - Actual Price) × Actual Quantity.<br>MPV = (20 - 22) × 1,000 = -2 × 1,000 = <b>₹2,000 (Adverse)</b>.<br><i>Logic:</i> We paid more than the standard, so it is a loss (Adverse).",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "If Material Cost Variance is ₹500 (Adverse) and Material Price Variance is ₹200 (Favorable), calculate the Material Usage Variance.",
+    "options": [
+      "₹300 (Adverse)",
+      "₹700 (Adverse)",
+      "₹300 (Favorable)",
+      "₹700 (Favorable)",
+      "₹500 (Favorable)"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹700 (Adverse)</b><br><br><b>Relationship:</b> Material Cost Variance = Price Variance + Usage Variance.<br>-500 (A) = +200 (F) + Usage Variance.<br>Usage Variance = -500 - 200 = <b>-700 (Adverse)</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "Calculate the Labor Efficiency Variance if: Standard Hours for Actual Output = 500 hours; Actual Hours Worked = 550 hours; Standard Rate = ₹10/hr.",
+    "options": [
+      "₹500 (Favorable)",
+      "₹500 (Adverse)",
+      "₹550 (Adverse)",
+      "₹50 (Adverse)",
+      "₹5,000 (Adverse)"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹500 (Adverse)</b><br><br><b>Formula:</b> Labor Efficiency Variance = (Standard Hours - Actual Hours) × Standard Rate.<br>LEV = (500 - 550) × 10 = -50 × 10 = <b>₹500 (Adverse)</b>.<br><i>Logic:</i> Workers took more time than allowed, leading to a loss.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "Who is primarily responsible for an Adverse Material Price Variance?",
+    "options": [
+      "Production Manager",
+      "Purchase Manager",
+      "Sales Manager",
+      "Human Resource Manager",
+      "Finance Manager"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Purchase Manager</b><br><br><b>Logic:</b> The Purchase Manager is responsible for procuring materials. If the price paid is higher than the standard (Price Variance), they are accountable, unless it was due to external market fluctuations beyond control.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "Calculate Labor Idle Time Variance if: Idle Time = 20 hours; Standard Rate = ₹50/hr.",
+    "options": [
+      "₹1,000 (Favorable)",
+      "₹1,000 (Adverse)",
+      "₹500 (Adverse)",
+      "₹2,000 (Adverse)",
+      "Zero"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹1,000 (Adverse)</b><br><br><b>Formula:</b> Idle Time Variance = Idle Hours × Standard Rate.<br>Variance = 20 × 50 = <b>₹1,000 (Adverse)</b>.<br><i>Note:</i> Idle Time Variance is <b>ALWAYS Adverse</b> because it represents a pure loss where wages are paid for zero production.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "Which of the following describes a 'Favorable' Variance?",
+    "options": [
+      "Actual Cost > Standard Cost",
+      "Actual Cost < Standard Cost",
+      "Actual Profit < Budgeted Profit",
+      "Standard Price < Actual Price",
+      "Standard Quantity < Actual Quantity"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Actual Cost < Standard Cost</b><br><br><b>Logic:</b> A variance is 'Favorable' (F) when the actual cost incurred is <b>less</b> than the standard cost allowed. This increases the profit.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "Given: Standard Quantity per unit = 5 kg. Actual Production = 100 units. Actual Quantity used = 520 kg. Standard Price = ₹10/kg. Calculate Material Usage Variance.",
+    "options": [
+      "₹200 (Favorable)",
+      "₹200 (Adverse)",
+      "₹20 (Adverse)",
+      "₹500 (Adverse)",
+      "₹100 (Adverse)"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹200 (Adverse)</b><br><br>1. <b>Standard Quantity (SQ) for Actual Output:</b> 100 units × 5 kg = 500 kg.<br>2. <b>Formula:</b> (SQ - AQ) × SP.<br>3. <b>Calc:</b> (500 - 520) × 10 = -20 × 10 = <b>₹200 (Adverse)</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "Labor Rate Variance is calculated as:",
+    "options": [
+      "(Standard Rate - Actual Rate) × Standard Hours",
+      "(Standard Rate - Actual Rate) × Actual Hours Paid",
+      "(Standard Hours - Actual Hours) × Standard Rate",
+      "(Standard Cost - Actual Cost)",
+      "(Standard Rate - Actual Rate) × Standard Output"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: (Standard Rate - Actual Rate) × Actual Hours Paid</b><br><br><b>Logic:</b> The Rate Variance isolates the price difference of labor. We multiply the difference in rates by the <b>Actual Hours Paid</b> to see the total financial impact of the rate change.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "Material Mix Variance arises due to a change in:",
+    "options": [
+      "The price of materials",
+      "The total quantity of materials used",
+      "The composition (ratio) of materials in a mixture",
+      "The quality of output produced",
+      "The supplier of materials"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: The composition (ratio) of materials in a mixture</b><br><br><b>Logic:</b> Mix Variance measures the cost impact of using a different ratio of inputs (e.g., using more of an expensive Material A and less of cheaper Material B) than the standard ratio.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "Calculate Material Cost Variance if: SQ = 100 kg, SP = ₹5; AQ = 110 kg, AP = ₹6.",
+    "options": [
+      "₹160 (Favorable)",
+      "₹160 (Adverse)",
+      "₹110 (Adverse)",
+      "₹50 (Adverse)",
+      "₹60 (Adverse)"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹160 (Adverse)</b><br><br><b>Formula:</b> Standard Cost - Actual Cost.<br>Standard Cost = SQ × SP = 100 × 5 = ₹500.<br>Actual Cost = AQ × AP = 110 × 6 = ₹660.<br>MCV = 500 - 660 = <b>-₹160 (Adverse)</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "If Fixed Overhead Expenditure Variance is ₹2,000 (A) and Volume Variance is ₹5,000 (F), what is the Total Fixed Overhead Cost Variance?",
+    "options": [
+      "₹7,000 (Favorable)",
+      "₹3,000 (Favorable)",
+      "₹3,000 (Adverse)",
+      "₹7,000 (Adverse)",
+      "₹2,500 (Favorable)"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹3,000 (Favorable)</b><br><br><b>Formula:</b> Total FOH Variance = Expenditure Variance + Volume Variance.<br>Total = -2,000 (A) + 5,000 (F) = <b>+3,000 (Favorable)</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "Which variance is calculated based on 'Days' (Working Days)?",
+    "options": [
+      "Material Usage Variance",
+      "Labor Efficiency Variance",
+      "Calendar Variance",
+      "Fixed Overhead Expenditure Variance",
+      "Variable Overhead Efficiency Variance"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Calendar Variance</b><br><br><b>Logic:</b> Calendar Variance is a sub-part of Volume Variance. It arises when the Actual Number of Working Days differs from the Budgeted Number of Working Days. It applies to Fixed Overheads.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "A company budgeted for 5,000 units but produced 6,000 units. The Standard Fixed Overhead Rate is ₹10/unit. Budgeted Fixed Overheads were ₹50,000. Calculate Fixed Overhead Volume Variance.",
+    "options": [
+      "₹10,000 (Adverse)",
+      "₹10,000 (Favorable)",
+      "₹5,000 (Favorable)",
+      "₹0",
+      "₹20,000 (Favorable)"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹10,000 (Favorable)</b><br><br><b>Formula:</b> (Actual Output - Budgeted Output) × Standard Rate.<br>Variance = (6,000 - 5,000) × 10 = 1,000 × 10 = <b>₹10,000 (Favorable)</b>.<br><i>Logic:</i> Producing more than budgeted volume allows better absorption of fixed costs.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "Calculate Revised Standard Quantity (RSQ) for Material A if: Standard Ratio is 60:40 (A:B) and Total Actual Quantity of Mix is 1,000 kg.",
+    "options": [
+      "500 kg",
+      "400 kg",
+      "600 kg",
+      "1,000 kg",
+      "666 kg"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 600 kg</b><br><br><b>Formula:</b> RSQ = (Standard Ratio / Total Standard Ratio) × Total Actual Quantity.<br>RSQ for A = (60/100) × 1,000 = <b>600 kg</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Costing (Standard Costing)",
+    "question": "If Actual Hours Worked < Actual Hours Paid, the difference represents:",
+    "options": [
+      "Efficiency Variance",
+      "Rate Variance",
+      "Idle Time",
+      "Overtime",
+      "Calendar Variance"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Idle Time</b><br><br><b>Logic:</b> The difference between hours paid for (Attendance hours) and hours actually worked on the job is <b>Idle Time</b> (e.g., lunch breaks, machine breakdown). The cost of this difference is the Idle Time Variance.",
+    "marks": 1.0,
+    "negative": 0.25
+  }
+]

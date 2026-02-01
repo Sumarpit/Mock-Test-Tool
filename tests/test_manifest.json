@@ -81,6 +81,8 @@
 ,
 {"name": "Marginal costing", "filename": "Marginal costing.json", "path": "tests/sebi/p2/Marginal costing.json"}
 ,
+{"name": "Standard Costing", "filename": "Standard Costing.json", "path": "tests/sebi/p2/Standard Costing.json"}
+,
 {"name": "dummy", "filename": "dummy.json", "path": "tests/ssc/dummy.json"}
 ,
 {"name": "SFG 1", "filename": "SFG 1.json", "path": "tests/upsc/SFG 1.json"}
