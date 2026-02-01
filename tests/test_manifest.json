@@ -73,6 +73,8 @@
 ,
 {"name": "Survey Budget", "filename": "Survey Budget.json", "path": "tests/sebi/Survey Budget.json"}
 ,
+{"name": "AS10", "filename": "AS10.json", "path": "tests/sebi/p2/AS10.json"}
+,
 {"name": "AS2 inventory", "filename": "AS2 inventory.json", "path": "tests/sebi/p2/AS2 inventory.json"}
 ,
 {"name": "AS3 Cashflow 2", "filename": "AS3 Cashflow 2.json", "path": "tests/sebi/p2/AS3 Cashflow 2.json"}
