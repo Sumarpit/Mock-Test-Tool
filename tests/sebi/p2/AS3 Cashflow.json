@@ -1,0 +1,98 @@
+[
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "<b>(Logic Check: Working Capital)</b><br>While calculating 'Cash Flow from Operating Activities' under the Indirect Method, how is an <b>Increase in Trade Receivables</b> treated?",
+    "options": [
+      "Added to Net Profit",
+      "Deducted from Net Profit",
+      "Added to Financing Activities",
+      "Ignored as it is a non-cash item",
+      "Deducted from Investing Activities"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Deducted from Net Profit</b><br><br><b>Logic:</b> An increase in Current Assets (like Trade Receivables) means cash is tied up in assets and has not been realized. Therefore, it represents an <b>outflow</b> relative to the accrual-based profit, so it is <b>deducted</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "<b>(Non-Operating Filter)</b><br>Which of the following items is <b>ADDED BACK</b> to Net Profit Before Tax to arrive at Operating Profit before Working Capital Changes?",
+    "options": [
+      "Profit on Sale of Machinery",
+      "Interest Income received",
+      "Dividend Income received",
+      "Depreciation and Amortization",
+      "Decrease in Creditors"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Depreciation and Amortization</b><br><br><b>Logic:</b> Depreciation is a <b>non-cash expense</b> that was deducted to find Net Profit. To find the actual Cash Operating Profit, we must <b>add it back</b>. <br><i>Note: Profit on sale, Interest Income, and Dividend Income are deducted because they are non-operating/investing incomes.</i>",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "<b>(Sum 1: Operating Calculation)</b><br>Given: Net Profit Before Tax: ₹50,000. Adjustments:<br>• Depreciation: ₹10,000<br>• Increase in Debtors: ₹5,000<br>• Increase in Creditors: ₹3,00,000<br>Calculate Cash Flow from Operating Activities.",
+    "options": [
+      "₹58,000",
+      "₹52,000",
+      "₹63,000",
+      "₹68,000",
+      "₹55,000"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: ₹58,000</b><br><br>1. <b>Net Profit:</b> ₹50,000<br>2. <b>Add Non-Cash:</b> Depreciation (+ ₹10,000) = ₹60,000 (Op Profit).<br>3. <b>WC Adjustments:</b><br>   • Increase in Debtors (Asset ↑): Deduct ₹5,000.<br>   • Increase in Creditors (Liability ↑): Add ₹3,000.<br>4. <b>Total:</b> 60,000 - 5,000 + 3,000 = <b>₹58,000</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "<b>(Sum 2: Hidden Ledger)</b><br>Plant Account Opening Balance: ₹1,00,000; Closing Balance: ₹1,50,000. Depreciation charged during the year: ₹20,000. No assets were sold. What is the amount of <b>Purchase of Plant</b> (Investing Outflow)?",
+    "options": [
+      "₹30,000",
+      "₹50,000",
+      "₹70,000",
+      "₹20,000",
+      "₹80,000"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: ₹70,000</b><br><br><b>Asset Ledger Logic (At WDV):</b><br>Opening Bal + Purchases - Depreciation = Closing Bal<br>₹1,00,000 + Purchases - ₹20,000 = ₹1,50,000<br>Purchases = 1,50,000 - 80,000 = <b>₹70,000</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "<b>(Sum 3: Dividend Rule)</b><br>For the year ended 31st March 2025, Proposed Dividend for 2024 (Previous Year) was ₹20,000 and Proposed Dividend for 2025 (Current Year) is ₹25,000. How is this treated in the Cash Flow Statement for 2025?",
+    "options": [
+      "Add ₹25,000 to Net Profit; Deduct ₹25,000 in Financing.",
+      "Add ₹20,000 to Net Profit; Deduct ₹20,000 in Financing.",
+      "Add ₹20,000 to Net Profit; Deduct ₹25,000 in Financing.",
+      "Ignore both amounts.",
+      "Add ₹45,000 to Net Profit."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Add ₹20,000 to Net Profit; Deduct ₹20,000 in Financing.</b><br><br><b>Rule (AS-4):</b> Proposed Dividend of the <b>Current Year</b> (₹25,000) is a contingent liability and is <b>ignored</b>.<br>Proposed Dividend of the <b>Previous Year</b> (₹20,000) is declared and paid this year. Hence, it is added to Net Profit (Appropriation) and shown as an outflow in Financing.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Cash Flow (AS-3)",
+    "question": "<b>(Sum 3: Tax Provision)</b><br>Provision for Tax Opening Bal: ₹50,000; Closing Bal: ₹70,000. Tax Paid during the year: ₹40,000. Calculate the 'Provision for Tax Made' to be added to Net Profit.",
+    "options": [
+      "₹20,000",
+      "₹60,000",
+      "₹40,000",
+      "₹90,000",
+      "₹70,000"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹60,000</b><br><br><b>Provision Account Logic:</b><br>Opening Bal + Provision Made - Tax Paid = Closing Bal<br>₹50,000 + Provision Made - ₹40,000 = ₹70,000<br>Provision Made = 70,000 + 40,000 - 50,000 = <b>₹60,000</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  }
+]
