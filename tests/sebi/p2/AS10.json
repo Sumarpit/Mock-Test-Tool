@@ -1,0 +1,242 @@
+[
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "Which of the following biological assets is strictly EXCLUDED from the scope of AS 10 (PPE) and must be treated as Inventory?",
+    "options": [
+      "Tea bushes in a plantation",
+      "Grape vines in a vineyard",
+      "Rubber trees in a plantation",
+      "Maize crops ready for harvest",
+      "Mango trees in an orchard"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Maize crops ready for harvest</b><br><br><b>System Logic:</b> AS 10 applies to <b>Bearer Plants</b> (Tea, Grape, Rubber, Mango) because they satisfy the PPE definition (production of produce, >12 months). However, it explicitly excludes <b>Annual Crops</b> (Maize, Wheat) which are cultivated to be harvested as agricultural produce,,.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "A company installs a new machine. Which of the following costs is a System Defect if capitalized into the carrying amount of the asset?",
+    "options": [
+      "Cost of site preparation",
+      "Professional fees of architects",
+      "Initial delivery and handling costs",
+      "Costs of staff training to operate the machine",
+      "Installation and assembly costs"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Costs of staff training</b><br><br><b>The Trap:</b> Thinking training is necessary for operation.<br><b>Brutal Fact:</b> Training enhances the human resource, not the asset's capability. AS 10 explicitly lists 'Costs of conducting business... including staff training' as an <b>Expense (P&L)</b>,.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "Entity X incurs ₹50,000 on a trial run. The samples produced during testing were sold for ₹5,000. How is this processed in the Cost Stack?",
+    "options": [
+      "Debit PPE ₹50,000; Credit Revenue ₹5,000",
+      "Debit PPE ₹50,000; Credit Miscellaneous Income ₹5,000",
+      "Debit PPE ₹45,000 (Net Capitalization)",
+      "Debit P&L ₹45,000 (Expense)",
+      "Debit PPE ₹55,000"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Debit PPE ₹45,000 (Net Capitalization)</b><br><br><b>System Logic:</b> Costs of testing are directly attributable. The standard mandates that net proceeds from selling items produced during testing must be <b>Deducted from the Cost</b> of the asset. You do NOT book revenue.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "An asset costing ₹100 was previously revalued down to ₹80 (Loss of ₹20 charged to P&L). In the current year, its Fair Value rises to ₹110. How is the ₹30 gain allocated?",
+    "options": [
+      "₹30 to Revaluation Surplus",
+      "₹30 to Profit & Loss A/c",
+      "₹20 to Revaluation Surplus; ₹10 to P&L",
+      "₹20 to P&L; ₹10 to Revaluation Surplus",
+      "₹15 to P&L; ₹15 to Revaluation Surplus"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: ₹20 to P&L; ₹10 to Revaluation Surplus</b><br><br><b>The Logic Gate:</b> The system has 'Memory'. You must first <b>Reverse the Previous Loss</b> charged to P&L (₹20). Only the <b>Excess</b> gain (₹10) is credited to the Revaluation Surplus (Equity).",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "Machine A is ready for use on Nov 1. Management waits and starts active production on Mar 1. When does the Depreciation algorithm initiate?",
+    "options": [
+      "March 1 (Active Use)",
+      "April 1 (Next Financial Year)",
+      "November 1 (Available for Use)",
+      "January 1 (Calendar Year)",
+      "Date of Invoice"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: November 1</b><br><br><b>The Trap:</b> Confusing 'Usage' with 'Availability'.<br><b>Brutal Fact:</b> Depreciation starts when the asset is in the location and condition necessary to be <b>Capable of Operating</b> (Available for Use). Management delay is irrelevant,.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "An airline performs a mandatory 'Major Inspection' on an aircraft every 3 years. How is the cost of a new inspection treated if the cost of the previous inspection is unknown?",
+    "options": [
+      "Expense to P&L as Repairs",
+      "Capitalize new cost; Do not derecognize old cost",
+      "Capitalize new cost; Derecognize estimated carrying amount of old inspection",
+      "Capitalize only if it extends useful life",
+      "Expense 50%; Capitalize 50%"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Capitalize new cost; Derecognize estimated carrying amount of old inspection</b><br><br><b>System Constraint:</b> AS 10 mandates that Major Inspections are capitalized. Crucially, any remaining carrying amount of the <b>Previous Inspection</b> must be derecognized. If unknown, use the current cost as a proxy to estimate the old value,.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "A company changes its depreciation method from SLM to WDV. Under AS 10 and AS 5, this is classified as:",
+    "options": [
+      "Change in Accounting Policy (Retrospective)",
+      "Change in Accounting Estimate (Prospective)",
+      "Fundamental Error Correction",
+      "Extraordinary Item",
+      "Prior Period Item"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Change in Accounting Estimate (Prospective)</b><br><br><b>The Trap:</b> Calling it a Policy change.<br><b>Brutal Fact:</b> Changes in Depreciation Method, Useful Life, or Residual Value are <b>Estimates</b>. You do not restate past years. You apply the new logic to the current carrying amount for future periods,.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "Asset A (Book Value ₹100, Fair Value ₹150) is exchanged for Asset B. The transaction lacks commercial substance. At what value is Asset B recorded?",
+    "options": [
+      "₹150 (FV of Asset Given)",
+      "₹100 (Book Value of Asset Given)",
+      "Fair Value of Asset B",
+      "Lower of FV or Book Value",
+      "Higher of FV or Book Value"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹100 (Book Value of Asset Given)</b><br><br><b>Logic Gate:</b> If the transaction <b>Lacks Commercial Substance</b> (cash flows don't change), the system ignores Fair Value. The new asset takes the <b>Book Value</b> of the old asset. No gain/loss is booked,.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "A furnace (Cost ₹10Cr) has a lining (Cost ₹2Cr, Life 5 years) and the main body (Cost ₹8Cr, Life 20 years). How must depreciation be calculated?",
+    "options": [
+      "Composite rate on ₹10Cr over 20 years",
+      "Composite rate on ₹10Cr over 12.5 years (Average)",
+      "Depreciate ₹2Cr over 5 years and ₹8Cr over 20 years separately",
+      "Charge ₹2Cr to P&L immediately; Depreciate ₹8Cr",
+      "Depreciate ₹10Cr over 5 years (Conservatism)"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Depreciate ₹2Cr over 5 years and ₹8Cr over 20 years separately</b><br><br><b>System Rule:</b> Component Accounting is <b>Mandatory</b> when significant parts have different useful lives. Blended rates are prohibited,.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "For a class of assets experiencing significant and volatile changes in fair value, AS 10 mandates revaluation:",
+    "options": [
+      "Every 3 to 5 years",
+      "Annually",
+      "Every 10 years",
+      "Only upon disposal",
+      "Whenever management decides"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Annually</b><br><br><b>System Limit:</b> Volatile assets = <b>Annual</b> Revaluation. Assets with insignificant movements = <b>3 to 5 years</b>. The goal is to keep Carrying Amount close to Fair Value at the balance sheet date.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "The initial estimate of the costs of dismantling and restoring the site (Decommissioning) must be:",
+    "options": [
+      "Expensed to P&L immediately",
+      "Included in the Cost of the Asset",
+      "Treated as a Contingent Liability",
+      "Ignored until the cost is actually incurred",
+      "Deducted from the Asset Cost"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Included in the Cost of the Asset</b><br><br><b>The Formula:</b> Cost = Purchase Price + Attributable Costs + <b>Decommissioning Provision</b>. This obligation is incurred at the start, so it is capitalized and depreciated over the asset's life,.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "Under AS 10 Revised, spare parts are recognized as PPE if:",
+    "options": [
+      "They are held for resale",
+      "They meet the definition of PPE (Used > 12 months)",
+      "Their value is material",
+      "They are used only in connection with a specific asset",
+      "They are consumable in nature"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: They meet the definition of PPE (Used > 12 months)</b><br><br><b>Forensics:</b> Old standard distinguished between 'standby/spares'. Revised AS 10 has a single logic gate: If it meets the PPE definition (tangible, use > 12m), it is PPE. If not, it is <b>Inventory (AS 2)</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "An asset is purchased for ₹120 Lakhs on deferred credit (normal cash price is ₹100 Lakhs). If not capitalized under AS 16, how is the ₹20 Lakh difference treated?",
+    "options": [
+      "Capitalized as PPE Cost",
+      "Recognized as Interest Expense over the credit period",
+      "Recognized as Interest Expense immediately",
+      "Deducted from Reserves",
+      "Treated as Trade Discount"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Recognized as Interest Expense over the credit period</b><br><br><b>System Logic:</b> The asset is recorded at the <b>Cash Price Equivalent</b> (₹100L). The excess (₹20L) is interest financing cost, expensed over time, unless it qualifies as a 'Qualifying Asset' under AS 16.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "An item of PPE is retired from active use and held for disposal. It must be carried in the Balance Sheet at:",
+    "options": [
+      "Historical Cost",
+      "Fair Value",
+      "Lower of Carrying Amount and Net Realizable Value",
+      "Higher of Carrying Amount and Net Realizable Value",
+      "Replacement Cost"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Lower of Carrying Amount and Net Realizable Value</b><br><br><b>System Constraint:</b> Once retired/held for sale, depreciation stops. The asset is treated like inventory: valued at the lower of Book Value or what you can sell it for (NRV). Any write-down is an immediate loss.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "AS 10 Property, Plant and Equipment",
+    "question": "Under AS 10, the term 'Administrative Purposes' is used in a wider sense to include:",
+    "options": [
+      "Only Head Office operations",
+      "Selling and Distribution functions",
+      "Only Factory Administration",
+      "Only Finance and HR functions",
+      "Charitable activities"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Selling and Distribution functions</b><br><br><b>Technical Definition:</b> AS 10 defines PPE as assets held for production, rental, or <i>administrative purposes</i>. The text clarifies that 'Administrative' includes <b>Selling, Distribution, Finance, and Personnel</b> functions.",
+    "marks": 2.0,
+    "negative": 0.5
+  }
+]
