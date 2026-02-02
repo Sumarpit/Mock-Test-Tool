@@ -85,6 +85,8 @@
 ,
 {"name": "Marginal costing", "filename": "Marginal costing.json", "path": "tests/sebi/p2/Marginal costing.json"}
 ,
+{"name": "National Income Economics", "filename": "National Income Economics.json", "path": "tests/sebi/p2/National Income Economics.json"}
+,
 {"name": "Standard Costing", "filename": "Standard Costing.json", "path": "tests/sebi/p2/Standard Costing.json"}
 ,
 {"name": "dummy", "filename": "dummy.json", "path": "tests/ssc/dummy.json"}

@@ -1,0 +1,242 @@
+[
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "If Nominal GDP is ₹6,600 crore and Real GDP is ₹6,000 crore, calculate the GDP Deflator.",
+    "options": [
+      "110",
+      "90.9",
+      "106",
+      "100",
+      "115"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 110</b><br><br><b>Formula:</b> GDP Deflator = (Nominal GDP / Real GDP) × 100<br>Calculation: (6,600 / 6,000) × 100 = 1.1 × 100 = <b>110</b>.<br><i>Interpretation:</i> Prices have risen by 10% since the base year.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "Given: GDP Deflator = 120; Nominal GDP = ₹3,000 crore. Calculate Real GDP.",
+    "options": [
+      "₹3,600 crore",
+      "₹2,500 crore",
+      "₹2,400 crore",
+      "₹2,800 crore",
+      "₹3,200 crore"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹2,500 crore</b><br><br><b>Formula:</b> Real GDP = (Nominal GDP / GDP Deflator) × 100<br>Calculation: (3,000 / 120) × 100 = 25 × 100 = <b>₹2,500 crore</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "If Real GDP is ₹500 crore and the Price Index (GDP Deflator) is 150, what is the Nominal GDP?",
+    "options": [
+      "₹333 crore",
+      "₹650 crore",
+      "₹750 crore",
+      "₹7,500 crore",
+      "₹450 crore"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: ₹750 crore</b><br><br><b>Formula:</b> Nominal GDP = (Real GDP × GDP Deflator) / 100<br>Calculation: (500 × 150) / 100 = 500 × 1.5 = <b>₹750 crore</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "The GDP Deflator increased from 110 in Year 1 to 121 in Year 2. What is the inflation rate measured by the GDP Deflator?",
+    "options": [
+      "11%",
+      "10%",
+      "21%",
+      "9%",
+      "15%"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 10%</b><br><br><b>Formula:</b> [(Deflator Y2 - Deflator Y1) / Deflator Y1] × 100<br>Calculation: [(121 - 110) / 110] × 100 = (11 / 110) × 100 = 0.10 × 100 = <b>10%</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "If Nominal GDP grows by 15% and the rate of inflation (GDP Deflator change) is 5%, what is the approximate growth rate of Real GDP?",
+    "options": [
+      "20%",
+      "10%",
+      "75%",
+      "3%",
+      "12%"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 10%</b><br><br><b>Concept:</b> Nominal Growth ≈ Real Growth + Inflation.<br>Therefore: Real Growth ≈ Nominal Growth - Inflation<br>Calculation: 15% - 5% = <b>10%</b>.<br><i>(This is an approximation often used in MCQs).</i>",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "Calculate GNP at Market Price (GNP MP) if: GDP MP = ₹10,000; Income from Abroad = ₹500; Income paid to Abroad = ₹700.",
+    "options": [
+      "₹10,200",
+      "₹9,800",
+      "₹11,200",
+      "₹9,500",
+      "₹10,000"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹9,800</b><br><br><b>Formula:</b> GNP = GDP + Net Factor Income from Abroad (NFIA)<br>NFIA = Income from Abroad - Income to Abroad = 500 - 700 = <b>-200</b>.<br>GNP MP = 10,000 + (-200) = <b>₹9,800</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "Nominal GDP = ₹2,200; GDP Deflator = 110; Depreciation = ₹100; Net Indirect Taxes = ₹200; NFIA = ₹0. Calculate <b>Real NNP at Factor Cost</b>.",
+    "options": [
+      "₹1,900",
+      "₹1,700",
+      "₹2,100",
+      "₹1,800",
+      "₹2,000"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹1,700</b><br><br><b>Step 1 (Find Real GDP):</b> (2,200 / 110) × 100 = ₹2,000.<br><b>Step 2 (Real GDP → Real NDP):</b> Real GDP - Depreciation = 2,000 - 100 = 1,900.<br><b>Step 3 (Real NDP → Real NNP):</b> NDP + NFIA (0) = 1,900.<br><b>Step 4 (Market Price → Factor Cost):</b> NNP MP - Net Indirect Taxes = 1,900 - 200 = <b>₹1,700</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "If the Value of Output is ₹1,000 and Intermediate Consumption is ₹400, what is the Gross Value Added (GVA)?",
+    "options": [
+      "₹1,400",
+      "₹600",
+      "₹1,000",
+      "₹400",
+      "₹2.5 (Ratio)"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹600</b><br><br><b>Formula:</b> GVA = Value of Output - Intermediate Consumption.<br>Calculation: 1,000 - 400 = <b>₹600</b>.<br><i>Note: GVA at Market Prices is equivalent to GDP MP.</i>",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "Which of the following is NOT included in the calculation of National Income?",
+    "options": [
+      "Wages earned by a teacher",
+      "Rent received from property",
+      "Windfall gains from lottery",
+      "Interest on capital",
+      "Profits of a firm"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Windfall gains from lottery</b><br><br><b>Logic:</b> National Income measures the value of goods and services produced. Windfall gains (lottery, betting) are <b>transfer payments</b> or gains without corresponding productive activity, so they are excluded.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "If Real GDP doubled in 10 years but the population also doubled, what happened to Real Per Capita GDP?",
+    "options": [
+      "It doubled",
+      "It increased by 50%",
+      "It remained constant",
+      "It decreased",
+      "Cannot be determined"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: It remained constant</b><br><br><b>Formula:</b> Per Capita GDP = Total GDP / Population.<br>If the numerator (GDP) doubles and the denominator (Population) doubles, the ratio remains <b>unchanged</b>. The standard of living (on average) has not improved.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "A firm produces goods worth ₹500. It purchased raw materials worth ₹200 and electricity worth ₹50. The machinery depreciated by ₹20. Calculate Net Value Added at Market Price (NVA MP).",
+    "options": [
+      "₹250",
+      "₹230",
+      "₹300",
+      "₹280",
+      "₹200"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹230</b><br><br><b>Step 1 (GVA MP):</b> Output - Intermediate Consumption (Raw Material + Electricity) = 500 - (200 + 50) = 250.<br><b>Step 2 (NVA MP):</b> GVA MP - Depreciation = 250 - 20 = <b>₹230</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "Real GDP is calculated using the prices of:",
+    "options": [
+      "Current Year",
+      "Base Year",
+      "Average of last 5 years",
+      "Future estimated year",
+      "Previous Year only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Base Year</b><br><br><b>Definition:</b> Real GDP is the value of current output valued at <b>constant (Base Year) prices</b>. This removes the effect of inflation to show true volume growth.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "If GDP Deflator is 80, what does it imply?",
+    "options": [
+      "Inflation is 20%",
+      "Prices have increased by 80%",
+      "Prices have decreased by 20% compared to base year (Deflation)",
+      "Real GDP is lower than Nominal GDP",
+      "Economy is in hyperinflation"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Prices have decreased by 20% compared to base year (Deflation)</b><br><br><b>Logic:</b> Base Year Deflator is always 100. If Current Deflator is 80, it means prices are 80% of what they used to be. <br>Decrease = 100 - 80 = 20%. This indicates <b>Deflation</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "Given: NNP at Market Price = ₹1,500; Indirect Taxes = ₹200; Subsidies = ₹50. Calculate NNP at Factor Cost (National Income).",
+    "options": [
+      "₹1,350",
+      "₹1,650",
+      "₹1,250",
+      "₹1,300",
+      "₹1,750"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: ₹1,350</b><br><br><b>Formula:</b> NNP FC = NNP MP - Net Indirect Taxes (NIT).<br>NIT = Indirect Taxes - Subsidies = 200 - 50 = 150.<br>NNP FC = 1,500 - 150 = <b>₹1,350</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Economics (National Income)",
+    "question": "If Nominal GDP is ₹11,000 and GDP Deflator is 110, calculate the value of Real GDP.",
+    "options": [
+      "₹10,000",
+      "₹12,100",
+      "₹100",
+      "₹11,000",
+      "₹9,090"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: ₹10,000</b><br><br><b>Formula:</b> Real GDP = (Nominal / Deflator) × 100<br>(11,000 / 110) × 100 = 100 × 100 = <b>₹10,000</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  }
+]
