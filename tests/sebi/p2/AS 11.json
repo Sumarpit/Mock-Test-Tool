@@ -1,0 +1,242 @@
+[
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "A company purchased Inventory for $10,000 when the exchange rate was ₹80/$. At the year-end (31st March), the closing rate is ₹82/$. The Net Realizable Value (NRV) of the inventory in the domestic market remains higher than cost. At what value should the Inventory be recorded in the Balance Sheet?",
+    "options": [
+      "₹8,20,000 (Closing Rate)",
+      "₹8,00,000 (Historical Rate)",
+      "₹8,10,000 (Average Rate)",
+      "₹20,000 (Exchange Gain)",
+      "₹8,00,000 plus amortized difference"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹8,00,000 (Historical Rate)</b><br><br><b>Logic:</b> Inventory is a <b>Non-Monetary Item</b>. Under AS-11, non-monetary items are carried at the <b>Historical Rate</b> (Exchange rate on the date of transaction). They are NOT restated at the closing rate unless the NRV falls below cost.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "Which of the following is classified as a <b>Monetary Item</b> under AS-11?",
+    "options": [
+      "Property, Plant and Equipment",
+      "Inventories",
+      "Trade Receivables",
+      "Equity Shares held as Investment",
+      "Intangible Assets"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Trade Receivables</b><br><br><b>Definition:</b> Monetary items are money held and assets/liabilities to be received or paid in <b>fixed or determinable amounts of money</b>. Receivables meet this definition. The others are Non-Monetary.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "<b>(Forward Contract - Hedging)</b><br>On 1st Jan, Company A took a 3-month forward contract to sell $1,000 at ₹84/$. Spot Rate on 1st Jan was ₹82/$. How is the premium of ₹2 per dollar treated?",
+    "options": [
+      "Recognized as Income immediately on 1st Jan",
+      "Recognized as Expense immediately on 1st Jan",
+      "Amortized as Income over the life of the contract (3 months)",
+      "Amortized as Expense over the life of the contract (3 months)",
+      "Ignored until settlement"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Amortized as Income over the life of the contract</b><br><br><b>Logic:</b> Since the contract is for <b>Hedging</b> (existing asset/liability implied or non-speculative), the Premium (Forward Rate - Spot Rate) is amortized over the contract period. Here, selling at ₹84 when Spot is ₹82 is a <b>Gain (Income)</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "<b>(Forward Contract - Speculation)</b><br>A company enters into a forward contract for <b>trading purposes</b> (speculation). Spot Rate: ₹80, Forward Rate: ₹82. At year-end, the Forward Rate for the remaining maturity becomes ₹81. What is the accounting treatment?",
+    "options": [
+      "Amortize the premium of ₹2",
+      "Recognize Loss of ₹1 based on Mark-to-Market (MTM)",
+      "Recognize Profit of ₹1 based on MTM",
+      "No entry until settlement",
+      "Record at Historical Cost"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Recognize Loss of ₹1 based on Mark-to-Market (MTM)</b><br><br><b>Logic:</b> For speculative contracts, premium/discount is IGNORED. You value the contract at the <b>current forward rate</b> at the reporting date. Value dropped from ₹82 (Contracted) to ₹81 (Current Market). Loss = ₹1.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "In the case of a <b>Non-Integral Foreign Operation</b> (NFO), how are Income and Expense items translated?",
+    "options": [
+      "At Closing Rate",
+      "At Opening Rate",
+      "At Average Rate",
+      "At Historical Rate",
+      "At Highest Rate of the year"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: At Average Rate</b><br><br><b>Rule:</b> For Non-Integral Operations, the Balance Sheet items are translated at the Closing Rate, but Income and Expenses are translated at the <b>Average Rate</b> for the period (approximating the actual dates).",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "Where is the exchange difference arising on the translation of financial statements of a <b>Non-Integral Foreign Operation</b> accumulated?",
+    "options": [
+      "Profit and Loss Account",
+      "Foreign Currency Translation Reserve (FCTR)",
+      "Capital Reserve",
+      "General Reserve",
+      "Suspense Account"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Foreign Currency Translation Reserve (FCTR)</b><br><br><b>Logic:</b> Since the NFO operates independently, the exchange difference is not a realized gain/loss for the parent yet. It goes to <b>FCTR</b> (a Reserve) and is transferred to P&L only when the NFO is disposed of.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "A company has a Foreign Branch which acts as an extension of the Head Office (Integral Operation). At what rate should the <b>Fixed Assets</b> of the branch be translated?",
+    "options": [
+      "Closing Rate",
+      "Average Rate",
+      "Historical Rate (Date of Purchase)",
+      "Opening Rate",
+      "Fair Value Rate"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Historical Rate (Date of Purchase)</b><br><br><b>Logic:</b> For an <b>Integral Operation</b>, the translation follows the rules of the parent itself. Non-monetary items (like Fixed Assets) are translated at the <b>Historical Rate</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "<b>(Numerical)</b><br>On 1st March, A Ltd. bought goods for $10,000 on credit (Spot Rate ₹70/$). On 31st March (Year-End), the exchange rate was ₹72/$. How much loss is recorded in P&L?",
+    "options": [
+      "₹20,000",
+      "₹10,000",
+      "₹2,000",
+      "Zero",
+      "₹2,00,000"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: ₹20,000</b><br><br><b>Calc:</b> Creditors are a <b>Monetary Item</b>. They must be restated at Closing Rate.<br>Loss = ($10,000) × (₹72 - ₹70) = $10,000 × ₹2 = <b>₹20,000</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "An unamortized balance of Forward Premium on a hedging contract, if the contract is cancelled before maturity, should be:",
+    "options": [
+      "Carried forward to the next year",
+      "Transferred to Capital Reserve",
+      "Recognized in Profit & Loss for the current period",
+      "Adjusted against the cost of the asset",
+      "Ignored"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Recognized in Profit & Loss for the current period</b><br><br><b>Rule:</b> If a forward contract is cancelled or renewed, any unamortized premium/discount and any profit/loss on cancellation must be <b>recognized in P&L immediately</b>.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "Regarding <b>Contingent Liabilities</b> denominated in foreign currency, at what rate should they be disclosed in the footnotes?",
+    "options": [
+      "Historical Rate",
+      "Closing Rate",
+      "Average Rate",
+      "Opening Rate",
+      "Not disclosed"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Closing Rate</b><br><br><b>Logic:</b> Even though they are not recorded in the books, Contingent Liabilities represent a potential future outflow. For disclosure to be true and fair, they represent the liability 'as of today', so use the <b>Closing Rate</b>.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "A foreign currency loan taken for buying a Fixed Asset (PPE) results in an exchange loss of ₹50,000. Under the core AS-11 (without Para 46A option), this loss is:",
+    "options": [
+      "Capitalized to the Asset Cost",
+      "Debited to P&L",
+      "Debited to General Reserve",
+      "Debited to FCTR",
+      "Amortized over loan tenure"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Debited to P&L</b><br><br><b>Logic:</b> The basic rule of AS-11 requires all exchange differences on monetary items (like loans) to be recognized in the <b>Profit & Loss Account</b>. (Capitalization is a special option under Para 46A/Ind AS adjustments, but P&L is the default rule).",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "Which rate is used for the initial recognition of a foreign currency transaction?",
+    "options": [
+      "Closing Rate",
+      "Average Rate",
+      "Spot Rate at the date of transaction",
+      "Forward Rate",
+      "Buying Rate"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Spot Rate at the date of transaction</b><br><br><b>Rule:</b> A foreign currency transaction should be recorded, on initial recognition, by applying to the foreign currency amount the exchange rate between the reporting currency and the foreign currency at the <b>date of the transaction</b>.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "<b>(Monetary Trap)</b><br>Is 'Share Capital' of a company denominated in foreign currency considered a monetary item?",
+    "options": [
+      "Yes, because it is money",
+      "No, because the amount to be paid is not fixed/determinable",
+      "Yes, if it is Preference Share Capital",
+      "No, unless it is Redeemable Preference Shares",
+      "It depends on the company policy"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: No, unless it is Redeemable Preference Shares</b><br><br><b>Logic:</b> Equity Share Capital is <b>Non-Monetary</b> because there is no obligation to pay a fixed amount of currency. However, <b>Redeemable</b> Preference Shares behave like Liability/Debt (fixed redemption), so they are Monetary.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "If a foreign operation is classified as 'Integral', any exchange difference on the translation of its Monetary items goes to:",
+    "options": [
+      "FCTR",
+      "Profit & Loss Account",
+      "Retained Earnings",
+      "Capital Reserve",
+      "Revaluation Reserve"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Profit & Loss Account</b><br><br><b>Logic:</b> Integral operations are treated as if the transactions happened in the Head Office. Therefore, like domestic transactions, exchange differences on monetary items flow directly to the <b>P&L</b>.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Accounting (AS-11)",
+    "question": "<b>(Calculation)</b><br>Spot Rate: ₹80. 3-Month Forward Rate: ₹83. Contract Amount: $10,000 (Hedging). The contract is for BUYING dollars. What is the total premium expense?",
+    "options": [
+      "₹30,000",
+      "₹10,000",
+      "₹3,000",
+      "Zero",
+      "₹24,000"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: ₹30,000</b><br><br><b>Calc:</b><br>Total Premium = (Forward Rate - Spot Rate) × Amount.<br>Premium = (83 - 80) × 10,000 = ₹3 × 10,000 = <b>₹30,000</b>.<br>This will be amortized over 3 months.",
+    "marks": 2.0,
+    "negative": 0.5
+  }
+]
