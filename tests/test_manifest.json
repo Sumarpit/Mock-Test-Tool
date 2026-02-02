@@ -87,6 +87,8 @@
 ,
 {"name": "National Income Economics", "filename": "National Income Economics.json", "path": "tests/sebi/p2/National Income Economics.json"}
 ,
+{"name": "Process Costing loss", "filename": "Process Costing loss.json", "path": "tests/sebi/p2/Process Costing loss.json"}
+,
 {"name": "Share Capital", "filename": "Share Capital.json", "path": "tests/sebi/p2/Share Capital.json"}
 ,
 {"name": "Standard Costing", "filename": "Standard Costing.json", "path": "tests/sebi/p2/Standard Costing.json"}
