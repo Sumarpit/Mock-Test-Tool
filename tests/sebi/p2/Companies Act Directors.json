@@ -1,0 +1,242 @@
+[
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "A Public Company having a Paid-up Share Capital of ₹100 Crore or a Turnover of ₹300 Crore must appoint at least one Woman Director. What is the time limit for appointing a Woman Director for a newly incorporated company covered under this rule?",
+    "options": [
+      "Within 3 months from incorporation",
+      "Within 6 months from incorporation",
+      "Within 1 year from incorporation",
+      "Immediately upon incorporation",
+      "By the date of the first AGM"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Within 6 months from incorporation</b><br><br><b>Rule (Section 149):</b> Every company covered under the Woman Director rule must appoint at least one woman director. For a newly incorporated company, this requirement must be fulfilled within <b>6 months</b> from the date of its incorporation. (For existing companies that newly cross the threshold, the time limit is also 6 months).",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "Mr. A is a Director in 22 companies. 12 are Public Limited Companies and 10 are Private Limited Companies (none of which are subsidiaries of public companies). Is Mr. A compliant with Section 165 regarding the maximum number of directorships?",
+    "options": [
+      "Yes, the limit is 30 companies.",
+      "No, the maximum limit is 20 companies.",
+      "Yes, because Public companies are within the limit of 15.",
+      "No, the maximum limit for Public companies is 10.",
+      "Yes, Private companies are excluded from the count."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: No, the maximum limit is 20 companies.</b><br><br><b>Rule (Section 165):</b> A person cannot be a director in more than <b>20 companies</b> at the same time. Furthermore, out of these 20, the maximum number of <b>Public Companies</b> is <b>10</b>. Since Mr. A holds 22 directorships in total and 12 in Public companies, he is in violation of both limits.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "Under Section 164(2), a director is disqualified from being re-appointed if the company fails to file financial statements or annual returns for any continuous period of:",
+    "options": [
+      "2 Financial Years",
+      "3 Financial Years",
+      "5 Financial Years",
+      "1 Financial Year",
+      "4 Financial Years"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 Financial Years</b><br><br><b>Rule (Section 164):</b> Disqualification is triggered if a company has not filed financial statements or annual returns for any continuous period of <b>3 financial years</b>. The director is disqualified for 5 years from re-appointment in that or any other company.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "ABC Ltd. has 9 Directors. How many directors are liable to retire by rotation at the AGM (assuming the Articles do not provide for the retirement of all directors)?",
+    "options": [
+      "6 Directors",
+      "3 Directors",
+      "2 Directors",
+      "9 Directors",
+      "5 Directors"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 6 Directors</b><br><br><b>Rule (Section 152):</b> Unless Articles say otherwise, not less than <b>2/3rds</b> of the total number of directors of a Public Company shall be persons whose period of office is liable to determination by retirement of directors by rotation.<br>Calculation: 2/3rd of 9 = <b>6 Directors</b>. (Out of these 6, 1/3rd i.e., 2 will actually retire at the AGM).",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "A 'Resident Director' is defined as a person who has stayed in India for a total period of not less than ______ during the Financial Year.",
+    "options": [
+      "180 days; Current",
+      "182 days; Previous",
+      "182 days; Current",
+      "210 days; Previous",
+      "120 days; Previous"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 182 days; Current</b><br><br><b>Amendment Clarification:</b> Originally, the act said 'Previous Calendar Year'. This was amended. Section 149(3) now states: '...stayed in India for a total period of not less than <b>182 days during the financial year</b>'. (Note: For newly incorporated companies, the requirement applies proportionately).",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "Under Section 167, the office of a director shall become vacant if he absents himself from all the meetings of the Board of Directors held during a period of _____ with or without seeking leave of absence.",
+    "options": [
+      "6 months",
+      "9 months",
+      "12 months",
+      "3 months",
+      "2 years"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 12 months</b><br><br><b>Rule (Section 167(1)(b)):</b> The office of a director becomes vacant if he absents himself from all meetings of the Board held during a period of <b>12 months</b>, regardless of whether he sought leave of absence or not.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "Who can appoint an 'Additional Director' and what is their tenure?",
+    "options": [
+      "Shareholders; Till next AGM",
+      "Board of Directors; Till next AGM",
+      "Central Government; 3 Years",
+      "NCLT; 5 Years",
+      "Board of Directors; 5 Years"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Board of Directors; Till next AGM</b><br><br><b>Rule (Section 161):</b> The Articles may confer on the <b>Board of Directors</b> the power to appoint any person as an Additional Director. Such director shall hold office up to the date of the <b>next Annual General Meeting (AGM)</b> or the last date on which the AGM should have been held, whichever is earlier.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "What is the maximum penalty prescribed under Section 166 for a director who contravenes the 'Duties of Directors' (e.g., acting in bad faith)?",
+    "options": [
+      "₹1 Lakh",
+      "₹5 Lakhs",
+      "₹25 Lakhs",
+      "₹50,000",
+      "₹10 Lakhs"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹5 Lakhs</b><br><br><b>Rule (Section 166):</b> If a director of the company contravenes the provisions of this section (Duties), such director shall be punishable with a fine which shall not be less than ₹1,00,000 but which may extend to <b>₹5,00,000</b>.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "Mr. X resigns from his directorship. He sends a notice to the company dated 1st March. The company receives it on 4th March. The Board accepts it on 10th March. What is the effective date of resignation?",
+    "options": [
+      "1st March",
+      "4th March",
+      "10th March",
+      "Date of filing DIR-12",
+      "Later of 4th March or the date specified in the notice"
+    ],
+    "answer": 4,
+    "explanation": "<b>Correct Answer: Later of 4th March or the date specified in the notice</b><br><br><b>Rule (Section 168):</b> The resignation of a director shall take effect from the date on which the <b>notice is received by the company</b> or the <b>date, if any, specified by the director in the notice</b>, whichever is later. Board acceptance is NOT required for effectiveness.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "A Listed Company must have at least what proportion of its total directors as Independent Directors?",
+    "options": [
+      "One-half (1/2)",
+      "One-third (1/3)",
+      "Two-thirds (2/3)",
+      "At least 2 directors",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: One-third (1/3)</b><br><br><b>Rule (Section 149):</b> Every <b>Listed Public Company</b> shall have at least <b>one-third</b> of the total number of directors as Independent Directors. (Note: Any fraction is rounded off to one).",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "To appoint a 'Small Shareholders Director', notice must be given by at least what number/percentage of small shareholders?",
+    "options": [
+      "1,000 shareholders OR 1/10th of total small shareholders, whichever is lower",
+      "500 shareholders OR 1/5th of total small shareholders, whichever is lower",
+      "1,000 shareholders only",
+      "10% of total Paid-up Capital",
+      "100 shareholders"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1,000 shareholders OR 1/10th of total small shareholders, whichever is lower</b><br><br><b>Rule (Section 151):</b> A listed company may have one director elected by small shareholders. Notice can be given by not less than <b>1,000 small shareholders</b> OR <b>one-tenth</b> of the total number of small shareholders, whichever is lower.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "An 'Alternate Director' cannot be appointed for a person who is:",
+    "options": [
+      "A Managing Director",
+      "A Woman Director",
+      "Absent from India for less than 3 months",
+      "Holding directorship in more than 10 companies",
+      "A Foreign National"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Absent from India for less than 3 months</b><br><br><b>Rule (Section 161):</b> The Board may appoint an Alternate Director to act for a director during his absence for a period of <b>not less than 3 months</b> from India. If the absence is shorter, no Alternate Director can be appointed.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "Which of the following resolutions is required to increase the total number of directors beyond 15?",
+    "options": [
+      "Ordinary Resolution",
+      "Special Resolution",
+      "Board Resolution passed unanimously",
+      "Central Government Approval",
+      "NCLT Approval"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Special Resolution</b><br><br><b>Rule (Section 149):</b> A company can have a maximum of 15 directors. However, it can appoint more than 15 directors after passing a <b>Special Resolution</b> in a general meeting.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "A casual vacancy in the office of an Independent Director must be filled by the Board within:",
+    "options": [
+      "3 months from the date of vacancy",
+      "Immediate next Board Meeting or 3 months, whichever is later",
+      "Immediate next Board Meeting or 3 months, whichever is earlier",
+      "6 months from the date of vacancy",
+      "Next AGM"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Immediate next Board Meeting or 3 months, whichever is later</b><br><br><b>Rule (Proviso to Section 149(4)):</b> Any intermittent vacancy of an independent director shall be filled-up by the Board at the earliest but not later than <b>immediate next Board meeting</b> or <b>three months</b> from the date of such vacancy, whichever is later.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Directors)",
+    "question": "If a person acts as a Director despite being aware that his office has become vacant under Section 167, he is punishable with a fine of:",
+    "options": [
+      "Min ₹50,000; Max ₹5 Lakh",
+      "Min ₹1 Lakh; Max ₹5 Lakh",
+      "Min ₹1 Lakh; Max ₹5 Lakh + Imprisonment up to 1 year",
+      "Flat ₹50,000",
+      "Min ₹25,000"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Min ₹1 Lakh; Max ₹5 Lakh + Imprisonment up to 1 year</b><br><br><b>Rule (Section 167(2)):</b> If a person, knowing that his office of director has become vacant, continues to function as a director, he shall be punishable with imprisonment for a term which may extend to <b>1 year</b> OR with a fine which shall not be less than <b>₹1,00,000</b> but which may extend to <b>₹5,00,000</b>, or with both.",
+    "marks": 2.0,
+    "negative": 0.5
+  }
+]
