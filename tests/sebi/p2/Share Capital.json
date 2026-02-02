@@ -1,0 +1,162 @@
+[
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Company Accounts (Share Capital)",
+    "question": "A Ltd. forfeited 500 shares of ₹10 each (₹8 called-up) for non-payment of First Call of ₹2 per share. The Final Call of ₹2 has not yet been made. Calculate the amount to be debited to the 'Share Capital Account'.",
+    "options": [
+      "₹5,000",
+      "₹4,000",
+      "₹3,000",
+      "₹1,000",
+      "₹8,000"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹4,000</b><br><br><b>Logic:</b> At the time of forfeiture, Share Capital is <b>debited</b> with the <b>Called-up Value</b> of the shares.<br>Calculation: 500 shares × ₹8 (Called-up) = <b>₹4,000</b>.<br><i>Note: Neither the Face Value (₹10) nor the Paid-up Value is relevant for the Debit entry.</i>",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Company Accounts (Share Capital)",
+    "question": "X Ltd. forfeited 1,000 shares of ₹10 each issued at a premium of ₹2 per share (payable on allotment) for non-payment of Allotment money of ₹5 (including premium). What is the treatment of Securities Premium in the forfeiture entry?",
+    "options": [
+      "Securities Premium is Debited with ₹2,000",
+      "Securities Premium is Credited with ₹2,000",
+      "Securities Premium is Ignored",
+      "Share Forfeiture Account is Credited with Premium",
+      "None of the above"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Securities Premium is Debited with ₹2,000</b><br><br><b>Rule (Section 52):</b> If the Premium has become due but has <b>NOT been received</b>, it must be <b>reversed (Debited)</b> at the time of forfeiture.<br>Calculation: 1,000 shares × ₹2 = ₹2,000 Debit.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Company Accounts (Share Capital)",
+    "question": "Y Ltd. forfeited shares on which the Application and Allotment money (including Premium) was fully paid, but the First Call was unpaid. How is the Securities Premium Account treated?",
+    "options": [
+      "Debited to reverse the premium",
+      "Credited to Share Forfeiture Account",
+      "No entry (Ignored)",
+      "Transferred to Capital Reserve",
+      "Debited to P&L Account"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: No entry (Ignored)</b><br><br><b>Rule:</b> If the Premium has already been <b>Received</b>, it cannot be reversed or utilized for forfeiture. It stays locked in the Securities Premium Account. We ignore it while passing the forfeiture entry.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Company Accounts (Share Capital)",
+    "question": "Z Ltd. forfeited 200 shares of ₹10 each on which ₹6 has been paid. These shares are re-issued at ₹7 per share fully paid up. What amount is transferred to Capital Reserve?",
+    "options": [
+      "₹1,200",
+      "₹600",
+      "₹400",
+      "₹200",
+      "₹800"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹600</b><br><br>1. <b>Profit on Forfeiture:</b> Amount received = 200 × ₹6 = ₹1,200.<br>2. <b>Discount on Reissue:</b> (FV ₹10 - Reissue Price ₹7) = ₹3 per share.<br>Total Discount = 200 × ₹3 = ₹600.<br>3. <b>Transfer to Capital Reserve:</b> Profit - Discount = ₹1,200 - ₹600 = <b>₹600</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Company Accounts (Share Capital)",
+    "question": "What is the maximum permissible discount that can be allowed at the time of Re-issue of forfeited shares?",
+    "options": [
+      "10% of Face Value",
+      "Amount originally received (forfeited) on those shares",
+      "Amount remaining unpaid on those shares",
+      "The original Premium amount",
+      "No limit"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Amount originally received (forfeited) on those shares</b><br><br><b>Rule:</b> The re-issue price cannot be lower than the amount unpaid. Put differently, the discount on re-issue <b>cannot exceed</b> the amount previously received and forfeited on those specific shares. This ensures the company receives at least the Face Value in total.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Company Accounts (Share Capital)",
+    "question": "<b>(Pro-rata Logic)</b><br>A shareholder applied for 1,000 shares but was allotted only 500 shares. Application money was ₹3. Allotment money was ₹5. He failed to pay Allotment. What is the amount received from him that will be credited to the Share Forfeiture Account?",
+    "options": [
+      "₹1,500",
+      "₹3,000",
+      "₹4,000",
+      "₹500",
+      "₹2,500"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹3,000</b><br><br><b>Logic:</b> The Forfeiture Account represents the <b>actual cash received</b>.<br>He applied for 1,000 shares and paid ₹3 per share.<br>Total Cash Paid = 1,000 × ₹3 = <b>₹3,000</b>.<br>Even though this excess was adjusted towards allotment, the total money the company holds from him is ₹3,000, which is entirely forfeited.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Company Accounts (Share Capital)",
+    "question": "G Ltd. forfeited 300 shares of ₹10 each, fully called up, for non-payment of final call of ₹3. 200 of these shares were reissued at ₹8 per share. Calculate the amount transferred to Capital Reserve.",
+    "options": [
+      "₹1,000",
+      "₹1,400",
+      "₹600",
+      "₹700",
+      "₹400"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: ₹1,000</b><br><br>1. <b>Profit per share:</b> Total Paid = ₹10 - ₹3 (unpaid) = ₹7 per share.<br>2. <b>Discount on Reissue:</b> ₹10 - ₹8 = ₹2 per share.<br>3. <b>Net Gain per share:</b> ₹7 (Profit) - ₹2 (Discount) = ₹5.<br>4. <b>Capital Reserve (On 200 shares only):</b> 200 shares × ₹5 = <b>₹1,000</b>.<br><i>Note: The profit on the 100 unsold shares remains in the Forfeiture Account.</i>",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Company Accounts (Share Capital)",
+    "question": "Before re-issue, the balance of the 'Share Forfeiture Account' is shown in the Balance Sheet under:",
+    "options": [
+      "Reserves and Surplus",
+      "Current Liabilities",
+      "Added to Subscribed Share Capital",
+      "Other Income",
+      "Deducted from Paid-up Capital"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Added to Subscribed Share Capital</b><br><br><b>Presentation:</b> The 'Share Forfeiture Account' represents the amount paid on shares that technically no longer exist (until reissued). It is shown in the Notes to Accounts as an <b>addition</b> to 'Subscribed Capital' to tally the funds received.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Company Accounts (Share Capital)",
+    "question": "When forfeited shares are re-issued at a premium, the amount of premium is credited to:",
+    "options": [
+      "Share Forfeiture Account",
+      "Capital Reserve",
+      "Securities Premium Account",
+      "Profit & Loss Account",
+      "General Reserve"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Securities Premium Account</b><br><br><b>Logic:</b> If shares are sold above Face Value (even if re-issued), the excess over Face Value is always a capital gain of the nature of Premium. Hence, it goes to <b>Securities Premium</b>. It does NOT go to Capital Reserve.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Company Accounts (Share Capital)",
+    "question": "P Ltd. forfeited 100 shares. Amount Forfeited was ₹600. These shares were re-issued at a discount of ₹700. Is this valid?",
+    "options": [
+      "Yes, if sanctioned by SEBI",
+      "Yes, if Board approves",
+      "No, Discount cannot exceed Forfeited Amount",
+      "Yes, if it is a fresh issue",
+      "No, unless authorized by NCLT"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: No, Discount cannot exceed Forfeited Amount</b><br><br><b>Rule:</b> The maximum discount allowed on reissue is limited to the credit balance in the Share Forfeiture Account for those shares (₹600). Offering a discount of ₹700 would mean issuing shares below par value net of recovery, which is <b>prohibited</b>.",
+    "marks": 1.0,
+    "negative": 0.25
+  }
+]
