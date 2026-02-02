@@ -21,37 +21,6 @@
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', sans-serif; }
         body { height: 100dvh; width: 100vw; overflow: hidden; background: var(--bg-color); display: flex; flex-direction: column; }
 
-        /* Add inside <style> */
-
-.footer-actions {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    max-width: 70%; /* Limit width to force truncation if needed */
-    justify-content: flex-end;
-}
-
-.test-label {
-    font-weight: 600;
-    color: #444;
-    font-size: 0.95rem;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis; /* This cuts it short with "..." */
-    max-width: 250px; /* Adjust max length before cutting */
-    text-align: right;
-}
-
-@media (max-width: 768px) {
-    .test-label {
-        max-width: 150px; /* Smaller limit on mobile */
-        font-size: 0.85rem;
-    }
-    .footer-actions {
-        width: 100%;
-        justify-content: space-between;
-    }
-}
         /* SCREENS */
         .screen { display: none; height: 100%; width: 100%; flex-direction: column; }
         #upload-screen.active, #result-screen.active { display: block; overflow-y: auto; }
@@ -306,8 +275,7 @@
             <input type="number" id="mInput" class="mini-input" value="00"> <span style="font-weight:bold">:</span>
             <input type="number" id="sInput" class="mini-input" value="00">
         </div>
-        <div class="footer-actions">
-            <span id="selected-test-label" class="test-label"></span>
+        <div>
             <button class="resume-btn" id="resume-btn" onclick="resumeExam()">RESUME</button>
             <button class="start-btn" id="start-btn" onclick="startExam()" disabled>SELECT TEST</button>
         </div>
@@ -507,7 +475,7 @@
             updateKeys();
             library = {}; cloudList = []; activeFile = ''; selectedFiles.clear();
             loadLibraryFromStorage(); loadFromGitHubAPI(); loadHistory(); renderGrid(); updateTimerUI();
-            document.getElementById('start-btn').innerText = "SELECT TEST"; document.getElementById('selected-test-label').innerText = "";
+            document.getElementById('start-btn').innerText = "SELECT TEST"; document.getElementById('start-btn').disabled = true;
             document.getElementById('resume-btn').style.display = 'none';
         } else { document.getElementById('examSelector').value = currentProfile; }
     }
@@ -574,21 +542,10 @@
                         const btn = document.getElementById('start-btn');
                         if(selectedFiles.size>0) { btn.innerText="START COMBINED"; btn.disabled=false; } else { btn.innerText="SELECT"; btn.disabled=true; }
                     }
-                } // Find the 'else' block for single select mode:
-} else {
-    if(item.source==='local') { 
-        activeFile = item.name; 
-        
-        // --- REPLACE THE BUTTON TEXT LOGIC HERE ---
-        document.getElementById('selected-test-label').innerText = item.name.replace(/\.json$/i, '');
-        document.getElementById('start-btn').innerText = 'START'; 
-        // ------------------------------------------
-        
-        document.getElementById('start-btn').disabled = false; 
-        renderGrid(); 
-    }
-    else await fetchAndLoad(item);
-}
+                } else {
+                    if(item.source==='local') { activeFile = item.name; document.getElementById('start-btn').innerText = 'START: '+item.name.substring(0,10); document.getElementById('start-btn').disabled = false; renderGrid(); }
+                    else await fetchAndLoad(item);
+                }
             };
             grid.appendChild(d);
         });
