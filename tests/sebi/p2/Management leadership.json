@@ -1,0 +1,242 @@
+[
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "Which leadership theory classifies leaders into 'Impoverished', 'Country Club', 'Task', and 'Team' managers based on two dimensions: Concern for People and Concern for Production?",
+    "options": [
+      "Situational Leadership Theory",
+      "Path-Goal Theory",
+      "The Managerial Grid",
+      "LMX Theory",
+      "Fiedler's Contingency Model"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: The Managerial Grid</b><br><br><b>Authors:</b> Robert Blake and Jane Mouton.<br><b>Concept:</b> It plots leadership styles on a 9x9 grid based on 'Concern for People' (Y-axis) and 'Concern for Production' (X-axis).",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "Who proposed the 'Path-Goal Theory' of leadership, which states that a leader's job is to assist followers in attaining their goals and to provide the necessary direction and support?",
+    "options": [
+      "Fred Fiedler",
+      "Robert House",
+      "Hersey and Blanchard",
+      "Douglas McGregor",
+      "Bernard Bass"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Robert House</b><br><br><b>Theory:</b> Path-Goal Theory (developed by Robert House) is derived from the Expectancy Theory of Motivation. It suggests leaders must clear the path for subordinates to achieve goals.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "In Fiedler’s Contingency Model, the 'LPC Scale' is used to measure a leader's style. What does LPC stand for?",
+    "options": [
+      "Leadership Power Center",
+      "Least Preferred Coworker",
+      "Leader-People Connection",
+      "Linear Performance Curve",
+      "Low Performance Cause"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Least Preferred Coworker</b><br><br><b>Logic:</b> Fiedler asked leaders to rate the person they least enjoyed working with. A <b>High LPC</b> score indicates a Relationship-oriented leader, while a <b>Low LPC</b> score indicates a Task-oriented leader.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "According to Douglas McGregor, which theory assumes that employees dislike work, are lazy, dislike responsibility, and must be coerced to perform?",
+    "options": [
+      "Theory Z",
+      "Theory Y",
+      "Theory X",
+      "Trait Theory",
+      "Transactional Theory"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Theory X</b><br><br><b>Concept:</b> Theory X presents a negative view of human nature (lazy, needs control). Theory Y presents a positive view (self-directed, seeks responsibility).",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "Which theoretical model suggests that the most effective leadership style varies with the 'Readiness' or 'Maturity' of the followers (M1 to M4)?",
+    "options": [
+      "Blake and Mouton’s Grid",
+      "Hersey and Blanchard’s Situational Leadership",
+      "Vroom-Yetton Decision Model",
+      "Transformational Leadership",
+      "Great Man Theory"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Hersey and Blanchard’s Situational Leadership</b><br><br><b>Concept:</b> Leaders must match their style (Telling, Selling, Participating, Delegating) to the maturity level of the followers (Ability and Willingness).",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "In the Managerial Grid, the (9,9) style representing high concern for both people and production is termed as:",
+    "options": [
+      "Country Club Management",
+      "Impoverished Management",
+      "Middle-of-the-Road Management",
+      "Team Management",
+      "Authority-Compliance Management"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Team Management</b><br><br><b>Grid Points:</b><br>(1,9) Country Club<br>(9,1) Authority-Compliance<br>(1,1) Impoverished<br>(5,5) Middle-of-the-Road<br><b>(9,9) Team Management</b> (The ideal style).",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "The 'Ohio State Studies' narrowed leadership behavior down to two independent dimensions. What are they?",
+    "options": [
+      "Employee-centered and Production-centered",
+      "Initiating Structure and Consideration",
+      "Autocratic and Democratic",
+      "Concern for People and Concern for Production",
+      "Directive and Supportive"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Initiating Structure and Consideration</b><br><br><b>Distinction:</b><br>Ohio State = Initiating Structure & Consideration.<br>Michigan Studies = Employee-centered & Production-centered.<br>Managerial Grid = Concern for People & Production.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "Which theory focuses on the quality of the dyadic relationship between a leader and an individual follower, categorizing followers into 'In-Group' and 'Out-Group'?",
+    "options": [
+      "Trait Theory",
+      "LMX (Leader-Member Exchange) Theory",
+      "Servant Leadership",
+      "Path-Goal Theory",
+      "Charismatic Leadership"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: LMX (Leader-Member Exchange) Theory</b><br><br><b>Concept:</b> Leaders create 'In-Groups' (trusted, high interaction) and 'Out-Groups' (formal relations). In-group members get higher performance ratings and job satisfaction.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "'Intellectual Stimulation' and 'Individualized Consideration' are key components of which leadership style?",
+    "options": [
+      "Transactional Leadership",
+      "Transformational Leadership",
+      "Laissez-Faire Leadership",
+      "Bureaucratic Leadership",
+      "Situational Leadership"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Transformational Leadership</b><br><br><b>The 4 I's:</b> Idealized Influence, Inspirational Motivation, Intellectual Stimulation, and Individualized Consideration. These are characteristics of Transformational Leaders (Bass/Burns).",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "Which style of leadership involves an exchange process where the leader provides rewards in return for the subordinate's effort and performance (Contingent Reward)?",
+    "options": [
+      "Transformational Leadership",
+      "Charismatic Leadership",
+      "Transactional Leadership",
+      "Servant Leadership",
+      "Visionary Leadership"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Transactional Leadership</b><br><br><b>Concept:</b> It is based on a transaction/exchange. The leader clarifies goals and rewards performance (Contingent Reward) or intervenes only when standards are not met (Management by Exception).",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "According to Fiedler, if a situation is 'Highly Unfavorable' to the leader (poor relations, low structure, weak power), which leader style is most effective?",
+    "options": [
+      "Relationship-oriented (High LPC)",
+      "Task-oriented (Low LPC)",
+      "Participative",
+      "Democratic",
+      "Laissez-Faire"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Task-oriented (Low LPC)</b><br><br><b>Fiedler's Logic:</b> Task-oriented leaders perform best in <b>extremes</b>—either highly favorable or highly unfavorable situations. Relationship-oriented leaders perform best in moderate situations.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "In the Michigan Studies, leaders who emphasize interpersonal relations and accept individual differences among members are termed as:",
+    "options": [
+      "Production-centered",
+      "Employee-centered",
+      "Initiating Structure",
+      "Autocratic",
+      "Directive"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Employee-centered</b><br><br><b>Michigan Studies:</b> Identified two distinct styles: <b>Employee-centered</b> (focus on human needs/relations) and <b>Production-centered</b> (focus on technical tasks).",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "Which of the following is NOT one of the four leadership behaviors identified in House’s Path-Goal Theory?",
+    "options": [
+      "Directive",
+      "Supportive",
+      "Participative",
+      "Authoritative",
+      "Achievement-oriented"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Authoritative</b><br><br><b>Path-Goal Styles:</b> 1. Directive, 2. Supportive, 3. Participative, 4. Achievement-oriented. 'Authoritative' is not a specific term used in this model's classification.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "Rensis Likert identified four systems of management. 'System 4', which is considered the most participative and effective, is called:",
+    "options": [
+      "Exploitative Authoritative",
+      "Benevolent Authoritative",
+      "Consultative",
+      "Participative Group",
+      "Democratic Centralism"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Participative Group</b><br><br><b>Likert's Systems:</b><br>System 1: Exploitative Authoritative<br>System 2: Benevolent Authoritative<br>System 3: Consultative<br><b>System 4: Participative Group</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Management (Leadership)",
+    "question": "According to Hersey and Blanchard, if a follower is 'Unable but Willing' (M2), the appropriate leadership style is:",
+    "options": [
+      "Telling (S1)",
+      "Selling (S2)",
+      "Participating (S3)",
+      "Delegating (S4)",
+      "Coercing"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Selling (S2)</b><br><br><b>Matching:</b><br>M1 (Unable & Unwilling) -> S1 (Telling)<br><b>M2 (Unable but Willing) -> S2 (Selling/Coaching)</b><br>M3 (Able but Unwilling) -> S3 (Participating)<br>M4 (Able & Willing) -> S4 (Delegating).",
+    "marks": 2.0,
+    "negative": 0.5
+  }
+]

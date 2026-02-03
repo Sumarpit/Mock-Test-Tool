@@ -85,6 +85,8 @@
 ,
 {"name": "Companies Act Directors", "filename": "Companies Act Directors.json", "path": "tests/sebi/p2/Companies Act Directors.json"}
 ,
+{"name": "Management leadership", "filename": "Management leadership.json", "path": "tests/sebi/p2/Management leadership.json"}
+,
 {"name": "Marginal costing", "filename": "Marginal costing.json", "path": "tests/sebi/p2/Marginal costing.json"}
 ,
 {"name": "National Income Economics", "filename": "National Income Economics.json", "path": "tests/sebi/p2/National Income Economics.json"}
