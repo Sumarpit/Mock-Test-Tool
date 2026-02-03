@@ -1,0 +1,227 @@
+[
+  {
+    "section": "Macroeconomics",
+    "topic": "IS-LM Model",
+    "question": "In the IS-LM framework, an increase in Government Spending (G) without a change in taxes will cause which of the following shifts?",
+    "options": [
+      "IS curve shifts to the left",
+      "IS curve shifts to the right",
+      "LM curve shifts to the right",
+      "LM curve shifts to the left"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: IS curve shifts to the right</b><br><br>The IS curve represents the goods market. An increase in autonomous spending (like Government Expenditure) increases aggregate demand at every interest rate, shifting the IS curve to the right. This typically raises both output (Y) and interest rates (i).",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Macroeconomics",
+    "topic": "IS-LM Model",
+    "question": "Which phenomenon describes the reduction in private investment caused by a rise in interest rates following an expansionary fiscal policy?",
+    "options": [
+      "Liquidity Trap",
+      "Crowding Out",
+      "Multiplier Effect",
+      "Pigou Effect"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Crowding Out</b><br><br>When the government borrows to fund spending (shifting IS right), demand for loanable funds rises, pushing up interest rates. Higher interest rates make borrowing expensive for private firms, reducing private investment (I).",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Macroeconomics",
+    "topic": "IS-LM Model",
+    "question": "In a 'Liquidity Trap', the LM curve is:",
+    "options": [
+      "Vertical",
+      "Upward sloping",
+      "Horizontal",
+      "Downward sloping"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Horizontal</b><br><br>In a Liquidity Trap, interest rates are so low that people prefer to hold cash rather than bonds. The demand for money becomes infinitely elastic, making the LM curve horizontal. Monetary policy (shifting LM) becomes ineffective here.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Macroeconomics",
+    "topic": "Phillips Curve",
+    "question": "The Short-Run Phillips Curve (SRPC) depicts a trade-off between:",
+    "options": [
+      "Inflation and Interest Rates",
+      "Unemployment and Inflation",
+      "Tax Rates and Tax Revenue",
+      "GDP and Balance of Trade"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Unemployment and Inflation</b><br><br>The SRPC shows an inverse relationship: lower unemployment leads to higher wages and prices (higher inflation), and vice-versa.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Macroeconomics",
+    "topic": "Phillips Curve",
+    "question": "What is the shape of the Long-Run Phillips Curve (LRPC)?",
+    "options": [
+      "Downward sloping",
+      "Horizontal",
+      "Vertical at the Natural Rate of Unemployment",
+      "Upward sloping"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Vertical at the Natural Rate of Unemployment</b><br><br>In the long run, inflation expectations adjust fully. Unemployment returns to its 'Natural Rate' (NAIRU), regardless of the inflation rate. There is no long-run trade-off.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Macroeconomics",
+    "topic": "Phillips Curve",
+    "question": "Which of the following scenarios would cause the Short-Run Phillips Curve to shift upwards/rightwards (Stagflation)?",
+    "options": [
+      "Increase in Aggregate Demand",
+      "Negative Supply Shock (e.g., Oil Price Hike)",
+      "Technological advancement",
+      "Decrease in Inflation Expectations"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Negative Supply Shock</b><br><br>A supply shock (like rising oil prices) raises costs for firms, causing them to raise prices (inflation) and cut output/employment (unemployment) simultaneously. This shifts the SRPC to the right.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Macroeconomics",
+    "topic": "IS-LM Model",
+    "question": "If the Central Bank conducts an Open Market Operation (OMO) by purchasing government bonds, how does the LM curve shift?",
+    "options": [
+      "Shifts to the Left",
+      "Shifts to the Right",
+      "No shift, movement along the curve",
+      "Becomes vertical"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Shifts to the Right</b><br><br>Buying bonds injects liquidity into the system, increasing the Money Supply (Ms). An increase in Ms lowers the interest rate for any given level of income, shifting the LM curve to the right.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Macroeconomics",
+    "topic": "AD-AS Model",
+    "question": "In the AD-AS model, the Long-Run Aggregate Supply (LRAS) curve represents:",
+    "options": [
+      "Potential Output (Full Employment)",
+      "Current Actual Output",
+      "Short-term price stickiness",
+      "Keynesian recessionary gap"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Potential Output (Full Employment)</b><br><br>The LRAS is vertical because, in the long run, an economy's production depends on capital, labor, and technology, not on the price level.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Macroeconomics",
+    "topic": "Laffer Curve",
+    "question": "The Laffer Curve suggests that beyond a certain optimal point, an increase in tax rates will lead to:",
+    "options": [
+      "An increase in tax revenue",
+      "A decrease in tax revenue",
+      "No change in tax revenue",
+      "A decrease in inflation"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: A decrease in tax revenue</b><br><br>The Laffer Curve illustrates that excessively high tax rates disincentivize work and investment, shrinking the tax base. Thus, higher rates can eventually reduce total revenue collected.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Macroeconomics",
+    "topic": "J-Curve",
+    "question": "The 'J-Curve Effect' describes the time path of which economic variable following a currency depreciation?",
+    "options": [
+      "Inflation Rate",
+      "Fiscal Deficit",
+      "Trade Balance",
+      "Foreign Direct Investment"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Trade Balance</b><br><br>Following depreciation, the trade balance often deteriorates first (due to expensive imports and sticky contracts) before improving as export volumes adjust. This traces a 'J' shape.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Macroeconomics",
+    "topic": "Lorenz Curve",
+    "question": "In a Lorenz Curve diagram, the 45-degree line represents:",
+    "options": [
+      "Perfect Inequality",
+      "Perfect Equality",
+      "Maximum Tax Revenue",
+      "Zero Unemployment"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Perfect Equality</b><br><br>The 45-degree line represents a situation where x% of the population holds exactly x% of the income (e.g., bottom 20% hold 20% of income). The deviation of the Lorenz curve from this line measures inequality.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Macroeconomics",
+    "topic": "IS-LM Model",
+    "question": "A simultaneous increase in Government Spending (G) and Money Supply (Ms) is most likely to result in:",
+    "options": [
+      "Higher Output, Indeterminate Interest Rate",
+      "Lower Output, Higher Interest Rate",
+      "Higher Output, Higher Interest Rate",
+      "Lower Output, Lower Interest Rate"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Higher Output, Indeterminate Interest Rate</b><br><br>Expansionary Fiscal Policy (G up) shifts IS right (increasing Y and i). Expansionary Monetary Policy (Ms up) shifts LM right (increasing Y but lowering i). Therefore, Output (Y) definitely rises, but the effect on Interest Rate (i) depends on the magnitude of the shifts.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Macroeconomics",
+    "topic": "Phillips Curve",
+    "question": "According to the Adaptive Expectations hypothesis, if actual inflation is consistently higher than expected inflation, unemployment will:",
+    "options": [
+      "Remain at the Natural Rate",
+      "Fall below the Natural Rate",
+      "Rise above the Natural Rate",
+      "Fluctuate randomly"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Fall below the Natural Rate</b><br><br>If actual inflation > expected, real wages fall, encouraging firms to hire more labor. This pushes unemployment below the natural rate temporarily, moving the economy up along the SRPC.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Macroeconomics",
+    "topic": "Lorenz Curve",
+    "question": "The Gini Coefficient is derived from the Lorenz Curve using which ratio?",
+    "options": [
+      "Area under the Lorenz Curve / Total Area",
+      "Area between Line of Equality and Lorenz Curve / Total Area under Line of Equality",
+      "Area between Line of Equality and Lorenz Curve / Area under the Lorenz Curve",
+      "Total Area / Area under the Lorenz Curve"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Area between Line of Equality and Lorenz Curve / Total Area under Line of Equality</b><br><br>Gini = A / (A+B), where A is the area of inequality (between the line and the curve) and (A+B) is the total triangular area under the line of perfect equality.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Macroeconomics",
+    "topic": "IS-LM Model",
+    "question": "If investment demand is perfectly interest-inelastic (vertical IS curve), then:",
+    "options": [
+      "Monetary policy is highly effective",
+      "Fiscal policy is highly effective",
+      "Monetary policy is completely ineffective",
+      "Both policies are ineffective"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Monetary policy is completely ineffective</b><br><br>If investment does not respond to interest rates (vertical IS), shifting the LM curve (changing interest rates) will not change output (Y). The economy cannot move along the IS curve because investment is fixed regardless of 'i'.",
+    "marks": 2.0,
+    "negative": 0.5
+  }
+]
