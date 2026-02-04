@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "title": "SEBI Grade A Phase 2 - English 2022 (PYQ)",
+    "description": "Official 2022 Paper: Essay (Financial Literacy/Mental Health), Precis (Nutrition), and Reading Comprehension (Weather Forecasting).",
+    "defaultMarks": 10.0,
+    "defaultNegative": 0.0
+  },
+  "passages": {
+    "PRECIS_PASSAGE": "<b>Read the following article and write a precis in about 200 words. Give a suitable title.</b><br><br>Nutrition is a fundamental aspect of human life, impacting health, growth, and overall well-being. The food we consume plays a pivotal role in our nutrition, and understanding the challenges and opportunities in this domain is essential for addressing a wide array of health and societal issues.<br><br>In an age of abundance, nutrient deficiency remains a significant global challenge. Millions of people, especially in low-income countries, suffer from malnutrition, which includes both undernutrition and micronutrient deficiencies. Undernutrition can result in stunted growth, cognitive impairments, and increased vulnerability to diseases. On the other hand, micronutrient deficiencies, often referred to as 'hidden hunger,' lead to severe health consequences. Iron-deficiency anemia, vitamin A deficiency, and iodine deficiency disorders are prevalent examples. Addressing these challenges requires not only increasing food availability but also ensuring that diets are diverse and nutrient-rich.<br><br>Paradoxically, alongside undernutrition, overnutrition is also a pressing issue. Obesity rates are skyrocketing worldwide, leading to a host of health problems such as heart disease, diabetes, and certain cancers. High-calorie, low-nutrient diets, sedentary lifestyles, and the abundance of processed foods contribute to this problem. Tackling overnutrition requires a comprehensive approach that includes education on healthy eating, policy changes to reduce the prevalence of unhealthy foods, and fostering an environment that promotes physical activity.<br><br>Ensuring food security, or the consistent availability and access to sufficient, safe, and nutritious food, is another significant challenge. Many regions of the world still struggle with food insecurity, while others face issues of food safety. The global food supply chain is intricate and prone to disruptions due to various factors, including climate change, political instability, and diseases like the recent COVID-19 pandemic. This necessitates a focus on building resilient and sustainable food systems to meet current and future demands.<br><br>The current agricultural practices are often resource-intensive, contributing to environmental degradation. They deplete soil quality, demand vast amounts of water, and rely on excessive use of fertilizers and pesticides. Sustainable agriculture, which balances the needs of today with the needs of the future, offers a solution. This approach prioritizes regenerative farming, organic practices, and the efficient use of resources, aligning food production with long-term ecological health.<br><br>A startling amount of food is wasted globally, from farm to plate. This includes crops that never make it to market, food discarded by consumers, and excess production. Food waste is not just an ethical concern when millions go hungry; it also contributes to environmental issues, as rotting food releases greenhouse gases. Reducing food waste involves changes at multiple levels, from improved harvesting and transportation practices to consumer awareness campaigns.<br><br>Advances in biotechnology and data analytics are enabling the field of personalized nutrition. Personalized nutrition tailors dietary recommendations to an individual's unique genetic makeup, metabolism, and lifestyle. This approach has the potential to improve health outcomes and reduce the risk of diet-related diseases. Apps and wearable devices are increasingly being used to gather data about individuals and offer customized dietary advice.<br><br>The realm of food nutrition is marked by both challenges and opportunities. Nutrient deficiency, overnutrition, food security, sustainable agriculture, and food waste represent significant hurdles that need to be addressed. However, through advances in biotechnology, personalized nutrition, and the adoption of plant-based diets and sustainable agricultural practices, we have the potential to create a more nutritious, equitable, and sustainable food system.",
+    "RC_PASSAGE": "<b>Read the following paragraph and answer the questions given below:</b><br><br>The transformative impact of advanced weather forecasting technology on agriculture explores the importance of reliable weather forecasting for agriculturalists and why traditional weather predictions fall short of meeting the specific needs of farmers. Additionally, it delves into the sources used by modern weather forecasting apps to collect data and the factors that contribute to their accuracy.<br><br>Reliable weather forecasting is of paramount importance to agriculturalists as it directly influences the success and efficiency of farming operations. Farmers depend on weather forecasts to make informed decisions about when to plant, irrigate, harvest, and protect their crops from extreme weather conditions. Inaccurate predictions can lead to significant financial losses and crop damage.<br><br>Traditional weather forecasts, while useful to a certain extent, may not provide the level of specificity and accuracy required by farmers. They often rely on generalized regional data and do not consider local variations in weather patterns, which can be crucial for crop management. Moreover, traditional forecasts typically offer limited lead time, making it challenging for farmers to plan their activities effectively.<br><br>To address the limitations of simple weather forecasting, modern agriculturalists turn to advanced weather forecasting apps that provide more precise and tailored information. These apps leverage a range of sources to collect data, including satellite imagery, ground-based weather stations, radar systems, and weather models.<br><br>Satellite imagery offers a bird's-eye view of weather patterns, allowing farmers to monitor cloud cover, precipitation, and temperature across their specific area. Ground-based weather stations provide real-time data on local conditions, while radar systems track the movement of storms and precipitation. Weather models use complex algorithms to analyze all these data sources, providing forecasts that consider multiple variables, such as wind patterns and atmospheric pressure. This multifaceted approach allows the app to gather a comprehensive view of the current weather situation.<br><br>The accuracy of these advanced weather forecasting apps can be attributed to their ability to collect and process a wealth of data from various sources. By combining information from satellites, weather stations, radar systems, and predictive models, these apps can generate highly detailed and location-specific weather forecasts. The accuracy is further enhanced by the use of powerful computer algorithms that continuously analyze the data and update forecasts in real-time. This ensures that agriculturalists receive up-to-date and reliable information, enabling them to make critical decisions about their farming practices."
+  },
+  "questions": [
+    {
+      "section": "English Descriptive",
+      "type": "descriptive",
+      "topic": "Essay Writing",
+      "question": "<b>Q.1) Essay Writing</b><br>Write an essay on <b>ANY ONE</b> of the topics below in approximately <b>300 words</b>:<br><br>1. Elaborate on the role of banks in providing financial literacy to its customers.<br>2. Mental health requires more candour and more unashamed conversations.<br>3. Techno stress - its impact on students and teachers working in education.<br>4. What are ARCs? What are the functions of ARCs?",
+      "options": [],
+      "answer": null,
+      "marks": 30.0
+    },
+    {
+      "section": "English Descriptive",
+      "type": "descriptive",
+      "topic": "Precis Writing",
+      "passageId": "PRECIS_PASSAGE",
+      "question": "<b>Q.2) Precis Writing</b><br>Write a precis based on the article provided in about <b>200 words</b>. Give a suitable title.",
+      "options": [],
+      "answer": null,
+      "marks": 30.0
+    },
+    {
+      "section": "English Descriptive",
+      "type": "descriptive",
+      "topic": "Reading Comprehension",
+      "passageId": "RC_PASSAGE",
+      "question": "<b>Q.3 (i)</b><br>What is the central theme of the passage?",
+      "options": [],
+      "answer": null,
+      "marks": 8.0
+    },
+    {
+      "section": "English Descriptive",
+      "type": "descriptive",
+      "topic": "Reading Comprehension",
+      "passageId": "RC_PASSAGE",
+      "question": "<b>Q.3 (ii)</b><br>Explain the importance of reliable weather forecasting for agriculturalists.",
+      "options": [],
+      "answer": null,
+      "marks": 8.0
+    },
+    {
+      "section": "English Descriptive",
+      "type": "descriptive",
+      "topic": "Reading Comprehension",
+      "passageId": "RC_PASSAGE",
+      "question": "<b>Q.3 (iii)</b><br>Why is simple (traditional) weather forecasting not considered enough for agriculturalists' needs?",
+      "options": [],
+      "answer": null,
+      "marks": 8.0
+    },
+    {
+      "section": "English Descriptive",
+      "type": "descriptive",
+      "topic": "Reading Comprehension",
+      "passageId": "RC_PASSAGE",
+      "question": "<b>Q.3 (iv)</b><br>List the sources mentioned in the passage that are used by modern apps to collect data.",
+      "options": [],
+      "answer": null,
+      "marks": 8.0
+    },
+    {
+      "section": "English Descriptive",
+      "type": "descriptive",
+      "topic": "Reading Comprehension",
+      "passageId": "RC_PASSAGE",
+      "question": "<b>Q.3 (v)</b><br>What factors make the modern apps give accurate predictions according to the passage?",
+      "options": [],
+      "answer": null,
+      "marks": 8.0
+    }
+  ]
+}
