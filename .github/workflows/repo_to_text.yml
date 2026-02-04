@@ -1,0 +1,102 @@
+name: 📜 Repo to Text (LLM Context)
+
+on:
+  workflow_dispatch:
+    inputs:
+      include_extensions:
+        description: 'File extensions to include (comma separated)'
+        required: true
+        default: '.js, .html, .css, .json, .md, .yml'
+      exclude_dirs:
+        description: 'Directories to exclude'
+        required: false
+        default: '.git, node_modules, tests, .github'
+      max_chars:
+        description: 'Max characters for Summary Preview'
+        required: false
+        default: '65000'
+
+jobs:
+  generate-codebase-context:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Generate Context Text
+        id: generator
+        shell: python
+        run: |
+          import os
+          import fnmatch
+
+          # --- CONFIGURATION ---
+          # Get inputs from workflow dispatch
+          include_exts = [e.strip() for e in "${{ inputs.include_extensions }}".split(',')]
+          exclude_dirs = [d.strip() for d in "${{ inputs.exclude_dirs }}".split(',')]
+          output_file = "codebase_context.txt"
+          
+          print(f"🔍 Scanning for: {include_exts}")
+          print(f"🚫 Excluding: {exclude_dirs}")
+
+          # --- SCANNING LOGIC ---
+          content_buffer = []
+          file_count = 0
+          
+          # Walk through the directory
+          for root, dirs, files in os.walk("."):
+              # Modify dirs in-place to skip excluded directories
+              dirs[:] = [d for d in dirs if d not in exclude_dirs]
+              
+              for file in files:
+                  # Check extension
+                  if any(file.endswith(ext) for ext in include_exts):
+                      file_path = os.path.join(root, file)
+                      # Skip the output file itself if it exists
+                      if file_path == f"./{output_file}":
+                          continue
+                          
+                      try:
+                          with open(file_path, 'r', encoding='utf-8') as f:
+                              file_content = f.read()
+                              
+                          # --- FORMATTING FOR LLM ---
+                          # This format helps LLMs understand file boundaries
+                          entry = f"\n\n--- FILE: {file_path} ---\n\n{file_content}"
+                          content_buffer.append(entry)
+                          file_count += 1
+                          
+                      except Exception as e:
+                          print(f"⚠️ Could not read {file_path}: {e}")
+
+          # --- OUTPUT GENERATION ---
+          full_text = "".join(content_buffer)
+          
+          # 1. Save to file (for artifact)
+          with open(output_file, 'w', encoding='utf-8') as f:
+              f.write(f"Repo Context Generated for: ${{ github.repository }}\n")
+              f.write(f"Files included: {file_count}\n")
+              f.write("========================================\n")
+              f.write(full_text)
+              
+          print(f"✅ Successfully processed {file_count} files.")
+
+      - name: Upload Context as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: codebase-context
+          path: codebase_context.txt
+
+      - name: Add to Job Summary
+        run: |
+          echo "## 📋 Repo Context Ready" >> $GITHUB_STEP_SUMMARY
+          echo "You can download the full text file from **Artifacts** below, or copy the preview here." >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo '```text' >> $GITHUB_STEP_SUMMARY
+          # Read the file, limit characters to avoid crashing GitHub UI, then cat it
+          head -c ${{ inputs.max_chars }} codebase_context.txt >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
