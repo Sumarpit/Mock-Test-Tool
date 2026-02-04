@@ -80,7 +80,12 @@
         .fixed-footer { position: fixed; bottom: 0; left: 0; width: 100%; background: #fff; border-top: 1px solid #ccc; padding: 15px 20px; display: flex; justify-content: space-between; align-items: center; z-index: 2000; padding-bottom: calc(15px + env(safe-area-inset-bottom)); }
         .time-row { display: flex; align-items: center; gap: 5px; }
         .mini-input { width: 65px; padding: 10px; text-align: center; border: 2px solid #ddd; border-radius: 8px; font-size: 1.3rem; font-weight: bold; }
-        .start-btn { width: 180px; height: 50px; background: var(--accent); color: white; font-weight: bold; border: none; border-radius: 8px; font-size: 1.1rem; cursor: pointer; }
+        
+        /* Footer Actions Group */
+        .footer-actions { display: flex; align-items: center; gap: 10px; max-width: 70%; justify-content: flex-end; }
+        .test-label { font-weight: 600; color: #444; font-size: 0.95rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 250px; text-align: right; }
+        
+        .start-btn { width: 150px; height: 50px; background: var(--accent); color: white; font-weight: bold; border: none; border-radius: 8px; font-size: 1.1rem; cursor: pointer; }
         .start-btn:disabled { background: #ccc; cursor: not-allowed; }
         .resume-btn { width: 120px; height: 50px; background: #f39c12; color: white; border: none; border-radius: 8px; font-weight: bold; display: none; margin-right: 10px; }
 
@@ -214,6 +219,8 @@
             #overlay.active { display: block; }
             .fixed-footer { justify-content: center; flex-direction: column; gap: 10px; }
             #next-btn { display: none; }
+            .test-label { max-width: 150px; font-size: 0.85rem; }
+            .footer-actions { width: 100%; justify-content: space-between; }
         }
         
         /* Force Sidebar Collapse Styles */
@@ -221,157 +228,120 @@
 
         /* --- TCS iON CBT SIMULATION MODE --- */
 
-/* 1. Base Layout Constraints */
-body.tcs-mode {
-    background-color: #f0f0f0; /* TCS Gray Background */
-    font-family: 'Arial', sans-serif; /* Strict Font */
-}
+        /* 1. Base Layout Constraints */
+        body.tcs-mode {
+            background-color: #f0f0f0; /* TCS Gray Background */
+            font-family: 'Arial', sans-serif; /* Strict Font */
+        }
 
-/* 2. Header Adjustment */
-body.tcs-mode header {
-    background: #283593; /* Darker Blue header */
-    height: 50px;
-    box-shadow: none;
-    border-bottom: 2px solid #1a237e;
-}
+        /* 2. Header Adjustment */
+        body.tcs-mode header {
+            background: #283593; /* Darker Blue header */
+            height: 50px;
+            box-shadow: none;
+            border-bottom: 2px solid #1a237e;
+        }
 
-/* 3. Split Screen Enforcement */
-body.tcs-mode .exam-layout {
-    display: grid;
-    grid-template-columns: 50% 50%; /* Strict 50-50 Split */
-}
+        /* 3. Split Screen Enforcement */
+        body.tcs-mode .exam-layout {
+            display: flex; /* Switch back to flex to accommodate Sidebar */
+            flex-direction: row;
+        }
 
-body.tcs-mode .pane-passage {
-    display: block !important; /* Always show passage pane */
-    border-right: 4px solid #ccc; /* Thicker divider */
-    padding: 15px;
-    background: #fff;
-    font-size: 1.05rem; /* Readable reading font */
-    line-height: 1.6;
-    overflow-y: auto;
-}
+        body.tcs-mode .pane-passage {
+            display: block !important; /* Always show passage pane */
+            width: 40%; /* Left Panel */
+            border-right: 5px solid #dcdcdc; /* Thicker divider */
+            padding: 15px;
+            background: #fff;
+            font-size: 15px; /* Readable reading font */
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            overflow-y: auto;
+        }
 
-body.tcs-mode .pane-question {
-    padding: 15px;
-    background: #f9f9f9;
-}
+        body.tcs-mode .pane-question {
+            flex: 1; /* Middle Panel takes remaining space */
+            padding: 15px;
+            background: #f9f9f9;
+            border-right: 5px solid #dcdcdc; /* Separator for Sidebar */
+        }
 
-/* 4. The "Exam Input" Box */
-.tcs-textarea {
-    resize: none !important; /* User cannot resize */
-    width: 100%;
-    height: 400px !important; /* Fixed height simulating exam screen */
-    border: 1px solid #7f8c8d;
-    border-radius: 0; /* Square corners */
-    padding: 10px;
-    font-family: 'Courier New', Courier, monospace; /* Monospace for typing */
-    font-size: 16px;
-    line-height: 1.5;
-    background: #fff;
-    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.1);
-}
+        /* 4. The "Exam Input" Box */
+        .tcs-textarea {
+            resize: none !important; /* User cannot resize */
+            width: 100%;
+            height: 400px !important; /* Fixed height simulating exam screen */
+            border: 1px solid #7f8c8d;
+            border-radius: 0; /* Square corners */
+            padding: 10px;
+            font-family: 'Courier New', Courier, monospace; /* Monospace for typing */
+            font-size: 16px;
+            line-height: 1.5;
+            background: #fff;
+            box-shadow: inset 1px 1px 5px rgba(0,0,0,0.1);
+        }
 
-.tcs-textarea:focus {
-    outline: 2px solid #2962ff;
-}
+        .tcs-textarea:focus {
+            outline: 2px solid #2962ff;
+        }
 
-/* 5. The "Word Count" Strip */
-.tcs-word-count {
-    background: #e0e0e0;
-    color: #333;
-    padding: 5px 10px;
-    text-align: right;
-    font-weight: bold;
-    font-family: Arial, sans-serif;
-    font-size: 0.85rem;
-    border: 1px solid #999;
-    border-top: none;
-    margin-bottom: 10px;
-}
+        /* 5. The "Word Count" Strip */
+        .tcs-word-count {
+            background: #eeeeee;
+            border: 1px solid #cccccc;
+            color: #333;
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+            padding: 5px 8px;
+            margin-top: -2px; /* Connect to textarea */
+            text-align: left; /* Usually left aligned in TCS */
+            font-weight: bold;
+        }
 
-/* 6. Button Styling Override */
-body.tcs-mode #next-btn {
-    border-radius: 0;
-    font-family: Arial, sans-serif;
-    text-transform: uppercase;
-    box-shadow: 2px 2px 0px #004d40; /* 3D Click effect */
-}
+        /* 6. Right Sidebar (Palette) Styling */
+        body.tcs-mode .pane-sidebar {
+            width: 280px !important; /* Fixed standard width */
+            background: #eef1f5;
+            border-left: 1px solid #ccc;
+            display: flex !important; /* Always show */
+        }
 
-/* 7. Hide "Smart Tools" in Exam Mode if strict */
-body.tcs-mode .annot-toolbar {
-    /* Optional: Uncomment to hide drawing tools during typing test if you want strictness */
-    /* display: none; */ 
-}
-        /* --- TCS MODE REFINEMENTS --- */
+        /* 7. Footer Styling Override */
+        body.tcs-mode .fixed-footer {
+            height: 60px;
+            background: #f0f0f0;
+            border-top: 1px solid #ccc;
+            padding: 0 20px;
+            justify-content: flex-end; /* Push buttons to right */
+        }
 
-/* 1. Layout Adjustment for Fixed Sidebar */
-body.tcs-mode .exam-layout {
-    display: flex; /* Switch back to flex to accommodate Sidebar */
-    flex-direction: row;
-}
+        /* 8. Button Styling */
+        body.tcs-mode .start-btn, /* Reusing class for Save & Next */
+        body.tcs-mode #next-btn { 
+            background: #28a745 !important; /* TCS Green */
+            border-radius: 2px;
+            font-family: Arial, Helvetica, sans-serif;
+            text-transform: uppercase;
+            font-size: 13px;
+            padding: 8px 20px;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+        }
 
-body.tcs-mode .pane-passage {
-    width: 40%; /* Left Panel */
-    border-right: 5px solid #dcdcdc;
-    font-family: Arial, sans-serif;
-    font-size: 15px;
-}
+        body.tcs-mode button[onclick="clearRes()"] {
+            background: #ffffff !important;
+            border: 1px solid #ccc !important;
+            color: #333 !important;
+            border-radius: 2px;
+            text-transform: uppercase;
+            font-weight: bold;
+            font-size: 13px;
+        }
 
-body.tcs-mode .pane-question {
-    flex: 1; /* Middle Panel takes remaining space */
-    border-right: 5px solid #dcdcdc; /* Separator for Sidebar */
-}
-
-/* 2. The Right Sidebar (Palette) Styling */
-body.tcs-mode .pane-sidebar {
-    width: 280px !important; /* Fixed width */
-    background: #eef1f5;
-    border-left: 1px solid #ccc;
-    display: flex !important; /* Always show */
-}
-
-/* 3. Footer Button Styling (The Real TCS Colors) */
-body.tcs-mode .fixed-footer {
-    height: 60px;
-    background: #f0f0f0;
-    border-top: 1px solid #ccc;
-    padding: 0 20px;
-    justify-content: flex-end; /* Push buttons to right */
-}
-
-body.tcs-mode .start-btn, /* Reusing class for Save & Next */
-body.tcs-mode #next-btn { 
-    background: #28a745 !important; /* TCS Green */
-    border-radius: 2px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-transform: uppercase;
-    font-size: 13px;
-    padding: 8px 20px;
-    box-shadow: 0 1px 2px rgba(0,0,0,0.2);
-}
-
-body.tcs-mode button[onclick="clearRes()"] {
-    background: #ffffff !important;
-    border: 1px solid #ccc !important;
-    color: #333 !important;
-    border-radius: 2px;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 13px;
-}
-
-/* 4. Word Count Bar Polish */
-.tcs-word-count {
-    background: #eeeeee;
-    border: 1px solid #cccccc;
-    color: #333;
-    font-family: Arial, sans-serif;
-    font-size: 12px;
-    padding: 5px 8px;
-    margin-top: -2px; /* Connect to textarea */
-    text-align: left; /* Usually left aligned in TCS */
-    font-weight: bold;
-}
+        /* 9. Hide "Smart Tools" in Exam Mode if strict */
+        body.tcs-mode .annot-toolbar {
+            /* Handled via JS in extensions.js */
+        }
         
     </style>
 </head>
@@ -430,7 +400,9 @@ body.tcs-mode button[onclick="clearRes()"] {
             <input type="number" id="mInput" class="mini-input" value="00"> <span style="font-weight:bold">:</span>
             <input type="number" id="sInput" class="mini-input" value="00">
         </div>
-        <div>
+        
+        <div class="footer-actions">
+            <span id="selected-test-label" class="test-label"></span>
             <button class="resume-btn" id="resume-btn" onclick="resumeExam()">RESUME</button>
             <button class="start-btn" id="start-btn" onclick="startExam()" disabled>SELECT TEST</button>
         </div>
@@ -513,7 +485,7 @@ body.tcs-mode button[onclick="clearRes()"] {
                 <option value="initial">Original (Auto)</option>
                 <option value="raw">Raw Count (+1 / 0)</option>
                 <option value="sebi1">SEBI P1 (+1.25 / -0.31)</option>
-                <option value="sebi2">SEBI P2 (+2.0 / -0.5)</option>
+                <option value="sebi2">SEBI P2 (+1.0 / -0.25)</option>
                 <option value="ssc">SSC (+2.0 / -0.5)</option>
                 <option value="upsc">UPSC (+2.0 / -0.66)</option>
                 <option value="rbi">RBI (+1.0 / -0.25)</option>
@@ -604,8 +576,6 @@ body.tcs-mode button[onclick="clearRes()"] {
             loadHistory(); 
             checkResume(); 
             
-            // Touch Navigation logic moved to extensions.js pointer events if needed, 
-            // but kept simple swipe here for basic phone usage
         } catch(e){ console.error("Init Error:", e); } 
     };
 
@@ -630,7 +600,11 @@ body.tcs-mode button[onclick="clearRes()"] {
             updateKeys();
             library = {}; cloudList = []; activeFile = ''; selectedFiles.clear();
             loadLibraryFromStorage(); loadFromGitHubAPI(); loadHistory(); renderGrid(); updateTimerUI();
-            document.getElementById('start-btn').innerText = "SELECT TEST"; document.getElementById('start-btn').disabled = true;
+            
+            // RESET BUTTON TEXT
+            document.getElementById('start-btn').innerText = "SELECT TEST"; 
+            document.getElementById('start-btn').disabled = true;
+            document.getElementById('selected-test-label').innerText = "";
             document.getElementById('resume-btn').style.display = 'none';
         } else { document.getElementById('examSelector').value = currentProfile; }
     }
@@ -659,9 +633,14 @@ body.tcs-mode button[onclick="clearRes()"] {
         try {
             const res = await fetch(item.path); const data = await res.json();
             library[item.name] = data; saveLibraryToStorage();
-            activeFile = item.name; renderGrid();
-            document.getElementById('start-btn').innerText = 'START: ' + item.name.substring(0,10);
+            activeFile = item.name; 
+            
+            // UPDATE BUTTON & LABEL
+            document.getElementById('selected-test-label').innerText = item.name.replace(/\.json$/i, '');
+            document.getElementById('start-btn').innerText = 'START';
             document.getElementById('start-btn').disabled = false;
+            
+            renderGrid();
         } catch(e) { alert("Error loading file"); }
     }
 
@@ -695,10 +674,18 @@ body.tcs-mode button[onclick="clearRes()"] {
                         if(selectedFiles.has(item.name)) selectedFiles.delete(item.name); else selectedFiles.add(item.name);
                         renderGrid(); 
                         const btn = document.getElementById('start-btn');
-                        if(selectedFiles.size>0) { btn.innerText="START COMBINED"; btn.disabled=false; } else { btn.innerText="SELECT"; btn.disabled=true; }
+                        if(selectedFiles.size>0) { btn.innerText="START COMBINED"; btn.disabled=false; document.getElementById('selected-test-label').innerText = ""; } 
+                        else { btn.innerText="SELECT TEST"; btn.disabled=true; }
                     }
                 } else {
-                    if(item.source==='local') { activeFile = item.name; document.getElementById('start-btn').innerText = 'START: '+item.name.substring(0,10); document.getElementById('start-btn').disabled = false; renderGrid(); }
+                    if(item.source==='local') { 
+                        activeFile = item.name; 
+                        // UPDATE BUTTON & LABEL
+                        document.getElementById('selected-test-label').innerText = item.name.replace(/\.json$/i, '');
+                        document.getElementById('start-btn').innerText = 'START';
+                        document.getElementById('start-btn').disabled = false; 
+                        renderGrid(); 
+                    }
                     else await fetchAndLoad(item);
                 }
             };
@@ -710,7 +697,11 @@ body.tcs-mode button[onclick="clearRes()"] {
     function deleteFile(e, name) {
         e.stopPropagation(); if(confirm(`Delete ${name}?`)) {
             delete library[name]; saveLibraryToStorage();
-            if(activeFile===name) { activeFile=''; document.getElementById('start-btn').disabled=true; }
+            if(activeFile===name) { 
+                activeFile=''; 
+                document.getElementById('start-btn').disabled=true; 
+                document.getElementById('selected-test-label').innerText = "";
+            }
             renderGrid();
         }
     }
@@ -718,7 +709,7 @@ body.tcs-mode button[onclick="clearRes()"] {
     function toggleMultiSelect() {
         isMultiMode = !isMultiMode; selectedFiles.clear();
         document.getElementById('multiToggle').classList.toggle('active');
-        renderGrid(); document.getElementById('start-btn').disabled=true;
+        renderGrid(); document.getElementById('start-btn').disabled=true; document.getElementById('selected-test-label').innerText = "";
     }
 
     function openPasteModal() { document.getElementById('pasteModal').style.display='flex'; }
@@ -734,7 +725,10 @@ body.tcs-mode button[onclick="clearRes()"] {
             // 1. Save Locally
             library[fname] = parsed; saveLibraryToStorage();
             activeFile = fname; renderGrid();
-            document.getElementById('start-btn').innerText='START: '+fname.substring(0,10);
+            
+            // UPDATE BUTTON & LABEL
+            document.getElementById('selected-test-label').innerText = fname.replace(/\.json$/i, '');
+            document.getElementById('start-btn').innerText='START';
             document.getElementById('start-btn').disabled=false;
             
             // 2. Prepare for GitHub Issue
@@ -762,7 +756,7 @@ body.tcs-mode button[onclick="clearRes()"] {
         });
     }
 
-    // --- EXAM LOGIC ---
+    // --- EXAM LOGIC (UPDATED) ---
     function prepareQuestions(inputData) {
         let rawList = [];
 
@@ -792,7 +786,9 @@ body.tcs-mode button[onclick="clearRes()"] {
             if (index === 0) { cur.push(q); } 
             else {
                 const prev = rawList[index - 1];
-                const sameP = q.passage && prev.passage && (q.passage.trim() === prev.passage.trim());
+                const p1 = q.passage ? q.passage.trim() : "";
+                const p2 = prev.passage ? prev.passage.trim() : "";
+                const sameP = p1 && p2 && (p1 === p2);
                 const sameG = q.group_id && prev.group_id && (q.group_id === prev.group_id);
                 
                 if (sameP || sameG) { cur.push(q); } 
@@ -829,6 +825,7 @@ body.tcs-mode button[onclick="clearRes()"] {
             return nq;
         });
     }
+
     // --- SIDEBAR & NAVIGATION FUNCTIONS ---
     function toggleSidebar() {
         const sb = document.getElementById('pane-sidebar');
@@ -1038,12 +1035,13 @@ body.tcs-mode button[onclick="clearRes()"] {
 
         let score=0, cor=0, wrg=0, skip=0;
         let tStats={}, cStats={ '100%':{c:0,w:0}, '50:50':{c:0,w:0}, 'Logic':{c:0,w:0}, 'Guess':{c:0,w:0} };
-        reviewSet = [];
+        reviewSet = []; // Reset review set
         
         questions.forEach((q, i) => {
             const top = q.topic || 'General';
             if(!tStats[top]) tStats[top] = {t:0, c:0, w:0}; 
             
+            // Always review descriptive questions
             if (q.type === 'descriptive') {
                 reviewSet.push(q);
                 return; 
@@ -1056,7 +1054,10 @@ body.tcs-mode button[onclick="clearRes()"] {
             let qMark = q.marks ? parseFloat(q.marks) : EXAM_PROFILES[currentProfile].marks;
             let qNeg = q.negative ? parseFloat(q.negative) : (q.marks ? parseFloat(q.marks)*0.25 : EXAM_PROFILES[currentProfile].neg);
 
-            if(ans === undefined) { skip++; reviewSet.push(q); } 
+            // --- 1. SCORING LOGIC ---
+            if(ans === undefined) { 
+                skip++; 
+            } 
             else {
                 if(ans === q.answer) {
                     score += qMark; cor++; tStats[top].c++;
@@ -1064,8 +1065,17 @@ body.tcs-mode button[onclick="clearRes()"] {
                 } else {
                     score -= qNeg; wrg++; tStats[top].w++;
                     if(conf && cStats[conf]) cStats[conf].w++;
-                    reviewSet.push(q);
                 }
+            }
+
+            // --- 2. SMART REVIEW LOGIC (UPDATED) ---
+            // Add to review if: Skipped OR Wrong OR Guess OR Logic
+            const isWrong = (ans !== undefined && ans !== q.answer);
+            const isSkipped = (ans === undefined);
+            const isUncertain = (conf === 'Guess' || conf === 'Logic');
+
+            if (isWrong || isSkipped || isUncertain) {
+                reviewSet.push(q);
             }
         });
 
@@ -1106,11 +1116,8 @@ body.tcs-mode button[onclick="clearRes()"] {
             const t = Math.round(qTimers[i] || 0);
             const ts = t > 60 ? Math.floor(t/60) + 'm ' + (t%60) + 's' : t + 's';
             
-            // Descriptive Review
             if (q.type === 'descriptive') {
                 const userText = responses[i] || "<i>No Answer Typed</i>";
-                const safeQ = q.question.replace(/"/g, '&quot;').replace(/<[^>]*>/g, '');
-                const safeAns = (responses[i] || "").replace(/\\/g, '\\\\').replace(/"/g, '\\"').replace(/\n/g, '\\n');
                 
                 rev.innerHTML += `
                 <div class="review-item skip">
@@ -1120,12 +1127,13 @@ body.tcs-mode button[onclick="clearRes()"] {
                     </div>
                     <div style="margin-bottom:10px;">${q.question}</div>
                     <div style="background:#fff3e0; padding:10px; border-radius:4px; margin-bottom:10px; font-family: 'Courier New', monospace; white-space: pre-wrap;">${userText}</div>
-                    
                     <div style="display:flex; justify-content:space-between; align-items:center; background:#f9f9f9; padding:10px; border-radius:4px;">
                         <span style="font-size:0.9rem; color:#555;"><b>Marks:</b> ${q.marks || 10}</span>
-                        <button onclick="copyDescriptivePrompt('${safeQ}', '${safeAns}', ${q.marks||10})" style="background:#673ab7; color:white; border:none; padding:6px 12px; border-radius:4px; cursor:pointer; font-weight:bold; font-size:0.85rem;">
+                        
+                        <button onclick="copyDescriptivePrompt(${i})" style="background:#673ab7; color:white; border:none; padding:6px 12px; border-radius:4px; cursor:pointer; font-weight:bold; font-size:0.85rem;">
                             ✨ Check with AI
                         </button>
+                        
                     </div>
                 </div>`;
                 return;
@@ -1157,7 +1165,7 @@ body.tcs-mode button[onclick="clearRes()"] {
                 </div>`;
         });
 
-        // --- FIXED SMART REVIEW LOGIC ---
+        // --- BUTTON VISIBILITY ---
         const srBtn = document.getElementById('smart-review-btn');
         if (srBtn) {
             if (reviewSet.length > 0) {
@@ -1171,90 +1179,44 @@ body.tcs-mode button[onclick="clearRes()"] {
         }
     }
 
-    function recalcScore() {
-        const type = document.getElementById('scoreSelector').value;
-        const cor = parseInt(document.getElementById('r-cor').innerText);
-        const wrg = parseInt(document.getElementById('r-wrg').innerText);
-        let newScore = 0;
-        if (type === 'initial') newScore = initialScore;
-        else if (type === 'raw') newScore = cor * 1;
-        else {
-            const schemes = { 'sebi1': { p: 1.25, n: 0.3125 }, 'sebi2': { p: 2.0, n: 0.5 }, 'ssc': { p: 2.0, n: 0.5 }, 'upsc': { p: 2.0, n: 0.66 }, 'rbi': { p: 1.0, n: 0.25 } };
-            const s = schemes[type];
-            if(s) newScore = (cor * s.p) - (wrg * s.n);
-        }
-        document.getElementById('r-score').innerText = newScore.toFixed(2);
-    }
-
-    function updateResultCards(s, c, w, k) {
-        document.getElementById('r-score').innerText = s.toFixed(2);
-        document.getElementById('r-cor').innerText = c;
-        document.getElementById('r-wrg').innerText = w;
-        document.getElementById('r-skip').innerText = k;
-    }
-
-    function startSmartReview() {
-        if(!reviewSet.length) return;
-        if(confirm("Start Review?")) {
-            isReviewMode = true; questions = prepareQuestions(reviewSet);
-            activeFile += " (Review)"; responses={}; confidence={}; visited={}; currIdx=0; seconds=0; qTimers={};
-            initExamUI();
-        }
-    }
-
-    function loadHistory() {
-        const h = JSON.parse(localStorage.getItem(HIST_KEY)||'[]');
-        const l = document.getElementById('history-list'); l.innerHTML='';
-        if(h.length) {
-            document.getElementById('no-history').style.display='none';
-            h.slice(0,10).forEach(x => {
-                l.innerHTML += `<tr><td>${x.name.substring(0,20)}<br><small>${x.date}</small></td><td><b>${x.score}</b></td><td><button class="retake" onclick="retakeTest('${x.name}', ${x.dur})">Retake</button></td></tr>`;
-            });
-        }
-    }
-    function clearHistory() { localStorage.removeItem(HIST_KEY); loadHistory(); }
-    function retakeTest(n, d) {
-        if(!library[n]) { alert("Missing file"); return; }
-        if(!confirm("Retake?")) return;
-        isReviewMode=false; questions=prepareQuestions(library[n]); activeFile=n;
-        seconds=d; responses={}; confidence={}; visited={}; qTimers={}; currIdx=0;
-        localStorage.removeItem(BASE_KEY+'resume_'+currentProfile);
-        initExamUI();
-    }
-    function returnToLibrary() { document.getElementById('result-screen').classList.remove('active'); document.getElementById('upload-screen').classList.add('active'); renderGrid(); loadHistory(); }
-    function downloadRes() {
-        const html = document.getElementById('result-screen').innerHTML;
-        const css = document.getElementsByTagName('style')[0].innerText;
-        const blob = new Blob([`<html><head><style>${css} body{overflow:visible;} #result-screen{display:block!important;}</style></head><body><div id="result-screen">${html}</div></body></html>`], {type:'text/html'});
+    // --- UPDATED AI PROMPT FUNCTION ---
+    function copyDescriptivePrompt(idx) {
+        // Access global data directly using the index
+        const q = questions[idx];
+        const userAns = responses[idx] || "";
+        const marks = q.marks || 10;
         
-        let cleanName = activeFile.replace(/\.json$/i, '').replace(/ \(Review\)$/i, '');
-        cleanName = cleanName.replace(/[^a-z0-9\-_]/gi, '_');
+        if (!userAns || userAns.trim().length < 5) { 
+            alert("No answer text found to evaluate."); 
+            return; 
+        }
         
-        const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = `Result_${cleanName}.html`; a.click();
-    }
-
-    function copyDescriptivePrompt(question, answer, marks) {
-        if (!answer || answer.length < 5) { alert("No answer text found."); return; }
+        // Construct the prompt with Passage (if available)
+        let promptText = `Act as an expert SEBI GRADE A Phase 2 examiner.\n`;
+        promptText += `Evaluate the following answer for a ${marks}-mark question.\n\n`;
         
-        const prompt = `Act as an expert NABARD GRADE A Phase 2 examiner. 
-Evaluate the following answer for the question:
+        // conditionally add passage
+        if (q.passage) {
+            // Strip HTML tags from passage for cleaner prompt
+            const cleanPassage = q.passage.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+            promptText += `--- REFERENCE PASSAGE ---\n${cleanPassage}\n\n`;
+        }
 
-Q: ${question}
+        promptText += `--- QUESTION ---\n${q.question.replace(/<[^>]*>/g, '')}\n\n`;
+        promptText += `--- MY ANSWER ---\n${userAns}\n\n`;
+        
+        promptText += `Please provide:\n`;
+        promptText += `1. Strengths of the answer.\n`;
+        promptText += `2. Weaknesses/Gaps (Strict evaluation).\n`;
+        promptText += `3. A realistic Score out of ${marks}.\n`;
+        promptText += `4. Specific suggestions to improve vocabulary and flow.`;
 
-My Answer:
-${answer}
-
-Please provide:
-1. Strengths of the answer.
-2. Weaknesses/Gaps.
-3. A realistic Score out of ${marks}.
-4. Specific suggestions to improve.`;
-
-        navigator.clipboard.writeText(prompt).then(() => {
-            alert("✅ Prompt Copied!\n\nPaste this into Gemini/ChatGPT to get your evaluation.");
+        // Copy to clipboard
+        navigator.clipboard.writeText(promptText).then(() => {
+            alert("✅ Prompt Copied!\n\nContains:\n- Exam Persona (SEBI)\n- Reference Passage\n- Question & Answer\n\nPaste this into ChatGPT/Gemini.");
         }).catch(err => {
             console.error('Failed to copy: ', err);
-            alert("Failed to copy automatically. Please check console permissions.");
+            alert("Failed to copy. Please allow clipboard permissions.");
         });
     }
 </script>
