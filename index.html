@@ -693,41 +693,36 @@ body.tcs-mode .annot-toolbar {
     }
 
     // --- EXAM LOGIC ---
-    // --- EXAM LOGIC ---
     function prepareQuestions(inputData) {
         let rawList = [];
 
-        // 1. Detect Format: Is it the "Optimized Object" or "Standard Array"?
-        if (!Array.isArray(inputData) && inputData.questions && inputData.passages) {
-            // OPTIMIZED FORMAT DETECTED
-            // We map the passage text back into the questions dynamically
+        // 1. Detect Format: Is it the New "Object" format or Old "Array"?
+        if (!Array.isArray(inputData) && inputData.questions) {
+            // NEW FORMAT DETECTED (Object with 'questions' and 'passages')
+            // We interpret the 'questions' array and inject passages if needed
             rawList = inputData.questions.map(q => {
-                if (q.passageId && inputData.passages[q.passageId]) {
-                    // Inject the full passage text
+                // If the question has a passageId, look it up in the passages object
+                if (q.passageId && inputData.passages && inputData.passages[q.passageId]) {
                     q.passage = inputData.passages[q.passageId];
                 }
                 return q;
             });
         } else if (Array.isArray(inputData)) {
-            // STANDARD ARRAY FORMAT
+            // OLD FORMAT (Just a list of questions)
             rawList = inputData;
         } else {
-            // Fallback for empty or error
-            rawList = [];
+            console.error("Invalid Data Format");
+            return [];
         }
 
         let groups = [], cur = [];
         
-        // 2. Grouping Logic (Existing)
+        // 2. Grouping Logic
         rawList.forEach((q, index) => {
             if (index === 0) { cur.push(q); } 
             else {
                 const prev = rawList[index - 1];
-                // Check if passages match (handling undefined safely)
-                const p1 = q.passage ? q.passage.trim() : "";
-                const p2 = prev.passage ? prev.passage.trim() : "";
-                const sameP = p1 && p2 && (p1 === p2);
-                
+                const sameP = q.passage && prev.passage && (q.passage.trim() === prev.passage.trim());
                 const sameG = q.group_id && prev.group_id && (q.group_id === prev.group_id);
                 
                 if (sameP || sameG) { cur.push(q); } 
