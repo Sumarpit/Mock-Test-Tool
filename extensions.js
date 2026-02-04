@@ -20,13 +20,36 @@ const EXAM_HOOKS = {
         if(timer) timer.style.display = 'block';
 
         // --- PROFILE SPECIFIC THEMES & MODES ---
-        
-        // 1. SEBI Phase 2 (TCS iON Strict Mode)
+
+        // SEBI Phase 2 (TCS iON Strict Mode)
         if (profileName === 'SEBI_P2') {
-            document.body.classList.add('tcs-mode'); // Trigger CSS overrides
-            if(nextBtn) nextBtn.style.background = "#00796b"; // Teal Theme
+            document.body.classList.add('tcs-mode'); 
+            if(nextBtn) nextBtn.style.background = "#00796b"; 
+            
+            // 1. Hide Annotation Toolbar (Not allowed in TCS Descriptive)
+            const toolbar = document.querySelector('.annot-toolbar');
+            if(toolbar) toolbar.style.display = 'none';
+
+            // 2. Force Open Sidebar (The Question Palette)
+            // TCS interface always shows the palette on the right
+            const sidebar = document.getElementById('pane-sidebar');
+            if(sidebar) {
+                sidebar.classList.remove('collapsed');
+                sidebar.style.width = "280px"; // Fixed standard width
+            }
+            
+            // 3. Hide the Sidebar Toggle Button (User cannot hide it in exam)
+            const handle = document.querySelector('.sidebar-handle');
+            if(handle) handle.style.display = 'none';
+
         } else {
-            document.body.classList.remove('tcs-mode'); // Reset for other exams
+            document.body.classList.remove('tcs-mode');
+            // Restore Toolbar & Handle for other modes
+            const toolbar = document.querySelector('.annot-toolbar');
+            if(toolbar) toolbar.style.display = 'flex';
+            
+            const handle = document.querySelector('.sidebar-handle');
+            if(handle) handle.style.display = 'flex';
         }
 
         // 2. NABARD Phase 2 (Purple Theme)
