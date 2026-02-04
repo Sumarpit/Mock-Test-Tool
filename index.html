@@ -302,6 +302,76 @@ body.tcs-mode .annot-toolbar {
     /* Optional: Uncomment to hide drawing tools during typing test if you want strictness */
     /* display: none; */ 
 }
+        /* --- TCS MODE REFINEMENTS --- */
+
+/* 1. Layout Adjustment for Fixed Sidebar */
+body.tcs-mode .exam-layout {
+    display: flex; /* Switch back to flex to accommodate Sidebar */
+    flex-direction: row;
+}
+
+body.tcs-mode .pane-passage {
+    width: 40%; /* Left Panel */
+    border-right: 5px solid #dcdcdc;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+body.tcs-mode .pane-question {
+    flex: 1; /* Middle Panel takes remaining space */
+    border-right: 5px solid #dcdcdc; /* Separator for Sidebar */
+}
+
+/* 2. The Right Sidebar (Palette) Styling */
+body.tcs-mode .pane-sidebar {
+    width: 280px !important; /* Fixed width */
+    background: #eef1f5;
+    border-left: 1px solid #ccc;
+    display: flex !important; /* Always show */
+}
+
+/* 3. Footer Button Styling (The Real TCS Colors) */
+body.tcs-mode .fixed-footer {
+    height: 60px;
+    background: #f0f0f0;
+    border-top: 1px solid #ccc;
+    padding: 0 20px;
+    justify-content: flex-end; /* Push buttons to right */
+}
+
+body.tcs-mode .start-btn, /* Reusing class for Save & Next */
+body.tcs-mode #next-btn { 
+    background: #28a745 !important; /* TCS Green */
+    border-radius: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 13px;
+    padding: 8px 20px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+}
+
+body.tcs-mode button[onclick="clearRes()"] {
+    background: #ffffff !important;
+    border: 1px solid #ccc !important;
+    color: #333 !important;
+    border-radius: 2px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+/* 4. Word Count Bar Polish */
+.tcs-word-count {
+    background: #eeeeee;
+    border: 1px solid #cccccc;
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    padding: 5px 8px;
+    margin-top: -2px; /* Connect to textarea */
+    text-align: left; /* Usually left aligned in TCS */
+    font-weight: bold;
+}
         
     </style>
 </head>
