@@ -3,6 +3,7 @@ const ASSETS = [
   './',
   './index.html',
   './manifest.json'
+  './gita_shlokas.json'
 ];
 
 self.addEventListener('install', (e) => {
