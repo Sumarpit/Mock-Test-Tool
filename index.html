@@ -7,7 +7,9 @@
     <link rel="manifest" href="manifest.json">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📘</text></svg>">
     <style>
+        /* Import Fonts */
         @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@500;700&family=Inter:wght@400;500&display=swap');
+
         :root {
             --header-bg: #1a237e;
             --bg-color: #f4f7f6;
@@ -17,68 +19,12 @@
             --correct: #2ecc71;
             --wrong: #e74c3c;
             --footer-height: 80px;
+            --saffron: #d35400;
         }
 
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', sans-serif; }
         body { height: 100dvh; width: 100vw; overflow: hidden; background: var(--bg-color); display: flex; flex-direction: column; }
 
-/* --- ADD ANYWHERE IN <style> --- */
-/* Wisdom Button Style */
-.wisdom-btn {
-    background: #fff3e0;
-    color: #d35400;
-    border: 1px solid #d35400;
-    font-weight: bold;
-}
-.wisdom-btn:hover {
-    background: #e67e22;
-    color: white;
-}
-
-/* Shloka Modal Styles */
-#shlokaModal {
-    display: none; /* Hidden by default */
-    position: fixed;
-    top: 0; left: 0;
-    width: 100%; height: 100%;
-    background: rgba(0,0,0,0.5);
-    z-index: 5000;
-    align-items: center;
-    justify-content: center;
-}
-
-#shlokaModal .modal-content {
-    text-align: center;
-    border-top: 5px solid #d35400; /* Saffron top border */
-    max-width: 600px;
-}
-
-.shloka-sanskrit {
-    font-family: 'Noto Serif Devanagari', serif;
-    font-size: 1.4rem;
-    color: #d35400;
-    margin: 20px 0;
-    white-space: pre-line; /* Preserves line breaks in shloka */
-    line-height: 1.6;
-    font-weight: 500;
-}
-
-.shloka-english {
-    font-family: 'Inter', sans-serif;
-    font-size: 1rem;
-    color: #555;
-    font-style: italic;
-    margin-bottom: 20px;
-    line-height: 1.5;
-}
-
-.shloka-ref {
-    font-size: 0.85rem;
-    color: #999;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-weight: bold;
-}
         /* SCREENS */
         .screen { display: none; height: 100%; width: 100%; flex-direction: column; }
         #upload-screen.active, #result-screen.active { display: block; overflow-y: auto; }
@@ -101,6 +47,7 @@
         .toggle-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
         .paste-btn { background: #e3f2fd; color: var(--accent); border: 1px solid var(--accent); }
         .upload-btn { background: #fff3e0; color: #e65100; border: 1px solid #ffb74d; }
+        .wisdom-btn { background: #fff3e0; color: var(--saffron); border: 1px solid var(--saffron); }
         
         input[type="file"] { display: none; }
 
@@ -118,7 +65,7 @@
         .multi-check { margin-left: 10px; background: var(--accent); color: white; border-radius: 50%; width: 22px; height: 22px; display: none; align-items: center; justify-content: center; font-size: 0.7rem; }
         .file-card.multi-selected .multi-check { display: flex; }
 
-        /* HISTORY TABLE STYLING */
+        /* HISTORY TABLE */
         .history-box { background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
         .styled-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin-top: 10px; }
         .styled-table thead tr { background-color: #f8f9fa; text-align: left; }
@@ -128,18 +75,23 @@
         button.retake { background: #27ae60; padding: 6px 12px; font-size: 0.8rem; color: white; border:none; border-radius:4px; cursor:pointer; font-weight: bold; }
         button.clear { background: transparent; color: #e74c3c; text-decoration: underline; padding: 0; border: none; cursor:pointer;}
 
-        /* MODAL */
-        #pasteModal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 5000; align-items: center; justify-content: center; }
+        /* MODALS */
+        #pasteModal, #shlokaModal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 5000; align-items: center; justify-content: center; }
         .modal-content { background: white; padding: 20px; border-radius: 8px; width: 90%; max-width: 500px; display: flex; flex-direction: column; gap: 10px; }
         .modal-content textarea { width: 100%; height: 200px; padding: 10px; border: 1px solid #ccc; font-family: monospace; }
         .modal-actions { display: flex; justify-content: space-between; margin-top: 10px; }
+
+        /* SHLOKA SPECIFIC STYLES */
+        #shlokaModal .modal-content { text-align: center; border-top: 5px solid var(--saffron); max-width: 600px; }
+        .shloka-sanskrit { font-family: 'Noto Serif Devanagari', serif; font-size: 1.4rem; color: var(--saffron); margin: 20px 0; white-space: pre-line; line-height: 1.6; font-weight: 500; }
+        .shloka-english { font-family: 'Inter', sans-serif; font-size: 1rem; color: #555; font-style: italic; margin-bottom: 20px; line-height: 1.5; }
+        .shloka-ref { font-size: 0.85rem; color: #999; text-transform: uppercase; letter-spacing: 1px; font-weight: bold; }
 
         /* FOOTER */
         .fixed-footer { position: fixed; bottom: 0; left: 0; width: 100%; background: #fff; border-top: 1px solid #ccc; padding: 15px 20px; display: flex; justify-content: space-between; align-items: center; z-index: 2000; padding-bottom: calc(15px + env(safe-area-inset-bottom)); }
         .time-row { display: flex; align-items: center; gap: 5px; }
         .mini-input { width: 65px; padding: 10px; text-align: center; border: 2px solid #ddd; border-radius: 8px; font-size: 1.3rem; font-weight: bold; }
         
-        /* Footer Actions Group */
         .footer-actions { display: flex; align-items: center; gap: 10px; max-width: 70%; justify-content: flex-end; }
         .test-label { font-weight: 600; color: #444; font-size: 0.95rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 250px; text-align: right; }
         
@@ -155,76 +107,22 @@
         .pane-passage { flex: 1; background: #fffbf2; padding: 25px; overflow-y: auto; border-right: 1px solid #ddd; font-family: Georgia, serif; display: none; }
         .pane-passage.active { display: block; }
         
-        /* --- UPDATED QUESTION PANE FOR ANNOTATION --- */
-        .pane-question { 
-            flex: 1.2; 
-            background: #fff; 
-            padding: 20px; 
-            overflow-y: auto; 
-            display: flex; 
-            flex-direction: column; 
-            min-width: 300px;
-            position: relative; /* Needed for Canvas */
-        }
+        .pane-question { flex: 1.2; background: #fff; padding: 20px; overflow-y: auto; display: flex; flex-direction: column; min-width: 300px; position: relative; }
 
-        /* --- READABILITY IMPROVEMENTS --- */
         .q-meta { display: flex; justify-content: space-between; font-weight: bold; color: #777; margin-bottom: 10px; border-bottom: 1px solid #eee; padding-bottom: 5px; }
-        
-        .q-text { 
-            line-height: 1.8;           /* Better reading flow */
-            font-size: 1.15rem;         /* Slightly larger text */
-            color: #2c3e50;
-            margin-bottom: 25px; 
-            font-weight: 500; 
-            letter-spacing: 0.01em;
-            padding-left: 5px;          /* Hanging indent alignment */
-        }
+        .q-text { line-height: 1.8; font-size: 1.15rem; color: #2c3e50; margin-bottom: 25px; font-weight: 500; letter-spacing: 0.01em; padding-left: 5px; }
         .q-text br { display: block; margin-bottom: 10px; content: " "; }
 
-        /* Card-Style Options */
-        .opt-label { 
-            padding: 15px; 
-            border: 1px solid #e0e0e0; 
-            margin-bottom: 12px; 
-            border-radius: 8px; 
-            cursor: pointer; 
-            display: flex; 
-            align-items: flex-start;
-            background: #fff;
-            transition: all 0.2s ease;
-            line-height: 1.6;
-        }
+        .opt-label { padding: 15px; border: 1px solid #e0e0e0; margin-bottom: 12px; border-radius: 8px; cursor: pointer; display: flex; align-items: flex-start; background: #fff; transition: all 0.2s ease; line-height: 1.6; }
         .opt-label:hover { border-color: var(--accent); background: #f5f9ff; }
         .opt-label.selected { background: #e3f2fd; border-color: var(--accent); }
         .opt-label input { margin-right: 15px; margin-top: 6px; transform: scale(1.2); }
 
-        /* --- CANVAS & ANNOTATION TOOLS --- */
-        #drawing-canvas {
-            position: absolute;
-            top: 0; left: 0;
-            z-index: 10;
-            touch-action: none; 
-            pointer-events: none; /* Let clicks pass unless drawing */
-        }
-        .annot-toolbar {
-            position: absolute;
-            top: 10px; right: 20px;
-            background: white; padding: 5px;
-            border-radius: 30px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-            display: flex; gap: 8px;
-            z-index: 100;
-            border: 1px solid #ddd;
-        }
-        .tool-btn {
-            width: 32px; height: 32px; border-radius: 50%;
-            border: none; cursor: pointer;
-            display: flex; align-items: center; justify-content: center;
-            font-size: 1.2rem; background: #f5f5f5; transition: 0.2s;
-        }
+        #drawing-canvas { position: absolute; top: 0; left: 0; z-index: 10; touch-action: none; pointer-events: none; }
+        .annot-toolbar { position: absolute; top: 10px; right: 20px; background: white; padding: 5px; border-radius: 30px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); display: flex; gap: 8px; z-index: 100; border: 1px solid #ddd; }
+        .tool-btn { width: 32px; height: 32px; border-radius: 50%; border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; background: #f5f5f5; transition: 0.2s; }
         .tool-btn.active { background: var(--accent); color: white; transform: scale(1.1); }
 
-        /* Sidebar & Others */
         .pane-sidebar { width: 300px; background: #fff; display: flex; flex-direction: column; transition: width 0.3s ease; }
         .pane-sidebar.collapsed { width: 0; overflow: hidden; }
         .palette-grid { flex: 1; overflow-y: auto; padding: 15px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; align-content: start; }
@@ -239,7 +137,6 @@
         .c-btn { flex: 1; padding: 10px 5px; border: 1px solid #ccc; background: white; text-align: center; cursor: pointer; border-radius: 4px; font-size: 0.85rem; font-weight: 500; }
         .c-btn.sel { background: #673ab7; color: white; border-color: #5e35b1; }
 
-        /* RESULTS */
         .result-container { max-width: 850px; margin: 40px auto; padding-bottom: 50px; }
         .score-row { display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; flex-wrap: wrap; }
         .score-card { background: white; padding: 20px; border-radius: 8px; width: 150px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-top: 4px solid #ccc; }
@@ -262,7 +159,6 @@
         .btn-group { display: flex; justify-content: center; gap: 10px; margin-top: 20px; }
         .btn-group button { padding: 12px 20px; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; color: white; background: var(--accent); }
         
-        /* MOBILE OPTIMIZATIONS */
         .mobile-nav { display: none !important; }
         .mobile-menu { display: none !important; }
 
@@ -281,126 +177,21 @@
             .footer-actions { width: 100%; justify-content: space-between; }
         }
         
-        /* Force Sidebar Collapse Styles */
         .pane-sidebar.collapsed { width: 0 !important; min-width: 0 !important; flex-basis: 0 !important; padding: 0 !important; border: none !important; overflow: hidden !important; }
 
         /* --- TCS iON CBT SIMULATION MODE --- */
-
-        /* 1. Base Layout Constraints */
-        body.tcs-mode {
-            background-color: #f0f0f0; /* TCS Gray Background */
-            font-family: 'Arial', sans-serif; /* Strict Font */
-        }
-
-        /* 2. Header Adjustment */
-        body.tcs-mode header {
-            background: #283593; /* Darker Blue header */
-            height: 50px;
-            box-shadow: none;
-            border-bottom: 2px solid #1a237e;
-        }
-
-        /* 3. Split Screen Enforcement */
-        body.tcs-mode .exam-layout {
-            display: flex; /* Switch back to flex to accommodate Sidebar */
-            flex-direction: row;
-        }
-
-        body.tcs-mode .pane-passage {
-            display: block !important; /* Always show passage pane */
-            width: 40%; /* Left Panel */
-            border-right: 5px solid #dcdcdc; /* Thicker divider */
-            padding: 15px;
-            background: #fff;
-            font-size: 15px; /* Readable reading font */
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            overflow-y: auto;
-        }
-
-        body.tcs-mode .pane-question {
-            flex: 1; /* Middle Panel takes remaining space */
-            padding: 15px;
-            background: #f9f9f9;
-            border-right: 5px solid #dcdcdc; /* Separator for Sidebar */
-        }
-
-        /* 4. The "Exam Input" Box */
-        .tcs-textarea {
-            resize: none !important; /* User cannot resize */
-            width: 100%;
-            height: 400px !important; /* Fixed height simulating exam screen */
-            border: 1px solid #7f8c8d;
-            border-radius: 0; /* Square corners */
-            padding: 10px;
-            font-family: 'Courier New', Courier, monospace; /* Monospace for typing */
-            font-size: 16px;
-            line-height: 1.5;
-            background: #fff;
-            box-shadow: inset 1px 1px 5px rgba(0,0,0,0.1);
-        }
-
-        .tcs-textarea:focus {
-            outline: 2px solid #2962ff;
-        }
-
-        /* 5. The "Word Count" Strip */
-        .tcs-word-count {
-            background: #eeeeee;
-            border: 1px solid #cccccc;
-            color: #333;
-            font-family: Arial, sans-serif;
-            font-size: 12px;
-            padding: 5px 8px;
-            margin-top: -2px; /* Connect to textarea */
-            text-align: left; /* Usually left aligned in TCS */
-            font-weight: bold;
-        }
-
-        /* 6. Right Sidebar (Palette) Styling */
-        body.tcs-mode .pane-sidebar {
-            width: 280px !important; /* Fixed standard width */
-            background: #eef1f5;
-            border-left: 1px solid #ccc;
-            display: flex !important; /* Always show */
-        }
-
-        /* 7. Footer Styling Override */
-        body.tcs-mode .fixed-footer {
-            height: 60px;
-            background: #f0f0f0;
-            border-top: 1px solid #ccc;
-            padding: 0 20px;
-            justify-content: flex-end; /* Push buttons to right */
-        }
-
-        /* 8. Button Styling */
-        body.tcs-mode .start-btn, /* Reusing class for Save & Next */
-        body.tcs-mode #next-btn { 
-            background: #28a745 !important; /* TCS Green */
-            border-radius: 2px;
-            font-family: Arial, Helvetica, sans-serif;
-            text-transform: uppercase;
-            font-size: 13px;
-            padding: 8px 20px;
-            box-shadow: 0 1px 2px rgba(0,0,0,0.2);
-        }
-
-        body.tcs-mode button[onclick="clearRes()"] {
-            background: #ffffff !important;
-            border: 1px solid #ccc !important;
-            color: #333 !important;
-            border-radius: 2px;
-            text-transform: uppercase;
-            font-weight: bold;
-            font-size: 13px;
-        }
-
-        /* 9. Hide "Smart Tools" in Exam Mode if strict */
-        body.tcs-mode .annot-toolbar {
-            /* Handled via JS in extensions.js */
-        }
-        
+        body.tcs-mode { background-color: #f0f0f0; font-family: 'Arial', sans-serif; }
+        body.tcs-mode header { background: #283593; height: 50px; box-shadow: none; border-bottom: 2px solid #1a237e; }
+        body.tcs-mode .exam-layout { display: flex; flex-direction: row; }
+        body.tcs-mode .pane-passage { display: block !important; width: 40%; border-right: 5px solid #dcdcdc; padding: 15px; background: #fff; font-size: 15px; font-family: Arial, sans-serif; line-height: 1.6; overflow-y: auto; }
+        body.tcs-mode .pane-question { flex: 1; padding: 15px; background: #f9f9f9; border-right: 5px solid #dcdcdc; }
+        .tcs-textarea { resize: none !important; width: 100%; height: 400px !important; border: 1px solid #7f8c8d; border-radius: 0; padding: 10px; font-family: 'Courier New', Courier, monospace; font-size: 16px; line-height: 1.5; background: #fff; box-shadow: inset 1px 1px 5px rgba(0,0,0,0.1); }
+        .tcs-textarea:focus { outline: 2px solid #2962ff; }
+        .tcs-word-count { background: #eeeeee; border: 1px solid #cccccc; color: #333; font-family: Arial, sans-serif; font-size: 12px; padding: 5px 8px; margin-top: -2px; text-align: left; font-weight: bold; }
+        body.tcs-mode .pane-sidebar { width: 280px !important; background: #eef1f5; border-left: 1px solid #ccc; display: flex !important; }
+        body.tcs-mode .fixed-footer { height: 60px; background: #f0f0f0; border-top: 1px solid #ccc; padding: 0 20px; justify-content: flex-end; }
+        body.tcs-mode .start-btn, body.tcs-mode #next-btn { background: #28a745 !important; border-radius: 2px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 13px; padding: 8px 20px; box-shadow: 0 1px 2px rgba(0,0,0,0.2); }
+        body.tcs-mode button[onclick="clearRes()"] { background: #ffffff !important; border: 1px solid #ccc !important; color: #333 !important; border-radius: 2px; text-transform: uppercase; font-weight: bold; font-size: 13px; }
     </style>
 </head>
 <body>
@@ -410,18 +201,16 @@
 <div id="shlokaModal">
     <div class="modal-content">
         <h3 style="color:#d35400; margin-bottom: 5px;">श्रीमद्भगवद्गीता</h3>
-        
         <div class="shloka-ref" id="shloka-ref">Loading...</div>
         <div class="shloka-sanskrit" id="shloka-sanskrit"></div>
         <div class="shloka-english" id="shloka-english"></div>
-        
         <div class="modal-actions" style="justify-content: center; gap: 15px;">
             <button onclick="closeShlokaModal()" style="background:#ccc; padding:8px 20px; border-radius:20px; border:none; color:black; cursor:pointer;">Close</button>
             <button onclick="renderRandomShloka()" style="background:#d35400; padding:8px 20px; border-radius:20px; border:none; color:white; cursor:pointer;">🔄 Next Shloka</button>
         </div>
     </div>
 </div>
-    
+
 <div id="pasteModal">
     <div class="modal-content">
         <h3>📋 Paste JSON</h3>
@@ -432,7 +221,7 @@
             <button onclick="saveAndSync()" style="background:var(--accent); color:white; padding:8px 16px; border-radius:4px; border:none;">💾 Save & Sync</button>
         </div>
     </div>
-</div>    
+</div>
 
 <div id="upload-screen" class="screen active">
     <div class="container-box">
@@ -622,6 +411,9 @@
     let isReviewMode = false, reviewSet = [];
     let initialScore = 0; 
 
+    // --- GITA DATA (Fetched Externally) ---
+    let gitaVerses = []; 
+
     // --- INIT ---
     if ('launchQueue' in window) {
         window.launchQueue.setConsumer(async (launchParams) => {
@@ -630,7 +422,7 @@
         });
     }
     
-    window.onload = () => { 
+    window.onload = async () => { 
         try { 
             // 1. Load Profile
             const savedProfile = localStorage.getItem(BASE_KEY + 'profile');
@@ -648,7 +440,10 @@
             loadLibraryFromStorage();
             loadFromGitHubAPI(); 
             loadHistory(); 
-            checkResume(); 
+            checkResume();
+            
+            // 2. Load Wisdom Data (Background)
+            await loadWisdomData();
             
         } catch(e){ console.error("Init Error:", e); } 
     };
@@ -689,6 +484,53 @@
         document.getElementById('mInput').value = time[1].toString().padStart(2, '0');
         document.getElementById('sInput').value = time[2].toString().padStart(2, '0');
     }
+
+    // --- GITA / WISDOM LOGIC ---
+    async function loadWisdomData() {
+        try {
+            const res = await fetch('gita_shlokas.json');
+            if(res.ok) {
+                gitaVerses = await res.json();
+            } else {
+                console.warn("Could not load Gita verses.");
+            }
+        } catch(err) {
+            console.warn("Offline or missing gita_shlokas.json");
+        }
+    }
+
+    function openShlokaModal() {
+        document.getElementById('shlokaModal').style.display = 'flex';
+        renderRandomShloka();
+    }
+
+    function closeShlokaModal() {
+        document.getElementById('shlokaModal').style.display = 'none';
+    }
+
+    function renderRandomShloka() {
+        if (!gitaVerses || gitaVerses.length === 0) {
+            document.getElementById('shloka-sanskrit').innerText = "Loading wisdom...";
+            // Try loading again if empty
+            loadWisdomData().then(() => {
+                if(gitaVerses.length > 0) renderRandomShloka();
+                else document.getElementById('shloka-sanskrit').innerText = "Shlokas not found. (Check gita_shlokas.json)";
+            });
+            return;
+        }
+        
+        const s = gitaVerses[Math.floor(Math.random() * gitaVerses.length)];
+        document.getElementById('shloka-ref').innerText = `Chapter ${s.chapter}, Verse ${s.verse}`;
+        document.getElementById('shloka-sanskrit').innerText = s.sanskrit;
+        document.getElementById('shloka-english').innerText = s.english;
+    }
+
+    window.addEventListener('click', function(event) {
+        const modal = document.getElementById('shlokaModal');
+        if (event.target === modal) {
+            closeShlokaModal();
+        }
+    });
 
     // --- DATA ---
     async function loadFromGitHubAPI() {
@@ -809,7 +651,6 @@
             await navigator.clipboard.writeText(content);
             
             // --- NEW LOGIC: CALCULATE SUBFOLDER ---
-            // Get folder from config (e.g., 'tests/upsc') and strip 'tests/'
             const profileFolder = EXAM_PROFILES[currentProfile].folder || 'tests/general'; 
             const subDir = profileFolder.replace(/^tests\//, ''); 
             
@@ -837,9 +678,7 @@
         // 1. Detect Format: Is it the New "Object" format or Old "Array"?
         if (!Array.isArray(inputData) && inputData.questions) {
             // NEW FORMAT DETECTED (Object with 'questions' and 'passages')
-            // We interpret the 'questions' array and inject passages if needed
             rawList = inputData.questions.map(q => {
-                // If the question has a passageId, look it up in the passages object
                 if (q.passageId && inputData.passages && inputData.passages[q.passageId]) {
                     q.passage = inputData.passages[q.passageId];
                 }
@@ -915,9 +754,9 @@
             handle.innerText = '▶';
         }
         
-        // Resize canvas if annotation is active (prevents drawing distortion)
+        // Resize canvas if annotation is active
         if (typeof resizeAndLoadCanvas === 'function' && typeof currIdx !== 'undefined') {
-            setTimeout(() => resizeAndLoadCanvas(currIdx), 300); // Wait for CSS transition
+            setTimeout(() => resizeAndLoadCanvas(currIdx), 300); 
         }
     }
 
@@ -1143,7 +982,6 @@
             }
 
             // --- 2. SMART REVIEW LOGIC (UPDATED) ---
-            // Add to review if: Skipped OR Wrong OR Guess OR Logic
             const isWrong = (ans !== undefined && ans !== q.answer);
             const isSkipped = (ans === undefined);
             const isUncertain = (conf === 'Guess' || conf === 'Logic');
@@ -1203,11 +1041,9 @@
                     <div style="background:#fff3e0; padding:10px; border-radius:4px; margin-bottom:10px; font-family: 'Courier New', monospace; white-space: pre-wrap;">${userText}</div>
                     <div style="display:flex; justify-content:space-between; align-items:center; background:#f9f9f9; padding:10px; border-radius:4px;">
                         <span style="font-size:0.9rem; color:#555;"><b>Marks:</b> ${q.marks || 10}</span>
-                        
                         <button onclick="copyDescriptivePrompt(${i})" style="background:#673ab7; color:white; border:none; padding:6px 12px; border-radius:4px; cursor:pointer; font-weight:bold; font-size:0.85rem;">
                             ✨ Check with AI
                         </button>
-                        
                     </div>
                 </div>`;
                 return;
@@ -1239,7 +1075,6 @@
                 </div>`;
         });
 
-        // --- BUTTON VISIBILITY ---
         const srBtn = document.getElementById('smart-review-btn');
         if (srBtn) {
             if (reviewSet.length > 0) {
@@ -1255,7 +1090,6 @@
 
     // --- UPDATED AI PROMPT FUNCTION ---
     function copyDescriptivePrompt(idx) {
-        // Access global data directly using the index
         const q = questions[idx];
         const userAns = responses[idx] || "";
         const marks = q.marks || 10;
@@ -1265,127 +1099,25 @@
             return; 
         }
         
-        // Construct the prompt with Passage (if available)
         let promptText = `Act as an expert SEBI GRADE A Phase 2 examiner.\n`;
         promptText += `Evaluate the following answer for a ${marks}-mark question.\n\n`;
         
-        // conditionally add passage
         if (q.passage) {
-            // Strip HTML tags from passage for cleaner prompt
             const cleanPassage = q.passage.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
             promptText += `--- REFERENCE PASSAGE ---\n${cleanPassage}\n\n`;
         }
 
         promptText += `--- QUESTION ---\n${q.question.replace(/<[^>]*>/g, '')}\n\n`;
         promptText += `--- MY ANSWER ---\n${userAns}\n\n`;
-        
-        promptText += `Please provide:\n`;
-        promptText += `1. Strengths of the answer.\n`;
-        promptText += `2. Weaknesses/Gaps (Strict evaluation).\n`;
-        promptText += `3. A realistic Score out of ${marks}.\n`;
-        promptText += `4. Specific suggestions to improve vocabulary and flow.`;
+        promptText += `Please provide:\n1. Strengths of the answer.\n2. Weaknesses/Gaps (Strict evaluation).\n3. A realistic Score out of ${marks}.\n4. Specific suggestions to improve vocabulary and flow.`;
 
-        // Copy to clipboard
         navigator.clipboard.writeText(promptText).then(() => {
-            alert("✅ Prompt Copied!\n\nContains:\n- Exam Persona (SEBI)\n- Reference Passage\n- Question & Answer\n\nPaste this into ChatGPT/Gemini.");
+            alert("✅ Prompt Copied!\n\nPaste this into ChatGPT/Gemini.");
         }).catch(err => {
             console.error('Failed to copy: ', err);
             alert("Failed to copy. Please allow clipboard permissions.");
         });
     }
-    // --- VARIABLES ---
-    const BASE_KEY = 'sebi_v40_'; 
-    let currentProfile = 'SEBI'; 
-    let LIB_KEY, HIST_KEY;
-
-    let library = {}, cloudList = [], activeFile = '', questions = [], currIdx = 0;
-    let responses = {}, confidence = {}, visited = {};
-    let timer, seconds = 0, qTimers = {}, lastQTime = 0;
-    let isMultiMode = false, selectedFiles = new Set();
-    let isReviewMode = false, reviewSet = [];
-    let initialScore = 0; 
-
-    // --- GITA DATA (Fetched Externally) ---
-    let gitaVerses = []; 
-
-    // --- INIT ---
-    window.onload = async () => { 
-        try { 
-            // 1. Load Profile
-            const savedProfile = localStorage.getItem(BASE_KEY + 'profile');
-            if (savedProfile && typeof EXAM_PROFILES !== 'undefined' && EXAM_PROFILES[savedProfile]) {
-                currentProfile = savedProfile;
-            } else if (typeof EXAM_PROFILES !== 'undefined') {
-                currentProfile = Object.keys(EXAM_PROFILES)[0];
-            } else {
-                alert("Error: config.js missing."); return;
-            }
-
-            updateKeys();
-            initExamSelector(); 
-            updateTimerUI();
-            loadLibraryFromStorage();
-            loadFromGitHubAPI(); 
-            loadHistory(); 
-            checkResume();
-            
-            // 2. Load Wisdom Data (Background)
-            await loadWisdomData();
-            
-        } catch(e){ console.error("Init Error:", e); } 
-    };
-
-    // New Function to Fetch JSON
-    async function loadWisdomData() {
-        try {
-            const res = await fetch('gita_shlokas.json');
-            if(res.ok) {
-                gitaVerses = await res.json();
-            } else {
-                console.warn("Could not load Gita verses.");
-            }
-        } catch(err) {
-            console.warn("Offline or missing gita_shlokas.json");
-        }
-    }
-
-    // Updated Logic
-    function openShlokaModal() {
-        document.getElementById('shlokaModal').style.display = 'flex';
-        renderRandomShloka();
-    }
-
-    function closeShlokaModal() {
-        document.getElementById('shlokaModal').style.display = 'none';
-    }
-
-    function renderRandomShloka() {
-        if (!gitaVerses || gitaVerses.length === 0) {
-            document.getElementById('shloka-sanskrit').innerText = "Loading wisdom...";
-            // Try loading again if empty (edge case)
-            loadWisdomData().then(() => {
-                if(gitaVerses.length > 0) renderRandomShloka();
-                else document.getElementById('shloka-sanskrit').innerText = "Shlokas not found.";
-            });
-            return;
-        }
-        
-        const s = gitaVerses[Math.floor(Math.random() * gitaVerses.length)];
-        
-        document.getElementById('shloka-ref').innerText = `Chapter ${s.chapter}, Verse ${s.verse}`;
-        document.getElementById('shloka-sanskrit').innerText = s.sanskrit;
-        document.getElementById('shloka-english').innerText = s.english;
-    }
-
-    // Close modal on outside click
-    window.addEventListener('click', function(event) {
-        const modal = document.getElementById('shlokaModal');
-        if (event.target === modal) {
-            closeShlokaModal();
-        }
-    });
-
-    // ... (Keep the rest of your functions: updateKeys, switchExam, etc.) ...
 </script>
 </body>
 </html>
