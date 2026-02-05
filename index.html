@@ -7,6 +7,7 @@
     <link rel="manifest" href="manifest.json">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📘</text></svg>">
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@500;700&family=Inter:wght@400;500&display=swap');
         :root {
             --header-bg: #1a237e;
             --bg-color: #f4f7f6;
@@ -21,6 +22,63 @@
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', sans-serif; }
         body { height: 100dvh; width: 100vw; overflow: hidden; background: var(--bg-color); display: flex; flex-direction: column; }
 
+/* --- ADD ANYWHERE IN <style> --- */
+/* Wisdom Button Style */
+.wisdom-btn {
+    background: #fff3e0;
+    color: #d35400;
+    border: 1px solid #d35400;
+    font-weight: bold;
+}
+.wisdom-btn:hover {
+    background: #e67e22;
+    color: white;
+}
+
+/* Shloka Modal Styles */
+#shlokaModal {
+    display: none; /* Hidden by default */
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: rgba(0,0,0,0.5);
+    z-index: 5000;
+    align-items: center;
+    justify-content: center;
+}
+
+#shlokaModal .modal-content {
+    text-align: center;
+    border-top: 5px solid #d35400; /* Saffron top border */
+    max-width: 600px;
+}
+
+.shloka-sanskrit {
+    font-family: 'Noto Serif Devanagari', serif;
+    font-size: 1.4rem;
+    color: #d35400;
+    margin: 20px 0;
+    white-space: pre-line; /* Preserves line breaks in shloka */
+    line-height: 1.6;
+    font-weight: 500;
+}
+
+.shloka-english {
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    color: #555;
+    font-style: italic;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+.shloka-ref {
+    font-size: 0.85rem;
+    color: #999;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
         /* SCREENS */
         .screen { display: none; height: 100%; width: 100%; flex-direction: column; }
         #upload-screen.active, #result-screen.active { display: block; overflow-y: auto; }
@@ -349,6 +407,21 @@
 
 <div id="overlay" onclick="closeSidebar()"></div>
 
+<div id="shlokaModal">
+    <div class="modal-content">
+        <h3 style="color:#d35400; margin-bottom: 5px;">श्रीमद्भगवद्गीता</h3>
+        
+        <div class="shloka-ref" id="shloka-ref">Loading...</div>
+        <div class="shloka-sanskrit" id="shloka-sanskrit"></div>
+        <div class="shloka-english" id="shloka-english"></div>
+        
+        <div class="modal-actions" style="justify-content: center; gap: 15px;">
+            <button onclick="closeShlokaModal()" style="background:#ccc; padding:8px 20px; border-radius:20px; border:none; color:black; cursor:pointer;">Close</button>
+            <button onclick="renderRandomShloka()" style="background:#d35400; padding:8px 20px; border-radius:20px; border:none; color:white; cursor:pointer;">🔄 Next Shloka</button>
+        </div>
+    </div>
+</div>
+    
 <div id="pasteModal">
     <div class="modal-content">
         <h3>📋 Paste JSON</h3>
@@ -359,7 +432,7 @@
             <button onclick="saveAndSync()" style="background:var(--accent); color:white; padding:8px 16px; border-radius:4px; border:none;">💾 Save & Sync</button>
         </div>
     </div>
-</div>
+</div>    
 
 <div id="upload-screen" class="screen active">
     <div class="container-box">
@@ -372,6 +445,7 @@
             <div class="lib-controls">
                 <h1 style="font-size:1.2rem; margin:0;">Library</h1>
                 <div class="btn-row">
+                    <div class="toggle-btn wisdom-btn" onclick="openShlokaModal()">🕉️ Wisdom</div>
                     <div class="toggle-btn paste-btn" onclick="openPasteModal()">📋 Paste</div>
                     <label class="toggle-btn upload-btn">
                         📂 Upload <input type="file" id="jsonFile" accept=".json" multiple onchange="loadFiles(this.files)">
@@ -1219,6 +1293,99 @@
             alert("Failed to copy. Please allow clipboard permissions.");
         });
     }
+    // --- VARIABLES ---
+    const BASE_KEY = 'sebi_v40_'; 
+    let currentProfile = 'SEBI'; 
+    let LIB_KEY, HIST_KEY;
+
+    let library = {}, cloudList = [], activeFile = '', questions = [], currIdx = 0;
+    let responses = {}, confidence = {}, visited = {};
+    let timer, seconds = 0, qTimers = {}, lastQTime = 0;
+    let isMultiMode = false, selectedFiles = new Set();
+    let isReviewMode = false, reviewSet = [];
+    let initialScore = 0; 
+
+    // --- GITA DATA (Fetched Externally) ---
+    let gitaVerses = []; 
+
+    // --- INIT ---
+    window.onload = async () => { 
+        try { 
+            // 1. Load Profile
+            const savedProfile = localStorage.getItem(BASE_KEY + 'profile');
+            if (savedProfile && typeof EXAM_PROFILES !== 'undefined' && EXAM_PROFILES[savedProfile]) {
+                currentProfile = savedProfile;
+            } else if (typeof EXAM_PROFILES !== 'undefined') {
+                currentProfile = Object.keys(EXAM_PROFILES)[0];
+            } else {
+                alert("Error: config.js missing."); return;
+            }
+
+            updateKeys();
+            initExamSelector(); 
+            updateTimerUI();
+            loadLibraryFromStorage();
+            loadFromGitHubAPI(); 
+            loadHistory(); 
+            checkResume();
+            
+            // 2. Load Wisdom Data (Background)
+            await loadWisdomData();
+            
+        } catch(e){ console.error("Init Error:", e); } 
+    };
+
+    // New Function to Fetch JSON
+    async function loadWisdomData() {
+        try {
+            const res = await fetch('gita_shlokas.json');
+            if(res.ok) {
+                gitaVerses = await res.json();
+            } else {
+                console.warn("Could not load Gita verses.");
+            }
+        } catch(err) {
+            console.warn("Offline or missing gita_shlokas.json");
+        }
+    }
+
+    // Updated Logic
+    function openShlokaModal() {
+        document.getElementById('shlokaModal').style.display = 'flex';
+        renderRandomShloka();
+    }
+
+    function closeShlokaModal() {
+        document.getElementById('shlokaModal').style.display = 'none';
+    }
+
+    function renderRandomShloka() {
+        if (!gitaVerses || gitaVerses.length === 0) {
+            document.getElementById('shloka-sanskrit').innerText = "Loading wisdom...";
+            // Try loading again if empty (edge case)
+            loadWisdomData().then(() => {
+                if(gitaVerses.length > 0) renderRandomShloka();
+                else document.getElementById('shloka-sanskrit').innerText = "Shlokas not found.";
+            });
+            return;
+        }
+        
+        const s = gitaVerses[Math.floor(Math.random() * gitaVerses.length)];
+        
+        document.getElementById('shloka-ref').innerText = `Chapter ${s.chapter}, Verse ${s.verse}`;
+        document.getElementById('shloka-sanskrit').innerText = s.sanskrit;
+        document.getElementById('shloka-english').innerText = s.english;
+    }
+
+    // Close modal on outside click
+    window.addEventListener('click', function(event) {
+        const modal = document.getElementById('shlokaModal');
+        if (event.target === modal) {
+            closeShlokaModal();
+        }
+    });
+
+    // ... (Keep the rest of your functions: updateKeys, switchExam, etc.) ...
 </script>
 </body>
 </html>
