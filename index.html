@@ -104,8 +104,17 @@
         header.review-mode { background: #343a40; border-bottom: 3px solid #ffc107; }
         .timer { font-weight: bold; background: #222; color: #00ff00; padding: 5px 10px; border-radius: 4px; font-family: monospace; font-size: 1.1rem; }
         .exam-layout { display: flex; flex: 1; width: 100%; overflow: hidden; background: #e9ecef; position: relative; }
-        .pane-passage { flex: 1; background: #fffbf2; padding: 25px; overflow-y: auto; border-right: 1px solid #ddd; font-family: Georgia, serif; display: none; }
-        .pane-passage.active { display: block; }
+        
+        .pane-passage { 
+            flex: 1; 
+            background: #fffbf2; 
+            padding: 25px; 
+            overflow-y: auto; 
+            border-right: 1px solid #ddd; 
+            font-family: Georgia, serif; 
+            display: none; /* Hidden by default */
+        }
+        .pane-passage.active { display: block; } /* Only show if active */
         
         .pane-question { flex: 1.2; background: #fff; padding: 20px; overflow-y: auto; display: flex; flex-direction: column; min-width: 300px; position: relative; }
 
@@ -214,7 +223,7 @@
             overflow-y: auto;
         }
 
-        /* Default: Question takes full width */
+        /* Default: Question takes full width unless passage is active */
         body.tcs-mode .pane-question {
             flex: 1;
             padding: 15px;
@@ -284,6 +293,8 @@
             font-weight: bold; 
             font-size: 13px; 
         }
+    </style>
+</head>
 <body>
 
 <div id="overlay" onclick="closeSidebar()"></div>
