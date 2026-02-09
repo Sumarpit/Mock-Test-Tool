@@ -85,6 +85,8 @@
 ,
 {"name": "AS3 Cashflow", "filename": "AS3 Cashflow.json", "path": "tests/sebi/p2/AS3 Cashflow.json"}
 ,
+{"name": "Audit and Auditors CA", "filename": "Audit and Auditors CA.json", "path": "tests/sebi/p2/Audit and Auditors CA.json"}
+,
 {"name": "Companies Act Directors", "filename": "Companies Act Directors.json", "path": "tests/sebi/p2/Companies Act Directors.json"}
 ,
 {"name": "Economic Curves", "filename": "Economic Curves.json", "path": "tests/sebi/p2/Economic Curves.json"}

@@ -1,0 +1,242 @@
+[
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "The First Auditor of a Non-Government Company shall be appointed by the Board of Directors within 30 days of registration. If the Board fails to appoint, who appoints the auditor and within what time frame?",
+    "options": [
+      "Shareholders in EGM within 90 days",
+      "Shareholders in AGM within 60 days",
+      "Central Government within 30 days",
+      "Shareholders in EGM within 30 days",
+      "NCLT within 90 days"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Shareholders in EGM within 90 days</b><br><br><b>Rule (Section 139(6)):</b> If the Board fails to appoint the first auditor within 30 days, it shall inform the members, who shall appoint the auditor within <b>90 days</b> at an Extraordinary General Meeting (EGM).",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "Mr. A is a Chartered Accountant. His relative holds securities in XYZ Ltd. What is the maximum Face Value of securities the relative can hold without disqualifying Mr. A from being the auditor of XYZ Ltd?",
+    "options": [
+      "₹10,000",
+      "₹50,000",
+      "₹1,00,000",
+      "Market Value of ₹1,00,000",
+      "Relative cannot hold any security"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: ₹1,00,000</b><br><br><b>Rule (Section 141(3)(d)):</b> A person is disqualified if his relative holds security or interest in the company of <b>Face Value</b> exceeding <b>₹1,00,000</b>. (Note: The auditor himself cannot hold ANY security).",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "Under Section 141(3)(g), a person shall not be eligible for appointment as an auditor if he is holding appointment as an auditor of more than ____ companies.",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 20</b><br><br><b>Rule (Section 141(3)(g)):</b> The ceiling on the number of audits is <b>20 companies</b> per person. (Note: One Person Companies, Dormant Companies, Small Companies, and Private Companies with paid-up share capital < ₹100 Crore are excluded from this limit).",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "If an auditor resigns from his office, he must file a statement in the prescribed form (ADT-3) with the company and the Registrar within ____ days.",
+    "options": [
+      "15 days",
+      "30 days",
+      "45 days",
+      "60 days",
+      "7 days"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 30 days</b><br><br><b>Rule (Section 140(2)):</b> The auditor who has resigned from the company shall file within a period of <b>30 days</b> from the date of resignation, a statement in Form <b>ADT-3</b> with the company and the Registrar.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "An auditor is disqualified if he is indebted to the company, its subsidiary, or its holding company for an amount exceeding:",
+    "options": [
+      "₹1,00,000",
+      "₹2,00,000",
+      "₹5,00,000",
+      "₹10,00,000",
+      "₹50,000"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: ₹5,00,000</b><br><br><b>Rule (Section 141(3)(d)):</b> A person is disqualified if he is indebted to the company, or its subsidiary, or its holding company, or associate company, or a subsidiary of such holding company, in excess of <b>₹5,00,000</b>.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "Section 144 prohibits the auditor from rendering certain services to the company. Which of the following is NOT a prohibited service?",
+    "options": [
+      "Internal Audit",
+      "Actuarial Services",
+      "Investment Banking Services",
+      "Tax Audit Services",
+      "Management Services"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Tax Audit Services</b><br><br><b>Rule (Section 144):</b> The auditor is prohibited from providing services like Accounting/Bookkeeping, Internal Audit, Design of financial information systems, Actuarial services, Investment advisory/banking, and Management services. <b>Tax Audit</b> is a permissible service.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "Under Section 143(12), if an auditor has reason to believe that an offence of fraud is being committed against the company by its officers or employees involving an amount of ____ or above, he must report it to the Central Government.",
+    "options": [
+      "₹10 Lakh",
+      "₹25 Lakh",
+      "₹50 Lakh",
+      "₹1 Crore",
+      "₹5 Crore"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: ₹1 Crore</b><br><br><b>Rule (Section 143(12) + Rule 13):</b> If the amount of fraud is <b>₹1 Crore or above</b>, the auditor must report to the Central Government (Form ADT-4). If it is less than ₹1 Crore, he reports to the Board/Audit Committee.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "Rotation of auditors is applicable to all Unlisted Public Companies having a Paid-up Share Capital of:",
+    "options": [
+      "₹5 Crore or more",
+      "₹10 Crore or more",
+      "₹50 Crore or more",
+      "₹100 Crore or more",
+      "₹20 Crore or more"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ₹10 Crore or more</b><br><br><b>Rule (Section 139(2) + Rules):</b> Rotation is mandatory for Listed Companies, Unlisted Public Companies with Paid-up Capital $\\ge$ <b>₹10 Crore</b>, Private Companies with Paid-up Capital $\\ge$ ₹50 Crore, and companies with borrowings $\\ge$ ₹50 Crore.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "For a Government Company, the First Auditor is appointed by the Comptroller and Auditor General (CAG) within ____ days from registration.",
+    "options": [
+      "30 days",
+      "45 days",
+      "60 days",
+      "90 days",
+      "180 days"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 60 days</b><br><br><b>Rule (Section 139(7)):</b> The First Auditor of a Government Company shall be appointed by the CAG within <b>60 days</b> from the date of registration.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "The 'Cooling-off Period' for an audit firm after completing two consecutive terms of 5 years in a listed company is:",
+    "options": [
+      "3 years",
+      "5 years",
+      "2 years",
+      "10 years",
+      "1 year"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 5 years</b><br><br><b>Rule (Section 139(2)):</b> An audit firm which has completed its term (2 terms of 5 years) shall not be eligible for re-appointment in the same company for a period of <b>5 years</b>.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "Any casual vacancy in the office of an auditor caused by 'Resignation' shall be filled by the Board within 30 days, but such appointment must also be approved by the company at a General Meeting convened within ____ of the recommendation.",
+    "options": [
+      "3 months",
+      "6 months",
+      "30 days",
+      "60 days",
+      "Next AGM"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 3 months</b><br><br><b>Rule (Section 139(8)):</b> If vacancy is due to resignation, the Board appoints the new auditor within 30 days, but this must be approved by members in a General Meeting held within <b>3 months</b> of the Board's recommendation.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "Which of the following private companies is mandatorily required to appoint an Internal Auditor under Section 138?",
+    "options": [
+      "Turnover ₹150 Crore",
+      "Outstanding loans ₹50 Crore",
+      "Outstanding loans ₹110 Crore",
+      "Paid-up Capital ₹20 Crore",
+      "Deposits ₹10 Crore"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Outstanding loans ₹110 Crore</b><br><br><b>Rule (Section 138):</b> Private companies must appoint an Internal Auditor if: 1. Turnover $\\ge$ ₹200 Cr OR 2. Outstanding Loans/Borrowings $\\ge$ <b>₹100 Cr</b>. Option C meets the criteria.",
+    "marks": 2.0,
+    "negative": 0.5
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "What is the maximum penalty for an auditor under Section 147 if the contravention is done 'knowingly or willfully with the intention to deceive' the company or shareholders?",
+    "options": [
+      "₹1 Lakh",
+      "₹5 Lakh",
+      "₹25 Lakh",
+      "₹50 Lakh",
+      "₹10 Lakh"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: ₹25 Lakh</b><br><br><b>Rule (Section 147):</b> If contravention is willful/deceptive, the fine shall not be less than ₹50,000 but which may extend to <b>₹25,00,000</b> or 8 times the remuneration of the auditor, whichever is less.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "To remove an auditor before the expiry of his term, the company requires:",
+    "options": [
+      "Ordinary Resolution only",
+      "Special Resolution only",
+      "Special Resolution + Central Government Approval",
+      "Board Resolution + Central Government Approval",
+      "NCLT Order"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Special Resolution + Central Government Approval</b><br><br><b>Rule (Section 140(1)):</b> Removal of an auditor before expiry requires a previous approval of the <b>Central Government</b> (Form ADT-2) followed by a <b>Special Resolution</b> of the company.",
+    "marks": 1.0,
+    "negative": 0.25
+  },
+  {
+    "section": "Paper 2 (Specialized Stream)",
+    "topic": "Companies Act (Audit & Auditors)",
+    "question": "Mr. Y has given a guarantee to a bank for a loan taken by a Third Party. The guarantee amount is ₹1,50,000. Is Mr. Y eligible to be appointed as an auditor of the bank?",
+    "options": [
+      "Yes, the limit is ₹5,00,000",
+      "No, the limit is ₹1,00,000",
+      "Yes, because guarantee is for a third party",
+      "No, guarantee is strictly prohibited",
+      "Yes, if Board approves"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: No, the limit is ₹1,00,000</b><br><br><b>Rule (Section 141(3)(d)):</b> A person is disqualified if he has given a guarantee or provided any security in connection with the indebtedness of any third person to the company for an amount exceeding <b>₹1,00,000</b>.",
+    "marks": 2.0,
+    "negative": 0.5
+  }
+]
