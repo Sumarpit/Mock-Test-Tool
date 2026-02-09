@@ -179,21 +179,111 @@
         
         .pane-sidebar.collapsed { width: 0 !important; min-width: 0 !important; flex-basis: 0 !important; padding: 0 !important; border: none !important; overflow: hidden !important; }
 
-        /* --- TCS iON CBT SIMULATION MODE --- */
-        body.tcs-mode { background-color: #f0f0f0; font-family: 'Arial', sans-serif; }
-        body.tcs-mode header { background: #283593; height: 50px; box-shadow: none; border-bottom: 2px solid #1a237e; }
-        body.tcs-mode .exam-layout { display: flex; flex-direction: row; }
-        body.tcs-mode .pane-passage { display: block !important; width: 40%; border-right: 5px solid #dcdcdc; padding: 15px; background: #fff; font-size: 15px; font-family: Arial, sans-serif; line-height: 1.6; overflow-y: auto; }
-        body.tcs-mode .pane-question { flex: 1; padding: 15px; background: #f9f9f9; border-right: 5px solid #dcdcdc; }
-        .tcs-textarea { resize: none !important; width: 100%; height: 400px !important; border: 1px solid #7f8c8d; border-radius: 0; padding: 10px; font-family: 'Courier New', Courier, monospace; font-size: 16px; line-height: 1.5; background: #fff; box-shadow: inset 1px 1px 5px rgba(0,0,0,0.1); }
+        /* --- TCS iON CBT SIMULATION MODE (FIXED) --- */
+
+        /* 1. Base Layout Constraints */
+        body.tcs-mode {
+            background-color: #f0f0f0;
+            font-family: 'Arial', sans-serif;
+        }
+
+        /* 2. Header Adjustment */
+        body.tcs-mode header {
+            background: #283593;
+            height: 50px;
+            box-shadow: none;
+            border-bottom: 2px solid #1a237e;
+        }
+
+        /* 3. Split Screen Logic (Conditionals) */
+        body.tcs-mode .exam-layout {
+            display: flex;
+            flex-direction: row;
+        }
+
+        /* Only show split screen if passage is ACTIVE */
+        body.tcs-mode .pane-passage.active {
+            display: block !important;
+            width: 40%;
+            border-right: 5px solid #dcdcdc;
+            padding: 15px;
+            background: #fff;
+            font-size: 15px;
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            overflow-y: auto;
+        }
+
+        /* Default: Question takes full width */
+        body.tcs-mode .pane-question {
+            flex: 1;
+            padding: 15px;
+            background: #f9f9f9;
+            border-right: 5px solid #dcdcdc; /* Sidebar separator always visible */
+        }
+
+        /* 4. Text Area Styling (Descriptive Only) */
+        .tcs-textarea {
+            resize: none !important;
+            width: 100%;
+            height: 400px !important;
+            border: 1px solid #7f8c8d;
+            border-radius: 0;
+            padding: 10px;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 16px;
+            line-height: 1.5;
+            background: #fff;
+            box-shadow: inset 1px 1px 5px rgba(0,0,0,0.1);
+        }
         .tcs-textarea:focus { outline: 2px solid #2962ff; }
-        .tcs-word-count { background: #eeeeee; border: 1px solid #cccccc; color: #333; font-family: Arial, sans-serif; font-size: 12px; padding: 5px 8px; margin-top: -2px; text-align: left; font-weight: bold; }
-        body.tcs-mode .pane-sidebar { width: 280px !important; background: #eef1f5; border-left: 1px solid #ccc; display: flex !important; }
-        body.tcs-mode .fixed-footer { height: 60px; background: #f0f0f0; border-top: 1px solid #ccc; padding: 0 20px; justify-content: flex-end; }
-        body.tcs-mode .start-btn, body.tcs-mode #next-btn { background: #28a745 !important; border-radius: 2px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 13px; padding: 8px 20px; box-shadow: 0 1px 2px rgba(0,0,0,0.2); }
-        body.tcs-mode button[onclick="clearRes()"] { background: #ffffff !important; border: 1px solid #ccc !important; color: #333 !important; border-radius: 2px; text-transform: uppercase; font-weight: bold; font-size: 13px; }
-    </style>
-</head>
+
+        .tcs-word-count {
+            background: #eeeeee;
+            border: 1px solid #cccccc;
+            color: #333;
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+            padding: 5px 8px;
+            margin-top: -2px;
+            text-align: left;
+            font-weight: bold;
+        }
+
+        /* 5. Fixed Sidebar */
+        body.tcs-mode .pane-sidebar {
+            width: 280px !important;
+            background: #eef1f5;
+            border-left: 1px solid #ccc;
+            display: flex !important;
+        }
+
+        /* 6. Footer & Buttons */
+        body.tcs-mode .fixed-footer {
+            height: 60px;
+            background: #f0f0f0;
+            border-top: 1px solid #ccc;
+            padding: 0 20px;
+            justify-content: flex-end;
+        }
+        body.tcs-mode .start-btn, body.tcs-mode #next-btn { 
+            background: #28a745 !important; 
+            border-radius: 2px; 
+            font-family: Arial, Helvetica, sans-serif; 
+            text-transform: uppercase; 
+            font-size: 13px; 
+            padding: 8px 20px; 
+            box-shadow: 0 1px 2px rgba(0,0,0,0.2); 
+        }
+        body.tcs-mode button[onclick="clearRes()"] { 
+            background: #ffffff !important; 
+            border: 1px solid #ccc !important; 
+            color: #333 !important; 
+            border-radius: 2px; 
+            text-transform: uppercase; 
+            font-weight: bold; 
+            font-size: 13px; 
+        }
 <body>
 
 <div id="overlay" onclick="closeSidebar()"></div>
