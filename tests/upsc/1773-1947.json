@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "UPSC CSE Prelims - Constitutional Development (1773-1947) PYQs",
+    "description": "High-yield mock test based on UPSC Previous Year Questions covering Indian Constitutional Development from 1773 to 1947. (+2.0 / -0.66)",
+    "defaultMarks": 2.0,
+    "defaultNegative": 0.66
+  },
+  "questions": [
+    {
+      "section": "Modern History",
+      "topic": "Constitutional Development",
+      "question": "<b>Consider the following statements about 'the Charter Act of 1813':</b><br><br>1. It ended the trade monopoly of the East India Company in India except for trade in tea and trade with China.<br>2. It asserted the sovereignty of the British Crown over the Indian territories held by the Company.<br>3. The revenues of India were now controlled by the British Parliament.<br><br><b>Which of the statements given above are correct?</b>",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": 0,
+      "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> The Charter Act of 1813 ended the trade monopoly of the East India Company in India, except for the trade in tea and trade with China.<br><b>Statement 2 is correct:</b> It explicitly asserted the sovereignty of the British Crown over the Company’s territories in India.<br><b>Statement 3 is incorrect:</b> The revenues of India remained with the Company to pay a 10.5% dividend to its shareholders; it was not controlled by the British Parliament at this stage.",
+      "marks": 2.0,
+      "negative": 0.66
+    },
+    {
+      "section": "Modern History",
+      "topic": "Constitutional Development",
+      "question": "<b>By which one of the following Acts was the Governor General of Bengal designated as the Governor General of India?</b>",
+      "options": [
+        "The Regulating Act",
+        "The Pitt's India Act",
+        "The Charter Act of 1793",
+        "The Charter Act of 1833"
+      ],
+      "answer": 3,
+      "explanation": "<b>Correct Answer: The Charter Act of 1833</b><br><br>The Charter Act of 1833 was a significant constitutional landmark and the final step towards absolute centralization in British India. It elevated the Governor-General of Bengal to the 'Governor-General of India' and vested in him all civil and military powers. Lord William Bentinck became the first Governor-General of India.",
+      "marks": 2.0,
+      "negative": 0.66
+    },
+    {
+      "section": "Modern History",
+      "topic": "Constitutional Development",
+      "question": "<b>What was/were the object/objects of Queen Victoria’s Proclamation (1858)?</b><br><br>1. To disclaim any intention to annex Indian States.<br>2. To place the Indian administration under the British Crown.<br>3. To regulate East India Company’s trade with India.<br><br><b>Select the correct answer using the code given below:</b>",
+      "options": [
+        "1 and 2 only",
+        "2 only",
+        "1 and 3 only",
+        "1, 2 and 3 only"
+      ],
+      "answer": 0,
+      "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> Queen Victoria's Proclamation of 1858 disclaimed any intention to annex Indian States and promised to respect the rights, dignity, and honor of native princes.<br><b>Statement 2 is correct:</b> It officially transferred the power to govern India from the East India Company directly to the British Crown.<br><b>Statement 3 is incorrect:</b> The East India Company's rule (and its dual system of administration) was entirely abolished by the Government of India Act 1858, so there was no question of regulating its trade with India.",
+      "marks": 2.0,
+      "negative": 0.66
+    },
+    {
+      "section": "Modern History",
+      "topic": "Constitutional Development",
+      "question": "<b>In the Government of India Act 1919, the functions of Provincial Government were divided into 'Reserved' and 'Transferred' subjects. Which of the following were treated as 'Reserved' subjects?</b><br><br>1. Administration of Justice<br>2. Local Self-Government<br>3. Land Revenue<br>4. Police<br><br><b>Select the correct answer using the code given below:</b>",
+      "options": [
+        "1, 2 and 3",
+        "2, 3 and 4",
+        "1, 3 and 4",
+        "1, 2 and 4"
+      ],
+      "answer": 2,
+      "explanation": "<b>Correct Answer: 1, 3 and 4</b><br><br>The Government of India Act 1919 (Montagu-Chelmsford Reforms) introduced Dyarchy in the provinces, dividing provincial subjects into two parts.<br><b>Reserved Subjects:</b> Included crucial administrative areas like Police, Administration of Justice, Land Revenue, and Finance. These were administered by the Governor and his executive council without responsibility to the legislature.<br><b>Transferred Subjects:</b> Included areas like Local Self-Government, Public Health, Education, and Agriculture. These were administered by the Governor with the aid of ministers responsible to the legislative council. Therefore, Local Self-Government (Option 2) was a transferred subject, not reserved.",
+      "marks": 2.0,
+      "negative": 0.66
+    },
+    {
+      "section": "Modern History",
+      "topic": "Constitutional Development",
+      "question": "<b>In the context of Indian history, the principle of 'Dyarchy (diarchy)' refers to:</b>",
+      "options": [
+        "Division of the central legislature into two houses.",
+        "Introduction of double government i.e.; Central and State governments.",
+        "Having two sets of rulers; one in London and another in Delhi.",
+        "Division of the subjects delegated to the provinces into two categories."
+      ],
+      "answer": 3,
+      "explanation": "<b>Correct Answer: Division of the subjects delegated to the provinces into two categories.</b><br><br>Introduced by the Government of India Act 1919, 'Dyarchy' means double rule. It split provincial governance by dividing the administrative subjects delegated to the provinces into two categories: 'Reserved' subjects (controlled by British officials) and 'Transferred' subjects (controlled by Indian ministers).",
+      "marks": 2.0,
+      "negative": 0.66
+    },
+    {
+      "section": "Modern History",
+      "topic": "Constitutional Development",
+      "question": "<b>With reference to the Government of India Act, 1935, consider the following statements:</b><br><br>1. It provided for the establishment of an All-India Federation based on the union of the British Indian Provinces and Princely States.<br>2. Defence and Foreign Affairs were kept under the control of the federal legislature.<br><br><b>Which of the statements given above is/are correct?</b>",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": 0,
+      "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> The Government of India Act 1935 provided for the establishment of an All-India Federation consisting of provinces and princely states as units. However, this federation never materialized because the princely states refused to join.<br><b>Statement 2 is incorrect:</b> The Act proposed Dyarchy at the Federal level. Defence and Foreign Affairs were classified as 'Reserved' subjects, to be administered by the Governor-General directly, and were <i>not</i> kept under the control of the federal legislature.",
+      "marks": 2.0,
+      "negative": 0.66
+    },
+    {
+      "section": "Modern History",
+      "topic": "Constitutional Development",
+      "question": "<b>In the Federation established by The Government of India Act of 1935, residuary powers were given to the:</b>",
+      "options": [
+        "Federal Legislature",
+        "Governor General",
+        "Provincial Legislature",
+        "Provincial Governors"
+      ],
+      "answer": 1,
+      "explanation": "<b>Correct Answer: Governor General</b><br><br>The Government of India Act 1935 divided legislative powers into three lists (Federal List, Provincial List, and Concurrent List). Crucially, the residuary powers (subjects not mentioned in any of the three lists) were vested exclusively in the hands of the Viceroy/Governor-General, not in the federal or provincial legislatures.",
+      "marks": 2.0,
+      "negative": 0.66
+    }
+  ]
+}

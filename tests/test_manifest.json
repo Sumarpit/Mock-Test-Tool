@@ -105,6 +105,8 @@
 ,
 {"name": "dummy", "filename": "dummy.json", "path": "tests/ssc/dummy.json"}
 ,
+{"name": "1773-1947", "filename": "1773-1947.json", "path": "tests/upsc/1773-1947.json"}
+,
 {"name": "SFG 1", "filename": "SFG 1.json", "path": "tests/upsc/SFG 1.json"}
 ,
 {"name": "SFG 2", "filename": "SFG 2.json", "path": "tests/upsc/SFG 2.json"}
