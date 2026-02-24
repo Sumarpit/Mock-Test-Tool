@@ -103,5 +103,95 @@
     "explanation": "<b>Correct Answer: Governor General</b><br><br>The Government of India Act 1935 divided legislative powers into three lists (Federal List, Provincial List, and Concurrent List). Crucially, the residuary powers (subjects not mentioned in any of the three lists) were vested exclusively in the hands of the Viceroy/Governor-General, not in the federal or provincial legislatures.",
     "marks": 2.0,
     "negative": 0.66
+  },
+  {
+    "section": "Modern History",
+    "topic": "Constitutional Development",
+    "question": "<b>Consider the following statements:</b><br><br>1. The Montagu-Chelmsford Reforms of 1919 recommended granting voting rights to all women above the age of 21.<br>2. The Government of India Act of 1935 gave women reserved seats in the legislature.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The Montagu-Chelmsford Reforms (Government of India Act 1919) did not recommend granting voting rights to <i>all</i> women. It left the decision to provincial legislatures, and the franchise was severely restricted based on property and tax qualifications.<br><b>Statement 2 is correct:</b> The Government of India Act of 1935 extended the principle of communal representation by providing separate electorates and reserved seats for depressed classes, women, and labor (workers).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Modern History",
+    "topic": "Constitutional Development",
+    "question": "<b>Which of the following are the salient features of the Government of India Act, 1935?</b><br><br>I. Provincial Autonomy<br>II. Dyarchy at the Centre<br>III. Abolition of the India Council<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: I, II and III</b><br><br><b>Statement I is correct:</b> The Act abolished dyarchy in the provinces and introduced 'provincial autonomy'.<br><b>Statement II is correct:</b> It provided for the adoption of dyarchy at the Federal (Central) level, splitting subjects into reserved and transferred.<br><b>Statement III is correct:</b> It abolished the Council of India (India Council) that had been established by the Government of India Act of 1858, replacing it with a team of advisors.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Modern History",
+    "topic": "Constitutional Development",
+    "question": "<b>Which of the following led to the introduction of English Education in India?</b><br><br>1. Charter Act of 1813<br>2. General Committee of Public Instruction, 1823<br>3. Orientalist and Anglicist Controversy<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>Statement 1 is correct:</b> The Charter Act of 1813 allocated Rs. 1 Lakh annually for the promotion of literature and learning, laying the financial foundation for state-sponsored education.<br><b>Statement 2 is correct:</b> The General Committee of Public Instruction was formed in 1823 to oversee this expenditure and guide educational policy.<br><b>Statement 3 is correct:</b> The Orientalist-Anglicist controversy over the medium of instruction was ultimately resolved in favor of the Anglicists (via Macaulay's Minute, 1835), leading to the English Education Act of 1835.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Modern History",
+    "topic": "Constitutional Development",
+    "question": "<b>The Montague-Chelmsford Proposals were related to:</b>",
+    "options": [
+      "social reforms",
+      "educational reforms",
+      "reforms in police administration",
+      "constitutional reforms"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: constitutional reforms</b><br><br>The Montagu-Chelmsford Proposals led directly to the Government of India Act 1919. This Act introduced major <b>constitutional reforms</b>, most notably the system of 'Dyarchy' at the provincial level and a bicameral legislature at the center.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Modern History",
+    "topic": "Constitutional Development",
+    "question": "<b>The Radcliffe Committee was appointed to:</b>",
+    "options": [
+      "solve the problem of minorities in India",
+      "give effect to the Independence Bill",
+      "delimit the boundaries between India and Pakistan",
+      "enquire into the riots in East Bengal"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: delimit the boundaries between India and Pakistan</b><br><br>Following the passage of the Indian Independence Act of 1947, the Radcliffe Committee (Boundary Commission) was appointed under the chairmanship of Sir Cyril Radcliffe to demarcate the boundaries of the Bengal and Punjab provinces between the two newly formed dominions of India and Pakistan.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Modern History",
+    "topic": "Constitutional Development",
+    "question": "<b>Consider the following statements :</b><br><br><b>The Cripps Proposals include the provision for</b><br>1. Full independence for India.<br>2. Creation of Constitution-making body.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The Cripps Mission (1942) offered 'Dominion Status' to India after the end of World War II, not full independence. This was a major reason why it was rejected by Indian leaders.<br><b>Statement 2 is correct:</b> It proposed the creation of a constitution-making body (Constituent Assembly) elected by the provincial assemblies to frame a new Constitution.",
+    "marks": 2.0,
+    "negative": 0.66
   }
 ]
