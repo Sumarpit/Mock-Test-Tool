@@ -103,18 +103,11 @@
         header { height: 60px; background: var(--header-bg); color: white; display: flex; align-items: center; justify-content: space-between; padding: 0 20px; z-index: 3000; }
         header.review-mode { background: #343a40; border-bottom: 3px solid #ffc107; }
         .timer { font-weight: bold; background: #222; color: #00ff00; padding: 5px 10px; border-radius: 4px; font-family: monospace; font-size: 1.1rem; }
-        .exam-layout { display: flex; flex: 1; width: 100%; overflow: hidden; background: #e9ecef; position: relative; }
+        .exam-layout { display: flex; flex-direction: row; flex-wrap: nowrap; flex: 1; width: 100%; overflow: hidden; background: #e9ecef; position: relative; }
         
-        .pane-passage { 
-            flex: 1; 
-            background: #fffbf2; 
-            padding: 25px; 
-            overflow-y: auto; 
-            border-right: 1px solid #ddd; 
-            font-family: Georgia, serif; 
-            display: none; /* Hidden by default */
-        }
-        .pane-passage.active { display: block; } /* Only show if active */
+        /* Default Passage hidden unless .active is present */
+        .pane-passage { display: none; }
+        .pane-passage.active { display: block; flex: 1; background: #fffbf2; padding: 25px; overflow-y: auto; border-right: 1px solid #ddd; font-family: Georgia, serif; }
         
         .pane-question { flex: 1.2; background: #fff; padding: 20px; overflow-y: auto; display: flex; flex-direction: column; min-width: 300px; position: relative; }
 
@@ -132,8 +125,8 @@
         .tool-btn { width: 32px; height: 32px; border-radius: 50%; border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; background: #f5f5f5; transition: 0.2s; }
         .tool-btn.active { background: var(--accent); color: white; transform: scale(1.1); }
 
-        .pane-sidebar { width: 300px; background: #fff; display: flex; flex-direction: column; transition: width 0.3s ease; }
-        .pane-sidebar.collapsed { width: 0; overflow: hidden; }
+        .pane-sidebar { width: 300px; background: #fff; display: flex; flex-direction: column; transition: width 0.3s ease; border-left: 1px solid #ccc; }
+        .pane-sidebar.collapsed { width: 0 !important; min-width: 0 !important; flex-basis: 0 !important; padding: 0 !important; border: none !important; overflow: hidden !important; }
         .palette-grid { flex: 1; overflow-y: auto; padding: 15px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; align-content: start; }
         .pal-btn { height: 35px; border: 1px solid #ddd; background: #fff; cursor: pointer; display: flex; align-items: center; justify-content: center; font-weight: bold; }
         .pal-btn.ans { background: var(--correct); color: white; border: none; }
@@ -172,9 +165,9 @@
         .mobile-menu { display: none !important; }
 
         @media (max-width: 768px) {
-            .pane-passage { height: 35%; border-bottom: 2px solid #ccc; border-right: none; flex: none; }
+            .pane-passage.active { height: 35%; flex: none; width: 100% !important; border-bottom: 2px solid #ccc; border-right: none; }
             .sidebar-handle { display: none !important; }
-            .pane-sidebar { position: fixed; top: 60px; right: -100%; height: calc(100dvh - 120px); z-index: 4000; width: 85%; box-shadow: -5px 0 15px rgba(0,0,0,0.2); }
+            .pane-sidebar { position: fixed; top: 60px; right: -100%; height: calc(100dvh - 120px); z-index: 4000; width: 85% !important; box-shadow: -5px 0 15px rgba(0,0,0,0.2); }
             .pane-sidebar.open { right: 0; }
             .mobile-nav { display: flex !important; height: 60px; background: #fff; border-top: 1px solid #ccc; align-items: center; justify-content: space-around; z-index: 3000; padding-bottom: env(safe-area-inset-bottom); }
             .mobile-menu { display: block !important; }
@@ -185,114 +178,37 @@
             .test-label { max-width: 150px; font-size: 0.85rem; }
             .footer-actions { width: 100%; justify-content: space-between; }
         }
+
+        /* ========================================================
+           --- STRICT TCS iON CBT SIMULATION MODE ---
+           ======================================================== */
         
-        .pane-sidebar.collapsed { width: 0 !important; min-width: 0 !important; flex-basis: 0 !important; padding: 0 !important; border: none !important; overflow: hidden !important; }
-
-        /* --- TCS iON CBT SIMULATION MODE (FIXED) --- */
-
-        /* 1. Base Layout Constraints */
-        body.tcs-mode {
-            background-color: #f0f0f0;
-            font-family: 'Arial', sans-serif;
-        }
-
-        /* 2. Header Adjustment */
-        body.tcs-mode header {
-            background: #283593;
-            height: 50px;
-            box-shadow: none;
-            border-bottom: 2px solid #1a237e;
-        }
-
-        /* 3. Split Screen Logic (Conditionals) */
-        body.tcs-mode .exam-layout {
-            display: flex;
-            flex-direction: row;
-        }
-
-        /* Only show split screen if passage is ACTIVE */
-        body.tcs-mode .pane-passage.active {
-            display: block !important;
-            width: 40%;
-            border-right: 5px solid #dcdcdc;
-            padding: 15px;
-            background: #fff;
-            font-size: 15px;
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            overflow-y: auto;
-        }
-
-        /* Default: Question takes full width unless passage is active */
-        body.tcs-mode .pane-question {
-            flex: 1;
-            padding: 15px;
-            background: #f9f9f9;
-            border-right: 5px solid #dcdcdc; /* Sidebar separator always visible */
-        }
-
-        /* 4. Text Area Styling (Descriptive Only) */
-        .tcs-textarea {
-            resize: none !important;
-            width: 100%;
-            height: 400px !important;
-            border: 1px solid #7f8c8d;
-            border-radius: 0;
-            padding: 10px;
-            font-family: 'Courier New', Courier, monospace;
-            font-size: 16px;
-            line-height: 1.5;
-            background: #fff;
-            box-shadow: inset 1px 1px 5px rgba(0,0,0,0.1);
-        }
+        body.tcs-mode { background-color: #f0f0f0; font-family: 'Arial', sans-serif; }
+        body.tcs-mode header { background: #283593; height: 50px; box-shadow: none; border-bottom: 2px solid #1a237e; }
+        
+        body.tcs-mode .exam-layout { display: flex !important; flex-direction: row !important; flex-wrap: nowrap !important; }
+        
+        /* Hide passage entirely unless it has content */
+        body.tcs-mode .pane-passage { display: none !important; }
+        
+        /* If passage has content, force it to 40% width */
+        body.tcs-mode .pane-passage.active { display: block !important; flex: 0 0 40% !important; border-right: 5px solid #dcdcdc; padding: 15px; background: #fff; font-size: 15px; font-family: Arial, sans-serif; line-height: 1.6; overflow-y: auto; }
+        
+        /* Question panel takes remaining space flexibly */
+        body.tcs-mode .pane-question { flex: 1 !important; padding: 15px; background: #f9f9f9; border-right: 5px solid #dcdcdc; }
+        
+        /* Sidebar strictly forced to the right, never overlaps bottom */
+        body.tcs-mode .pane-sidebar { display: flex !important; flex: 0 0 280px !important; background: #eef1f5; border-left: 1px solid #ccc; height: 100%; }
+        body.tcs-mode .sidebar-handle { display: none !important; } /* Hide handle, sidebar always locked */
+        
+        body.tcs-mode .fixed-footer { height: 60px; background: #f0f0f0; border-top: 1px solid #ccc; padding: 0 20px; justify-content: flex-end; }
+        
+        .tcs-textarea { resize: none !important; width: 100%; height: 400px !important; border: 1px solid #7f8c8d; border-radius: 0; padding: 10px; font-family: 'Courier New', Courier, monospace; font-size: 16px; line-height: 1.5; background: #fff; box-shadow: inset 1px 1px 5px rgba(0,0,0,0.1); }
         .tcs-textarea:focus { outline: 2px solid #2962ff; }
-
-        .tcs-word-count {
-            background: #eeeeee;
-            border: 1px solid #cccccc;
-            color: #333;
-            font-family: Arial, sans-serif;
-            font-size: 12px;
-            padding: 5px 8px;
-            margin-top: -2px;
-            text-align: left;
-            font-weight: bold;
-        }
-
-        /* 5. Fixed Sidebar */
-        body.tcs-mode .pane-sidebar {
-            width: 280px !important;
-            background: #eef1f5;
-            border-left: 1px solid #ccc;
-            display: flex !important;
-        }
-
-        /* 6. Footer & Buttons */
-        body.tcs-mode .fixed-footer {
-            height: 60px;
-            background: #f0f0f0;
-            border-top: 1px solid #ccc;
-            padding: 0 20px;
-            justify-content: flex-end;
-        }
-        body.tcs-mode .start-btn, body.tcs-mode #next-btn { 
-            background: #28a745 !important; 
-            border-radius: 2px; 
-            font-family: Arial, Helvetica, sans-serif; 
-            text-transform: uppercase; 
-            font-size: 13px; 
-            padding: 8px 20px; 
-            box-shadow: 0 1px 2px rgba(0,0,0,0.2); 
-        }
-        body.tcs-mode button[onclick="clearRes()"] { 
-            background: #ffffff !important; 
-            border: 1px solid #ccc !important; 
-            color: #333 !important; 
-            border-radius: 2px; 
-            text-transform: uppercase; 
-            font-weight: bold; 
-            font-size: 13px; 
-        }
+        .tcs-word-count { background: #eeeeee; border: 1px solid #cccccc; color: #333; font-family: Arial, sans-serif; font-size: 12px; padding: 5px 8px; margin-top: -2px; text-align: left; font-weight: bold; }
+        
+        body.tcs-mode .start-btn, body.tcs-mode #next-btn { background: #28a745 !important; border-radius: 2px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 13px; padding: 8px 20px; box-shadow: 0 1px 2px rgba(0,0,0,0.2); }
+        body.tcs-mode button[onclick="clearRes()"] { background: #ffffff !important; border: 1px solid #ccc !important; color: #333 !important; border-radius: 2px; text-transform: uppercase; font-weight: bold; font-size: 13px; }
     </style>
 </head>
 <body>
@@ -343,7 +259,6 @@
                     <div class="toggle-btn" id="multiToggle" onclick="toggleMultiSelect()">❑ Multi</div>
                 </div>
             </div>
-            
             <div id="file-grid" class="file-grid"></div>
         </div>
 
@@ -364,7 +279,6 @@
             <input type="number" id="mInput" class="mini-input" value="00"> <span style="font-weight:bold">:</span>
             <input type="number" id="sInput" class="mini-input" value="00">
         </div>
-        
         <div class="footer-actions">
             <span id="selected-test-label" class="test-label"></span>
             <button class="resume-btn" id="resume-btn" onclick="resumeExam()">RESUME</button>
@@ -389,20 +303,17 @@
         </div>
 
         <div class="pane-question" id="touch-area">
-            
             <div class="annot-toolbar">
                 <button class="tool-btn active" id="tool-pen" onclick="setTool('pen')" title="Pen">🖊️</button>
                 <button class="tool-btn" id="tool-high" onclick="setTool('highlighter')" title="Highlighter">🖍️</button>
                 <button class="tool-btn" onclick="clearCanvas()" title="Clear">🧹</button>
             </div>
-
             <canvas id="drawing-canvas"></canvas>
 
             <div class="q-meta">
                 <span><span id="q-sec">Sec</span> | <span id="q-topic">Top</span></span>
                 <span>Q. <span id="q-num">1</span></span>
             </div>
-            
             <div class="q-text" id="q-text">Loading...</div>
             <div id="options-box"></div>
 
@@ -525,7 +436,6 @@
     
     window.onload = async () => { 
         try { 
-            // 1. Load Profile
             const savedProfile = localStorage.getItem(BASE_KEY + 'profile');
             if (savedProfile && typeof EXAM_PROFILES !== 'undefined' && EXAM_PROFILES[savedProfile]) {
                 currentProfile = savedProfile;
@@ -543,7 +453,6 @@
             loadHistory(); 
             checkResume();
             
-            // 2. Load Wisdom Data (Background)
             await loadWisdomData();
             
         } catch(e){ console.error("Init Error:", e); } 
@@ -551,7 +460,6 @@
 
     function updateKeys() { LIB_KEY = BASE_KEY + 'lib_' + currentProfile; HIST_KEY = BASE_KEY + 'hist_' + currentProfile; }
 
-    // --- SWITCHER ---
     function initExamSelector() {
         const sel = document.getElementById('examSelector'); 
         if(!sel) return; sel.innerHTML = '';
@@ -571,7 +479,6 @@
             library = {}; cloudList = []; activeFile = ''; selectedFiles.clear();
             loadLibraryFromStorage(); loadFromGitHubAPI(); loadHistory(); renderGrid(); updateTimerUI();
             
-            // RESET BUTTON TEXT
             document.getElementById('start-btn').innerText = "SELECT TEST"; 
             document.getElementById('start-btn').disabled = true;
             document.getElementById('selected-test-label').innerText = "";
@@ -590,14 +497,9 @@
     async function loadWisdomData() {
         try {
             const res = await fetch('gita_shlokas.json');
-            if(res.ok) {
-                gitaVerses = await res.json();
-            } else {
-                console.warn("Could not load Gita verses.");
-            }
-        } catch(err) {
-            console.warn("Offline or missing gita_shlokas.json");
-        }
+            if(res.ok) { gitaVerses = await res.json(); } 
+            else { console.warn("Could not load Gita verses."); }
+        } catch(err) { console.warn("Offline or missing gita_shlokas.json"); }
     }
 
     function openShlokaModal() {
@@ -612,14 +514,12 @@
     function renderRandomShloka() {
         if (!gitaVerses || gitaVerses.length === 0) {
             document.getElementById('shloka-sanskrit').innerText = "Loading wisdom...";
-            // Try loading again if empty
             loadWisdomData().then(() => {
                 if(gitaVerses.length > 0) renderRandomShloka();
                 else document.getElementById('shloka-sanskrit').innerText = "Shlokas not found. (Check gita_shlokas.json)";
             });
             return;
         }
-        
         const s = gitaVerses[Math.floor(Math.random() * gitaVerses.length)];
         document.getElementById('shloka-ref').innerText = `Chapter ${s.chapter}, Verse ${s.verse}`;
         document.getElementById('shloka-sanskrit').innerText = s.sanskrit;
@@ -628,9 +528,7 @@
 
     window.addEventListener('click', function(event) {
         const modal = document.getElementById('shlokaModal');
-        if (event.target === modal) {
-            closeShlokaModal();
-        }
+        if (event.target === modal) { closeShlokaModal(); }
     });
 
     // --- DATA ---
@@ -651,12 +549,9 @@
             const res = await fetch(item.path); const data = await res.json();
             library[item.name] = data; saveLibraryToStorage();
             activeFile = item.name; 
-            
-            // UPDATE BUTTON & LABEL
             document.getElementById('selected-test-label').innerText = item.name.replace(/\.json$/i, '');
             document.getElementById('start-btn').innerText = 'START';
             document.getElementById('start-btn').disabled = false;
-            
             renderGrid();
         } catch(e) { alert("Error loading file"); }
     }
@@ -697,7 +592,6 @@
                 } else {
                     if(item.source==='local') { 
                         activeFile = item.name; 
-                        // UPDATE BUTTON & LABEL
                         document.getElementById('selected-test-label').innerText = item.name.replace(/\.json$/i, '');
                         document.getElementById('start-btn').innerText = 'START';
                         document.getElementById('start-btn').disabled = false; 
@@ -739,23 +633,17 @@
             const parsed = JSON.parse(content);
             const fname = name.endsWith('.json')?name:name+'.json';
             
-            // 1. Save Locally
             library[fname] = parsed; saveLibraryToStorage();
             activeFile = fname; renderGrid();
             
-            // UPDATE BUTTON & LABEL
             document.getElementById('selected-test-label').innerText = fname.replace(/\.json$/i, '');
             document.getElementById('start-btn').innerText='START';
             document.getElementById('start-btn').disabled=false;
             
-            // 2. Prepare for GitHub Issue
             await navigator.clipboard.writeText(content);
             
-            // --- NEW LOGIC: CALCULATE SUBFOLDER ---
             const profileFolder = EXAM_PROFILES[currentProfile].folder || 'tests/general'; 
             const subDir = profileFolder.replace(/^tests\//, ''); 
-            
-            // If subDir exists, prepend it (e.g., "upsc/Test1.json")
             const gitHubTitle = subDir ? `${subDir}/${fname}` : fname;
 
             window.open(`https://github.com/${REPO_OWNER}/${REPO_NAME}/issues/new?title=${encodeURIComponent(gitHubTitle)}&labels=new-test`, '_blank');
@@ -772,13 +660,12 @@
         });
     }
 
-    // --- EXAM LOGIC (UPDATED) ---
+    // --- EXAM LOGIC (BULLETPROOF PARSING) ---
     function prepareQuestions(inputData) {
         let rawList = [];
 
-        // 1. Detect Format: Is it the New "Object" format or Old "Array"?
-        if (!Array.isArray(inputData) && inputData.questions) {
-            // NEW FORMAT DETECTED (Object with 'questions' and 'passages')
+        if (inputData && !Array.isArray(inputData) && Array.isArray(inputData.questions)) {
+            // NEW FORMAT DETECTED
             rawList = inputData.questions.map(q => {
                 if (q.passageId && inputData.passages && inputData.passages[q.passageId]) {
                     q.passage = inputData.passages[q.passageId];
@@ -786,24 +673,24 @@
                 return q;
             });
         } else if (Array.isArray(inputData)) {
-            // OLD FORMAT (Just a list of questions)
+            // OLD FORMAT
             rawList = inputData;
         } else {
-            console.error("Invalid Data Format");
+            console.error("Invalid Data Format", inputData);
             return [];
         }
 
+        if (rawList.length === 0) return [];
+
         let groups = [], cur = [];
-        
-        // 2. Grouping Logic
         rawList.forEach((q, index) => {
             if (index === 0) { cur.push(q); } 
             else {
                 const prev = rawList[index - 1];
-                const p1 = q.passage ? q.passage.trim() : "";
-                const p2 = prev.passage ? prev.passage.trim() : "";
+                const p1 = q.passage ? String(q.passage).trim() : "";
+                const p2 = prev.passage ? String(prev.passage).trim() : "";
                 const sameP = p1 && p2 && (p1 === p2);
-                const sameG = q.group_id && prev.group_id && (q.group_id === prev.group_id);
+                const sameG = q.group_id && prev.group_id && (String(q.group_id) === String(prev.group_id));
                 
                 if (sameP || sameG) { cur.push(q); } 
                 else { groups.push(cur); cur = [q]; }
@@ -811,7 +698,6 @@
         });
         if (cur.length > 0) groups.push(cur);
 
-        // 3. Shuffle Question Groups
         const shouldShuffle = EXAM_PROFILES[currentProfile].shuffle !== false;
 
         if (shouldShuffle) {
@@ -821,12 +707,12 @@
             }
         }
 
-        // 4. Flatten and Process Options
-        return groups.flat().map(q => {
+        // Safely flatten array without relying on ES6 .flat() just in case, and protect options parsing
+        let flattened = [].concat(...groups);
+        return flattened.map(q => {
             let nq = JSON.parse(JSON.stringify(q));
-            
-            if (nq.type !== 'descriptive' && nq.noShuffle !== true && shouldShuffle) {
-                const fixed = ["Both", "All of", "None of", "Only A"].some(x => nq.options.some(o => o.includes(x)));
+            if (nq.type !== 'descriptive' && nq.noShuffle !== true && shouldShuffle && Array.isArray(nq.options)) {
+                const fixed = ["Both", "All of", "None of", "Only A"].some(x => nq.options.some(o => typeof o === 'string' && o.includes(x)));
                 if (!fixed) {
                     let ansTxt = nq.options[nq.answer];
                     for (let i = nq.options.length - 1; i > 0; i--) {
@@ -840,22 +726,12 @@
         });
     }
 
-    // --- SIDEBAR & NAVIGATION FUNCTIONS ---
     function toggleSidebar() {
         const sb = document.getElementById('pane-sidebar');
         const handle = document.querySelector('.sidebar-handle');
-        
-        // Toggle the class
         sb.classList.toggle('collapsed');
-        
-        // Update the arrow icon
-        if (sb.classList.contains('collapsed')) {
-            handle.innerText = '◀'; 
-        } else {
-            handle.innerText = '▶';
-        }
-        
-        // Resize canvas if annotation is active
+        if (sb.classList.contains('collapsed')) { handle.innerText = '◀'; } 
+        else { handle.innerText = '▶'; }
         if (typeof resizeAndLoadCanvas === 'function' && typeof currIdx !== 'undefined') {
             setTimeout(() => resizeAndLoadCanvas(currIdx), 300); 
         }
@@ -884,7 +760,13 @@
             if(!activeFile || !library[activeFile]) return;
             raw = library[activeFile];
         }
+        
         questions = prepareQuestions(raw);
+        if (questions.length === 0) {
+            alert("No valid questions found in this test. Please check the JSON format.");
+            return;
+        }
+
         responses = {}; confidence = {}; visited = {}; 
         qTimers = {}; currIdx = 0; lastQTime = 0;
         
@@ -906,7 +788,6 @@
 
         questions.forEach((_,i) => visited[i]=false);
         
-        // --- HOOK: EXAM START ---
         if(typeof EXAM_HOOKS !== 'undefined' && EXAM_HOOKS.onExamStart) {
             EXAM_HOOKS.onExamStart(currentProfile);
         }
@@ -915,15 +796,22 @@
     }
 
     function loadQ(i) {
+        if (!questions || questions.length === 0) return;
         if (lastQTime !== 0) { qTimers[currIdx] = (qTimers[currIdx] || 0) + (Date.now() - lastQTime) / 1000; }
         lastQTime = Date.now(); 
 
         currIdx = i; visited[i] = true;
         const q = questions[i];
         
+        // --- STRICT PASSAGE PANE LOGIC ---
         const passDiv = document.getElementById('pane-passage');
-        if(q.passage) { passDiv.classList.add('active'); document.getElementById('passage-content').innerHTML = q.passage; }
-        else { passDiv.classList.remove('active'); }
+        if(q.passage && String(q.passage).trim() !== '') { 
+            passDiv.classList.add('active'); 
+            document.getElementById('passage-content').innerHTML = q.passage; 
+        } else { 
+            passDiv.classList.remove('active'); 
+            document.getElementById('passage-content').innerHTML = ''; // Clear it out completely
+        }
 
         document.getElementById('q-num').innerText = i+1;
         document.getElementById('q-sec').innerText = q.section || '-';
@@ -933,7 +821,6 @@
         const box = document.getElementById('options-box'); box.innerHTML = '';
         const cBox = document.getElementById('conf-box');
 
-        // Reset Confidence Box to Default (Block)
         cBox.style.display = 'block';
 
         if (q.type === 'descriptive') {
@@ -947,9 +834,9 @@
             textArea.oninput = (e) => { responses[i] = e.target.value; saveState(); };
             box.appendChild(textArea);
             
-            cBox.style.display = 'none'; // Default hide for descriptive
+            cBox.style.display = 'none'; 
 
-        } else {
+        } else if (Array.isArray(q.options)) {
             q.options.forEach((opt, idx) => {
                 const div = document.createElement('div'); div.className = 'opt-label';
                 if(responses[i] === idx) div.classList.add('selected');
@@ -958,7 +845,6 @@
                 box.appendChild(div);
             });
 
-            // Update Confidence
             const cBtns = document.querySelectorAll('.c-btn');
             if(responses[i] !== undefined) {
                 cBox.classList.add('active');
@@ -973,7 +859,6 @@
         if(i === questions.length-1) { btn.innerText = "Submit Test"; btn.style.background = "#e67e22"; }
         else { btn.innerText = "Save & Next"; btn.style.background = "#2962ff"; }
         
-        // --- HOOK: QUESTION LOAD ---
         if(typeof EXAM_HOOKS !== 'undefined' && EXAM_HOOKS.onQuestionLoad) {
             EXAM_HOOKS.onQuestionLoad(currentProfile, q, i);
         }
@@ -1031,6 +916,14 @@
 
     function resumeExam() {
         const d = JSON.parse(localStorage.getItem(BASE_KEY+'resume_'+currentProfile));
+        
+        // Defensive check against corrupted state
+        if (!d.questions || d.questions.length === 0) {
+            alert("Saved exam state was corrupted or empty. Restarting.");
+            localStorage.removeItem(BASE_KEY+'resume_'+currentProfile);
+            return;
+        }
+
         loadLibraryFromStorage();
         activeFile = d.activeFile; questions = d.questions;
         responses = d.responses; confidence = d.confidence; visited = d.visited;
@@ -1049,13 +942,12 @@
 
         let score=0, cor=0, wrg=0, skip=0;
         let tStats={}, cStats={ '100%':{c:0,w:0}, '50:50':{c:0,w:0}, 'Logic':{c:0,w:0}, 'Guess':{c:0,w:0} };
-        reviewSet = []; // Reset review set
+        reviewSet = []; 
         
         questions.forEach((q, i) => {
             const top = q.topic || 'General';
             if(!tStats[top]) tStats[top] = {t:0, c:0, w:0}; 
             
-            // Always review descriptive questions
             if (q.type === 'descriptive') {
                 reviewSet.push(q);
                 return; 
@@ -1068,11 +960,9 @@
             let qMark = q.marks ? parseFloat(q.marks) : EXAM_PROFILES[currentProfile].marks;
             let qNeg = q.negative ? parseFloat(q.negative) : (q.marks ? parseFloat(q.marks)*0.25 : EXAM_PROFILES[currentProfile].neg);
 
-            // --- 1. SCORING LOGIC ---
             if(ans === undefined) { 
                 skip++; 
-            } 
-            else {
+            } else {
                 if(ans === q.answer) {
                     score += qMark; cor++; tStats[top].c++;
                     if(conf && cStats[conf]) cStats[conf].c++;
@@ -1082,7 +972,6 @@
                 }
             }
 
-            // --- 2. SMART REVIEW LOGIC (UPDATED) ---
             const isWrong = (ans !== undefined && ans !== q.answer);
             const isSkipped = (ans === undefined);
             const isUncertain = (conf === 'Guess' || conf === 'Logic');
@@ -1094,7 +983,7 @@
 
         initialScore = score; 
 
-        if(!isReviewMode) {
+        if(!isReviewMode && activeFile) {
             const dur = parseInt(document.getElementById('hInput').value)*3600 + 
                         parseInt(document.getElementById('mInput').value)*60 + 
                         parseInt(document.getElementById('sInput').value);
@@ -1106,12 +995,11 @@
         document.getElementById('exam-screen').classList.remove('active');
         document.getElementById('result-screen').classList.add('active');
         
-        document.getElementById('res-fname').innerText = activeFile.replace(/\.json$/i, '');
+        document.getElementById('res-fname').innerText = activeFile ? activeFile.replace(/\.json$/i, '') : "Mock Test";
         document.getElementById('scoreSelector').value = 'initial'; 
         
         updateResultCards(score, cor, wrg, skip);
         
-        // TABLES
         const tc = document.getElementById('tbl-conf').querySelector('tbody'); tc.innerHTML='';
         Object.keys(cStats).forEach(k => {
             const d = cStats[k], tot = d.c+d.w;
@@ -1125,6 +1013,11 @@
         });
 
         const rev = document.getElementById('review-list'); rev.innerHTML = '';
+        
+        if (questions.length === 0) {
+            rev.innerHTML = '<div style="padding:20px; text-align:center;">No questions found in this test to review.</div>';
+        }
+
         questions.forEach((q, i) => {
             const t = Math.round(qTimers[i] || 0);
             const ts = t > 60 ? Math.floor(t/60) + 'm ' + (t%60) + 's' : t + 's';
@@ -1168,10 +1061,10 @@
                     <div style="margin-bottom:10px;">${q.question}</div>
                     <div style="font-size:0.9rem;">
                         You: <b>${uAns}</b> <br>
-                        Ans: <span class="txt-green">${q.options[q.answer]}</span>
+                        Ans: <span class="txt-green">${q.options ? q.options[q.answer] : ''}</span>
                     </div>
                     <div style="background:#f9f9f9; padding:8px; margin-top:10px; font-size:0.9rem;">
-                        <b>Exp:</b> ${q.explanation}
+                        <b>Exp:</b> ${q.explanation || 'No explanation provided.'}
                     </div>
                 </div>`;
         });
@@ -1189,7 +1082,72 @@
         }
     }
 
-    // --- UPDATED AI PROMPT FUNCTION ---
+    function recalcScore() {
+        const type = document.getElementById('scoreSelector').value;
+        const cor = parseInt(document.getElementById('r-cor').innerText);
+        const wrg = parseInt(document.getElementById('r-wrg').innerText);
+        let newScore = 0;
+        if (type === 'initial') newScore = initialScore;
+        else if (type === 'raw') newScore = cor * 1;
+        else {
+            const schemes = { 'sebi1': { p: 1.25, n: 0.3125 }, 'sebi2': { p: 1.0, n: 0.25 }, 'ssc': { p: 2.0, n: 0.5 }, 'upsc': { p: 2.0, n: 0.66 }, 'rbi': { p: 1.0, n: 0.25 } };
+            const s = schemes[type];
+            if(s) newScore = (cor * s.p) - (wrg * s.n);
+        }
+        document.getElementById('r-score').innerText = newScore.toFixed(2);
+    }
+
+    function updateResultCards(s, c, w, k) {
+        document.getElementById('r-score').innerText = s.toFixed(2);
+        document.getElementById('r-cor').innerText = c;
+        document.getElementById('r-wrg').innerText = w;
+        document.getElementById('r-skip').innerText = k;
+    }
+
+    function startSmartReview() {
+        if(!reviewSet.length) return;
+        if(confirm("Start Review?")) {
+            isReviewMode = true; questions = prepareQuestions(reviewSet);
+            activeFile += " (Review)"; responses={}; confidence={}; visited={}; currIdx=0; seconds=0; qTimers={};
+            initExamUI();
+        }
+    }
+
+    function loadHistory() {
+        const h = JSON.parse(localStorage.getItem(HIST_KEY)||'[]');
+        const l = document.getElementById('history-list'); l.innerHTML='';
+        if(h.length) {
+            document.getElementById('no-history').style.display='none';
+            h.slice(0,10).forEach(x => {
+                l.innerHTML += `<tr><td>${x.name.substring(0,20)}<br><small>${x.date}</small></td><td><b>${x.score}</b></td><td><button class="retake" onclick="retakeTest('${x.name}', ${x.dur})">Retake</button></td></tr>`;
+            });
+        }
+    }
+    
+    function clearHistory() { localStorage.removeItem(HIST_KEY); loadHistory(); }
+    
+    function retakeTest(n, d) {
+        if(!library[n]) { alert("Missing file"); return; }
+        if(!confirm("Retake?")) return;
+        isReviewMode=false; questions=prepareQuestions(library[n]); activeFile=n;
+        seconds=d; responses={}; confidence={}; visited={}; qTimers={}; currIdx=0;
+        localStorage.removeItem(BASE_KEY+'resume_'+currentProfile);
+        initExamUI();
+    }
+    
+    function returnToLibrary() { document.getElementById('result-screen').classList.remove('active'); document.getElementById('upload-screen').classList.add('active'); renderGrid(); loadHistory(); }
+    
+    function downloadRes() {
+        const html = document.getElementById('result-screen').innerHTML;
+        const css = document.getElementsByTagName('style')[0].innerText;
+        const blob = new Blob([`<html><head><style>${css} body{overflow:visible;} #result-screen{display:block!important;}</style></head><body><div id="result-screen">${html}</div></body></html>`], {type:'text/html'});
+        
+        let cleanName = activeFile.replace(/\.json$/i, '').replace(/ \(Review\)$/i, '');
+        cleanName = cleanName.replace(/[^a-z0-9\-_]/gi, '_');
+        
+        const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = `Result_${cleanName}.html`; a.click();
+    }
+
     function copyDescriptivePrompt(idx) {
         const q = questions[idx];
         const userAns = responses[idx] || "";
