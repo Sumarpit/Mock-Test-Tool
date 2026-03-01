@@ -1,0 +1,302 @@
+[
+  {
+    "section": "Polity",
+    "topic": "Digital Access & Fundamental Rights",
+    "question": "<b>Consider the following statements regarding the right to digital access in India:</b><br><br>1. The Supreme Court has recognized the 'right to digital access' as an instinctive component of the Right to Life and Liberty under Article 21.<br>2. The Rights of Persons with Disabilities (RPwD) Act, 2016 aligns with Article 9 of the UN Convention on the Rights of Persons with Disabilities (UNCRPD) to ensure accessibility in digital finance.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>Statement 1 is correct:</b> The Supreme Court, while hearing pleas on inclusive KYC procedures, emphasized that digital access is an instinctive component of Article 21.<br><b>Statement 2 is correct:</b> India is a signatory to the UNCRPD. Section 46 of the RPwD Act, 2016 aligns with Article 9 of the UNCRPD to mandate accessibility in services, including digital finance.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Digital Access & Fundamental Rights",
+    "question": "<b>With reference to the Know-Your-Customer (KYC) framework in India, consider the following statements:</b><br><br>1. The KYC process is statutorily mandated under the Prevention of Money Laundering Act (PMLA), 2002.<br>2. The Reserve Bank of India strictly prohibits the use of Video-based Customer Identification Process (V-CIP) for remote customer verification due to cybersecurity concerns.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> The KYC process is mandated under the Prevention of Money Laundering Act (PMLA), 2002 to verify customer identity.<br><b>Statement 2 is incorrect:</b> <b>Trap Alert!</b> The RBI does <i>not</i> prohibit V-CIP. In fact, Clause 18 of the KYC Direction, 2016 explicitly introduces V-CIP, enabling secure, real-time video interaction for remote customer verification.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Supreme Court’s Advisory Jurisdiction",
+    "question": "<b>Consider the following statements regarding the Advisory Jurisdiction of the Supreme Court under Article 143:</b><br><br>1. Under Article 143(1), the Supreme Court is constitutionally bound to tender its opinion on any question of law or fact referred to it by the President.<br>2. Under Article 143(2), which deals with pre-Constitution treaties and agreements, the Supreme Court may choose to decline its opinion.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Trap Alert:</b> The examiner has swapped the provisions of 143(1) and 143(2).<br><b>Statement 1 is incorrect:</b> Under Article 143(1) (public importance), the SC <i>may choose</i> to give or decline its opinion.<br><b>Statement 2 is incorrect:</b> Under Article 143(2) (pre-Constitution treaties), the SC <i>must</i> tender its opinion to the President.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Supreme Court’s Advisory Jurisdiction",
+    "question": "<b>With reference to the Supreme Court's Advisory Jurisdiction, consider the following statements:</b><br><br>1. A minimum of five judges must constitute the Constitution Bench to hear a Presidential Reference under Article 143.<br>2. The Supreme Court can overturn its own settled judicial decisions by utilizing its advisory jurisdiction under Article 143.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> Under Article 145(3), at least a five-judge Constitution Bench is mandatory to hear Presidential References.<br><b>Statement 2 is incorrect:</b> Article 143 <i>cannot</i> overturn settled judicial decisions (e.g., Cauvery case). Final judgments can only be challenged through review or curative petitions, though the SC can clarify principles without disturbing the decision.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Rights of Pedestrians Under Article 21",
+    "question": "<b>In the context of the Indian Constitution, the 'Golden Triangle' refers to the interconnectedness of which of the following Articles?</b>",
+    "options": [
+      "Articles 14, 19, and 21",
+      "Articles 15, 20, and 21",
+      "Articles 19, 21, and 22",
+      "Articles 14, 21, and 32"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Articles 14, 19, and 21</b><br><br>The 'Golden Triangle' was established by the Supreme Court in the landmark <i>Maneka Gandhi vs Union of India (1978)</i> case. It asserts that Articles 14 (Equality), 19 (Freedoms), and 21 (Life and Liberty) are intrinsically interlinked. Any law depriving a person of life or liberty must satisfy the tests of all three provisions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Rights of Pedestrians Under Article 21",
+    "question": "<b>Consider the following pairs regarding the expansion of Article 21 by the Supreme Court:</b><br><br><b>Right : Landmark Judgment</b><br>1. Right to Livelihood : Olga Tellis v. Bombay Municipal Corporation<br>2. Right to Shelter : Chameli Singh v. State of U.P.<br>3. Right to Free Legal Aid : Hussainara Khatoon v. Home Secretary, State of Bihar<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><b>Pair 1 is correctly matched:</b> The Right to Livelihood was recognized under Article 21 in <i>Olga Tellis v. Bombay Municipal Corporation (1985)</i>.<br><b>Pair 2 is correctly matched:</b> The Right to Shelter was established in <i>Chameli Singh v. State of U.P. (1996)</i>.<br><b>Pair 3 is correctly matched:</b> The Right to Speedy Trial and Free Legal Aid was upheld in <i>Hussainara Khatoon v. Home Secretary, State of Bihar (1979)</i>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Emergency",
+    "question": "<b>With reference to the proclamation of National Emergency under Article 352, consider the following statements:</b><br><br>1. It must be approved by both Houses of Parliament within two months of its issue.<br>2. It can be revoked by the President only if the Rajya Sabha passes a resolution disapproving it.<br>3. The 44th Amendment Act made it mandatory for the President to receive written advice from the Union Cabinet before declaring it.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>Statement 1 is incorrect:</b> <b>Trap Alert!</b> The 44th Amendment reduced the approval time limit from two months to <b>one month</b>.<br><b>Statement 2 is incorrect:</b> It can be revoked by the President anytime, or if the <b>Lok Sabha</b> (not Rajya Sabha) passes a resolution disapproving it.<br><b>Statement 3 is correct:</b> The 44th Amendment (1978) mandated that the President can declare an emergency only after receiving a written recommendation from the Union Cabinet.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Emergency",
+    "question": "<b>Consider the following statements regarding the impact of a National Emergency on Fundamental Rights:</b><br><br>1. Article 358 automatically suspends the six fundamental rights under Article 19 irrespective of the grounds of the emergency.<br>2. The President cannot suspend the right to move the court for the enforcement of Articles 20 and 21 during any emergency.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> <b>Trap Alert!</b> Post the 44th Amendment Act (1978), Article 358 suspends Article 19 rights <b>only</b> when the emergency is declared on the grounds of war or external aggression. It does <i>not</i> apply to emergencies declared on the ground of armed rebellion.<br><b>Statement 2 is correct:</b> Under Article 359, the President cannot suspend the enforcement of Articles 20 and 21 (protection in criminal cases and right to life & liberty) under any circumstances.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "The Vice-President Resigns Mid-term",
+    "question": "<b>Consider the following statements regarding the Vice-President of India:</b><br><br>1. Nominated members of the Rajya Sabha are prohibited from voting in the election of the Vice-President.<br>2. The Anti-Defection Law (Tenth Schedule) does not apply to the Vice-Presidential elections, hence political parties cannot issue whips.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> Unlike the Presidential election, the Electoral College for the Vice-President comprises <b>all members of Parliament</b> (both elected and nominated) from both the Lok Sabha and Rajya Sabha.<br><b>Statement 2 is correct:</b> The Anti-Defection Law does not apply to Presidential and Vice-Presidential elections. Voting is by secret ballot, and political parties cannot issue whips dictating how their MPs must vote.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "The Vice-President Resigns Mid-term",
+    "question": "<b>In the event of the President's office falling vacant due to death, resignation, or removal, how does the role of the Indian Vice-President differ from that of the US Vice-President?</b>",
+    "options": [
+      "The Indian VP assumes the Presidency for the remainder of the term, whereas the US VP acts as President only until fresh elections are held.",
+      "The Indian VP acts as President temporarily for a maximum of six months, whereas the US VP automatically assumes the Presidency for the remainder of the term.",
+      "Both the Indian and US Vice-Presidents act as President temporarily until fresh elections are conducted within six months.",
+      "The Indian VP requires Parliamentary approval to act as President, whereas the US VP does not."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The Indian VP acts as President temporarily for a maximum of six months, whereas the US VP automatically assumes the Presidency for the remainder of the term.</b><br><br><b>Trap Alert:</b> UPSC frequently tests comparative polity. In India, the Vice-President only <i>acts</i> as President until a new President is elected (which must happen within six months). In contrast, under the US Constitution, the Vice-President officially <i>becomes</i> the President for the unexpired remainder of the original term.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Right to Vote",
+    "question": "<b>Consider the following statements regarding Universal Adult Suffrage in India:</b><br><br>1. The Right to Vote in India is a Fundamental Right guaranteed under Article 19 of the Constitution.<br>2. The voting age in India was reduced from 21 to 18 years by the 61st Constitutional Amendment Act, 1988.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The Right to Vote is a <b>Constitutional Right</b> established under Article 326 (and supported by statutory laws like the RPA 1951), not a Fundamental Right under Part III.<br><b>Statement 2 is correct:</b> The 61st Constitutional Amendment Act (1988) lowered the voting age from 21 to 18 years.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Right to Vote",
+    "question": "<b>Which of the following countries was the first self-governing nation in the world to grant women the right to vote in national elections?</b>",
+    "options": [
+      "United States of America",
+      "United Kingdom",
+      "New Zealand",
+      "India"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: New Zealand</b><br><br>New Zealand was the first self-governing country to grant women the right to vote in national elections in 1893 (although they could not stand for election until 1919).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Personality Rights",
+    "question": "<b>Consider the following statements regarding 'Personality Rights' in India:</b><br><br>1. Personality rights are explicitly defined and codified under the Information Technology Act, 2000.<br>2. Personality rights apply equally to individuals and corporate organizations as legal entities.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Statement 1 is incorrect:</b> <b>Trap Alert!</b> The term \"personality rights\" is <b>not defined in any Indian statute</b>. It has been recognized and developed entirely through judicial precedents, although indirectly supported by Copyright and Trademarks acts.<br><b>Statement 2 is incorrect:</b> Personality or publicity rights apply <b>only to individuals</b>. Even though corporate bodies are treated as legal persons in law, personality rights do not extend to them.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Personality Rights",
+    "question": "<b>In Indian jurisprudence, 'Personality Rights' are generally understood to comprise which of the following components?</b><br><br>1. Right of Publicity<br>2. Right to Privacy<br>3. Right to be Forgotten<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br>Personality rights consist of two core components: <br>1. <b>Right of Publicity:</b> The right to keep one's image and likeness from being commercially exploited without permission. <br>2. <b>Right to Privacy:</b> The right not to have one's personality represented publicly without permission. This flows from Article 21 (Right to Life and Personal Liberty). <br><i>Note: While the Right to be Forgotten is a facet of privacy, it is distinct from the dual-core definition of personality rights focused on commercial exploitation and likeness.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Qualifications as Basis for Appointing Priests",
+    "question": "<b>With reference to the appointment of temple priests in India, consider the following statements based on Supreme Court precedents:</b><br><br>1. The appointment of priests is considered an 'essential religious practice' (ERP) and is completely immune from state regulation under Article 26.<br>2. The State has the constitutional authority to regulate the secular aspects of temple administration, including prescribing qualifications for priests.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The Supreme Court (e.g., <i>Seshammal v. State of Tamil Nadu, 1972</i>) has clearly established that the <b>appointment</b> of priests is a <b>secular function</b> and is subject to state regulation, not an Essential Religious Practice (ERP).<br><b>Statement 2 is correct:</b> As upheld in the <i>Adi Saiva Sivachariyargal (2015)</i> and recent Kerala HC rulings, the State may regulate secular aspects of temple administration (including merit-based qualifications) provided it does not interfere with the religious rituals prescribed by Agamas.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Qualifications as Basis for Appointing Priests",
+    "question": "<b>The legal test employed by Indian courts to determine whether a particular custom (like hereditary priesthood) falls under the protection of Article 25 (Freedom of Religion) is known as the:</b>",
+    "options": [
+      "Basic Structure Test",
+      "Proportionality Test",
+      "Essential Religious Practice (ERP) Test",
+      "Reasonable Nexus Test"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Essential Religious Practice (ERP) Test</b><br><br>The courts apply the <b>Essential Religious Practice (ERP) test</b> to separate secular activities from strictly religious ones. In the context of temple priests, courts have concluded that caste or hereditary lineage is not an 'essential component' of Hindu priesthood, allowing the State to regulate appointments based on merit and constitutional equality.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Article 240 and Chandigarh",
+    "question": "<b>Under Article 240 of the Constitution of India, the President has the power to make regulations for the peace, progress, and good governance of which of the following Union Territories?</b><br><br>1. Andaman and Nicobar Islands<br>2. Lakshadweep<br>3. Chandigarh<br>4. Puducherry (when its Legislative Assembly is suspended)<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 2 and 4 only</b><br><br><b>Trap Alert!</b> Currently, Chandigarh is <b>not</b> covered under Article 240. The Centre has recently proposed the Constitution (131st Amendment) Bill, 2025 specifically to bring Chandigarh under this Article. Currently, Article 240 applies to the Andaman and Nicobar Islands, Lakshadweep, Dadra and Nagar Haveli and Daman and Diu, and Puducherry (only when its assembly is suspended or dissolved).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Article 240 and Chandigarh",
+    "question": "<b>Consider the following statements regarding the legislative powers concerning Union Territories:</b><br><br>1. Regulations made by the President under Article 240 have the same force and effect as an Act of Parliament.<br>2. The proposed Constitution (131st Amendment) Bill, 2025 seeks to grant full statehood to Chandigarh.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> Regulations made by the President under Article 240 for specified Union Territories carry the same force and effect as an Act of Parliament and can even repeal or amend a parliamentary act applicable to that UT.<br><b>Statement 2 is incorrect:</b> The Constitution (131st Amendment) Bill, 2025 seeks to bring Chandigarh under the ambit of <b>Article 240</b> (granting the President power to make regulations), not to grant it full statehood.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitution of India Released in Santhali Language",
+    "question": "<b>Consider the following statements regarding the Santhali language:</b><br><br>1. It belongs to the Dravidian language family.<br>2. It is written in the 'Ol Chiki' script, which was developed by Pandit Raghunath Murmu.<br>3. It is predominantly spoken by tribal communities in Jharkhand, Odisha, West Bengal, and Bihar.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Santhali belongs to the <b>Austroasiatic (Munda branch)</b> language family. It is distinct from the Indo-Aryan and Dravidian language families.<br><b>Statement 2 is correct:</b> It is written in the Ol Chiki script, invented by Pandit Raghunath Murmu in 1925.<br><b>Statement 3 is correct:</b> It is spoken mainly by the Santhal tribal community located in eastern Indian states.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitution of India Released in Santhali Language",
+    "question": "<b>The Santhali language was accorded the status of an official language by adding it to the Eighth Schedule of the Indian Constitution through the:</b>",
+    "options": [
+      "21st Constitutional Amendment Act",
+      "71st Constitutional Amendment Act",
+      "92nd Constitutional Amendment Act",
+      "100th Constitutional Amendment Act"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 92nd Constitutional Amendment Act</b><br><br>The 92nd Constitutional Amendment Act of 2003 added four languages to the Eighth Schedule: Bodo, Dogri, Maithili, and <b>Santhali</b>. (Note: The 21st added Sindhi, and the 71st added Konkani, Manipuri, and Nepali).",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]

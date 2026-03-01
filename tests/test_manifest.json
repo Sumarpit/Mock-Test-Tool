@@ -107,6 +107,8 @@
 ,
 {"name": "1773-1947", "filename": "1773-1947.json", "path": "tests/upsc/1773-1947.json"}
 ,
+{"name": "Current Affairs Polity Constitution", "filename": "Current Affairs Polity Constitution.json", "path": "tests/upsc/Current Affairs Polity Constitution.json"}
+,
 {"name": "SFG 1", "filename": "SFG 1.json", "path": "tests/upsc/SFG 1.json"}
 ,
 {"name": "SFG 2", "filename": "SFG 2.json", "path": "tests/upsc/SFG 2.json"}
