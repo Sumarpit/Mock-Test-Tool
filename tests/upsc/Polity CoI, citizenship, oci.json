@@ -1,0 +1,152 @@
+[
+  {
+    "section": "Polity",
+    "topic": "Citizenship - Loss of Citizenship",
+    "question": "<b>Consider the following statements regarding the loss of Indian citizenship under the Citizenship Act, 1955:</b><br><br>1. If a citizen renounces their citizenship during a war in which India is engaged, the registration of such declaration is automatically approved to avoid national security risks.<br>2. Voluntary acquisition of another country's citizenship leads to compulsory 'Deprivation' of Indian citizenship by the Central Government.<br>3. When a person renounces their Indian citizenship, every minor child of that person also loses their Indian citizenship.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>Statement 1 is incorrect (Trap):</b> If a declaration of renunciation is made during a war in which India is engaged, its registration shall be <b>withheld</b> by the Central Government, not automatically approved.<br><b>Statement 2 is incorrect (Definitional Trap):</b> Voluntary acquisition of another citizenship falls under the mode of <b>'Termination'</b>, not 'Deprivation'. Deprivation is a compulsory termination for reasons like fraud, disloyalty to the Constitution, or trading with the enemy.<br><b>Statement 3 is correct:</b> When a person renounces their citizenship, every minor child of that person also loses Indian citizenship, though the child can resume it within one year of attaining eighteen years of age.<br><br><i>Mentor's PYQ Analysis:</i> UPSC frequently tests the exact terminologies (Termination vs. Deprivation) and the specific exceptions (like the 'war' clause) to create multi-statement traps.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Citizenship - Deprivation",
+    "question": "<b>The Central Government can compulsorily deprive a person of their Indian citizenship under which of the following conditions?</b><br><br>1. The citizen has shown disloyalty to the Constitution of India.<br>2. The citizen has been ordinarily resident out of India for seven years continuously.<br>3. The citizen has, within five years after registration or naturalisation, been imprisoned in any country for two years.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>All statements are correct.</b><br>The Citizenship Act, 1955, prescribes compulsory termination (Deprivation) of Indian citizenship by the Central government if: <br>1. The citizen has shown disloyalty to the Constitution of India.<br>2. The citizen has been ordinarily resident out of India for seven years continuously.<br>3. The citizen has, within five years after registration or naturalisation, been imprisoned in any country for two years.<br>It can also be done if the citizenship was obtained by fraud or if the citizen unlawfully traded with the enemy during a war.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Overseas Citizen of India (OCI)",
+    "question": "<b>Consider the following statements regarding the limitations and rights of an Overseas Citizen of India (OCI) cardholder:</b><br><br>1. OCI cardholders are absolutely prohibited from purchasing any immovable property in India.<br>2. OCI cardholders do not enjoy the right to equality of opportunity in matters of public employment under Article 16.<br>3. OCI cardholders are charged international tourist fees when visiting national monuments and wildlife sanctuaries in India.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Extreme Phrasing Trap):</b> OCI cardholders are <b>not absolutely prohibited</b> from purchasing immovable property. They can purchase or sell immovable properties <i>other than</i> agricultural land, farmhouses, or plantation properties.<br><b>Statement 2 is correct:</b> OCI cardholders are not entitled to the right to equality of opportunity in matters of public employment (Article 16).<br><b>Statement 3 is incorrect:</b> OCI cardholders enjoy parity with Indian nationals regarding entry fees to be charged for visiting national parks, wildlife sanctuaries, national monuments, historical sites, and museums in India.<br><br><i>Mentor's PYQ Analysis:</i> Examiners love creating traps using extreme words like 'absolutely prohibited'. Always look for the 'agricultural land' exception when property rights of OCIs are tested.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Overseas Citizen of India (OCI) - Cancellation",
+    "question": "<b>The Central Government may cancel the registration of an Overseas Citizen of India (OCI) cardholder under which of the following circumstances?</b><br><br>1. The OCI cardholder has shown disaffection towards the Constitution of India.<br>2. The OCI cardholder has been sentenced to imprisonment for a term of not less than two years within five years after registration.<br>3. The marriage of the OCI cardholder (registered based on spouse's status) has been dissolved by a competent court of law.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>All statements are correct.</b><br>Under the Citizenship Act, the Central Government can cancel an OCI registration if:<br>1. The cardholder has shown disaffection towards the Constitution of India.<br>2. Within five years of registration, the cardholder has been sentenced to imprisonment for a term of not less than two years.<br>3. The marriage of an OCI cardholder (who obtained it via marriage) has been dissolved by a competent court of law, or they solemnise marriage with any other person while the first marriage subsists.<br><i>Note:</i> The 2019 Amendment ensures that the OCI cardholder is given a reasonable opportunity of being heard before cancellation.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Modern History",
+    "topic": "Historical Background (Acts)",
+    "question": "<b>Consider the following statements regarding the Government of India Act of 1919 and the Government of India Act of 1935:</b><br><br>1. The Act of 1919 introduced dyarchy at the Centre, dividing federal subjects into 'reserved' and 'transferred'.<br>2. The Act of 1935 abolished dyarchy in the provinces and introduced 'provincial autonomy' in its place.<br>3. Under the Act of 1935, Defence and Foreign Affairs were kept under the control of the federal legislature.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Chronology Trap):</b> The Government of India Act of 1919 introduced dyarchy in the <b>provinces</b>, not at the Centre. It was the Government of India Act of 1935 that provided for the adoption of dyarchy at the <b>Centre</b>.<br><b>Statement 2 is correct:</b> The 1935 Act abolished dyarchy in the provinces and introduced 'provincial autonomy', allowing provinces to act as autonomous units of administration.<br><b>Statement 3 is incorrect (Jurisdiction Trap):</b> Under the proposed dyarchy at the Centre in the 1935 Act, federal subjects were divided into reserved and transferred. Defence and Foreign Affairs were <b>reserved</b> subjects, administered by the Governor-General without responsibility to the federal legislature.<br><br><i>Mentor's PYQ Analysis:</i> This is a classic UPSC trap tested in 2024 Prelims. The examiner frequently swaps the provisions of the 1919 Act (Provincial Dyarchy) with the 1935 Act (Central Dyarchy).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Modern History",
+    "topic": "Historical Background (Acts)",
+    "question": "<b>In the context of the federation established by the Government of India Act of 1935, consider the following statements:</b><br><br>1. Legislative powers were divided into three lists: Federal List, Provincial List, and Concurrent List.<br>2. The residuary powers were vested in the Federal Legislature to ensure a strong central authority.<br>3. The All-India Federation envisioned by the Act successfully came into being with the compulsory participation of the Princely States.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> The Act divided powers into three lists: Federal List (59 items), Provincial List (54 items), and Concurrent List (36 items).<br><b>Statement 2 is incorrect (PYQ Trap):</b> Residuary powers were given exclusively to the <b>Viceroy (Governor-General)</b>, not to the Federal Legislature or Provincial Legislature.<br><b>Statement 3 is incorrect:</b> The All-India Federation never came into being because the princely states refused to join it. Their participation was voluntary, not compulsory.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Modern History",
+    "topic": "Historical Background (Acts)",
+    "question": "<b>In the Government of India Act 1919, the functions of the Provincial Government were divided into 'Reserved' and 'Transferred' subjects. Which of the following were treated as 'Reserved' subjects?</b><br><br>1. Administration of Justice<br>2. Local Self-Government<br>3. Land Revenue<br>4. Police<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 3 and 4",
+      "1, 2 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 3 and 4</b><br><br>The Government of India Act 1919 introduced dyarchy at the provincial level.<br><b>Reserved Subjects:</b> These were to be administered by the governor and his executive council without being responsible to the legislative council. They included crucial subjects like <b>police, administration of justice, prisons, land revenue, and finance</b>.<br><b>Transferred Subjects:</b> These were administered by the governor with the aid of ministers responsible to the legislative council. They included <b>public health, education, local self-government, and agriculture</b>. Therefore, Local Self-Government (Option 2) was a transferred subject.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Modern History",
+    "topic": "Historical Background (Acts)",
+    "question": "<b>Which of the following statements is/are correct regarding the evolution of the constitutional framework in British India?</b><br><br>1. The Government of India Act of 1919 introduced, for the first time, bicameralism and direct elections in the country.<br>2. The Government of India Act of 1935 introduced separate electorates for depressed classes (Scheduled Castes), women, and labor.<br>3. The Government of India Act of 1858 created a new office of the High Commissioner for India in London.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> The Government of India Act of 1919 introduced, for the first time, bicameralism (a separate Upper and Lower House) and direct elections in the country.<br><b>Statement 2 is correct:</b> The Government of India Act of 1935 extended the principle of communal representation by providing separate electorates for depressed classes (scheduled castes), women, and labor (workers).<br><b>Statement 3 is incorrect (Chronology Trap):</b> The office of the High Commissioner for India in London was created by the <b>Government of India Act of 1919</b>, not the 1858 Act. Some functions of the Secretary of State were transferred to this new office.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Citizenship - Constitutional Provisions",
+    "question": "<b>Consider the following statements regarding the constitutional provisions for Citizenship in India:</b><br><br>1. The Constitution of India explicitly defines the exact procedures for the acquisition and loss of citizenship subsequent to its commencement.<br>2. The Constitution of India provides for a single citizenship but allows State Legislatures to create their own separate state domiciles for employment purposes.<br>3. Under Article 16, the Parliament can prescribe residence within a state or union territory as a condition for certain employments.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>Statement 1 is incorrect:</b> The Constitution deals with citizenship from Articles 5 to 11 but does <b>not</b> deal with the problem of acquisition or loss of citizenship subsequent to its commencement. It only identifies persons who became citizens on January 26, 1950. It empowers the Parliament to enact a law for such matters (Citizenship Act, 1955).<br><b>Statement 2 is incorrect (Federalism Trap):</b> India provides for a single citizenship and <b>one domicile</b>. There is no separate state domicile or state citizenship. All citizens owe allegiance only to the Union.<br><b>Statement 3 is correct:</b> As an exception to the non-discrimination rule, Article 16 empowers the <b>Parliament</b> (and not the State Legislature) to prescribe residence within a state or union territory as a condition for certain employments or appointments.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Overseas Citizen of India (OCI) limitations",
+    "question": "<b>An Overseas Citizen of India (OCI) cardholder is legally eligible to perform which of the following activities in India without requiring any special permission?</b><br><br>1. Appear for all-India entrance tests such as NEET and JEE against any seat reserved exclusively for Indian citizens.<br>2. Undertake research or journalistic activities.<br>3. Pursue professions like doctors, dentists, nurses, and advocates.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>Statement 1 is incorrect:</b> OCI cardholders can appear for all-India entrance tests (like NEET, JEE) to make them eligible for admission <b>only against any Non-Resident Indian (NRI) seat or any supernumerary seat</b>. They are <b>not eligible</b> for admission against any seat reserved exclusively for Indian citizens.<br><b>Statement 2 is incorrect (Exception Trap):</b> While OCIs have parity with NRIs in many fields, they strictly require a special permit or prior permission from the competent authority to undertake <b>research, missionary, mountaineering, or journalistic activities</b>.<br><b>Statement 3 is correct:</b> OCI cardholders are allowed to pursue the professions of doctors, dentists, nurses, pharmacists, advocates, architects, and chartered accountants in India.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
