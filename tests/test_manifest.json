@@ -125,5 +125,7 @@
 ,
 {"name": "abc", "filename": "abc.json", "path": "tests/upsc/abc.json"}
 ,
+{"name": "center state relations 20q", "filename": "center state relations 20q.json", "path": "tests/upsc/center state relations 20q.json"}
+,
 {"name": "con stitutional bodies", "filename": "con stitutional bodies.json", "path": "tests/upsc/con stitutional bodies.json"}
 ]

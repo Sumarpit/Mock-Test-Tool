@@ -1,0 +1,302 @@
+[
+  {
+    "section": "Polity",
+    "topic": "Centre-State Legislative Relations (Article 253)",
+    "question": "<b>Consider the following statements regarding the Parliament's power to legislate on State List subjects:</b><br><br>1. The Parliament can make laws for the whole or any part of India for implementing international treaties.<br>2. Such a law can be passed only with the prior consent of the majority of the States.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> Under Article 253, Parliament has the power to make any law for the whole or any part of India for implementing any treaty, agreement, or convention with any other country.<br><b>Statement 2 is incorrect (Classic Examiner Trap):</b> Parliament can make such laws <b>without the consent of any state</b>. This is a deliberate unitary bias to ensure international commitments are not stalled by state opposition.<br><br><i>Mentor's PYQ Insight:</i> This exact trap was tested directly in the 2013 UPSC Prelims.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Centre-State Legislative Relations (Article 249)",
+    "question": "<b>Under Article 249, the Parliament is empowered to legislate on a subject enumerated in the State List in the national interest if:</b>",
+    "options": [
+      "The Lok Sabha passes a resolution to that effect by a simple majority.",
+      "The Rajya Sabha passes a resolution to that effect by a majority of not less than two-thirds of the members present and voting.",
+      "The Inter-State Council recommends such legislation.",
+      "Two or more State Legislatures pass a resolution requesting the Parliament to do so."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The Rajya Sabha passes a resolution to that effect by a majority of not less than two-thirds of the members present and voting.</b><br><br><b>Trap Alert:</b> Do not confuse Article 249 with Article 252. Article 252 is when two or more states request legislation (Option D). Article 249 explicitly requires the <b>Rajya Sabha</b> (the federal chamber representing states) to pass a resolution by a 2/3rd majority of members present and voting declaring it is necessary in the 'national interest'.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Centre-State Financial Relations (Borrowing Powers)",
+    "question": "<b>With reference to the borrowing powers of the State Governments under Article 293 of the Constitution, consider the following statements:</b><br><br>1. State governments can borrow funds directly from foreign governments and international financial institutions.<br>2. A State cannot raise any new loan without the consent of the Central Government if there is still outstanding any part of a previous loan made to the State by the Centre.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Sovereignty Trap):</b> Under Article 293, the executive power of a State extends to borrowing <b>only within the territory of India</b>. Only the Union Government can borrow from outside the country.<br><b>Statement 2 is correct:</b> Article 293(3) explicitly mandates Central consent for new loans if old central loans or guarantees are outstanding.<br><br><i>Mentor's PYQ Insight:</i> Tested as a multi-statement question in the 2018 Prelims.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Centre-State Financial Relations (15th Finance Commission)",
+    "question": "<b>Which of the following criteria and their respective weights were used by the 15th Finance Commission for horizontal tax devolution among states for the 2021-26 period?</b><br><br>1. Income Distance: 45%<br>2. Population (1971): 15%<br>3. Demographic Performance: 12.5%<br>4. Forest and Ecology: 10%<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 3 and 4 only</b><br><br><b>Statement 2 is incorrect (Current Affairs Trap):</b> The 15th Finance Commission completely discarded the 1971 population data. It used <b>Population (2011)</b> and gave it a 15% weightage. <br><b>Criteria used:</b> Income Distance (45%), Area (15%), Population 2011 (15%), Demographic Performance (12.5%), Forest and Ecology (10%), and Tax/fiscal efforts (2.5%).<br><br><i>Mentor's PYQ Insight:</i> The exact parameters of horizontal devolution were directly tested in the 2023 Prelims.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Inter-State Comity (Zonal Councils)",
+    "question": "<b>Consider the following statements regarding Zonal Councils in India:</b><br><br>1. They are constitutional bodies established under Article 263 of the Constitution.<br>2. The Union Home Minister acts as the common chairman of all the Zonal Councils.<br>3. The decisions of the Zonal Councils are binding on both the Centre and the member States.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Body Type Trap):</b> Zonal Councils are <b>statutory bodies</b>, not constitutional. They were established by Part-III of the States Reorganisation Act of 1956. (Article 263 deals with the Inter-State Council).<br><b>Statement 2 is correct:</b> The Union Home Minister is the common chairman of the five Zonal Councils.<br><b>Statement 3 is incorrect:</b> They are only deliberative and advisory bodies. Their recommendations are not binding.<br><br><i>Mentor's PYQ Insight:</i> Identifying statutory vs. constitutional bodies is an incompromisable Prelims skill (Tested in 2025 PYQ).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Centre-State Financial Relations (GST Council)",
+    "question": "<b>With reference to the Goods and Services Tax (GST) Council, consider the following statements:</b><br><br>1. It is a constitutional body established under Article 279A to facilitate joint Centre-State decision-making.<br>2. Every decision of the GST Council requires a three-fourths majority of the weighted votes of members present and voting.<br>3. In the GST Council, the vote of the Central Government has a weightage of two-thirds of the total votes cast.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> The GST Council is a constitutional body introduced by the 101st Amendment Act.<br><b>Statement 2 is correct:</b> Decisions require a majority of not less than 3/4th of the weighted votes.<br><b>Statement 3 is incorrect (Weightage Trap):</b> The weightage is split to ensure neither can veto alone: The Centre has a weightage of <b>1/3rd</b>, and the States combined have a weightage of <b>2/3rd</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Inter-State Comity (Inter-State Water Disputes)",
+    "question": "<b>Consider the following statements regarding the adjudication of Inter-State Water Disputes in India:</b><br><br>1. Under Article 262, the Supreme Court of India exercises original and exclusive jurisdiction over any dispute relating to inter-state rivers.<br>2. The Ravi and Beas Waters Tribunal was established under the Inter-State River Water Disputes Act, 1956.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Jurisdiction Trap):</b> Article 262 explicitly empowers <b>Parliament</b> to provide by law that neither the Supreme Court nor any other court shall exercise jurisdiction in respect of any such dispute or complaint. Under the ISWD Act 1956, the SC's jurisdiction is excluded.<br><b>Statement 2 is correct (Current Affairs Hook):</b> The Ravi and Beas Waters Tribunal was formed in 1986 under the ISWD Act 1956 to resolve issues between Punjab, Haryana, and Rajasthan. It recently got an extension.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Inter-State Comity (Inter-State Council)",
+    "question": "<b>With reference to the Inter-State Council, consider the following statements:</b><br><br>1. It is a permanent constitutional body established to facilitate Centre-State coordination.<br>2. It was set up in 1990 based on the recommendations of the Sarkaria Commission.<br>3. The Prime Minister acts as the Chairman of the Council.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect (Nature Trap):</b> Although provided for under Article 263, it is <b>not a permanent</b> constitutional body. It was established by a Presidential order in 1990 and is set up when the President feels public interest would be served.<br><b>Statement 2 is correct:</b> Set up on Sarkaria Commission's recommendation.<br><b>Statement 3 is correct:</b> The PM is the Chairman, and it includes CMs of all states.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Administrative Relations (Assent to State Bills)",
+    "question": "<b>Consider the following statements regarding the President's power over State Bills under Article 201:</b><br><br>1. When a Governor reserves a State Bill for the President's consideration, the Governor has no further role in the enactment of the bill.<br>2. If the President returns the Bill for reconsideration and the State Legislature passes it again, it is constitutionally mandatory for the President to give his assent.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> Once a bill is reserved by the Governor for the President, the Governor's role ends completely. The President assumes full control.<br><b>Statement 2 is incorrect (Veto Trap):</b> Unlike the Governor (who must give assent if a bill is reconsidered and passed again under Art 200), the <b>President is not bound</b> to give assent to a reconsidered State Bill. He exercises an absolute veto.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Legislative Relations (Concurrent List Repugnancy)",
+    "question": "<b>Consider the following statements regarding the resolution of conflict between a Central law and a State law on a subject in the Concurrent List:</b><br><br>1. By default, the Central law prevails over the State law in case of any repugnancy.<br>2. If the State law was reserved for the consideration of the President and has received his assent, the State law prevails over the Central law in that specific state.<br>3. Even if a State law receives Presidential assent, Parliament is completely barred from making a new law on the same matter overriding the State law.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is correct:</b> Under Article 254(1), the general rule is that the Central law prevails.<br><b>Statement 2 is correct:</b> Under Article 254(2), an exception is provided. If the state law received Presidential assent, it prevails in that state.<br><b>Statement 3 is incorrect (Supremacy Trap):</b> Parliament can override such a state law anytime subsequently by making a new law on the same matter.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Centre-State Relations Commissions",
+    "question": "<b>The Tamil Nadu government recently formed a high-level committee headed by Justice Kurian Joseph to suggest ways to strengthen State autonomy. In the historical context of Centre-State relations, match the following Commissions/Committees with their appointing authority:</b><br><br>1. Rajamannar Committee<br>2. Anandpur Sahib Resolution<br>3. Sarkaria Commission<br><br><b>Which of the following is the correct match?</b>",
+    "options": [
+      "1-Tamil Nadu Govt, 2-Akali Dal, 3-Central Govt",
+      "1-Central Govt, 2-Akali Dal, 3-Tamil Nadu Govt",
+      "1-Akali Dal, 2-Tamil Nadu Govt, 3-Central Govt",
+      "1-Tamil Nadu Govt, 2-Central Govt, 3-Akali Dal"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1-Tamil Nadu Govt, 2-Akali Dal, 3-Central Govt</b><br><br><b>Explanation:</b><br>- <b>Rajamannar Committee (1969):</b> Appointed by the DMK government of Tamil Nadu to examine Centre-State relations.<br>- <b>Anandpur Sahib Resolution (1973):</b> Adopted by the Akali Dal in Punjab demanding greater autonomy.<br>- <b>Sarkaria Commission (1983):</b> Appointed by the Central Government to review the working of existing arrangements between the Union and the States.<br><i>Current Affairs Link:</i> TN Govt constituted the Justice Kurian Joseph Committee in 2024-25 for state autonomy.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Centre-State Financial Relations (Grants-in-aid)",
+    "question": "<b>With reference to the Grants-in-aid from the Centre to the States, consider the following statements:</b><br><br>1. Statutory Grants under Article 275 are given to all states unconditionally to ensure financial parity.<br>2. Discretionary Grants under Article 282 can be made by both the Centre and the States for any public purpose.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Condition Trap):</b> Statutory Grants (Article 275) are given only to states <b>in need of financial assistance</b>, not to all states, and the sums are determined by Parliament on the recommendation of the Finance Commission.<br><b>Statement 2 is correct:</b> Article 282 empowers both the Centre and the states to make any grants for any public purpose, even if it is not within their respective legislative competence. These are discretionary.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Administrative Relations (Mutual Delegation)",
+    "question": "<b>Consider the following statements regarding the mutual delegation of executive functions between the Centre and the States:</b><br><br>1. The President of India can entrust the executive functions of the Union to a State Government without the consent of that State.<br>2. The Parliament can enact a law imposing duties on a State or its officers, irrespective of the State's consent.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Consent Trap):</b> The President can entrust Union executive functions to a State Government <b>only with the consent</b> of that State Government (Article 258(1)).<br><b>Statement 2 is correct:</b> While the executive cannot delegate without consent, <b>Parliament by law</b> can confer powers and impose duties on state officers and authorities without the consent of the state (Article 258(2)).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Legislative Relations (Residuary Powers)",
+    "question": "<b>In the Constitution of India, the residuary powers of legislation (subjects not enumerated in the Concurrent List or State List) are vested in the:</b>",
+    "options": [
+      "President of India",
+      "Union Parliament",
+      "State Legislatures",
+      "Supreme Court of India"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Union Parliament</b><br><br>Under Article 248, the residuary powers of legislation are vested exclusively in the <b>Union Parliament</b>. This includes the power to make laws imposing any tax not mentioned in either of those Lists.<br><i>Mentor's PYQ Insight:</i> This contrasts with the Government of India Act 1935, where residuary powers were vested in the Governor-General (tested in 2018 Prelims).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Centre-State Relations (Constitutional vs Extra-Constitutional Bodies)",
+    "question": "<b>Which of the following bodies are strictly extra-constitutional devices established to promote cooperation and coordination between the Centre and the States?</b><br><br>1. NITI Aayog<br>2. Inter-State Council<br>3. Zonal Councils<br>4. GST Council<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Extra-constitutional devices</b> are those not mentioned in the Constitution (statutory or executive).<br>1. <b>NITI Aayog:</b> Extra-constitutional (Executive resolution).<br>2. <b>Inter-State Council:</b> Constitutional (Article 263).<br>3. <b>Zonal Councils:</b> Extra-constitutional (Statutory via States Reorganisation Act 1956).<br>4. <b>GST Council:</b> Constitutional (Article 279A).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Administrative Relations (Article 365 vs 356)",
+    "question": "<b>Consider the following statements regarding the Union's power to issue directives to the States:</b><br><br>1. The Centre can direct a State to construct and maintain means of communication declared to be of national or military importance.<br>2. If a State fails to comply with any constitutional direction given by the Centre, it provides a lawful ground for the President to impose President's Rule under Article 356.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>Statement 1 is correct:</b> Article 257 empowers the Union to give directions to a State regarding communications of national/military importance.<br><b>Statement 2 is correct (Sanction Trap):</b> Under Article 365, if a state fails to comply with directions given by the Union in exercise of its executive power, it shall be lawful for the President to hold that a situation has arisen where the state government cannot be carried on per the Constitution, thus triggering Article 356.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Legislative Relations (Article 252)",
+    "question": "<b>When two or more State Legislatures pass a resolution requesting Parliament to enact a law on a matter in the State List (Article 252), what is the territorial applicability of such a law?</b>",
+    "options": [
+      "It applies to the entire territory of India automatically.",
+      "It applies only to the states that passed the resolution, but other states can adopt it later by passing a similar resolution.",
+      "It applies only to the states that passed the resolution, and no other state can adopt it subsequently.",
+      "It applies to all states except those that explicitly pass a resolution opting out."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: It applies only to the states that passed the resolution, but other states can adopt it later by passing a similar resolution.</b><br><br><b>Trap Alert:</b> A law passed under Article 252 does not apply pan-India. It applies only to the consenting states. However, any other state can adopt it afterwards by passing a resolution to that effect in its legislature. The state legislature loses the power to amend or repeal such a law; only Parliament can do it.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Inter-State Comity (North Eastern Council)",
+    "question": "<b>Consider the following statements regarding the North Eastern Council (NEC):</b><br><br>1. It was established as a statutory body under the States Reorganisation Act of 1956 alongside the other five Zonal Councils.<br>2. Sikkim was added as the eighth member of the North Eastern Council in the year 2002.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Timeline/Act Trap):</b> The North Eastern Council is a statutory body, but it was <b>not</b> created by the States Reorganisation Act of 1956. It was created by a separate Act of Parliament—the <b>North Eastern Council Act of 1971</b>.<br><b>Statement 2 is correct:</b> Originally comprising 7 states, Sikkim was added as the 8th member in 2002.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Centre-State Financial Relations (Devolution of Taxes)",
+    "question": "<b>Which of the following authorities determines the principles and the exact quantum of Grants-in-aid to the states out of the Consolidated Fund of India?</b>",
+    "options": [
+      "NITI Aayog",
+      "The GST Council",
+      "The Finance Commission",
+      "The Inter-State Council"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: The Finance Commission</b><br><br>Under Article 280, it is the duty of the Finance Commission to make recommendations to the President regarding the distribution of net proceeds of taxes between the Union and states, and the principles which should govern the grants-in-aid of the revenues of the states out of the Consolidated Fund of India.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Centre-State Relations (Article 356 & Bommai Case)",
+    "question": "<b>In the context of the imposition of President's Rule (Article 356) and the landmark S.R. Bommai judgement (1994), consider the following statements:</b><br><br>1. The Presidential proclamation imposing Article 356 is subject to judicial review.<br>2. The Governor can subjectively decide to dismiss a state government if he/she believes it has lost the majority, without waiting for a floor test.<br>3. The state legislative assembly cannot be dissolved until the Parliament approves the Presidential proclamation.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is correct:</b> The Bommai judgement firmly established that the proclamation under Art 356 is subject to judicial review to examine mala fide intent.<br><b>Statement 2 is incorrect (Subjective Trap):</b> The Supreme Court ruled that the question of whether the ministry has lost the confidence of the House must be decided <b>only on the floor of the House (Floor Test)</b>, not by the Governor's subjective assessment.<br><b>Statement 3 is correct:</b> The President can only suspend the assembly initially; it can be dissolved only after parliamentary approval of the proclamation.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
