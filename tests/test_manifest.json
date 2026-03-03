@@ -124,4 +124,6 @@
 {"name": "SFG 6", "filename": "SFG 6.json", "path": "tests/upsc/SFG 6.json"}
 ,
 {"name": "abc", "filename": "abc.json", "path": "tests/upsc/abc.json"}
+,
+{"name": "con stitutional bodies", "filename": "con stitutional bodies.json", "path": "tests/upsc/con stitutional bodies.json"}
 ]

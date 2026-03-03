@@ -1,0 +1,302 @@
+[
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - State Public Service Commission",
+    "question": "<b>Consider the following statements regarding the State Public Service Commission (SPSC) and Joint State Public Service Commission (JSPSC):</b><br><br>1. While SPSC is a constitutional body, a JSPSC is a statutory body created by an Act of Parliament.<br>2. The Chairman and members of an SPSC are appointed by the Governor of the State, but they can be removed only by the President of India.<br>3. The Chairman and members of a JSPSC are appointed by the Governors of the concerned States by mutual agreement.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> SPSC is created directly by the Constitution (Article 315). JSPSC is created by an Act of Parliament on the request of concerned state legislatures, making it a statutory body.<br><b>Statement 2 is correct (Classic Examiner Trap):</b> Although appointed by the Governor, SPSC members enjoy security of tenure and can be removed <b>strictly by the President</b>, on the same grounds as UPSC members.<br><b>Statement 3 is incorrect:</b> The Chairman and members of a JSPSC are appointed by the <b>President of India</b>, not the Governors.<br><br><b>PYQ Reverse-Engineering:</b> UPSC frequently tests the asymmetric appointment and removal procedures of State-level constitutional authorities (like SPSC and SEC) to trick aspirants.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - Attorney General",
+    "question": "<b>Consider the following statements regarding the law officers of the Government of India:</b><br><br>1. Both the Attorney General of India and the Solicitor General of India are constitutional posts.<br>2. The Attorney General is not a full-time counsel for the Government and is not debarred from private legal practice.<br>3. The Attorney General has the right to speak and vote in the proceedings of either House of Parliament.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "2 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Definitional Trap):</b> Only the Attorney General of India is a constitutional post (Article 76). The Solicitor General and Additional Solicitors General are <b>statutory</b> posts.<br><b>Statement 2 is correct:</b> The AG is not a full-time government servant, does not fall under the category of government servants, and is <b>not debarred from private legal practice</b> (though they cannot advise against the GoI).<br><b>Statement 3 is incorrect (Extreme Phrasing Trap):</b> The AG has the right to speak and take part in proceedings, but <b>does not have the right to vote</b>.<br><br><b>PYQ Reverse-Engineering:</b> Tested directly in <b>2022 Prelims</b> (Solicitor General constitutional status trap) and <b>2013 Prelims</b> (AG's powers in Parliament).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - Election Commission",
+    "question": "<b>With reference to the Election Commission of India (ECI), consider the following statements:</b><br><br>1. In case of a difference of opinion between the Chief Election Commissioner (CEC) and the other Election Commissioners, the view of the CEC prevails to maintain institutional hierarchy.<br>2. The Constitution has debarred the retiring Election Commissioners from any further appointment by the Government.<br>3. The Union Ministry of Home Affairs decides the election schedule for the conduct of both general elections and bye-elections.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "3 only",
+      "None of the above"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: None of the above</b><br><br><b>Statement 1 is incorrect (Hierarchy Trap):</b> The CEC and other ECs have <b>equal powers</b> and receive equal salary. In case of difference of opinion, the matter is decided by the Commission by <b>majority</b>.<br><b>Statement 2 is incorrect:</b> The Constitution has <b>not debarred</b> retiring Election Commissioners from further appointment by the Government (unlike the UPSC Chairman or CAG).<br><b>Statement 3 is incorrect:</b> The <b>Election Commission itself</b> decides the election schedule, not the MHA.<br><br><b>PYQ Reverse-Engineering:</b> The MHA schedule trap was directly asked in the <b>2017 Prelims</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - Finance Commission",
+    "question": "<b>Consider the following statements regarding the Finance Commission of India:</b><br><br>1. The qualifications of the members of the Finance Commission are explicitly detailed in Article 280 of the Constitution.<br>2. The recommendations made by the Finance Commission are advisory in nature and not binding on the Government.<br>3. It suggests measures needed to augment the Consolidated Fund of a State to supplement the resources of the panchayats and municipalities.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect (Source Trap):</b> The Constitution does <b>not</b> specify the qualifications. Article 280 authorizes the <b>Parliament</b> to determine the qualifications. Parliament enacted the Finance Commission Act, 1951 for this.<br><b>Statement 2 is correct:</b> Recommendations are advisory and do not give rise to any legal right in favour of beneficiary states.<br><b>Statement 3 is correct:</b> This function was added post the 73rd and 74th Amendments (1992) to strengthen local government finances.<br><br><b>PYQ Reverse-Engineering:</b> UPSC frequently tests the scope of constitutional articles vs. parliamentary statutes.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - CAG",
+    "question": "<b>With reference to the Comptroller and Auditor General (CAG) of India, consider the following statements:</b><br><br>1. The CAG conducts both legal and regulatory audits, as well as proprietary audits, but the proprietary audit is discretionary.<br>2. The CAG is entirely restricted from auditing secret service expenditure.<br>3. The CAG audits the accounts of all government companies and statutory corporations like the Reserve Bank of India (RBI) and Life Insurance Corporation (LIC).<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is correct:</b> Legal/regulatory audit is obligatory, but proprietary audit (checking the 'wisdom, faithfulness, and economy' of expenditure) is discretionary.<br><b>Statement 2 is correct (Jurisdictional Limit Trap):</b> The CAG cannot call for particulars of expenditure incurred by executive agencies on 'secret service'. A certificate from the competent administrative authority is sufficient.<br><b>Statement 3 is incorrect:</b> The CAG's role in public corporations is limited. RBI, LIC, SBI, and FCI are audited totally by <b>private professional auditors</b>, not the CAG.<br><br><b>PYQ Reverse-Engineering:</b> CAG's proprietary audit limits and relations with Public Accounts Committee are recurring themes (2014, 2024 Prelims).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - Identification",
+    "question": "<b>Consider the following organizations/bodies in India:</b><br><br>1. The Zonal Councils<br>2. The Inter-State Council<br>3. The National Commission for Backward Classes<br>4. The National Human Rights Commission<br><br><b>How many of the above are constitutional bodies?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Body 1 is Statutory:</b> Zonal Councils are created by the States Reorganisation Act, 1956.<br><b>Body 2 is Constitutional:</b> Inter-State Council is established under Article 263.<br><b>Body 3 is Constitutional:</b> NCBC was given constitutional status by the 102nd Amendment Act (Article 338B).<br><b>Body 4 is Statutory:</b> NHRC is created by the Protection of Human Rights Act, 1993.<br><br><b>PYQ Reverse-Engineering:</b> Direct replica of the <b>2023 and 2025 Prelims</b> pattern where candidates must weed out statutory bodies masquerading as constitutional ones.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - UPSC",
+    "question": "<b>Consider the following statements regarding the Union Public Service Commission (UPSC):</b><br><br>1. The Constitution has fixed the maximum strength of the UPSC at a Chairman and ten members.<br>2. The Constitution mandates that at least one-half of the members of the Commission should have held office for at least ten years under the Government of India or a State.<br>3. The entire expenses of the UPSC are charged on the Consolidated Fund of India and are not subject to vote of Parliament.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect (Exception Trap):</b> The Constitution <b>does not specify</b> the strength of the Commission. It has left the matter to the discretion of the President.<br><b>Statement 2 is correct:</b> It is a constitutional requirement that 50% of the members have 10 years of government service experience.<br><b>Statement 3 is correct:</b> To ensure independence, salaries, allowances, and pensions of the Chairman and members are charged on the CFI.<br><br><b>PYQ Reverse-Engineering:</b> UPSC uses 'Constitution has fixed/defined' as a trap. Always check if the Constitution delegated the power to the President or Parliament.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - Advocate General",
+    "question": "<b>With reference to the Advocate General of a State, consider the following statements:</b><br><br>1. He is appointed by the Governor and holds office during the pleasure of the Governor.<br>2. The Constitution has fixed his term of office at five years or until he attains the age of 62 years.<br>3. His remuneration is not fixed by the Constitution and is determined by the Governor.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is correct:</b> Under Article 165, the Advocate General is appointed by the Governor and holds office during the pleasure of the Governor.<br><b>Statement 2 is incorrect (Tenure Trap):</b> The term of office of the Advocate General is <b>not fixed by the Constitution</b>. He can be removed by the Governor at any time.<br><b>Statement 3 is correct:</b> The Constitution does not fix his remuneration; it is determined by the Governor.<br><br><b>PYQ Reverse-Engineering:</b> Parallels the Attorney General. UPSC targets the absence of constitutional tenure/remuneration for these law officers.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - State Election Commission",
+    "question": "<b>Consider the following statements regarding the State Election Commission (SEC):</b><br><br>1. The SEC is appointed by the Governor of the State.<br>2. The SEC can be removed from office by the Governor on the advice of the State Council of Ministers.<br>3. The conditions of service of the SEC cannot be varied to his disadvantage after his appointment.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Statement 1 is correct:</b> Under Article 243K, the superintendence, direction, and control of elections to the panchayats/municipalities are vested in the SEC, appointed by the Governor.<br><b>Statement 2 is incorrect (Removal Trap):</b> Although appointed by the Governor, the SEC can only be removed from office <b>in the like manner and on the like grounds as a Judge of a High Court</b> (i.e., by the President), ensuring independence.<br><b>Statement 3 is correct:</b> This is an independence safeguard explicitly mentioned in the Constitution.<br><br><b>PYQ Reverse-Engineering:</b> Emphasizes the difference between 'appointing authority' and 'removing authority' - a classic UPSC CSE paradigm.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - National Commissions",
+    "question": "<b>With reference to the National Commission for Scheduled Castes (NCSC), consider the following statements:</b><br><br>1. While investigating any matter, the Commission has all the powers of a civil court trying a suit.<br>2. The Commission is also required to discharge similar functions with respect to the Anglo-Indian Community as it does for the SCs.<br>3. The Commission submits its annual report directly to the Parliament of India.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is correct:</b> Under Article 338, the NCSC has the powers of a civil court (summoning witnesses, requiring document discovery, receiving evidence on affidavits).<br><b>Statement 2 is correct (Exception Trap):</b> The NCSC acts as the nodal constitutional body for the safeguards of the Anglo-Indian community as well. (Note: OBC functions were removed after the 102nd Amendment).<br><b>Statement 3 is incorrect:</b> The Commission presents its report to the <b>President</b>, who then places it before Parliament.<br><br><b>PYQ Reverse-Engineering:</b> UPSC frequently tests reporting structures (President vs. Parliament) and hidden jurisdictions (like Anglo-Indians falling under NCSC).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - Special Officer for Linguistic Minorities",
+    "question": "<b>Consider the following statements regarding the Special Officer for Linguistic Minorities:</b><br><br>1. This office was created by the 7th Constitutional Amendment Act of 1956 based on the recommendation of the States Reorganisation Commission.<br>2. The Constitution of India explicitly defines the criteria for identifying a 'Linguistic Minority'.<br>3. The Special Officer falls under the administrative control of the Ministry of Minority Affairs.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Statement 1 is correct:</b> Article 350-B was inserted by the 7th Constitutional Amendment Act (1956) to create this office.<br><b>Statement 2 is incorrect (Definitional Trap):</b> The Constitution of India <b>does not define</b> the term 'Linguistic Minority' anywhere.<br><b>Statement 3 is correct:</b> The Commissioner for Linguistic Minorities operates under the nodal Ministry of Minority Affairs at the Central level.<br><br><b>PYQ Reverse-Engineering:</b> 'Constitution explicitly defines' is a recurring trap statement in Prelims (e.g., 'office of profit', 'untouchability', 'basic structure' are NOT defined).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - GST Council",
+    "question": "<b>With reference to the Goods and Services Tax (GST) Council, consider the following statements:</b><br><br>1. It is a constitutional body established under Article 279A to facilitate joint Centre-State decision-making.<br>2. Every decision of the GST Council requires a three-fourths majority of the weighted votes of members present and voting.<br>3. In the GST Council, the vote of the Central Government has a weightage of two-thirds of the total votes cast.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> The GST Council is a constitutional body introduced by the 101st Amendment Act (Article 279A).<br><b>Statement 2 is correct:</b> Decisions require a majority of not less than 3/4th of the weighted votes of the members present and voting.<br><b>Statement 3 is incorrect (Weightage Trap):</b> The weightage is carefully split to ensure neither can veto alone: The Centre has a weightage of <b>1/3rd</b>, and the States combined have a weightage of <b>2/3rd</b>.<br><br><b>PYQ Reverse-Engineering:</b> Tested conceptually in Mains 2017 & 2023 regarding federalism, and the exact weightage is a prime candidate for a Prelims numerical trap.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - Comptroller and Auditor General",
+    "question": "<b>Consider the following statements regarding the reports submitted by the Comptroller and Auditor General (CAG) of India:</b><br><br>1. The CAG submits three audit reports to the President: audit report on appropriation accounts, audit report on finance accounts, and audit report on public undertakings.<br>2. The President lays these reports before both the Houses of Parliament.<br>3. The Estimates Committee of the Parliament examines these reports and submits its findings to the Lok Sabha.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> Article 151 requires the CAG to submit these three specific audit reports.<br><b>Statement 2 is correct:</b> The President is constitutionally bound to cause them to be laid before each House of Parliament.<br><b>Statement 3 is incorrect (Committee Trap):</b> It is the <b>Public Accounts Committee (PAC)</b> that examines these reports, not the Estimates Committee. The CAG acts as a guide, friend, and philosopher to the PAC.<br><br><b>PYQ Reverse-Engineering:</b> Institutional relationships between constitutional offices and parliamentary committees are highly tested (2014, 2017 PYQs).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - National Commission for Backward Classes",
+    "question": "<b>With reference to the National Commission for Backward Classes (NCBC), consider the following statements:</b><br><br>1. It was granted constitutional status by the 102nd Constitutional Amendment Act, 2018.<br>2. The Central Government and State Governments are constitutionally mandated to consult the NCBC on all major policy matters affecting the socially and educationally backward classes.<br>3. The advice tendered by the NCBC is absolutely binding on the Central Government.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> The 102nd CAA inserted Article 338B, elevating NCBC from a statutory to a constitutional body.<br><b>Statement 2 is correct:</b> Article 338B(9) dictates that the Union and every State Government shall consult the Commission on all major policy matters affecting SEBCs.<br><b>Statement 3 is incorrect (Extreme Word Trap):</b> While consultation is mandatory, the advice tendered by the NCBC is <b>not legally binding</b> on the government.<br><br><b>PYQ Reverse-Engineering:</b> Extreme words like 'absolutely binding' regarding advisory commissions (UPSC, NCSC, NCBC) are almost always incorrect in UPSC.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - Finance Commission vs NITI Aayog",
+    "question": "<b>Which of the following statements best describes the functional difference between the Finance Commission and the NITI Aayog?</b><br><br>1. The Finance Commission is a constitutional body, whereas the NITI Aayog is an extra-constitutional, non-statutory body.<br>2. The Finance Commission recommends the distribution of tax revenues between the Union and States, whereas NITI Aayog allocates financial resources to the Ministries.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> The Finance Commission is created under Article 280. NITI Aayog was created by an executive resolution of the Union Cabinet.<br><b>Statement 2 is incorrect (Jurisdiction Trap):</b> While the first part is correct, the <b>NITI Aayog does not have the power to allocate financial resources</b> to Ministries or States. That power belonged to the erstwhile Planning Commission but now rests strictly with the Ministry of Finance.<br><br><b>PYQ Reverse-Engineering:</b> NITI Aayog's nature (executive resolution) and its functional limits compared to the Planning Commission is heavily tested (2015, 2019 PYQs).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - ECI and Delimitation",
+    "question": "<b>Consider the following statements regarding elections and delimitation in India:</b><br><br>1. The Election Commission of India has the power to resolve disputes relating to the splits and mergers of recognized political parties.<br>2. The Delimitation Commission is a constitutional body mandated by Article 82 of the Constitution.<br>3. The orders of the Delimitation Commission cannot be challenged in any court of law.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is correct:</b> Under the Election Symbols (Reservation and Allotment) Order, 1968, ECI decides disputes over splits/mergers. (Tested in 2017 Prelims).<br><b>Statement 2 is incorrect (Body Type Trap):</b> The Delimitation Commission is a <b>Statutory Body</b> set up under the Delimitation Commission Act passed by Parliament (based on Article 82, but the body itself is statutory, not constitutional).<br><b>Statement 3 is correct:</b> The orders of the Delimitation Commission have the force of law and cannot be questioned before any court to prevent election delays.<br><br><b>PYQ Reverse-Engineering:</b> Explicitly derived from 2017 PYQ regarding ECI powers and general Delimitation mechanisms.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - Inter-State Council",
+    "question": "<b>With reference to the Inter-State Council, consider the following statements:</b><br><br>1. It is a permanent constitutional body established to facilitate Centre-State coordination.<br>2. It was set up in 1990 based on the recommendations of the Sarkaria Commission.<br>3. The Council's recommendations are legally binding on both the Centre and the States.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Nature Trap):</b> Although provided for under Article 263, it is <b>not a permanent</b> constitutional body. It was established by a Presidential order in 1990 and can be set up at any time if it appears to the President that public interests would be served.<br><b>Statement 2 is correct:</b> It was established on the recommendation of the Sarkaria Commission.<br><b>Statement 3 is incorrect:</b> The Council's function is advisory; its recommendations are <b>not legally binding</b>.<br><br><b>PYQ Reverse-Engineering:</b> Distinguishing between permanent constitutional bodies (like ECI) and conditional/ad-hoc ones (like ISC under Art 263) is critical.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - National Commission for Scheduled Tribes",
+    "question": "<b>Consider the following statements regarding the National Commission for Scheduled Tribes (NCST):</b><br><br>1. It was bifurcated from the combined National Commission for SCs and STs by the 89th Constitutional Amendment Act, 2003.<br>2. It investigates matters relating to the safeguards provided for STs under the Constitution or any other law.<br>3. The Chairperson of the NCST is appointed by the President by warrant under his hand and seal.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>Statement 1 is correct:</b> The 89th CAA (2003) bifurcated the body into NCSC (Art 338) and NCST (Art 338A).<br><b>Statement 2 is correct:</b> This is its primary mandate.<br><b>Statement 3 is correct:</b> The Chairperson, Vice-Chairperson, and other members are appointed by the President by warrant under his hand and seal (a special phrase denoting high constitutional status, shared by SC Judges, Governors, and CAG).<br><br><b>PYQ Reverse-Engineering:</b> Knowledge of specific Amendment Acts (89th, 102nd) creating distinct bodies is vital for elimination.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - UPSC vs DoPT",
+    "question": "<b>Which of the following matters does the President NOT need to consult the Union Public Service Commission (UPSC) for?</b><br><br>1. Matters related to the reservation of posts for backward classes.<br>2. Disciplinary matters affecting a person serving under the Government of India.<br>3. Selections for temporary appointments for a period not exceeding one year.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Explanation:</b><br><b>Item 1 (Exempted):</b> Article 320 exempts the UPSC from being consulted on reservations for backward classes, SCs, and STs.<br><b>Item 2 (Consulted):</b> The UPSC <b>must</b> be consulted on all disciplinary matters affecting a person serving under GoI in a civil capacity (e.g., dismissal, demotion).<br><b>Item 3 (Exempted):</b> The President can make regulations exempting temporary appointments (less than 1 year) from UPSC consultation.<br><br><b>Examiner Trap:</b> Aspirants confuse UPSC's role. It is an advisory body on disciplinary matters, but NOT involved in the political dimensions of reservations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies - Election Commission - Powers",
+    "question": "<b>Consider the following statements regarding the powers of the Election Commission of India (ECI):</b><br><br>1. The ECI is empowered to de-register a recognized political party if it violates the Model Code of Conduct.<br>2. The ECI advises the President on matters relating to the disqualification of Members of Parliament.<br>3. The ECI can cancel polls in a constituency in the event of mass rigging or booth capturing.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect (Jurisdiction Trap):</b> The ECI registers political parties under Section 29A of the Representation of the People Act, 1951, but it <b>does not have the explicit power to de-register them</b> for violating the MCC or failing to contest elections (though it can de-list inactive RUPPs).<br><b>Statement 2 is correct:</b> Under Article 103, the President must obtain the opinion of the ECI regarding the disqualification of MPs, and this opinion is binding.<br><b>Statement 3 is correct:</b> The ECI has sweeping powers under Article 324 to countermand or cancel elections in cases of rigging.<br><br><b>PYQ Reverse-Engineering:</b> The scope of ECI's punitive powers over political parties is heavily debated in Current Affairs and tested conceptually in Prelims.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
