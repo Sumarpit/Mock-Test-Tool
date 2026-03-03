@@ -128,4 +128,6 @@
 {"name": "center state relations 20q", "filename": "center state relations 20q.json", "path": "tests/upsc/center state relations 20q.json"}
 ,
 {"name": "con stitutional bodies", "filename": "con stitutional bodies.json", "path": "tests/upsc/con stitutional bodies.json"}
+,
+{"name": "non-constitutional bodies", "filename": "non-constitutional bodies.json", "path": "tests/upsc/non-constitutional bodies.json"}
 ]

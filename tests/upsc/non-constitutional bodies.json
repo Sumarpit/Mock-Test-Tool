@@ -1,0 +1,302 @@
+[
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - Lokpal",
+    "question": "<b>Consider the following statements regarding the institution of Lokpal in India:</b><br><br>1. Its jurisdiction applies to public servants of India, but not to the Indian public servants posted outside India.<br>2. Any society or trust that receives a foreign contribution above ₹10 lakh falls under the investigative jurisdiction of the Lokpal.<br>3. The Chairperson or a Member of the Lokpal shall not be a person of less than forty-five years of age on the date of assuming office.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect (Jurisdiction Trap):</b> The jurisdiction of Lokpal applies to public servants of India <b>whether posted in India or abroad</b>. <br><b>Statement 2 is correct:</b> The Lokpal's ambit specifically includes any society, trust, or body that receives a foreign contribution above ₹10 lakh.<br><b>Statement 3 is correct:</b> The Lokpal and Lokayuktas Act mandates a strict age floor: the Chairperson or Member must not be less than 45 years of age.<br><br><i>Mentor's PYQ Insight:</i> This exact trap regarding the geographical jurisdiction of the Lokpal and the age limit was deployed by the examiner in the 2025 CSE Prelims.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - Central Bureau of Investigation (CBI)",
+    "question": "<b>With reference to the Central Bureau of Investigation (CBI), consider the following statements:</b><br><br>1. It is a statutory body established under the Central Vigilance Commission Act, 2003.<br>2. The Director of the CBI is selected by a committee comprising the Prime Minister, the Leader of Opposition, and the Chief Justice of India.<br>3. The CBI is not required to seek fresh permission every time it enters a State if the State has granted 'General Consent' under Section 6 of the DSPE Act.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect (Fundamental Status Trap):</b> The CBI is <b>neither a constitutional nor a statutory body</b>. It derives its investigative powers from the Delhi Special Police Establishment (DSPE) Act, 1946, but the body itself was set up by an executive resolution (1963).<br><b>Statement 2 is correct:</b> The Director is appointed based on the recommendation of this three-member high-level committee.<br><b>Statement 3 is correct:</b> Section 6 of the DSPE Act requires state consent. 'General Consent' acts as a blanket approval, bypassing the need for case-by-case 'Specific Consent'.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - NITI Aayog",
+    "question": "<b>Consider the following statements regarding the NITI Aayog:</b><br><br>1. It was established by an executive resolution of the Union Cabinet and is an extra-constitutional body.<br>2. Unlike the erstwhile Planning Commission, the NITI Aayog does not possess the power to allocate financial resources to Ministries or States.<br>3. The President of India acts as the ex-officio Chairperson of the NITI Aayog.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> NITI Aayog is a non-constitutional and non-statutory body, created via a 2015 executive resolution.<br><b>Statement 2 is correct (Functional Limit Trap):</b> NITI Aayog is strictly an advisory 'Think Tank'. The power to allocate financial resources, previously held by the Planning Commission, now rests exclusively with the Ministry of Finance.<br><b>Statement 3 is incorrect:</b> The <b>Prime Minister</b>, not the President, is the ex-officio Chairperson.<br><br><i>Mentor's PYQ Insight:</i> NITI Aayog's fundamental nature and its departure from the Planning Commission's financial powers are heavily tested (2015, 2019 PYQs).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - Inter-State Comity",
+    "question": "<b>Consider the following organizations/bodies in India:</b><br><br>1. Zonal Councils<br>2. North Eastern Council<br>3. Inter-State Council<br><br><b>How many of the above are statutory bodies?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>1. Zonal Councils (Statutory):</b> Created by Part-III of the States Reorganisation Act of 1956.<br><b>2. North Eastern Council (Statutory):</b> Created by a separate Act of Parliament, the North Eastern Council Act, 1971.<br><b>3. Inter-State Council (Constitutional):</b> It is a constitutional body set up under Article 263 by a Presidential order in 1990.<br><br><i>Mentor's PYQ Insight:</i> Distinguishing between constitutional, statutory, and executive bodies is an absolute non-negotiable skill for UPSC (Tested directly in 2013 and 2025 Prelims).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - National Crime Records Bureau (NCRB)",
+    "question": "<b>With reference to the National Crime Records Bureau (NCRB), consider the following statements:</b><br><br>1. It functions under the administrative control of the Ministry of Law and Justice.<br>2. It maintains the National Automated Fingerprint Identification System (NAFIS) as a searchable database.<br>3. It publishes the annual 'Accidental Deaths & Suicides in India' report.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect (Ministry Trap):</b> The NCRB functions under the <b>Ministry of Home Affairs (MHA)</b>, not the Ministry of Law and Justice. It was set up in 1986 based on the Tandon Committee and National Police Commission recommendations.<br><b>Statement 2 is correct:</b> NAFIS is integrated into the NCRB, providing a massive national warehouse for fingerprint records.<br><b>Statement 3 is correct:</b> NCRB publishes vital statistics including 'Crime in India', 'Prison Statistics', and 'Accidental Deaths & Suicides in India'.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - Quality Council of India (QCI)",
+    "question": "<b>With reference to the 'Quality Council of India (QCI)', consider the following statements:</b><br><br>1. QCI was set up jointly by the Government of India and the Indian Industry.<br>2. The Chairman of QCI is appointed by the Prime Minister on the recommendations of the industry to the Government.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>Statement 1 is correct:</b> The QCI is a non-profit autonomous society set up jointly by the Government of India and the Indian Industry represented by the three premier industry associations (ASSOCHAM, CII, and FICCI).<br><b>Statement 2 is correct:</b> The Chairman of QCI is appointed by the Prime Minister on the recommendation of the industry.<br><br><i>Mentor's PYQ Insight:</i> This was asked verbatim in the 2017 UPSC Prelims. Be highly cautious of bodies functioning via public-private partnerships.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - Press Council of India (PCI)",
+    "question": "<b>Consider the following statements regarding the Press Council of India (PCI):</b><br><br>1. It is a statutory autonomous body established to safeguard press freedom and maintain ethical standards in print media.<br>2. It has the authority to penalize and censor electronic media, including OTT platforms, for publishing misleading content.<br>3. It can take suo motu action against curtailment of press freedom.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Statement 1 is correct:</b> The PCI is a statutory body created under the Press Council Act, 1978. <br><b>Statement 2 is incorrect (Jurisdictional Trap):</b> The PCI's mandate is restricted strictly to <b>print media</b>. It does not have jurisdiction over electronic media, television, or OTT platforms (which are regulated by the I&B Ministry under IT Rules 2021).<br><b>Statement 3 is correct:</b> Under Section 13, the PCI can hear complaints and take suo motu action regarding attacks on press freedom.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - PNGRB",
+    "question": "<b>Consider the following statements regarding the Petroleum and Natural Gas Regulatory Board (PNGRB):</b><br><br>1. It is the first regulatory body set up by the Government of India.<br>2. One of the tasks of PNGRB is to ensure competitive markets for gas.<br>3. Appeals against the decisions of PNGRB go before the Appellate Tribunals for Electricity.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect (Chronology Trap):</b> PNGRB is a statutory body constituted under the PNGRB Act, 2006. It is <i>not</i> the first regulatory body (e.g., SEBI and TRAI were set up much earlier).<br><b>Statement 2 is correct:</b> Its mandate is to protect the interests of consumers and entities engaged in specified activities, and to promote competitive markets.<br><b>Statement 3 is correct (Appellate Trap):</b> Surprisingly, appeals against PNGRB do not go to a specialized gas tribunal; they go directly to the Appellate Tribunal for Electricity (APTEL).<br><br><i>Mentor's PYQ Insight:</i> Tested directly in the 2019 Prelims. Always map the appellate hierarchy of regulators.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - National Medical Commission (NMC)",
+    "question": "<b>With reference to the National Medical Commission (NMC), consider the following statements:</b><br><br>1. It is a statutory body established to replace the Medical Council of India (MCI).<br>2. The Medical Assessment & Rating Board is an autonomous board functioning under the NMC.<br>3. It regulates both allopathic medical education as well as nursing education in India.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> The NMC is a statutory body constituted under the NMC Act, 2019, replacing the corruption-plagued MCI.<br><b>Statement 2 is correct:</b> NMC has four autonomous boards: Under-Graduate Medical Education Board, Post-Graduate Medical Education Board, Medical Assessment & Rating Board, and Ethics & Medical Registration Board.<br><b>Statement 3 is incorrect (Jurisdiction Trap):</b> The NMC strictly regulates medical (allopathic) education and professionals. Nursing education is regulated by a separate body, the Indian Nursing Council.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - Central Adoption Resource Authority (CARA)",
+    "question": "<b>Consider the following statements regarding the Central Adoption Resource Authority (CARA):</b><br><br>1. It is a statutory body functioning under the Ministry of Home Affairs.<br>2. It acts as the Central Authority to deal with inter-country adoptions in accordance with the provisions of the Hague Convention.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Ministry Trap):</b> CARA is a statutory body, but it functions under the <b>Ministry of Women and Child Development</b>, not the Ministry of Home Affairs.<br><b>Statement 2 is correct:</b> CARA is the designated Central Authority for inter-country adoptions under the 1993 Hague Convention on Protection of Children and Cooperation in Respect of Inter-country Adoption, ratified by India in 2003.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - Law Enforcement Agencies",
+    "question": "<b>With reference to the Government of India, consider the following pairs:</b><br><br><b>Organization : It Works Under</b><br>1. Directorate of Enforcement (ED) : Ministry of Home Affairs<br>2. Directorate of Revenue Intelligence (DRI) : Ministry of Finance<br>3. Serious Fraud Investigation Office (SFIO) : Ministry of Corporate Affairs<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is incorrectly matched (Classic Trap):</b> The Enforcement Directorate (ED) functions under the Department of Revenue, <b>Ministry of Finance</b>, not the Ministry of Home Affairs.<br><b>Pair 2 is correctly matched:</b> DRI enforces the Customs Act and works under the Central Board of Indirect Taxes and Customs (CBIC), Ministry of Finance.<br><b>Pair 3 is correctly matched:</b> SFIO is a statutory agency under the Companies Act, 2013, functioning under the Ministry of Corporate Affairs.<br><br><i>Mentor's PYQ Insight:</i> The exact trap on ED and DRI's nodal ministries was tested in the 2025 UPSC Prelims.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - Constitutional vs Statutory",
+    "question": "<b>Consider the following organizations/bodies in India:</b><br><br>1. The National Commission for Backward Classes<br>2. The National Human Rights Commission<br>3. The National Law Commission<br>4. The National Consumer Disputes Redressal Commission<br><br><b>How many of the above are constitutional bodies?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one</b><br><br><b>1. NCBC (Constitutional):</b> Granted constitutional status by the 102nd Amendment Act (Article 338B).<br><b>2. NHRC (Statutory):</b> Created by the Protection of Human Rights Act, 1993.<br><b>3. National Law Commission (Executive):</b> Formed by an executive order of the Government of India (non-statutory/advisory).<br><b>4. National Consumer Disputes Redressal Commission (Statutory):</b> Established under the Consumer Protection Act.<br><br><i>Mentor's PYQ Insight:</i> Directly from the 2023 Prelims. The examiner uses the prefix 'National Commission' to trick you into assuming constitutional status.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - National Pharmaceutical Pricing Authority (NPPA)",
+    "question": "<b>Consider the following statements regarding the National Pharmaceutical Pricing Authority (NPPA):</b><br><br>1. It is a statutory body established under the Drugs and Cosmetics Act, 1940.<br>2. It functions as an attached office under the Ministry of Health and Family Welfare.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Statement 1 is incorrect (Status Trap):</b> The NPPA is <b>not</b> a statutory body. It was constituted through a Government Resolution in 1997, making it an executive body.<br><b>Statement 2 is incorrect (Ministry Trap):</b> It does not fall under the Ministry of Health. It is an attached office of the Department of Pharmaceuticals, under the <b>Ministry of Chemicals and Fertilizers</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - Aircraft Accident Investigation Bureau (AAIB)",
+    "question": "<b>The Aircraft Accident Investigation Bureau (AAIB) investigates aircraft accidents in Indian airspace in compliance with Annex 13 of which of the following international conventions?</b>",
+    "options": [
+      "The Warsaw Convention",
+      "The Geneva Convention",
+      "The Chicago Convention",
+      "The Montreal Convention"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: The Chicago Convention</b><br><br>The AAIB (established in 2012 under the Ministry of Civil Aviation via the Aircraft Act 1934) investigates aviation accidents and incidents. It conducts these investigations in strict compliance with Annex 13 of the <b>Chicago Convention</b> (Convention on International Civil Aviation), which mandates independent accident investigations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - Central Information Commission (CIC)",
+    "question": "<b>With reference to the Central Information Commission (CIC), consider the following statements:</b><br><br>1. The Chief Information Commissioner is appointed by the President on the recommendation of a committee chaired by the Union Home Minister.<br>2. The Chief Information Commissioner is not eligible for reappointment to the same post.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Committee Trap):</b> The selection committee is chaired by the <b>Prime Minister</b> (not the Home Minister), and includes the Leader of Opposition in the Lok Sabha and a Union Cabinet Minister nominated by the PM.<br><b>Statement 2 is correct:</b> Under the RTI Act, the Chief Information Commissioner and Information Commissioners hold office for a prescribed term or until age 65, and they are <b>not eligible for reappointment</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - National Investigation Agency (NIA)",
+    "question": "<b>Which of the following statements is/are correct regarding the National Investigation Agency (NIA)?</b><br><br>1. The NIA has the power to take suo motu cognizance of terror activities in any state without requiring the consent of the respective State Government.<br>2. The NIA (Amendment) Act, 2019 expanded its jurisdiction to investigate cyber-terrorism and human trafficking offences.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>Statement 1 is correct (Federal Power Exception):</b> Unlike the CBI (which derives power from the DSPE Act and requires state consent), the NIA was created by the NIA Act, 2008. It has concurrent jurisdiction to investigate scheduled offences (like terrorism) pan-India <b>without</b> requiring specific permission from states.<br><b>Statement 2 is correct:</b> The 2019 amendment expanded the schedule of offences to include human trafficking, counterfeit currency, cyber-terrorism, and offences under the Explosive Substances Act.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - National Human Rights Commission (NHRC)",
+    "question": "<b>Consider the following statements regarding the National Human Rights Commission (NHRC):</b><br><br>1. The Chairperson of the NHRC must be a serving or retired Chief Justice of India, and no other judge is eligible.<br>2. The recommendations made by the NHRC are advisory in nature and not legally binding on the government.<br>3. The NHRC cannot independently investigate complaints of human rights violations by the armed forces.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect (Amendment Trap):</b> Following the 2019 Amendment to the Protection of Human Rights Act, a person who has been a <b>Judge of the Supreme Court</b> is also eligible to be appointed as Chairperson, not just the Chief Justice of India.<br><b>Statement 2 is correct:</b> The NHRC has no power to punish violators or award relief; its recommendations are purely advisory.<br><b>Statement 3 is correct:</b> The NHRC has limited jurisdiction regarding armed forces. It cannot independently investigate them; it can only seek a report from the Central Government.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - National Disaster Management Authority (NDMA)",
+    "question": "<b>With reference to the disaster management framework in India, consider the following statements:</b><br><br>1. The National Disaster Management Authority (NDMA) is a statutory body headed by the Union Home Minister.<br>2. The National Crisis Management Committee (NCMC), which oversees major crises, is headed by the Cabinet Secretary.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Hierarchy Trap):</b> The NDMA, established under the Disaster Management Act, 2005, is headed ex-officio by the <b>Prime Minister of India</b>, not the Home Minister. (The National Executive Committee under it is headed by the Home Secretary).<br><b>Statement 2 is correct:</b> The NCMC, an apex executive committee to handle major national crises, operates under the chairmanship of the Cabinet Secretary.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - Central Vigilance Commission (CVC)",
+    "question": "<b>Which of the following statements is/are true of the Central Vigilance Commission (CVC)?</b><br><br>1. It was originally set up by an executive resolution on the recommendation of the Santhanam Committee.<br>2. It functions as an independent investigative agency, actively registering criminal FIRs and arresting corrupt officials.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> The CVC was set up in 1964 by an executive resolution based on the Santhanam Committee on Prevention of Corruption. It was later granted statutory status in 2003.<br><b>Statement 2 is incorrect (Functional Trap):</b> The CVC is an advisory/supervisory body. It is <b>not an investigative agency</b> itself. It does not register FIRs or make arrests. It depends on the CBI or Chief Vigilance Officers (CVOs) of respective departments to conduct investigations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Non-Constitutional Bodies - Law Commission of India",
+    "question": "<b>Consider the following statements regarding the Law Commission of India:</b><br><br>1. It is a permanent statutory body constituted under an Act of Parliament.<br>2. The Commission is constituted for a fixed tenure, usually of three years.<br>3. It acts as an advisory body to the Ministry of Law and Justice.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect (Status Trap):</b> The Law Commission of India is <b>neither a constitutional nor a statutory body</b>. It is an executive body established by an order of the Government of India from time to time.<br><b>Statement 2 is correct:</b> It is constituted for a fixed tenure, generally spanning three years, after which it must be reconstituted.<br><b>Statement 3 is correct:</b> Its primary function is to conduct legal research and advise the Ministry of Law and Justice on legal reforms and the repeal of obsolete laws.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
