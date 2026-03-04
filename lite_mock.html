@@ -21,14 +21,30 @@
         
         body { background: var(--bg); color: var(--text); padding-bottom: 100px; }
 
-        /* Header & Upload */
-        .header { background: #1a237e; color: white; padding: 20px; text-align: center; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-        .header h1 { font-size: 1.5rem; margin-bottom: 15px; }
-        .upload-btn { background: #ffc107; color: #000; padding: 10px 20px; border-radius: 6px; cursor: pointer; font-weight: bold; display: inline-block; }
-        input[type="file"] { display: none; }
+        /* Header */
+        .header { background: #1a237e; color: white; padding: 15px 20px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .header h1 { font-size: 1.4rem; margin: 0; }
+        .reset-btn { background: rgba(255,255,255,0.2); color: white; border: none; padding: 8px 15px; border-radius: 4px; cursor: pointer; font-weight: bold; text-decoration: none; font-size: 0.9rem; }
+        .reset-btn:hover { background: rgba(255,255,255,0.3); }
 
-        /* Container */
+        /* Containers */
         .container { max-width: 800px; margin: 30px auto; padding: 0 15px; }
+
+        /* Setup Card (Upload/Paste) */
+        .setup-card { background: var(--card-bg); padding: 30px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; border: 1px solid var(--border); }
+        .upload-btn { background: #ffc107; color: #000; padding: 12px 25px; border-radius: 6px; cursor: pointer; font-weight: bold; display: inline-block; font-size: 1rem; border: 1px solid #e0a800; transition: 0.2s; }
+        .upload-btn:hover { background: #e0a800; }
+        input[type="file"] { display: none; }
+        
+        .divider { margin: 25px 0; color: #888; font-weight: bold; position: relative; }
+        .divider::before, .divider::after { content: ""; position: absolute; top: 50%; width: 40%; height: 1px; background: var(--border); }
+        .divider::before { left: 0; }
+        .divider::after { right: 0; }
+
+        .paste-area { width: 100%; height: 180px; padding: 15px; border: 2px dashed var(--border); border-radius: 6px; font-family: monospace; font-size: 0.9rem; margin-bottom: 15px; resize: vertical; }
+        .paste-area:focus { outline: none; border-color: var(--accent); background: #f8faff; }
+        .render-btn { background: var(--accent); color: white; border: none; padding: 12px 25px; border-radius: 6px; font-size: 1rem; font-weight: bold; cursor: pointer; width: 100%; transition: 0.2s; }
+        .render-btn:hover { background: #1c44b2; }
 
         /* Question Card */
         .q-card { background: var(--card-bg); border-radius: 8px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); border: 1px solid var(--border); }
@@ -60,135 +76,9 @@
 
     <div class="header">
         <h1>Lite Mock Engine</h1>
-        <label class="upload-btn">
-            📂 Select JSON File
-            <input type="file" id="fileInput" accept=".json">
-        </label>
+        <button class="reset-btn" onclick="location.reload()">🔄 Reset</button>
     </div>
 
-    <div class="container" id="quiz-container">
-        <div style="text-align: center; color: #888; margin-top: 50px;">
-            Upload a test JSON to begin...
-        </div>
-    </div>
-
-    <script>
-        let globalQuestions = [];
-
-        // 1. File Upload Listener
-        document.getElementById('fileInput').addEventListener('change', function(e) {
-            const file = e.target.files[0];
-            if (!file) return;
-
-            const reader = new FileReader();
-            reader.onload = function(e) {
-                try {
-                    const data = JSON.parse(e.target.result);
-                    processAndRender(data);
-                } catch (err) {
-                    alert("Invalid JSON file!");
-                    console.error(err);
-                }
-            };
-            reader.readAsText(file);
-        });
-
-        // 2. Data Processor (Handles both new Object format and old Array format)
-        function processAndRender(inputData) {
-            let rawList = [];
-
-            if (inputData && !Array.isArray(inputData) && Array.isArray(inputData.questions)) {
-                // Map passages to questions if using the new format
-                rawList = inputData.questions.map(q => {
-                    if (q.passageId && inputData.passages && inputData.passages[q.passageId]) {
-                        q.passage = inputData.passages[q.passageId];
-                    }
-                    return q;
-                });
-            } else if (Array.isArray(inputData)) {
-                rawList = inputData;
-            } else {
-                alert("Unrecognized JSON structure.");
-                return;
-            }
-
-            // Filter out descriptive questions for this lite engine
-            globalQuestions = rawList.filter(q => q.type !== 'descriptive');
-            renderQuestions();
-        }
-
-        // 3. UI Renderer
-        function renderQuestions() {
-            const container = document.getElementById('quiz-container');
-            container.innerHTML = ''; // Clear previous
-
-            if (globalQuestions.length === 0) {
-                container.innerHTML = '<div style="text-align: center; color: red;">No objective questions found in this file.</div>';
-                return;
-            }
-
-            globalQuestions.forEach((q, index) => {
-                // Create Card
-                const card = document.createElement('div');
-                card.className = 'q-card';
-                card.id = `q-card-${index}`;
-
-                // Passage HTML (if exists)
-                let passageHtml = '';
-                if (q.passage) {
-                    passageHtml = `<div class="passage-box">${q.passage}</div>`;
-                }
-
-                // Options HTML
-                let optionsHtml = '<div class="options-list">';
-                q.options.forEach((opt, optIndex) => {
-                    optionsHtml += `<button class="opt-btn" onclick="checkAnswer(${index}, ${optIndex}, this)">${opt}</button>`;
-                });
-                optionsHtml += '</div>';
-
-                // Explanation HTML
-                const expHtml = `<div class="exp-box" id="exp-${index}">
-                                    <strong>Explanation:</strong><br><br>${q.explanation || 'No explanation provided.'}
-                                 </div>`;
-
-                // Assemble Card
-                card.innerHTML = `
-                    ${passageHtml}
-                    <div class="q-meta">Q${index + 1} | ${q.section || 'General'} - ${q.topic || 'Misc'}</div>
-                    <div class="q-text">${q.question}</div>
-                    ${optionsHtml}
-                    ${expHtml}
-                `;
-
-                container.appendChild(card);
-            });
-        }
-
-        // 4. Click Logic & Validation
-        function checkAnswer(qIndex, selectedOptIndex, clickedBtn) {
-            const q = globalQuestions[qIndex];
-            const correctIndex = q.answer;
-            const card = document.getElementById(`q-card-${qIndex}`);
-            const allButtons = card.querySelectorAll('.opt-btn');
-
-            // Disable all buttons in this specific question card
-            allButtons.forEach(btn => btn.classList.add('disabled'));
-
-            // Validation Logic
-            if (selectedOptIndex === correctIndex) {
-                // Clicked Correctly
-                clickedBtn.classList.add('correct');
-            } else {
-                // Clicked Wrongly
-                clickedBtn.classList.add('wrong');
-                // Highlight the actual correct answer
-                allButtons[correctIndex].classList.add('correct');
-            }
-
-            // Reveal Explanation
-            const expBox = document.getElementById(`exp-${qIndex}`);
-            expBox.classList.add('show');
-        }
-    </script>
-</body>
-</html>
+    <div class="container" id="init-container">
+        <div class="setup-card">
+            <h2 style="margin-bottom: 20px;
