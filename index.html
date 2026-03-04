@@ -369,7 +369,8 @@
             <div class="btn-group">
                 <button onclick="returnToLibrary()">Library</button>
                 <button id="smart-review-btn" onclick="startSmartReview()" style="display:none; background:#ffc107; color:#333;">Smart Review</button>
-                <button style="background:#27ae60;" onclick="downloadRes()">Download</button>
+                <button style="background:#17a2b8;" onclick="downloadCSV()">⬇️ CSV Data</button>
+                <button style="background:#27ae60;" onclick="downloadRes()">📄 HTML Report</button>
             </div>
         </div>
 
@@ -1176,6 +1177,72 @@
             console.error('Failed to copy: ', err);
             alert("Failed to copy. Please allow clipboard permissions.");
         });
+    }
+    // --- CSV EXPORT FUNCTION ---
+    function downloadCSV() {
+        if (!questions || questions.length === 0) {
+            alert("No data available to export.");
+            return;
+        }
+
+        // CSV Header
+        let csvContent = "Q.No,Topic,Question,Correct Answer,My Answer,Status,Confidence,Time Taken (sec)\n";
+
+        // Helper function to safely escape text for CSV (strips HTML and handles quotes)
+        const escapeCSV = (text) => {
+            if (text === null || text === undefined) return '""';
+            // Replace HTML tags with a space, normalize multiple spaces, and trim
+            let s = text.toString().replace(/<[^>]*>?/gm, ' ').replace(/\s+/g, ' ').trim();
+            // Escape double quotes by doubling them (CSV standard)
+            return `"${s.replace(/"/g, '""')}"`;
+        };
+
+        questions.forEach((q, i) => {
+            const qNum = i + 1;
+            const topic = q.topic || 'General';
+            const qText = q.question;
+            const conf = confidence[i] || 'None';
+            const time = Math.round(qTimers[i] || 0);
+
+            let correctAns = "";
+            let myAns = "";
+            let status = "Skipped";
+
+            if (q.type === 'descriptive') {
+                correctAns = "N/A (Descriptive)";
+                myAns = responses[i] || "No Answer Typed";
+                status = (responses[i] && responses[i].trim().length > 0) ? "Attempted" : "Skipped";
+            } else {
+                correctAns = q.options[q.answer];
+                const userResp = responses[i];
+                
+                if (userResp !== undefined) {
+                    myAns = q.options[userResp];
+                    status = (userResp === q.answer) ? "Correct" : "Wrong";
+                } else {
+                    myAns = "Skipped";
+                    status = "Skipped";
+                }
+            }
+
+            // Append row to CSV content
+            csvContent += `${qNum},${escapeCSV(topic)},${escapeCSV(qText)},${escapeCSV(correctAns)},${escapeCSV(myAns)},${escapeCSV(status)},${escapeCSV(conf)},${time}\n`;
+        });
+
+        // Create Blob and trigger download
+        const blob = new Blob(["\uFEFF" + csvContent], { type: 'text/csv;charset=utf-8;' }); // \uFEFF adds BOM for Excel UTF-8 compatibility
+        const link = document.createElement("a");
+        const url = URL.createObjectURL(blob);
+        
+        let cleanName = activeFile ? activeFile.replace(/\.json$/i, '').replace(/ \(Review\)$/i, '') : "Mock_Test";
+        cleanName = cleanName.replace(/[^a-z0-9\-_]/gi, '_');
+
+        link.setAttribute("href", url);
+        link.setAttribute("download", `Attempt_Data_${cleanName}.csv`);
+        link.style.visibility = 'hidden';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
     }
 </script>
 </body>
