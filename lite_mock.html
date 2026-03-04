@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lite Mock Engine</title>
+    <style>
+        :root {
+            --bg: #f4f7f6;
+            --card-bg: #ffffff;
+            --text: #333;
+            --accent: #2962ff;
+            --correct: #2ecc71;
+            --correct-bg: #e8f8f5;
+            --wrong: #e74c3c;
+            --wrong-bg: #fdedec;
+            --border: #e0e0e0;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', system-ui, sans-serif; }
+        
+        body { background: var(--bg); color: var(--text); padding-bottom: 100px; }
+
+        /* Header & Upload */
+        .header { background: #1a237e; color: white; padding: 20px; text-align: center; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .header h1 { font-size: 1.5rem; margin-bottom: 15px; }
+        .upload-btn { background: #ffc107; color: #000; padding: 10px 20px; border-radius: 6px; cursor: pointer; font-weight: bold; display: inline-block; }
+        input[type="file"] { display: none; }
+
+        /* Container */
+        .container { max-width: 800px; margin: 30px auto; padding: 0 15px; }
+
+        /* Question Card */
+        .q-card { background: var(--card-bg); border-radius: 8px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); border: 1px solid var(--border); }
+        
+        .passage-box { background: #fffbf2; padding: 15px; border-left: 4px solid #d35400; margin-bottom: 20px; font-family: Georgia, serif; line-height: 1.6; }
+        
+        .q-meta { font-size: 0.85rem; color: #777; margin-bottom: 15px; font-weight: bold; text-transform: uppercase; border-bottom: 1px solid var(--border); padding-bottom: 5px;}
+        .q-text { font-size: 1.15rem; line-height: 1.6; margin-bottom: 20px; font-weight: 500; }
+        .q-text br { display: block; margin-bottom: 10px; content: " "; }
+
+        /* Options */
+        .options-list { display: flex; flex-direction: column; gap: 10px; }
+        .opt-btn { background: #fff; border: 2px solid var(--border); padding: 15px; border-radius: 8px; text-align: left; font-size: 1rem; cursor: pointer; transition: 0.2s; line-height: 1.5; }
+        .opt-btn:hover:not(.disabled) { border-color: var(--accent); background: #f0f4ff; }
+        
+        /* State Classes */
+        .opt-btn.disabled { cursor: default; pointer-events: none; }
+        .opt-btn.correct { border-color: var(--correct); background: var(--correct-bg); color: #1e8449; font-weight: bold; }
+        .opt-btn.wrong { border-color: var(--wrong); background: var(--wrong-bg); color: #922b21; text-decoration: line-through; }
+
+        /* Explanation */
+        .exp-box { margin-top: 20px; padding: 15px; background: #f8f9fa; border-radius: 6px; border-left: 4px solid var(--accent); font-size: 0.95rem; line-height: 1.6; display: none; animation: fadeIn 0.4s ease; }
+        .exp-box.show { display: block; }
+
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Lite Mock Engine</h1>
+        <label class="upload-btn">
+            📂 Select JSON File
+            <input type="file" id="fileInput" accept=".json">
+        </label>
+    </div>
+
+    <div class="container" id="quiz-container">
+        <div style="text-align: center; color: #888; margin-top: 50px;">
+            Upload a test JSON to begin...
+        </div>
+    </div>
+
+    <script>
+        let globalQuestions = [];
+
+        // 1. File Upload Listener
+        document.getElementById('fileInput').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const data = JSON.parse(e.target.result);
+                    processAndRender(data);
+                } catch (err) {
+                    alert("Invalid JSON file!");
+                    console.error(err);
+                }
+            };
+            reader.readAsText(file);
+        });
+
+        // 2. Data Processor (Handles both new Object format and old Array format)
+        function processAndRender(inputData) {
+            let rawList = [];
+
+            if (inputData && !Array.isArray(inputData) && Array.isArray(inputData.questions)) {
+                // Map passages to questions if using the new format
+                rawList = inputData.questions.map(q => {
+                    if (q.passageId && inputData.passages && inputData.passages[q.passageId]) {
+                        q.passage = inputData.passages[q.passageId];
+                    }
+                    return q;
+                });
+            } else if (Array.isArray(inputData)) {
+                rawList = inputData;
+            } else {
+                alert("Unrecognized JSON structure.");
+                return;
+            }
+
+            // Filter out descriptive questions for this lite engine
+            globalQuestions = rawList.filter(q => q.type !== 'descriptive');
+            renderQuestions();
+        }
+
+        // 3. UI Renderer
+        function renderQuestions() {
+            const container = document.getElementById('quiz-container');
+            container.innerHTML = ''; // Clear previous
+
+            if (globalQuestions.length === 0) {
+                container.innerHTML = '<div style="text-align: center; color: red;">No objective questions found in this file.</div>';
+                return;
+            }
+
+            globalQuestions.forEach((q, index) => {
+                // Create Card
+                const card = document.createElement('div');
+                card.className = 'q-card';
+                card.id = `q-card-${index}`;
+
+                // Passage HTML (if exists)
+                let passageHtml = '';
+                if (q.passage) {
+                    passageHtml = `<div class="passage-box">${q.passage}</div>`;
+                }
+
+                // Options HTML
+                let optionsHtml = '<div class="options-list">';
+                q.options.forEach((opt, optIndex) => {
+                    optionsHtml += `<button class="opt-btn" onclick="checkAnswer(${index}, ${optIndex}, this)">${opt}</button>`;
+                });
+                optionsHtml += '</div>';
+
+                // Explanation HTML
+                const expHtml = `<div class="exp-box" id="exp-${index}">
+                                    <strong>Explanation:</strong><br><br>${q.explanation || 'No explanation provided.'}
+                                 </div>`;
+
+                // Assemble Card
+                card.innerHTML = `
+                    ${passageHtml}
+                    <div class="q-meta">Q${index + 1} | ${q.section || 'General'} - ${q.topic || 'Misc'}</div>
+                    <div class="q-text">${q.question}</div>
+                    ${optionsHtml}
+                    ${expHtml}
+                `;
+
+                container.appendChild(card);
+            });
+        }
+
+        // 4. Click Logic & Validation
+        function checkAnswer(qIndex, selectedOptIndex, clickedBtn) {
+            const q = globalQuestions[qIndex];
+            const correctIndex = q.answer;
+            const card = document.getElementById(`q-card-${qIndex}`);
+            const allButtons = card.querySelectorAll('.opt-btn');
+
+            // Disable all buttons in this specific question card
+            allButtons.forEach(btn => btn.classList.add('disabled'));
+
+            // Validation Logic
+            if (selectedOptIndex === correctIndex) {
+                // Clicked Correctly
+                clickedBtn.classList.add('correct');
+            } else {
+                // Clicked Wrongly
+                clickedBtn.classList.add('wrong');
+                // Highlight the actual correct answer
+                allButtons[correctIndex].classList.add('correct');
+            }
+
+            // Reveal Explanation
+            const expBox = document.getElementById(`exp-${qIndex}`);
+            expBox.classList.add('show');
+        }
+    </script>
+</body>
+</html>
