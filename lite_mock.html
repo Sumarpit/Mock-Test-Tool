@@ -5,80 +5,215 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lite Mock Engine</title>
     <style>
-        :root {
-            --bg: #f4f7f6;
-            --card-bg: #ffffff;
-            --text: #333;
-            --accent: #2962ff;
-            --correct: #2ecc71;
-            --correct-bg: #e8f8f5;
-            --wrong: #e74c3c;
-            --wrong-bg: #fdedec;
-            --border: #e0e0e0;
-        }
-
-        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', system-ui, sans-serif; }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: Arial, sans-serif; }
         
-        body { background: var(--bg); color: var(--text); padding-bottom: 100px; }
+        body { background: #f4f7f6; color: #333; padding-bottom: 100px; }
 
         /* Header */
         .header { background: #1a237e; color: white; padding: 15px 20px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
         .header h1 { font-size: 1.4rem; margin: 0; }
-        .reset-btn { background: rgba(255,255,255,0.2); color: white; border: none; padding: 8px 15px; border-radius: 4px; cursor: pointer; font-weight: bold; text-decoration: none; font-size: 0.9rem; }
-        .reset-btn:hover { background: rgba(255,255,255,0.3); }
+        .reset-btn { background: #e74c3c; color: white; border: none; padding: 8px 15px; border-radius: 4px; cursor: pointer; font-weight: bold; font-size: 0.9rem; }
+        .reset-btn:hover { background: #c0392b; }
 
         /* Containers */
         .container { max-width: 800px; margin: 30px auto; padding: 0 15px; }
+        .card { background: #ffffff; padding: 30px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border: 1px solid #ddd; }
 
-        /* Setup Card (Upload/Paste) */
-        .setup-card { background: var(--card-bg); padding: 30px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center; border: 1px solid var(--border); }
-        .upload-btn { background: #ffc107; color: #000; padding: 12px 25px; border-radius: 6px; cursor: pointer; font-weight: bold; display: inline-block; font-size: 1rem; border: 1px solid #e0a800; transition: 0.2s; }
-        .upload-btn:hover { background: #e0a800; }
+        /* Setup UI */
+        .upload-btn { background: #f39c12; color: #000; padding: 12px 25px; border-radius: 6px; cursor: pointer; font-weight: bold; display: block; text-align: center; font-size: 1rem; border: 1px solid #d68910; }
+        .upload-btn:hover { background: #d68910; }
         input[type="file"] { display: none; }
         
-        .divider { margin: 25px 0; color: #888; font-weight: bold; position: relative; }
-        .divider::before, .divider::after { content: ""; position: absolute; top: 50%; width: 40%; height: 1px; background: var(--border); }
-        .divider::before { left: 0; }
-        .divider::after { right: 0; }
+        .divider { text-align: center; margin: 20px 0; color: #888; font-weight: bold; }
 
-        .paste-area { width: 100%; height: 180px; padding: 15px; border: 2px dashed var(--border); border-radius: 6px; font-family: monospace; font-size: 0.9rem; margin-bottom: 15px; resize: vertical; }
-        .paste-area:focus { outline: none; border-color: var(--accent); background: #f8faff; }
-        .render-btn { background: var(--accent); color: white; border: none; padding: 12px 25px; border-radius: 6px; font-size: 1rem; font-weight: bold; cursor: pointer; width: 100%; transition: 0.2s; }
+        .paste-label { font-weight: bold; margin-bottom: 10px; display: block; color: #444; }
+        .paste-area { width: 100%; height: 250px; padding: 15px; border: 2px solid #bdc3c7; border-radius: 6px; font-family: monospace; font-size: 14px; margin-bottom: 15px; background: #fafafa; }
+        .paste-area:focus { outline: none; border-color: #2962ff; background: #fff; }
+        
+        .render-btn { background: #2962ff; color: white; border: none; padding: 15px 25px; border-radius: 6px; font-size: 1.1rem; font-weight: bold; cursor: pointer; width: 100%; }
         .render-btn:hover { background: #1c44b2; }
 
-        /* Question Card */
-        .q-card { background: var(--card-bg); border-radius: 8px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); border: 1px solid var(--border); }
-        
+        /* Question UI */
+        .q-card { background: #ffffff; border-radius: 8px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #ddd; }
         .passage-box { background: #fffbf2; padding: 15px; border-left: 4px solid #d35400; margin-bottom: 20px; font-family: Georgia, serif; line-height: 1.6; }
-        
-        .q-meta { font-size: 0.85rem; color: #777; margin-bottom: 15px; font-weight: bold; text-transform: uppercase; border-bottom: 1px solid var(--border); padding-bottom: 5px;}
-        .q-text { font-size: 1.15rem; line-height: 1.6; margin-bottom: 20px; font-weight: 500; }
-        .q-text br { display: block; margin-bottom: 10px; content: " "; }
+        .q-meta { font-size: 0.85rem; color: #777; margin-bottom: 15px; font-weight: bold; text-transform: uppercase; border-bottom: 1px solid #eee; padding-bottom: 5px;}
+        .q-text { font-size: 1.15rem; line-height: 1.6; margin-bottom: 20px; font-weight: bold; color: #2c3e50; }
 
-        /* Options */
+        /* Options UI */
         .options-list { display: flex; flex-direction: column; gap: 10px; }
-        .opt-btn { background: #fff; border: 2px solid var(--border); padding: 15px; border-radius: 8px; text-align: left; font-size: 1rem; cursor: pointer; transition: 0.2s; line-height: 1.5; }
-        .opt-btn:hover:not(.disabled) { border-color: var(--accent); background: #f0f4ff; }
+        .opt-btn { background: #fff; border: 2px solid #ddd; padding: 15px; border-radius: 8px; text-align: left; font-size: 1rem; cursor: pointer; transition: 0.2s; line-height: 1.5; color: #333; }
+        .opt-btn:hover:not(.disabled) { border-color: #2962ff; background: #f0f4ff; }
         
-        /* State Classes */
+        /* Interactive States */
         .opt-btn.disabled { cursor: default; pointer-events: none; }
-        .opt-btn.correct { border-color: var(--correct); background: var(--correct-bg); color: #1e8449; font-weight: bold; }
-        .opt-btn.wrong { border-color: var(--wrong); background: var(--wrong-bg); color: #922b21; text-decoration: line-through; }
+        .opt-btn.correct { border-color: #2ecc71; background: #e8f8f5; color: #1e8449; font-weight: bold; }
+        .opt-btn.wrong { border-color: #e74c3c; background: #fdedec; color: #922b21; text-decoration: line-through; }
 
-        /* Explanation */
-        .exp-box { margin-top: 20px; padding: 15px; background: #f8f9fa; border-radius: 6px; border-left: 4px solid var(--accent); font-size: 0.95rem; line-height: 1.6; display: none; animation: fadeIn 0.4s ease; }
+        /* Explanation UI */
+        .exp-box { margin-top: 20px; padding: 15px; background: #f8f9fa; border-radius: 6px; border-left: 4px solid #2962ff; font-size: 0.95rem; line-height: 1.6; display: none; }
         .exp-box.show { display: block; }
-
-        @keyframes fadeIn { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
     </style>
 </head>
 <body>
 
     <div class="header">
         <h1>Lite Mock Engine</h1>
-        <button class="reset-btn" onclick="location.reload()">🔄 Reset</button>
+        <button class="reset-btn" onclick="location.reload()">Reset Test</button>
     </div>
 
     <div class="container" id="init-container">
-        <div class="setup-card">
-            <h2 style="margin-bottom: 20px;
+        <div class="card">
+            <h2 style="margin-bottom: 20px; text-align: center;">Load Your JSON Data</h2>
+            
+            <label class="upload-btn">
+                📂 Click here to Select JSON File from PC
+                <input type="file" id="fileInput" accept=".json">
+            </label>
+
+            <div class="divider">--- OR ---</div>
+
+            <label class="paste-label">Paste raw JSON text below:</label>
+            <textarea id="jsonPasteBox" class="paste-area" placeholder="Paste your JSON array here..."></textarea>
+            <button class="render-btn" onclick="loadFromPaste()">🚀 Render Pasted Questions</button>
+        </div>
+    </div>
+
+    <div class="container" id="quiz-container" style="display: none;"></div>
+
+    <script>
+        let globalQuestions = [];
+
+        // 1. File Upload Logic
+        document.getElementById('fileInput').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const data = JSON.parse(e.target.result);
+                    processAndRender(data);
+                } catch (err) {
+                    alert("Invalid JSON file! Please make sure the file contains valid JSON code.");
+                    console.error(err);
+                }
+            };
+            reader.readAsText(file);
+        });
+
+        // 2. Paste JSON Logic
+        function loadFromPaste() {
+            const rawText = document.getElementById('jsonPasteBox').value.trim();
+            if (!rawText) {
+                alert("The text box is empty! Please paste some JSON code first.");
+                return;
+            }
+            try {
+                const data = JSON.parse(rawText);
+                processAndRender(data);
+            } catch (err) {
+                alert("Syntax Error! The text you pasted is not valid JSON. Check for missing commas or brackets.");
+                console.error(err);
+            }
+        }
+
+        // 3. Process the Data
+        function processAndRender(inputData) {
+            let rawList = [];
+
+            if (inputData && !Array.isArray(inputData) && Array.isArray(inputData.questions)) {
+                // New Format (Object with passages)
+                rawList = inputData.questions.map(q => {
+                    if (q.passageId && inputData.passages && inputData.passages[q.passageId]) {
+                        q.passage = inputData.passages[q.passageId];
+                    }
+                    return q;
+                });
+            } else if (Array.isArray(inputData)) {
+                // Old Format (Direct Array)
+                rawList = inputData;
+            } else {
+                alert("Unrecognized format. Needs to be a JSON array of questions.");
+                return;
+            }
+
+            // Filter out descriptive questions for this Lite version
+            globalQuestions = rawList.filter(q => q.type !== 'descriptive');
+            
+            // Switch screens
+            document.getElementById('init-container').style.display = 'none';
+            document.getElementById('quiz-container').style.display = 'block';
+            
+            renderQuestions();
+        }
+
+        // 4. Render the UI
+        function renderQuestions() {
+            const container = document.getElementById('quiz-container');
+            container.innerHTML = ''; 
+
+            if (globalQuestions.length === 0) {
+                container.innerHTML = '<div class="card"><h3 style="color: red; text-align:center;">No objective questions found in this data.</h3></div>';
+                return;
+            }
+
+            globalQuestions.forEach((q, index) => {
+                const card = document.createElement('div');
+                card.className = 'q-card';
+                card.id = `q-card-${index}`;
+
+                let passageHtml = '';
+                if (q.passage) {
+                    passageHtml = `<div class="passage-box">${q.passage}</div>`;
+                }
+
+                let optionsHtml = '<div class="options-list">';
+                if(Array.isArray(q.options)) {
+                    q.options.forEach((opt, optIndex) => {
+                        optionsHtml += `<button class="opt-btn" onclick="checkAnswer(${index}, ${optIndex}, this)">${opt}</button>`;
+                    });
+                }
+                optionsHtml += '</div>';
+
+                const expHtml = `<div class="exp-box" id="exp-${index}">
+                                    <strong>Explanation:</strong><br><br>${q.explanation || 'No explanation provided.'}
+                                 </div>`;
+
+                card.innerHTML = `
+                    ${passageHtml}
+                    <div class="q-meta">Q${index + 1} | ${q.section || 'General'} - ${q.topic || 'Misc'}</div>
+                    <div class="q-text">${q.question}</div>
+                    ${optionsHtml}
+                    ${expHtml}
+                `;
+
+                container.appendChild(card);
+            });
+            
+            window.scrollTo(0, 0);
+        }
+
+        // 5. Answer Checking Logic
+        function checkAnswer(qIndex, selectedOptIndex, clickedBtn) {
+            const q = globalQuestions[qIndex];
+            const correctIndex = q.answer;
+            const card = document.getElementById(`q-card-${qIndex}`);
+            const allButtons = card.querySelectorAll('.opt-btn');
+
+            // Disable all buttons in this question to prevent double-clicking
+            allButtons.forEach(btn => btn.classList.add('disabled'));
+
+            if (selectedOptIndex === correctIndex) {
+                clickedBtn.classList.add('correct');
+            } else {
+                clickedBtn.classList.add('wrong');
+                allButtons[correctIndex].classList.add('correct');
+            }
+
+            // Show explanation
+            const expBox = document.getElementById(`exp-${qIndex}`);
+            if(expBox) expBox.classList.add('show');
+        }
+    </script>
+</body>
+</html>
