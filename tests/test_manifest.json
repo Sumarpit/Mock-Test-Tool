@@ -113,6 +113,8 @@
 ,
 {"name": "Polity CoI, citizenship, oci", "filename": "Polity CoI, citizenship, oci.json", "path": "tests/upsc/Polity CoI, citizenship, oci.json"}
 ,
+{"name": "SC HC", "filename": "SC HC.json", "path": "tests/upsc/SC HC.json"}
+,
 {"name": "SFG 1", "filename": "SFG 1.json", "path": "tests/upsc/SFG 1.json"}
 ,
 {"name": "SFG 2", "filename": "SFG 2.json", "path": "tests/upsc/SFG 2.json"}

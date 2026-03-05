@@ -1,0 +1,377 @@
+[
+  {
+    "section": "Polity",
+    "topic": "Supreme Court - Qualifications and Age",
+    "question": "<b>Consider the following statements regarding the qualifications for appointment of Judges in the higher judiciary:</b><br><br>1. The Constitution of India prescribes a minimum age of 35 years for appointment as a Judge of the Supreme Court.<br>2. A distinguished jurist, in the opinion of the President, can be appointed as a Judge of a High Court.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Statement 1 is incorrect (Trap!):</b> The Constitution has <b>not prescribed any minimum age</b> for appointment as a judge of the Supreme Court or the High Court.<br><b>Statement 2 is incorrect (Asymmetry Trap):</b> Under Article 124, a 'distinguished jurist' can be appointed to the <b>Supreme Court</b>. However, Article 217 contains no such provision for the appointment of a distinguished jurist to a <b>High Court</b>.<br><br><i>Mentor's PYQ Analysis:</i> Examiners frequently exploit the asymmetrical provisions between the SC and HC. Always map these side-by-side.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "High Court - Independence and Financial Autonomy",
+    "question": "<b>To safeguard the independence of the judiciary, the Constitution makes specific provisions regarding the financial autonomy of High Courts. Consider the following statements:</b><br><br>1. The salaries and allowances of the Judges of a High Court are charged on the Consolidated Fund of the State.<br>2. The pensions of the Judges of a High Court are charged on the Consolidated Fund of the State.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> The salaries and allowances of High Court judges are charged on the Consolidated Fund of the respective State.<br><b>Statement 2 is incorrect (The Deadliest Trap):</b> To ensure complete post-retirement independence from state-level political pressure, the <b>pensions</b> of High Court judges are charged on the <b>Consolidated Fund of India</b>, NOT the State.<br><br><i>Mentor's PYQ Analysis:</i> This is a classic Laxmikanth fact heavily tested in Prelims. Do not assume 'High Court = State Fund' for everything.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Supreme Court - Removal of Judges",
+    "question": "<b>With reference to the removal of a Supreme Court Judge, consider the following statements:</b><br><br>1. The Constitution of India explicitly defines what constitutes 'proved misbehaviour' and 'incapacity'.<br>2. An impeachment motion for the removal of a judge does not lapse on the dissolution of the Lok Sabha.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Definitional Trap):</b> The Constitution (Article 124) mentions 'proved misbehaviour or incapacity' as the grounds for removal, but it <b>does not define</b> them. The procedure and investigation details are left to the Judges (Inquiry) Act, 1968.<br><b>Statement 2 is correct:</b> A motion to remove a judge does not lapse on the dissolution of the Lok Sabha, ensuring the continuity of judicial accountability mechanisms.<br><br><i>Mentor's PYQ Analysis:</i> Tested verbatim in the 2019 Prelims. Always flag the words 'Constitution explicitly defines' as highly suspicious.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Supreme Court - Advisory Jurisdiction",
+    "question": "<b>Under Article 143, the President is authorized to seek the opinion of the Supreme Court. Consider the following statements:</b><br><br>1. The Supreme Court is constitutionally bound to tender its opinion on any question of law or fact of public importance referred by the President.<br>2. The opinion tendered by the Supreme Court under this jurisdiction is legally binding on the President.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Statement 1 is incorrect (Nuance Trap):</b> Under Article 143(1) (public importance), the SC <b>may refuse</b> to tender its opinion. It is only bound to give an opinion under Article 143(2) (pre-Constitution treaties).<br><b>Statement 2 is incorrect:</b> The advice tendered is purely advisory and is <b>not binding</b> on the President.<br><br><i>Mentor's PYQ Analysis:</i> Repeatedly tested (2010 PYQ). The examiner targets the difference between the SC's discretion in Art 143(1) vs its obligation in Art 143(2).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Supreme Court - Original Jurisdiction",
+    "question": "<b>Which of the following disputes fall under the exclusive Original Jurisdiction of the Supreme Court (Article 131)?</b><br><br>1. A dispute between the Centre and a State regarding a pre-Constitution treaty.<br>2. A dispute between two States regarding the sharing of inter-state river waters.<br>3. A dispute between the Government of India and one or more States involving a question of law.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "3 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>Statement 1 is excluded:</b> Disputes arising out of any pre-Constitution treaty or agreement are explicitly <b>excluded</b> from Original Jurisdiction (they fall under Advisory Jurisdiction).<br><b>Statement 2 is excluded:</b> Inter-state water disputes (Article 262) are excluded from the SC's original jurisdiction if Parliament enacts a law to that effect (e.g., ISWD Act, 1956).<br><b>Statement 3 is included:</b> Pure federal disputes involving legal rights fall squarely under Article 131.<br><br><i>Mentor's PYQ Analysis:</i> Tested directly in 2012 and 2014. Memorize the exact exclusions to Article 131.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary - Writ Jurisdiction",
+    "question": "<b>With reference to the writ jurisdiction in India, consider the following statements:</b><br><br>1. The writ jurisdiction of the Supreme Court is wider than that of the High Courts.<br>2. The Parliament can, by law, empower any other court to issue writs for the enforcement of Fundamental Rights.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Width Trap):</b> The writ jurisdiction of the High Court (Article 226) is <b>wider</b> than that of the SC (Article 32). The SC issues writs *only* for Fundamental Rights, whereas HCs issue them for Fundamental Rights *and* ordinary legal rights.<br><b>Statement 2 is correct:</b> Under Article 32(3), the Parliament can empower any other court to issue these writs within its local limits, though no such provision has been made so far.<br><br><i>Mentor's PYQ Analysis:</i> Concept tested in 2022. Examiners love swapping 'wider' and 'narrower' between HC and SC.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary - Review Power & Court of Record",
+    "question": "<b>Consider the following statements regarding the powers of the higher judiciary:</b><br><br>1. Under the Constitution, only the Supreme Court has the explicit power to review its own judgments; High Courts do not have this power.<br>2. Following the 42nd Amendment Act, High Courts were permanently deprived of the jurisdiction to declare Central laws unconstitutional.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Statement 1 is incorrect (Inherent Power Trap):</b> While Article 137 explicitly grants review power to the SC, High Courts also possess the inherent power to review their own judgments because they are designated as a 'Court of Record' (Article 215).<br><b>Statement 2 is incorrect (Chronology Trap):</b> The 42nd Amendment did restrict HC review of Central laws, but this was <b>reversed by the 43rd Amendment Act (1977)</b>, restoring the HC's power to invalidate Central laws.<br><br><i>Mentor's PYQ Analysis:</i> Statement 1 was exactly asked in the 2021 Prelims, testing the implicit powers of a Court of Record.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary - Post-Retirement Practice",
+    "question": "<b>Consider the following statements regarding the post-retirement restrictions on judges in India:</b><br><br>1. A retired Judge of the Supreme Court is absolutely prohibited from pleading or acting in any Court or before any authority within the territory of India.<br>2. A retired permanent Judge of a High Court is absolutely prohibited from pleading or acting in the Supreme Court of India.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> To ensure impartiality, Article 124(7) absolutely bars a retired SC Judge from practicing law before any authority in India.<br><b>Statement 2 is incorrect (Exception Trap):</b> Article 220 restricts a retired permanent HC Judge from practicing in courts *where they served*. However, they are <b>expressly permitted</b> to plead in the Supreme Court and other High Courts.<br><br><i>Mentor's PYQ Analysis:</i> Absolute words like 'absolutely prohibited' must trigger your trap radar. Verify the exceptions for HC judges.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Supreme Court - Composition and Strength",
+    "question": "<b>The power to increase the sanctioned number of Judges in the Supreme Court of India is vested in the:</b>",
+    "options": [
+      "President of India",
+      "Chief Justice of India",
+      "Parliament by law",
+      "Law Commission of India"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Parliament by law</b><br><br>Under Article 124(1), Parliament is authorised to regulate the strength of the Supreme Court by law. In contrast, the strength of a High Court is determined by the <b>President</b> from time to time based on workload, as the Constitution does not fix a specific number for HCs.<br><br><i>Mentor's PYQ Analysis:</i> Direct hit from the 2014 Prelims. Do not mix up the SC (Parliament) with the HC (President).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Supreme Court - Recalling Retired Judges",
+    "question": "<b>With reference to the Indian Judiciary, consider the following statements regarding the attendance of retired Judges at sittings of the Supreme Court:</b><br><br>1. The President of India directly appoints retired Supreme Court judges to act as Judges to clear backlogs.<br>2. A retired High Court judge who is duly qualified can also be requested to sit in the Supreme Court.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Authority Trap):</b> Under Article 128, it is the <b>Chief Justice of India (CJI)</b>—not the President directly—who requests a retired judge to sit. However, this requires the <b>prior consent of the President</b>.<br><b>Statement 2 is correct:</b> Article 128 explicitly allows the CJI to request any person who has held office as an SC Judge *or* a qualified HC Judge to sit and act as an SC Judge.<br><br><i>Mentor's PYQ Analysis:</i> Exact replica of a 2021 PYQ concept.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Supreme Court - Complete Justice (Article 142)",
+    "question": "<b>With reference to the Constitution of India, prohibitions or limitations contained in ordinary laws cannot act as prohibitions on the constitutional powers under Article 142. It could mean which one of the following?</b>",
+    "options": [
+      "The decisions taken by the Election Commission cannot be challenged in any court of law.",
+      "The Supreme Court of India is not constrained in the exercise of its powers by laws made by the Parliament.",
+      "The President can declare a Financial Emergency without the counsel of the Cabinet.",
+      "State Legislatures cannot make laws on certain matters without Union concurrence."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The Supreme Court of India is not constrained in the exercise of its powers by laws made by the Parliament.</b><br><br>Article 142 provides the SC the unique, unconstrained power to pass any decree or order necessary for doing 'complete justice' in any matter pending before it. Statutory laws cannot limit this constitutional, equitable power.<br><br><i>Mentor's PYQ Analysis:</i> Verbatim from 2019 Prelims. Article 142 is a critical concept for mains and prelims.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary - Judicial Review Definition",
+    "question": "<b>Consider the following statements regarding 'Judicial Review' in India:</b><br><br>1. The Constitution of India explicitly defines the term 'Judicial Review' in Article 13.<br>2. Any law placed in the Ninth Schedule of the Constitution is absolutely immune from Judicial Review.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Statement 1 is incorrect (Definitional Trap):</b> While the *power* of judicial review is implicit in Articles 13, 32, and 226, the Constitution <b>does not explicitly define or use the term</b> 'Judicial Review' anywhere.<br><b>Statement 2 is incorrect (Landmark Judgment Trap):</b> The Supreme Court in the <i>I.R. Coelho Case (2007)</i> ruled that laws placed in the Ninth Schedule after April 24, 1973, are open to judicial review if they violate the Basic Structure.<br><br><i>Mentor's PYQ Analysis:</i> UPSC frequently traps students by claiming the Constitution 'explicitly defines' a concept (2020 PYQ).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary - Contempt of Court",
+    "question": "<b>Consider the following statements regarding Contempt of Court in India:</b><br><br>1. The Constitution of India defines the exact boundaries of 'Civil Contempt' and 'Criminal Contempt'.<br>2. The Parliament is vested with the powers to make laws regulating Contempt of Court.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Definitional Trap):</b> The Constitution empowers the SC and HC to punish for contempt (Arts 129 and 215), but it <b>does not define</b> Civil or Criminal Contempt. They are defined under the Contempt of Courts Act, 1971.<br><b>Statement 2 is correct:</b> Parliament enacted the Contempt of Courts Act, 1971 based on the H.N. Sanyal Committee report to regulate this power.<br><br><i>Mentor's PYQ Analysis:</i> Directly tested in the 2022 Prelims.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Subordinate Courts - District Judges",
+    "question": "<b>With reference to the appointment of District Judges under Article 233, consider the following statements:</b><br><br>1. They are appointed by the Chief Justice of the respective State High Court.<br>2. A person must have been an advocate or pleader for at least seven years to be eligible for direct recruitment.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Authority Trap):</b> Appointments, postings, and promotions of district judges are made by the <b>Governor of the State</b> in consultation with the High Court, not by the Chief Justice.<br><b>Statement 2 is correct:</b> Article 233 mandates a minimum of seven years of practice as an advocate or pleader. <i>Current Affairs Link:</i> SC recently ruled that in-service judicial officers with combined 7-year experience can also apply.<br><br><i>Mentor's PYQ Analysis:</i> Always separate administrative control (HC) from the appointing authority (Governor) for subordinate courts.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary - Tribunals",
+    "question": "<b>Consider the following statements regarding the Tribunal system in India:</b><br><br>1. Administrative Tribunals under Article 323A can be established by both Parliament and State Legislatures.<br>2. Appeals against the orders of the Central Administrative Tribunal (CAT) lie directly to the Supreme Court.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Statement 1 is incorrect (Establishment Trap):</b> Tribunals under Article 323A (Public Service matters) can be established <b>ONLY by Parliament</b>. Article 323B tribunals can be established by both Parliament and States.<br><b>Statement 2 is incorrect (Hierarchy Trap):</b> As per the <i>L. Chandra Kumar case (1997)</i>, appeals against CAT orders cannot bypass the High Court. They must first go to a Division Bench of the concerned High Court.<br><br><i>Mentor's PYQ Analysis:</i> The Chandra Kumar ruling is the definitive trap for tribunal appellate jurisdictions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Subordinate Courts - Gram Nyayalayas",
+    "question": "<b>With reference to the 'Gram Nyayalayas Act, 2008', which of the following statements is/are correct?</b><br><br>1. Gram Nyayalayas have jurisdiction to hear only civil cases and not criminal cases.<br>2. The proceedings of Gram Nyayalayas must strictly adhere to the Indian Evidence Act, 1872.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Statement 1 is incorrect (Jurisdiction Trap):</b> Gram Nyayalayas operate as mobile courts exercising <b>both civil and criminal</b> jurisdiction.<br><b>Statement 2 is incorrect (Procedure Trap):</b> They are <b>not bound</b> by the strict rules of the Indian Evidence Act. They are guided by the principles of natural justice to ensure speedy justice.<br><br><i>Mentor's PYQ Analysis:</i> Statement 1 is a direct trap from the 2016 UPSC Prelims.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary - Free Legal Aid",
+    "question": "<b>In India, Legal Services Authorities provide free legal services to which of the following categories of citizens?</b><br><br>1. Person with an annual income of less than Rs. 1,00,000.<br>2. Transgenders with an annual income of less than Rs. 2,00,000.<br>3. All Senior Citizens.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statements 1 and 2 are correct:</b> Free legal aid is available to individuals earning less than Rs. 1 lakh (limits vary for SC Legal Services, up to Rs. 5 lakh) and transgenders earning less than Rs. 2 lakh.<br><b>Statement 3 is incorrect (Absolute Phrase Trap):</b> Free legal aid is <b>not universally available to 'All Senior Citizens'</b>. It is subject to income ceilings prescribed by respective State Governments.<br><br><i>Mentor's PYQ Analysis:</i> 2020 PYQ exact replica. Always scan for extreme words like 'All' in eligibility criteria.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary - Arrest and Detention",
+    "question": "<b>With reference to the criminal justice system in India, consider the following statements:</b><br><br>1. Judicial custody means an accused is in the custody of the concerned magistrate and is locked up in a police station.<br>2. When a prisoner makes out a sufficient case, parole cannot be denied to such a prisoner because it becomes a matter of their fundamental right.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Statement 1 is incorrect (Location Trap):</b> Judicial custody means the accused is under the magistrate's custody and is lodged in a <b>jail</b>, not a police station (which is police custody).<br><b>Statement 2 is incorrect (Right Trap):</b> Parole is an administrative concession, <b>not an absolute fundamental right</b>. It can be denied if the prisoner poses a threat to society.<br><br><i>Mentor's PYQ Analysis:</i> 2021 PYQ. The examiner deeply tests practical police vs judicial procedures.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary - Current Affairs (Zero FIR)",
+    "question": "<b>With reference to the 'Zero FIR' mechanism under the Bharatiya Nagarik Suraksha Sanhita (BNSS), consider the following statements:</b><br><br>1. A Zero FIR can only be registered for non-cognizable offences.<br>2. It allows an FIR to be logged in any police station, irrespective of the geographical jurisdiction where the offence occurred.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Offence Trap):</b> Zero FIRs are designed exclusively for <b>cognizable offences</b> (serious crimes where police can arrest without a warrant).<br><b>Statement 2 is correct:</b> Section 173(1) of BNSS explicitly permits registering an FIR at any police station regardless of jurisdiction, assigning it a 'zero' number before transferring it to the competent station.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary - High Court Transfer",
+    "question": "<b>Consider the following statements regarding the transfer of Judges from one High Court to another:</b><br><br>1. The power to transfer a High Court judge is vested exclusively in the Chief Justice of India.<br>2. A transferred judge is entitled to receive a compensatory allowance in addition to their regular salary.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Authority Trap):</b> Under Article 222, the <b>President of India</b> transfers a Judge from one High Court to another, after mandatory consultation with the Chief Justice of India.<br><b>Statement 2 is correct:</b> The 15th Amendment Act (1963) provided for compensatory allowance to judges who are transferred to offset the hardship of relocation.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary - Legal Doctrines",
+    "question": "<b>In Indian constitutional jurisprudence, the 'Doctrine of Presumption of Constitutionality' primarily dictates that:</b>",
+    "options": [
+      "All laws passed by Parliament are immune from judicial review.",
+      "Courts must assume a law is valid until proven unconstitutional beyond a reasonable doubt.",
+      "Fundamental Rights are presumed to be superior to Directive Principles.",
+      "The Supreme Court's original jurisdiction takes precedence over appellate jurisdiction."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Courts must assume a law is valid until proven unconstitutional beyond a reasonable doubt.</b><br><br>The courts start with the presumption that a law passed by the legislature is valid and constitutional. The burden of proof lies heavily on the person challenging the law to demonstrate clear unconstitutionality. <i>(Highlighted in Prelims Knockout 2026 current affairs)</i>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary - Writs Specifics",
+    "question": "<b>A Writ of Prohibition is an order issued by the Supreme Court or High Courts to:</b>",
+    "options": [
+      "A government officer prohibiting him from taking a particular action.",
+      "The Parliament/Legislative Assembly to pass a law on Prohibition.",
+      "A lower court prohibiting continuation of proceedings in a case.",
+      "The Government prohibiting it from following an unconstitutional policy."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: A lower court prohibiting continuation of proceedings in a case.</b><br><br>Unlike Mandamus (which commands activity by executive bodies), Prohibition directs <i>inactivity</i> and is issued <b>strictly against judicial and quasi-judicial authorities</b> to prevent them from exceeding their jurisdiction. It cannot be issued against administrative authorities or legislative bodies.<br><br><i>Mentor's PYQ Analysis:</i> 2024 PYQ. Do not confuse Prohibition (courts only) with Mandamus (executive).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Supreme Court - Independence (Parliamentary Discussion)",
+    "question": "<b>Consider the following statements regarding the safeguards for the independence of the Supreme Court:</b><br><br>1. The Constitution absolutely prohibits any discussion in Parliament regarding the conduct of a Supreme Court judge in the discharge of their duties.<br>2. The Parliament is not authorized to curtail the jurisdiction and powers of the Supreme Court, but it can extend them.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Exception Trap):</b> The prohibition on discussing the conduct of judges in Parliament is not absolute. Discussion is <b>permitted when an impeachment motion is under consideration</b> by Parliament (Article 121).<br><b>Statement 2 is correct:</b> The Constitution guarantees the SC's jurisdiction, preventing Parliament from curtailing it. However, Parliament is explicitly allowed to enlarge/extend its jurisdiction.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary - Current Affairs (Legal Doctrines)",
+    "question": "<b>The 'Doctrine of Merger' in the Indian judicial context primarily relates to:</b>",
+    "options": [
+      "The amalgamation of two constitutional benches to hear a seminal case.",
+      "The merging of a lower court's order into the order of a superior court upon appeal, rendering only the superior court's order operative.",
+      "The fusion of original and appellate jurisdictions in the Supreme Court.",
+      "The integration of environmental law principles into Article 21."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The merging of a lower court's order into the order of a superior court upon appeal, rendering only the superior court's order operative.</b><br><br>The Doctrine of Merger is a common law concept dictating that when an appellate court passes an order (modifying, reversing, or affirming), the decision of the lower court 'merges' into the superior court's decision. Consequently, only the superior court's order holds legal validity. <i>(Covered in Prelims Knockout 2026)</i>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary - High Court Supervisory Jurisdiction",
+    "question": "<b>With reference to Article 227 of the Constitution, consider the following statements:</b><br><br>1. Every High Court has the power of superintendence over all courts and tribunals throughout the territories in relation to which it exercises jurisdiction.<br>2. This power of superintendence extends to any court or tribunal constituted by or under any law relating to the Armed Forces.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> Article 227 vests the High Courts with supervisory jurisdiction over all courts and tribunals in their territory.<br><b>Statement 2 is incorrect (Exception Trap):</b> The Constitution explicitly <b>excludes</b> military courts and tribunals (Court Martial) from the High Court's power of superintendence under Article 227(4).",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
