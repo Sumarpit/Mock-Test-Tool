@@ -3,48 +3,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lite Mock Engine</title>
+    <title>Lite Mock Engine - Flashcard Mode</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: Arial, sans-serif; }
         
-        body { background: #f4f7f6; color: #333; padding-bottom: 100px; }
+        /* Lock screen to exact window height to prevent page scrolling */
+        body { background: #f4f7f6; color: #333; height: 100vh; overflow: hidden; display: flex; flex-direction: column; }
 
         /* Header */
-        .header { background: #1a237e; color: white; padding: 15px 20px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .header { background: #1a237e; color: white; padding: 15px 20px; display: flex; justify-content: space-between; align-items: center; flex-shrink: 0; box-shadow: 0 2px 10px rgba(0,0,0,0.1); z-index: 10; }
         .header h1 { font-size: 1.4rem; margin: 0; }
         .reset-btn { background: #e74c3c; color: white; border: none; padding: 8px 15px; border-radius: 4px; cursor: pointer; font-weight: bold; font-size: 0.9rem; }
         .reset-btn:hover { background: #c0392b; }
 
         /* Containers */
-        .container { max-width: 800px; margin: 30px auto; padding: 0 15px; }
-        .card { background: #ffffff; padding: 40px 30px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border: 1px solid #ddd; text-align: center; }
-
-        /* Setup UI */
-        .paste-hero {
-            background: #e8f0fe;
-            border: 2px dashed #2962ff;
-            padding: 40px 20px;
-            border-radius: 8px;
-            margin-bottom: 30px;
-            transition: 0.3s;
-        }
+        .container { flex: 1; display: flex; flex-direction: column; max-width: 900px; margin: 0 auto; width: 100%; padding: 20px 15px; overflow: hidden; }
+        
+        /* Setup UI (Initial Paste Screen) */
+        .setup-card { background: #ffffff; padding: 40px 30px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border: 1px solid #ddd; text-align: center; margin: auto; width: 100%; }
+        .paste-hero { background: #e8f0fe; border: 2px dashed #2962ff; padding: 40px 20px; border-radius: 8px; margin-bottom: 30px; }
         .paste-hero h2 { color: #2962ff; font-size: 1.8rem; margin-bottom: 10px; }
         .paste-hero p { color: #555; font-size: 1rem; margin-bottom: 0; }
 
-        .upload-btn { background: #fff; color: #333; padding: 12px 25px; border-radius: 6px; cursor: pointer; font-weight: bold; display: inline-block; font-size: 0.95rem; border: 1px solid #ccc; transition: 0.2s; }
-        .upload-btn:hover { background: #f0f0f0; }
-        input[type="file"] { display: none; }
-
-        /* Question UI */
-        .q-card { background: #ffffff; border-radius: 8px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #ddd; text-align: left; }
-        .passage-box { background: #fffbf2; padding: 15px; border-left: 4px solid #d35400; margin-bottom: 20px; font-family: Georgia, serif; line-height: 1.6; }
-        .q-meta { font-size: 0.85rem; color: #777; margin-bottom: 15px; font-weight: bold; text-transform: uppercase; border-bottom: 1px solid #eee; padding-bottom: 5px;}
+        /* Question UI (Flashcard) */
+        #quiz-container { display: none; flex-direction: column; height: 100%; }
+        
+        /* The Card itself handles internal scrolling if content is huge */
+        .q-card { background: #ffffff; border-radius: 8px; padding: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #ddd; flex: 1; overflow-y: auto; display: flex; flex-direction: column; }
+        
+        .passage-box { background: #fffbf2; padding: 15px; border-left: 4px solid #d35400; margin-bottom: 20px; font-family: Georgia, serif; line-height: 1.6; font-size: 0.95rem; }
+        .q-meta { font-size: 0.85rem; color: #777; margin-bottom: 15px; font-weight: bold; text-transform: uppercase; border-bottom: 1px solid #eee; padding-bottom: 5px; display: flex; justify-content: space-between; }
         .q-text { font-size: 1.15rem; line-height: 1.6; margin-bottom: 20px; font-weight: bold; color: #2c3e50; }
 
         /* Options UI */
-        .options-list { display: flex; flex-direction: column; gap: 10px; }
-        .opt-btn { background: #fff; border: 2px solid #ddd; padding: 15px; border-radius: 8px; text-align: left; font-size: 1rem; cursor: pointer; transition: 0.2s; line-height: 1.5; color: #333; }
+        .options-list { display: flex; flex-direction: column; gap: 10px; margin-bottom: 20px; }
+        .opt-btn { background: #fff; border: 2px solid #ddd; padding: 12px 15px; border-radius: 8px; text-align: left; font-size: 1rem; cursor: pointer; transition: 0.2s; line-height: 1.4; color: #333; display: flex; gap: 10px; align-items: flex-start; }
         .opt-btn:hover:not(.disabled) { border-color: #2962ff; background: #f0f4ff; }
+        .opt-idx { font-weight: bold; color: #888; background: #eee; padding: 2px 8px; border-radius: 4px; font-size: 0.85rem; }
         
         /* Interactive States */
         .opt-btn.disabled { cursor: default; pointer-events: none; }
@@ -52,8 +47,16 @@
         .opt-btn.wrong { border-color: #e74c3c; background: #fdedec; color: #922b21; text-decoration: line-through; }
 
         /* Explanation UI */
-        .exp-box { margin-top: 20px; padding: 15px; background: #f8f9fa; border-radius: 6px; border-left: 4px solid #2962ff; font-size: 0.95rem; line-height: 1.6; display: none; }
-        .exp-box.show { display: block; }
+        .exp-box { padding: 15px; background: #f8f9fa; border-radius: 6px; border-left: 4px solid #2962ff; font-size: 0.95rem; line-height: 1.6; margin-top: auto; display: none; }
+        .exp-box.show { display: block; animation: fadeIn 0.3s ease; }
+
+        /* Bottom Navigation Bar */
+        .nav-bar { display: flex; justify-content: space-between; align-items: center; padding-top: 15px; flex-shrink: 0; gap: 15px; }
+        .nav-btn { background: #2962ff; color: white; border: none; padding: 12px 25px; border-radius: 6px; font-size: 1rem; font-weight: bold; cursor: pointer; flex: 1; transition: 0.2s; }
+        .nav-btn:hover:not(:disabled) { background: #1c44b2; }
+        .nav-btn:disabled { background: #ccc; cursor: not-allowed; }
+
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(-5px); } to { opacity: 1; transform: translateY(0); } }
     </style>
 </head>
 <body>
@@ -64,75 +67,51 @@
     </div>
 
     <div class="container" id="init-container">
-        <div class="card">
+        <div class="setup-card">
             <div class="paste-hero">
                 <h2>⌨️ Press Ctrl + V</h2>
                 <p>Copy your JSON code and paste it anywhere on this screen.</p>
             </div>
-            
-            <p style="color: #888; margin-bottom: 15px; font-size: 0.9rem;">— OR —</p>
-
-            <label class="upload-btn">
-                📂 Select JSON File
-                <input type="file" id="fileInput" accept=".json">
-            </label>
+            <p style="color: #888; font-size: 0.9rem;">No scrolling required. One question per screen.</p>
         </div>
     </div>
 
-    <div class="container" id="quiz-container" style="display: none;"></div>
+    <div class="container" id="quiz-container">
+        <div id="card-wrapper" style="display: flex; flex-direction: column; flex: 1; overflow: hidden;"></div>
+
+        <div class="nav-bar">
+            <button class="nav-btn" id="prev-btn" onclick="prevQuestion()">⬅️ Previous</button>
+            <button class="nav-btn" id="next-btn" onclick="nextQuestion()">Next ➡️</button>
+        </div>
+    </div>
 
     <script>
         let globalQuestions = [];
+        let currentIndex = 0;
+        let userAnswers = {}; // Stores { questionIndex: selectedOptionIndex }
 
-        // 1. GLOBAL PASTE LISTENER (The Magic happens here)
+        // 1. GLOBAL PASTE LISTENER
         document.addEventListener('paste', function(e) {
-            // Get the pasted text from the clipboard
             const pastedText = (e.clipboardData || window.clipboardData).getData('text');
-            
             if (!pastedText) return;
 
             try {
-                // Check if it loosely looks like JSON (array or object) before parsing
                 const trimmed = pastedText.trim();
                 if (trimmed.startsWith('[') || trimmed.startsWith('{')) {
                     const data = JSON.parse(trimmed);
-                    
-                    // Prevent default paste action if successful
                     e.preventDefault(); 
-                    
-                    // Render the test
                     processAndRender(data);
                 }
             } catch (err) {
-                alert("The text you pasted is not valid JSON. Please check for formatting errors.");
-                console.error("Paste Parse Error:", err);
+                alert("The text you pasted is not valid JSON.");
             }
         });
 
-        // 2. File Upload Logic (Fallback)
-        document.getElementById('fileInput').addEventListener('change', function(e) {
-            const file = e.target.files[0];
-            if (!file) return;
-
-            const reader = new FileReader();
-            reader.onload = function(e) {
-                try {
-                    const data = JSON.parse(e.target.result);
-                    processAndRender(data);
-                } catch (err) {
-                    alert("Invalid JSON file! Please make sure the file contains valid JSON code.");
-                    console.error(err);
-                }
-            };
-            reader.readAsText(file);
-        });
-
-        // 3. Structure Normalizer
+        // 2. JSON Processor
         function processAndRender(inputData) {
             let rawList = [];
 
             if (inputData && !Array.isArray(inputData) && Array.isArray(inputData.questions)) {
-                // New Format (Object with passages)
                 rawList = inputData.questions.map(q => {
                     if (q.passageId && inputData.passages && inputData.passages[q.passageId]) {
                         q.passage = inputData.passages[q.passageId];
@@ -140,90 +119,148 @@
                     return q;
                 });
             } else if (Array.isArray(inputData)) {
-                // Old Format (Direct Array)
                 rawList = inputData;
             } else {
-                alert("Unrecognized format. Needs to be a JSON array of questions.");
+                alert("Unrecognized JSON format.");
                 return;
             }
 
-            // Filter out descriptive questions for this Lite version
             globalQuestions = rawList.filter(q => q.type !== 'descriptive');
             
-            // Switch screens
-            document.getElementById('init-container').style.display = 'none';
-            document.getElementById('quiz-container').style.display = 'block';
-            
-            renderQuestions();
-        }
-
-        // 4. Render the UI
-        function renderQuestions() {
-            const container = document.getElementById('quiz-container');
-            container.innerHTML = ''; 
-
             if (globalQuestions.length === 0) {
-                container.innerHTML = '<div class="card"><h3 style="color: red; text-align:center;">No objective questions found in this data.</h3></div>';
+                alert("No objective questions found in this JSON.");
                 return;
             }
 
-            globalQuestions.forEach((q, index) => {
-                const card = document.createElement('div');
-                card.className = 'q-card';
-                card.id = `q-card-${index}`;
+            document.getElementById('init-container').style.display = 'none';
+            document.getElementById('quiz-container').style.display = 'flex';
+            
+            currentIndex = 0;
+            userAnswers = {};
+            renderQuestion(currentIndex);
+        }
 
-                let passageHtml = '';
-                if (q.passage) {
-                    passageHtml = `<div class="passage-box">${q.passage}</div>`;
-                }
+        // 3. Render SINGLE Question
+        function renderQuestion(index) {
+            const wrapper = document.getElementById('card-wrapper');
+            const q = globalQuestions[index];
+            
+            let passageHtml = '';
+            if (q.passage) { passageHtml = `<div class="passage-box">${q.passage}</div>`; }
 
-                let optionsHtml = '<div class="options-list">';
-                if(Array.isArray(q.options)) {
-                    q.options.forEach((opt, optIndex) => {
-                        optionsHtml += `<button class="opt-btn" onclick="checkAnswer(${index}, ${optIndex}, this)">${opt}</button>`;
-                    });
-                }
-                optionsHtml += '</div>';
+            let optionsHtml = '<div class="options-list">';
+            const optionLabels = ['1', '2', '3', '4', '5']; // For UI clarity
+            
+            if(Array.isArray(q.options)) {
+                q.options.forEach((opt, optIndex) => {
+                    optionsHtml += `
+                        <button class="opt-btn" id="opt-${optIndex}" onclick="checkAnswer(${index}, ${optIndex})">
+                            <span class="opt-idx">${optionLabels[optIndex] || '*'}</span> 
+                            <span>${opt}</span>
+                        </button>`;
+                });
+            }
+            optionsHtml += '</div>';
 
-                const expHtml = `<div class="exp-box" id="exp-${index}">
-                                    <strong>Explanation:</strong><br><br>${q.explanation || 'No explanation provided.'}
-                                 </div>`;
+            const expHtml = `<div class="exp-box" id="exp-box">
+                                <strong>Explanation:</strong><br><br>${q.explanation || 'No explanation provided.'}
+                             </div>`;
 
-                card.innerHTML = `
+            wrapper.innerHTML = `
+                <div class="q-card" id="q-card">
                     ${passageHtml}
-                    <div class="q-meta">Q${index + 1} | ${q.section || 'General'} - ${q.topic || 'Misc'}</div>
+                    <div class="q-meta">
+                        <span>${q.section || 'General'} - ${q.topic || 'Misc'}</span>
+                        <span style="color:#2962ff;">Question ${index + 1} of ${globalQuestions.length}</span>
+                    </div>
                     <div class="q-text">${q.question}</div>
                     ${optionsHtml}
                     ${expHtml}
-                `;
+                </div>
+            `;
 
-                container.appendChild(card);
-            });
+            // Update Button States
+            document.getElementById('prev-btn').disabled = (index === 0);
+            document.getElementById('next-btn').disabled = (index === globalQuestions.length - 1);
+
+            // If user already answered this question previously, restore the state
+            if (userAnswers[index] !== undefined) {
+                checkAnswer(index, userAnswers[index], true);
+            }
             
-            window.scrollTo(0, 0);
+            // Ensure card scrolls to top on new render
+            document.getElementById('q-card').scrollTop = 0;
         }
 
-        // 5. Answer Checking Logic
-        function checkAnswer(qIndex, selectedOptIndex, clickedBtn) {
+        // 4. Answer Checking Logic
+        function checkAnswer(qIndex, selectedOptIndex, isRestoring = false) {
             const q = globalQuestions[qIndex];
             const correctIndex = q.answer;
-            const card = document.getElementById(`q-card-${qIndex}`);
-            const allButtons = card.querySelectorAll('.opt-btn');
+            const allButtons = document.querySelectorAll('.opt-btn');
+            const clickedBtn = document.getElementById(`opt-${selectedOptIndex}`);
 
-            // Disable all buttons in this question to prevent double-clicking
+            // Save state if this is a fresh click
+            if (!isRestoring) {
+                userAnswers[qIndex] = selectedOptIndex;
+            }
+
+            // Lock buttons
             allButtons.forEach(btn => btn.classList.add('disabled'));
 
             if (selectedOptIndex === correctIndex) {
                 clickedBtn.classList.add('correct');
             } else {
                 clickedBtn.classList.add('wrong');
-                allButtons[correctIndex].classList.add('correct');
+                const correctBtn = document.getElementById(`opt-${correctIndex}`);
+                if(correctBtn) correctBtn.classList.add('correct');
             }
 
             // Show explanation
-            const expBox = document.getElementById(`exp-${qIndex}`);
-            if(expBox) expBox.classList.add('show');
+            document.getElementById('exp-box').classList.add('show');
+            
+            // Auto scroll down inside the card to reveal explanation if it's hidden
+            setTimeout(() => {
+                const card = document.getElementById('q-card');
+                card.scrollTo({ top: card.scrollHeight, behavior: 'smooth' });
+            }, 100);
         }
+
+        // 5. Navigation Logic
+        function nextQuestion() {
+            if (currentIndex < globalQuestions.length - 1) {
+                currentIndex++;
+                renderQuestion(currentIndex);
+            }
+        }
+
+        function prevQuestion() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                renderQuestion(currentIndex);
+            }
+        }
+
+        // 6. Global Keyboard Shortcuts
+        document.addEventListener('keydown', (e) => {
+            if (globalQuestions.length === 0) return;
+
+            // Navigation
+            if (e.key === 'ArrowRight') {
+                nextQuestion();
+            } else if (e.key === 'ArrowLeft') {
+                prevQuestion();
+            }
+
+            // Option Selection (1, 2, 3, 4)
+            if (['1', '2', '3', '4', '5'].includes(e.key)) {
+                const optIndex = parseInt(e.key) - 1;
+                // Only allow click if options exist and question hasn't been answered yet
+                if (userAnswers[currentIndex] === undefined) {
+                    const btn = document.getElementById(`opt-${optIndex}`);
+                    if (btn) btn.click();
+                }
+            }
+        });
     </script>
 </body>
 </html>
