@@ -1,0 +1,1667 @@
+[
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "Which one of the following statements most appropriately defines the term \"Separate Electorate” introduced in India during the British rule in India?<br>For electing a representative from a particular community, the candidate must belong to that community:",
+
+    "options": [
+
+      "and all the voters in the constituency can cast their votes to select the candidate.",
+
+      "but only the male voters in the constituency would be eligible to cast their vote to select the candidate.",
+
+      "but only those voters would be eligible to vote to select the candidate who belongs to that community.",
+
+      "but only those voters would be eligible to vote to select the candidate who are above a certain income threshold."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The British Government formally introduced Separate Electorates through the Indian Councils Act, 1909 and expanded them under the Government of India Act of 1919 and 1935. Under this system, only voters belonging to a particular religious or social community were placed on that community’s separate electoral roll and only candidates belonging to the same community could contest from that separate electorate. Thus, each community elected its representative exclusively through its own voters, without participation from members of other communities."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "With reference to the electoral process in India, consider the following statements about “None of the Above (NOTA)”:<br>I. NOTA option is not available to the members of the electoral college in case of Presidential elections.<br>II. NOTA button is the first option on the voting panel of EVM<br>III. If NOTA gets maximum votes in a constituency, re-elections take place in that constituency.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II and III only",
+
+      "I and II only",
+
+      "None of the above"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The “None of the Above” (NOTA) option was introduced in India to give voters the power to express their dissatisfaction with all candidates in an election. The Supreme Court in the People’s Union for Civil Liberties (PUCL) vs Union of India case 2013 directed the Election Commission of India to add a NOTA button to EVMs.<br><br><b>Statement I is correct:</b> The option is meant for direct elections, and thus not applicable to the Presidential elections. Thus the members of the electoral college do not have a NOTA option in case of Presidential elections.<br><br><b>Statement II is incorrect:</b> After the Supreme Court order in September 2013, the Election Commission added the NOTA button on the EVMs as the last option on the voting panel.<br><br><b>Statement III is incorrect:</b> In India, re-election does not take place in the instance where NOTA gets maximum votes. Instead, the candidate with the second-highest valid votes is declared the winner."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "With reference to the electoral process in India, consider the following statements about Exit Polls:<br>I. The conduct of exit polls is prohibited in case of a general election to the House of people from the hour fixed for commencement of polls in the first phase and till half an hour after the time fixed for close of poll for the last phase in all the States.<br>II. No exit polls can be published by any newspaper or new channels under any circumstance during the voting period.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Exit polls are surveys conducted by authorised agencies that collect information from voters immediately after they cast their vote and exit the polling station. They aim to estimate voting patterns, preferred choices of voters, and demographic trends.<br><br><b>Statement I is correct:</b> In India, the regulation of exit polls is primarily governed by Section 126A of the Representation of the People Act, 1951. This provision prohibits the conduct, publication, or dissemination of exit poll results during the period notified by the Election Commission of India. The time period notified during a general election is the hour fixed for commencement of polls in the first phase and half an hour after the time fixed for close of poll for the last phase in all the States.<br><br><b>Statement II is correct:</b> The Election Commission of India (ECI) oversees the regulations surrounding exit polls. The ECI has issued guidelines under Article 324 of the Constitution, which forbid newspapers and news channels from publishing pre-election surveys and exit poll results during the voting period."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "With reference to the recent election to the House of People in India, consider the following hypothetical scenario:<br>A registered Political Party has:<br>I. won 2 Lok Sabha seats from State A, where the total allocated seats for the state in the House is 2 seats.<br>II. secured more than 8% of the votes polled in State A.<br>III. won 1 Lok Sabha seat from State B, where the total allocated seat for the state in the house is 80 seats and has secured 5% of total valid votes polled in the State.<br>Based on the above performance of the political party, what type of recognition could be given by the Election Commission of India to the party as per the Election Symbols (Reservation and Allotment) Order, 1968?",
+
+    "options": [
+
+      "State Party status in State A only",
+
+      "State Party status in States A and B only",
+
+      "National Party status only",
+
+      "National Party status and State Party status in both the states"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The recognition of political parties in India is governed by the Election Symbols (Reservation and Allotment) Order, 1968. Paragraph 6A dictates State Party status.<br><br><b>Condition I is correct:</b> The political party has secured 100% of the seats allocated to the state in the Lok Sabha by winning 2 out of 2 total allotted seats. This fulfills the condition: at the last general election, the party returned at least one member to the House of the People for every 25 members. Hence, it can be recognised as a State Political Party in State A.<br><br><b>Condition II is correct:</b> The political party secured not less than eight per cent of the total valid votes polled in State A. This fulfils another condition to be recognised as a State Political Party Status in State A.<br><br><b>Condition III is incorrect:</b> In State B, winning 1 seat out of 80 does not meet the 'one member for every 25 members' criteria, nor does it meet the 6% valid vote threshold coupled with 1 member. Hence, it is not eligible in State B."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "Overseas Indians can exercise franchise in an election to the Lok Sabha under which of the following conditions?<br>1. They must be citizens of India.<br>2. Their names must figure in the electoral roll.<br>3. They must be present in India to vote.<br>Select the correct answer using the codes given below:",
+
+    "options": [
+
+      "1, 2 and 3",
+
+      "2 and 3 only",
+
+      "1 and 2 only",
+
+      "1 only"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement 1 is correct:</b> An overseas elector must be a citizen of India to be eligible for voting in the Lok Sabha elections.<br><br><b>Statement 2 is correct:</b> The name of the overseas elector must be included in the electoral roll of the constituency they would be voting from to be eligible to vote.<br><br><b>Statement 3 is correct:</b> Overseas Indian voters are required to be physically present in India for voting, as e-voting is not allowed. They have the options of postal ballots and proxy voting, with certain restrictions and eligibility criteria."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "Consider the following:<br>I. Giving a gift or an offer by a candidate to an elector to vote or refrain from voting at an election.<br>II. Any direct or indirect interference on the part of the candidate by threatening an elector, or any person in whom the elector is interested, with social ostracism.<br>III. Booth capturing by the candidate.<br>IV. The appeal by a candidate to vote or refrain from voting for any person on the ground of his/her religion.<br>How many of the above are considered corrupt practices under the Representation of the People Act, 1951?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Section 123 of the Representation of the People Act, 1951, defines “corrupt practices” in elections.<br><br><b>Option I is correct:</b> Under Section 123(1), “any gift, offer or promise of any gratification to induce an elector to vote or refrain from voting” constitutes bribery, which is a corrupt practice.<br><br><b>Option II is correct:</b> Under Section 123(2), threatening an elector with “injury of any kind” to influence voting is “undue influence,” and is expressly defined as a corrupt practice. This includes threatening with social ostracism.<br><br><b>Option III is correct:</b> According to Section 123(8), Booth capturing by a candidate or his agent or other person is a corrupt practice.<br><br><b>Option IV is correct:</b> Under Section 123(3), any “appeal by a candidate to vote or refrain from voting for any person on the ground of his religion, race, caste, community or language or the use of, or appeal to religious symbols” is a corrupt practice."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "With reference to the Representation of the People Act, 1950, consider the following subjects:<br>I. Allocation of seats in the House of People<br>II. Preparation and revision of electoral rolls for assembly constituencies<br>III. Notification for general election to the House of People<br>IV. Registration of political parties<br>How many of the above subjects are dealt with under the Representation of the People Act, 1950?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The Representation of the People Act, 1950 (RPA 1950) provides for the allocation of seats in Parliament and State Legislatures, delimitation of constituencies, qualifications and disqualifications of voters, preparation of electoral rolls, and the procedure for filling seats.<br><br><b>Option I is correct:</b> RPA 1950 deals with the allocation of seats in both the Lok Sabha and State Legislative Assemblies.<br><br><b>Option II is correct:</b> RPA 1950 lays down the qualifications of voters and the procedure for preparing and revising electoral rolls.<br><br><b>Option III is incorrect:</b> Notification of General Elections to the House of People is dealt with under the Representation of People Act 1951.<br><br><b>Option IV is incorrect:</b> Registration of political parties is part of Section 29A of RPA 1951, not RPA 1950."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Scheduled Castes and Scheduled Tribes",
+
+    "question": "Consider the following institutions:<br>I. Council of States<br>II. Panchayats at the village level<br>III. State Legislative Council<br>IV. State Legislative Assembly<br>In how many of the above given institutions, the Constitution of India provides reservations for Scheduled Tribes?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option I is incorrect:</b> The Constitution provides for reservation of seats to be filled by direct elections in the House of the People (Lok Sabha) but the similar reservation of seats to the Scheduled Castes and the Scheduled Tribes are not applicable to the Rajya Sabha (Council of States).<br><br><b>Option II is correct:</b> Article 243D of Indian Constitution provides for the reservation of seats for scheduled castes and scheduled tribes in every panchayat in proportion to their population.<br><br><b>Option III is incorrect:</b> The Constitution provides for reservation of seats to be filled by direct elections in State Legislative Assemblies for the Scheduled Castes and Scheduled Tribes. The similar reservation of seats are not applicable to the State Legislative Council.<br><br><b>Option IV is correct:</b> Article 332 of the Constitution provides for reservation of seats for those from SCs/STs in the state legislative assemblies."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Language",
+
+    "question": "Consider the following languages:<br>I. Sindhi<br>II. Bodo<br>III. Santhali<br>IV. Konkani<br>V. Maithili<br>VI. English<br>How many of the above languages are included in the Eighth Schedule of the Constitution of India?",
+
+    "options": [
+
+      "Only three",
+
+      "Only four",
+
+      "Only five",
+
+      "All the six"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The Eighth Schedule of the Constitution lists 22 officially recognised languages of India.<br><br><b>Option I is correct:</b> Sindhi was added by the 21st Constitutional Amendment, 1967.<br><br><b>Option II is correct:</b> Bodo was added through the 92nd Constitutional Amendment, 2003.<br><br><b>Option III is correct:</b> Santhali was also added by the 92nd Constitutional Amendment, 2003.<br><br><b>Option IV is correct:</b> Konkani was included by the 71st Constitutional Amendment, 1992.<br><br><b>Option V is correct:</b> Maithili was added by the 92nd Constitutional Amendment, 2003.<br><br><b>Option VI is incorrect:</b> English is not included in the Eighth Schedule."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Scheduled Castes and Scheduled Tribes",
+
+    "question": "Which of the statements given below is correct regarding the special provisions related to Scheduled castes in the Constitution of India?",
+
+    "options": [
+
+      "Part XV of the Indian Constitution provides special provisions for Scheduled Castes (SCs).",
+
+      "For the members of the Scheduled castes the evaluation standards with respect to reservation in matters of services or posts in connection with the affairs of the Union can be lowered.",
+
+      "From each State of India at least one seat shall be reserved for the members of Scheduled Caste in the House of People.",
+
+      "The President of India through a public notification can include in or exclude any caste, race or tribe from the list of Scheduled Castes prepared at the state level."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option a is incorrect:</b> Part XVI (Article 330 to 342A) of the Indian Constitution provides special provisions for Scheduled Castes (SCs), Scheduled Tribes (STs), Backward Classes, and Anglo-Indians, not Part XV.<br><br><b>Option b is correct:</b> The 82nd Constitutional Amendment Act, 2000 introduced a specific provision in Article 335, allowing the government to relax qualifying marks and lower evaluation standards for SCs and STs in promotions in connection with the affairs of the Union or of a State.<br><br><b>Option c is incorrect:</b> As per Article 330 of the Indian Constitution the number of seats reserved in any State or Union territory for the Scheduled Castes will be in the same proportion to the total number of seats allotted to that State. Nowhere the Constitution mandates that each State of India at least one seat shall be reserved for the members of Scheduled Caste in the House of People.<br><br><b>Option d is incorrect:</b> As per Article 341(2) Parliament may by law (not the President via notification) include in or exclude from the list of Scheduled Castes specified in a notification issued under clause (1) any caste, race or tribe."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Co-Operative Societies",
+
+    "question": "With reference to the Cooperative Societies in India, consider the following statements:<br>I. Election Commission of India is responsible for the conduct of elections of the Multi State Co-operative Society.<br>II. Two seats for women shall be reserved in the Board of a multi-State co-operative society.<br>III. The minimum number of members required to form a cooperative society is ten.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "II only",
+
+      "I and III only",
+
+      "II and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is incorrect:</b> As per the Multi State Co-operative Societies (Amendment) Act, 2023 Co-operative Election Authority consists of a Chairperson, a Vice-Chairperson and Members not exceeding three. The Authority (not the ECI) shall discharge the function to conduct elections of the Multi State Co-operative Society.<br><br><b>Statement II is correct:</b> Two seats for women and one seat for Scheduled Caste or Scheduled Tribe have been reserved in the Board of a multi-State co-operative society as per the MSCS (Amendment) Act, 2023.<br><br><b>Statement III is correct:</b> In India, the minimum number of members required to form a cooperative society is ten."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Anti-Defection",
+
+    "question": "Consider the following:<br>I. Speaker of the House of the People<br>II. Deputy Speaker of the House of the People<br>III. Deputy Chairman of the Council of States<br>IV. Chairman of the Legislative council of a State<br>How many of the above are exempted from disqualification on the ground of defection under the tenth schedule of the Indian Constitution if he/she voluntarily gives up the membership of the political party to which he/she belonged immediately before being elected to the post and during the term does not join any political party?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>As per the tenth schedule of the Indian Constitution, a person who has been elected to the office of the Speaker or the Deputy Speaker of the House of the People or the Deputy Chairman of the Council of States or the Chairman or the Deputy Chairman of the Legislative Council of a State or the Speaker or the Deputy Speaker of the Legislative Assembly of a State, shall not be disqualified on the ground of defection under the tenth schedule of the Indian Constitution - if he/she, by reason of his election to such office, voluntarily gives up the membership of the political party to which he/she belonged immediately before such election and does not, so long as he/she continues to hold such office thereafter, rejoin that political party or become a member of another political party."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Union Territories",
+
+    "question": "Which one of the following statements about the National Capital Territory (NCT) of Delhi is incorrect?",
+
+    "options": [
+
+      "The Legislative Assembly for the NCT cannot make laws on subjects related to police, public order, and land mentioned in the State List of the seventh schedule of the Indian Constitution.",
+
+      "The Constitution of India fixes the number of seats for the Legislative Assembly for the NCT to 70.",
+
+      "Parliament can make a law to repeal any law made by the Legislative Assembly for the NCT on any matter.",
+
+      "The Chief Minister of NCT of Delhi is appointed by the President, and the other ministers are appointed by the President on the advice of the Chief Minister."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The governance of Delhi is based on Article 239AA, inserted by the 69th Constitutional Amendment Act, 1991, which grants Delhi a Legislative Assembly with limited state-like powers.<br><br><b>Statement a is correct:</b> The Legislative Assembly of National Capital Territory cannot legislate on three subjects of the State List of the seventh schedule of the Indian Constitution which are Public order (Entry 1), Police (Entry 2), Land (Entry 18).<br><br><b>Statement b is incorrect:</b> The Constitution does not fix a specific size for the Delhi Legislative Assembly. Article 239AA only creates the Assembly; the actual number of seats is determined by Parliament through law, not by the Constitution itself. The current strength (70 seats) comes from the Government of National Capital Territory of Delhi Act, 1991.<br><br><b>Statement c is correct:</b> Under Article 239AA(3)c), Parliament can enact at any time any law with respect to the same matter including a law adding to, amending, varying or repealing the law so made by the Legislative Assembly.<br><br><b>Statement d is correct:</b> As per Article 239AA(5), the Chief Minister of Delhi is appointed by the President, and the other ministers are appointed by the President on the Chief Minister’s advice."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "In the context of Indian Polity, consider the following:<br>I. Election of the members of the Council of States<br>II. Election to the office of the Vice President of India<br>III. Election of the members of the State Legislative Councils<br>IV. Election of the members of Municipal Corporations<br>V. Election to the office of the President of India<br>The Election Commission of India (ECI) is responsible for administering elections for how many of the above?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All the five"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The Election Commission of India (ECI), established under Article 324 of the Constitution, is entrusted with the superintendence, direction and control of elections to Parliament, State Legislatures, and the offices of the President and Vice-President of India.<br><br><b>Options I, II, III and V are correct:</b> The ECI administers elections for the Council of States (Rajya Sabha), Vice President, State Legislative Councils, and the President of India.<br><br><b>Option IV is incorrect:</b> Municipal Corporations and Municipalities are part of Urban Local Government. Article 243K gives the power of superintendence, direction and control of municipal elections to the State Election Commission (SEC), not the ECI."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Constitutional Amendments",
+
+    "question": "Consider the following statements regarding ‘Nari Shakti Vandan Adhiniyam’:<br>1. Provisions will come into effect from 18th Lok Sabha.<br>2. This will be in force for 15 years after becoming an Act.<br>3. There are provisions for the reservation of seats for Scheduled Castes Women within the quota reserved for the Scheduled Castes.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "1, 2 and 3",
+
+      "1 and 2 only",
+
+      "2 and 3 only",
+
+      "1 and 3 only"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement 1 is incorrect:</b> According to the provisions of the Bill, the reservation is set to be enforced following the publication of a new census and the completion of the delimitation exercise.<br><br><b>Statement 2 is correct:</b> Reservation of seats for women shall cease to exist 15 years after the commencement of this Amendment Act.<br><br><b>Statement 3 is correct:</b> The Bill provides that One-third of the total number of seats reserved for Scheduled Castes and Scheduled Tribes shall be reserved for women of those groups in the Lok Sabha and the legislative assemblies."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "Consider the following statements:<br>The function of Election Commission of India (ECI) include:<br>I. superintendence over the preparation of the electoral rolls for the conduct of all elections to the Legislature of every State.<br>II. providing recognition to a Political Party as National Party or State Party.<br>III. enforcing the guidelines under the Model Code of Conduct during general assembly election to a state.<br>IV. demarcating the boundaries of the assembly constituencies for general assembly election as per provisions of the Delimitation Act.<br>V. auditing the annual financial accounts of recognized political parties.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I, II and III only",
+
+      "I, II, III and IV",
+
+      "II, IV and V only",
+
+      "I, III, IV and V"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Option I is correct:</b> Under Article 324 of the Indian Constitution, the superintendence, direction and control of the preparation of the electoral rolls for, and the conduct of, all elections to Parliament and to the Legislature of every State and of elections to the offices of President and Vice-President held under this Constitution shall be vested in the Election Commission of India.<br><br><b>Option II is correct:</b> Under Section 29A of the Representation of the People Act, 1951, ECI registers political parties and specifies whether they are recognised (National or State) or unrecognised.<br><br><b>Option III is correct:</b> The ECI enforces the MCC once the election schedule is announced.<br><br><b>Option IV is incorrect:</b> A Delimitation Commission, constituted by the Central Government, demarcates the boundaries of the Parliamentary/Assembly Constituencies as per provisions of the Delimitation Act.<br><br><b>Option V is incorrect:</b> Political parties are required to submit audited accounts to the ECI, but ECI does not audit these accounts itself; it only receives, scrutinises, and publishes them."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "With reference to Model Code of Conduct (MCC) relating to elections in India, consider the following statements:<br>I. It is enforced from the date of announcement of election schedule by the Election Commission of India and is operational till the process of elections is completed.<br>II. It is explicitly mentioned under the Representation of the People Act, 1951.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> The Model Code of Conduct is enforced from the date of announcement of election schedule by the Election Commission of India and is operational till the process of elections are completed.<br><br><b>Statement II is incorrect:</b> The MCC is not mentioned directly in the Representation of the People Act, 1951. The MCC has no statutory backing under the RPA or any other law, being a set of guidelines evolved by the Election Commission based on consensus among political parties."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "With reference to the election to the member of Rajya Sabha, which one of the following statements is incorrect?",
+
+    "options": [
+
+      "The election is conducted through the system of Proportional Representation by means of the Single Transferable Vote.",
+
+      "The Members of Rajya Sabha are elected by the elected members of the Legislative Assemblies of States and Union Territories.",
+
+      "To be elected as a member of Rajya Sabha, the person should be an elector in a parliamentary constituency anywhere in India.",
+
+      "The option of NOTA (None of the Above) is available to voters in the Rajya Sabha elections."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement a is correct:</b> Members of the Rajya Sabha are elected by the elected MLAs of the State Legislative Assembly through the Proportional Representation (PR) system by means of the Single Transferable Vote (STV).<br><br><b>Statement b is correct:</b> The Members of Rajya Sabha are elected by the elected members of the Assemblies of States and Union Territories.<br><br><b>Statement c is correct:</b> As per Representation of the People Act, 1951, to be elected as a member of Rajya Sabha, the person should be an elector in a parliamentary constituency anywhere in India, and need not be a domicile of the State from which he/she is elected.<br><br><b>Statement d is incorrect:</b> The Supreme Court ruled in 2018 (Shailesh Manubhai Parmar vs. ECI) that NOTA is not applicable in elections to the Rajya Sabha."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Constitutional Amendments",
+
+    "question": "As per Article 368 of the Constitution of India, the Parliament may amend any provision of the Constitution by way of:<br>1. Addition<br>2. Variation<br>3. Repeal<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1 and 2 only",
+
+      "2 and 3 only",
+
+      "1 and 3 only",
+
+      "1, 2 and 3"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>As per Article 368 (1) under Part XX of the Indian Constitution: \"Notwithstanding anything in this Constitution, Parliament may in exercise of its constituent power amend by way of addition, variation or repeal any provision of this Constitution in accordance with the procedure laid down in this article.\""
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "A person who is an Indian citizen, 28 years of age and a native of Pune. But in the past 5 years he/she is an ordinarily resident in Delhi and working in an IT firm in Delhi. According to the provisions of voter registration in India, in which place is he/she eligible to be enrolled as a voter?",
+
+    "options": [
+
+      "Only in Delhi",
+
+      "Only in Pune",
+
+      "Neither in Delhi nor in Pune",
+
+      "Both in Delhi and Pune"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Under Section 19 of the Representation of the People Act, 1950, a person must be an “ordinary resident” of the constituency where his/her name is to be registered. “Ordinary residence” refers to the place where a person actually lives in a regular and habitual manner, not the place of birth, ancestral home, or permanent/native address. Ownership of property or having a “native place” elsewhere does not give voting eligibility in that location, and a person cannot be registered in more than one constituency simultaneously. Therefore, legally and administratively, his/her voter registration must be done only in Delhi."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "Consider the following:<br>I. President<br>II. Vice-President<br>III. Speaker of Lok Sabha<br>IV. Members of State Legislative Council elected by the members of the Legislative Assembly of that State<br>V. Members of Panchayats at the district level<br>In India, the elections for how many of the above are held in accordance with the method of proportional representation by means of a single transferable vote?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All the five"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option I is correct:</b> As per Article 55(3) of the Indian Constitution, the election of the President shall be held in accordance with the system of proportional representation by means of the single transferable vote.<br><br><b>Option II is correct:</b> As per Article 66(1), the Vice-President is elected in accordance with the system of proportional representation by means of single transferable vote.<br><br><b>Option III is incorrect:</b> The Speaker of Lok Sabha is elected by its members from amongst them with a simple majority.<br><br><b>Option IV is correct:</b> As per Article 171, the members of the State Legislative Council to be elected by the members of the Legislative Assembly of the State shall be held in accordance with the system of proportional representation by means of the single transferable vote.<br><br><b>Option V is incorrect:</b> Members of Panchayats are chosen by direct election from territorial constituencies, using the First Past the Post system rather than proportional representation."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Scheduled Castes and Scheduled Tribes",
+
+    "question": "Which of the following determines the specific Lok Sabha constituencies that shall be reserved for the Scheduled Castes and the Scheduled Tribes?",
+
+    "options": [
+
+      "The Election Commission of India",
+
+      "The Delimitation Commission",
+
+      "The Parliament of India",
+
+      "The President of India"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The Delimitation Commission, established under the Delimitation Commission Act passed by Parliament, is the sole authority that determines the boundaries of Lok Sabha and State Assembly constituencies, and which specific constituencies shall be reserved for the Scheduled Castes (SCs) and the Scheduled Tribes (STs). It examines the latest Census data to determine the proportion of SC/ST population and identifies constituencies where their population is comparatively higher."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "Arrange the following electoral reforms in India in correct chronological order (starting from the earliest to the latest):<br>I. Electronic Voting Machines (EVMs) used for the first time in all the Parliamentary Constituencies for the elections to the House of People.<br>II. The voting age for the elections to the House of People and to the Legislative assembly of every state was reduced from 21 years to 18 years.<br>III. Nationwide electors registered in the electoral roll issued with Electors Photo Identity Card (EPIC).<br>IV. Displaying of NOTA (None of the Above) option on ballot papers/Electronic Voting Machine.<br>Select the correct answer using the codes given below:",
+
+    "options": [
+
+      "I – II – III– IV",
+
+      "II – I – IV – III",
+
+      "II – III – I – IV",
+
+      "III – II – I – IV"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The correct chronological order is:<br>1. Reduction of voting age from 21 to 18 years (1988–89) by the 61st Constitutional Amendment Act, 1988.<br>2. Introduction of Elector’s Photo Identity Card (EPIC) nationwide in 1993.<br>3. Use of Electronic Voting Machines (EVMs) in all 543 Parliamentary Constituencies for the first time in the 2004 General Election to the Lok Sabha.<br>4. Introduction of NOTA (None of the Above) option in 2013 following a Supreme Court judgement."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "In the context of electoral systems, which of the following is the best example of the Plurality System of elections?",
+
+    "options": [
+
+      "A system in which the percentage of seats for each party is in direct proportion to its percentage of vote share secured.",
+
+      "A system in which voters indicate their first, second, and lower choices of several candidates for a single office.",
+
+      "A system in which voters cast two ballots, one for a constituency candidate and another for a party list, and final seats are combined from both.",
+
+      "A system in which the candidate securing the highest number of votes is declared elected, even without an absolute majority."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Option d is correct:</b> Under the Plurality system, the candidate who gets the highest number of votes wins, even if they do not secure more than 50% of the total valid votes. This system is used in India for the Lok Sabha and State Legislative Assembly elections.<br>Option a is an example of Proportional Representation (PR).<br>Option b is an example of Preferential Voting / Single Transferable Vote (STV).<br>Option c is an example of the Mixed-Member Proportional (MMP) or Two-Vote System."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Other Constitutional Dimensions",
+
+    "question": "Who amongst the following are members of the Jury to select the recipient of ‘Gandhi Peace Prize’?<br>I. The President of India<br>II. The Prime Minister of India<br>III. The Chief Justice of India<br>IV. The Leader of Opposition in the Lok Sabha<br>Select the correct answer using the code given below.",
+
+    "options": [
+
+      "II and IV only",
+
+      "I, II and III",
+
+      "II, III and IV",
+
+      "I and III only"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The awardee of the Gandhi Peace Prize is selected by a five-member jury composed of the Prime Minister of India, Chief Justice of India, Leader of Opposition in Lok Sabha and two eminent personalities. The President of India is not a member of the jury."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "Consider the following scenarios:<br>I. Mr. A who is a citizen of India aged 40 years registered as an elector in one of the Parliamentary constituencies but there is an ongoing criminal proceedings on the individual for promoting enmity between different groups on ground of religion in the Subordinate Court.<br>II. Mr. B who is a citizen of India aged 45 years was earlier sentenced to three years imprisonment for an offence of bribery, six months back he completed his sentence and is now registered as an elector in one of the Parliamentary constituencies.<br>Based on the above information, who among the above will be eligible for contesting the elections of Lok Sabha presently?",
+
+    "options": [
+
+      "Only Mr. A",
+
+      "Only Mr. B",
+
+      "Both Mr. A and Mr. B",
+
+      "Neither Mr. A nor Mr. B"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Scenario I is correct:</b> Mr. A is not disqualified under the Representation of the People Act (RPA), 1951, because disqualification under Section 8 applies only after conviction for certain offences. Therefore, a person facing ongoing criminal charges can contest the election.<br><br><b>Scenario II is incorrect:</b> Section 8(3) of the RPA, 1951 provides for the disqualification of a person convicted of a criminal offence and sentenced to imprisonment for not less than two years. Such a person is disqualified from contesting elections for a further period of six years from the date of release. Since Mr. B completed his sentence only six months back, he remains disqualified."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Constitutional Amendments",
+
+    "question": "Which of the following Constitutional Amendment Acts added “Recognition granted to Rulers of Indian States to cease and privy purses to be abolished” to the Constitution of India?",
+
+    "options": [
+
+      "39th Constitutional Amendment Act, 1975",
+
+      "26th Constitutional Amendment Act, 1971",
+
+      "42nd Constitutional Amendment Act, 1976",
+
+      "44th Constitutional Amendment Act, 1978"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The 26th Constitutional Amendment Act, 1971, abolished the privy purses and the special privileges granted to the rulers of former princely states. It omitted Articles 291 and 362, and added a new Article 363A, which explicitly abolished all privileges, rights, and privy purses."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "Consider the following statements:<br>When the voter cast vote through Voter Verifiable Paper Audit Trail (VVPAT) system, a slip is printed containing the:<br>I. Name of the contesting candidate in favour of whom the vote was cast.<br>II. Symbol of a party of the contesting candidate in favour of whom the vote was cast.<br>III. Contesting Candidate’s photograph in favour of whom the vote was cast.<br>IV. Serial number of the contesting candidate in favour of whom the vote was cast.<br>V. Name of the voter who is casting the vote<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I, II and IV",
+
+      "I, II and III",
+
+      "III, IV and V",
+
+      "I, II and V"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>A printed slip of VVPAT contains the Candidate Serial Number, Name of the Candidate, and the Symbol of the party of the Candidate. It also contains the Session Number and VVPAT ID. It does not contain the candidate's photograph or the name of the voter."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "With reference to the electoral process in India, consider the following statements:<br>In a constituency an Officer designated as Returning Officer by the Election Commission of India is responsible for:<br>I. scrutinising nomination papers filed by the contesting candidates in the constituency.<br>II. allotting election symbols to contesting candidates as per the directions of the Election Commission of India.<br>III. administering the oath to candidates after they have filed their nomination papers.<br>IV. announcing the result of the respective constituency.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I, II and III only",
+
+      "I and IV only",
+
+      "II, III and IV only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>The Returning Officer (RO) is responsible for the smooth, impartial, and lawful conduct of elections in a constituency.<br><br><b>Statement I is correct:</b> The RO examines each nomination during the scrutiny process to ensure that the candidate meets eligibility requirements.<br><br><b>Statement II is correct:</b> The RO allots election symbols to all candidates strictly according to the ECI directions.<br><br><b>Statement III is correct:</b> Administering oath or affirmation to candidates after they have filed their nomination papers is an important duty of the RO.<br><br><b>Statement IV is correct:</b> Votes are counted under the supervision of the RO, who then declares the result as per the Representation of the People Act, 1951."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "In the context of Indian Polity, consider the following statements:<br>Statement I: Every year, National Voters’ Day is celebrated on 25th January in India.<br>Statement II: The provision of Universal Adult Suffrage in the Constitution of India was adopted on 25th January 1950.<br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct, and Statement II explains Statement I",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+
+      "Statement I is correct, but Statement II is not correct",
+
+      "Statement I is not correct, but Statement II is correct"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> National Voters’ Day is celebrated on 25th January to commemorate the foundation day of the Election Commission of India.<br><br><b>Statement II is not correct:</b> India adopted the principle of universal adult franchise when the present Constitution came into force on 26th January 1950, not on 25th January 1950. The date 25th January marks the establishment of the Election Commission of India."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Constitutional Amendments",
+
+    "question": "Consider the following Constitution Amendment Bills:<br>I. A Bill seeking to change the distribution of legislative powers between the Union and the States.<br>II. A Bill seeking to include Jammu and Kashmir in the description of ‘State’ under Article 54 i.e. Election of the President.<br>III. A Bill seeking to extend the provisions of Part IXA to the fifth Schedule areas.<br>IV. A Bill seeking to alter the power of Parliament to amend the Constitution and its procedure.<br>Which of the above constitutional amendment bills needs to be passed in each House of the Parliament by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting and also require to be ratified by at least half of the State legislatures before presenting to the President of India for his/her assent?",
+
+    "options": [
+
+      "I and IV only",
+
+      "II and III only",
+
+      "I, II and IV only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>According to Article 368(2), certain provisions that impact the federal structure must be passed by a special majority in Parliament and require ratification by at least half of the State legislatures.<br><br><b>Option I is correct:</b> Altering the distribution of legislative powers between the Union and the States requires such ratification.<br><br><b>Option II is correct:</b> Altering the election of the President (Article 54) requires state ratification. Including Jammu and Kashmir in the description of 'State' affects this.<br><br><b>Option III is incorrect:</b> Extending the provisions of Part IXA to the Scheduled Areas under the fifth schedule can be done by Parliament by law, and no such law shall be deemed to be an amendment of the Constitution for the purposes of Article 368.<br><br><b>Option IV is correct:</b> Altering the power of Parliament to amend the Constitution and its procedure (Article 368 itself) requires state ratification."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Constitutional Amendments",
+
+    "question": "Certain Constitutional amendment bills require the ratification by the Legislatures of not less than one-half of the States. In this context the Constitutional Amendment Bill is ratified by the majority of:",
+
+    "options": [
+
+      "the total membership of State Legislative Assemblies of at least half the states.",
+
+      "not less than two-thirds of members of the State Legislative assemblies present and voting of at least half the states.",
+
+      "the members present and voting of State Legislative Assemblies of at least half the states.",
+
+      "the effective strength of the State Legislative Assemblies of at least half the states."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>As per Article 368(2) of the Constitution of India, for amendments requiring ratification by the legislatures of at least half of the states, each State Legislature can approve the amendment by a simple majority, i.e., it must be passed by the majority of the members present and voting of the State Legislative Assembly."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Co-Operative Societies",
+
+    "question": "Consider the following statements:<br>Statement I: The 97th Constitutional Amendment, 2011, which aimed to promote cooperative societies in India, was partially struck down by the Supreme Court.<br>Statement II: Cooperative societies are mentioned in List II (State List) of the Seventh Schedule of the Constitution of India.<br>Statement-III: As per the doctrine of Severability, if a particular provision of a statute is against the Constitution, only that offending provision will be declared void by the Court and not the entire statute.<br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement II and Statements III are correct and both of them explain Statement I.",
+
+      "Both Statement II and Statement III are correct but only one of them explains Statement I.",
+
+      "Only one of the Statements II and III is correct and that explains Statement I.",
+
+      "Neither Statement II nor Statement III is correct."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> The 97th Constitutional Amendment Act, 2011, added Part IXB to the Indian Constitution, which dealt with the governance of cooperative societies. The Supreme Court in Union of India v. Rajendra N. Shah (2021) struck down certain provisions of the 97th Constitutional Amendment Act, 2011, specifically those related to the working of cooperative societies within a state.<br><br><b>Statement II is correct:</b> The “Co-operative societies” is a subject enumerated in Entry 32 of the list II (state list) of the Seventh Schedule of the Constitution, hence the state legislatures have the authority to enact legislation on co-operative societies.<br><br><b>Statement II explains Statement I:</b> The Supreme Court partially struck down the 97th Constitutional Amendment Act, which dealt with state cooperative societies. As it was a state subject so the amendment required the ratification of at least half the states.<br><br><b>Statement III is correct:</b> The Doctrine of Severability means that if a particular provision of a statute offends, or is against, the Constitution, and that provision is severable (separable) from the rest of the statute, only that offending provision will be declared void by the Court and not the entire statute.<br><br><b>Statement III explains Statement I:</b> The majority judgment in the case followed the doctrine of severability when it partially struck down the amendment and did not declare it completely null and void. Only the part of the amendment which violated the basic structure of the Constitution i.e. federalism related to State Cooperative Societies was struck down."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "As per the Constitution of India, in which of the following situation(s) can the term of the House of People be extended beyond its five year term?<br>I. When an Emergency under Article 352 of the Indian Constitution is proclaimed in respect of the whole of India.<br>II. When President’s Rule under Article 356 of the Indian Constitution is imposed in at least two states.<br>III. When the Election Commission of India certifies that it is difficult to hold general elections to the House of People.<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and III only",
+
+      "I and II only",
+
+      "I only",
+
+      "None of the above"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option I is correct:</b> Article 83(2) of the Constitution of India prescribes the normal term of the House of People as five years. However, it further states that when a Proclamation of National Emergency under Article 352 is in force, Parliament may, by law, extend the term of the House of People for a period not exceeding one year at a time, and in any case, not beyond six months after the Emergency has ceased to operate.<br><br><b>Option II is incorrect:</b> When President’s Rule is imposed in any Indian state, there is no provision under Article 356 of the Constitution of India to extend the term of the Lok Sabha.<br><br><b>Option III is incorrect:</b> There is nothing mentioned in the Constitution, that when the Election Commission of India certifies that it is difficult to hold general elections to the House of People then the tenure of the House of People can be extended. As per Article 356(5) a resolution with respect to the continuance in force President’s rule for any period beyond the expiration of one year from the date of issue of such proclamation shall not be passed by either House of Parliament unless the Election Commission certifies there are difficulties in holding general elections to the Legislative Assembly of the State concerned."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Constitutional Amendments",
+
+    "question": "Which one of the following amendments to the Constitution of India has introduced reservations in education and in public employment for people from the Economically Weaker Sections (EWS) of society?",
+
+    "options": [
+
+      "The Constitution (101st Amendment) Act",
+
+      "The Constitution (102nd Amendment) Act",
+
+      "The Constitution (122nd Amendment) Act",
+
+      "The Constitution (103rd Amendment) Act"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>The 103rd Amendment, passed in 2019, introduced reservations in education and public employment for the Economically Weaker Sections (EWS) of society, providing a 10% quota for individuals from the EWS of the general category. This applies to individuals who are not covered by any existing reservation (i.e., not SC, ST, or OBC) but are economically disadvantaged."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Union Territories",
+
+    "question": "In the context of Indian Polity, consider the following statements:<br>Statement I: The Constitution (Seventh Amendment) Act, 1956 classified certain areas as Union Territories.<br>Statement II: The States Reorganisation Commission (SRC), set up in 1953, recommended that India’s administrative units be classified into States and Union Territories.<br>Which of the above is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The Seventh Constitutional Amendment Act, 1956, was enacted to give effect to the recommendations of the States Reorganisation Commission (SRC). It was a major step in reorganizing the internal boundaries of India based primarily on linguistic lines.<br><br><b>Statement I is correct:</b> The Constitution (Seventh Amendment) Act, 1956 reorganized India’s states and formally introduced the concept of Union Territories (UTs) in the Constitution. It involved not only the establishment of new States and alterations in the area and boundaries of the existing States, but also the abolition of the three categories of States (Part A, Part B and Part C States) and the classification of certain areas as Union territories.<br><br><b>Statement II is correct:</b> The States Reorganisation Commission (SRC) was constituted in 1953 under the chairmanship of Fazl Ali, with members K.M. Panikkar and Hriday Nath Kunzru. The Commission submitted its report in 1955, recommending the reclassification of India’s internal units into two main categories: States and Union Territories.<br><br><b>Statement II explains Statement I:</b> The recommendations of the SRC directly influenced the provisions of the Seventh Amendment. The classification into States and Union Territories, as proposed by the Commission, was adopted and implemented by the Seventh Constitutional Amendment Act."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Union Territories",
+
+    "question": "In the context of Indian Polity, consider the following statements:<br>Statement I: When the Legislative Assembly of the Union Territory of Puducherry is not in session, then the President in consultation with the administrator of Puducherry can promulgate such an Ordinance as required.<br>Statement II: The Union Territory of Puducherry is administered by the President, who functions through an Administrator appointed by him/her.<br>Which of the above is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>The governance of Union Territories, especially those with legislatures like Puducherry, follows a distinct constitutional framework. Article 239B provides specific provisions regarding the promulgation of ordinances in such Union Territories.<br><br><b>Statement I is incorrect:</b> The power to issue ordinances in Puducherry when its legislature is not in session lies with the Administrator, as per Article 239B(1). However, this power is not independent. The Administrator must act after receiving prior instructions from the President. Therefore, it is not the President who directly promulgates ordinances in this context, but the Administrator acting under presidential instructions.<br><br><b>Statement II is correct:</b> In accordance with the Constitutional Framework for Union Territories, every Union Territory, including Puducherry, is administered by the President through an Administrator appointed by him."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "Form 7A consists of a list of contesting candidates in a constituency as per the Conduct of Election Rules 1961. The names of the candidates are classified category wise based on the recognition/registration status of their associated Political Party with the Election Commission of India. In this context consider the following categories:<br>I. Names of candidates from Unregistered Political Party<br>II. Names of candidates from Recognized National or State Party<br>III. Name of candidates from Registered but Unrecognized Political Party<br>In which order the categories of candidates in form 7A will be arranged from top to bottom?",
+
+    "options": [
+
+      "I - III -II",
+
+      "II - III -I",
+
+      "I - II - III",
+
+      "II - I -III"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>As per Section 38 of Representative of People Act, 1951 the Publication of list of contesting candidates shall be classified as: (i) candidates of recognised political parties; (ii) candidates of registered political parties other than those mentioned in clause (i); (iii) other candidates.<br><br>While Form 7A mentioned under the Conduct of Election rules the contesting candidates will be arranged based on section 38 of RPA, 1951 as follows:<br><b>II. Names of candidates from Recognized National or State Party</b> (first the names of such candidates from these parties will be published)<br><b>III. Name of candidates from Registered but Unrecognized Political Party</b> (at second position the names of such candidates will be published).<br><b>I. Names of candidates from Independent Party</b> (At the end names of such candidates will be published)"
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Other Constitutional Dimensions",
+
+    "question": "With reference to India, consider the following pairs:<br><br><b>Action &mdash; The Act under which it is covered</b><br>1. Unauthorized wearing of police or military uniforms &mdash; The Official Secrets Act, 1923<br>2. Knowingly misleading or otherwise interfering with a police officer or military officer when engaged in their duties &mdash; The Indian Evidence Act, 1872<br>3. Celebratory gunfire which can endanger the safety of others &mdash; The Arms (Amendment) Act 2019<br><br>How many of the above pairs are correctly matched?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All three",
+
+      "None"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Pair 1 is correctly matched:</b> The Official Secrets Act, 1923 prohibits a person from using or wearing, without lawful authority, any naval, military, air force, police or other official uniform, or any uniform so nearly resembling the same as to be calculated to deceive, or falsely represents himself to be a person who is or has been entitled to use or wear any such uniform.<br><br><b>Pair 2 is incorrectly matched:</b> It is under The Official Secrets Act, 1923 (and not the Indian Evidence Act, 1872), that no person in the vicinity of any prohibited place shall obstruct, knowingly mislead or otherwise interfere with or impede, any police officer, or any member of the Armed Forces of the Union engaged on guard, sentry, patrol or other similar duty in relation to the prohibited place.<br><br><b>Pair 3 is correctly matched:</b> The Arms Act Amendment of 2019 adds new offences such as forcefully taking a firearm from police or armed forces and using firearms in a celebratory gunfire which endangers human life or personal safety of others."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Language",
+
+    "question": "In context of drafting of constitution of India, Munshi-Ayyangar formula is related to:",
+
+    "options": [
+
+      "Deciding the subjects under the various lists of Schedule VII.",
+
+      "Method of representation of states in the upper house of the Parliament.",
+
+      "Deciding the official language of the Union government.",
+
+      "Method of reorganisation of Indian states after independence ."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>In the Constituent Assembly, deciding the official language of India was one of the key debates. The main questions were about the type of script and numerals to be used in the official communication of the union government. Hindustani (Hindi with more Urdu elements) and Sanskrit were among those proposed as official languages. As part of this debate, the Constitution assembly adopted the Munshi-Ayyangar formula as a compromise solution to decide the official language of the union. The formula was named after Drafting Committee members K M Munshi and N Gopalaswamy Ayyangar.<br><br>As an outcome of the Munshi-Ayyangar formula, Article 343 of the Constitution was adopted in 1950, with the provisions that- a) “The official language of the Union shall be Hindi in Devanagari script.” b) “The form of numerals to be used for the official purposes of the Union shall be the international form of Indian numerals.” c) “for a period of fifteen years from the commencement of this Constitution, the English language shall continue to be used for all the official purposes of the Union for which it was being used immediately before such commencement.”"
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Language",
+
+    "question": "With reference to the Committee of Parliament on Official Language constituted under the Official Languages Act of 1963 consider the following statements:<br>I. Its members are elected by the members of the respective houses of the Parliament in accordance with the system of proportional representation by means of a single transferable vote.<br>II. The Union Home Minister is the ex-officio chairman of the committee.<br>III. It is the duty of the Committee to review the progress made in the use of Hindi for the official purpose of the Union and to submit a report to the President.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>As per section 4 of the Official Language Act, 1963 after the expiry of ten years from the date on which section 3 of the Act comes into force (26th January, 1965), a Committee of Parliament on Official Language shall be constituted, on passing of a resolution to that effect being moved in either of the Houses of Parliament with previous sanction of the President and passed by both the Houses.<br><br><b>Statement I is correct:</b> The Committee consist of 30 members of whom 20 shall be from the Lok Sabha and 10 from the Rajya Sabha to be elected respectively by the members of the Lok Sabha and the members of Rajya Sabha in accordance with the system of proportional representation by means of a single transferable vote.<br><br><b>Statement II is incorrect:</b> The committee is currently chaired by the Union Home Minister. The Union Minister of Home Affairs from time to time has by convention, been elected as the Chairmen of the Committee by its members. There is no provision that the Union Home minister will be the ex-officio chairman of the committee.<br><br><b>Statement III is correct:</b> According to the provisions of the Official Languages Act 1963, the duties entrusted to the Committee are to review the progress made in the use of Hindi for the official purposes of the Union and to submit a report to the President while making recommendations on it. The President will get that report laid before every House of Parliament thereafter and send it to all the State Governments."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Language",
+
+    "question": "With reference to the provisions given under Constitution of India about the official languages for various offices, consider the following statements:<br>I. The official language of the Union shall be Hindi in Devanagari script.<br>II. All proceedings in the Supreme Court and High Courts are to be conducted only in English.<br>III. The Governor of a state is empowered to decide the official language of the respective state.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> As per Article 343(1) of the constitution of India, Hindi in Devanagari script is designated as Official language of the Union.<br><br><b>Statement II is incorrect:</b> According to Article 348(1)a) of the Constitution of India, all proceedings in the Supreme Court and in every High Court are to be conducted in the English language. However, Article 348(2) of the Constitution of India states that the Governor of a State with the previous consent of the President can authorise the use of the Hindi language, or any other language used for any official purposes of the State in proceedings in the High Court having its principal seat in that State.<br><br><b>Statement III is incorrect:</b> Article 345 of the Constitution of India empowers the State Legislature (not Governor of the State) by law to adopt any one or more of the languages currently in use within the State, or Hindi, as the language(s) to be used for all or any of the official purposes of the State."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Language",
+
+    "question": "Consider the following Indian languages:<br>I. Odia<br>II. Marathi<br>III. Bengali<br>IV. Prakrit<br>V. Tulu<br>How many of the above languages are given the status of classical language by the Government of India?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All the five"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Classical languages are defined by their ancient origins and their contribution to the intellectual, philosophical, and religious evolution of India. In 2004, the Government of India introduced the \"Classical Languages\" (Shastriya Bhasha) category to recognize languages with deep historical roots, rich literary traditions, and distinct cultural significance.<br><br>Odia was given the classical language status in 2014, Further Marathi, Prakrit and Bengali were awarded the classical language status in 2024. However, Tulu is not designated as the classical language by the Union government.<br><br>So far, eleven languages have been recognized as classical languages: Tamil (2004), Sanskrit (2005), Kannada (2008), Telugu (2008), Malayalam (2013), and Odia (2014). In 2024, five additional languages received this recognition: Marathi, Pali, Prakrit, Assamese, and Bengali."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Co-Operative Societies",
+
+    "question": "The Ninety-Seventh Constitutional Amendment Act, 2011 brought changes to which of the following parts of the Indian constitution?<br>I. Part III<br>II. Part IV<br>III. Part VII<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The Ninety-Seventh Constitutional Amendment of 2011 gave cooperative societies constitutional recognition. It added Part IXB (Articles 243-ZH to 243-ZT) to the Constitution providing for a detailed framework for the registration, regulation, and winding up of co-operatives and brought changes in few parts of the Constitution of India.<br><br><b>Option I is correct:</b> The Ninety-Seventh Amendment of 2011 added the right to form co-operatives as a Fundamental Right under Article 19(1)c) of Part III of the Constitution of India.<br><br><b>Option II is correct:</b> A new Article 43B was inserted into Part IV (Directive Principles of State Policy) of the Constitution through the Ninety-Seventh Constitutional Amendment Act, 2011, directing the State to promote the voluntary formation, autonomous functioning, democratic control, and professional management of cooperative societies.<br><br><b>Option III is incorrect:</b> Part VII of the constitution of India was related to States in Part B of the First Schedule. It was completely repealed by the 7th Constitutional Amendment (1956) and has no relation to The Ninety-Seventh Amendment of 2011."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Other Constitutional Dimensions",
+
+    "question": "With reference to Home Guards, consider the following statements:<br>1. Home Guards are raised under the Home Guards Act and Rules of the Central Government.<br>2. The role of the Home Guards is to serve as an auxiliary force to the police in maintenance of internal security.<br>3. To prevent infiltration on the international border/coastal areas, the Border Wing Home Guards Battalions have been raised in some States.<br>How many of the above statements are correct?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All three",
+
+      "None"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>‘Home Guards’ is a voluntary force, first raised in India in December 1946, to assist the police in controlling civil disturbance and communal riots.<br><br><b>Statement 1 is incorrect:</b> Home Guards are raised under the Home Guards Act and Rules of the States/Union Territories (not central Government). They are recruited from amongst all classes of people and walks of life, who give their spare time to the organisation for betterment of the community.<br><br><b>Statement 2 is correct:</b> The role of Home Guards is to serve as an auxiliary Force to the Police in maintenance of internal security situations, help the community in any kind of emergency such as an air-raid, fire, cyclone, earthquake, epidemic etc., help in maintenance of essential services, promote communal harmony and assist the administration in protecting weaker sections, participate in socio-economic and welfare activities and perform Civil Defence duties.<br><br><b>Statement 3 is correct:</b> Fifteen Border Wing Home Guards (BWHG) Battalions have been raised in the border States viz. Punjab, Rajasthan, Gujarat and one each Battalion for Meghalaya, Tripura and West Bengal to serve as an auxiliary to Border Security Force for preventing infiltration on the international border/coastal areas, guarding of VA/VPs and lines of communication in vulnerable areas at the time of external aggression."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "With respect to the general elections to the Lok Sabha, once the result of all the constituencies are declared, which authority will constitute the new Lok Sabha by notifying in the official gazette the names of the elected members to the House?",
+
+    "options": [
+
+      "President of India",
+
+      "Election Commission of India",
+
+      "Speaker of previous Lok Sabha",
+
+      "Caretaker Government of the Union"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>According to Sec. 73 of the Representative of People Act, 1951, after the results of all Parliamentary constituencies are declared, the Election Commission of India will constitute the new Lok Sabha by notifying in the official gazette the names of the elected members."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "In the context of the elections in India, what is the primary responsibility of a Booth Level Officer (BLO)?",
+
+    "options": [
+
+      "To supervise the functioning of polling stations on the day of voting.",
+
+      "To conduct verification of EVMs and VVPATs before polling.",
+
+      "To manage training arrangements for polling staff.",
+
+      "To maintain and authenticate the electoral roll at the booth level."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>A Booth Level Officer (BLO) acts as the Election Commission’s local field representative. The BLO’s primary duty is to maintain, verify, and update the electoral roll for their assigned area. Their primary tasks include adding new voters to the constituency, processing deletions due to death, relocation, or other reasons, special Revision of the Voter List, and distribution of Voter ID Cards. Accurate voter lists are essential for ensuring transparency and preventing irregularities.<br><br><b>Option a is incorrect:</b> On polling day, the responsibilities at polling stations lie with polling staff under the supervision of the Returning Officer (RO).<br><br><b>Option b is incorrect:</b> The verification, testing and sealing of Electronic Voting Machines (EVMs) and VVPAT is a technical and polling‑station level function, handled by polling staff under RO/DEO oversight.<br><br><b>Option c is incorrect:</b> The training of polling staff is organised by higher election authorities, typically the District Election Officer (DEO) or RO."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Minorities",
+
+    "question": "With reference to the Commissioner for Linguistic Minorities in India (CLM), consider the following statements:<br>I. S/he is appointed by the President of India.<br>II The office of the Commissioner for Linguistic Minorities in India (CLM) is under the administrative control of the Ministry of Home Affairs.<br>III. S/he investigates all matters relating to the safeguards provided for linguistic minorities under the Constitution and reports to the President upon those matters.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Article 350B, inserted through the 7th Constitutional Amendment (1956), creates the institution of the Special Officer for Linguistic Minorities, whose mandate is to safeguard the interests of linguistic minority communities.<br><br><b>Statement I is correct:</b> Article 350B(1) of the Constitution provides for the appointment of a Special Officer for Linguistic Minorities (who is known as the Commissioner for Linguistic Minorities in India (CLM)) by the President of India.<br><br><b>Statement II is incorrect:</b> The office of Commissioner for Linguistic Minorities is under the purview of the Ministry of Minority Affairs and not under the purview of the Ministry of Home Affairs.<br><br><b>Statement III is correct:</b> Article 350B(2) sets out the responsibilities of the Special Officer. It requires the Officer to review how constitutional safeguards for linguistic minorities are being implemented in different States. The Officer must then submit the reports in this regard to the President at intervals specified by the President."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "With reference to election petitions in the case of a parliamentary constituency for general elections to the House of People, consider the following statements:<br>I. Such petitions fall under the original jurisdiction of the High court within whose territorial jurisdiction of the concerned constituency is located.<br>II. Such a petition can be only filed by a candidate in such elections.<br>III. Such a petition must be filed within forty-five days from the date of declaration of the election results.<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and II only",
+
+      "III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Election petitions are the statutory mechanism for questioning the validity of results declared in Parliamentary, Assembly, and local elections. The procedure is governed primarily by the Representation of the People Act, 1951.<br><br><b>Statement I is correct:</b> In Lok Sabha elections, disputes relating to the validity of the result can be challenged only through an election petition. Under Section 80A of the Representation of the People Act, 1951, original jurisdiction regarding hearing of such petitions lies with the High Court of the State where the elections are concluded.<br><br><b>Statement II is incorrect:</b> The right to file an election petition is laid down under Section 81(1) of the RPA, 1951. It states that an election petition may be presented by any candidate at the election, or any elector of the constituency. Thus, only the candidate in such an election does not have an exclusive right to file an election petition.<br><br><b>Statement III is correct:</b> The time period for filing an election petition is specified in Section 81(1) of the RPA, 1951. It mandates that a petition must be filed within forty-five days from the date of election of the returned candidate, which means forty-five days from the date the results are officially declared."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Constitutional Amendments",
+
+    "question": "With reference to Indian Polity, consider the following statements:<br>Statement I: It is obligatory for the President to give his/her assent to a Constitutional Amendment bill passed by the Parliament.<br>Statement II: A Constitutional Amendment Bill can be introduced in Parliament only with a prior recommendation from the President.<br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> Under Article 368(2), a Constitutional Amendment Bill can be introduced in either House of Parliament by a minister or a private member, and it must be passed in each House by a majority of the total membership, and a two-thirds majority of members present and voting. Any Amendments that affect federal provisions must be ratified by at least one-half of the State Legislatures. After the Constitution (Twenty-fourth Amendment) Act, 1971, Article 368 was amended to state that when such a Bill is presented to the President, “he shall give his assent.” Thus, the President cannot withhold or return a Constitutional Amendment Bill.<br><br><b>Statement II is not correct:</b> A Constitutional Amendment Bill does not require the prior permission or recommendation of the President for its introduction in Parliament. Any Member of Parliament— whether a minister or a private member—may introduce it without needing the President’s recommendation."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "Which one of the following statements most appropriately defines the term \"Separate Electorate” introduced in India during the British rule in India?<br>For electing a representative from a particular community, the candidate must belong to that community:",
+
+    "options": [
+
+      "and all the voters in the constituency can cast their votes to select the candidate.",
+
+      "but only the male voters in the constituency would be eligible to cast their vote to select the candidate.",
+
+      "but only those voters would be eligible to vote to select the candidate who belongs to that community.",
+
+      "but only those voters would be eligible to vote to select the candidate who are above a certain income threshold."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The British Government formally introduced Separate Electorates through the Indian Councils Act, 1909 and expanded them under the Government of India Act of 1919 and 1935. Under this system, only voters belonging to a particular religious or social community were placed on that community’s separate electoral roll and only candidates belonging to the same community could contest from that separate electorate. Thus, each community elected its representative exclusively through its own voters, without participation from members of other communities."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "With reference to the electoral process in India, consider the following statements about “None of the Above (NOTA)”:<br>I. NOTA option is not available to the members of the electoral college in case of Presidential elections.<br>II. NOTA button is the first option on the voting panel of EVM<br>III. If NOTA gets maximum votes in a constituency, re-elections take place in that constituency.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II and III only",
+
+      "I and II only",
+
+      "None of the above"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The “None of the Above” (NOTA) option was introduced in India to give voters the power to express their dissatisfaction with all candidates in an election. The Supreme Court in the People’s Union for Civil Liberties (PUCL) vs Union of India case 2013 directed the Election Commission of India to add a NOTA button to EVMs.<br><br><b>Statement I is correct:</b> The option is meant for direct elections, and thus not applicable to the Presidential elections. Thus the members of the electoral college do not have a NOTA option in case of Presidential elections.<br><br><b>Statement II is incorrect:</b> After the Supreme Court order in September 2013, the Election Commission added the NOTA button on the EVMs as the last option on the voting panel.<br><br><b>Statement III is incorrect:</b> In India, re-election does not take place in the instance where NOTA gets maximum votes. Instead, the candidate with the second-highest valid votes is declared the winner."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "With reference to the electoral process in India, consider the following statements about Exit Polls:<br>I. The conduct of exit polls is prohibited in case of a general election to the House of people from the hour fixed for commencement of polls in the first phase and till half an hour after the time fixed for close of poll for the last phase in all the States.<br>II. No exit polls can be published by any newspaper or new channels under any circumstance during the voting period.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Exit polls are surveys conducted by authorised agencies that collect information from voters immediately after they cast their vote and exit the polling station.<br><br><b>Statement I is correct:</b> In India, the regulation of exit polls is primarily governed by Section 126A of the Representation of the People Act, 1951. This provision prohibits the conduct, publication, or dissemination of exit poll results during the period notified by the Election Commission of India. The time period notified during a general election is the hour fixed for commencement of polls in the first phase and half an hour after the time fixed for close of poll for the last phase in all the States.<br><br><b>Statement II is correct:</b> The Election Commission of India (ECI) oversees the regulations surrounding exit polls. The ECI has issued guidelines under Article 324 of the Constitution, which forbid newspapers and news channels from publishing pre-election surveys and exit poll results during the voting period."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "With reference to the recent election to the House of People in India, consider the following hypothetical scenario:<br>A registered Political Party has:<br>I. won 2 Lok Sabha seats from State A, where the total allocated seats for the state in the House is 2 seats.<br>II. secured more than 8% of the votes polled in State A.<br>III. won 1 Lok Sabha seat from State B, where the total allocated seat for the state in the house is 80 seats and has secured 5% of total valid votes polled in the State.<br>Based on the above performance of the political party, what type of recognition could be given by the Election Commission of India to the party as per the Election Symbols (Reservation and Allotment) Order, 1968?",
+
+    "options": [
+
+      "State Party status in State A only",
+
+      "State Party status in States A and B only",
+
+      "National Party status only",
+
+      "National Party status and State Party status in both the states"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The recognition of political parties in India is governed by the Election Symbols (Reservation and Allotment) Order, 1968. Paragraph 6A dictates State Party status.<br><br><b>Condition I is correct:</b> The political party has secured 100% of the seats allocated to the state in the Lok Sabha by winning 2 out of 2 total allotted seats. This fulfills the condition: at the last general election, the party returned at least one member to the House of the People for every 25 members. Hence, it can be recognised as a State Political Party in State A.<br><br><b>Condition II is correct:</b> The political party secured not less than eight per cent of the total valid votes polled in State A. This fulfils another condition to be recognised as a State Political Party Status in State A.<br><br><b>Condition III is incorrect:</b> In State B, winning 1 seat out of 80 does not meet the \"one member for every 25 members\" criteria, nor does it meet the 6% valid vote threshold coupled with 1 member. Hence, it is not eligible in State B."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "Overseas Indians can exercise franchise in an election to the Lok Sabha under which of the following conditions?<br>1. They must be citizens of India.<br>2. Their names must figure in the electoral roll.<br>3. They must be present in India to vote.<br>Select the correct answer using the codes given below:",
+
+    "options": [
+
+      "1, 2 and 3",
+
+      "2 and 3 only",
+
+      "1 and 2 only",
+
+      "1 only"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement 1 is correct:</b> An overseas elector must be a citizen of India to be eligible for voting in the Lok Sabha elections.<br><br><b>Statement 2 is correct:</b> The name of the overseas elector must be included in the electoral roll of the constituency they would be voting from to be eligible to vote.<br><br><b>Statement 3 is correct:</b> Overseas Indian voters are required to be physically present in India for voting, as e-voting is not allowed. They have the options of postal ballots and proxy voting, with certain restrictions and eligibility criteria."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "Consider the following:<br>I. Giving a gift or an offer by a candidate to an elector to vote or refrain from voting at an election.<br>II. Any direct or indirect interference on the part of the candidate by threatening an elector, or any person in whom the elector is interested, with social ostracism.<br>III. Booth capturing by the candidate.<br>IV. The appeal by a candidate to vote or refrain from voting for any person on the ground of his/her religion.<br>How many of the above are considered corrupt practices under the Representation of the People Act, 1951?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Section 123 of the Representation of the People Act, 1951, defines “corrupt practices” in elections.<br><br><b>Option I is correct:</b> Under Section 123(1), “any gift, offer or promise of any gratification to induce an elector to vote or refrain from voting” constitutes bribery, which is a corrupt practice.<br><br><b>Option II is correct:</b> Under Section 123(2), threatening an elector with “injury of any kind” to influence voting is “undue influence,” and is expressly defined as a corrupt practice. This includes threatening with social ostracism.<br><br><b>Option III is correct:</b> According to Section 123(8), Booth capturing by a candidate or his agent or other person is a corrupt practice.<br><br><b>Option IV is correct:</b> Under Section 123(3), any “appeal by a candidate to vote or refrain from voting for any person on the ground of his religion, race, caste, community or language or the use of, or appeal to religious symbols” is a corrupt practice."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "With reference to the Representation of the People Act, 1950, consider the following subjects:<br>I. Allocation of seats in the House of People<br>II. Preparation and revision of electoral rolls for assembly constituencies<br>III. Notification for general election to the House of People<br>IV. Registration of political parties<br>How many of the above subjects are dealt with under the Representation of the People Act, 1950?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The Representation of the People Act, 1950 (RPA 1950) provides for the allocation of seats in Parliament and State Legislatures, delimitation of constituencies, qualifications and disqualifications of voters, preparation of electoral rolls, and the procedure for filling seats.<br><br><b>Option I is correct:</b> RPA 1950 deals with the allocation of seats in both the Lok Sabha and State Legislative Assemblies.<br><br><b>Option II is correct:</b> RPA 1950 lays down the qualifications of voters and the procedure for preparing and revising electoral rolls.<br><br><b>Option III is incorrect:</b> Notification of General Elections to the House of People is dealt with under the Representation of People Act 1951.<br><br><b>Option IV is incorrect:</b> Registration of political parties is part of Section 29A of RPA 1951, not RPA 1950."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Scheduled Castes and Scheduled Tribes",
+
+    "question": "Consider the following institutions:<br>I. Council of States<br>II. Panchayats at the village level<br>III. State Legislative Council<br>IV. State Legislative Assembly<br>In how many of the above given institutions, the Constitution of India provides reservations for Scheduled Tribes?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option I is incorrect:</b> The Constitution provides for reservation of seats to be filled by direct elections in the House of the People (Lok Sabha) but the similar reservation of seats to the Scheduled Castes and the Scheduled Tribes are not applicable to the Rajya Sabha.<br><br><b>Option II is correct:</b> Article 243D of Indian Constitution provides for the reservation of seats for scheduled castes and scheduled tribes in every panchayat in proportion of their population.<br><br><b>Option III is incorrect:</b> The Constitution provides for reservation of seats to be filled by direct elections in State Legislative Assemblies for the Scheduled Castes and Scheduled Tribes. The similar reservation of seats are not applicable to the State legislative council.<br><br><b>Option IV is correct:</b> Article 332 of the Constitution provides for reservation of seats for those from SCs/STs in the state legislative assemblies."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Language",
+
+    "question": "Consider the following languages:<br>I. Sindhi<br>II. Bodo<br>III. Santhali<br>IV. Konkani<br>V. Maithili<br>VI. English<br>How many of the above languages are included in the Eighth Schedule of the Constitution of India?",
+
+    "options": [
+
+      "Only three",
+
+      "Only four",
+
+      "Only five",
+
+      "All the six"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The Eighth Schedule of the Constitution lists 22 officially recognised languages of India.<br><br><b>Option I is correct:</b> Sindhi was added by the 21st Constitutional Amendment, 1967.<br><br><b>Option II is correct:</b> Bodo was added through the 92nd Constitutional Amendment, 2003.<br><br><b>Option III is correct:</b> Santhali was also added by the 92nd Constitutional Amendment, 2003.<br><br><b>Option IV is correct:</b> Konkani was included in the 71st Constitutional Amendment, 1992.<br><br><b>Option V is correct:</b> Maithili was added by the 92nd Constitutional Amendment, 2003.<br><br><b>Option VI is incorrect:</b> English is not included in the Eighth Schedule."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Scheduled Castes and Scheduled Tribes",
+
+    "question": "Which of the statements given below is correct regarding the special provisions related to Scheduled castes in the Constitution of India?",
+
+    "options": [
+
+      "Part XV of the Indian Constitution provides special provisions for Scheduled Castes (SCs).",
+
+      "For the members of the Scheduled castes the evaluation standards with respect to reservation in matters of services or posts in connection with the affairs of the Union can be lowered.",
+
+      "From each State of India at least one seat shall be reserved for the members of Scheduled Caste in the House of People.",
+
+      "The President of India through a public notification can include in or exclude any caste, race or tribe from the list of Scheduled Castes prepared at the state level."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option a is incorrect:</b> Part XVI of the Indian Constitution under Article 330 to 342A provides special provisions for Scheduled Castes (SCs), Scheduled Tribes (STs), Backward Classes, and Anglo-Indians, not Part XV.<br><br><b>Option b is correct:</b> The 82nd Constitutional Amendment Act, 2000 introduced a specific provision in Article 335, allowing the government to relax qualifying marks and lower evaluation standards for SCs and STs in promotions in connection with the affairs of the Union or of a State.<br><br><b>Option c is incorrect:</b> As per Article 330 of the Indian Constitution the number of seats reserved in any State or Union territory for the Scheduled Castes will be in the same proportion to the total number of seats allotted to that State. Nowhere the Constitution mandates that each State of India at least one seat shall be reserved for the members of Scheduled Caste in the House of People.<br><br><b>Option d is incorrect:</b> As per Article 341(2) Parliament may by law (not the President via notification) include in or exclude from the list of Scheduled Castes specified in a notification issued under clause (1) any caste, race or tribe."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Co-Operative Societies",
+
+    "question": "With reference to the Cooperative Societies in India, consider the following statements:<br>I. Election Commission of India is responsible for the conduct of elections of the Multi State Co-operative Society.<br>II. Two seats for women shall be reserved in the Board of a multi-State co-operative society.<br>III. The minimum number of members required to form a cooperative society is ten.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "II only",
+
+      "I and III only",
+
+      "II and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is incorrect:</b> As per the Multi State Co-operative Societies (Amendment) Act, 2023 Co-operative Election Authority consists of a Chairperson, a Vice-Chairperson and Members not exceeding three. The Authority (not the ECI) shall discharge the function to conduct elections of the Multi State Co-operative Society.<br><br><b>Statement II is correct:</b> Two seats for women and one seat for Scheduled Caste or Scheduled Tribe have been reserved in the Board of a multi-State co-operative society as per the MSCS (Amendment) Act, 2023.<br><br><b>Statement III is correct:</b> In India, the minimum number of members required to form a cooperative society is ten."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Anti-Defection",
+
+    "question": "Consider the following:<br>I. Speaker of the House of the People<br>II. Deputy Speaker of the House of the People<br>III. Deputy Chairman of the Council of States<br>IV. Chairman of the Legislative council of a State<br>How many of the above are exempted from disqualification on the ground of defection under the tenth schedule of the Indian Constitution if he/she voluntarily gives up the membership of the political party to which he/she belonged immediately before being elected to the post and during the term does not join any political party?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>As per the tenth schedule of the Indian Constitution, a person who has been elected to the office of the Speaker or the Deputy Speaker of the House of the People or the Deputy Chairman of the Council of States or the Chairman or the Deputy Chairman of the Legislative Council of a State or the Speaker or the Deputy Speaker of the Legislative Assembly of a State, shall not be disqualified on the ground of defection under the tenth schedule of the Indian Constitution - if he/she, by reason of his election to such office, voluntarily gives up the membership of the political party to which he/she belonged immediately before such election and does not, so long as he/she continues to hold such office thereafter, rejoin that political party or become a member of another political party."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Union Territories",
+
+    "question": "Which one of the following statements about the National Capital Territory (NCT) of Delhi is incorrect?",
+
+    "options": [
+
+      "The Legislative Assembly for the NCT cannot make laws on subjects related to police, public order, and land mentioned in the State List of the seventh schedule of the Indian Constitution.",
+
+      "The Constitution of India fixes the number of seats for the Legislative Assembly for the NCT to 70.",
+
+      "Parliament can make a law to repeal any law made by the Legislative Assembly for the NCT on any matter.",
+
+      "The Chief Minister of NCT of Delhi is appointed by the President, and the other ministers are appointed by the President on the advice of the Chief Minister."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The governance of Delhi is based on Article 239AA, inserted by the 69th Constitutional Amendment Act, 1991, which grants Delhi a Legislative Assembly with limited state-like powers.<br><br><b>Statement a is correct:</b> The Legislative Assembly of National Capital Territory cannot legislate on three subjects of the State List of the seventh schedule of the Indian Constitution which are Public order (Entry 1), Police (Entry 2), Land (Entry 18).<br><br><b>Statement b is incorrect:</b> The Constitution does not fix a specific size for the Delhi Legislative Assembly. Article 239AA only creates the Assembly; the actual number of seats is determined by Parliament through law, not by the Constitution itself. The current strength (70 seats) comes from the Government of National Capital Territory of Delhi Act, 1991.<br><br><b>Statement c is correct:</b> Under Article 239AA(3)c), Parliament can enact at any time any law with respect to the same matter including a law adding to, amending, varying or repealing the law so made by the Legislative Assembly.<br><br><b>Statement d is correct:</b> As per Article 239AA(5), the Chief Minister of Delhi is appointed by the President, and the other ministers are appointed by the President on the Chief Minister’s advice."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "In the context of Indian Polity, consider the following:<br>I. Election of the members of the Council of States<br>II. Election to the office of the Vice President of India<br>III. Election of the members of the State Legislative Councils<br>IV. Election of the members of Municipal Corporations<br>V. Election to the office of the President of India<br>The Election Commission of India (ECI) is responsible for administering elections for how many of the above?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All the five"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The Election Commission of India (ECI), established under Article 324 of the Constitution, is entrusted with the superintendence, direction and control of elections to Parliament, State Legislatures, and the offices of the President and Vice-President of India.<br><br><b>Options I, II, III and V are correct:</b> The ECI administers elections for the Council of States (Rajya Sabha), Vice President, State Legislative Councils, and the President of India.<br><br><b>Option IV is incorrect:</b> Municipal Corporations and Municipalities are part of Urban Local Government. Article 243K gives the power of superintendence, direction and control of municipal elections to the State Election Commission (SEC), not the ECI."
+
+  }
+
+]
