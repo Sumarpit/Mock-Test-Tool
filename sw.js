@@ -2,7 +2,7 @@ const CACHE_NAME = 'sebi-prep-v1';
 const ASSETS = [
   './',
   './index.html',
-  './manifest.json'
+  './manifest.json', // Added the missing comma here!
   './gita_shlokas.json'
 ];
 
@@ -23,7 +23,6 @@ self.addEventListener('activate', (e) => {
 });
 
 self.addEventListener('fetch', (e) => {
-  // Network first for JSON tests to get updates, Cache first for UI
   if (e.request.url.includes('.json')) {
     e.respondWith(
       fetch(e.request).catch(() => caches.match(e.request))
