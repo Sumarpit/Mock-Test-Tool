@@ -1,6 +1,5 @@
 // extensions.js - COMPLETE (Hooks + Shortcuts + S-Pen + TCS Mode + Smart Nav)
 
-// --- GLOBAL DRAWING STATE ---
 let canvas, ctx;
 let isDrawing = false;
 let currentTool = 'pen'; 
@@ -100,8 +99,7 @@ const EXAM_HOOKS = {
                     }
                 }
             }
-        } 
-        else {
+        } else {
              if(cBox) cBox.style.display = 'block';
         }
     }
@@ -117,17 +115,22 @@ function initCanvas() {
     canvas.addEventListener('pointermove', draw);
     canvas.addEventListener('pointerup', endDraw);
     canvas.addEventListener('pointerout', endDraw);
+    canvas.addEventListener('pointercancel', endDraw);
     
+    // Finger/Mouse passes through initially
     canvas.style.pointerEvents = 'none'; 
     
     const container = document.getElementById('touch-area');
     if (container) {
         container.addEventListener('pointerdown', (e) => {
+            // FIX: Prevent infinite loop. If event is already on canvas, do nothing.
+            if (e.target === canvas) return;
+            
             if (e.pointerType === 'pen') {
+                // Instantly activate canvas
                 canvas.style.pointerEvents = 'auto'; 
-                canvas.dispatchEvent(new PointerEvent('pointerdown', e));
-            } else {
-                canvas.style.pointerEvents = 'none';
+                // Manually start drawing to completely avoid dispatchEvent infinite loops
+                startDraw(e);
             }
         });
     }
@@ -138,19 +141,16 @@ function resizeAndLoadCanvas(qIndex) {
     const container = document.getElementById('touch-area');
     if (!container) return;
     
-    // FIX: Multiply resolution by devicePixelRatio for HD Pen Strokes
     const dpr = window.devicePixelRatio || 1;
     canvas.width = container.offsetWidth * dpr;
     canvas.height = container.scrollHeight * dpr;
     
-    // Scale CSS visually back to normal size
     canvas.style.width = container.offsetWidth + 'px';
     canvas.style.height = container.scrollHeight + 'px';
     
-    // Normalize coordinates for the context
     ctx.scale(dpr, dpr);
     
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    // Setting canvas width auto-clears it, but we double check
     currentPaths = drawings[qIndex] || [];
     redrawCanvas();
 }
@@ -158,7 +158,8 @@ function resizeAndLoadCanvas(qIndex) {
 function startDraw(e) {
     if (e.pointerType !== 'pen' && e.button !== 0) return; 
     isDrawing = true;
-    canvas.setPointerCapture(e.pointerId); 
+    
+    try { canvas.setPointerCapture(e.pointerId); } catch(err){}
     
     const rect = canvas.getBoundingClientRect();
     const x = e.clientX - rect.left;
@@ -186,9 +187,13 @@ function draw(e) {
 function endDraw(e) {
     if (!isDrawing) return;
     isDrawing = false;
-    canvas.releasePointerCapture(e.pointerId);
+    
+    try { canvas.releasePointerCapture(e.pointerId); } catch(err){}
     
     if(typeof currIdx !== 'undefined') drawings[currIdx] = currentPaths;
+    
+    // FIX: Re-lock canvas so finger swipe/scroll works immediately after lifting pen
+    canvas.style.pointerEvents = 'none';
 }
 
 function setupBrush() {
@@ -238,9 +243,16 @@ window.setTool = function(tool) {
 
 window.clearCanvas = function() {
     if(!canvas) return;
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.clearRect(0, 0, canvas.width / (window.devicePixelRatio || 1), canvas.height / (window.devicePixelRatio || 1));
     currentPaths = [];
     if(typeof currIdx !== 'undefined') drawings[currIdx] = [];
+};
+
+// EXPORTED: Global wipe for retakes/smart review
+window.resetAllDrawings = function() {
+    drawings = {};
+    currentPaths = [];
+    window.clearCanvas();
 };
 
 // 3. KEYBOARD SHORTCUTS
@@ -292,19 +304,12 @@ document.addEventListener('keydown', (e) => {
     const container = document.getElementById('touch-area');
     if (!container) return;
 
-    let startX = 0;
-    let startY = 0;
+    let startX = 0, startY = 0;
     let isValidSwipe = false;
 
     container.addEventListener('pointerdown', (e) => {
-        if (e.pointerType !== 'touch') {
-            isValidSwipe = false;
-            return;
-        }
-        if (isDrawing) {
-            isValidSwipe = false;
-            return;
-        }
+        if (e.pointerType !== 'touch') { isValidSwipe = false; return; }
+        if (isDrawing) { isValidSwipe = false; return; }
 
         isValidSwipe = true;
         startX = e.clientX;
@@ -320,13 +325,9 @@ document.addEventListener('keydown', (e) => {
         const diffY = startY - endY;
 
         if (Math.abs(diffX) > 80 && Math.abs(diffY) < 60) {
-            if (diffX > 0) {
-                if (typeof nextQ === 'function') nextQ();
-            } else {
-                if (typeof prevQ === 'function') prevQ();
-            }
+            if (diffX > 0) { if (typeof nextQ === 'function') nextQ(); } 
+            else { if (typeof prevQ === 'function') prevQ(); }
         }
-        
         isValidSwipe = false; 
     });
 })();
