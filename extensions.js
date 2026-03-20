@@ -125,10 +125,13 @@ function initCanvas() {
     // When the pen hovers over the screen, instantly make the canvas solid to capture the stroke.
     document.addEventListener('pointermove', (e) => {
         if (!canvas) return;
+        
+        // --- NEW: Abort if in Smart Review Mode ---
+        if (typeof isReviewMode !== 'undefined' && isReviewMode) return; 
+
         if (e.pointerType === 'pen' || e.pointerType === 'stylus') {
             canvas.style.pointerEvents = 'auto'; 
         } else {
-            // Let fingers and mouse fall through to scroll or click options
             if (!isDrawing) canvas.style.pointerEvents = 'none';
         }
     });
@@ -154,6 +157,9 @@ function resizeAndLoadCanvas(qIndex) {
 }
 
 function startDraw(e) {
+    // --- NEW: Block drawing in Review Mode ---
+    if (typeof isReviewMode !== 'undefined' && isReviewMode) return; 
+    
     if (e.pointerType !== 'pen' && e.pointerType !== 'stylus' && e.button !== 0) return; 
     isDrawing = true;
     
@@ -268,7 +274,16 @@ document.addEventListener('keydown', (e) => {
     let isValidSwipe = false;
 
     container.addEventListener('pointerdown', (e) => {
-        if (e.pointerType !== 'touch') { isValidSwipe = false; return; }
+        // --- NEW: Allow Touch always. Allow Pen ONLY if in Review Mode ---
+        const isTouch = e.pointerType === 'touch';
+        const isPenInReview = (e.pointerType === 'pen' || e.pointerType === 'stylus') && (typeof isReviewMode !== 'undefined' && isReviewMode);
+        
+        // If it's neither a finger, nor a pen in review mode, ignore the swipe.
+        if (!isTouch && !isPenInReview) { 
+            isValidSwipe = false; 
+            return; 
+        }
+        
         if (isDrawing) { isValidSwipe = false; return; }
 
         isValidSwipe = true;
