@@ -1072,27 +1072,42 @@
         document.getElementById('r-skip').innerText = k;
     }
 
-    // FIX: Smart Review crashes and shows old drawings
     function startSmartReview() {
         if(!reviewSet.length) return;
         if(confirm("Start Review?")) {
             isReviewMode = true; 
             
-            // FIX: DO NOT re-shuffle/re-prepare. Just clone the review array directly.
+            // Clean clone to prevent altering the base set
             questions = JSON.parse(JSON.stringify(reviewSet)); 
             
-            activeFile += " (Review)"; 
+            if (!activeFile.includes("(Review)")) {
+                activeFile += " (Review)"; 
+            }
+            
             responses={}; confidence={}; visited={}; currIdx=0; seconds=0; qTimers={};
             
-            // FIX: Completely clear old pen strokes
-            if (typeof clearCanvas === 'function') {
-                drawings = {};
-                currentPaths = [];
-                clearCanvas();
+            // Completely destroy previous pen strokes
+            if (typeof window.resetAllDrawings === 'function') {
+                window.resetAllDrawings();
             }
             
             initExamUI();
         }
+    }
+
+    function retakeTest(n, d) {
+        if(!library[n]) { alert("Missing file"); return; }
+        if(!confirm("Retake?")) return;
+        isReviewMode=false; questions=prepareQuestions(library[n]); activeFile=n;
+        seconds=d; responses={}; confidence={}; visited={}; qTimers={}; currIdx=0;
+        
+        // Completely destroy previous pen strokes
+        if (typeof window.resetAllDrawings === 'function') {
+            window.resetAllDrawings();
+        }
+        
+        localStorage.removeItem(BASE_KEY+'resume_'+currentProfile);
+        initExamUI();
     }
 
     function loadHistory() {
@@ -1107,19 +1122,6 @@
     }
     
     function clearHistory() { localStorage.removeItem(HIST_KEY); loadHistory(); }
-    
-    function retakeTest(n, d) {
-        if(!library[n]) { alert("Missing file"); return; }
-        if(!confirm("Retake?")) return;
-        isReviewMode=false; questions=prepareQuestions(library[n]); activeFile=n;
-        seconds=d; responses={}; confidence={}; visited={}; qTimers={}; currIdx=0;
-        
-        // FIX: Clear drawings on retake
-        if (typeof clearCanvas === 'function') { drawings = {}; currentPaths = []; clearCanvas(); }
-        
-        localStorage.removeItem(BASE_KEY+'resume_'+currentProfile);
-        initExamUI();
-    }
     
     function returnToLibrary() { document.getElementById('result-screen').classList.remove('active'); document.getElementById('upload-screen').classList.add('active'); renderGrid(); loadHistory(); }
     
