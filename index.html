@@ -747,10 +747,30 @@
         document.getElementById('upload-screen').classList.remove('active');
         document.getElementById('result-screen').classList.remove('active');
         document.getElementById('exam-screen').classList.add('active');
+        
         const hdr = document.getElementById('main-header');
         const tmr = document.getElementById('timer');
-        if(isReviewMode) { hdr.classList.add('review-mode'); tmr.classList.add('review-timer'); } 
-        else { hdr.classList.remove('review-mode'); tmr.classList.remove('review-timer'); }
+        const annotToolbar = document.querySelector('.annot-toolbar');
+        const drawingCanvas = document.getElementById('drawing-canvas');
+
+        if(isReviewMode) { 
+            hdr.classList.add('review-mode'); 
+            tmr.classList.add('review-timer'); 
+            
+            // DISABLE DRAWING UI IN REVIEW MODE
+            if (annotToolbar) annotToolbar.style.display = 'none';
+            if (drawingCanvas) drawingCanvas.style.display = 'none';
+        } 
+        else { 
+            hdr.classList.remove('review-mode'); 
+            tmr.classList.remove('review-timer'); 
+            
+            // RESTORE DRAWING UI IN NORMAL EXAM (Unless in TCS Mode)
+            if (annotToolbar && !document.body.classList.contains('tcs-mode')) {
+                annotToolbar.style.display = 'flex';
+            }
+            if (drawingCanvas) drawingCanvas.style.display = 'block';
+        }
 
         questions.forEach((_,i) => visited[i]=false);
         
