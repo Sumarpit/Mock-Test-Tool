@@ -7,7 +7,6 @@
     <link rel="manifest" href="manifest.json">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📘</text></svg>">
     <style>
-        /* Import Fonts */
         @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@500;700&family=Inter:wght@400;500&display=swap');
 
         :root {
@@ -25,12 +24,10 @@
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', sans-serif; }
         body { height: 100dvh; width: 100vw; overflow: hidden; background: var(--bg-color); display: flex; flex-direction: column; }
 
-        /* SCREENS */
         .screen { display: none; height: 100%; width: 100%; flex-direction: column; }
         #upload-screen.active, #result-screen.active { display: block; overflow-y: auto; }
         #exam-screen.active { display: flex; } 
 
-        /* UPLOAD SCREEN */
         .container-box { max-width: 900px; margin: 20px auto; padding: 0 20px 160px 20px; }
         .filter-bar { margin-bottom: 20px; background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
         .exam-select { width: 100%; padding: 12px; border: 2px solid var(--accent); border-radius: 6px; font-size: 1rem; font-weight: bold; color: var(--accent); background: white; margin-bottom: 15px; cursor: pointer; outline: none; }
@@ -38,7 +35,6 @@
         
         .library-box { background: var(--card-bg); padding: 20px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); margin-bottom: 20px; }
         
-        /* LIBRARY CONTROLS */
         .lib-controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; margin-bottom: 15px; }
         .btn-row { display: flex; gap: 10px; }
         
@@ -51,7 +47,6 @@
         
         input[type="file"] { display: none; }
 
-        /* LIST VIEW */
         .file-grid { display: flex; flex-direction: column; gap: 8px; margin-top: 10px; }
         .file-card { background: #fff; border: 1px solid #eee; padding: 12px 15px; border-radius: 6px; cursor: pointer; display: flex; flex-direction: row; align-items: center; position: relative; transition: 0.2s; }
         .file-card:hover { border-color: var(--accent); background: #f9f9f9; }
@@ -65,7 +60,6 @@
         .multi-check { margin-left: 10px; background: var(--accent); color: white; border-radius: 50%; width: 22px; height: 22px; display: none; align-items: center; justify-content: center; font-size: 0.7rem; }
         .file-card.multi-selected .multi-check { display: flex; }
 
-        /* HISTORY TABLE */
         .history-box { background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
         .styled-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin-top: 10px; }
         .styled-table thead tr { background-color: #f8f9fa; text-align: left; }
@@ -75,19 +69,16 @@
         button.retake { background: #27ae60; padding: 6px 12px; font-size: 0.8rem; color: white; border:none; border-radius:4px; cursor:pointer; font-weight: bold; }
         button.clear { background: transparent; color: #e74c3c; text-decoration: underline; padding: 0; border: none; cursor:pointer;}
 
-        /* MODALS */
         #pasteModal, #shlokaModal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 5000; align-items: center; justify-content: center; }
         .modal-content { background: white; padding: 20px; border-radius: 8px; width: 90%; max-width: 500px; display: flex; flex-direction: column; gap: 10px; }
         .modal-content textarea { width: 100%; height: 200px; padding: 10px; border: 1px solid #ccc; font-family: monospace; }
         .modal-actions { display: flex; justify-content: space-between; margin-top: 10px; }
 
-        /* SHLOKA SPECIFIC STYLES */
         #shlokaModal .modal-content { text-align: center; border-top: 5px solid var(--saffron); max-width: 600px; }
         .shloka-sanskrit { font-family: 'Noto Serif Devanagari', serif; font-size: 1.4rem; color: var(--saffron); margin: 20px 0; white-space: pre-line; line-height: 1.6; font-weight: 500; }
         .shloka-english { font-family: 'Inter', sans-serif; font-size: 1rem; color: #555; font-style: italic; margin-bottom: 20px; line-height: 1.5; }
         .shloka-ref { font-size: 0.85rem; color: #999; text-transform: uppercase; letter-spacing: 1px; font-weight: bold; }
 
-        /* FOOTER */
         .fixed-footer { position: fixed; bottom: 0; left: 0; width: 100%; background: #fff; border-top: 1px solid #ccc; padding: 15px 20px; display: flex; justify-content: space-between; align-items: center; z-index: 2000; padding-bottom: calc(15px + env(safe-area-inset-bottom)); }
         .time-row { display: flex; align-items: center; gap: 5px; }
         .mini-input { width: 65px; padding: 10px; text-align: center; border: 2px solid #ddd; border-radius: 8px; font-size: 1.3rem; font-weight: bold; }
@@ -99,31 +90,33 @@
         .start-btn:disabled { background: #ccc; cursor: not-allowed; }
         .resume-btn { width: 120px; height: 50px; background: #f39c12; color: white; border: none; border-radius: 8px; font-weight: bold; display: none; margin-right: 10px; }
 
-        /* EXAM SCREEN */
         header { height: 60px; background: var(--header-bg); color: white; display: flex; align-items: center; justify-content: space-between; padding: 0 20px; z-index: 3000; }
         header.review-mode { background: #343a40; border-bottom: 3px solid #ffc107; }
         .timer { font-weight: bold; background: #222; color: #00ff00; padding: 5px 10px; border-radius: 4px; font-family: monospace; font-size: 1.1rem; }
         .exam-layout { display: flex; flex-direction: row; flex-wrap: nowrap; flex: 1; width: 100%; overflow: hidden; background: #e9ecef; position: relative; }
         
-        /* Default Passage hidden unless .active is present */
         .pane-passage { display: none; }
         .pane-passage.active { display: block; flex: 1; background: #fffbf2; padding: 25px; overflow-y: auto; border-right: 1px solid #ddd; font-family: Georgia, serif; }
         
-        .pane-question { flex: 1.2; background: #fff; padding: 20px; overflow-y: auto; display: flex; flex-direction: column; min-width: 300px; position: relative; }
+        /* FIX: touch-action pan-y prevents browser swipe gesture when drawing horizontally */
+        .pane-question { flex: 1.2; background: #fff; padding: 20px; overflow-y: auto; display: flex; flex-direction: column; min-width: 300px; position: relative; touch-action: pan-y; overscroll-behavior-x: none;}
 
-        .q-meta { display: flex; justify-content: space-between; font-weight: bold; color: #777; margin-bottom: 10px; border-bottom: 1px solid #eee; padding-bottom: 5px; }
-        .q-text { line-height: 1.8; font-size: 1.15rem; color: #2c3e50; margin-bottom: 25px; font-weight: 500; letter-spacing: 0.01em; padding-left: 5px; }
+        /* FIX: Toolbar Layout */
+        .q-header-box { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; border-bottom: 1px solid #eee; padding-bottom: 10px; position: relative; z-index: 101; }
+        .q-meta { display: flex; gap: 15px; font-weight: bold; color: #777; font-size: 0.95rem; }
+        .q-text { line-height: 1.8; font-size: 1.15rem; color: #2c3e50; margin-bottom: 25px; font-weight: 500; letter-spacing: 0.01em; padding-left: 5px; position: relative; z-index: 101;}
         .q-text br { display: block; margin-bottom: 10px; content: " "; }
 
-        .opt-label { padding: 15px; border: 1px solid #e0e0e0; margin-bottom: 12px; border-radius: 8px; cursor: pointer; display: flex; align-items: flex-start; background: #fff; transition: all 0.2s ease; line-height: 1.6; }
+        .opt-label { padding: 15px; border: 1px solid #e0e0e0; margin-bottom: 12px; border-radius: 8px; cursor: pointer; display: flex; align-items: flex-start; background: #fff; transition: all 0.2s ease; line-height: 1.6; position: relative; z-index: 101; }
         .opt-label:hover { border-color: var(--accent); background: #f5f9ff; }
         .opt-label.selected { background: #e3f2fd; border-color: var(--accent); }
         .opt-label input { margin-right: 15px; margin-top: 6px; transform: scale(1.2); }
 
-        #drawing-canvas { position: absolute; top: 0; left: 0; z-index: 10; touch-action: none; pointer-events: none; }
-        .annot-toolbar { position: absolute; top: 10px; right: 20px; background: white; padding: 5px; border-radius: 30px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); display: flex; gap: 8px; z-index: 100; border: 1px solid #ddd; }
-        .tool-btn { width: 32px; height: 32px; border-radius: 50%; border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; background: #f5f5f5; transition: 0.2s; }
-        .tool-btn.active { background: var(--accent); color: white; transform: scale(1.1); }
+        #drawing-canvas { position: absolute; top: 0; left: 0; z-index: 100; touch-action: none; pointer-events: none; }
+        
+        .annot-toolbar { background: white; padding: 3px; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); display: flex; gap: 5px; border: 1px solid #ddd; }
+        .tool-btn { width: 32px; height: 32px; border-radius: 4px; border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 1.1rem; background: #f5f5f5; transition: 0.2s; }
+        .tool-btn.active { background: var(--accent); color: white; }
 
         .pane-sidebar { width: 300px; background: #fff; display: flex; flex-direction: column; transition: width 0.3s ease; border-left: 1px solid #ccc; }
         .pane-sidebar.collapsed { width: 0 !important; min-width: 0 !important; flex-basis: 0 !important; padding: 0 !important; border: none !important; overflow: hidden !important; }
@@ -133,7 +126,7 @@
         .pal-btn.visit { background: #e74c3c; color: white; border: none; }
         .sidebar-handle { width: 15px; background: #dcdcdc; cursor: pointer; display: flex; align-items: center; justify-content: center; z-index: 9999; user-select: none; }
         
-        .conf-box { margin-top: 20px; padding: 15px; background: #f8f9fa; border-radius: 6px; pointer-events: none; opacity: 0.5; }
+        .conf-box { margin-top: 20px; padding: 15px; background: #f8f9fa; border-radius: 6px; pointer-events: none; opacity: 0.5; position: relative; z-index: 101; }
         .conf-box.active { pointer-events: auto; opacity: 1; background: #e3f2fd; }
         .conf-opts { display: flex; gap: 5px; margin-top: 5px; }
         .c-btn { flex: 1; padding: 10px 5px; border: 1px solid #ccc; background: white; text-align: center; cursor: pointer; border-radius: 4px; font-size: 0.85rem; font-weight: 500; }
@@ -169,44 +162,26 @@
             .sidebar-handle { display: none !important; }
             .pane-sidebar { position: fixed; top: 60px; right: -100%; height: calc(100dvh - 120px); z-index: 4000; width: 85% !important; box-shadow: -5px 0 15px rgba(0,0,0,0.2); }
             .pane-sidebar.open { right: 0; }
-            .mobile-nav { display: flex !important; height: 60px; background: #fff; border-top: 1px solid #ccc; align-items: center; justify-content: space-around; z-index: 3000; padding-bottom: env(safe-area-inset-bottom); }
             .mobile-menu { display: block !important; }
             #overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 3500; }
             #overlay.active { display: block; }
             .fixed-footer { justify-content: center; flex-direction: column; gap: 10px; }
-            #next-btn { display: none; }
             .test-label { max-width: 150px; font-size: 0.85rem; }
             .footer-actions { width: 100%; justify-content: space-between; }
         }
 
-        /* ========================================================
-           --- STRICT TCS iON CBT SIMULATION MODE ---
-           ======================================================== */
-        
         body.tcs-mode { background-color: #f0f0f0; font-family: 'Arial', sans-serif; }
         body.tcs-mode header { background: #283593; height: 50px; box-shadow: none; border-bottom: 2px solid #1a237e; }
-        
         body.tcs-mode .exam-layout { display: flex !important; flex-direction: row !important; flex-wrap: nowrap !important; }
-        
-        /* Hide passage entirely unless it has content */
         body.tcs-mode .pane-passage { display: none !important; }
-        
-        /* If passage has content, force it to 40% width */
         body.tcs-mode .pane-passage.active { display: block !important; flex: 0 0 40% !important; border-right: 5px solid #dcdcdc; padding: 15px; background: #fff; font-size: 15px; font-family: Arial, sans-serif; line-height: 1.6; overflow-y: auto; }
-        
-        /* Question panel takes remaining space flexibly */
         body.tcs-mode .pane-question { flex: 1 !important; padding: 15px; background: #f9f9f9; border-right: 5px solid #dcdcdc; }
-        
-        /* Sidebar strictly forced to the right, never overlaps bottom */
         body.tcs-mode .pane-sidebar { display: flex !important; flex: 0 0 280px !important; background: #eef1f5; border-left: 1px solid #ccc; height: 100%; }
-        body.tcs-mode .sidebar-handle { display: none !important; } /* Hide handle, sidebar always locked */
-        
+        body.tcs-mode .sidebar-handle { display: none !important; } 
         body.tcs-mode .fixed-footer { height: 60px; background: #f0f0f0; border-top: 1px solid #ccc; padding: 0 20px; justify-content: flex-end; }
-        
         .tcs-textarea { resize: none !important; width: 100%; height: 400px !important; border: 1px solid #7f8c8d; border-radius: 0; padding: 10px; font-family: 'Courier New', Courier, monospace; font-size: 16px; line-height: 1.5; background: #fff; box-shadow: inset 1px 1px 5px rgba(0,0,0,0.1); }
         .tcs-textarea:focus { outline: 2px solid #2962ff; }
         .tcs-word-count { background: #eeeeee; border: 1px solid #cccccc; color: #333; font-family: Arial, sans-serif; font-size: 12px; padding: 5px 8px; margin-top: -2px; text-align: left; font-weight: bold; }
-        
         body.tcs-mode .start-btn, body.tcs-mode #next-btn { background: #28a745 !important; border-radius: 2px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase; font-size: 13px; padding: 8px 20px; box-shadow: 0 1px 2px rgba(0,0,0,0.2); }
         body.tcs-mode button[onclick="clearRes()"] { background: #ffffff !important; border: 1px solid #ccc !important; color: #333 !important; border-radius: 2px; text-transform: uppercase; font-weight: bold; font-size: 13px; }
     </style>
@@ -292,7 +267,7 @@
         <div class="header-title" id="exam-title">Mock Test</div>
         <div style="display:flex; align-items:center; gap:10px;">
             <div class="timer" id="timer">00:00:00</div>
-            <button class="mobile-menu" onclick="openSidebar()">☰</button>
+            <button class="mobile-menu" onclick="openSidebar()" style="background:transparent; border:none; color:white; font-size:1.5rem; cursor:pointer;">☰</button>
         </div>
     </header>
     
@@ -303,17 +278,20 @@
         </div>
 
         <div class="pane-question" id="touch-area">
-            <div class="annot-toolbar">
-                <button class="tool-btn active" id="tool-pen" onclick="setTool('pen')" title="Pen">🖊️</button>
-                <button class="tool-btn" id="tool-high" onclick="setTool('highlighter')" title="Highlighter">🖍️</button>
-                <button class="tool-btn" onclick="clearCanvas()" title="Clear">🧹</button>
-            </div>
             <canvas id="drawing-canvas"></canvas>
 
-            <div class="q-meta">
-                <span><span id="q-sec">Sec</span> | <span id="q-topic">Top</span></span>
-                <span>Q. <span id="q-num">1</span></span>
+            <div class="q-header-box">
+                <div class="q-meta">
+                    <span><span id="q-sec">Sec</span> | <span id="q-topic">Top</span></span>
+                    <span>Q. <span id="q-num">1</span></span>
+                </div>
+                <div class="annot-toolbar">
+                    <button class="tool-btn active" id="tool-pen" onclick="setTool('pen')" title="Pen">🖊️</button>
+                    <button class="tool-btn" id="tool-high" onclick="setTool('highlighter')" title="Highlighter">🖍️</button>
+                    <button class="tool-btn" onclick="clearCanvas()" title="Clear">🧹</button>
+                </div>
             </div>
+            
             <div class="q-text" id="q-text">Loading...</div>
             <div id="options-box"></div>
 
@@ -327,9 +305,14 @@
                 </div>
             </div>
 
-            <div style="margin-top:auto; padding-top:20px; display:flex; justify-content:space-between;">
-                <button onclick="clearRes()" style="background:#e74c3c; border:none; padding:10px; color:white; border-radius:4px;">Clear</button>
-                <button class="primary" style="color: white; padding:10px 20px; border-radius:4px; border:none; font-weight:bold;" onclick="nextQ()" id="next-btn">Save & Next</button>
+            <!-- FIX: Unified action bar for all devices -->
+            <div style="margin-top:auto; padding-top:20px; display:flex; justify-content:space-between; gap: 10px; position:relative; z-index: 101;">
+                <button id="prev-btn" onclick="prevQ()" style="background:#555; color:white; border:none; padding:10px 15px; border-radius:4px; font-weight:bold; cursor:pointer;">Prev</button>
+                
+                <div style="display:flex; gap:10px; margin-left:auto;">
+                    <button onclick="clearRes()" style="background:#e74c3c; border:none; padding:10px 15px; color:white; border-radius:4px; cursor:pointer;">Clear</button>
+                    <button id="next-btn" class="primary" style="background:#2962ff; color: white; padding:10px 20px; border-radius:4px; border:none; font-weight:bold; cursor:pointer;" onclick="nextQ()">Save & Next</button>
+                </div>
             </div>
         </div>
 
@@ -337,16 +320,10 @@
 
         <div id="pane-sidebar" class="pane-sidebar">
             <div style="padding:15px; background:#f9f9f9; border-bottom:1px solid #eee;">
-                <button class="primary" style="color: white; width:100%; background:#27ae60; padding:10px; border:none; border-radius:4px; font-weight:bold;" onclick="submitExam()">SUBMIT TEST</button>
+                <button class="primary" style="color: white; width:100%; background:#27ae60; padding:10px; border:none; border-radius:4px; font-weight:bold; cursor:pointer;" onclick="submitExam()">SUBMIT TEST</button>
             </div>
             <div id="palette" class="palette-grid"></div>
         </div>
-    </div>
-
-    <div class="mobile-nav">
-        <button class="mn-btn" onclick="prevQ()">❮</button>
-        <button class="mn-btn" onclick="openSidebar()">▦</button>
-        <button class="mn-btn primary" onclick="nextQ()">❯</button>
     </div>
 </div>
 
@@ -412,7 +389,6 @@
 <script src="extensions.js"></script>
 
 <script>
-    // --- VARIABLES ---
     const BASE_KEY = 'sebi_v40_'; 
     let currentProfile = 'SEBI'; 
     let LIB_KEY, HIST_KEY;
@@ -424,10 +400,8 @@
     let isReviewMode = false, reviewSet = [];
     let initialScore = 0; 
 
-    // --- GITA DATA (Fetched Externally) ---
     let gitaVerses = []; 
 
-    // --- INIT ---
     if ('launchQueue' in window) {
         window.launchQueue.setConsumer(async (launchParams) => {
             if (!launchParams.files.length) return;
@@ -494,13 +468,11 @@
         document.getElementById('sInput').value = time[2].toString().padStart(2, '0');
     }
 
-    // --- GITA / WISDOM LOGIC ---
     async function loadWisdomData() {
         try {
             const res = await fetch('gita_shlokas.json');
             if(res.ok) { gitaVerses = await res.json(); } 
-            else { console.warn("Could not load Gita verses."); }
-        } catch(err) { console.warn("Offline or missing gita_shlokas.json"); }
+        } catch(err) {}
     }
 
     function openShlokaModal() {
@@ -517,7 +489,7 @@
             document.getElementById('shloka-sanskrit').innerText = "Loading wisdom...";
             loadWisdomData().then(() => {
                 if(gitaVerses.length > 0) renderRandomShloka();
-                else document.getElementById('shloka-sanskrit').innerText = "Shlokas not found. (Check gita_shlokas.json)";
+                else document.getElementById('shloka-sanskrit').innerText = "Shlokas not found.";
             });
             return;
         }
@@ -532,7 +504,6 @@
         if (event.target === modal) { closeShlokaModal(); }
     });
 
-    // --- DATA ---
     async function loadFromGitHubAPI() {
         try {
             if(typeof REPO_OWNER === 'undefined') return;
@@ -557,7 +528,6 @@
         } catch(e) { alert("Error loading file"); }
     }
 
-    // --- STORAGE & UI ---
     function loadLibraryFromStorage() { const s = localStorage.getItem(LIB_KEY); if(s) library = JSON.parse(s); }
     function saveLibraryToStorage() { try{localStorage.setItem(LIB_KEY, JSON.stringify(library));}catch(e){alert("Storage Full");} }
     
@@ -661,12 +631,10 @@
         });
     }
 
-    // --- EXAM LOGIC (BULLETPROOF PARSING) ---
     function prepareQuestions(inputData) {
         let rawList = [];
 
         if (inputData && !Array.isArray(inputData) && Array.isArray(inputData.questions)) {
-            // NEW FORMAT DETECTED
             rawList = inputData.questions.map(q => {
                 if (q.passageId && inputData.passages && inputData.passages[q.passageId]) {
                     q.passage = inputData.passages[q.passageId];
@@ -674,10 +642,8 @@
                 return q;
             });
         } else if (Array.isArray(inputData)) {
-            // OLD FORMAT
             rawList = inputData;
         } else {
-            console.error("Invalid Data Format", inputData);
             return [];
         }
 
@@ -708,7 +674,6 @@
             }
         }
 
-        // Safely flatten array without relying on ES6 .flat() just in case, and protect options parsing
         let flattened = [].concat(...groups);
         return flattened.map(q => {
             let nq = JSON.parse(JSON.stringify(q));
@@ -804,14 +769,13 @@
         currIdx = i; visited[i] = true;
         const q = questions[i];
         
-        // --- STRICT PASSAGE PANE LOGIC ---
         const passDiv = document.getElementById('pane-passage');
         if(q.passage && String(q.passage).trim() !== '') { 
             passDiv.classList.add('active'); 
             document.getElementById('passage-content').innerHTML = q.passage; 
         } else { 
             passDiv.classList.remove('active'); 
-            document.getElementById('passage-content').innerHTML = ''; // Clear it out completely
+            document.getElementById('passage-content').innerHTML = ''; 
         }
 
         document.getElementById('q-num').innerText = i+1;
@@ -856,9 +820,13 @@
             } else { cBox.classList.remove('active'); cBtns.forEach(b => b.classList.remove('sel')); }
         }
 
-        const btn = document.getElementById('next-btn');
-        if(i === questions.length-1) { btn.innerText = "Submit Test"; btn.style.background = "#e67e22"; }
-        else { btn.innerText = "Save & Next"; btn.style.background = "#2962ff"; }
+        // Handle Prev Button visibility
+        const prevBtn = document.getElementById('prev-btn');
+        if(prevBtn) prevBtn.style.visibility = (i === 0) ? 'hidden' : 'visible';
+
+        const nextBtn = document.getElementById('next-btn');
+        if(i === questions.length-1) { nextBtn.innerText = "Submit Test"; nextBtn.style.background = "#e67e22"; }
+        else { nextBtn.innerText = "Save & Next"; nextBtn.style.background = "#2962ff"; }
         
         if(typeof EXAM_HOOKS !== 'undefined' && EXAM_HOOKS.onQuestionLoad) {
             EXAM_HOOKS.onQuestionLoad(currentProfile, q, i);
@@ -918,7 +886,6 @@
     function resumeExam() {
         const d = JSON.parse(localStorage.getItem(BASE_KEY+'resume_'+currentProfile));
         
-        // Defensive check against corrupted state
         if (!d.questions || d.questions.length === 0) {
             alert("Saved exam state was corrupted or empty. Restarting.");
             localStorage.removeItem(BASE_KEY+'resume_'+currentProfile);
@@ -1105,11 +1072,25 @@
         document.getElementById('r-skip').innerText = k;
     }
 
+    // FIX: Smart Review crashes and shows old drawings
     function startSmartReview() {
         if(!reviewSet.length) return;
         if(confirm("Start Review?")) {
-            isReviewMode = true; questions = prepareQuestions(reviewSet);
-            activeFile += " (Review)"; responses={}; confidence={}; visited={}; currIdx=0; seconds=0; qTimers={};
+            isReviewMode = true; 
+            
+            // FIX: DO NOT re-shuffle/re-prepare. Just clone the review array directly.
+            questions = JSON.parse(JSON.stringify(reviewSet)); 
+            
+            activeFile += " (Review)"; 
+            responses={}; confidence={}; visited={}; currIdx=0; seconds=0; qTimers={};
+            
+            // FIX: Completely clear old pen strokes
+            if (typeof clearCanvas === 'function') {
+                drawings = {};
+                currentPaths = [];
+                clearCanvas();
+            }
+            
             initExamUI();
         }
     }
@@ -1132,6 +1113,10 @@
         if(!confirm("Retake?")) return;
         isReviewMode=false; questions=prepareQuestions(library[n]); activeFile=n;
         seconds=d; responses={}; confidence={}; visited={}; qTimers={}; currIdx=0;
+        
+        // FIX: Clear drawings on retake
+        if (typeof clearCanvas === 'function') { drawings = {}; currentPaths = []; clearCanvas(); }
+        
         localStorage.removeItem(BASE_KEY+'resume_'+currentProfile);
         initExamUI();
     }
@@ -1178,22 +1163,18 @@
             alert("Failed to copy. Please allow clipboard permissions.");
         });
     }
-    // --- CSV EXPORT FUNCTION ---
+
     function downloadCSV() {
         if (!questions || questions.length === 0) {
             alert("No data available to export.");
             return;
         }
 
-        // CSV Header
         let csvContent = "Q.No,Topic,Question,Correct Answer,My Answer,Status,Confidence,Time Taken (sec)\n";
 
-        // Helper function to safely escape text for CSV (strips HTML and handles quotes)
         const escapeCSV = (text) => {
             if (text === null || text === undefined) return '""';
-            // Replace HTML tags with a space, normalize multiple spaces, and trim
             let s = text.toString().replace(/<[^>]*>?/gm, ' ').replace(/\s+/g, ' ').trim();
-            // Escape double quotes by doubling them (CSV standard)
             return `"${s.replace(/"/g, '""')}"`;
         };
 
@@ -1225,12 +1206,10 @@
                 }
             }
 
-            // Append row to CSV content
             csvContent += `${qNum},${escapeCSV(topic)},${escapeCSV(qText)},${escapeCSV(correctAns)},${escapeCSV(myAns)},${escapeCSV(status)},${escapeCSV(conf)},${time}\n`;
         });
 
-        // Create Blob and trigger download
-        const blob = new Blob(["\uFEFF" + csvContent], { type: 'text/csv;charset=utf-8;' }); // \uFEFF adds BOM for Excel UTF-8 compatibility
+        const blob = new Blob(["\uFEFF" + csvContent], { type: 'text/csv;charset=utf-8;' }); 
         const link = document.createElement("a");
         const url = URL.createObjectURL(blob);
         
