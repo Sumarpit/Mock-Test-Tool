@@ -4,181 +4,25 @@
 
     "section": "Economy",
 
-    "topic": "Public Finance in India",
-
-    "question": "Which one of the following situations best reflects the term “Indirect Transfers” often talked about in the media with reference to India?",
-
-    "options": [
-
-      "An Indian company investing in a foreign enterprise and paying taxes to the foreign country on the profits arising out of its investment.",
-
-      "A foreign company investing in India and paying taxes to the country of its base on the profits arising out of its investment.",
-
-      "An Indian company purchases tangible assets in a foreign country and sells such assets after their value increases and transfers the proceeds to India.",
-
-      "A foreign company transfers shares and such shares derive their substantial value from assets located in India."
-
-    ],
-
-    "answer": 3,
-
-    "explanation": "<b>Correct Answer: (d)</b><br><br>Indirect transfers refer to situations where foreign entities own shares or assets in India, when the shares of such foreign entities are transferred and if such shares or interest derive a substantial value from assets located in India. Then such transfer is commonly referred to as Indirect transfers.<br><br>The amendments made in the ITA in 2012 clarified that if a company is registered or incorporated outside India, its shares will be deemed to be or have always been situated in India if they derive their value substantially from the assets located in India. As a result, the persons who sold such shares of foreign companies before the enactment of the Act (i.e., May 28, 2012) also became liable to pay tax on the income earned from such sale."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budget 2025-26",
-
-    "question": "With reference to revised classification of Micro, Small and Medium Enterprises in India (effective from 1st April 2025), consider the following statements:<br>I. An enterprise with Investment in Plant & Machinery of ₹1.5 crore and Annual Turnover of ₹8 crore.<br>II. An enterprise with Investment in Plant & Machinery of ₹4 crore and Annual Turnover of ₹8 crore.<br>III. An enterprise with Investment in Plant & Machinery of ₹1.8 crore and Annual Turnover of ₹12 crore.<br>How many of the above enterprises can be classified as a Micro Enterprise as per the revised official definition?",
-
-    "options": [
-
-      "Only one",
-
-      "Only two",
-
-      "All the three",
-
-      "None"
-
-    ],
-
-    "answer": 0,
-
-    "explanation": "<b>Correct Answer: (a)</b><br><br>From April 1, 2025, the government has raised both investment and turnover limits for classifying MSMEs so that more units can benefit from the MSME framework and grow without quickly losing their status. For micro enterprises, the investment ceiling in plant and machinery or equipment has been raised from ₹1 crore to ₹2.5 crore, and the turnover limit has been increased from ₹5 crore to ₹10 crore.<br><br><b>Statement I is correct:</b> The enterprise with investment of ₹1.5 crore and annual turnover of ₹8 crore falls in the Micro category.<br><br><b>Statement II is incorrect:</b> The enterprise with investment of ₹4 crore does not qualify as a Micro Enterprise and would be classified as a Small Enterprise. The investment threshold for a Micro Enterprise is ₹2.5 crore. Since this enterprise's Investment is greater than the ₹2.5 crore limit, it falls under the Small Enterprise category.<br><br><b>Statement III is incorrect:</b> The enterprise with turnover of ₹12 crore does not qualify as a Micro Enterprise and would be classified as a Small Enterprise. The turnover threshold for a Micro Enterprise is ₹10 crore. Since this enterprise's Annual Turnover is greater than the ₹10 crore limit, it falls under the Small Enterprise category."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Public Finance in India",
-
-    "question": "Consider the following statements:<br>Statement I: Fiscal Responsibility and Budget Management Act 2003 provides for the responsibility of the Central Government to ensure inter-generational equity in fiscal management.<br>Statement II: As per the Ricardian Equivalence, the government borrowings today will come at lesser cost than future borrowings to stimulate aggregate demand in the economy.<br>Which one of the following is correct in respect of the above statements?",
-
-    "options": [
-
-      "Both Statement I and Statement II are correct and Statement II explains Statement I",
-
-      "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
-
-      "Statement I is correct but Statement II is not correct",
-
-      "Statement I is not correct but Statement II is correct"
-
-    ],
-
-    "answer": 2,
-
-    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> The Fiscal Responsibility and Budget Management Act, 2003, is an Act to provide for the responsibility of the Central Government to ensure inter-generational equity in fiscal management and long-term macro-economic stability by removing fiscal impediments in the effective conduct of monetary policy and prudential debt management consistent with fiscal sustainability through limits on the Central Government borrowings, debt and deficits, greater transparency in fiscal operations of the Central Government and conducting fiscal policy in a medium-term framework. It set targets for the phased reduction of the fiscal deficit to 3% of the GDP and the debt of the central government to 40% of GDP thereby reducing debt to a sustainable level over a medium term so as to ensure inter-generational equity in fiscal management and long term macro-economic stability.<br><br><b>Statement II is incorrect:</b> Ricardian Equivalence claims that when governments finance expenditures through debt rather than immediate taxation, rational consumers anticipate future tax increases. Consequently, they increase their savings to offset the future tax burden, rendering fiscal stimulus ineffective. As per Ricardian Equivalence method by which a government finances its spending—whether through taxes today or debt that necessitates higher taxes tomorrow—has no net effect on overall demand within the economy."
-
-  },
-
-  {
-
-    "section": "Economy",
-
     "topic": "Fiscal Policy",
 
-    "question": "With reference to Indian economy, consider the following goods:<br>I. Street lighting<br>II. Rice given in Public Distribution System<br>III. Policing/Police Services<br>IV. Medicines sold at a chemist shop<br>V. Flood Control<br>How many of the above can be considered as the Public good in India?",
+    "question": "With reference to fiscal policy, which of the following are the potential consequences of a persistent and high fiscal deficit in an economy?<br>I. Increase in the debt-to-GDP ratio.<br>II. Crowding out of private sector investments.<br>III. High Cost-push Inflation.<br>IV. Decrease in the government's debt-servicing costs.<br>Select the correct answer using the code given below:",
 
     "options": [
 
-      "Only two",
+      "I, II and III only",
 
-      "Only three",
-
-      "Only four",
-
-      "All five"
-
-    ],
-
-    "answer": 1,
-
-    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Options I, III and V are correct:</b> Goods can be classified on the basis of ownership into public goods and private goods. Public goods are owned and enjoyed collectively by society and are available to all people without discrimination. They possess two essential characteristics: non-rivalry, meaning that consumption by one person does not reduce the availability of the good for others, and non-excludability, meaning that no one can be prevented from accessing or enjoying the good. The examples for public goods that exhibit these characteristics include: Defence, Police, Street-light, Flood Control, roads, bridges, park, town hall etc.<br><br><b>Option II and IV are incorrect:</b> Rice distributed through the Public Distribution System (PDS) is excludable, as only eligible beneficiaries with ration cards can access it and cannot be considered as the public good. Further Medicine is not considered as the public good as it does not fulfil both the characteristics. Medicines are not public goods because they are both rivalrous as consumption by one reduces availability for others and excludable as can be restricted by pricing and access."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Public Finance in India",
-
-    "question": "Consider the following:<br>1. Demographic performance<br>2. Forest and ecology<br>3. Governance reforms<br>4. Stable government<br>5. Tax and fiscal efforts<br>For the horizontal tax devolution, the Fifteenth Finance Commission used how many of the above as criteria other than population, area and income distance?",
-
-    "options": [
-
-      "Only two",
-
-      "Only three",
-
-      "Only four",
-
-      "All five"
-
-    ],
-
-    "answer": 1,
-
-    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option 1 is correct:</b> Demographic performance refers to the assessment of population-related factors such as population growth rate, demographic composition, and demographic changes over time. The Commission used 2011 population data for its recommendations. States with a lower fertility ratio will be scored higher on this criterion. The 15th Finance Commission suggested 12.5% weightage to the Demographic performance.<br><br><b>Option 2 is correct:</b> Forest and ecology refer to the assessment of environmental factors, including the preservation and conservation of forests, biodiversity, and ecological balance. This criterion has been determined by calculating the proportion of dense forest within each state relative to the total dense forest across all states. The 15th Finance Commission suggested 10% weightage to the Forest and Ecology.<br><br><b>Option 3 is incorrect:</b> Governance reforms encompass various measures aimed at improving the efficiency, transparency, and effectiveness of government operations and public service delivery. This criterion was not considered by the Fifteenth Finance Commission as one of the criteria for horizontal tax devolution.<br><br><b>Option 4 is incorrect:</b> Stable government refers to the political stability and continuity of government institutions. While stability in government can be a desirable factor, it was not explicitly mentioned as a criterion for horizontal tax devolution by the Fifteenth Finance Commission.<br><br><b>Option 5 is correct:</b> Tax and fiscal efforts involve the assessment of a state’s efforts in tax collection and fiscal management. This criterion has been employed to incentivize states with better efficiency in tax collection. It is determined by the ratio of the average per capita own tax revenue to the average per capita state GDP over a three-year period from 2016-17 to 2018-19. The 15th Finance Commission suggested 2.5% weightage to the Tax and fiscal efforts."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Fiscal Policy",
-
-    "question": "Which of the following are considered as the objectives of the fiscal policy of Government of India?<br>I. Ensuring distribution of free goods<br>II. Redistribution of income and reducing economic inequality<br>III. Stabilizing the level of aggregate demand in economy<br>Select the correct answer using the code given below:",
-
-    "options": [
-
-      "I, II and III",
+      "I and IV only",
 
       "II and III only",
 
-      "I and III only",
-
-      "I and II only"
-
-    ],
-
-    "answer": 1,
-
-    "explanation": "<b>Correct Answer: (b)</b><br><br>The government plays a crucial role in enhancing the welfare of the people. To achieve this, it formulates a fiscal policy every year with specific objectives.<br><br><b>Option I is incorrect:</b> Allocation of public goods (not free goods) to all the people is one of the key objectives of Fiscal policy of Government of India by providing certain goods and services which cannot be provided by the market mechanism in the Indian economy. Examples of such goods are national defence, roads, government administration etc. Free goods which are different from public goods, it refers to the goods that are available in abundance without any cost or human effort. Example: Sunshine.<br><br><b>Option II is correct:</b> Redistribution of income and reducing economic inequality is one of the key objectives of the fiscal policy of the Government of India. Under this function, the government collects taxes from firms and households and redistributes the revenue to poorer sections of society in the form of government transfers, welfare programmes, and social security schemes. Taxation and income transfers to the poorest segment of society are the most direct way to keep inequality in check and reduce poverty in the short term.<br><br><b>Option III is correct:</b> The overall level of employment and prices in an economy depends on the level of aggregate demand, which in turn is influenced by the spending decisions of millions of private economic agents along with government expenditure. As part of fiscal policy, the government intervenes to stabilise aggregate demand in order to correct fluctuations in income, output and employment. For eg., recent rationalisation of GST rates."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budgetary Economics",
-
-    "question": "With reference to Union Budget, consider the following statements about Grant in aids:<br>Statement I: Grants-in-aid from foreign countries and international organisations are considered as revenue receipts of Government of India.<br>Statement II: Grants-in-aid do not create any repayment liability or future claim on the Government of India.<br>Which one of the following is correct in respect of the above statements?",
-
-    "options": [
-
-      "Both Statement I and Statement II are correct and Statement II explains Statement I",
-
-      "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
-
-      "Statement I is correct but Statement II is not correct",
-
-      "Statement I is not correct but Statement II is correct"
+      "I, II, III and IV"
 
     ],
 
     "answer": 0,
 
-    "explanation": "<b>Correct Answer: (a)</b><br><br>A budget is a financial statement that contains the government’s receipts and expenditure for a particular financial year. The Union Budget is divided into two major parts: the Revenue Account and Capital Account with various items listed under each based on their nature.<br><br><b>Statement I is correct:</b> Revenue receipts are those receipts that do not lead to a claim on the government and are non-redeemable. They are divided into tax and non-tax revenues. Grants-in-aid from foreign countries and international organisations is classified as the non-tax revenue under Revenue receipts of the union budget.<br><br><b>Statement II is correct:</b> Unlike loans, grants-in-aid received from foreign countries and international organisations do not create any repayment liability for the government and do not give rise to any future claim on government.<br><br>Grants-in-aid from foreign countries and international organisations are considered as the revenue receipts under the Union Budget as it does not create any repayment liability and claim on the government. Hence <b>Both Statement I and Statement II are correct and Statement II explains Statement I</b>."
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Fiscal Deficit is the difference between the government’s total expenditure and its total receipts excluding borrowing. The fiscal deficit is financed through borrowing and hence, it indicates the total borrowing requirements of the government from all sources.<br><br><b>Option I is correct:</b> A persistent fiscal deficit means the government has to borrow heavily every year to bridge the gap. This continuous borrowing directly adds to the national debt. If the growth rate of this debt exceeds the growth rate of the Gross Domestic Product (GDP) the debt-to-GDP ratio will increase. Therefore, persistent increase in the fiscal deficit of a country may result in increasing debt-to-GDP ratio.<br><br><b>Option II is correct:</b> When the government borrows heavily from banks and financial markets to fund a persistent fiscal deficit it competes with private companies for the same pool of domestic savings. This higher demand for funds can raise interest rates and make credit more expensive or less available for businesses. As a result private firms may cut back or postpone investment because borrowing costs are too high, which is known as crowding out of private investment.<br><br><b>Option III is correct:</b> When the government becomes a major borrower in the financial market, the high demand for funds can push interest rates up. Higher interest rates increase the cost of capital for businesses. The businesses facing higher production costs often pass those costs onto consumers by raising the prices of goods and services. This type of price rise driven by higher costs is known as cost-push inflation.<br><br><b>Option IV is incorrect:</b> As the national debt rises due to persistent deficits, the government's obligation to pay interest on that debt also increases. These interest payments, known as debt servicing costs, increase and can become difficult to manage. The debt servicing costs do not create any new assets or infrastructure."
 
   },
 
@@ -188,7 +32,7 @@
 
     "topic": "Budgetary Economics",
 
-    "question": "Which of the following documents are presented besides the Finance Minister’s Budget Speech, in the same session of Parliament in which the Budget is laid down before Parliament?<br>I. Medium-Term Fiscal Policy cum Fiscal Policy Strategy Statement<br>II. Medium-term Expenditure Framework Statement<br>III. Macroeconomic Framework Statement<br>Select the correct answer using the code given below:",
+    "question": "Suppose the revenue expenditure is ₹ 1,10,000 crores and the revenue receipts of the Government are ₹ 90,000 crores. The Government budget also shows borrowings of ₹ 60,000 crores and interest payments of ₹ 50,000 crores.<br>Which of the following statements are correct?<br>I. Revenue deficit is ₹ 20,000 crores.<br>II. Fiscal deficit is ₹ 60,000 crores.<br>III. Primary deficit is ₹ 10,000 crores.<br>Select the correct answer using the code given below.",
 
     "options": [
 
@@ -197,136 +41,6 @@
       "II and III only",
 
       "I and III only",
-
-      "I, II and III"
-
-    ],
-
-    "answer": 2,
-
-    "explanation": "<b>Correct Answer: (c)</b><br><br>The list of Budget documents presented to the Parliament, besides the Finance Minister’s Budget Speech, is given below:<br>A. Annual Financial Statement (AFS)<br>B. Demands for Grants (DG)<br>C. Finance Bill<br>D. Fiscal Policy Statements mandated under Fiscal Responsibility and Budget Management (FRBM) Act, 2003<br>i. Macro-Economic Framework Statement<br>ii. Medium-Term Fiscal Policy cum Fiscal Policy Strategy Statement<br>E. Expenditure Budget<br>F. Receipt Budget<br>G. Expenditure Profile<br>H. Budget at a Glance<br>I. Memorandum Explaining the Provisions in the Finance Bill<br>J. Output Outcome Monitoring Framework<br>K. Key Features of Budget 2025-26<br>L. Implementation of Budget Announcements 2024-25<br><br><b>Options I and III are correct:</b> These are mandated under the Fiscal Responsibility and Budget Management (FRBM) Act, 2003.<br><br><b>Option II is incorrect:</b> Medium-term Expenditure Framework Statement was introduced through the FRBM (Amendment) Rules, 2012. Also, it is not among the mandatory documents submitted along with the Annual financial statement in the same session, as mandated under the FRBM act, 2003. As per clause (1B) of the Act, The Central Government shall lay the Medium-term Expenditure Framework Statement referred to in clause (d) of sub-section (1) before both Houses of Parliament, immediately following the session of Parliament in which the policy statements referred to in clauses (a) to (c) were laid under sub-section (1)."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budgetary Economics",
-
-    "question": "Consider the following major reforms/events in the evolution of Independent India’s Budgetary process and arrange them in the correct chronological order:<br>I. Introduction of Gender Budgeting in the Union Budget.<br>II. Introduction of first paperless (digital) Union Budget.<br>III. Merger of the Railway Budget with the Union Budget.<br>Select the correct answer using the code given below:",
-
-    "options": [
-
-      "I – II – III",
-
-      "I – III – II",
-
-      "II – I – III",
-
-      "III – II – I"
-
-    ],
-
-    "answer": 1,
-
-    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option I:</b> Gender Budgeting was formally introduced in the Union Budget 2005–06 when the Ministry of Finance included the Gender Budget Statement for the first time. Its objective was to assess how budgetary allocations impact women and promote gender-responsive planning.<br><br><b>Option III:</b> In Union Budget 2017-18, the Government of India advanced the Union Budget date from the last working day of February to 1st February, and in the same year the Rail Budget was also merged with the General Budget.<br><br><b>Option II:</b> The government's annual financial statement was presented in digital format for the first time on February 1, 2021, due to the Covid-19 pandemic. This was done through the Union Budget Mobile App, on which anyone can obtain budget-related information on their smartphone.<br><br>Thus, the chronological sequence is: Gender Budgeting (2005–06) → Merger of the Rail Budget with the Union Budget (2017-18) → First Paperless (digital) Union Budget (2021-22). Therefore, the correct answer is I – III – II."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budgetary Economics",
-
-    "question": "If over successive years the difference between the Fiscal Deficit and the Primary Deficit keeps widening, it most appropriately reflects:",
-
-    "options": [
-
-      "a decline in the government’s overall interest payment obligations",
-
-      "a rising burden of government’s interest payments on past debt",
-
-      "a contraction in government’s revenue expenditure relative to capital expenditure",
-
-      "an increase in the government’s non-debt capital receipts over the years"
-
-    ],
-
-    "answer": 1,
-
-    "explanation": "<b>Correct Answer: (b)</b><br><br>Fiscal Deficit refers to the total borrowing requirement of the government in a financial year. It includes all government expenditures, including the interest payments on past debt. It is the difference between the government’s total expenditure and its total receipts excluding borrowing.<br><br>Primary Deficit is the difference between the current year’s fiscal deficit and the interest paid on the borrowings of the previous years. It reflects the fiscal stance of the government without the burden of past loans.<br>Primary Deficit = Fiscal Deficit – Interest Payments<br>Thus, Interest payments = Fiscal Deficit – Primary Deficit.<br><br>If over successive years the difference between the fiscal deficit and the primary deficit keeps increasing, it means:<br>1. Interest payments are rising faster than other components of the deficit.<br>2. A larger portion of the government’s fiscal deficit is now being used just to service past loans, not for new development spending.<br>3. This signals a growing debt burden and increasing pressure on the government’s finances.<br><br>Therefore, the widening gap most appropriately reflects a rising burden of interest payments on past debt."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budgetary Economics",
-
-    "question": "Consider the following statements:<br>I. Capital receipts create a liability or cause a reduction in the assets of the Government.<br>II. Borrowings and disinvestment are capital receipts.<br>III. Interest received on loans creates a liability of the Government.<br>Which of the statements given above are correct?",
-
-    "options": [
-
-      "I and II only",
-
-      "II and III only",
-
-      "I and III only",
-
-      "I, II and III"
-
-    ],
-
-    "answer": 0,
-
-    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> Capital receipts are those receipts of the government which create liability or reduce financial assets.<br><br><b>Statement II is correct:</b> Borrowings—such as loans from the RBI, foreign governments, or through the issuance of government securities—and disinvestment, which entails selling the government’s stake in public sector enterprises, are categorized as capital receipts.<br><br><b>Statement III is incorrect:</b> Interest received on loans given by the Central government to the states or other countries is classified as a revenue receipt since it represents income for the government and does not result in any liability."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budgetary Economics",
-
-    "question": "In the context of India, consider the following types of deficits:<br>I. Fiscal Deficit<br>II. Revenue Deficit<br>III. Primary Deficit<br>IV. Effective Revenue Deficit<br>V. Effective Capital Deficit<br>VI. Monetised Deficit<br>Presently, how many of the above types of deficits are calculated and presented in the Union Budget?",
-
-    "options": [
-
-      "Only three",
-
-      "Only four",
-
-      "Only five",
-
-      "All the six"
-
-    ],
-
-    "answer": 1,
-
-    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Options I, II, III and IV are correct and Options V and VI are incorrect:</b> The Union Budget document explicitly mentions the Fiscal Deficit, Revenue Deficit, Primary Deficit and Effective Revenue Deficit but there is no mention of Effective Capital Deficit (rather the Effective Capital Expenditure is mentioned in the Budget) and Monetised Deficit."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Fiscal Policy",
-
-    "question": "If the Government of India chooses to implement a counter-cyclical fiscal policy when the Indian economy is undergoing a recession, which of the following measures is it most likely to undertake?<br>I. Increased spending on social programmes<br>II. Reduction of income tax<br>III. Increasing the investment in infrastructure sector<br>IV. Selling of government securities in market<br>Select the correct answer using the code given below:",
-
-    "options": [
-
-      "I and II only",
-
-      "I, II and IV",
-
-      "III and IV only",
 
       "I, II and III"
 
@@ -334,33 +48,7 @@
 
     "answer": 3,
 
-    "explanation": "<b>Correct Answer: (d)</b><br><br>If the government follows an anti-cyclical (i.e., countercyclical) fiscal stance during the recession in the Indian economy, the government increases its expenditure and reduces the tax burden of the people to put more money in hands of people and boosting demand in the economy.<br><br><b>Option I is correct:</b> Increased government spending on social programmes is part of a counter-cyclical fiscal policy during periods of slowdown or recession as it raises household income, thereby stimulating aggregate demand, which in turn contributes to higher economic growth.<br><br><b>Option II is correct:</b> A reduction in income tax is a feature of a counter-cyclical fiscal policy during periods of recession as it increases the disposable income of individuals, thereby boosting consumption demand and supporting higher economic growth.<br><br><b>Option III is correct:</b> An increase in the investment in the infrastructure sector is considered a counter-cyclical fiscal policy measure during a recession as it leads to increase in the overall government spending and therefore supports aggregate demand and economic growth.<br><br><b>Option IV is incorrect:</b> Selling government securities is not a counter-cyclical fiscal policy during a recession as it withdraws liquidity from the economy, resulting in a contractionary impact probably and deepening the recession situation in the economy."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budgetary Economics",
-
-    "question": "Consider the following expenditures made by the Government of India:<br>I. Loan given to state government for constructing a river bridge.<br>II. Interest payment on loans taken from the World Bank.<br>III. Acquisition of shares in Public Sector Undertakings (PSUs).<br>IV. Repayment of the principal amount of past loans taken from foreign institutions.<br>Expenditure used for how many of the above purposes is classified as 'Capital Expenditure' in the Union Budget?",
-
-    "options": [
-
-      "Only one",
-
-      "Only two",
-
-      "Only three",
-
-      "All the four"
-
-    ],
-
-    "answer": 2,
-
-    "explanation": "<b>Correct Answer: (c)</b><br><br>Capital expenditures are expenditures of the government which result in creation of physical or financial assets or reduction in financial liabilities. In contrast, revenue expenditure are those expenditures which do not create any assets. These are the expenditures incurred for the routine, usual and normal day to day running of the government.<br><br><b>Option I is correct:</b> When the Central Government gives a loan to a state government, it creates a financial asset for the Central Government. Therefore, it is considered as a capital expenditure.<br><br><b>Option II is incorrect:</b> Interest payment is a recurring expense. It does not reduce the principal loan nor create any asset. Therefore, interest payments are considered as revenue expenditure.<br><br><b>Option III is correct:</b> When the government buys shares in Public Sector Undertakings (PSUs) it acquires a financial asset. Therefore it falls under the capital expenditure of the budget.<br><br><b>Option IV is correct:</b> Repaying the principal amount of a loan results in the reduction in a financial liability for the government. Therefore it is classified as capital expenditure in the budget."
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Given Data:<br>Revenue Expenditure = ₹1,10,000 crores<br>Revenue Receipts = ₹90,000 crores<br>Government Borrowings (Fiscal Deficit) = ₹60,000 crores<br>Interest Payments = ₹50,000 crores<br><br><b>Statement I is correct:</b> Revenue Deficit shows the shortfall of revenue receipts compared to revenue expenditure. It means the government is not even able to cover its regular, day-to-day expenses with its revenue income.<br>Formula: Revenue Deficit = Revenue Expenditure – Revenue Receipts<br>Calculation: ₹1,10,000 crore – ₹90,000 crore = ₹20,000 crore<br><br><b>Statement II is correct:</b> Fiscal Deficit is the total borrowing requirement of the government. It shows the gap between what the government plans to spend and what it earns through non-borrowed sources like taxes and other income.<br>Formula: Fiscal Deficit = Total Expenditure – Total Receipts (excluding borrowings)<br>Calculation: Borrowings are given directly as ₹60,000 crore. After using up all its income (except borrowings), the remaining shortfall of ₹60,000 crore is being met entirely through borrowings. Therefore, the fiscal deficit is ₹60,000 crore.<br><br><b>Statement III is correct:</b> Primary Deficit shows the fiscal deficit after removing interest payments. It helps understand the borrowing done for purposes other than interest payments.<br>Formula: Primary Deficit = Fiscal Deficit – Interest Payments<br>Calculation: ₹60,000 crore – ₹50,000 crore = ₹10,000 crore."
 
   },
 
@@ -370,7 +58,111 @@
 
     "topic": "Fiscal Policy",
 
-    "question": "A decrease in tax to GDP ratio of a country indicates which of the following?<br>1. Slowing economic growth rate.<br>2. Less equitable distribution of national income.<br>Select the correct answer using the codes given below.",
+    "question": "Match List I with List II and select the correct answer using the code given below the Lists:<br>List I (Committee)<br>A. Rangarajan Committee<br>B. Narsimhan Committee<br>C. Kelkar Committee<br>D. Malhotra Committee<br>List II (Subject)<br>1. Tax Reform<br>2. Insurance Reform<br>3. Disinvestment of shares in PSEs<br>4. Banking Sector Reform<br>Codes: A B C D",
+
+    "options": [
+
+      "2 1 4 3",
+
+      "2 4 1 3",
+
+      "3 4 1 2",
+
+      "3 1 4 2"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The correct pairs are:<br>A - 3: Rangarajan Committee - Disinvestment of shares in PSEs<br>B - 4: Narasimhan committee - Banking Sector Reform<br>C - 1: Kelkar Committee - Tax Reform<br>D - 2: Malhotra Committee - Insurance Reform"
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Public Finance in India",
+
+    "question": "Which one of the following is likely to be the most inflationary in its effects?",
+
+    "options": [
+
+      "Repayment of public debt",
+
+      "Borrowing from the public to finance budget deficit",
+
+      "Borrowing from the banks to finance a budget deficit",
+
+      "Creation of new money to finance a budget deficit"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Deficit financing means generating funds to finance the deficit which results from excess expenditure over revenue. The gap is being covered by borrowing from the public by the sale of bonds or by printing new money. Government expenditure by printing money boosts incomes and raises private demand in the economy. Thus, it fuels inflation. A little increase in inflation is healthy as it encourages business activity, but excessive new money creation floods the market and creates high inflation, leading to macroeconomic instability."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Budgetary Economics",
+
+    "question": "This type of budgeting involves a method of budget preparation in which no expenditure is assumed to be pre-sanctioned. Instead, each department must justify every amount it requests. It is intended to eliminate outdated schemes and promote the efficient allocation of resources.<br>Which one of the following types of budget is being described above?",
+
+    "options": [
+
+      "Outcome Budget",
+
+      "Performance Budget",
+
+      "Zero-Based Budget",
+
+      "Gender Budget"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option a is incorrect:</b> Outcome Budget focuses on the results or outcomes achieved from the money spent. Under it, the emphasis is on whether the allocated funds are delivering the intended social or economic impact.<br><br><b>Option b is incorrect:</b> The Performance Budget measures the efficiency of public spending. It focuses on comparing the targets set for a department or scheme with the actual physical achievements.<br><br><b>Option c is correct:</b> Zero-Based Budgeting (ZBB) is a system where every department must justify its entire budget from scratch, without assuming that last year’s expenditure is the base. The budgeting process starts from zero, and every activity is evaluated based on its current relevance, cost-effectiveness, and alignment with government priorities.<br><br><b>Option d is incorrect:</b> Gender Budgeting approach aims to ensure gender equity in the allocation of public resources."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Fiscal Policy",
+
+    "question": "Consider the following statements:<br>Statement I: Fiscal drag may reduce the overall demand in an economy.<br>Statement II: A progressive tax system may result in higher tax liability as income of individuals increases.<br>Which of the above is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>In any economy, the way taxation is structured can affect people's ability to spend. A progressive tax system, where tax rates increase with income, is designed to ensure fairness. However, if tax slabs are not updated regularly in line with inflation or income growth, a situation called fiscal drag can occur.<br><br><b>Statement I is correct:</b> Fiscal drag happens when rising incomes push individuals into higher tax brackets, but the tax structure does not adjust in time. As a result, people pay a larger portion of their income as tax, and their disposable income increases more slowly than their earnings, leading to a decline in consumption and overall demand in the economy.<br><br><b>Statement II is correct:</b> In a progressive tax system, tax rates rise as income increases. As a result, inflation-induced increases in nominal income can push individuals into higher tax brackets and increase their tax liability.<br><br><b>Statement II explains Statement I:</b> Fiscal drag is a direct outcome of the progressive tax system. When people move into higher tax slabs without any real increase in their standard of living, their disposable income remains less. This affects their ability to spend more, which in turn reduces demand in the economy."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Fiscal Policy",
+
+    "question": "With reference to the Indian economy, consider the following statements:<br>1. A share of the household financial savings goes towards government borrowings.<br>2. Dated securities issued at market-related rates in auctions form a large component of internal debt.<br>Which of the above statements is/are correct?",
 
     "options": [
 
@@ -384,35 +176,9 @@
 
     ],
 
-    "answer": 0,
+    "answer": 2,
 
-    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement 1 is correct and Statement 2 is incorrect.</b> Tax to GDP ratio compares the amount of taxes collected by a government to the amount of income that country receives for its products. A decrease in tax to GDP ratio of a country indicates a slowing economic growth. When tax revenues grow at a slower rate than the GDP of a country, the tax-to GDP ratio drops. A decrease in tax to GDP ratio does not translate to a less equitable distribution of national income."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budgetary Economics",
-
-    "question": "Which of the following departments of the Central Government is responsible for preparation of and submission to Parliament, Annual Budget as well as Supplementary and Excess Demands for Grants of the Central Government?",
-
-    "options": [
-
-      "Department of Revenue",
-
-      "Department of Economic Affairs",
-
-      "Department of Financial Services",
-
-      "Department of Expenditure"
-
-    ],
-
-    "answer": 1,
-
-    "explanation": "<b>Correct Answer: (b)</b><br><br>Budget Division under the Department of Economic Affairs, which is a part of the Ministry of Finance, is responsible for preparation of and submission to Parliament, Annual Budget as well as Supplementary and Excess Demands for Grants of the Central Government and of States and UTs under President’s Rule."
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement 1 is correct:</b> Gross financial savings of households include money saved in banks, provident funds, pension schemes, shares, insurance and in the form of currency. These savings form the pool of domestic finance for investments which are crucial to job creation. Any adverse movement in the household savings will have a significant bearing on banks, insurance companies and mutual/provident funds, who, in turn, are key investors in government securities.<br><br><b>Statement 2 is correct:</b> Internal debt constitutes over 94 per cent of the overall public debt. Internal loans that make up for the bulk of public debt are further divided into two broad categories – marketable and non-marketable debt. The sources of marketable public debt are dated government securities (G-Secs), treasury bills, external assistance, and short-term borrowings."
 
   },
 
@@ -420,77 +186,25 @@
 
     "section": "Economy",
 
-    "topic": "Fiscal Policy",
+    "topic": "Union Budget 2025-26",
 
-    "question": "With reference to Indian economy, consider the following tools of fiscal policy:<br>I. Proportional taxation<br>II. Fiscal stimulus packages<br>III. Food subsidies<br>How many of the above function as automatic stabilisers in an economy?",
-
-    "options": [
-
-      "Only one",
-
-      "Only two",
-
-      "All the three",
-
-      "None"
-
-    ],
-
-    "answer": 1,
-
-    "explanation": "<b>Correct Answer: (b)</b><br><br>Automatic stabilisers are fiscal tools that work on their own, without any deliberate government action, to reduce fluctuations in GDP. They help stabilise the economy by increasing spending during recessions and reducing excess demand during booms.<br><br><b>Statement I is correct:</b> Under proportional taxation, the government collects a fixed fraction of people’s income as tax. Proportional taxes help stabilise the economy by making disposable income and consumer spending less affected by changes in GDP. When GDP rises, people earn more, but part of that extra income automatically goes as taxes, so consumption doesn’t increase too sharply. During a recession, when incomes fall, tax payments also fall automatically, so people still retain some income.<br><br><b>Statement II is incorrect:</b> A fiscal stimulus package usually means a deliberate increase in government spending by the government to fight a slowdown or recession. This requires active policy decisions by the government and does not switch on and off automatically with changes in GDP.<br><br><b>Statement III is correct:</b> Food subsidies such as food security programs increase support when incomes fall. During recessions more people qualify for subsidised food, which helps stabilise consumption and prevents a sharp decline in aggregate demand. During boom fewer people rely on subsidies, reducing government spending automatically. Since this adjustment happens without any government intervention, food subsidies act as automatic stabilisers."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Fiscal Policy",
-
-    "question": "The ‘Golden Rule of Public Finance’ is often referred to by economists during budget discussions. In this context, what does this rule signify?",
+    "question": "As per the Union Budget 2025-26, arrange the following taxes in ascending order, based on the relative contribution of these taxes to the Union Government’s gross tax revenue in the Budget estimates of 2025-26:<br>I. Corporation Tax<br>II. Taxes on Income<br>III. Union Excise Duty<br>Select the correct order using the codes below.",
 
     "options": [
 
-      "The government must ensure that its total revenue receipts always exceed its total revenue expenditure.",
+      "I-II-III",
 
-      "The government must always keep the fiscal deficit below 3% of Gross Domestic Product.",
+      "I-III-II",
 
-      "The government should prioritize its borrowing to finance only Revenue Deficits.",
+      "III-II-I",
 
-      "The amount of money borrowed by the government must be used for capital formation."
+      "III-I-II"
 
     ],
 
     "answer": 3,
 
-    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Option a is incorrect:</b> When total revenue exceeds total expenditure, it is known as budget surplus. The golden rule does not talk about the budget to be always in surplus, rather it specifies how borrowed money should be used.<br><br><b>Option b is incorrect:</b> The golden rule does not specify a limit on fiscal deficit. Instead, it focuses on the quality of expenditure. The 3% fiscal deficit limit comes from the FRBM Act (Fiscal Responsibility and Budget Management Act), 2003, and is not related to the golden rule.<br><br><b>Option c is incorrect:</b> Revenue deficit arises when revenue expenditure (salaries, subsidies, interest payments, etc.) exceeds revenue receipts. Using borrowed money for such expenses is considered fiscally unhealthy because it does not create any future returns. The Golden Rule explicitly discourages this kind of expenditure from borrowed money.<br><br><b>Option d is correct:</b> The golden rule stipulates that over the economic cycle, the government should borrow only to invest and not to fund current spending. In essence, whatever the government borrows, it must use it for productive investments like infrastructure, hospitals, or R&D. These investments are productive assets that generate future income or benefits. More specifically, the golden rule requires the budget to be in balance or surplus over the economic cycle."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Public Finance in India",
-
-    "question": "Which one of the following situations best reflects the term “Indirect Transfers” often talked about in the media with reference to India?",
-
-    "options": [
-
-      "An Indian company investing in a foreign enterprise and paying taxes to the foreign country on the profits arising out of its investment.",
-
-      "A foreign company investing in India and paying taxes to the country of its base on the profits arising out of its investment.",
-
-      "An Indian company purchases tangible assets in a foreign country and sells such assets after their value increases and transfers the proceeds to India.",
-
-      "A foreign company transfers shares and such shares derive their substantial value from assets located in India."
-
-    ],
-
-    "answer": 3,
-
-    "explanation": "<b>Correct Answer: (d)</b><br><br>Indirect transfers refer to situations where foreign entities own shares or assets in India, when the shares of such foreign entities are transferred and if such shares or interest derive a substantial value from assets located in India. Then such transfer is commonly referred to as Indirect transfers.<br><br>The amendments made in the ITA in 2012 clarified that if a company is registered or incorporated outside India, its shares will be deemed to be or have always been situated in India if they derive their value substantially from the assets located in India. As a result, the persons who sold such shares of foreign companies before the enactment of the Act (i.e., May 28, 2012) also became liable to pay tax on the income earned from such sale."
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Tax revenue is one of the most important sources of income for the Union Government. It includes both direct taxes such as Income Tax and Corporation Tax and indirect taxes such as GST and Union Excise Duty. The correct order of taxes from low to high is - Union excise duty (III) < Corporation tax (I) < Taxes on Income (II).<br><br><b>Option I:</b> Corporation tax is the direct tax levied on the income of Companies under the Income-tax Act, 1961. For 2025–26, the Budget Estimates (BE) for Corporation Tax is ₹10,82,000 crore.<br><br><b>Option II:</b> Taxes on Income is a direct tax on the income of individuals, firms etc. other than Companies. For 2025–26, the Budget Estimates (BE) for Taxes on Income is ₹14,38,000 crore, which is the highest among all major tax heads.<br><br><b>Option III:</b> Union Excise Duties contribution is significantly lower in comparison to Income Tax and Corporation Tax."
 
   },
 
@@ -500,23 +214,23 @@
 
     "topic": "Budget 2025-26",
 
-    "question": "With reference to revised classification of Micro, Small and Medium Enterprises in India (effective from 1st April 2025), consider the following statements:<br>I. An enterprise with Investment in Plant & Machinery of ₹1.5 crore and Annual Turnover of ₹8 crore.<br>II. An enterprise with Investment in Plant & Machinery of ₹4 crore and Annual Turnover of ₹8 crore.<br>III. An enterprise with Investment in Plant & Machinery of ₹1.8 crore and Annual Turnover of ₹12 crore.<br>How many of the above enterprises can be classified as a Micro Enterprise as per the revised official definition?",
+    "question": "With reference to the Union Budget 2025-26, consider the following statements:<br>I. India’s fiscal deficit as a percentage of GDP has steadily declined since Financial Year 2021–22.<br>II. Short term borrowing as a source of deficit financing has steadily declined over the past five years.<br>Which of the statements given above is/are incorrect?",
 
     "options": [
 
-      "Only one",
+      "I only",
 
-      "Only two",
+      "II only",
 
-      "All the three",
+      "Both I and II",
 
-      "None"
+      "Neither I nor II"
 
     ],
 
-    "answer": 0,
+    "answer": 1,
 
-    "explanation": "<b>Correct Answer: (a)</b><br><br>From April 1, 2025, the government has raised both investment and turnover limits for classifying MSMEs so that more units can benefit from the MSME framework and grow without quickly losing their status. For micro enterprises, the investment ceiling in plant and machinery or equipment has been raised from ₹1 crore to ₹2.5 crore, and the turnover limit has been increased from ₹5 crore to ₹10 crore.<br><br><b>Statement I is correct:</b> The enterprise with investment of ₹1.5 crore and annual turnover of ₹8 crore falls in the Micro category.<br><br><b>Statement II is incorrect:</b> The enterprise with investment of ₹4 crore does not qualify as a Micro Enterprise and would be classified as a Small Enterprise. The investment threshold for a Micro Enterprise is ₹2.5 crore. Since this enterprise's Investment is greater than the ₹2.5 crore limit, it falls under the Small Enterprise category.<br><br><b>Statement III is incorrect:</b> The enterprise with turnover of ₹12 crore does not qualify as a Micro Enterprise and would be classified as a Small Enterprise. The turnover threshold for a Micro Enterprise is ₹10 crore. Since this enterprise's Annual Turnover is greater than the ₹10 crore limit, it falls under the Small Enterprise category."
+    "explanation": "<b>Correct Answer: (b)</b><br><br>A fiscal deficit occurs when the government’s total expenditure exceeds its total revenue (excluding borrowings).<br><br><b>Statement I is correct:</b> The fiscal deficit peaked in 2020–21 at 9.2% of GDP due to COVID-19. After FY 2021–22, the fiscal deficit has consistently fallen year after year moving from above 6.7% (2021-22) to 6.4% (2022-23) to 5.6% and 4.8% in 2023-24 and 2024-25 respectively. The Budget Estimate (BE) target of 2025–26 is 4.4%.<br><br><b>Statement II is incorrect:</b> Short term borrowings (Treasury Bills, etc.) are funds borrowed for less than one year to meet immediate financing needs. The short-term borrowings do not show a steady decline over the five years starting from 2021-22. Short term borrowing as percentage of Fiscal deficit was 0.8% in 2021-22 which increased to 1.1% in 2022-23, and again declined to 0.5% in 2023-24."
 
   },
 
@@ -526,127 +240,23 @@
 
     "topic": "Public Finance in India",
 
-    "question": "Consider the following statements:<br>Statement I: Fiscal Responsibility and Budget Management Act 2003 provides for the responsibility of the Central Government to ensure inter-generational equity in fiscal management.<br>Statement II: As per the Ricardian Equivalence, the government borrowings today will come at lesser cost than future borrowings to stimulate aggregate demand in the economy.<br>Which one of the following is correct in respect of the above statements?",
+    "question": "With reference to financing models, which of the following best describes the concept of ‘Mezzanine Financing’?",
 
     "options": [
 
-      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+      "A hybrid source of capital that is partly debt and partly equity.",
 
-      "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+      "A short-term stopgap loan taken until long-term funds are secured.",
 
-      "Statement I is correct but Statement II is not correct",
+      "Money invested in a business in return for ownership share.",
 
-      "Statement I is not correct but Statement II is correct"
-
-    ],
-
-    "answer": 2,
-
-    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> The Fiscal Responsibility and Budget Management Act, 2003, is an Act to provide for the responsibility of the Central Government to ensure inter-generational equity in fiscal management and long-term macro-economic stability by removing fiscal impediments in the effective conduct of monetary policy and prudential debt management consistent with fiscal sustainability through limits on the Central Government borrowings, debt and deficits, greater transparency in fiscal operations of the Central Government and conducting fiscal policy in a medium-term framework. It set targets for the phased reduction of the fiscal deficit to 3% of the GDP and the debt of the central government to 40% of GDP thereby reducing debt to a sustainable level over a medium term so as to ensure inter-generational equity in fiscal management and long term macro-economic stability.<br><br><b>Statement II is incorrect:</b> Ricardian Equivalence claims that when governments finance expenditures through debt rather than immediate taxation, rational consumers anticipate future tax increases. Consequently, they increase their savings to offset the future tax burden, rendering fiscal stimulus ineffective. As per Ricardian Equivalence method by which a government finances its spending—whether through taxes today or debt that necessitates higher taxes tomorrow—has no net effect on overall demand within the economy."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Fiscal Policy",
-
-    "question": "With reference to Indian economy, consider the following goods:<br>I. Street lighting<br>II. Rice given in Public Distribution System<br>III. Policing/Police Services<br>IV. Medicines sold at a chemist shop<br>V. Flood Control<br>How many of the above can be considered as the Public good in India?",
-
-    "options": [
-
-      "Only two",
-
-      "Only three",
-
-      "Only four",
-
-      "All five"
-
-    ],
-
-    "answer": 1,
-
-    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Options I, III and V are correct:</b> Goods can be classified on the basis of ownership into public goods and private goods. Public goods are owned and enjoyed collectively by society and are available to all people without discrimination. They possess two essential characteristics: non-rivalry, meaning that consumption by one person does not reduce the availability of the good for others, and non-excludability, meaning that no one can be prevented from accessing or enjoying the good. The examples for public goods that exhibit these characteristics include: Defence, Police, Street-light, Flood Control, roads, bridges, park, town hall etc.<br><br><b>Option II and IV are incorrect:</b> Rice distributed through the Public Distribution System (PDS) is excludable, as only eligible beneficiaries with ration cards can access it and cannot be considered as the public good. Further Medicine is not considered as the public good as it does not fulfil both the characteristics. Medicines are not public goods because they are both rivalrous as consumption by one reduces availability for others and excludable as can be restricted by pricing and access."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Public Finance in India",
-
-    "question": "Consider the following:<br>1. Demographic performance<br>2. Forest and ecology<br>3. Governance reforms<br>4. Stable government<br>5. Tax and fiscal efforts<br>For the horizontal tax devolution, the Fifteenth Finance Commission used how many of the above as criteria other than population, area and income distance?",
-
-    "options": [
-
-      "Only two",
-
-      "Only three",
-
-      "Only four",
-
-      "All five"
-
-    ],
-
-    "answer": 1,
-
-    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option 1 is correct:</b> Demographic performance refers to the assessment of population-related factors such as population growth rate, demographic composition, and demographic changes over time. The Commission used 2011 population data for its recommendations. States with a lower fertility ratio will be scored higher on this criterion. The 15th Finance Commission suggested 12.5% weightage to the Demographic performance.<br><br><b>Option 2 is correct:</b> Forest and ecology refer to the assessment of environmental factors, including the preservation and conservation of forests, biodiversity, and ecological balance. This criterion has been determined by calculating the proportion of dense forest within each state relative to the total dense forest across all states. The 15th Finance Commission suggested 10% weightage to the Forest and Ecology.<br><br><b>Option 3 is incorrect:</b> Governance reforms encompass various measures aimed at improving the efficiency, transparency, and effectiveness of government operations and public service delivery. This criterion was not considered by the Fifteenth Finance Commission as one of the criteria for horizontal tax devolution.<br><br><b>Option 4 is incorrect:</b> Stable government refers to the political stability and continuity of government institutions. While stability in government can be a desirable factor, it was not explicitly mentioned as a criterion for horizontal tax devolution by the Fifteenth Finance Commission.<br><br><b>Option 5 is correct:</b> Tax and fiscal efforts involve the assessment of a state’s efforts in tax collection and fiscal management. This criterion has been employed to incentivize states with better efficiency in tax collection. It is determined by the ratio of the average per capita own tax revenue to the average per capita state GDP over a three-year period from 2016-17 to 2018-19. The 15th Finance Commission suggested 2.5% weightage to the Tax and fiscal efforts."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Fiscal Policy",
-
-    "question": "Which of the following are considered as the objectives of the fiscal policy of Government of India?<br>I. Ensuring distribution of free goods<br>II. Redistribution of income and reducing economic inequality<br>III. Stabilizing the level of aggregate demand in economy<br>Select the correct answer using the code given below:",
-
-    "options": [
-
-      "I, II and III",
-
-      "II and III only",
-
-      "I and III only",
-
-      "I and II only"
-
-    ],
-
-    "answer": 1,
-
-    "explanation": "<b>Correct Answer: (b)</b><br><br>The government plays a crucial role in enhancing the welfare of the people. To achieve this, it formulates a fiscal policy every year with specific objectives.<br><br><b>Option I is incorrect:</b> Allocation of public goods (not free goods) to all the people is one of the key objectives of Fiscal policy of Government of India by providing certain goods and services which cannot be provided by the market mechanism in the Indian economy. Examples of such goods are national defence, roads, government administration etc. Free goods which are different from public goods, it refers to the goods that are available in abundance without any cost or human effort. Example: Sunshine.<br><br><b>Option II is correct:</b> Redistribution of income and reducing economic inequality is one of the key objectives of the fiscal policy of the Government of India. Under this function, the government collects taxes from firms and households and redistributes the revenue to poorer sections of society in the form of government transfers, welfare programmes, and social security schemes. Taxation and income transfers to the poorest segment of society are the most direct way to keep inequality in check and reduce poverty in the short term.<br><br><b>Option III is correct:</b> The overall level of employment and prices in an economy depends on the level of aggregate demand, which in turn is influenced by the spending decisions of millions of private economic agents along with government expenditure. As part of fiscal policy, the government intervenes to stabilise aggregate demand in order to correct fluctuations in income, output and employment. For eg., recent rationalisation of GST rates."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budgetary Economics",
-
-    "question": "With reference to Union Budget, consider the following statements about Grant in aids:<br>Statement I: Grants-in-aid from foreign countries and international organisations are considered as revenue receipts of Government of India.<br>Statement II: Grants-in-aid do not create any repayment liability or future claim on the Government of India.<br>Which one of the following is correct in respect of the above statements?",
-
-    "options": [
-
-      "Both Statement I and Statement II are correct and Statement II explains Statement I",
-
-      "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
-
-      "Statement I is correct but Statement II is not correct",
-
-      "Statement I is not correct but Statement II is correct"
+      "A type of no collateral loan given mainly to high growth firms."
 
     ],
 
     "answer": 0,
 
-    "explanation": "<b>Correct Answer: (a)</b><br><br>A budget is a financial statement that contains the government’s receipts and expenditure for a particular financial year. The Union Budget is divided into two major parts: the Revenue Account and Capital Account with various items listed under each based on their nature.<br><br><b>Statement I is correct:</b> Revenue receipts are those receipts that do not lead to a claim on the government and are non-redeemable. They are divided into tax and non-tax revenues. Grants-in-aid from foreign countries and international organisations is classified as the non-tax revenue under Revenue receipts of the union budget.<br><br><b>Statement II is correct:</b> Unlike loans, grants-in-aid received from foreign countries and international organisations do not create any repayment liability for the government and do not give rise to any future claim on government.<br><br>Grants-in-aid from foreign countries and international organisations are considered as the revenue receipts under the Union Budget as it does not create any repayment liability and claim on the government. Hence <b>Both Statement I and Statement II are correct and Statement II explains Statement I</b>."
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Option a is correct:</b> Mezzanine financing is a hybrid source of capital that combines features of both debt and equity, positioned between senior loans and equity in repayment priority. It usually carries higher returns and may include equity-linked features such as warrants or conversion rights.<br><br><b>Option b is incorrect:</b> A short-term stopgap loan taken until long-term funding is arranged is commonly known as bridge financing.<br><br><b>Option c is incorrect:</b> Pure equity financing is where investors receive ownership of shares and voting rights in return for capital.<br><br><b>Option d is incorrect:</b> Loans extended to high-growth firms without substantial collateral are similar to venture debt."
 
   },
 
@@ -654,129 +264,51 @@
 
     "section": "Economy",
 
-    "topic": "Budgetary Economics",
+    "topic": "Budget 2025-26",
 
-    "question": "Which of the following documents are presented besides the Finance Minister’s Budget Speech, in the same session of Parliament in which the Budget is laid down before Parliament?<br>I. Medium-Term Fiscal Policy cum Fiscal Policy Strategy Statement<br>II. Medium-term Expenditure Framework Statement<br>III. Macroeconomic Framework Statement<br>Select the correct answer using the code given below:",
+    "question": "As per the Union Budget 2025-26, arrange the following expenditures of Union government in descending order, based on their share in total expenditure of Union Government in the Budget estimates of 2025-26:<br>I. Interest Payments<br>II. Defence expenditure<br>III. Pensions<br>Select the correct order using the codes below.",
 
     "options": [
 
-      "I and II only",
+      "II - I -III",
 
-      "II and III only",
+      "I - II - III",
 
-      "I and III only",
+      "III - II -I",
 
-      "I, II and III"
+      "I - III -II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Government expenditure in the Union Budget is divided across several major heads. The correct order of government expenditure from high to low is - Interest payments (I) > Defence expenditure (II) > Pension expenditure (III).<br><br><b>Option I:</b> Interest payments represent the cost of servicing past loans taken by the Government. For 2025-26, interest payments are estimated at ₹12,76,338 crore, which is 20% of total expenditure.<br><br><b>Option II:</b> Defence expenditure covers salaries, operations, maintenance, and capital outlay of the armed forces. The Defence expenditure for 2025-26 accounts for around 8% of total spending.<br><br><b>Option III:</b> Pension expenditure includes payments to retired Central Government employees, defence pensioners, and family pensions. For 2025-26, pensions are estimated at roughly 4% of total expenditure."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Budget 2025-26",
+
+    "question": "Recently, the Government of India launched the ‘Gyan Bharatam Mission’ under the Digital India programme. In this context, what is its primary objective?",
+
+    "options": [
+
+      "Improve foundational literacy and numeracy among children",
+
+      "Provide digital literacy training to rural artisans",
+
+      "Survey, conserve, and digitise India’s manuscript heritage",
+
+      "To promote scientific research in the field of traditional medicine"
 
     ],
 
     "answer": 2,
 
-    "explanation": "<b>Correct Answer: (c)</b><br><br>The list of Budget documents presented to the Parliament, besides the Finance Minister’s Budget Speech, is given below:<br>A. Annual Financial Statement (AFS)<br>B. Demands for Grants (DG)<br>C. Finance Bill<br>D. Fiscal Policy Statements mandated under Fiscal Responsibility and Budget Management (FRBM) Act, 2003<br>i. Macro-Economic Framework Statement<br>ii. Medium-Term Fiscal Policy cum Fiscal Policy Strategy Statement<br>E. Expenditure Budget<br>F. Receipt Budget<br>G. Expenditure Profile<br>H. Budget at a Glance<br>I. Memorandum Explaining the Provisions in the Finance Bill<br>J. Output Outcome Monitoring Framework<br>K. Key Features of Budget 2025-26<br>L. Implementation of Budget Announcements 2024-25<br><br><b>Options I and III are correct:</b> These are mandated under the Fiscal Responsibility and Budget Management (FRBM) Act, 2003.<br><br><b>Option II is incorrect:</b> Medium-term Expenditure Framework Statement was introduced through the FRBM (Amendment) Rules, 2012. Also, it is not among the mandatory documents submitted along with the Annual financial statement in the same session, as mandated under the FRBM act, 2003. As per clause (1B) of the Act, The Central Government shall lay the Medium-term Expenditure Framework Statement referred to in clause (d) of sub-section (1) before both Houses of Parliament, immediately following the session of Parliament in which the policy statements referred to in clauses (a) to (c) were laid under sub-section (1)."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budgetary Economics",
-
-    "question": "Consider the following major reforms/events in the evolution of Independent India’s Budgetary process and arrange them in the correct chronological order:<br>I. Introduction of Gender Budgeting in the Union Budget.<br>II. Introduction of first paperless (digital) Union Budget.<br>III. Merger of the Railway Budget with the Union Budget.<br>Select the correct answer using the code given below:",
-
-    "options": [
-
-      "I – II – III",
-
-      "I – III – II",
-
-      "II – I – III",
-
-      "III – II – I"
-
-    ],
-
-    "answer": 1,
-
-    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option I:</b> Gender Budgeting was formally introduced in the Union Budget 2005–06 when the Ministry of Finance included the Gender Budget Statement for the first time. Its objective was to assess how budgetary allocations impact women and promote gender-responsive planning.<br><br><b>Option III:</b> In Union Budget 2017-18, the Government of India advanced the Union Budget date from the last working day of February to 1st February, and in the same year the Rail Budget was also merged with the General Budget.<br><br><b>Option II:</b> The government's annual financial statement was presented in digital format for the first time on February 1, 2021, due to the Covid-19 pandemic. This was done through the Union Budget Mobile App, on which anyone can obtain budget-related information on their smartphone.<br><br>Thus, the chronological sequence is: Gender Budgeting (2005–06) → Merger of the Rail Budget with the Union Budget (2017-18) → First Paperless (digital) Union Budget (2021-22). Therefore, the correct answer is I – III – II."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budgetary Economics",
-
-    "question": "If over successive years the difference between the Fiscal Deficit and the Primary Deficit keeps widening, it most appropriately reflects:",
-
-    "options": [
-
-      "a decline in the government’s overall interest payment obligations",
-
-      "a rising burden of government’s interest payments on past debt",
-
-      "a contraction in government’s revenue expenditure relative to capital expenditure",
-
-      "an increase in the government’s non-debt capital receipts over the years"
-
-    ],
-
-    "answer": 1,
-
-    "explanation": "<b>Correct Answer: (b)</b><br><br>Fiscal Deficit refers to the total borrowing requirement of the government in a financial year. It includes all government expenditures, including the interest payments on past debt. It is the difference between the government’s total expenditure and its total receipts excluding borrowing.<br><br>Primary Deficit is the difference between the current year’s fiscal deficit and the interest paid on the borrowings of the previous years. It reflects the fiscal stance of the government without the burden of past loans.<br>Primary Deficit = Fiscal Deficit – Interest Payments<br>Thus, Interest payments = Fiscal Deficit – Primary Deficit.<br><br>If over successive years the difference between the fiscal deficit and the primary deficit keeps increasing, it means:<br>1. Interest payments are rising faster than other components of the deficit.<br>2. A larger portion of the government’s fiscal deficit is now being used just to service past loans, not for new development spending.<br>3. This signals a growing debt burden and increasing pressure on the government’s finances.<br><br>Therefore, the widening gap most appropriately reflects a rising burden of interest payments on past debt."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budgetary Economics",
-
-    "question": "Consider the following statements:<br>I. Capital receipts create a liability or cause a reduction in the assets of the Government.<br>II. Borrowings and disinvestment are capital receipts.<br>III. Interest received on loans creates a liability of the Government.<br>Which of the statements given above are correct?",
-
-    "options": [
-
-      "I and II only",
-
-      "II and III only",
-
-      "I and III only",
-
-      "I, II and III"
-
-    ],
-
-    "answer": 0,
-
-    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> Capital receipts are those receipts of the government which create liability or reduce financial assets.<br><br><b>Statement II is correct:</b> Borrowings—such as loans from the RBI, foreign governments, or through the issuance of government securities—and disinvestment, which entails selling the government’s stake in public sector enterprises, are categorized as capital receipts.<br><br><b>Statement III is incorrect:</b> Interest received on loans given by the Central government to the states or other countries is classified as a revenue receipt since it represents income for the government and does not result in any liability."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budgetary Economics",
-
-    "question": "In the context of India, consider the following types of deficits:<br>I. Fiscal Deficit<br>II. Revenue Deficit<br>III. Primary Deficit<br>IV. Effective Revenue Deficit<br>V. Effective Capital Deficit<br>VI. Monetised Deficit<br>Presently, how many of the above types of deficits are calculated and presented in the Union Budget?",
-
-    "options": [
-
-      "Only three",
-
-      "Only four",
-
-      "Only five",
-
-      "All the six"
-
-    ],
-
-    "answer": 1,
-
-    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Options I, II, III and IV are correct and Options V and VI are incorrect:</b> The Union Budget document explicitly mentions the Fiscal Deficit, Revenue Deficit, Primary Deficit and Effective Revenue Deficit but there is no mention of Effective Capital Deficit (rather the Effective Capital Expenditure is mentioned in the Budget) and Monetised Deficit."
+    "explanation": "<b>Correct Answer: (c)</b><br><br>India has a vast and rich manuscript heritage, covering subjects such as religion, science, mathematics, medicine, and the arts. Most of these manuscripts are scattered across the country and are not accessible for public knowledge or research. The Gyan Bharatam Mission aims to bridge this gap. Launched under the Digital India initiative in the Union Budget 2025–26, the Gyan Bharatam Mission is focused on:<br>1. Surveying manuscript collections across India<br>2. Documenting and conserving them<br>3. Digitising them into a National Digital Repository<br>4. Making them accessible for research, academic use, and public dissemination."
 
   },
 
@@ -786,49 +318,23 @@
 
     "topic": "Fiscal Policy",
 
-    "question": "If the Government of India chooses to implement a counter-cyclical fiscal policy when the Indian economy is undergoing a recession, which of the following measures is it most likely to undertake?<br>I. Increased spending on social programmes<br>II. Reduction of income tax<br>III. Increasing the investment in infrastructure sector<br>IV. Selling of government securities in market<br>Select the correct answer using the code given below:",
+    "question": "Which one of the following effects of creation of black money in India has been the main cause of worry to the Government of India?",
 
     "options": [
 
-      "I and II only",
+      "Diversion of resources to the purchase of real estate and investment in luxury housing",
 
-      "I, II and IV",
+      "Investment in unproductive activities and purchase of precious stones, jewellery, gold, etc.",
 
-      "III and IV only",
+      "Large donations to political parties and growth of regionalism",
 
-      "I, II and III"
+      "Loss of revenue to the State Exchequer due to tax evasion"
 
     ],
 
     "answer": 3,
 
-    "explanation": "<b>Correct Answer: (d)</b><br><br>If the government follows an anti-cyclical (i.e., countercyclical) fiscal stance during the recession in the Indian economy, the government increases its expenditure and reduces the tax burden of the people to put more money in hands of people and boosting demand in the economy.<br><br><b>Option I is correct:</b> Increased government spending on social programmes is part of a counter-cyclical fiscal policy during periods of slowdown or recession as it raises household income, thereby stimulating aggregate demand, which in turn contributes to higher economic growth.<br><br><b>Option II is correct:</b> A reduction in income tax is a feature of a counter-cyclical fiscal policy during periods of recession as it increases the disposable income of individuals, thereby boosting consumption demand and supporting higher economic growth.<br><br><b>Option III is correct:</b> An increase in the investment in the infrastructure sector is considered a counter-cyclical fiscal policy measure during a recession as it leads to increase in the overall government spending and therefore supports aggregate demand and economic growth.<br><br><b>Option IV is incorrect:</b> Selling government securities is not a counter-cyclical fiscal policy during a recession as it withdraws liquidity from the economy, resulting in a contractionary impact probably and deepening the recession situation in the economy."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budgetary Economics",
-
-    "question": "Consider the following expenditures made by the Government of India:<br>I. Loan given to state government for constructing a river bridge.<br>II. Interest payment on loans taken from the World Bank.<br>III. Acquisition of shares in Public Sector Undertakings (PSUs).<br>IV. Repayment of the principal amount of past loans taken from foreign institutions.<br>Expenditure used for how many of the above purposes is classified as 'Capital Expenditure' in the Union Budget?",
-
-    "options": [
-
-      "Only one",
-
-      "Only two",
-
-      "Only three",
-
-      "All the four"
-
-    ],
-
-    "answer": 2,
-
-    "explanation": "<b>Correct Answer: (c)</b><br><br>Capital expenditures are expenditures of the government which result in creation of physical or financial assets or reduction in financial liabilities. In contrast, revenue expenditure are those expenditures which do not create any assets. These are the expenditures incurred for the routine, usual and normal day to day running of the government.<br><br><b>Option I is correct:</b> When the Central Government gives a loan to a state government, it creates a financial asset for the Central Government. Therefore, it is considered as a capital expenditure.<br><br><b>Option II is incorrect:</b> Interest payment is a recurring expense. It does not reduce the principal loan nor create any asset. Therefore, interest payments are considered as revenue expenditure.<br><br><b>Option III is correct:</b> When the government buys shares in Public Sector Undertakings (PSUs) it acquires a financial asset. Therefore it falls under the capital expenditure of the budget.<br><br><b>Option IV is correct:</b> Repaying the principal amount of a loan results in the reduction in a financial liability for the government. Therefore it is classified as capital expenditure in the budget."
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Black money includes all funds earned through illegal activity and otherwise legal income that is not recorded for tax purposes. Black money causes financial leakage, as unreported income that is not taxed causes the government to lose revenue. In addition, these funds rarely enter the banking system. As a result, it can be more difficult for legitimate small businesses and entrepreneurs to obtain loans."
 
   },
 
@@ -838,7 +344,85 @@
 
     "topic": "Fiscal Policy",
 
-    "question": "A decrease in tax to GDP ratio of a country indicates which of the following?<br>1. Slowing economic growth rate.<br>2. Less equitable distribution of national income.<br>Select the correct answer using the codes given below.",
+    "question": "In the context of the Indian economy, which of the following best describes the term ‘Twin Deficit Problem’?<br>The simultaneous occurrence of:",
+
+    "options": [
+
+      "High public debt and High inflation",
+
+      "fiscal deficit and revenue deficit",
+
+      "unemployment and fall in public investment",
+
+      "current account deficit and fiscal deficit."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>The Twin Deficit Problem is a well-known macroeconomic challenge that emerges when a country experiences both a fiscal deficit and a current account deficit at the same time.<br><br>A fiscal deficit means the government’s expenditure exceeds its non-borrowed receipts.<br>A current account deficit occurs when the value of imports of goods, services, and transfers surpasses the value of exports.<br><br>When both deficits run high together, it signals structural imbalances in the economy. It can lead to depreciation of the currency, loss of investor confidence, and higher borrowing costs."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Public Finance in India",
+
+    "question": "With reference to the Indian economy, consider the following statements regarding the Ways and Means Advances (WMA):<br>I. The WMA window is intended only to address the temporary mismatches in cash flow of receipts and payments of governments.<br>II. The interest rate charged on advances under WMA is linked to the reverse repo rate.<br>Which of the above given statements is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The Ways and Means Advances (WMA) is a mechanism introduced by the Reserve Bank of India (RBI) to provide temporary financial support to the Central and State Governments. It helps them meet short-term mismatches in cash flow.<br><br><b>Statement I is correct:</b> The WMA facility is specifically designed to bridge temporary gaps between government receipts and payments. It allows governments to tide over mismatches in their day-to-day cash flows.<br><br><b>Statement II is incorrect:</b> The interest rate on WMA is the prevailing repo rate and on overdraft it is 2 per cent above the repo rate. The interest rate charged on advances under WMA is linked to the repo rate and not the reverse repo rate."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Fiscal Policy",
+
+    "question": "With reference to an economy, consider the following statements:<br>Statement-I: In general, the fiscal deficit of the government increases during a recession and decreases during an economic boom period.<br>Statement-II: During a recession, in general tax revenues of the government fall, while in an economic boom period, they tend to rise.<br>Statement-III: Governments often follow expansionary fiscal policy during a recession and contractionary fiscal policy during an economic boom period.<br>Which of the above is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement II and Statement III are correct and both of them explain Statement I.",
+
+      "Both Statement II and Statement III are correct, but only one of them explains Statement I.",
+
+      "Only one of the Statement II and III is correct and that explains Statement I.",
+
+      "Neither Statement II nor Statement III is correct."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> During a recession, Government revenues fall while spending obligations often increase, leading to a wider fiscal deficit. Conversely, in an economic boom period, revenues are higher and the need for deficit-financed expenditure falls, leading to a narrower fiscal deficit.<br><br><b>Statement II is correct:</b> Tax revenues are closely tied to economic performance. In a recession, both income and consumption decline, leading to lower tax collections. In contrast, during an economic boom or expansion, tax collections rise automatically with higher economic activity.<br><br><b>Statement III is correct:</b> Governments often adopt expansionary fiscal policy during a recession — increasing spending and cutting taxes to boost demand. Conversely, during a boom, they may implement contractionary fiscal policy to cool down the economy and inflation pressures on the economy.<br><br><b>Statement II and III explains statement I:</b> The fiscal deficit increases during a recession because tax revenues decline with lower income, profits, and consumption, while government spending often rises to support the economy. During a boom period, tax revenues increase due to higher economic activity and governments usually restrain spending through contractionary fiscal policy. Together, these revenue changes and counter‑cyclical fiscal actions explain why the fiscal deficit widens in a recession and narrows during a boom."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Budgetary Economics",
+
+    "question": "What is the difference between “vote-on account” and “interim budget”?<br>1. The provision of a “vote-on-account’’ is used by a regular Government, while an “interim budget’’ is a provision used by a caretaker Government.<br>2. A “vote-on-account’’ only deals with the expenditure in the Government budget, while an “interim budget’’ includes both expenditure and receipts.<br>Select the correct answer using the code given below:",
 
     "options": [
 
@@ -852,35 +436,9 @@
 
     ],
 
-    "answer": 0,
-
-    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement 1 is correct and Statement 2 is incorrect.</b> Tax to GDP ratio compares the amount of taxes collected by a government to the amount of income that country receives for its products. A decrease in tax to GDP ratio of a country indicates a slowing economic growth. When tax revenues grow at a slower rate than the GDP of a country, the tax-to GDP ratio drops. A decrease in tax to GDP ratio does not translate to a less equitable distribution of national income."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Budgetary Economics",
-
-    "question": "Which of the following departments of the Central Government is responsible for preparation of and submission to Parliament, Annual Budget as well as Supplementary and Excess Demands for Grants of the Central Government?",
-
-    "options": [
-
-      "Department of Revenue",
-
-      "Department of Economic Affairs",
-
-      "Department of Financial Services",
-
-      "Department of Expenditure"
-
-    ],
-
     "answer": 1,
 
-    "explanation": "<b>Correct Answer: (b)</b><br><br>Budget Division under the Department of Economic Affairs, which is a part of the Ministry of Finance, is responsible for preparation of and submission to Parliament, Annual Budget as well as Supplementary and Excess Demands for Grants of the Central Government and of States and UTs under President’s Rule."
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement 1 is incorrect:</b> Vote on account and interim budget can be presented by both the regular government and the caretaker government.<br><br><b>Statement 2 is correct:</b> A “vote-on-account’’ only deals with the expenditure in the Government budget, while an “interim budget’’ includes both expenditure and receipts. Vote on account is just an interim permission to spend money as against an interim Budget which is an elaborate financial statement of expenditure and receipts including changes in taxes and government policies."
 
   },
 
@@ -890,7 +448,7 @@
 
     "topic": "Fiscal Policy",
 
-    "question": "With reference to Indian economy, consider the following tools of fiscal policy:<br>I. Proportional taxation<br>II. Fiscal stimulus packages<br>III. Food subsidies<br>How many of the above function as automatic stabilisers in an economy?",
+    "question": "With reference to the Indian economy, consider the following:<br>I. Plan borrowings of the Government, including the market borrowings<br>II. Improve cash forecasting and promote efficient cash management practice for the Government.<br>III. Develop a database system for collecting and maintaining a comprehensive database of Government of India liabilities on a near real time basis<br>How many of the above are the functions of the Public Debt Management Cell (PDMC) to the Government of India?",
 
     "options": [
 
@@ -904,35 +462,9 @@
 
     ],
 
-    "answer": 1,
+    "answer": 2,
 
-    "explanation": "<b>Correct Answer: (b)</b><br><br>Automatic stabilisers are fiscal tools that work on their own, without any deliberate government action, to reduce fluctuations in GDP. They help stabilise the economy by increasing spending during recessions and reducing excess demand during booms.<br><br><b>Statement I is correct:</b> Under proportional taxation, the government collects a fixed fraction of people’s income as tax. Proportional taxes help stabilise the economy by making disposable income and consumer spending less affected by changes in GDP. When GDP rises, people earn more, but part of that extra income automatically goes as taxes, so consumption doesn’t increase too sharply. During a recession, when incomes fall, tax payments also fall automatically, so people still retain some income.<br><br><b>Statement II is incorrect:</b> A fiscal stimulus package usually means a deliberate increase in government spending by the government to fight a slowdown or recession. This requires active policy decisions by the government and does not switch on and off automatically with changes in GDP.<br><br><b>Statement III is correct:</b> Food subsidies such as food security programs increase support when incomes fall. During recessions more people qualify for subsidised food, which helps stabilise consumption and prevents a sharp decline in aggregate demand. During boom fewer people rely on subsidies, reducing government spending automatically. Since this adjustment happens without any government intervention, food subsidies act as automatic stabilisers."
-
-  },
-
-  {
-
-    "section": "Economy",
-
-    "topic": "Fiscal Policy",
-
-    "question": "The ‘Golden Rule of Public Finance’ is often referred to by economists during budget discussions. In this context, what does this rule signify?",
-
-    "options": [
-
-      "The government must ensure that its total revenue receipts always exceed its total revenue expenditure.",
-
-      "The government must always keep the fiscal deficit below 3% of Gross Domestic Product.",
-
-      "The government should prioritize its borrowing to finance only Revenue Deficits.",
-
-      "The amount of money borrowed by the government must be used for capital formation."
-
-    ],
-
-    "answer": 3,
-
-    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Option a is incorrect:</b> When total revenue exceeds total expenditure, it is known as budget surplus. The golden rule does not talk about the budget to be always in surplus, rather it specifies how borrowed money should be used.<br><br><b>Option b is incorrect:</b> The golden rule does not specify a limit on fiscal deficit. Instead, it focuses on the quality of expenditure. The 3% fiscal deficit limit comes from the FRBM Act (Fiscal Responsibility and Budget Management Act), 2003, and is not related to the golden rule.<br><br><b>Option c is incorrect:</b> Revenue deficit arises when revenue expenditure (salaries, subsidies, interest payments, etc.) exceeds revenue receipts. Using borrowed money for such expenses is considered fiscally unhealthy because it does not create any future returns. The Golden Rule explicitly discourages this kind of expenditure from borrowed money.<br><br><b>Option d is correct:</b> The golden rule stipulates that over the economic cycle, the government should borrow only to invest and not to fund current spending. In essence, whatever the government borrows, it must use it for productive investments like infrastructure, hospitals, or R&D. These investments are productive assets that generate future income or benefits. More specifically, the golden rule requires the budget to be in balance or surplus over the economic cycle."
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Public Debt Management Cell (PDMC) is an interim arrangement before setting up an independent and statutory debt management agency namely the Public Debt Management Agency (PDMA). PDMC has the following advisory functions to the Government:<br>1. Plan borrowings of the Government, including market borrowings, other domestic borrowings, SGBs.<br>2. Manage Central Government’s liabilities including NSSF, contingent liabilities.<br>3. Monitor cash balances of the Government, improve cash forecasting and promote efficient cash management practices.<br>...<br>9. Develop a database system for collecting and maintaining a comprehensive database of Government of India liabilities on a near real time basis and shall be responsible for publication of relevant information.<br>Therefore, all three functions mentioned are correct."
 
   },
 
@@ -1298,6 +830,475 @@
 
     "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I is incorrect:</b> Effective Capital Expenditure does not exclude grants to States for the creation of capital assets. It includes them because such grants also result in durable public infrastructure. Effective Capital Expenditure is defined as: Centre’s own Capital Expenditure plus Grants-in-Aid given to States for creating capital assets. This measure provides a more accurate picture of the government’s total investment effort and its impact on long-term productive capacity.<br><br><b>Statement II is correct:</b> Effective Capital Expenditure has been increasing continuously year after year rising from ₹4.5 lakh crore in 2016–17 to ₹15.5 lakh crore in BE 2025–26. It reflects the Government’s sustained push for infrastructure-led growth."
 
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Public Finance in India",
+
+    "question": "Which one of the following situations best reflects the term “Indirect Transfers” often talked about in the media with reference to India?",
+
+    "options": [
+
+      "An Indian company investing in a foreign enterprise and paying taxes to the foreign country on the profits arising out of its investment.",
+
+      "A foreign company investing in India and paying taxes to the country of its base on the profits arising out of its investment.",
+
+      "An Indian company purchases tangible assets in a foreign country and sells such assets after their value increases and transfers the proceeds to India.",
+
+      "A foreign company transfers shares and such shares derive their substantial value from assets located in India."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Indirect transfers refer to situations where foreign entities own shares or assets in India, when the shares of such foreign entities are transferred and if such shares or interest derive a substantial value from assets located in India. Then such transfer is commonly referred to as Indirect transfers.<br><br>The amendments made in the ITA in 2012 clarified that if a company is registered or incorporated outside India, its shares will be deemed to be or have always been situated in India if they derive their value substantially from the assets located in India. As a result, the persons who sold such shares of foreign companies before the enactment of the Act (i.e., May 28, 2012) also became liable to pay tax on the income earned from such sale."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Budget 2025-26",
+
+    "question": "With reference to revised classification of Micro, Small and Medium Enterprises in India (effective from 1st April 2025), consider the following statements:<br>I. An enterprise with Investment in Plant & Machinery of ₹1.5 crore and Annual Turnover of ₹8 crore.<br>II. An enterprise with Investment in Plant & Machinery of ₹4 crore and Annual Turnover of ₹8 crore.<br>III. An enterprise with Investment in Plant & Machinery of ₹1.8 crore and Annual Turnover of ₹12 crore.<br>How many of the above enterprises can be classified as a Micro Enterprise as per the revised official definition?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>From April 1, 2025, the government has raised both investment and turnover limits for classifying MSMEs so that more units can benefit from the MSME framework and grow without quickly losing their status. For micro enterprises, the investment ceiling in plant and machinery or equipment has been raised from ₹1 crore to ₹2.5 crore, and the turnover limit has been increased from ₹5 crore to ₹10 crore.<br><br><b>Statement I is correct:</b> The enterprise with investment of ₹1.5 crore and annual turnover of ₹8 crore falls in the Micro category.<br><br><b>Statement II is incorrect:</b> The enterprise with investment of ₹4 crore does not qualify as a Micro Enterprise and would be classified as a Small Enterprise. The investment threshold for a Micro Enterprise is ₹2.5 crore. Since this enterprise's Investment is greater than the ₹2.5 crore limit, it falls under the Small Enterprise category.<br><br><b>Statement III is incorrect:</b> The enterprise with turnover of ₹12 crore does not qualify as a Micro Enterprise and would be classified as a Small Enterprise. The turnover threshold for a Micro Enterprise is ₹10 crore. Since this enterprise's Annual Turnover is greater than the ₹10 crore limit, it falls under the Small Enterprise category."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Public Finance in India",
+
+    "question": "Consider the following statements:<br>Statement I: Fiscal Responsibility and Budget Management Act 2003 provides for the responsibility of the Central Government to ensure inter-generational equity in fiscal management.<br>Statement II: As per the Ricardian Equivalence, the government borrowings today will come at lesser cost than future borrowings to stimulate aggregate demand in the economy.<br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
+      "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+
+      "Statement I is correct but Statement II is not correct",
+
+      "Statement I is not correct but Statement II is correct"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> The Fiscal Responsibility and Budget Management Act, 2003, is an Act to provide for the responsibility of the Central Government to ensure inter-generational equity in fiscal management and long-term macro-economic stability by removing fiscal impediments in the effective conduct of monetary policy and prudential debt management consistent with fiscal sustainability through limits on the Central Government borrowings, debt and deficits, greater transparency in fiscal operations of the Central Government and conducting fiscal policy in a medium-term framework. It set targets for the phased reduction of the fiscal deficit to 3% of the GDP and the debt of the central government to 40% of GDP thereby reducing debt to a sustainable level over a medium term so as to ensure inter-generational equity in fiscal management and long term macro-economic stability.<br><br><b>Statement II is incorrect:</b> Ricardian Equivalence claims that when governments finance expenditures through debt rather than immediate taxation, rational consumers anticipate future tax increases. Consequently, they increase their savings to offset the future tax burden, rendering fiscal stimulus ineffective. As per Ricardian Equivalence method by which a government finances its spending—whether through taxes today or debt that necessitates higher taxes tomorrow—has no net effect on overall demand within the economy."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Fiscal Policy",
+
+    "question": "With reference to Indian economy, consider the following goods:<br>I. Street lighting<br>II. Rice given in Public Distribution System<br>III. Policing/Police Services<br>IV. Medicines sold at a chemist shop<br>V. Flood Control<br>How many of the above can be considered as the Public good in India?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All five"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Options I, III and V are correct:</b> Goods can be classified on the basis of ownership into public goods and private goods. Public goods are owned and enjoyed collectively by society and are available to all people without discrimination. They possess two essential characteristics: non-rivalry, meaning that consumption by one person does not reduce the availability of the good for others, and non-excludability, meaning that no one can be prevented from accessing or enjoying the good. The examples for public goods that exhibit these characteristics include: Defence, Police, Street-light, Flood Control, roads, bridges, park, town hall etc.<br><br><b>Option II and IV are incorrect:</b> Rice distributed through the Public Distribution System (PDS) is excludable, as only eligible beneficiaries with ration cards can access it and cannot be considered as the public good. Further Medicine is not considered as the public good as it does not fulfil both the characteristics. Medicines are not public goods because they are both rivalrous as consumption by one reduces availability for others and excludable as can be restricted by pricing and access."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Public Finance in India",
+
+    "question": "Consider the following:<br>1. Demographic performance<br>2. Forest and ecology<br>3. Governance reforms<br>4. Stable government<br>5. Tax and fiscal efforts<br>For the horizontal tax devolution, the Fifteenth Finance Commission used how many of the above as criteria other than population, area and income distance?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All five"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option 1 is correct:</b> Demographic performance refers to the assessment of population-related factors such as population growth rate, demographic composition, and demographic changes over time. The Commission used 2011 population data for its recommendations. States with a lower fertility ratio will be scored higher on this criterion. The 15th Finance Commission suggested 12.5% weightage to the Demographic performance.<br><br><b>Option 2 is correct:</b> Forest and ecology refer to the assessment of environmental factors, including the preservation and conservation of forests, biodiversity, and ecological balance. This criterion has been determined by calculating the proportion of dense forest within each state relative to the total dense forest across all states. The 15th Finance Commission suggested 10% weightage to the Forest and Ecology.<br><br><b>Option 3 is incorrect:</b> Governance reforms encompass various measures aimed at improving the efficiency, transparency, and effectiveness of government operations and public service delivery. This criterion was not considered by the Fifteenth Finance Commission as one of the criteria for horizontal tax devolution.<br><br><b>Option 4 is incorrect:</b> Stable government refers to the political stability and continuity of government institutions. While stability in government can be a desirable factor, it was not explicitly mentioned as a criterion for horizontal tax devolution by the Fifteenth Finance Commission.<br><br><b>Option 5 is correct:</b> Tax and fiscal efforts involve the assessment of a state’s efforts in tax collection and fiscal management. This criterion has been employed to incentivize states with better efficiency in tax collection. It is determined by the ratio of the average per capita own tax revenue to the average per capita state GDP over a three-year period from 2016-17 to 2018-19. The 15th Finance Commission suggested 2.5% weightage to the Tax and fiscal efforts."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Fiscal Policy",
+
+    "question": "Which of the following are considered as the objectives of the fiscal policy of Government of India?<br>I. Ensuring distribution of free goods<br>II. Redistribution of income and reducing economic inequality<br>III. Stabilizing the level of aggregate demand in economy<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I, II and III",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I and II only"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The government plays a crucial role in enhancing the welfare of the people. To achieve this, it formulates a fiscal policy every year with specific objectives.<br><br><b>Option I is incorrect:</b> Allocation of public goods (not free goods) to all the people is one of the key objectives of Fiscal policy of Government of India by providing certain goods and services which cannot be provided by the market mechanism in the Indian economy. Examples of such goods are national defence, roads, government administration etc. Free goods which are different from public goods, it refers to the goods that are available in abundance without any cost or human effort. Example: Sunshine.<br><br><b>Option II is correct:</b> Redistribution of income and reducing economic inequality is one of the key objectives of the fiscal policy of the Government of India. Under this function, the government collects taxes from firms and households and redistributes the revenue to poorer sections of society in the form of government transfers, welfare programmes, and social security schemes. Taxation and income transfers to the poorest segment of society are the most direct way to keep inequality in check and reduce poverty in the short term.<br><br><b>Option III is correct:</b> The overall level of employment and prices in an economy depends on the level of aggregate demand, which in turn is influenced by the spending decisions of millions of private economic agents along with government expenditure. As part of fiscal policy, the government intervenes to stabilise aggregate demand in order to correct fluctuations in income, output and employment. For eg., recent rationalisation of GST rates."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Budgetary Economics",
+
+    "question": "With reference to Union Budget, consider the following statements about Grant in aids:<br>Statement I: Grants-in-aid from foreign countries and international organisations are considered as revenue receipts of Government of India.<br>Statement II: Grants-in-aid do not create any repayment liability or future claim on the Government of India.<br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
+      "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+
+      "Statement I is correct but Statement II is not correct",
+
+      "Statement I is not correct but Statement II is correct"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>A budget is a financial statement that contains the government’s receipts and expenditure for a particular financial year. The Union Budget is divided into two major parts: the Revenue Account and Capital Account with various items listed under each based on their nature.<br><br><b>Statement I is correct:</b> Revenue receipts are those receipts that do not lead to a claim on the government and are non-redeemable. They are divided into tax and non-tax revenues. Grants-in-aid from foreign countries and international organisations is classified as the non-tax revenue under Revenue receipts of the union budget.<br><br><b>Statement II is correct:</b> Unlike loans, grants-in-aid received from foreign countries and international organisations do not create any repayment liability for the government and do not give rise to any future claim on government.<br><br>Grants-in-aid from foreign countries and international organisations are considered as the revenue receipts under the Union Budget as it does not create any repayment liability and claim on the government. Hence <b>Both Statement I and Statement II are correct and Statement II explains Statement I</b>."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Budgetary Economics",
+
+    "question": "Which of the following documents are presented besides the Finance Minister’s Budget Speech, in the same session of Parliament in which the Budget is laid down before Parliament?<br>I. Medium-Term Fiscal Policy cum Fiscal Policy Strategy Statement<br>II. Medium-term Expenditure Framework Statement<br>III. Macroeconomic Framework Statement<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The list of Budget documents presented to the Parliament, besides the Finance Minister’s Budget Speech, is given below:<br>A. Annual Financial Statement (AFS)<br>B. Demands for Grants (DG)<br>C. Finance Bill<br>D. Fiscal Policy Statements mandated under Fiscal Responsibility and Budget Management (FRBM) Act, 2003<br>i. Macro-Economic Framework Statement<br>ii. Medium-Term Fiscal Policy cum Fiscal Policy Strategy Statement<br>E. Expenditure Budget<br>F. Receipt Budget<br>G. Expenditure Profile<br>H. Budget at a Glance<br>I. Memorandum Explaining the Provisions in the Finance Bill<br>J. Output Outcome Monitoring Framework<br>K. Key Features of Budget 2025-26<br>L. Implementation of Budget Announcements 2024-25<br><br><b>Options I and III are correct:</b> These are mandated under the Fiscal Responsibility and Budget Management (FRBM) Act, 2003.<br><br><b>Option II is incorrect:</b> Medium-term Expenditure Framework Statement was introduced through the FRBM (Amendment) Rules, 2012. Also, it is not among the mandatory documents submitted along with the Annual financial statement in the same session, as mandated under the FRBM act, 2003. As per clause (1B) of the Act, The Central Government shall lay the Medium-term Expenditure Framework Statement referred to in clause (d) of sub-section (1) before both Houses of Parliament, immediately following the session of Parliament in which the policy statements referred to in clauses (a) to (c) were laid under sub-section (1)."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Budgetary Economics",
+
+    "question": "Consider the following major reforms/events in the evolution of Independent India’s Budgetary process and arrange them in the correct chronological order:<br>I. Introduction of Gender Budgeting in the Union Budget.<br>II. Introduction of first paperless (digital) Union Budget.<br>III. Merger of the Railway Budget with the Union Budget.<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I – II – III",
+
+      "I – III – II",
+
+      "II – I – III",
+
+      "III – II – I"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option I:</b> Gender Budgeting was formally introduced in the Union Budget 2005–06 when the Ministry of Finance included the Gender Budget Statement for the first time. Its objective was to assess how budgetary allocations impact women and promote gender-responsive planning.<br><br><b>Option III:</b> In Union Budget 2017-18, the Government of India advanced the Union Budget date from the last working day of February to 1st February, and in the same year the Rail Budget was also merged with the General Budget.<br><br><b>Option II:</b> The government's annual financial statement was presented in digital format for the first time on February 1, 2021, due to the Covid-19 pandemic. This was done through the Union Budget Mobile App, on which anyone can obtain budget-related information on their smartphone.<br><br>Thus, the chronological sequence is: Gender Budgeting (2005–06) → Merger of the Rail Budget with the Union Budget (2017-18) → First Paperless (digital) Union Budget (2021-22). Therefore, the correct answer is I – III – II."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Budgetary Economics",
+
+    "question": "If over successive years the difference between the Fiscal Deficit and the Primary Deficit keeps widening, it most appropriately reflects:",
+
+    "options": [
+
+      "a decline in the government’s overall interest payment obligations",
+
+      "a rising burden of government’s interest payments on past debt",
+
+      "a contraction in government’s revenue expenditure relative to capital expenditure",
+
+      "an increase in the government’s non-debt capital receipts over the years"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Fiscal Deficit refers to the total borrowing requirement of the government in a financial year. It includes all government expenditures, including the interest payments on past debt. It is the difference between the government’s total expenditure and its total receipts excluding borrowing.<br><br>Primary Deficit is the difference between the current year’s fiscal deficit and the interest paid on the borrowings of the previous years. It reflects the fiscal stance of the government without the burden of past loans.<br>Primary Deficit = Fiscal Deficit – Interest Payments<br>Thus, Interest payments = Fiscal Deficit – Primary Deficit.<br><br>If over successive years the difference between the fiscal deficit and the primary deficit keeps increasing, it means:<br>1. Interest payments are rising faster than other components of the deficit.<br>2. A larger portion of the government’s fiscal deficit is now being used just to service past loans, not for new development spending.<br>3. This signals a growing debt burden and increasing pressure on the government’s finances.<br><br>Therefore, the widening gap most appropriately reflects a rising burden of interest payments on past debt."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Budgetary Economics",
+
+    "question": "Consider the following statements:<br>I. Capital receipts create a liability or cause a reduction in the assets of the Government.<br>II. Borrowings and disinvestment are capital receipts.<br>III. Interest received on loans creates a liability of the Government.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> Capital receipts are those receipts of the government which create liability or reduce financial assets.<br><br><b>Statement II is correct:</b> Borrowings—such as loans from the RBI, foreign governments, or through the issuance of government securities—and disinvestment, which entails selling the government’s stake in public sector enterprises, are categorized as capital receipts.<br><br><b>Statement III is incorrect:</b> Interest received on loans given by the Central government to the states or other countries is classified as a revenue receipt since it represents income for the government and does not result in any liability."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Budgetary Economics",
+
+    "question": "In the context of India, consider the following types of deficits:<br>I. Fiscal Deficit<br>II. Revenue Deficit<br>III. Primary Deficit<br>IV. Effective Revenue Deficit<br>V. Effective Capital Deficit<br>VI. Monetised Deficit<br>Presently, how many of the above types of deficits are calculated and presented in the Union Budget?",
+
+    "options": [
+
+      "Only three",
+
+      "Only four",
+
+      "Only five",
+
+      "All the six"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Options I, II, III and IV are correct and Options V and VI are incorrect:</b> The Union Budget document explicitly mentions the Fiscal Deficit, Revenue Deficit, Primary Deficit and Effective Revenue Deficit but there is no mention of Effective Capital Deficit (rather the Effective Capital Expenditure is mentioned in the Budget) and Monetised Deficit."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Fiscal Policy",
+
+    "question": "If the Government of India chooses to implement a counter-cyclical fiscal policy when the Indian economy is undergoing a recession, which of the following measures is it most likely to undertake?<br>I. Increased spending on social programmes<br>II. Reduction of income tax<br>III. Increasing the investment in infrastructure sector<br>IV. Selling of government securities in market<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and II only",
+
+      "I, II and IV",
+
+      "III and IV only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>If the government follows an anti-cyclical (i.e., countercyclical) fiscal stance during the recession in the Indian economy, the government increases its expenditure and reduces the tax burden of the people to put more money in hands of people and boosting demand in the economy.<br><br><b>Option I is correct:</b> Increased government spending on social programmes is part of a counter-cyclical fiscal policy during periods of slowdown or recession as it raises household income, thereby stimulating aggregate demand, which in turn contributes to higher economic growth.<br><br><b>Option II is correct:</b> A reduction in income tax is a feature of a counter-cyclical fiscal policy during periods of recession as it increases the disposable income of individuals, thereby boosting consumption demand and supporting higher economic growth.<br><br><b>Option III is correct:</b> An increase in the investment in the infrastructure sector is considered a counter-cyclical fiscal policy measure during a recession as it leads to increase in the overall government spending and therefore supports aggregate demand and economic growth.<br><br><b>Option IV is incorrect:</b> Selling government securities is not a counter-cyclical fiscal policy during a recession as it withdraws liquidity from the economy, resulting in a contractionary impact probably and deepening the recession situation in the economy."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Budgetary Economics",
+
+    "question": "Consider the following expenditures made by the Government of India:<br>I. Loan given to state government for constructing a river bridge.<br>II. Interest payment on loans taken from the World Bank.<br>III. Acquisition of shares in Public Sector Undertakings (PSUs).<br>IV. Repayment of the principal amount of past loans taken from foreign institutions.<br>Expenditure used for how many of the above purposes is classified as 'Capital Expenditure' in the Union Budget?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Capital expenditures are expenditures of the government which result in creation of physical or financial assets or reduction in financial liabilities. In contrast, revenue expenditure are those expenditures which do not create any assets. These are the expenditures incurred for the routine, usual and normal day to day running of the government.<br><br><b>Option I is correct:</b> When the Central Government gives a loan to a state government, it creates a financial asset for the Central Government. Therefore, it is considered as a capital expenditure.<br><br><b>Option II is incorrect:</b> Interest payment is a recurring expense. It does not reduce the principal loan nor create any asset. Therefore, interest payments are considered as revenue expenditure.<br><br><b>Option III is correct:</b> When the government buys shares in Public Sector Undertakings (PSUs) it acquires a financial asset. Therefore it falls under the capital expenditure of the budget.<br><br><b>Option IV is correct:</b> Repaying the principal amount of a loan results in the reduction in a financial liability for the government. Therefore it is classified as capital expenditure in the budget."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Fiscal Policy",
+
+    "question": "A decrease in tax to GDP ratio of a country indicates which of the following?<br>1. Slowing economic growth rate.<br>2. Less equitable distribution of national income.<br>Select the correct answer using the codes given below.",
+
+    "options": [
+
+      "1 only",
+
+      "2 only",
+
+      "Both 1 and 2",
+
+      "Neither 1 nor 2"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement 1 is correct and Statement 2 is incorrect.</b> Tax to GDP ratio compares the amount of taxes collected by a government to the amount of income that country receives for its products. A decrease in tax to GDP ratio of a country indicates a slowing economic growth. When tax revenues grow at a slower rate than the GDP of a country, the tax-to GDP ratio drops. A decrease in tax to GDP ratio does not translate to a less equitable distribution of national income."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Budgetary Economics",
+
+    "question": "Which of the following departments of the Central Government is responsible for preparation of and submission to Parliament, Annual Budget as well as Supplementary and Excess Demands for Grants of the Central Government?",
+
+    "options": [
+
+      "Department of Revenue",
+
+      "Department of Economic Affairs",
+
+      "Department of Financial Services",
+
+      "Department of Expenditure"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Budget Division under the Department of Economic Affairs, which is a part of the Ministry of Finance, is responsible for preparation of and submission to Parliament, Annual Budget as well as Supplementary and Excess Demands for Grants of the Central Government and of States and UTs under President’s Rule."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Fiscal Policy",
+
+    "question": "With reference to Indian economy, consider the following tools of fiscal policy:<br>I. Proportional taxation<br>II. Fiscal stimulus packages<br>III. Food subsidies<br>How many of the above function as automatic stabilisers in an economy?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Automatic stabilisers are fiscal tools that work on their own, without any deliberate government action, to reduce fluctuations in GDP. They help stabilise the economy by increasing spending during recessions and reducing excess demand during booms.<br><br><b>Statement I is correct:</b> Under proportional taxation, the government collects a fixed fraction of people’s income as tax. Proportional taxes help stabilise the economy by making disposable income and consumer spending less affected by changes in GDP. When GDP rises, people earn more, but part of that extra income automatically goes as taxes, so consumption doesn’t increase too sharply. During a recession, when incomes fall, tax payments also fall automatically, so people still retain some income.<br><br><b>Statement II is incorrect:</b> A fiscal stimulus package usually means a deliberate increase in government spending by the government to fight a slowdown or recession. This requires active policy decisions by the government and does not switch on and off automatically with changes in GDP.<br><br><b>Statement III is correct:</b> Food subsidies such as food security programs increase support when incomes fall. During recessions more people qualify for subsidised food, which helps stabilise consumption and prevents a sharp decline in aggregate demand. During boom fewer people rely on subsidies, reducing government spending automatically. Since this adjustment happens without any government intervention, food subsidies act as automatic stabilisers."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Fiscal Policy",
+
+    "question": "The ‘Golden Rule of Public Finance’ is often referred to by economists during budget discussions. In this context, what does this rule signify?",
+
+    "options": [
+
+      "The government must ensure that its total revenue receipts always exceed its total revenue expenditure.",
+
+      "The government must always keep the fiscal deficit below 3% of Gross Domestic Product.",
+
+      "The government should prioritize its borrowing to finance only Revenue Deficits.",
+
+      "The amount of money borrowed by the government must be used for capital formation."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Option a is incorrect:</b> When total revenue exceeds total expenditure, it is known as budget surplus. The golden rule does not talk about the budget to be always in surplus, rather it specifies how borrowed money should be used.<br><br><b>Option b is incorrect:</b> The golden rule does not specify a limit on fiscal deficit. Instead, it focuses on the quality of expenditure. The 3% fiscal deficit limit comes from the FRBM Act (Fiscal Responsibility and Budget Management Act), 2003, and is not related to the golden rule.<br><br><b>Option c is incorrect:</b> Revenue deficit arises when revenue expenditure (salaries, subsidies, interest payments, etc.) exceeds revenue receipts. Using borrowed money for such expenses is considered fiscally unhealthy because it does not create any future returns. The Golden Rule explicitly discourages this kind of expenditure from borrowed money.<br><br><b>Option d is correct:</b> The golden rule stipulates that over the economic cycle, the government should borrow only to invest and not to fund current spending. In essence, whatever the government borrows, it must use it for productive investments like infrastructure, hospitals, or R&D. These investments are productive assets that generate future income or benefits. More specifically, the golden rule requires the budget to be in balance or surplus over the economic cycle."
+
   }
 
 ]
+
