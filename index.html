@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
     <title>Exam Mock Tool</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
     <link rel="manifest" href="manifest.json">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📘</text></svg>">
     <style>
@@ -21,6 +22,19 @@
             --saffron: #d35400;
         }
 
+        /* Split Button Dropdown UI */
+        .split-btn-group { display: inline-flex; position: relative; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .split-btn-main { background: var(--accent); color: white; border: none; padding: 12px 20px; border-radius: 6px 0 0 6px; font-weight: bold; cursor: pointer; transition: 0.2s; border-right: 1px solid rgba(255,255,255,0.2); }
+        .split-btn-main:hover { background: #1c44b2; }
+        .split-btn-arrow { background: var(--accent); color: white; border: none; padding: 0 12px; border-radius: 0 6px 6px 0; cursor: pointer; transition: 0.2s; display: flex; align-items: center; }
+        .split-btn-arrow:hover { background: #1c44b2; }
+        
+        .dropdown-menu { display: none; position: absolute; top: 100%; right: 0; margin-top: 5px; background: white; border: 1px solid #ddd; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); z-index: 1000; min-width: 160px; overflow: hidden; }
+        .dropdown-menu.show { display: block; animation: fadeIn 0.2s ease; }
+        .dropdown-item { padding: 12px 15px; cursor: pointer; color: #333; font-weight: 500; font-size: 0.95rem; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; }
+        .dropdown-item:last-child { border-bottom: none; }
+        .dropdown-item:hover { background: #f8f9fa; color: var(--accent); }
+        
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', sans-serif; }
         body { height: 100dvh; width: 100vw; overflow: hidden; background: var(--bg-color); display: flex; flex-direction: column; }
 
@@ -343,11 +357,20 @@
                 <option value="rbi">RBI (+1.0 / -0.25)</option>
             </select>
 
-            <div class="btn-group">
-                <button onclick="returnToLibrary()">Library</button>
+            <div class="btn-group" id="export-btn-group">
+                <button onclick="returnToLibrary()" style="background:#555;">Library</button>
                 <button id="smart-review-btn" onclick="startSmartReview()" style="display:none; background:#ffc107; color:#333;">Smart Review</button>
-                <button style="background:#17a2b8;" onclick="downloadCSV()">⬇️ CSV Data</button>
-                <button style="background:#27ae60;" onclick="downloadRes()">📄 HTML Report</button>
+                
+                <div class="split-btn-group" id="report-dropdown-wrapper">
+                    <button class="split-btn-main" onclick="downloadReport('md')">💾 Save Report (MD)</button>
+                    <button class="split-btn-arrow" onclick="toggleReportMenu(event)">▼</button>
+                    <div class="dropdown-menu" id="report-menu">
+                        <div class="dropdown-item" onclick="downloadReport('md')">Markdown <span>(.md)</span></div>
+                        <div class="dropdown-item" onclick="downloadReport('html')">HTML <span>(.html)</span></div>
+                        <div class="dropdown-item" onclick="downloadReport('pdf')">PDF <span>(.pdf)</span></div>
+                        <div class="dropdown-item" onclick="downloadCSV()">CSV Data <span>(.csv)</span></div>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -1244,6 +1267,124 @@
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
+    }
+    // --- DROPDOWN LOGIC ---
+    function toggleReportMenu(event) {
+        event.stopPropagation();
+        document.getElementById('report-menu').classList.toggle('show');
+    }
+
+    // Close dropdown if clicked outside
+    window.addEventListener('click', function(e) {
+        const menu = document.getElementById('report-menu');
+        if (menu && menu.classList.contains('show') && !e.target.closest('#report-dropdown-wrapper')) {
+            menu.classList.remove('show');
+        }
+    });
+
+    // --- CENTRAL EXPORT ROUTER ---
+    function downloadReport(format) {
+        document.getElementById('report-menu').classList.remove('show');
+        
+        let cleanName = activeFile ? activeFile.replace(/\.json$/i, '').replace(/ \(Review\)$/i, '') : "Mock_Test";
+        cleanName = cleanName.replace(/[^a-z0-9\-_]/gi, '_');
+
+        if (format === 'html') {
+            downloadRes(); // Calls your existing HTML download function
+        } 
+        else if (format === 'md') {
+            const mdContent = generateNotionMarkdown();
+            const blob = new Blob([mdContent], { type: 'text/markdown;charset=utf-8;' });
+            triggerDownload(blob, `Report_${cleanName}.md`);
+        } 
+        else if (format === 'pdf') {
+            generatePDF(`Report_${cleanName}.pdf`);
+        }
+    }
+
+    function triggerDownload(blob, filename) {
+        const link = document.createElement("a");
+        link.href = URL.createObjectURL(blob);
+        link.download = filename;
+        link.style.display = 'none';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    }
+
+    // --- NOTION-OPTIMIZED MARKDOWN GENERATOR ---
+    function generateNotionMarkdown() {
+        if (!questions || questions.length === 0) return "No data available.";
+
+        const score = document.getElementById('r-score').innerText;
+        const cor = document.getElementById('r-cor').innerText;
+        const wrg = document.getElementById('r-wrg').innerText;
+        const skip = document.getElementById('r-skip').innerText;
+        const testName = activeFile ? activeFile.replace(/\.json$/i, '') : "Mock Test";
+
+        let md = `# Analysis Report: ${testName}\n\n`;
+        md += `**Score:** ${score} | **Correct:** ${cor} | **Wrong:** ${wrg} | **Skipped:** ${skip}\n\n`;
+        md += `---\n\n`;
+
+        // Strip basic HTML tags for clean Markdown rendering
+        const stripHTML = (str) => str ? str.replace(/<br\s*[\/]?>/gi, '\n').replace(/<[^>]*>?/gm, '') : '';
+
+        questions.forEach((q, i) => {
+            const time = Math.round(qTimers[i] || 0);
+            const conf = confidence[i] || 'None';
+            const topic = q.topic || 'General';
+
+            md += `### Q${i + 1}. ${stripHTML(q.question)}\n`;
+            md += `- **Topic:** ${topic}\n`;
+            md += `- **Time:** ${time}s | **Confidence:** ${conf}\n\n`;
+
+            if (q.type === 'descriptive') {
+                const userAns = responses[i] || "No Answer Typed";
+                md += `**Your Answer:**\n> ${stripHTML(userAns)}\n\n`;
+            } else {
+                const userResp = responses[i];
+                let status = "Skipped";
+                let myAns = "Skipped";
+                
+                if (userResp !== undefined) {
+                    myAns = q.options[userResp];
+                    status = (userResp === q.answer) ? "Correct" : "Wrong";
+                }
+
+                md += `- **Status:** ${status}\n`;
+                md += `- **Your Answer:** ${stripHTML(myAns)}\n`;
+                md += `- **Correct Answer:** ${stripHTML(q.options[q.answer])}\n\n`;
+                
+                if (q.explanation) {
+                    md += `**Explanation:**\n> ${stripHTML(q.explanation)}\n\n`;
+                }
+            }
+            md += `---\n\n`;
+        });
+
+        return md;
+    }
+
+    // --- PROGRAMMATIC PDF GENERATION ---
+    function generatePDF(filename) {
+        const element = document.getElementById('result-screen');
+        const btnGroup = document.getElementById('export-btn-group');
+        
+        // Temporarily hide the buttons so they don't appear in the PDF
+        btnGroup.style.display = 'none';
+
+        const opt = {
+            margin:       0.3,
+            filename:     filename,
+            image:        { type: 'jpeg', quality: 0.98 },
+            html2canvas:  { scale: 2, useCORS: true },
+            jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' }
+        };
+
+        html2pdf().set(opt).from(element).save().then(() => {
+            // Restore buttons after PDF is generated
+            btnGroup.style.display = 'flex';
+        });
     }
 </script>
 </body>
