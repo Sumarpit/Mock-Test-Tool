@@ -1,0 +1,1303 @@
+[
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Market/Capital Market",
+
+    "question": "Consider the following statements:<br>I. India accounts for a very large portion of all equity option contracts traded globally thus exhibiting a great boom.<br>II. India's stock market has grown rapidly in the recent past even overtaking Hong Kong's at some point of time.<br>III. There is no regulatory body either to warn the small investors about the risks of options trading or to act on unregistered financial advisors in this regard.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> As per NSE data and BIS reports, India has become a major hub for equity derivatives, especially options.In 2023, India accounted for a significant share of global equity option volumes — more than 80% of global equity index option trades happened on Indian exchanges like NSE.<br><br><b>Statement II is correct:</b> In January 2024, India’s stock market briefly overtook Hong Kong's to become the fourth largest in the world in terms of market capitalization.<br><br><b>Statement III is incorrect:</b> The Securities and Exchange Board of India (SEBI) is the statutory regulatory authority responsible for overseeing the securities market in India. It plays a vital role in regulating stock market operations, safeguarding investor interests, taking action against unregistered financial advisors, and issuing guidelines related to derivatives trading. For instance SEBI has actively cracked down on unregistered financial advisors and regularly releases circulars to caution small investors about the risks involved in trading."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "If an economy is facing liquidity trap phenomenon, then the money demand in the economy at a very low rate of interest becomes:",
+
+    "options": [
+
+      "Zero",
+
+      "Perfectly elastic",
+
+      "Inelastic",
+
+      "Cannot be determined"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>According to the Keynesian economy, money demand becomes perfectly elastic at very low rates of interest. Keynes referred to this phenomenon as the ‘liquidity trap’. At very low rates of interest the speculative demand for money becomes infinite. That means the people in the economy hold on to cash as they believe that the interest rate is so low that it can move in only one direction that is upward.<br><br>Example: The rate of interest in Japan has been close to zero for the past few years. So the expansionary monetary policy being followed by the Bank of Japan has been ineffective as the interest rate cannot fall below zero. So the demand boosting effect of monetary policy did not happen and the recession lasted much longer for the Japanese economy. It is only in the last few quarters that the situation seems to have improved as the Bank of Japan has started changing the course of its monetary policy. The expansionary monetary policy is followed along with the fiscal policy whenever the recessionary pressures build up in an economy."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "In the context of Indian economy, consider the following statements:<br>Statement I: Reserve Bank of India functions as the lender of last resort.<br>Statement II: Reserve Bank of India facilitates external trade and maintenance of foreign exchange market in India.<br>Statement III: Reserved Bank of India provides liquidity to banks facing a temporary financial crisis.<br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+
+      "Only one of the Statements II and III is correct and that explains Statement I",
+
+      "Neither Statement II nor Statement III is correct"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I and III are correct and Statement III explains Statement I:</b> The ‘Lender of last resort’ refers to the function of the Reserve Bank of India in which it provides financial assistance to banks that are facing a liquidity crisis or bank runs.<br><br>Banks facing temporary cash shortages and unable to raise funds from their own sources or the market approach the Reserve Bank of India (RBI) for assistance. The RBI provides funds to such banks through various instruments by granting loans and advances. This role of providing timely liquidity support to maintain stability in the banking system is referred to as the lender of last resort function. This role of RBI, that of being ready to lend to banks at all times is said to be the lender of last resort.<br><br><b>Statement II is correct:</b> One of the functions of RBI is Manager of Foreign Exchange of country. Its objective is to facilitate external trade and payment and promote orderly development and maintenance of foreign exchange market in India. It has no link to the Reserve Bank of India being a lender of last resort."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "Consider the following:<br>I. Liquidity Adjustment Facility<br>II. Open Market Operations<br>III. Forex Swaps<br>How many of the above tools can be used by the Reserve Bank of India as part of Sterilization in India?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Sterilisation refers to the intervention by the monetary authority of a country in the money market to keep the domestic money supply stable against external shocks such as large foreign exchange inflows or outflows. When a central bank intervenes in the foreign exchange market by buying foreign currency, it injects and increases the supply of domestic currency in the economy. This injection of domestic currency could potentially lead to an expansion of the money supply, resulting in inflationary pressures. To counteract this effect and maintain control over the domestic money supply, the central bank engages in sterilization. Thus the focus of RBI would be to absorb the excess liquidity from the market.<br><br><b>Option I is correct:</b> The Liquidity Adjustment Facility (LAF) serves as the primary means for day-to-day liquidity management through the absorption or injection of liquidity by way of sale or purchase of securities followed by their repurchase or resale under the repo/reverse repo operations. Thus, it will help to absorb the excess liquidity in the market.<br><br><b>Option II is correct:</b> Open Market Operations (OMO) is one of the primary tools used by central banks, including the Reserve Bank of India (RBI), to conduct monetary policy. In OMO, the central bank buys or sells government securities (bonds) in the open market to influence the liquidity in the economy. When the RBI conducts OMO, it impacts the money supply in the economy. If the RBI buys government securities, it injects money into the system, increasing the money supply. To prevent this injection of money from creating inflationary pressures, the RBI engages in sterilization. Sterilization involves the simultaneous sale or purchase of other securities, typically treasury bills, to offset the impact of the initial open market operation.<br><br><b>Option III is correct:</b> Foreign exchange swaps for sterilisation helps in postponement of creation of liquidity generated by capital inflows and the consequent accumulation to reserves. Therefore central banks resort to sell/buy swaps in the forex market for sterilisation purposes. But there is a cost involved thus only limited use of this instrument for very short periods may be useful. But can be used as a tool as part of Sterilization."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Market/Capital Market",
+
+    "question": "Consider the following markets:<br>1. Government Bond Market<br>2. Call Money Market<br>3. Treasury Bill Market<br>4. Stock Market<br>How many of the above are included in capital markets?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All four"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Capital markets are financial markets where long-term securities, such as stocks and bonds, are traded. They provide a platform for raising capital for businesses and governments. On the other hand, Money markets are financial markets where short term securities such as T-Bill, C-Paper, Cash Management Bills, Ways and Means advances, etc are traded.<br><br><b>Option 1 is correct:</b> Government bonds are long-term debt securities issued by governments to finance their activities. The government bond market is a part of the capital market as it involves the trading of long-term debt securities.<br><br><b>Option 2 is incorrect:</b> The call money market is a short-term market where funds are borrowed and lent for very short durations, usually overnight. It deals with short-term funds, and its transactions are not classified as part of the capital market.<br><br><b>Option 3 is incorrect:</b> Treasury bills are short-term debt instruments issued by governments to finance their short-term cash flow requirements. The treasury bill market, similar to the call money market, deals with short-term instruments and is not considered part of the capital market.<br><br><b>Option 4 is correct:</b> The stock market, also known as the equity market or share market, is where shares or stocks of publicly listed companies are bought and sold. The stock market is a part of the capital market as it involves the trading of ownership interests (equity securities) in companies."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "With reference to money multiplier in an economy, consider the following statements:<br>Statement I: The money multiplier decreases when the Cash reserve Ratio (CRR) is increased.<br>Statement II: An increase in CRR leads to reduction in the availability of funds to banks for its lending activity.<br>Statement III: An increase in CRR leads to increase in the overall inflation in an economy.<br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement II and Statements III are correct and both of them explain Statement I.",
+
+      "Both Statement II and Statement III are correct but only one of them explains Statement I.",
+
+      "Only one of the Statements II and III is correct and that explains Statement I.",
+
+      "Neither Statement II nor Statement III is correct."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The money multiplier represents the ratio of the change in the money supply to the change in the monetary base in the economy. The central bank regulates the money supply in an economy through several instruments, one of which is the Cash Reserve Ratio (CRR). When the central bank increases Cash Reserve Ratio (CRR), it leads to a reduction in the money multiplier.<br><br>Money Multiplier = 1/Reserve Ratio<br>Cash Reserve Ratio is one of the component of Reserve Ratio.<br><br><b>Statement II is correct and explains Statement I:</b> Under cash reserve ratio (CRR), the commercial banks are required to maintain a proportion of their deposits as reserves with the central bank. When the CRR is increased, banks must keep a larger share of their deposits as reserves, reducing the funds available for lending. This weakens the process of multiple credit creation, leading to a contraction in the money supply and a decline in the money multiplier.<br><br><b>Statement III is incorrect:</b> When Cash Reserve Ratio is increased, it leads to lowering the inflation in an economy rather than increasing as the overall money supply is decreased.<br><br>Thus, when the Cash Reserve Ratio is increased, banks are left with fewer funds for lending, which reduces credit creation and the overall money supply in the economy and consequently the money multiplier declines."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "With reference to the Indian economy, the demand for money increases in which of the following situations?<br>I. When the income of the people increases.<br>II. When the interest rates on deposits increase.<br>III. When there is inflation in the economy.<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The demand for money refers to the amount of money people wish to hold for transaction, precautionary, and speculative purposes. Since money is primarily required to carry out transactions, the volume of transactions determines the demand for money. A greater level of transactions, the higher will be the demand for money.<br><br><b>Option I is correct:</b> When people’s income increases, the volume of transactions in the economy rises, which increases the transactions demand for money.<br><br><b>Option II is incorrect:</b> The rate of interest on deposits influences people’s preference between holding money and holding interest-earning assets. When interest rates increase, the opportunity cost of holding money rises. As a result, people prefer to hold more of their wealth in bank deposits rather than in money balances, leading to a decline in the demand for money.<br><br><b>Option III is correct:</b> Inflation increases the general price level, so the same volume of transactions requires more money. As a result, the nominal transactions demand for money rises, even if real output remains unchanged."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "With reference to Indian Banking system, which of the above given are correct about the functions of Reserve Bank of India (RBI):<br>I. It acts as a custodian of the foreign exchange reserves of India.<br>II. It decides the minimum average balance (MAB) requirements for savings bank accounts.<br>III. It maintains banking accounts of all scheduled banks.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Reserve Bank of India (RBI) was established in 1935 based on the provisions of the Reserve Bank of India Act, 1934. It acts as the central bank of the Indian and performs several important functions.<br><br><b>Statement I is correct:</b> RBI acts as the custodian of Foreign Exchange reserves based on, Foreign Exchange Management Act (FEMA), 1999. Its objective is to facilitate external trade and payments while ensuring the orderly development and smooth functioning of the foreign exchange market in India.<br><br><b>Statement II is incorrect:</b> In India, individual banks have the autonomy to decide on the minimum average balance (MAB) requirements for savings accounts. For example, some private banks like ICICI Bank are increasing MAB, several state-owned banks, including SBI, PNB, Canara Bank, and Indian Bank, are eliminating penalties for not maintaining minimum balances to promote financial inclusion.<br><br><b>Statement III is correct:</b> RBI acts as the Banker to banks and maintains banking accounts of all scheduled banks in India."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "With reference to Banking in India, consider the following:<br>I. Loans given to customers<br>II. Reserves deposited with Reserve bank of India<br>III. Overdrafts amount availed by customer in a savings account<br>How many of the above are considered as the assets of a commercial bank?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Commercial banks act as the financial intermediary between individuals or firms with excess funds and lend to those who need funds. The key business of the banks is to accept different types of deposits from the public and then lend these funds to the borrowers. In terms of the banks, Assets include the items that generate income or are expected to bring economic benefits in the future.<br><br><b>Option I is correct:</b> All the loans given to the consumer are considered as the asset of a bank as it earns interest and represents money owed to the bank.<br><br><b>Option II is correct:</b> Reserves are deposits that commercial banks maintain with the Reserve Bank of India (RBI). These reserves are kept partly as cash and partly in the form of financial instruments (bonds and treasury bills) issued by the RBI.<br><br><b>Option III is correct:</b> The overdraft facility provided on savings deposit accounts is a type of credit extended by banks to customers. When a customer overdraws their account, the bank effectively extends a short-term loan. Hence, it is considered an asset of the bank."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "Liquidity Adjustment Facility (LAF) Corridor is one of the instruments that is used by the Reserve Bank of India to implement monetary policy. In this context the upper bound and lower bound of this corridor is:",
+
+    "options": [
+
+      "Repo rate and Reverse Repo Rate respectively.",
+
+      "Marginal Standing Facility and Reverse Repo rate respectively.",
+
+      "Marginal Standing Facility and Repo rate respectively.",
+
+      "Marginal Standing Facility and Standing deposit facility respectively."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>The Liquidity Adjustment Facility (LAF) has the marginal standing facility (MSF) rate as its upper bound (ceiling) and the standing deposit facility (SDF) rate as the lower bound (floor), with the policy repo rate in the middle of the corridor. Standing Deposit facility is the rate at which the Reserve Bank accepts uncollateralized deposits, on an overnight basis, from all LAF participants. The SDF is also a financial stability tool in addition to its role in liquidity management. The SDF rate is placed at 25 basis points below the policy repo rate.<br><br>Marginal Standing Facility is the penal rate at which banks can borrow, on an overnight basis, from the Reserve Bank by dipping into their Statutory Liquidity Ratio (SLR) portfolio up to a predefined limit (2 per cent). The MSF rate is placed at 25 basis points above the policy repo rate."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "Consider the following statements:<br>1. The Governor of the Reserve Bank of India (RBI) is appointed by the Central Government.<br>2. Certain Provisions in the Constitution of India give the Central Government the right to Issue directions to the RBI in public interest.<br>3. The Governor of the RBI draws his power from the RBI Act.<br>Which of the above statements are correct?",
+
+    "options": [
+
+      "1 and 2 only",
+
+      "2 and 3 only",
+
+      "1 and 3 only",
+
+      "1, 2 and 3"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement 1 is correct:</b> Section 8(1)(a) of the Reserve Bank of India Act, 1934, provides that there shall be one Governor and not more than four Deputy Governors to be appointed by the central government on the central board of RBI.<br><br><b>Statement 2 is incorrect:</b> Section 7 of the RBI Act provides that the Central Government may from time to time give such directions to the Bank as it may, after consultation with the Governor of the Bank, consider it necessary in the public interest. The Constitution of India does not provide any provision for the Central Government the right to issue directions to the RBI in Public interest.<br><br><b>Statement 3 is correct:</b> According to the RBI Act, the Governor shall have powers of general superintendence and direction of the affairs and the business of the RBI. He/she may exercise all powers and do all acts and things which may be exercised or done by the RBI."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "Consider the following instruments:<br>I. Payment in One-rupee coin for any sum not exceeding one thousand rupee in any single transaction.<br>II. Payment through a Cheque drawn on a savings account.<br>III. Payment through credit card issued by a Public sector bank.<br>IV. Payment using e-Rupee (Digital Rupee) stored in one’s digital wallet.<br>V. Payment done in ₹2000 denomination for any sum.<br>In India, how many of the above are legally tenderable for discharge of debt or obligation?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All the five"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>In India, legal tender refers to currency that must be accepted for settling monetary transactions and repayment of debts. Legal Tender is a coin or a banknote that is legally tenderable for discharge of debt or obligation. Under the RBI Act, 1934 and the Coinage Act, 2011, only money issued by the Reserve Bank of India (RBI) or the Government of India qualifies as legal tender. This includes:<br>- All RBI-issued banknotes<br>- Government-issued ₹1 note<br>- All coins issued by the Government<br>- Digital Rupee (e₹) issued by the RBI as India’s Central Bank Digital Currency (CBDC)<br>Legal tender carries sovereign guarantee, meaning every person is legally obliged to accept it for payments unless otherwise restricted (e.g., coins have legal tender limits).<br><br><b>Option I is correct:</b> The coins issued by Government of India under Section 6 of The Coinage Act, 2011, shall be legal tender in payment. Coin of any denomination not lower than one rupee shall be legal tender for any sum not exceeding one thousand rupee in any single transaction. Fifty paise (half rupee) coins shall be legal tender for any sum not exceeding ten rupee.<br><br><b>Option II is incorrect:</b> A cheque is merely an instruction issued by the drawer to the bank to pay a specified sum of money from the drawer’s account to the payee. Its acceptance is not mandatory, as a payee or merchant may refuse to accept a cheque. Hence, a cheque does not constitute legal tender.<br><br><b>Option III is incorrect:</b> A credit card is a financial instrument that enables borrowing up to a pre-approved limit. It is not money in itself; rather, it is a payment facility issued by a bank or financial institution. Since no person is legally bound to accept a credit card as a mode of payment, it does not constitute legal tender.<br><br><b>Option IV is correct:</b> Digital Rupee or e₹, is India’s Central Bank Digital Currency (CBDC). It is the digital form of India’s physical currency, the Rupee (₹). e₹ is issued by the Reserve Bank of India (RBI) in digital form and offers features similar to physical cash like convenience of use, guarantee of RBI, finality of settlement, etc. e₹ is stored in the user’s digital wallet and can be used to receive / send money, and / or make payment for transactions, just like any physical ₹ note. In terms of Section 26 of the Reserve Bank of India (RBI) Act, 1934, every e₹ bank note shall be legal tender at any place in India in payment or on account for the amount expressed therein and is guaranteed by the Central Government. e₹, being a digital form of the ₹ bank note, is legal tender and is the liability of the Reserve Bank of India.<br><br><b>Option V is correct:</b> Every banknote issued by Reserve Bank of India (₹2, ₹5, ₹10, ₹20, ₹50, ₹100, ₹200, ₹500, and ₹2000*), shall be legal tender at any place in India in payment or on account for the amount. ₹1 notes issued by Government of India are also Legal Tender. ₹2000 denomination notes continue to be legal tender."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "Other things remaining constant, consider the following situations:<br>I. Increase in time deposits with commercial banks<br>II. Increase in savings deposits in Post Office Savings Banks<br>III. Increase in interbank time deposits of commercial banks<br>IV. Increase in currency with the public<br>How many of the above situations would result in an increase in the monetary aggregate of Broad money (M3) in the economy?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Money supply is a stock variable, representing the total stock of money in circulation among the public at a given point in time.<br>(i) M1 = Currency (notes and coins) with the public + Demand deposits + other deposits held with the Reserve Bank of India.<br>(ii) M2 = M1 + Post Office saving deposits.<br>(iii) M3 = M1 + Time deposits of all commercial banks and co-operative banks (excluding interbank time deposits).<br>(iv) M4 = M3 + Total deposits with the Post Office Saving Organisation (excluding National Saving Certificate).<br>M1 and M2 are known as narrow money. M3 and M4 are known as broad money. These measures are in decreasing order of liquidity. M1 is most liquid and easiest for transactions whereas M4 is least liquid of all. M3 is the most commonly used measure of money supply. It is also known as aggregate monetary resources.<br><br><b>Option I is correct:</b> Increase in time deposits with commercial banks Increases M3. Time (term) deposits held by the public are explicitly included in M3 as “Net time deposits of commercial banks.” Therefore, an increase in time deposits raises aggregate monetary resources (M3).<br><br><b>Option II is incorrect:</b> Increase in savings deposits in Post Office Savings Banks Does not increase M3. Savings deposits of Post Office Savings Banks are included in M2 and M4, not in M3. Since M3 does NOT include Post Office savings, an increase here has no effect on M3. Hence, this does not affect broad money supply (M3).<br><br><b>Option III is incorrect:</b> Increase in interbank deposits of commercial banks Does not increase M3. RBI clearly states that interbank deposits are not part of money supply, because only deposits held by the public are counted. Deposits that one commercial bank holds in another are merely internal banking-system adjustments.<br><br><b>Option IV is correct:</b> Increase in currency with the public Increases M3. Currency held by the public (CU) is a core component of M1. Since M1 forms part of M2, M3, and M4, any increase in CU increases all monetary aggregates. Thus, an increase in CU raises M3."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "Consider the following statements:<br>Statement I: In India, the Reserve Bank of India (RBI), in consultation with the Central Government, determines the inflation target for the country.<br>Statement II:. As per the Reserve Bank of India Act, 1934 the monetary policy framework in India shall be operated by the Reserve Bank of India.<br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I is incorrect:</b> The process of fixing India’s inflation target is governed by Section 45ZA of the Reserve Bank of India Act, 1934 (inserted by an amendment in 2016 for inflation targeting).<br>(1) The Central Government shall, in consultation with the Bank, determine the inflation target in terms of the Consumer Price Index, once in every five years.<br>(2) The Central Government shall, upon such determination, notify the inflation target in the Official Gazette.<br>The phrase “in consultation with the Reserve Bank” means the RBI provides input, but does not set the target. The RBI cannot determine or fix the inflation target; it must operate within the target set by the Government. Therefore, the Central Government, not the RBI, determines and notifies the inflation target.<br><br><b>Statement II is correct:</b> As per the Reserve Bank of India act 1934, - The starting paragraph of the act which was amended in 2016 reads - it is essential to have a modern monetary policy framework to meet the challenge of an increasingly complex economy; AND WHEREAS the primary objective of the monetary policy is to maintain price stability while keeping in mind the objective of growth; AND WHEREAS the monetary policy framework in India shall be operated by the Reserve Bank of India. Thus the monetary policy framework in India shall be operated by the Reserve bank of India."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Market/Capital Market",
+
+    "question": "In the context of finance, the term “beta” refers to:",
+
+    "options": [
+
+      "the process of simultaneous buying and selling of an asset from different platforms",
+
+      "an investment strategy of portfolio manager to balance risk versus reward",
+
+      "a type of systemic risk that arises where perfect hedging is not possible",
+
+      "a numeric value that measures the fluctuations of a stock to change in the overall stock market."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Beta:</b> A stock’s expected movement in relation to overall market movements is measured by a concept called beta. A stock with a beta greater than 1 is considered to be more volatile than the broader market, while the stock with a beta less than 1 is considered to be less volatile.<br><br>The Capital Asset Price Model (CAPM), a model that calculates a stock’s return, uses beta as its primary factor. The beta calculation can be used to assess the stock’s volatility and systematic risk associated to it."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Market/Capital Market",
+
+    "question": "Consider the following statements with reference to commercial papers(CPs):<br>I. They are unsecured money market instruments.<br>II. Corporate houses issuing commercial paper should be listed companies on a recognized stock exchange.<br>III. Financial institutions shall obtain credit rating for issuance of Commercial Paper from any one of the Securities Exchange Board of India registered credit rating agencies.<br>IV. Funds raised through commercial papers cannot be used to finance operating expenses of a company.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "I and III only",
+
+      "II, III and IV",
+
+      "I, III and IV"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I is correct:</b> Commercial Paper (CP) refers to an unsecured money market instrument issued in the form of a promissory note. CP was introduced in India in 1990 with a view to enabling highly rated corporate borrowers to diversify their sources of short-term borrowings and to provide an additional instrument to investors.<br><br><b>Statement II is incorrect:</b> Highly rated corporate borrowers, primary dealers (PDs) and satellite dealers (SDs) and all-India financial institutions (FIs) which have been permitted to raise resources through money market instruments under the umbrella limit fixed by Reserve Bank of India are eligible to issue Commercial Papers. Commercial Papers (CPs) are issued by a corporate house for raising short term credit. They can be issued both by the listed and unlisted companies. Companies, including Non-Banking Finance Companies (NBFCs) and All India Financial Institutions (AIFIs), are eligible to issue Commercial Papers subject to the condition that any fund-based facility availed of from bank(s) and/or financial institutions is classified as a standard asset by all financing banks/institutions at the time of issue.<br><br>A company shall be eligible to issue Commercial Paper provided -<br>(a) the tangible net worth of the company, as per the latest audited balance sheet, is not less than Rs. 4 crore;<br>(b) the working capital (fund-based) limit of the company from the banking system is not less than Rs.4 crore and<br>(c) the borrowal account of the company is classified as a Standard Asset by the financing bank/s.<br><br><b>Statement III is correct:</b> Financial institutions shall obtain credit rating for issuance of Commercial Paper from any one of the Securities Exchange Board of India (SEBI) registered credit rating agencies. The minimum credit rating shall be 'A3' as per rating symbol and definition prescribed by SEBI. The issuers shall ensure at the time of issuance of the Commercial Paper that the rating so obtained is current and has not fallen due for review.<br><br><b>Statement IV is incorrect:</b> Funds raised through Commercial Papers will be used to finance current assets and operating expenses. It is, however, important for the issuer to disclose the end use in the offer document. And in case the end purpose is different from financing current assets and operating expenses, it should be disclosed in the offer document."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "Consider the following liquidity management tools for implementing monetary policy by the Reserve Bank of India (RBI):<br>I. Standing Deposit Facility (SDF)<br>II. Reverse Repo<br>Which of the above liquidity management tool(s) allow banks to deposit their excess funds with the RBI without any collateral by the RBI?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The Reserve Bank of India (RBI) uses liquidity management tools to maintain stability in the financial system. Some tools allow banks to deposit surplus funds with the RBI, while others allow banks to borrow when they face shortages.<br><br><b>Option I is correct:</b> The Standing Deposit Facility allows banks to park their excess funds with the RBI without providing any collateral, on an overnight basis, from all LAF participants. The SDF is also a financial stability tool in addition to its role in liquidity management. The SDF rate is placed at 25 basis points below the policy repo rate. With introduction of SDF in April 2022, the SDF rate replaced the fixed reverse repo rate as the floor of the LAF corridor.<br><br><b>Option II is incorrect:</b> Under the Reverse Repo arrangement of the Liquidity Adjustment Facility (LAF), banks park their excess funds with the RBI by purchasing securities with an agreement to resell the securities on a mutually agreed future date at an agreed price. Thus, it is not collateral free."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "In the context of India, consider the following entities:<br>I. Regional Rural Banks (RRBs)<br>II. Payment Banks<br>III. Urban Cooperative Banks<br>IV. Local Area Banks<br>How many of the above mentioned entities are eligible to participate in the Call Money Markets, both as borrowers and lenders?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The money market is a market for short-term financial assets that are close substitutes of money. The most important feature of a money market instrument is that it is liquid and can be turned into money quickly at low cost and provides an avenue for equilibrating the short-term surplus funds of lenders and the requirements of borrowers. Under the call money market, funds are transacted on an overnight basis.<br><br>The following entities shall be eligible to participate in the Call, Notice and Term Money Markets, both as borrowers and lenders:<br>(a) Scheduled Commercial Banks (excluding Local Area Banks);<br>(b) Payment Banks;<br>(c) Small Finance Banks;<br>(d) Regional Rural Banks;<br>(e) State Co-operative Banks, District Central Co-operative Banks and Urban Co-operative Banks<br>(f) Primary Dealers.<br><br><b>Option I is correct:</b> Regional Rural Banks (RRBs) are allowed to participate in the call money market.<br><br><b>Option II is correct:</b> Payment Banks are allowed to participate in the call money market.<br><br><b>Option III is correct:</b> Cooperative banks (State Cooperative Banks, District Central Cooperative Banks, and Urban Cooperative Banks) are permitted to participate in the call money market.<br><br><b>Option IV is incorrect:</b> Local Area Banks cannot participate in the call money market."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "The Reserve Bank of India imposes Prompt Corrective Action (PCA) on banks based on which of the following indicators?<br>I. Capital to Risk-weighted Assets Ratio (CRAR)<br>II. Provision Coverage Ratio (PCR)<br>III. Return on Assets (RoA)<br>IV. Net Non-performing Advances (NNPA) ratio<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I, II and III",
+
+      "II and IV only",
+
+      "I and IV only",
+
+      "I, III and IV"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The Prompt Corrective Action (PCA) framework is a supervisory tool introduced by the Reserve Bank of India (RBI) to ensure the financial soundness of banks and to prevent their failure. Under PCA, banks showing signs of financial stress are closely monitored, and corrective measures are mandated to restore their health before problems escalate. The RBI has specified certain regulatory trigger points for undertaking a Prompt Corrective Action PCA framework. These trigger points include: Capital to Risk-weighted Assets Ratio (CRAR), Net Non-Performing Advances (NNPA) ratio and Tier 1 leverage ratio.<br><br><b>Option I is correct:</b> Capital to Risk-weighted Assets Ratio (CRAR)<br>CRAR, also known as Capital Adequacy Ratio (CAR), measures the proportion of a bank’s capital to its risk-weighted assets. A low CRAR indicates that the bank has insufficient capital to absorb potential losses, increasing the risk of insolvency. A CRAR below the regulatory threshold signals vulnerability, prompting RBI to impose PCA.<br><br><b>Option II is incorrect:</b> Provision Coverage Ratio (PCR)<br>PCR indicates the percentage of provisions a bank has made against its non-performing assets (NPAs). While PCR is an important indicator, it is not one of the parameters used by the RBI for initiating PCA.<br><br><b>Option III is incorrect:</b> Return on Assets (RoA)<br>It was there in the earlier 2017 framework but now has been removed. Under the revised PCA Framework for Banks, only Capital, Asset Quality and Leverage will be the key areas for monitoring.<br><br><b>Option IV is correct:</b> Net Non-Performing Advances (NPA) Ratio<br>Net NPA ratio represents the proportion of non-performing loans after accounting for provisions. High Net NPA weakens a bank’s financial position and capital base. Banks with high NPAs are closely monitored under PCA."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Market/Capital Market",
+
+    "question": "Consider the following financial instruments/securities in India:<br>I. Equity shares of unlisted companies<br>II. Dated Government Securities issued by the Central Government<br>III. Commercial Papers (CPs) issued by Indian Companies<br>IV. Equity shares issued by Nidhi Companies<br>V. Units of Mutual Funds registered with Securities and Exchange Board of India<br>In how many of the above instruments is a Foreign Portfolio Investor (FPI) permitted to invest?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All the five"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>In 2014 Securities Exchange Board of India came with the regulation called the Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 2014.<br><br><b>Option I is incorrect:</b> FPIs are permitted to invest only in shares, debentures and warrants issued by a body corporate; listed or to be listed on a recognized stock exchange in India. Through FPI route, FPI cannot invest in equity shares of unlisted companies.<br><br><b>Option II is correct:</b> FPIs are allowed to invest in Government securities (both Central and State) within the limits prescribed under the FPI debt investment framework, making this a fully permissible avenue.<br><br><b>Option III is correct:</b> FIIs can invest in corporate debt instruments, including Commercial Papers, as part of the approved debt market instruments under SEBI/RBI norms.<br><br><b>Option IV is incorrect:</b> Investment in Nidhi companies is expressly prohibited for FPIs because these companies operate like mutual benefit societies and fall under the restricted/prohibited sectors list.<br><br><b>Option V is correct:</b> FPIs are allowed to invest in units of SEBI-registered mutual funds, including equity, debt, hybrid, and ETF schemes.<br><br>Thus, three instruments (II, III, and V) are permitted."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Market/Capital Market",
+
+    "question": "With reference to investments, consider the following:<br>I. Bonds<br>II. Hedge Funds<br>III. Stocks<br>IV. Venture Capital<br>How many of the above are treated as Alternative Investment Funds?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>An Alternative Investment Fund (AIF) refers to any fund established or incorporated in India, which is a privately pooled investment vehicle that collects funds from sophisticated investors (Indian or foreign) and invests them according to a defined investment policy for the benefit of its investors. As per SEBI (Alternative Investment Funds) Regulations, 2012, AIFs are classified into three broad categories (Category I, II and III).<br><br><b>Option I is incorrect:</b> Bonds are a type of debt instrument through which an investor lends money to a company or government in exchange for regular interest payments, without receiving any ownership stake in the entity. They are not pooled investment funds.<br><br><b>Option II is correct:</b> Hedge Funds are Category III AIFs which employ diverse or complex trading strategies and may employ leverage including through investment in listed or unlisted derivatives.<br><br><b>Option III is incorrect:</b> Stocks such as equity shares are traditional investment instruments representing the ownership of an investor, not AIFs.<br><br><b>Option IV is correct:</b> Venture capital is a Category I AIF which invests in start-up or early stage ventures or social ventures or SMEs or infrastructure or other sectors considered socially or economically desirable."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "Which of the following statements with regard to the Monetary Policy Committee (MPC) of the Reserve Bank of India are correct?<br>I. The Governor of the Reserve Bank of India is ex-officio chairperson of the committee.<br>II. The committee shall determine the Policy Rate required to achieve the inflation target in India.<br>III. The members of the committee appointed by the Central government are eligible for reappointment after completing their four-year term.<br>IV. The Reserve Bank of India shall organise at least four meetings of the Monetary Policy Committee in a year.<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and III only",
+
+      "I, II and IV only",
+
+      "II, III and IV only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The Monetary Policy Committee (MPC) was established under the amended RBI Act, 1934 through the Monetary Policy Framework Agreement signed in 2015, and formally operationalized in 2016.<br><br><b>Statement I is correct:</b> As per Section 45ZB (2) of the RBI Act, 1934, the six-member MPC is chaired by the Governor of the RBI (ex-officio Chairperson).<br><br><b>Statement II is correct:</b> As per Section 45ZB (3) of the RBI Act, 1934, the Monetary Policy Committee shall determine the Policy Rate required to achieve the inflation target.<br><br><b>Statement III is incorrect:</b> As per Section 45ZD(1) of the RBI Act, each external member of the MPC is appointed for a term of four years, but the law clearly states that they shall not be eligible for reappointment.<br><br><b>Statement IV is correct:</b> Section 45ZI(1) of the Reserve Bank of India Act, 1934, states that the Bank shall organise at least four meetings of the Monetary Policy Committee in a year."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "Consider the following measures:<br>I. Increasing the Repo Rate<br>II. Increasing the Reverse Repo Rate<br>III. Decreasing the Statutory Liquidity Ratio (SLR)<br>IV. Buying government securities under Open Market Operations (OMO)<br>Which of the measures given above, the Reserve Bank of India (RBI) is most likely to implement as part of a contractionary monetary policy?",
+
+    "options": [
+
+      "I and II only",
+
+      "I, II and III",
+
+      "III and IV only",
+
+      "I, II and IV"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>A contractionary monetary policy is adopted by the Reserve Bank of India (RBI) in periods of high inflation to reduce excess liquidity in the economy. Its objective is to make money costlier and scarcer, thereby moderating aggregate demand and stabilising prices.<br><br><b>Option I is correct:</b> When the RBI increases the Repo Rate, borrowing becomes costlier for banks, which discourages them from taking fresh funds and ultimately reduces the flow of credit to the economy.<br><br><b>Option II is correct:</b> When the RBI raises the Reverse Repo Rate, banks find it more profitable to deposit funds with the central bank rather than lend them in the open market. This pulls liquidity out of the economy and reduces the money supply.<br><br><b>Option III is incorrect:</b> If the RBI reduces SLR, banks are left with more funds available for lending, which expands credit availability and increases liquidity. This is an expansionary measure.<br><br><b>Option IV is incorrect:</b> When the RBI buys government securities, it pays commercial banks, thereby injecting money into the banking system. This increases liquidity and stimulates credit flow, which is an expansionary action."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "Consider the following statements:<br>Non-Banking Financial Companies (NBFCs) in India:<br>I. cannot accept any type of deposits.<br>II. are not part of the payment and settlement system.<br>III. cannot issue cheques drawn on themselves.<br>IV. cannot issue credit cards to its customers.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "II and III only",
+
+      "II, III and IV",
+
+      "I, II and IV",
+
+      "III and IV only"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statements I is incorrect:</b> NBFCs cannot accept demand deposits, but they CAN accept time deposits (term deposits).<br><br><b>Statements II and III are correct:</b> NBFCs do not form part of the payment and settlement system and cannot issue cheques drawn on themselves. Furthermore, the deposit insurance facility of Deposit Insurance and Credit Guarantee Corporation (DICGC) is not available to depositors of deposit-taking NBFCs.<br><br><b>Statement IV is incorrect:</b> NBFCs can issue credit cards to their customers but they need a prior approval of the RBI. Any company including a non-deposit-taking company intending to engage in credit card business shall require a Certificate of Registration and specific permission."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "Which of the following with regard to the term ‘bank run’ is correct?",
+
+    "options": [
+
+      "The net balance of money a bank has in its chest at the end of the day’s business",
+
+      "The ratio of bank’s total deposits and total liabilities",
+
+      "A panic situation when the deposit holders start withdrawing cash from the banks",
+
+      "The period in which a bank creates highest credit in the market"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option c is correct:</b> A “bank run” refers to a situation when a large number of depositors lose confidence in a bank’s stability and rush to withdraw their deposits in cash. It usually occurs due to concerns about the bank’s financial health or rumors about its solvency. When depositors fear that the bank may not be able to fulfill their withdrawal requests or that their deposits are at risk, they may try to withdraw their funds simultaneously, causing a panic situation."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "With reference to Treasury Bills (T-Bill) in India, consider the following statements:<br>I. No periodic interest is paid on T-Bills.<br>II. It can only be issued by the Central Government and not by any State Government.<br>III. It cannot be sold or traded in the secondary market prior to its maturity.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "I and III only",
+
+      "I, II and III",
+
+      "II and III only"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Treasury bills or T-bills are short term debt instruments issued by the Reserve Bank of India (RBI) on behalf of the Government of India.<br><br><b>Statement I is correct:</b> Treasury bills are zero coupon securities and pay no interest. Instead, they are issued at a discount and redeemed at the face value at maturity. The return to the investors is the difference between the maturity value and the issue price.<br><br><b>Statement II is correct:</b> Treasury Bills are issued only by the Central Government (and not by State Governments) with original maturities of less than one year. State Governments issue only bonds or dated securities, which are called State Development Loans (SDLs).<br><br><b>Statement III is incorrect:</b> Treasury bills can be sold in the secondary market even before maturity, as they are highly liquid. These bills are completely backed by the government, making them almost risk-free investment options."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "In the context of Indian economy, consider the following statements:<br>Statement I: During the festive season, the currency deposit ratio (CDR) most likely increases.<br>Statement II: During the festive season, the transaction demand of money increases.<br>Which of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Currency Deposit Ratio is the ratio of money held by the public in currency to that held as deposits in commercial banks. It reflects people’s preference for liquidity.<br><br><b>Statement I is correct:</b> During festivals, the Currency Deposit Ratio usually increases as people convert deposits to cash balance for meeting extra expenditure during such periods.<br><br><b>Statement II is correct and explains Statement I:</b> Transaction demand for money increases means people want to hold more money as cash to facilitate a greater volume of everyday purchases and payment during the festivals. As the people tend to spend more, they withdraw money from the banks leading to an increase in currency held by the public. So, the money held by the public in currency will increase and that held as deposits in commercial banks will reduce, increasing the Currency Deposit Ratio."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "In the context of the liquidity management tools for implementing monetary policy by the Reserve Bank of India (RBI), consider the following statements about Cash Reserve Ratio (CRR) and the Statutory Liquidity Ratio (SLR):<br>I. CRR is mandated under the RBI Act, 1934 while SLR is mandated under the Banking Regulation Act, 1949.<br>II. Reserves maintained by banks under both CRR and SLR do not earn any interest from the Reserve Bank of India.<br>III. Unlike SLR, there is no statutory upper limit on CRR.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and III only",
+
+      "I only",
+
+      "II and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> The CRR is mandated under the RBI Act, 1934 which allows the RBI to regulate the liquidity in the banking system. The SLR is mandated under the Banking Regulation Act, 1949, which ensures that banks maintain a buffer of liquid assets to meet their obligation.<br><br><b>Statement II is incorrect:</b> CRR consists only of cash balances, whereas SLR includes liquid assets such as cash, gold, and approved government securities. Banks do not earn any interest on the cash reserves maintained as CRR with the RBI. However, unlike CRR, investments made to meet SLR requirements (mainly in government securities), earn some interest.<br><br><b>Statement III is correct:</b> The SLR has a statutory upper limit of 40% prescribed under the Banking Regulation Act, 1949. However, the CRR has no statutory upper limit; it is determined by the Reserve Bank of India."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Market/Capital Market",
+
+    "question": "A company offers its existing shareholders the option to purchase additional shares at a discounted price within a specified time period. This refers to which type of share issuance by the company?",
+
+    "options": [
+
+      "Preferential Issues",
+
+      "Employee Stock Option Plan",
+
+      "Private Placement",
+
+      "Right issues"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Option a is incorrect:</b> Preferential Issues is an issue of shares or convertible securities by listed or unlisted companies to a select group of investors.<br><br><b>Option b is incorrect:</b> An Employee Stock Option Plan (ESOP) is a benefit scheme where companies offer employees the right to buy shares at a predetermined price after a specific period.<br><br><b>Option c is incorrect:</b> Private Placement is a mode of raising funds by sale of securities to a relatively small number of select investors (like mutual funds, banks, wealthy individuals).<br><br><b>Option d is correct:</b> A rights issue is a way for a company to raise capital by offering additional shares to its existing shareholders. Instead of issuing new shares to the public, the company provides its current investors with the right to buy more shares, usually at a discounted price."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "With reference to Bond yields in an economy consider the following statements:<br>I. When inflation in the economy is rising, the bond yield may increase.<br>II. When interest rates in the economy are decreasing, the bond yield increases.<br>III. When total government borrowing is increasing, the bond yield may increase.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and II",
+
+      "I and III",
+
+      "III only",
+
+      "II only"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Bond yield is the rate of returns realized on a bond. It changes inversely with the price of the bond.<br><br><b>Option I is correct:</b> If inflation is rising or is expected to rise, investors demand higher returns to protect their real income. Since bonds generally offer fixed interest payments, their attractiveness declines in an inflationary environment. Demand falls, leading to a decline in bond prices and a rise in bond yields.<br><br><b>Option II is incorrect:</b> Interest rates in an economy and bond prices share an inverse relationship. When interest rates fall, existing bonds with fixed higher coupon rates become more attractive. Demand increases, pushing bond prices up and lowering bond yields.<br><br><b>Option III is correct:</b> When the government increases its borrowing, it issues more bonds in the market. The increased supply of bonds leads to a fall in bond prices, and due to the inverse relationship between bond prices and yields, bond yields rise."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "Consider the following statements:<br>1. In terms of short-term credit delivery to the agriculture sector, District Central Cooperative Banks (DCCBs) deliver more credit in comparison to Scheduled Commercial Banks and Regional Rural Banks.<br>2. One of the most important functions of DCCBs is to provide funds to the Primary Agriculture Credit Societies.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "1 only",
+
+      "2 only",
+
+      "Both 1 and 2",
+
+      "Neither 1 nor 2"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement 1 is incorrect:</b> A District Central Cooperative Banks is a co-operative bank operating at the district level in various parts of India to provide banking to the rural hinterland for the agricultural sector. However, Scheduled Commercial Banks (SCBs) deliver the highest amount of credit to the agriculture sector, followed by cooperative banks and RRBs.<br><br><b>Statement 2 is correct:</b> One of the most important functions of District Central Cooperative Banks is to provide funds to the Primary Agriculture Credit Societies (PACS), which then provide loans to individual borrowers, particularly farmers."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Market/Capital Market",
+
+    "question": "Consider the following statements regarding Participatory Notes (P-Notes) in India:<br>I. Investments flowing in India through P-notes are considered as offshore derivative investments (ODIs).<br>II. The share of P-notes in overall foreign portfolio investment has consistently decreased over the last 5 years.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> Investments flowing through P-notes are considered as offshore derivative investments (ODIs). Indian securities market regulator, SEBI issued the new Regulations for Foreign Portfolio Investors, where participatory notes got formally defined under the tag “Offshore Derivative Instrument” (ODIs).<br><br><b>Statement II is incorrect:</b> As per SEBI, Investments through participatory notes in the Indian capital markets reached ₹1.5 lakh crore at the end of February, 2024 making it the highest-level in nearly six years. The decline over the last 5 years has not been consistent, as seen in 2024, when it reached an all-time 6 years high."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Market/Capital Market",
+
+    "question": "With reference to Social Stock Exchange (SSE) in India, consider the following statements:<br>I. A non-profit organisation (NPO) or for-profit social enterprise (FPSEs) registered in India that are engaged in the activity of creating positive social impact and that meets the primacy of their social intent will be eligible to be listed on the SSE.<br>II. Similarly to the National Stock exchange, Social Stock Exchange in India has been established as an independent stock exchange.<br>III. Unlike Not-For-Profit Social Organizations, For-Profit Organizations can issue Zero Coupon Zero Principal Instruments for raising funds through SSE.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and II",
+
+      "II and III",
+
+      "I only",
+
+      "I and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The Social Stock Exchange (SSE) in India is a dedicated platform created under SEBI to enable social enterprises to raise funds transparently from donors and investors.<br><br><b>Statement I is correct:</b> Any non-profit organisation (NPO) or for-profit social enterprise (FPSEs) that establishes the primacy of social intent would be recognised as a social enterprise (SE), making it eligible to be registered or listed on the Social Stock Exchange.<br><br><b>Statement II is incorrect:</b> Social Stock Exchange is not a standalone or independent exchange. Instead, it operates as a separate segment within existing stock exchanges (NSE and BSE), using their infrastructure.<br><br><b>Statement III is incorrect:</b> Zero Coupon Zero Principal Instruments shall not be issued by a for-Profit Organization registered on a Social Stock Exchange. But Not-for-Profit Organizations CAN issue Zero Coupon Zero Principal Instruments under certain conditions."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Market/Capital Market",
+
+    "question": "Consider the following scenario:<br>An investor thinks that a company is overvalued at Rs.100 per share and that its price is due to go down. S/he borrows 100 shares of the company from a broker and then sells the shares for the market price of Rs.100. Later, the investor buys back the 100 shares at Rs.50 after the stock price has gone down and returns the borrowed shares to the broker earning a gross profit over this transaction.<br>This method refers to:",
+
+    "options": [
+
+      "Long selling",
+
+      "Margin trading",
+
+      "Speculative trading",
+
+      "Short selling"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Option d is correct:</b> Short selling refers to a trading strategy where an investor borrows shares from a broker and sells them at the current market price, expecting that the price will fall. When the price declines, the investor buys back the same shares at the lower price, returns them to the lender, and keeps the difference as profit. If the price rises instead of falling, the investor incurs a loss, making short selling a high-risk, high-return strategy commonly used for speculation or hedging."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "Consider the following statements in respect of the digital rupee:<br>1. It is a sovereign currency issued by the Reserve Bank of India (RBI) in alignment with its monetary policy.<br>2. It appears as a liability on the RBI’s balance sheet.<br>3. It is insured against inflation by its very design.<br>4. It is freely convertible against commercial bank money and cash.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "1 and 2 only",
+
+      "1 and 3 only",
+
+      "2 and 4 only",
+
+      "1, 2 and 4"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement 1 is correct:</b> Reserve Bank defines Central Bank Digital Currency (CBDC), e₹, (Digital Rupee) as the legal tender issued by a central bank in a digital form. CBDC is a sovereign currency issued by Central Banks in alignment with their monetary policy.<br><br><b>Statement 2 is correct:</b> Digital Rupee appears as a liability on the central bank’s balance sheet.<br><br><b>Statement 3 is incorrect:</b> Digital Rupee is considered a safe store of value but is NOT insured against inflation. Like physical cash, the purchasing power of the digital rupee diminishes with rising inflation.<br><br><b>Statement 4 is correct:</b> Digital Rupee are freely convertible against commercial bank money and cash."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "In India, a Scheduled Commercial Bank (SCB) is a commercial bank which has been:",
+
+    "options": [
+
+      "included in the Second schedule of the Banking Regulation Act, 1949.",
+
+      "incorporated under the Companies Act, 1956, and providing commercial services.",
+
+      "included in the Second Schedule of the Reserve Bank of India Act, 1934.",
+
+      "nationalized by the Government of India through specific legislation."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option c is correct:</b> A Scheduled Commercial Bank (SCB) is a commercial bank which has been included in the Second Schedule of the Reserve Bank of India Act, 1934 (RBI Act). Conditions for inclusion in the Second Schedule of the RBI Act are stated in section 42(6)(a) of the RBI Act. Every Scheduled Commercial Bank enjoys two types of principal facilities: It becomes eligible for debts/loans at the bank rate from the RBI, and it automatically acquires the membership of a clearing house."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "Consider the following statements regarding the Payment Banks and the Small Finance Banks in India:<br>I. Unlike Payment Banks, Small Finance Banks cannot issue cheques drawn on themselves.<br>II. Neither Payment Banks nor Small Finance Banks can accept time deposits from the public.<br>III. Unlike Payment Banks, Small Finance Banks can directly lend money to customers.<br>IV. Unlike Small Finance Banks, Payment Banks are required to invest 75% of their total deposits in Government Securities/Treasury Bills.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I, III and IV",
+
+      "II and III",
+
+      "III and IV only",
+
+      "IV only"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Payment Banks and Small Finance Banks (SFBs) are niche banks established to further financial Inclusion in India.<br><br><b>Statement I is incorrect:</b> Both Payment Banks and Small Finance Banks can issue cheques drawn on themselves.<br><br><b>Statement II is incorrect:</b> Payment Banks can accept only demand deposits and hold up to Rs. 2 lakh per person. They can pay interest on these balances just like a savings bank account does. Small Finance Banks can accept both demand and time deposits.<br><br><b>Statement III is correct:</b> Payment Banks are not allowed to lend to customers. They cannot issue credit cards. However, payment banks are allowed to issue debit cards and ATM cards usable on ATM networks of all banks. They can offer services such as automatic payments of bills, and purchases in cashless, chequeless transactions through a phone. Small finance banks can lend money to their customers. Small finance banks are set up to offer financial inclusions by providing credit facilities and loans to small businesses operating from underprivileged areas, marginal and small farmers, small and micro industries, and other businesses operating specifically in the unorganized sectors. Earlier SFBs had to extend 75% of its credit towards Priority sector lending obligations which was reduced by RBI to 60% to enhance lending flexibility and profitability. Also, SFBs are allowed to issue credit and debit cards.<br><br><b>Statement IV is correct:</b> Payment Banks are required to invest 75% of their total deposits in Government Securities/Treasury Bills. There is no such requirement for Small Finance Banks."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "In context to banking in India, consider the following:<br>I. Any amount of bank loans given to the individual households for renewable energy projects qualify under the priority sector lending.<br>II. Housing loans to banks’ own employees on commercial terms applicable to other customers are eligible for classification under priority sector.<br>III. Loans to individuals for educational purposes, not exceeding ₹25 lakh, qualify under the priority sector lending.<br>IV. Loans that are given against gold as collateral for undertaking agricultural activity automatically become ineligible for classification as priority sector lending.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "III only",
+
+      "III and IV",
+
+      "I, II and III",
+
+      "I and IV"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>In India, priority sector lending (PSL) norms have been established to ensure that certain sectors receive adequate credit to promote economic development. The Reserve Bank of India has set targets for different categories of banks for lending to priority sectors. PSL obligates banks to allocate a specified proportion of their loans to sectors such as agriculture, education, housing, small industries etc. The categories under priority sector include Agriculture, Micro, Small and Medium Enterprises, Export Credit, Education, Housing, Social Infrastructure, Renewable Energy, and Others.<br><br><b>Option I is incorrect:</b> Bank loans up to a limit of ₹35 crore to borrowers for renewable energy-based power generators and for renewable energy based public utilities, viz., street lighting systems, remote village electrification etc., will be eligible for priority sector classification. For individual households, the loan limit will be ₹10 lakh per borrower. Loans for individual households for renewable energy up to Rs 10 lakh per borrower comes under PSL.<br><br><b>Option II is incorrect:</b> Housing loans to banks’ own employees are not eligible for classification under priority sector lending, irrespective of whether they are extended on commercial terms or at subsidised rates.<br><br><b>Option III is correct:</b> Loans to individuals for educational purposes, including vocational courses, not exceeding ₹25 lakh will be considered as eligible for priority sector classification.<br><br><b>Option IV is incorrect:</b> The Priority Sector Lending guidelines are activity and beneficiary specific and are not based on type of collateral. Therefore, bank loans given to individuals/ businesses for undertaking agriculture activities do not automatically become ineligible for priority sector classification, only on account of the fact that the underlying asset is gold jewellery/ornament etc."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "Consider the following statements regarding the Financial Services Institutions Bureau (FSIB):<br>I. Union Finance Minister is the ex-officio chairman of the bureau.<br>II. It recommends persons for the appointment as Whole-Time Directors in public sector banks.<br>III. It issues binding directives to banks for reducing their Gross Non-Performing Assets (NPAs).<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and III only",
+
+      "II only",
+
+      "II and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I is incorrect:</b> FSIB is headed by a chairman, who is a central government nominee. Presently, FSIB is headed by former Secretary, Department of Personnel and Training (DoPT), Bhanu Pratap Sharma. The board comprises the Secretaries of the DFS, the chairman of IRDAI, and a deputy governor of the RBI. Additionally, it comprises three part-time members who are experts in banking and three more from the insurance sector.<br><br><b>Statement II is correct:</b> One of the core mandates of FSIB is to recommend suitable candidates for key leadership positions in: 1. Public Sector Banks (PSBs) 2. Public Sector Insurance Companies 3. Public Financial Institutions. These positions include Whole-Time Directors (including Managing Directors & CEOs) and Non-Executive Chairpersons. FSIB’s role is crucial in ensuring merit-based, transparent, and professional appointments at the top management level of financial institutions, which impacts governance and financial stability.<br><br><b>Statement III is incorrect:</b> The FSIB does not issue binding directives to banks on reducing Gross NPAs. While it may provide recommendations related to governance and leadership, it does not enforce measures on NPA reduction. That responsibility lies with RBI, which is the central bank and regulatory body for the Indian Banking system."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "Consider the following statements:<br>The Deposit Insurance and Credit Guarantee Corporation (DICGC) insures deposits like:<br>I. Deposits of the State Land Development Banks with the State co-operative bank.<br>II. Inter-bank deposits.<br>III. Current Account deposits of individuals with a commercial bank.<br>How many statements given above are correct?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All three",
+
+      "None"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The DICGC insures deposits such as savings, fixed, current, recurring, etc. However, it does not insure the following types of deposits: Deposits of foreign Governments; Deposits of Central/State Governments; Inter-bank deposits; Deposits of the State Land Development Banks with the State co-operative bank; Any amount due on account of and deposit received outside India; Any amount, which has been specifically exempted by the corporation with the previous approval of Reserve Bank of India. Thus in the above statements only Current Account deposits of individuals with a commercial bank are insured by DICGC."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "Consider the following statements in respect of RTGS and NEFT:<br>I. In RTGS, the settlement time is instantaneous while in case of NEFT, it takes some time to settle payments.<br>II. In RTGS, the customer is charged for inward transactions while that is not the case for NEFT.<br>III. Operating hours for RTGS are restricted on certain days while this is not true for NEFT.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "I and II",
+
+      "I and III",
+
+      "III only"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> RTGS (Real Time Gross Settlement): As the name suggests, RTGS transactions are processed in “real-time” and on a “gross” basis. This means each transaction is settled individually as it is received, with virtually no waiting period. The beneficiary bank typically receives the funds in real-time, and the beneficiary’s account is credited within a short time (usually within 30 minutes of receiving the transfer message). NEFT (National Electronic Funds Transfer): NEFT operates on a “Deferred Net Settlement” (DNS) basis. This means transactions are collected and processed in batches at specific intervals. While NEFT is now available 24x7, the actual settlement still happens in half-hourly batches. So, it takes some time for the payment to be settled.<br><br><b>Statement II is incorrect:</b> According to RBI guidelines, inward RTGS transactions (receiving money) are free of charge. Banks are not permitted to levy any charges on the beneficiary for receiving funds via RTGS. Similarly, inward NEFT transactions are also free of charge.<br><br><b>Statement III is incorrect:</b> Previously, both RTGS and NEFT operated only during specific hours on working days. However, major reforms by the Reserve Bank of India have now made both services available 24x7, 365 days a year. NEFT became a round-the-clock service in 2019, followed by RTGS in 2020. This means that customers can now transfer funds using either system at any time of the day, on any day of the year, including weekends and bank holidays."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "With reference to digital payment systems in India, consider the following:<br>I. Immediate Payment Service (IMPS)<br>II. National Financial Switch (NFS)<br>III. National Automated Clearing House (NACH)<br>IV. National Electronic Toll Collection (NETC)<br>V. RuPay Card Network<br>How many of the above are operated by the National Payments Corporation of India (NPCI)?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All the five"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>The National Payments Corporation of India (NPCI) is the umbrella organization for retail payment and settlement systems in India. It is an initiative of the Reserve Bank of India (RBI) and Indian Banks’ Association (IBA) under the provisions of the Payment and Settlement Systems Act, 2007. It develops and operates India’s major payment systems such as UPI, IMPS, RuPay, NACH, NETC (FASTag), and the National Financial Switch (ATM network).<br><br><b>Option I is correct:</b> Immediate Payment Service (IMPS): Operated by NPCI. It is a real-time, 24×7 electronic funds transfer system.<br><br><b>Option II is correct:</b> National Financial Switch (NFS): Operated by NPCI. NFS is India’s largest shared ATM network, enabling customers of one bank to use ATMs of other banks.<br><br><b>Option III is correct:</b> National Automated Clearing House (NACH): Operated by NPCI. NACH is a centralized, web-based electronic clearing system designed for bulk and repetitive transactions.<br><br><b>Option IV is correct:</b> National Electronic Toll Collection (NETC): Operated by NPCI. NETC is the system that powers FASTag-based electronic toll collection.<br><br><b>Option V is correct:</b> RuPay Card Network: Operated by NPCI. RuPay is India’s indigenous card payment network, providing debit, credit, prepaid, and contactless card services."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "Consider the following statements about the Debt Recovery Tribunals (DRTs) in India:<br>I. They are established under the provisions of Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002.<br>II. The chairperson of a DRT must be qualified to be a District Judge or must have served as a District Judge.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Debt Recovery Tribunals (DRTs) are specialized quasi-judicial bodies established with the objective to ensure speedy adjudication and recovery of debts due to banks and financial institutions.<br><br><b>Statement I is incorrect:</b> Debt Recovery Tribunals (DRTs) were not established under the SARFAESI Act, 2002. DRTs along with Debts Recovery Appellate Tribunals (DRATs) were established under the Recovery of Debts Due to Banks and Financial Institutions Act, 1993 (RDB Act, 1993). The SARFAESI Act, 2002 only strengthened the debt recovery framework by giving secured creditors the power to enforce their security interests without court intervention, and it allowed them to approach DRTs if the borrower contested such measures.<br><br><b>Statement II is correct:</b> The RDB Act, 1993 clearly lays down the qualifications for the Presiding Officer (Chairperson) of a DRT. A person is eligible for the position of Presiding Office of a DRT, if they are qualified to be a District Judge, or have already served as a District Judge. This ensures that the Presiding Officer has adequate judicial experience to handle complex financial and legal disputes related to debt recovery."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Market/Capital Market",
+
+    "question": "With reference to Convertible Bonds, consider the following statements:<br>1. As there is an option to exchange the bond for equity, Convertible Bonds pay a lower rate of interest.<br>2. The option to convert to equity affords the bondholder a degree of indexation to rising consumer prices.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "1 only",
+
+      "2 only",
+
+      "Both 1 and 2",
+
+      "Neither 1 nor 2"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement 1 is correct:</b> Convertible bonds tend to offer a lower coupon rate or rate of return in exchange for the value of the option to convert the bond into common stock. Investors will generally accept a lower coupon rate on a convertible bond, compared with the coupon rate on an otherwise identical regular bond, because of its conversion feature. This enables the issuer to save on interest expenses, which can be substantial in the case of a large bond issue.<br><br><b>Statement 2 is correct:</b> The option to convert to equity affords the bondholder a degree of indexation to rising consumer prices as equity prices can differ widely from the given interest and the difference in that can be used as a hedge for inflation."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "Which of the following policies help to raise interest rates unambiguously and thereby lead to appreciation of currency?",
+
+    "options": [
+
+      "Expansionary fiscal and monetary policy",
+
+      "Contractionary fiscal and monetary policy",
+
+      "Contractionary fiscal policy and expansionary monetary policy",
+
+      "Contractionary monetary policy and expansionary fiscal policy"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Contractionary monetary policy:</b> When the central bank implements a contractionary monetary policy, it increases the cost of borrowing and reduces the money supply in the economy. Higher interest rates make borrowing more expensive, which discourages spending and investment.<br><br><b>Expansionary fiscal policy:</b> It leads to increased government borrowing to finance the deficit. This increased borrowing can compete with private borrowing, leading to higher interest rates in the economy.<br><br>The combination of contractionary monetary policy and expansionary fiscal policy can work together to raise interest rates unambiguously."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "In context to Indian Economy, consider the following:<br>I. Currency held by the public<br>II. Net time deposits held by commercial banks<br>III. Savings deposits held by Post Office savings banks<br>IV. Cash reserves of the commercial banks<br>How many of the above are a part of the High Powered Money?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The currency issued by the central bank can be held either by the public or by commercial banks. This is called High Powered Money (HPM), also known as Reserve Money or the Monetary Base, as it forms the basis for credit creation in the economy. It represents the total amount of currency in circulation along with the reserves held with the central bank.<br><br><b>Options I and IV are correct:</b> High Powered Money includes Currency held by the public (all physical currency circulating in the economy and held by individuals and institutions outside the banking system) and Cash reserves of banks (cash balances of banks held with the central bank as well as vault cash).<br><br><b>Options II and III are incorrect:</b> Other items such as net time deposits held by commercial banks and savings deposits held by Post Office savings banks form part of broad money (M3) and are not included in High Powered Money."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "Priority Sector Lending (PSL) is an example of which of the following types of qualitative instruments of credit control used by the Reserve Bank of India?",
+
+    "options": [
+
+      "Credit Rationing",
+
+      "Moral Suasion",
+
+      "Direct Action",
+
+      "Consumer Credit Regulation"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Option a is correct:</b> Priority Sector Lending (PSL) is an example of Credit Rationing, one of the qualitative (or selective) tools used by the Reserve Bank of India (RBI). Qualitative tools do not focus on controlling the total credit in the economy, but instead guide where the credit should flow, especially towards sectors that are considered essential for inclusive growth. Under Credit Rationing, the central bank fixes a quota or ceiling for credit disbursal to different sectors. In the case of PSL, RBI mandates that 40% of a bank’s Adjusted Net Bank Credit (ANBC) must go to certain sectors that may otherwise be neglected by commercial lending trends.<br><br><b>Option b is incorrect:</b> Moral Suasion is a non-binding and persuasive method used by the RBI. It involves informal suggestions, appeals, or requests made to commercial banks.<br><br><b>Option c is incorrect:</b> Direct Action tool is used when banks fail to cooperate with RBI’s credit policy or monetary goals.<br><br><b>Option d is incorrect:</b> Consumer Credit Regulation refers to RBI’s control over personal or household borrowing."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "With reference to the Marginal Standing Facility (MSF), a monetary policy tool of the Reserve Bank of India (RBI), consider the following statements:<br>I. Marginal Standing Facility rate is always fixed above the Repo Rate.<br>II. Under this Facility, the banks can borrow from the Reserve Bank of India without pledging any collateral securities.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The Marginal Standing Facility (MSF) is an important tool used by the Reserve Bank of India (RBI) to manage short-term liquidity needs of banks. It allows banks to borrow overnight funds from RBI when they face unexpected shortages.<br><br><b>Statement I is correct:</b> The MSF is a penal rate, meaning it is deliberately kept higher than the repo rate. RBI currently places the MSF rate 25 basis points above the policy repo rate. Since it is costlier, banks use the MSF only when other sources, such as the Liquidity Adjustment Facility (LAF) or the call money market, are not sufficient.<br><br><b>Statement II is incorrect:</b> Under Marginal Standing Facility banks are required to pledge collateral securities to obtain funds. Under it, when a bank needs emergency funds, it can borrow overnight from the central bank by pledging government securities kept under Statutory Liquidity Ratio requirements."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Market/Capital Market",
+
+    "question": "Consider the following statements regarding Nidhi Companies in India:<br>I. They are permitted to accept deposits from and lend to their members only.<br>II. They are societies, registered under the Co-operative Societies Act, 1960.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Nidhi Companies are a unique form of financial entity in India designed to promote thrift and financial discipline among individuals.<br><br><b>Statement I is correct:</b> Nidhi Companies operate on the principle of mutual benefit. They are legally permitted to accept deposits from and lend to their own members only, and cannot deal with the general public in this regard. This restriction helps maintain a controlled and community-focused financial environment.<br><br><b>Statement II is incorrect:</b> Although their functioning may resemble that of cooperative societies in spirit, Nidhi companies as notified under Section 620A of the Companies Act, 1956/Section 406 of Companies Act 2013 and are regulated primarily by the Ministry of Corporate Affairs (MCA). While the Reserve Bank of India (RBI) can issue directions related to their deposit-taking activities."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Market/Capital Market",
+
+    "question": "Consider the following statements with respect to Indian economy:<br>Statement I: In a company limited by shares, Preference shareholders generally do not possess voting rights except in limited circumstances.<br>Statement II: Preference shareholders are generally treated as creditors of the company rather than its owners.<br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+
+      "Statement I is correct but Statement II is not correct",
+
+      "Statement I is not correct but Statement II is correct"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> Under the Companies Act 2013, preference shareholders do not normally have voting rights. As per section 47 of companies act 2013, Preference shareholders have right to vote only in resolutions which directly affect rights attached to his/her preference shares, any resolution for winding up of a company or reduction of its equity or preference share capital. Hence, they have limited and conditional voting rights, unlike equity shareholders who enjoy full voting rights.<br><br><b>Statement II is not correct:</b> Recently, the Supreme court in EPC Constructions Vs Matix Fertilizers, 2025 held that holders of Cumulative Preference shares are not treated as creditors and cannot initiate insolvency proceedings under Insolvency and Bankruptcy code 2016. They are a class of shareholders, meaning they are owners of the company, though with preferential rights regarding dividends and repayment of capital.<br><br>Additional details on preference shareholders include priority in dividend payment over equity shareholders, priority at liquidation when the company's assets are sold, and fixed and stable returns relative to the fluctuating share price."
+
+  }
+
+]
