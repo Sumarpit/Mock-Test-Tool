@@ -1,236 +1,1304 @@
 [
+
   {
+
     "section": "Economy",
+
     "topic": "Infrastructure",
+
     "question": "Consider the following statements:<br>I. Indian Railways have prepared a National Rail Plan (NRP) to create a future ready railway system by 2028.<br>II. Kavach’ is an Automatic Train Protection system, developed in collaboration with Germany.<br>III. ‘Kavach’ system consists of RFID tags fitted on track in the station section.<br>Which of the statements given above are not correct?",
+
     "options": [
+
       "I and II only",
+
       "II and III only",
+
       "I and III only",
+
       "I, II and III"
+
     ],
+
     "answer": 0,
+
     "explanation": "<b>Correct Answer: (a)</b><br><br>The Indian Railways has undertaken two major initiatives: the National Rail Plan (NRP) and the ‘Kavach’ Automatic Train Protection (ATP) system. Both are designed to modernize and secure the railway infrastructure and operations.<br><br><b>Statement I is incorrect:</b> The National Rail Plan (NRP) has been developed with the aim of creating a ‘future ready’ railway system by the year 2030, not 2028. The plan intends to meet future demand (both passenger and freight) up to 2050, and to increase the modal share of railways in freight transport to 45%.<br><br><b>Statement II is incorrect:</b> ‘Kavach’ is an indigenous ATP system developed by the Research Designs and Standards Organisation (RDSO) under Indian Railways. There is no German collaboration involved in its creation.<br><br><b>Statement III is correct:</b> The Kavach system uses Radio Frequency Identification (RFID) tags placed on the railway tracks, especially in station sections. These tags work in coordination with onboard and trackside equipment to detect train location, and automatically apply brakes in case of collision threats, signal violations, or overspeeding."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Sectors of Economy",
+
     "question": "The economic activities classified into sectors that is public and private sector on the basis of:",
+
     "options": [
+
       "employment conditions",
+
       "the nature of economic activity",
+
       "ownership of enterprises",
+
       "number of workers employed in the enterprise"
+
     ],
+
     "answer": 2,
+
     "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option c is correct:</b> Economic activities classified into sectors could be on the basis of who owns assets and is responsible for the delivery of services. <br><br>In the public sector, the government owns most of the assets and provides all the services. In the private sector, ownership of assets and delivery of services is in the hands of private individuals or companies."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Industrial Policy",
+
     "question": "‘It introduced a three way classification of industries in which Schedule A comprised the industries which were exclusively under the domain of the Government. It was regarded as the Economic Constitution of India or The Bible of State Capitalism.’<br><br>Which of the following industrial policies has been described in the above passage?",
+
     "options": [
+
       "Industrial Policy Resolution, 1948",
+
       "Industrial Policy Resolution, 1956",
+
       "Statement on Industrial Policy, 1977",
+
       "Statement on Industrial Policy, 1980"
+
     ],
+
     "answer": 1,
+
     "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option a is incorrect:</b> The Government of India announced its first industrial policy resolution on 6 April, 1948. The policy resolution laid stress on the role of the state in the development of industry. It laid down the foundation of a mixed economy wherein the public sector and the private sector were to coexist.<br><br><b>Option b is correct:</b> The Government of India introduced the Industrial Policy of 1956 as a revision of its policy of 1948. It was regarded as the “Economic Constitution of India” or “The Bible of State Capitalism”. It was shaped by the Mahalanobis Model of growth. It classified industries into three categories:<br>1. <b>Schedule A:</b> 17 industrial areas in which the Centre was given complete monopoly (e.g., railways, arms and ammunition, atomic energy).<br>2. <b>Schedule B:</b> 12 industrial areas where state governments were supposed to take up initiatives with follow up by the private sector.<br>3. <b>Schedule C:</b> All industrial areas left out of Schedules A and B, where private enterprises had provisions to set up industries.<br><br><b>Option c is incorrect:</b> The Industrial Policy Statement of 1977 laid emphasis on decentralisation and on the role of small-scale, tiny and cottage industries.<br><br><b>Option d is incorrect:</b> The Industrial Policy Statement of July, 1980 was based on the 1956 Resolution, with objectives like optimum utilisation of installed capacity, higher employment, and correction of regional imbalances."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Indian Industry",
+
     "question": "Consider the following:<br>I. Paper manufacturing<br>II. Distillation and brewing of alcoholic drinks<br>III. Ferrous and Non- ferrous metal extraction<br>IV. Cigars and cigarettes of tobacco and manufactured tobacco substitutes<br>V. Industrial explosives like detonating fuses<br><br>How many of the above industries in India presently require compulsory licensing as per Industries (Development & Regulation) Act, 1951?",
+
     "options": [
+
       "Only two",
+
       "Only three",
+
       "Only four",
+
       "All the five"
+
     ],
+
     "answer": 1,
+
     "explanation": "<b>Correct Answer: (b)</b><br><br>The industrial policy reforms have reduced the industrial licensing requirements, removed restrictions on investment and expansion, and facilitated easy access to foreign technology and FDI. Only 5 industries have been retained under compulsory licensing under the Industries (Development & Regulation) Act, 1951:<br><br>1. <b>Distillation and brewing of alcoholic drinks (Option II)</b><br>2. <b>Cigars and cigarettes of tobacco and manufactured tobacco substitutes (Option IV)</b><br>3. Electronic aerospace and Defence equipment: all types<br>4. <b>Industrial explosives including detonating fuses, Safety Fuses, gun powder, nitrocellulose and matches (Option V)</b><br>5. Hazardous chemicals: viz. Hydrocyanic acid, Phosgene, Isocyanates, etc.<br><br><b>Options I and III are incorrect:</b> Paper manufacturing and Ferrous and Non-ferrous metal extraction are not under Compulsory licensing."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Indian Industry",
+
     "question": "According to the Companies Act, 2013, ‘nominal capital’ implies:",
+
     "options": [
+
       "such part of capital, which has been called for payment",
+
       "the maximum amount of share capital of a company",
+
       "such part of capital, which has been received by a company from its shareholders",
+
       "such capital as the company issues from time to time for subscription"
+
     ],
+
     "answer": 1,
+
     "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option b is correct:</b> The term ‘nominal capital’ refers to the authorized or maximum amount of share capital that a company is allowed to issue as per its Memorandum of Association.<br><br>It represents the total value of shares that can be issued by the company to its shareholders. The nominal capital is usually specified in the company’s founding documents and can be changed through a formal process, such as an amendment to the Memorandum of Association."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Infrastructure",
+
     "question": "In the context of disinvestment policy of Government of India, consider the following:<br>I. Entire sale of Government equity in a Central Public Sector Enterprise to private buyers alongwith the management control of the enterprise.<br>II. Substantial sale of Government equity in a Central Public Sector Enterprise to another Central Public Sector Enterprise alongwith the management control of the enterprise.<br>III. Sale of a certain share of Government equity in a Central Public Sector Enterprise to a private buyer but without the management control of the enterprise.<br><br>Which of the above disinvestment(s) will be considered under the category of strategic disinvestment?",
+
     "options": [
+
       "I only",
+
       "II only",
+
       "I and II only",
+
       "I, II and III"
+
     ],
+
     "answer": 2,
+
     "explanation": "<b>Correct Answer: (c)</b><br><br>Government policy on disinvestment consists of Strategic Disinvestment/Privatization and Minority Stake Sale in CPSEs.<br><br>Strategic Disinvestment implies entire or substantial sale of Government shareholding of a CPSE along with transfer of management control.<br><br><b>Scenario I is correct:</b> Privatization is a subset of strategic disinvestment where the entire government equity is transferred to a private buyer along with the management control of the enterprise.<br><br><b>Scenario II is correct:</b> Sale of substantial equity of the government along with the management control to another central public sector enterprise is a type of strategic disinvestment.<br><br><b>Scenario III is incorrect:</b> This is minority stake sale, where certain shares are sold without transfer of management control through methods like IPO, OFS, Buyback of shares etc."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Indian Industry",
+
     "question": "In India, the ‘Index of Eight Core Industries’ measures the combined and individual performance of production of eight core industries. In this context consider the following industries:<br>I. Coal<br>II. Fertilizers<br>III. Electricity<br>IV. Automobiles<br>V. Steel<br><br>How many of the above industries are included in the Index of Eight Core Industries?",
+
     "options": [
+
       "Only two",
+
       "Only three",
+
       "Only four",
+
       "All the five"
+
     ],
+
     "answer": 2,
+
     "explanation": "<b>Correct Answer: (c)</b><br><br>The Eight Core Industries form the backbone of India’s industrial sector and include coal, crude oil, natural gas, refinery products, fertilisers, steel, cement, and electricity. They carry a weight of about 40% in the Index of Industrial Production (IIP).<br><br><b>Options I, II, III, and V are correct:</b> Coal, Fertilizers, Electricity, and Steel are explicitly included in the Eight Core Industries list.<br><br><b>Option IV is incorrect:</b> Automobiles are not part of the Eight Core Industries. They fall under the broader manufacturing sector within the IIP but are not included in the core industries' basket."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Indian Industry",
+
     "question": "Consider the following statements:<br>Statement I: In 2024, India became the largest producer of crude steel in the world.<br>Statement II: The Production Linked Incentive (PLI) Scheme for Specialty Steel is playing a key role in making India a global hub for steel production.<br><br>Which one of the following is correct in respect of the above statements?",
+
     "options": [
+
       "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
       "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+
       "Statement I is correct but Statement II is not correct",
+
       "Statement I is not correct but Statement II is correct"
+
     ],
+
     "answer": 3,
+
     "explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I is incorrect:</b> India is the second-largest producer of crude steel. China was the world's largest crude steel producer in 2024 (1,005.1 MT) followed by India (149.4 MT), Japan (84.0 MT), and the USA (79.5 MT). India became the world’s second-largest steel producer in 2018 surpassing Japan and has remained so since then.<br><br><b>Statement II is correct:</b> The Production Linked Incentive (PLI) Scheme for Specialty Steel was approved in 2021, with a vision to make India a global hub for steel production. Since then, it has been able to attract new investments in emerging and advanced steel products, such as super alloys, CRGO, stainless steel long and flat products, titanium alloys, and coated steels."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Sectors of Economy",
+
     "question": "With reference to India’s Foreign Direct Investment (FDI) policy, consider the following:<br>I. Services related to agro and allied sectors<br>II. Mining and mineral separation of titanium bearing minerals and ores<br>III. Manufacturing of small arms and ammunition under the Arms Act, 1959<br>IV. Palm oil tree plantations<br>V. Asset Reconstruction Companies<br><br>In how many of the above, is 100% Foreign Direct Investment permitted under the automatic route?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "Only three",
+
       "Only four"
+
     ],
+
     "answer": 2,
+
     "explanation": "<b>Correct Answer: (c)</b><br><br>India permits FDI through two routes: the Automatic Route (requiring no prior government approval) and the Government Route (needing approval).<br><br><b>Option I is correct:</b> 100% FDI is permitted under the automatic route for Agriculture & Animal Husbandry, including services related to agro and allied sectors.<br><br><b>Option II is incorrect:</b> For mining and mineral separation of titanium bearing minerals and ores, 100% FDI is permitted but prior approval of the government is required (Government Route).<br><br><b>Option III is incorrect:</b> Manufacturing of small arms and ammunition under the Arms Act, 1959 allows FDI only up to 74% under the automatic route. Anything beyond requires government approval.<br><br><b>Option IV is correct:</b> 100% FDI is permitted under the automatic route for the Plantation Sector, which includes palm oil tree plantations.<br><br><b>Option V is correct:</b> 100% FDI is permitted under the automatic route for Asset Reconstruction Companies."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Infrastructure",
+
     "question": "With reference to the National Monetisation Pipeline (NMP), consider the following statements:<br>I. It includes monetization of brownfield assets of central public sector enterprises and other undertakings within the purview of the Government of India.<br>II. Under the NMP framework, primary ownership of the monetised assets continues to remain with the Government of India.<br><br>Which of the statements given above is/are correct?",
+
     "options": [
+
       "I only",
+
       "II only",
+
       "Both I and II",
+
       "Neither I nor II"
+
     ],
+
     "answer": 2,
+
     "explanation": "<b>Correct Answer: (c)</b><br><br>The National Monetisation Pipeline (NMP) is a government initiative to monetise brownfield infrastructure assets of Central ministries and CPSEs to fund new infrastructure.<br><br><b>Statement I is correct:</b> The asset Monetisation Plan covers brownfield assets of identified statutory entities, public sector enterprises, and other undertakings within the purview of Ministries/Departments of the Government of India.<br><br><b>Statement II is correct:</b> Under the NMP framework, primary ownership of the monetised assets continues to remain with the Government of India. Monetisation is carried out through instruments such as PPP concessions, leasing, or InvITs, involving temporary transfer of revenue or usage rights. There is no outright sale."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Indian Industry",
+
     "question": "With reference to Corporate Social Responsibility (CSR) rules in India, consider the following statements:<br>1. CSR rules specify that expenditures that benefit the company directly or its employees will not be considered as CSR activities.<br>2. CSR rules do not specify minimum spending on CSR activities.<br><br>Which of the statements given above is/are correct?",
+
     "options": [
+
       "1 only",
+
       "2 only",
+
       "Both 1 and 2",
+
       "Neither 1 nor 2"
+
     ],
+
     "answer": 0,
+
     "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement 1 is correct:</b> CSR activities are meant to benefit society, not the company itself. Schedule VII of the Companies Act, 2013 indicates activities that can be undertaken as CSR (e.g., health, sanitation, education, environment). Expenditures benefiting the company directly or its employees are excluded.<br><br><b>Statement 2 is incorrect:</b> As per Section 135 of the Companies Act, 2013, an eligible company must spend at least 2% of the average net profits made during the three immediately preceding financial years on its Corporate Social Responsibility Policy."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Indian Industry",
+
     "question": "Which of the following organizations/departments is responsible for making recommendations with regard to the Central Public Sector Enterprises under Strategic Sectors, that are to be retained under the Government Control or to be considered for privatisation or merger or subsidiarization with another PSE or for closure?",
+
     "options": [
+
       "NITI Aayog",
+
       "Department of Investment and Public Asset Management",
+
       "Department for Promotion of Industry and Internal Trade",
+
       "Prime Minister’s Office"
+
     ],
+
     "answer": 0,
+
     "explanation": "<b>Correct Answer: (a)</b><br><br><b>Option a is correct:</b> NITI Aayog will make recommendations with regard to the Central Public Sector Enterprises under Strategic Sectors, that are to be retained under the Government Control or to be considered for privatisation, merger, subsidiarization with another PSE, or for closure.<br><br>The final approval and decision on disinvestment are made by the Cabinet Committee on Economic Affairs (CCEA). The Department of Investment and Public Asset Management (DIPAM) is responsible for the execution of the actual disinvestment process."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Indian Industry",
+
     "question": "Consider the following regions in India:<br>I. Vijaynagar in Karnataka<br>II. Visakhapatnam in Andhra Pradesh<br>III. Salem in Tamil Nadu<br><br>How many of the regions given above are considered as the major steel producing centres in India?",
+
     "options": [
+
       "Only one",
+
       "Only two",
+
       "All the three",
+
       "None"
+
     ],
+
     "answer": 2,
+
     "explanation": "<b>Correct Answer: (c)</b><br><br>The iron and steel industry is ideally located close to coalfields and well-connected by canals and railways. Most major integrated steel plants (Bhilai, Durgapur, Burnpur, Jamshedpur, Rourkela, Bokaro) are in a contiguous belt spanning West Bengal, Jharkhand, Odisha, and Chhattisgarh.<br><br>Other important steel centres have emerged by utilising local resources. These include:<br>1. Bhadravati and <b>Vijayanagar in Karnataka</b><br>2. <b>Visakhapatnam in Andhra Pradesh</b><br>3. <b>Salem in Tamil Nadu</b><br><br>All three regions given are major steel-producing centres."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Infrastructure",
+
     "question": "With reference to the Bharat Net Project, consider the following statements:<br>I. Amended BharatNet Program aims at providing Optical Fibre connectivity to more than 2.5 lakh Gram Panchayats and to the remaining non-Gram Panchayat villages on demand.<br>II. It is jointly funded by the Asian Development Bank and the Government of India.<br>III. Bharat Sanchar Nigam Limited (BSNL) is designated as the nodal agency for the implementation of the project.<br><br>Which of the statements given above is/are correct?",
+
     "options": [
+
       "I only",
+
       "II and III only",
+
       "II only",
+
       "I, II and III"
+
     ],
+
     "answer": 0,
+
     "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> The Amended BharatNet Programme (2023) aims for Optical Fibre (OF) connectivity to 2.64 lakh Gram Panchayats (GPs) in ring topology and to the remaining non-GP villages on demand.<br><br><b>Statement II is incorrect:</b> BharatNet is primarily financed through the Digital Bharat Nidhi (which replaced the Universal Service Obligation Fund), established under the Telecommunication Act, 2023. It is not funded by the Asian Development Bank.<br><br><b>Statement III is incorrect:</b> The project is implemented through a Special Purpose Vehicle, Bharat Broadband Network Limited (BBNL). Under the Amended Programme, BSNL is designated as the single Project Management Agency (PMA) responsible for the operation and maintenance of the network, but it is not the nodal implementing agency for the scheme itself."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Infrastructure",
+
     "question": "Consider the following statements:<br>1. Coal sector was nationalized by the Government of India under Indira Gandhi.<br>2. Now, coal blocks are allocated on lottery basis.<br>3. Till recently, India imported coal to meet the shortages of domestic supply, but now India is self-sufficient in coal product.<br><br>Which of the statements given above is/are correct?",
+
     "options": [
+
       "1 only",
+
       "2 and 3 only",
+
       "3 only",
+
       "1, 2 and 3"
+
     ],
+
     "answer": 0,
+
     "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement 1 is correct:</b> The Indira Gandhi government nationalized the coal sector in the 1971-73 period. This was reversed by the NDA government in 2015, opening the sector to private players.<br><br><b>Statement 2 is incorrect:</b> Under the new policy, the allocation of coal blocks is done on the basis of a bidding process. The firm offering the highest per tonne price is allotted the mine, not on a lottery basis.<br><br><b>Statement 3 is incorrect:</b> Although India has the fifth largest coal reserve in the world, it is not self-sufficient. India still imports high-quality coal to meet its domestic demand."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Infrastructure",
+
     "question": "The Water+ Certification under the Swachh Bharat Mission (Urban) indicates which of the following?",
+
     "options": [
+
       "All the households in the city have a functional tap water connection in their homes.",
+
       "All Schools, Health centres, wellness centres and community buildings in a city have a clean and functional toilet.",
+
       "All the wastewater released from households, commercial establishments, drains, nallahs etc. in a city is treated to the level as per Central Pollution Control board norms, before releasing the treated wastewater to the environment.",
+
       "The city is free from any water-borne diseases due to improved sanitation and wastewater management."
+
     ],
+
     "answer": 2,
+
     "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option c is correct:</b> Building on the achievement of an Open Defecation Free (ODF) nation under SBM-U, the government introduced the ODF, ODF+, ODF++, and Water+ protocols. A city/ward/circle/zone can be declared as <b>Water Plus</b> provided all wastewater released from households, commercial establishments, drains, nallahs, etc., is treated to a satisfactory level (as per Central Pollution Control Board norms), before releasing the treated wastewater to the environment. Adequate capacity of wastewater and sewage treatment facilities must also be ensured."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Indian Industry",
+
     "question": "With reference to the Business Expectations Index (BEI) in India, which of the following statements is correct?",
+
     "options": [
+
       "It is released by the Ministry of Commerce and Industry.",
+
       "It is compiled annually.",
+
       "It is released as part of the Industrial Outlook Survey.",
+
       "The Index lies between 0 and 100, where a reading above 50 indicates expansion in the manufacturing and services sector of the economy."
+
     ],
+
     "answer": 2,
+
     "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option a is incorrect:</b> The Business Expectations Index (BEI) is published by the Reserve Bank of India (RBI), not the Ministry of Commerce and Industry.<br><br><b>Option b is incorrect:</b> The BEI is compiled and released quarterly (not annually).<br><br><b>Option c is correct:</b> The BEI is released with the quarterly Industrial Outlook Survey conducted by the RBI. The survey produces the Business Assessment Index (BAI) and the forward-looking Business Expectations Index (BEI).<br><br><b>Option d is incorrect:</b> The Index ranges from 0 to 200, with 100 as the neutral threshold. Values above 100 signify expansionary business expectations."
+
   },
+
   {
+
     "section": "Economy",
+
     "topic": "Indian Industry",
+
     "question": "With reference to cement industry in India, consider the following statements:<br>I. India is the second-largest cement producer in the world.<br>II. India’s per capita cement consumption is higher than the global average.<br>III. The production of cement in India has steadily increased between the Financial Year 2020 and Financial Year 2024.<br><br>Which of the statements given above is/are correct?",
+
     "options": [
+
       "I only",
+
       "I and II only",
+
       "II and III only",
+
       "I, II and III"
+
     ],
+
     "answer": 0,
+
     "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> India is the second-largest producer of cement globally, next only to China. It has an installed capacity of about 639 million tonnes and produced around 427 million tonnes in FY24.<br><br><b>Statement II is incorrect:</b> India’s per capita cement consumption is about 290 kg, which is much lower than the global average of around 540 kg.<br><br><b>Statement III is incorrect:</b> The production of cement has not steadily increased year-on-year. Cement production was about 340 million tonnes in FY20 but declined to around 300 million tonnes in FY21 before rising again in subsequent years."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Economic Survey 2024-25",
+
+    "question": "With reference to the expenditure on Research and Development in India, consider the following statements:<br>I. In the year 2020-21, the Gross Expenditure on Research and Development (GERD) as a percentage of GDP for the first time crossed 1%.<br>II. Presently, India’s Gross Expenditure on Research and Development (GERD) as a percentage of GDP is below the global average.<br>III. In India business enterprises contribute over 50 per cent to the Gross Expenditure on Research and Development.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II only",
+
+      "III only",
+
+      "None of the above"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I is incorrect:</b> As per the latest available Research and development statistics, the total Research and development expenditure measured in terms of Gross Expenditure on Research and Development (GERD) as a percentage of GDP is 0.66%, 0.66% and 0.64% during 2018-19, 2019-20 and 2020-21 respectively. As per the available data, in India, the GERD as a percentage of GDP has never touched 1%.<br><br><b>Statement II is correct:</b> India’s GERD as a percentage of GDP remained between 0.6% to 0.7% which is below the global average and lower than countries like China, South Korea and USA.<br><br><b>Statement III is incorrect:</b> One of the factors contributing to below global average GERD as a percentage of GDP is due to low investment by India’s private sector, accounting for only around 36%, whereas in USA, Japan, South Korea private sector contributions is more than 70%."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Indian Industry",
+
+    "question": "Consider the following statements regarding the Trade Receivables Discounting System (TReDS):<br>I. It is an electronic platform for facilitating the financing/discounting of trade receivables of certain sellers of goods and services through multiple financiers.<br>II. Only Micro, Small and Medium Enterprises (MSMEs) are permitted to participate as sellers on the TReDS platform.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> TReDS is an electronic platform for facilitating the financing / discounting of trade receivables of Micro, Small and Medium Enterprises (MSMEs) through multiple financiers. These receivables can be due from corporates and other buyers, including Government Departments and Public Sector Undertakings (PSUs). Sellers, buyers and financiers are the participants on a TReDS platform.<br><br><b>Statement II is correct:</b> On the TReDS platform, only MSMEs are allowed to participate as sellers. Corporates, Government Departments, PSUs and any other entity can participate as buyers in TReDS, while banks and NBFC-Factors act as financiers."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Indian Industry",
+
+    "question": "Which of the following activities constitute the real sector in the economy?<br>1. Farmers harvesting their crops<br>2. Textile mills converting raw cotton into fabrics<br>3. A commercial bank lending money to a trading company<br>4. A corporate body issuing Rupee Denominated Bonds overseas<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1 and 2 only",
+
+      "2, 3 and 4 only",
+
+      "1, 3 and 4 only",
+
+      "1, 2, 3 and 4"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>There are three sectors of any domestic economy: General government sector, Real sector, and Financial sector.<br><br><b>Options 1 and 2 are correct:</b> The real sector of the economy consists of enterprises (non-financial corporations), households and non-profit institutions serving households. Non-financial organizations comprise all resident units involved in the production of market goods and non-financial services (e.g., farmers harvesting crops, textile mills converting cotton into fabrics).<br><br><b>Options 3 and 4 are incorrect:</b> The financial sector consists of corporations principally engaged in financial intermediation or in auxiliary financial activities that contribute to financial intermediation (e.g., commercial banks lending money, corporate bodies issuing bonds)."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Indian Industry",
+
+    "question": "Which of the following best describes the primary objective of the MSME Samadhaan Portal?",
+
+    "options": [
+
+      "To provide online credit linkage and loan restructuring support to Micro and Small Enterprises.",
+
+      "To establish an online marketplace for transparent government procurement of MSME goods and services.",
+
+      "To enable Micro and Small Enterprises to file online complaints against buyers for delayed payments.",
+
+      "To facilitate insolvency resolution of stressed MSMEs under the Insolvency and Bankruptcy Code, 2016."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The MSME Samadhaan Portal is an online platform created by the Office of the Development Commissioner (MSME) under the Ministry of Micro, Small and Medium Enterprises.<br><br><b>Option c is correct:</b> Its primary objective is to enable Micro and Small Enterprises (MSEs) to file applications online for delayed payment issues from buyers. Once an application is submitted, it is automatically forwarded electronically to the concerned Micro and Small Enterprises Facilitation Council (MSEFC) constituted by the respective State/UT under the provisions of the MSMED Act, 2006."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Infrastructure",
+
+    "question": "Consider the following:<br>This port finds its mention in one of the inscriptions from the Pandya–Chola era (1129 CE) as Rajendra Chola Pattinam. It is presently India’s first deep water container transshipment port.<br>Which of the following ports is being discussed in the above paragraph?",
+
+    "options": [
+
+      "Tuticorin",
+
+      "Vizhakapatinam",
+
+      "Vizhinjam",
+
+      "Ennore"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option c is correct:</b> The Vizhinjam Port, located in the Thiruvananthapuram district of Kerala, has historically been an important centre of global maritime trade. Inscriptions from the Pandya–Chola period (c. 1129 AD) refer to Vizhinjam as Rajendra Chola Pattinam, indicating its significance as a port of Kerala. Historians also identify Vizhinjam with Balita, a port mentioned in the first-century AD travelogue Periplus of the Erythraean Sea.<br><br>At present, nearly 75% of India’s transshipment cargo is handled by foreign ports. Vizhinjam is strategically located just 10 nautical miles from the global maritime trading route. Owing to these advantages, Vizhinjam has been developed as India’s first deep-water container transshipment port."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Indian Industry",
+
+    "question": "With reference to Special Economic Zones (SEZs) in India, consider the following statements:<br>I. Units set up in SEZs are permitted to undertake both manufacturing and service activities.<br>II. SEZ units are provided with 100% Income Tax exemption on export income for a period of 25 years.<br>III. Foreign Direct Investment (FDI) up to 100% is permissible for setting up of a SEZ.<br>IV. Maharashtra has the highest number of operational SEZs in India.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "II and IV only",
+
+      "I, III and IV only",
+
+      "I and III only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>A Special Economic Zone (SEZ) is a designated duty-free enclave, treated as a territory outside the customs territory of India for trade operations and duties.<br><br><b>Statement I is correct:</b> As per the provisions of the SEZ Act, 2005, units established in Special Economic Zones are permitted to undertake both manufacturing as well as service activities.<br><br><b>Statement II is incorrect:</b> SEZ units are provided with fiscal incentives under Section 10AA of the Income-tax Act, 1961. These include 100% Income Tax exemption on export income for the first five years, 50% exemption for the subsequent five years, and a further 50% exemption on reinvested export profits for the next five years (not for 25 Years).<br><br><b>Statement III is correct:</b> Foreign Direct Investment, up to 100%, for setting up of SEZ is permissible under an automatic route.<br><br><b>Statement IV is incorrect:</b> Tamil Nadu has the largest number of operational SEZs (49) in India. Maharashtra has 36 operational SEZs."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Indian Industry",
+
+    "question": "Which one of the following is not correct in the context of industrial clusters development in India?",
+
+    "options": [
+
+      "Industrial clusters play an important role for the MSME participants in their inclusiveness, technology absorption and efficiency improvement",
+
+      "Industrial clusters are visible in traditional handloom, handicrafts and modern SME",
+
+      "Industrial cluster programmes in India are administered by various ministeries",
+
+      "Industrial clusters lead to promotion of monopoly in the market"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Option d is the correct answer:</b> Industrial clusters in India aim to foster collaboration, innovation, and competitiveness among firms, particularly MSMEs. They play a vital role in inclusiveness, technology absorption, and efficiency improvement. The objective is to enhance competitiveness and promote economic growth, not monopolies.<br><br><b>Options a, b, and c are correct statements</b> regarding industrial clusters. They are visible in traditional and modern sectors, and their development is administered by various ministries."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Service Sector",
+
+    "question": "With reference to E-commerce sector in India, consider the following statements:<br>I. In the inventory-based model of e-commerce, the e-commerce entity owns the inventory of goods and services and sells them directly to consumers.<br>II. At present, 100% Foreign direct investment is allowed in the inventory-based e-commerce sector only for the export purpose.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> The inventory-based model of e-commerce refers to an e-commerce activity in which the e-commerce entity owns the inventory of goods and services and sells them directly to consumers, without acting merely as a facilitator between the buyer and seller.<br><br><b>Statement II is incorrect:</b> At present, India’s FDI policy strictly prohibits foreign direct investment in the inventory-based model of e-commerce. However, 100% FDI is permitted under the automatic route in the marketplace-based model of e-commerce for platforms such as Amazon and Flipkart."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Service Sector",
+
+    "question": "With reference to Service sector in India, consider the following statements:<br>I. India is the third largest exporter of services in the world after the USA and China.<br>II. Since the last one decade, India's share in global services exports is higher than that of merchandise exports.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I is incorrect:</b> India ranked seventh worldwide, with a 4.3% share in global services exports. As per Economy Survey 2024-25, the United States emerged as the largest exporter of services globally, followed by the United Kingdom (7.4%) and Germany (5.5%).<br><br><b>Statement II is correct:</b> As per data from the United Nations Conference on Trade and Development, India’s share in global services exports is consistently higher than its share in global merchandise exports for the past decades. For instance, in 2023, India accounted for 4.3% of global services exports, compared to only 1.8% of global merchandise exports."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Indian Industry",
+
+    "question": "With reference to Indian Economy, consider the following statements about Index of Industrial Production (IIP):<br>I. It is released on a monthly basis by the National Statistics Office (NSO).<br>II. The base year used for the calculation of IIP is 2011–12.<br>III. It excludes the production activities in agriculture and services sectors.<br>IV. The eight core industries together account for more than 50% of the total weight of items included in the IIP.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "I and III only",
+
+      "I, II and III",
+
+      "II, III and IV"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> The Index of Industrial Production (IIP) is a monthly volume index that captures short-term changes in industrial output and is compiled and released by the Central Statistics Office (CSO)/NSO under the Ministry of Statistics and Programme Implementation (MoSPI).<br><br><b>Statement II is correct:</b> The current base year of the IIP is 2011–12.<br><br><b>Statement III is correct:</b> For the purpose of the IIP, the term industry refers specifically to the production of goods and excludes activities related to agriculture and services. Industrial production under the IIP is limited to three key sectors: mining, manufacturing, and electricity.<br><br><b>Statement IV is incorrect:</b> The eight core industries (refinery products, electricity, steel, coal, crude oil, natural gas, cement, and fertilizers) together contribute approximately 40.27% (not 50%) of the total weight of items included in the IIP."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Indian Industry",
+
+    "question": "“Project Abhay”, which was launched recently, aims at:",
+
+    "options": [
+
+      "Rehabilitation of drug-addicted youths.",
+
+      "Expansion of employment opportunities for manual scavengers.",
+
+      "Strengthening social security protection for street vendors.",
+
+      "Improving the lives of the truck drivers in India."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Option d is correct:</b> Project Abhay is an initiative by the Centre for Rural Development & Technology (CRDT), IIT Delhi, in collaboration with Foresight Foundation and supported by the Ministry of Road Transport & Highways (MoRTH).<br><br>It was launched with the objective of improving the health, vision, and safety of truck drivers in India. The project has successfully screened over 50,000 truck drivers across multiple states, addressing critical health and vision challenges faced by this essential but underserved workforce."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Indian Industry",
+
+    "question": "Which of the following generates the highest Gross Value Added (GVA) within transport services to the Indian Economy?",
+
+    "options": [
+
+      "Roadways",
+
+      "Railways",
+
+      "Airways",
+
+      "Inland waterways"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Option a is correct:</b> India’s services sector has consistently been the most stable contributor to the country’s gross value added (GVA), with its share rising from 50.6 per cent in FY14 to around 55 per cent in FY25 at current prices.<br><br>Within the transport services, road transport contributes the most to GVA, accounting for 78 per cent of the total GVA from transport services in FY23. Improving user convenience on national highways plays a crucial role in supporting the growth and efficiency of road transport."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Indian Industry",
+
+    "question": "Which of the following are the objectives of the Khadi and Village Industries Commission?<br>1. To provide employment in rural areas.<br>2. To produce saleable articles.<br>3. To create self-reliance amongst people and building up a strong rural community spirit.<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1, 2 and 3",
+
+      "1 and 2 only",
+
+      "2 and 3 only",
+
+      "1 and 3 only"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The objectives of the Khadi and Village Industries Commission (KVIC) are:<br><b>Primary Objective:</b> To build up an active rural community.<br><b>Social Objective:</b> To provide employment in rural areas (<b>Statement 1 is correct</b>).<br><b>Economic Objective:</b> To produce a saleable product (<b>Statement 2 is correct</b>).<br><b>Wider Objective:</b> To create self-reliance among the economically weaker section and build up a strong rural community spirit (<b>Statement 3 is correct</b>)."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Infrastructure",
+
+    "question": "With reference to Open Network for Digital Commerce (ONDC) in India, consider the following statements:<br>I. It is an initiative by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce, Government of India.<br>II. It functions as a centralized e-commerce entity that directly owns and manages inventories.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> The Open Network for Digital Commerce (ONDC) is an initiative by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce, aimed at democratizing digital commerce.<br><br><b>Statement II is incorrect:</b> ONDC does not function as a centralized e-commerce platform, nor does it own or manage inventories. Instead, it follows a decentralised architecture, where buyer applications, seller applications, and logistics providers interact through open network protocols."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Sectors of Economy",
+
+    "question": "With reference to India’s Nominal Gross Value Added (GVA) in FY 2024–25, consider the following sectors:<br>I. Mining and Quarrying<br>II. Construction<br>III. Agriculture, Livestock, Forestry and Fishing<br>IV. Manufacturing<br>Arrange the above sectors in decreasing order of their contribution to India’s nominal GVA.",
+
+    "options": [
+
+      "I - II - IV - III",
+
+      "III - IV - II - I",
+
+      "III - IV - I - II",
+
+      "IV - III - I - II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Gross Value Added (GVA) gives the rupee value of goods and services produced in the economy after deducting the cost of inputs and raw materials used.<br><br><b>Sectoral Composition in FY 2024-25:</b><br>1. <b>Agriculture, Livestock, Forestry and Fishing</b> account for around 18% of India’s nominal GVA.<br>2. <b>Manufacturing</b> contributes about 14% to India’s nominal GVA.<br>3. <b>Construction</b> sector contributes approximately 9% to India’s nominal GVA.<br>4. <b>Mining and Quarrying</b> accounts for about 2% of India’s nominal GVA.<br><br>Therefore, the decreasing order is: III (Agriculture) > IV (Manufacturing) > II (Construction) > I (Mining). This matches option <b>b) III - IV - II - I</b>."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Insurance Sector",
+
+    "question": "Arrange the following events related to the evolution of the insurance sector in India in chronological order:<br>I. Incorporation of Insurance Regulatory and Development Authority (IRDA) as a statutory body.<br>II. Establishment of the General Insurance Corporation of India (GIC).<br>III. Nationalization of life insurance sector in India<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I - II - III",
+
+      "III - I - II",
+
+      "II - I - III",
+
+      "III - II - I"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>The insurance sector in India has evolved from a state-dominated system to a regulated and progressively liberalised market.<br><br><b>Event III:</b> Nationalization of Life Insurance sector in India (1956). The Government of India created the Life Insurance Corporation of India (LIC).<br><b>Event II:</b> Establishment of the General Insurance Corporation of India (GIC). In 1971, the government nationalised 107 private general insurance companies, and in 1972, GIC was established.<br><b>Event I:</b> Incorporation of IRDA. The IRDA Act was passed in 1999, and the Insurance Regulatory and Development Authority (IRDA) was set up in 2000.<br><br>Chronological order is III - II - I."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Infrastructure",
+
+    "question": "Which of the following statements with regard to National Logistics Policy (NLP) is NOT correct?",
+
+    "options": [
+
+      "NLP was launched in 2022.",
+
+      "NLP would improve the competitiveness of Indian goods.",
+
+      "NLP would enhance economic growth and increase employment opportunities.",
+
+      "NLP would provide an opportunity for deleveraging balance sheets and providing fiscal space for investment in new infrastructure assets."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>The National Logistics Policy (NLP) was launched by the Government of India in September 2022. Its primary objective is to streamline and modernise the logistics ecosystem in the country.<br><br><b>Option d is NOT correct:</b> The National Logistics Policy does not focus on deleveraging balance sheets or creating fiscal space for infrastructure investment. These are financial sector concerns, not part of the direct goals or mechanisms of the logistics policy. The policy is more concerned with operational reforms, digitisation, and coordination across supply chains."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Insurance Sector",
+
+    "question": "Which one of the following best describes the term ‘insurance penetration’?",
+
+    "options": [
+
+      "The ratio of insurance claims successfully settled by the insurer to the claims raised by the policyholders or their nominees.",
+
+      "The ratio of total insurance premiums underwritten in a year to the total population of the country.",
+
+      "The ratio of insurance premiums underwritten in a year to the country’s Gross Domestic Product (GDP).",
+
+      "The ratio of sum of incurred losses and underwriting expenses to earned premiums in a given period."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option c is correct:</b> Insurance penetration is internationally defined as the ratio of total insurance premiums underwritten in a given year to the country’s Gross Domestic Product (GDP). It indicates the contribution of insurance to the economy.<br><br><b>Option a describes</b> the Claim Settlement Ratio.<br><b>Option b describes</b> Insurance density (ratio of premium underwritten to total population)."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Insurance Sector",
+
+    "question": "Which of the following is/are the functions of the Insurance Regulatory and Development Authority of India?<br>I. Adjudication of disputes between insurers and intermediaries or insurance intermediaries.<br>II. Specifying the percentage of life insurance business and general insurance business to be undertaken by an insurer in the rural or social sector<br>III. Approving Foreign Direct investment in the insurance sector if it is beyond 74%.<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I only",
+
+      "II and III only",
+
+      "I and II only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Insurance Regulatory and Development Authority of India (IRDAI) is a statutory body constituted by an act of parliament. Section 14 of IRDA Act, 1999 lays down the duties, powers and functions of IRDAI.<br><br><b>Statement I is correct:</b> The Insurance Regulatory and Development Authority of India (IRDAI) adjudicates the disputes between insurers or insurance intermediaries.<br><br><b>Statement II is correct:</b> IRDAI specify the percentage of life insurance business and general insurance business to be undertaken by the insurer in the rural or social sector.<br><br><b>Statement III is incorrect:</b> Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025 passed recently by Parliament, allows up to 100% FDI in insurance companies. IRDAI has no role with respect to approval of FDI in the insurance sector."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Insurance Sector",
+
+    "question": "With reference to Atal Pension Yojana, consider the following statements:<br>I. It is the initiative of the Ministry of Social Justice and Empowerment.<br>II. Any Indian citizen aging between 18 to 40 years is an eligible beneficiary under the scheme.<br>III. Each subscriber to the scheme, based on their contribution, shall receive a guaranteed minimum pension of ₹ 1000 to ₹ 5000 per month, from age 60 years until death.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and II",
+
+      "II and III",
+
+      "III only",
+
+      "I and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The Government of India launched the Atal Pension Yojana (APY) in May 2015 to tackle longevity risk and inadequate retirement security in India’s unorganized sector.<br><br><b>Statement I is incorrect:</b> It is a Central Sector Scheme launched by the Ministry of Finance (not by the Ministry of Social Justice and Empowerment) to provide pension coverage for workers in the unorganised sector.<br><br><b>Statement II is incorrect:</b> The scheme was initially open to all Indian citizens aged between 18 and 40 years. However, with effect from 1 October 2022, individuals who are income tax payers or have been income tax payers are no longer eligible to enrol in the scheme.<br><br><b>Statement III is correct:</b> Each subscriber under the Atal Pension Yojana shall receive a guaranteed minimum pension of Rs. 1000/- per month or Rs. 2000/- per month or Rs. 3000/- per month or Rs. 4000/- per month or Rs. 5000/- per month, after the age of 60 years until death based on their contribution."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Insurance Sector",
+
+    "question": "With reference to Employees' State Insurance Scheme (ESI), consider the following statements:<br>I. The scheme is administered by Insurance Regulatory and Development Authority of India (IRDAI).<br>II. It is a self-financing social security scheme funded primarily through contributions from employers and employees.<br>III. The scheme provides comprehensive medical care to the family members of insured employees.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II and III",
+
+      "III only",
+
+      "I and III"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Employees' State Insurance Scheme (ESI) is a comprehensive Social Security Scheme designed to accomplish the task of socially protecting the 'employees' in the organized sector against the events of sickness, maternity, disablement and death due to employment injury and to provide medical care to the insured employees and their families.<br><br><b>Statement I is incorrect:</b> The Employees’ State Insurance (ESI) Scheme is administered by a statutory corporate body known as the Employees’ State Insurance Corporation (ESIC) (not by IRDAI). The Corporation has a broad-based representation, including members from employers, employees, the Central and State Governments, the medical profession, and Parliament.<br><br><b>Statement II is correct:</b> The ESI scheme is a self financing scheme. The ESI funds are primarily built out of contribution from employers and employees payable monthly at a fixed percentage of wages paid. The State Governments also contribute 1/8th share of the cost of Medical Benefit.<br><br><b>Statement III is correct:</b> The scheme provides full medical care to the employee registered under the scheme during the period of his incapacity for restoration of his health and working capacity. It provides financial assistance to compensate for the loss of his/ her wages during the period of his abstention from work due to sickness, maternity and employment injury. The scheme provides medical care to his/her family members also."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Insurance Sector",
+
+    "question": "Consider the following statements regarding the ECGC Limited (formerly Export Credit Guarantee Corporation of India):<br>I. It functions under the administrative control of the Ministry of Finance.<br>II. It provides a range of insurance covers to Indian exporters against the risk of non-realization of export proceeds due to commercial or political risks.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The ECGC Ltd. (formerly known as Export Credit Guarantee Corporation of India Ltd.) wholly owned by the government of India, was set up in 1957 with the objective of promoting exports from the country by providing credit risk insurance and related services for exports.<br><br><b>Statement I is incorrect:</b> Although ECGC deals with export-linked financial risk, it does not come under the Ministry of Finance. The ECGC functions under the Ministry of Commerce and Industry, which oversees trade promotion and export-related activities in India.<br><br><b>Statement II is correct:</b> ECGC provides (i) a range of insurance covers to Indian exporters against the risk of non-realization of export proceeds due to commercial or political risks (ii) different types of credit insurance covers to banks and other financial institutions to enable them to extend credit facilities to exporters and (iii) Export Factoring facility for MSME sector which is a package of financial products consisting of working capital financing, credit risk protection, maintenance of sales ledger and collection of export receivables from the buyer located in overseas country."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Indian Industry",
+
+    "question": "In India, which one of the following compiles information on industrial disputes, closures, retrenchments and lay-offs in factories employing workers?",
+
+    "options": [
+
+      "Central Statistics Office",
+
+      "Department for Promotion of Industry and Internal Trade",
+
+      "Labour Bureau",
+
+      "National Technical Manpower Information System"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The Labour Bureau, an attached office under the Ministry of Labour and Employment, was set up on 1st October 1946. It is entrusted with the work of compilation, collection, analysis and dissemination of statistics on different aspects of labour.<br><br>It is a storehouse of important economic indicators like Consumer Price Index Numbers for Industrial, Agricultural and Rural Labourers; wage rate indices and data on industrial relations, socio-economic conditions in the organised and unorganised sector of industry etc."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Service Sector",
+
+    "question": "Consider the following statements in relation to Unicorn companies:<br>I. A startup must have an annual turnover of at least $100 million to be classified as a Unicorn in India.<br>II. Only a privately held startup company can be a unicorn.<br>III. Presently, India ranks third globally in terms of number of Unicorn companies.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and III only",
+
+      "II only",
+
+      "II and III only",
+
+      "None"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The term ‘Unicorn’ was coined in 2013 by American venture capitalist Aileen Lee to describe a rare breed of startups that achieved a valuation of $1 billion or more without being publicly listed.<br><br><b>Statement I is incorrect:</b> There is no statutory or regulatory requirement of a minimum annual turnover for a startup to be classified as a Unicorn in India.<br><br><b>Statement II is correct:</b> Unicorns are privately held, venture-capital backed startups that have reached a value of $1 billion. The valuation of unicorns is not expressly linked to their current financial performance, but largely based on their growth potential as perceived by investors and venture capitalists. A privately held company is one that is not publicly traded on a stock exchange.<br><br><b>Statement III is correct:</b> It is true. In 2025, India has ranked third globally in terms of number of unicorn companies."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Infrastructure",
+
+    "question": "Consider the following statements with reference to the ‘Make in India’ initiative:<br>I. The Make in India initiative includes manufacturing along with infrastructure and services sectors.<br>II. The Department for Promotion of Industry and Internal Trade (DPIIT) is the nodal agency for its implementation.<br>III. Atal Innovation Mission (AIM) and Startup India were launched under the umbrella of Make in India initiative.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The Make in India initiative was launched in September 2014 with the objective of making India a global hub for manufacturing, design, and innovation.<br><br><b>Statement I is correct:</b> Although the initial focus was on boosting manufacturing, the government soon broadened the scope of the initiative to include 25 priority sectors, many of which fall under infrastructure and services. For instance, infrastructure sectors such as railways, ports, roads, and services sectors like tourism and IT-BPM.<br><br><b>Statement II is correct:</b> The DPIIT, under the Ministry of Commerce and Industry, is the nodal body responsible for policy formulation, coordination, and monitoring of the Make in India programme.<br><br><b>Statement III is incorrect:</b> Although Startup India (launched in January 2016) and Atal Innovation Mission (also launched in 2016) complement the objectives of Make in India especially in terms of promoting entrepreneurship and innovation, they are separate flagship programmes and not launched under the umbrella of the Make in India initiative."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Infrastructure",
+
+    "question": "Consider the following statements with reference to Indian Railways:<br>I. In terms of route length, India has the fourth largest rail network in the world.<br>II. Recently, Indian railways has achieved the electrification of around 99% of its network.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> Indian Railways operates one of the largest rail networks in the world, both in terms of track length and passenger usage. According to reports on railway infrastructure, India’s rail network ranks as the fourth largest globally, after China, the United States, and Russia, covering tens of thousands of kilometres of routes.<br><br><b>Statement II is correct:</b> Indian Railways has electrified about 99.2% of its network by November 2025, making it one of the world’s most extensively electrified rail systems."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Indian Industry",
+
+    "question": "In India, mergers and acquisition of firms are regulated by:",
+
+    "options": [
+
+      "National Manufacturing Competitiveness Council",
+
+      "Competition Commission of India",
+
+      "Security and Exchange Board of India",
+
+      "Department of Industrial Policy and Promotion"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The Competition Commission of India (CCI) is an autonomous body established by the Government of India under the Competition Act, 2002.<br><br>The CCI is responsible for regulating competition in India and preventing anticompetitive practices. The CCI has the power to review and approve mergers and acquisitions that may have an adverse effect on competition in India."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Indian Industry",
+
+    "question": "With reference to Udyam Registration Portal, consider the following statements:<br>I. It is an initiative of the Ministry of Labour and Employment.<br>II. Registration on the Udyam Portal is essential for any Micro Small Medium Enterprises (MSMEs) for any business operations in India.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I is incorrect:</b> The Udyam Registration Portal (URP) is the initiative of the Ministry of Micro Small Medium Enterprises (MSME) (not the Ministry of Labour and Employment). It facilitates online registration for MSMEs and generation of Unique Registration Number (URN) and Udyam Assist Certificate (UAC) for MSMEs.<br><br><b>Statement II is incorrect:</b> A Udyam Registration is mandatory for MSMEs that wish to avail of various benefits and schemes of the Ministry of MSME. However, registration on the Udyam Portal is not essential for any Micro, Small and Medium Enterprise (MSME) for regular business operations in India."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Service Sector",
+
+    "question": "Which of the following are not inventions under Indian Patents Act, 1970 and cannot be patented in India?<br>I. The mere discovery of scientific principles.<br>II. An invention which is an aggregation or duplication of known properties of traditionally known component or components.<br>III. The mere discovery of a new form of a known substance which does not result in the enhancement of the known efficacy of that substance.<br>IV. The process for producing new microorganisms.<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I, II and III only",
+
+      "I and II only",
+
+      "III and IV only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The Patents Act, 1970 is a comprehensive law containing the provisions related to governing the patent rights in India which extends to the whole of India. Section 3 of the act stipulates what is not considered an invention under the law and is therefore not patentable in India.<br><br><b>Option I is correct:</b> According to Section 3(c) of the Patents Act, 1970, the mere discovery of a scientific principle or the formulation of an abstract theory or discovery of any living thing or non-living substance occurring in nature is not considered an invention under the Indian Patents Act, 1970 and thus cannot be patented in India.<br><br><b>Option II is correct:</b> Section 3(p) of the Patents Act, 1970, states that an invention which, in effect, is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components is not considered an invention.<br><br><b>Option III is correct:</b> According to Section 3(d) of the Patents Act, 1970, the mere discovery of a new form of a known substance which does not result in the enhancement of the known efficacy of that substance is not considered an invention.<br><br><b>Option IV is incorrect:</b> Section 3(j) of the Patents Act, 1970 states that plants and animals in whole or any part thereof other than micro-organisms are not considered inventions. However, this exclusion expressly carves out micro-organisms; consequently, inventions relating to the process for producing new microorganisms are not barred from patentability."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Infrastructure",
+
+    "question": "Consider the following statements regarding Real Estate Investment Trusts (REITs) in India:<br>I. It cannot invest in agricultural land.<br>II. Any investment made by Mutual Funds in REITs shall be considered as investment in equity related instruments.<br>III. Dividend income received by unit holders from REITs is completely exempt from taxation.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "I only",
+
+      "II and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>A Real Estate Investment Trust (REIT) is a SEBI-registered trust that pools money from investors to invest primarily in income-generating real estate assets, such as commercial or residential properties.<br><br><b>Statement I is correct:</b> REITs shall not invest in vacant land or agricultural land or mortgages other than mortgage backed securities: Provided that this shall not apply to any land which is contiguous and extension of an existing project being implemented in stages.<br><br><b>Statement II is correct:</b> Any investment made by Mutual Funds and Specialised Investment Funds (SIFs) in REITs shall be considered as investment in equity related instruments. InvITs shall continue to be classified as hybrid instruments for the purpose of investments by Mutual Funds and SIFs.<br><br><b>Statement III is incorrect:</b> Dividend income received from REITs is not exempt from taxation. Dividends received from investments are added to the investor’s total income and taxed according to the applicable income-tax slab rates."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Industrial Policy",
+
+    "question": "In the context of the Indian economy, which of the following steps was/were taken in India as a part of the New Economic Policy of 1991?<br>I. The Monopolistic and Restrictive Trade Practices (MRTP) Act was enacted to enquire into monopolistic or restrictive trade practices.<br>II. Foreign investment up to 51 per cent of equity was made automatic in specified high priority industries.<br>III. Devaluation of Indian Rupee<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I, II and III",
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The New Industrial Policy of 1991 was introduced by the Government of India against the backdrop of India's severe balance of payment crisis.<br><br><b>Statement I is incorrect:</b> The Monopolistic and Restrictive Trade Practices (MRTP) Act was passed as a part of the Industrial Policy Statement, 1969. The Act intended to regulate the trading and commercial practices of the firms and to check monopoly and concentration of economic power. In 2002, the Competition Act was passed which replaced the MRTP Act.<br><br><b>Statement II is correct:</b> As part of the New Industrial Policy, 1991, the government went to encourage foreign investment (FI) in both its forms—direct and indirect. Automatic approval for foreign equity participation up to 51 per cent was granted in specified high priority industries.<br><br><b>Statement III is correct:</b> The New Industrial Policy of 1991 included devaluation of Indian rupee by 21 per cent and convertibility of Indian rupee on current account. It also introduced financial sector reforms to deregulate interest rates and improve credit availability."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Sectors of Economy",
+
+    "question": "With reference to sectors of Indian economy, consider the following economic activities:<br>I. Coal mineral exploration<br>II. Generation of Electricity from water<br>III. Raising livestock and dairy farming<br>IV. Storage of agricultural produce in godowns<br>V. Cultivation of Cotton<br>How many of the above are part of the primary sector?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All the five"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>When a good is produced by exploiting natural resources, it is an activity of the primary sector. This is because it forms the base for all other products that are subsequently made.<br><br><b>Option I is correct:</b> Mining which relates to the extraction of minerals (such as coal) from land is an activity of the primary sector.<br><br><b>Option II is incorrect:</b> The 'secondary sector' relates to those activities through which the products derived from the primary sector are processed. Electricity generated from water is a product of the secondary sector.<br><br><b>Option III is correct:</b> Dairy farming involves the rearing of livestock and the production of milk. It is part of animal husbandry, which is included in the Primary sector.<br><br><b>Option IV is incorrect:</b> Storage of agricultural produce in godowns is a service activity. Service activities are part of the tertiary sector.<br><br><b>Option V is correct:</b> The cultivation of cotton takes place within a crop season. For the growth of the cotton plant, we depend mainly on natural factors. The product of this activity, cotton, is a natural product thus considered a primary sector activity.<br><br>Therefore, exactly three activities (I, III, and V) fall under the primary sector."
+
   }
+
 ]
+
