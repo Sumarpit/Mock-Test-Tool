@@ -20,8 +20,19 @@
             --wrong: #e74c3c;
             --footer-height: 80px;
             --saffron: #d35400;
+            --res-scale: 1;
         }
 
+        /* --- DYNAMIC RESULT SCREEN FONT SCALING --- */
+        
+        .result-container { font-size: calc(1rem * var(--res-scale)); }
+        .result-container h1 { font-size: calc(2rem * var(--res-scale)); }
+        .result-container p { font-size: calc(1rem * var(--res-scale)); }
+        .analysis-section h3 { font-size: calc(1.17rem * var(--res-scale)); }
+        .data-table { font-size: calc(0.9rem * var(--res-scale)) !important; }
+        .score-card h2 { font-size: calc(1.8rem * var(--res-scale)) !important; }
+        .score-card small { font-size: calc(0.85rem * var(--res-scale)) !important; }
+        
         /* Split Button Dropdown UI */
         .split-btn-group { display: inline-flex; position: relative; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
         .split-btn-main { background: var(--accent); color: white; border: none; padding: 12px 20px; border-radius: 6px 0 0 6px; font-weight: bold; cursor: pointer; transition: 0.2s; border-right: 1px solid rgba(255,255,255,0.2); }
@@ -1035,18 +1046,19 @@
             
             if (q.type === 'descriptive') {
                 const userText = responses[i] || "<i>No Answer Typed</i>";
+                const descStatus = responses[i] && responses[i].trim().length > 0 ? 'Attempted' : 'Skipped';
                 
                 rev.innerHTML += `
-                <div class="review-item skip">
+                <div class="review-item skip" data-status="${descStatus}" data-conf="None">
                     <div style="display:flex; justify-content:space-between; border-bottom:1px solid #eee; padding-bottom:5px; margin-bottom:5px;">
-                        <strong>Q${i+1} (Descriptive)</strong>
-                        <div style="font-size:0.8rem; color:#666;">⏱ ${ts}</div>
+                        <strong style="font-size:calc(1rem * var(--res-scale));">Q${i+1} (Descriptive - ${descStatus})</strong>
+                        <div style="font-size:calc(0.8rem * var(--res-scale)); color:#666;">⏱ ${ts}</div>
                     </div>
-                    <div style="margin-bottom:10px;">${q.question}</div>
-                    <div style="background:#fff3e0; padding:10px; border-radius:4px; margin-bottom:10px; font-family: 'Courier New', monospace; white-space: pre-wrap;">${userText}</div>
+                    <div style="margin-bottom:10px; font-size:calc(1rem * var(--res-scale));">${q.question}</div>
+                    <div style="background:#fff3e0; padding:10px; border-radius:4px; margin-bottom:10px; font-family: 'Courier New', monospace; white-space: pre-wrap; font-size:calc(1rem * var(--res-scale));">${userText}</div>
                     <div style="display:flex; justify-content:space-between; align-items:center; background:#f9f9f9; padding:10px; border-radius:4px;">
-                        <span style="font-size:0.9rem; color:#555;"><b>Marks:</b> ${q.marks || 10}</span>
-                        <button onclick="copyDescriptivePrompt(${i})" style="background:#673ab7; color:white; border:none; padding:6px 12px; border-radius:4px; cursor:pointer; font-weight:bold; font-size:0.85rem;">
+                        <span style="font-size:calc(0.9rem * var(--res-scale)); color:#555;"><b>Marks:</b> ${q.marks || 10}</span>
+                        <button onclick="copyDescriptivePrompt(${i})" style="background:#673ab7; color:white; border:none; padding:6px 12px; border-radius:4px; cursor:pointer; font-weight:bold; font-size:calc(0.85rem * var(--res-scale));">
                             ✨ Check with AI
                         </button>
                     </div>
@@ -1055,7 +1067,7 @@
             }
 
             const ans = responses[i];
-            const conf = confidence[i] || '';
+            const conf = confidence[i] || 'None';
             let status = 'Skipped', cls = 'skip', uAns = 'Skipped';
 
             if(ans !== undefined) {
@@ -1064,17 +1076,17 @@
             }
             
             rev.innerHTML += `
-                <div class="review-item ${cls}">
+                <div class="review-item ${cls}" data-status="${status}" data-conf="${conf}">
                     <div style="display:flex; justify-content:space-between; border-bottom:1px solid #eee; padding-bottom:5px; margin-bottom:5px;">
-                        <strong>Q${i+1} (${status})</strong>
-                        <div style="font-size:0.8rem; color:#666;">⏱ ${ts} ${conf?`| ${conf}`:''}</div>
+                        <strong style="font-size:calc(1rem * var(--res-scale));">Q${i+1} (${status})</strong>
+                        <div style="font-size:calc(0.8rem * var(--res-scale)); color:#666;">⏱ ${ts} ${conf !== 'None' ? `| ${conf}` : ''}</div>
                     </div>
-                    <div style="margin-bottom:10px;">${q.question}</div>
-                    <div style="font-size:0.9rem;">
+                    <div style="margin-bottom:10px; font-size:calc(1rem * var(--res-scale));">${q.question}</div>
+                    <div style="font-size:calc(0.9rem * var(--res-scale));">
                         You: <b>${uAns}</b> <br>
                         Ans: <span class="txt-green">${q.options ? q.options[q.answer] : ''}</span>
                     </div>
-                    <div style="background:#f9f9f9; padding:8px; margin-top:10px; font-size:0.9rem;">
+                    <div style="background:#f9f9f9; padding:8px; margin-top:10px; font-size:calc(0.9rem * var(--res-scale));">
                         <b>Exp:</b> ${q.explanation || 'No explanation provided.'}
                     </div>
                 </div>`;
@@ -1091,6 +1103,13 @@
                 srBtn.style.display = 'none';
             }
         }
+        
+        // Ensure filters are reset when a new test is submitted
+        const statusFilter = document.getElementById('filter-status');
+        const confFilter = document.getElementById('filter-conf');
+        if (statusFilter) statusFilter.value = 'all';
+        if (confFilter) confFilter.value = 'all';
+        if (typeof applyReviewFilters === 'function') applyReviewFilters();
     }
 
     function recalcScore() {
@@ -1386,6 +1405,40 @@
             btnGroup.style.display = 'flex';
         });
     }
+    // --- TEXT SCALING LOGIC (Ctrl+ / Ctrl- / Ctrl0) ---
+    let resTextScale = 1;
+
+    document.addEventListener('keydown', function(e) {
+        const resScreen = document.getElementById('result-screen');
+        
+        // Only intercept if we are actively viewing the Results Page
+        if (resScreen && resScreen.classList.contains('active')) {
+            
+            // Detect Ctrl (Windows/Linux) or Cmd (Mac)
+            if (e.ctrlKey || e.metaKey) {
+                
+                // '=' captures the '+' key without shift, '+' captures Numpad or Shift+
+                if (e.key === '=' || e.key === '+' || e.key === '-' || e.key === '0') {
+                    
+                    e.preventDefault(); // Prevents the browser's native full-page zoom
+
+                    if (e.key === '=' || e.key === '+') {
+                        resTextScale += 0.1;
+                    } else if (e.key === '-') {
+                        resTextScale -= 0.1;
+                    } else if (e.key === '0') {
+                        resTextScale = 1; // Reset to default
+                    }
+
+                    // Clamp the scale limits (0.5x minimum, 3.0x maximum)
+                    resTextScale = Math.max(0.5, Math.min(resTextScale, 3.0));
+
+                    // Push the updated scale to the global CSS variable
+                    document.documentElement.style.setProperty('--res-scale', resTextScale);
+                }
+            }
+        }
+    }, { passive: false });
 </script>
 </body>
 </html>
