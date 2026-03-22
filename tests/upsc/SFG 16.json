@@ -1,0 +1,236 @@
+[
+  {
+    "section": "Economy",
+    "topic": "Infrastructure",
+    "question": "Consider the following statements:<br>I. Indian Railways have prepared a National Rail Plan (NRP) to create a future ready railway system by 2028.<br>II. Kavach’ is an Automatic Train Protection system, developed in collaboration with Germany.<br>III. ‘Kavach’ system consists of RFID tags fitted on track in the station section.<br>Which of the statements given above are not correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The Indian Railways has undertaken two major initiatives: the National Rail Plan (NRP) and the ‘Kavach’ Automatic Train Protection (ATP) system. Both are designed to modernize and secure the railway infrastructure and operations.<br><br><b>Statement I is incorrect:</b> The National Rail Plan (NRP) has been developed with the aim of creating a ‘future ready’ railway system by the year 2030, not 2028. The plan intends to meet future demand (both passenger and freight) up to 2050, and to increase the modal share of railways in freight transport to 45%.<br><br><b>Statement II is incorrect:</b> ‘Kavach’ is an indigenous ATP system developed by the Research Designs and Standards Organisation (RDSO) under Indian Railways. There is no German collaboration involved in its creation.<br><br><b>Statement III is correct:</b> The Kavach system uses Radio Frequency Identification (RFID) tags placed on the railway tracks, especially in station sections. These tags work in coordination with onboard and trackside equipment to detect train location, and automatically apply brakes in case of collision threats, signal violations, or overspeeding."
+  },
+  {
+    "section": "Economy",
+    "topic": "Sectors of Economy",
+    "question": "The economic activities classified into sectors that is public and private sector on the basis of:",
+    "options": [
+      "employment conditions",
+      "the nature of economic activity",
+      "ownership of enterprises",
+      "number of workers employed in the enterprise"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option c is correct:</b> Economic activities classified into sectors could be on the basis of who owns assets and is responsible for the delivery of services. <br><br>In the public sector, the government owns most of the assets and provides all the services. In the private sector, ownership of assets and delivery of services is in the hands of private individuals or companies."
+  },
+  {
+    "section": "Economy",
+    "topic": "Industrial Policy",
+    "question": "‘It introduced a three way classification of industries in which Schedule A comprised the industries which were exclusively under the domain of the Government. It was regarded as the Economic Constitution of India or The Bible of State Capitalism.’<br><br>Which of the following industrial policies has been described in the above passage?",
+    "options": [
+      "Industrial Policy Resolution, 1948",
+      "Industrial Policy Resolution, 1956",
+      "Statement on Industrial Policy, 1977",
+      "Statement on Industrial Policy, 1980"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option a is incorrect:</b> The Government of India announced its first industrial policy resolution on 6 April, 1948. The policy resolution laid stress on the role of the state in the development of industry. It laid down the foundation of a mixed economy wherein the public sector and the private sector were to coexist.<br><br><b>Option b is correct:</b> The Government of India introduced the Industrial Policy of 1956 as a revision of its policy of 1948. It was regarded as the “Economic Constitution of India” or “The Bible of State Capitalism”. It was shaped by the Mahalanobis Model of growth. It classified industries into three categories:<br>1. <b>Schedule A:</b> 17 industrial areas in which the Centre was given complete monopoly (e.g., railways, arms and ammunition, atomic energy).<br>2. <b>Schedule B:</b> 12 industrial areas where state governments were supposed to take up initiatives with follow up by the private sector.<br>3. <b>Schedule C:</b> All industrial areas left out of Schedules A and B, where private enterprises had provisions to set up industries.<br><br><b>Option c is incorrect:</b> The Industrial Policy Statement of 1977 laid emphasis on decentralisation and on the role of small-scale, tiny and cottage industries.<br><br><b>Option d is incorrect:</b> The Industrial Policy Statement of July, 1980 was based on the 1956 Resolution, with objectives like optimum utilisation of installed capacity, higher employment, and correction of regional imbalances."
+  },
+  {
+    "section": "Economy",
+    "topic": "Indian Industry",
+    "question": "Consider the following:<br>I. Paper manufacturing<br>II. Distillation and brewing of alcoholic drinks<br>III. Ferrous and Non- ferrous metal extraction<br>IV. Cigars and cigarettes of tobacco and manufactured tobacco substitutes<br>V. Industrial explosives like detonating fuses<br><br>How many of the above industries in India presently require compulsory licensing as per Industries (Development & Regulation) Act, 1951?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All the five"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The industrial policy reforms have reduced the industrial licensing requirements, removed restrictions on investment and expansion, and facilitated easy access to foreign technology and FDI. Only 5 industries have been retained under compulsory licensing under the Industries (Development & Regulation) Act, 1951:<br><br>1. <b>Distillation and brewing of alcoholic drinks (Option II)</b><br>2. <b>Cigars and cigarettes of tobacco and manufactured tobacco substitutes (Option IV)</b><br>3. Electronic aerospace and Defence equipment: all types<br>4. <b>Industrial explosives including detonating fuses, Safety Fuses, gun powder, nitrocellulose and matches (Option V)</b><br>5. Hazardous chemicals: viz. Hydrocyanic acid, Phosgene, Isocyanates, etc.<br><br><b>Options I and III are incorrect:</b> Paper manufacturing and Ferrous and Non-ferrous metal extraction are not under Compulsory licensing."
+  },
+  {
+    "section": "Economy",
+    "topic": "Indian Industry",
+    "question": "According to the Companies Act, 2013, ‘nominal capital’ implies:",
+    "options": [
+      "such part of capital, which has been called for payment",
+      "the maximum amount of share capital of a company",
+      "such part of capital, which has been received by a company from its shareholders",
+      "such capital as the company issues from time to time for subscription"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option b is correct:</b> The term ‘nominal capital’ refers to the authorized or maximum amount of share capital that a company is allowed to issue as per its Memorandum of Association.<br><br>It represents the total value of shares that can be issued by the company to its shareholders. The nominal capital is usually specified in the company’s founding documents and can be changed through a formal process, such as an amendment to the Memorandum of Association."
+  },
+  {
+    "section": "Economy",
+    "topic": "Infrastructure",
+    "question": "In the context of disinvestment policy of Government of India, consider the following:<br>I. Entire sale of Government equity in a Central Public Sector Enterprise to private buyers alongwith the management control of the enterprise.<br>II. Substantial sale of Government equity in a Central Public Sector Enterprise to another Central Public Sector Enterprise alongwith the management control of the enterprise.<br>III. Sale of a certain share of Government equity in a Central Public Sector Enterprise to a private buyer but without the management control of the enterprise.<br><br>Which of the above disinvestment(s) will be considered under the category of strategic disinvestment?",
+    "options": [
+      "I only",
+      "II only",
+      "I and II only",
+      "I, II and III"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Government policy on disinvestment consists of Strategic Disinvestment/Privatization and Minority Stake Sale in CPSEs.<br><br>Strategic Disinvestment implies entire or substantial sale of Government shareholding of a CPSE along with transfer of management control.<br><br><b>Scenario I is correct:</b> Privatization is a subset of strategic disinvestment where the entire government equity is transferred to a private buyer along with the management control of the enterprise.<br><br><b>Scenario II is correct:</b> Sale of substantial equity of the government along with the management control to another central public sector enterprise is a type of strategic disinvestment.<br><br><b>Scenario III is incorrect:</b> This is minority stake sale, where certain shares are sold without transfer of management control through methods like IPO, OFS, Buyback of shares etc."
+  },
+  {
+    "section": "Economy",
+    "topic": "Indian Industry",
+    "question": "In India, the ‘Index of Eight Core Industries’ measures the combined and individual performance of production of eight core industries. In this context consider the following industries:<br>I. Coal<br>II. Fertilizers<br>III. Electricity<br>IV. Automobiles<br>V. Steel<br><br>How many of the above industries are included in the Index of Eight Core Industries?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All the five"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The Eight Core Industries form the backbone of India’s industrial sector and include coal, crude oil, natural gas, refinery products, fertilisers, steel, cement, and electricity. They carry a weight of about 40% in the Index of Industrial Production (IIP).<br><br><b>Options I, II, III, and V are correct:</b> Coal, Fertilizers, Electricity, and Steel are explicitly included in the Eight Core Industries list.<br><br><b>Option IV is incorrect:</b> Automobiles are not part of the Eight Core Industries. They fall under the broader manufacturing sector within the IIP but are not included in the core industries' basket."
+  },
+  {
+    "section": "Economy",
+    "topic": "Indian Industry",
+    "question": "Consider the following statements:<br>Statement I: In 2024, India became the largest producer of crude steel in the world.<br>Statement II: The Production Linked Incentive (PLI) Scheme for Specialty Steel is playing a key role in making India a global hub for steel production.<br><br>Which one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+      "Statement I is correct but Statement II is not correct",
+      "Statement I is not correct but Statement II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I is incorrect:</b> India is the second-largest producer of crude steel. China was the world's largest crude steel producer in 2024 (1,005.1 MT) followed by India (149.4 MT), Japan (84.0 MT), and the USA (79.5 MT). India became the world’s second-largest steel producer in 2018 surpassing Japan and has remained so since then.<br><br><b>Statement II is correct:</b> The Production Linked Incentive (PLI) Scheme for Specialty Steel was approved in 2021, with a vision to make India a global hub for steel production. Since then, it has been able to attract new investments in emerging and advanced steel products, such as super alloys, CRGO, stainless steel long and flat products, titanium alloys, and coated steels."
+  },
+  {
+    "section": "Economy",
+    "topic": "Sectors of Economy",
+    "question": "With reference to India’s Foreign Direct Investment (FDI) policy, consider the following:<br>I. Services related to agro and allied sectors<br>II. Mining and mineral separation of titanium bearing minerals and ores<br>III. Manufacturing of small arms and ammunition under the Arms Act, 1959<br>IV. Palm oil tree plantations<br>V. Asset Reconstruction Companies<br><br>In how many of the above, is 100% Foreign Direct Investment permitted under the automatic route?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "Only four"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: (c)</b><br><br>India permits FDI through two routes: the Automatic Route (requiring no prior government approval) and the Government Route (needing approval).<br><br><b>Option I is correct:</b> 100% FDI is permitted under the automatic route for Agriculture & Animal Husbandry, including services related to agro and allied sectors.<br><br><b>Option II is incorrect:</b> For mining and mineral separation of titanium bearing minerals and ores, 100% FDI is permitted but prior approval of the government is required (Government Route).<br><br><b>Option III is incorrect:</b> Manufacturing of small arms and ammunition under the Arms Act, 1959 allows FDI only up to 74% under the automatic route. Anything beyond requires government approval.<br><br><b>Option IV is correct:</b> 100% FDI is permitted under the automatic route for the Plantation Sector, which includes palm oil tree plantations.<br><br><b>Option V is correct:</b> 100% FDI is permitted under the automatic route for Asset Reconstruction Companies."
+  },
+  {
+    "section": "Economy",
+    "topic": "Infrastructure",
+    "question": "With reference to the National Monetisation Pipeline (NMP), consider the following statements:<br>I. It includes monetization of brownfield assets of central public sector enterprises and other undertakings within the purview of the Government of India.<br>II. Under the NMP framework, primary ownership of the monetised assets continues to remain with the Government of India.<br><br>Which of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The National Monetisation Pipeline (NMP) is a government initiative to monetise brownfield infrastructure assets of Central ministries and CPSEs to fund new infrastructure.<br><br><b>Statement I is correct:</b> The asset Monetisation Plan covers brownfield assets of identified statutory entities, public sector enterprises, and other undertakings within the purview of Ministries/Departments of the Government of India.<br><br><b>Statement II is correct:</b> Under the NMP framework, primary ownership of the monetised assets continues to remain with the Government of India. Monetisation is carried out through instruments such as PPP concessions, leasing, or InvITs, involving temporary transfer of revenue or usage rights. There is no outright sale."
+  },
+  {
+    "section": "Economy",
+    "topic": "Indian Industry",
+    "question": "With reference to Corporate Social Responsibility (CSR) rules in India, consider the following statements:<br>1. CSR rules specify that expenditures that benefit the company directly or its employees will not be considered as CSR activities.<br>2. CSR rules do not specify minimum spending on CSR activities.<br><br>Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement 1 is correct:</b> CSR activities are meant to benefit society, not the company itself. Schedule VII of the Companies Act, 2013 indicates activities that can be undertaken as CSR (e.g., health, sanitation, education, environment). Expenditures benefiting the company directly or its employees are excluded.<br><br><b>Statement 2 is incorrect:</b> As per Section 135 of the Companies Act, 2013, an eligible company must spend at least 2% of the average net profits made during the three immediately preceding financial years on its Corporate Social Responsibility Policy."
+  },
+  {
+    "section": "Economy",
+    "topic": "Indian Industry",
+    "question": "Which of the following organizations/departments is responsible for making recommendations with regard to the Central Public Sector Enterprises under Strategic Sectors, that are to be retained under the Government Control or to be considered for privatisation or merger or subsidiarization with another PSE or for closure?",
+    "options": [
+      "NITI Aayog",
+      "Department of Investment and Public Asset Management",
+      "Department for Promotion of Industry and Internal Trade",
+      "Prime Minister’s Office"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Option a is correct:</b> NITI Aayog will make recommendations with regard to the Central Public Sector Enterprises under Strategic Sectors, that are to be retained under the Government Control or to be considered for privatisation, merger, subsidiarization with another PSE, or for closure.<br><br>The final approval and decision on disinvestment are made by the Cabinet Committee on Economic Affairs (CCEA). The Department of Investment and Public Asset Management (DIPAM) is responsible for the execution of the actual disinvestment process."
+  },
+  {
+    "section": "Economy",
+    "topic": "Indian Industry",
+    "question": "Consider the following regions in India:<br>I. Vijaynagar in Karnataka<br>II. Visakhapatnam in Andhra Pradesh<br>III. Salem in Tamil Nadu<br><br>How many of the regions given above are considered as the major steel producing centres in India?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The iron and steel industry is ideally located close to coalfields and well-connected by canals and railways. Most major integrated steel plants (Bhilai, Durgapur, Burnpur, Jamshedpur, Rourkela, Bokaro) are in a contiguous belt spanning West Bengal, Jharkhand, Odisha, and Chhattisgarh.<br><br>Other important steel centres have emerged by utilising local resources. These include:<br>1. Bhadravati and <b>Vijayanagar in Karnataka</b><br>2. <b>Visakhapatnam in Andhra Pradesh</b><br>3. <b>Salem in Tamil Nadu</b><br><br>All three regions given are major steel-producing centres."
+  },
+  {
+    "section": "Economy",
+    "topic": "Infrastructure",
+    "question": "With reference to the Bharat Net Project, consider the following statements:<br>I. Amended BharatNet Program aims at providing Optical Fibre connectivity to more than 2.5 lakh Gram Panchayats and to the remaining non-Gram Panchayat villages on demand.<br>II. It is jointly funded by the Asian Development Bank and the Government of India.<br>III. Bharat Sanchar Nigam Limited (BSNL) is designated as the nodal agency for the implementation of the project.<br><br>Which of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "II and III only",
+      "II only",
+      "I, II and III"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> The Amended BharatNet Programme (2023) aims for Optical Fibre (OF) connectivity to 2.64 lakh Gram Panchayats (GPs) in ring topology and to the remaining non-GP villages on demand.<br><br><b>Statement II is incorrect:</b> BharatNet is primarily financed through the Digital Bharat Nidhi (which replaced the Universal Service Obligation Fund), established under the Telecommunication Act, 2023. It is not funded by the Asian Development Bank.<br><br><b>Statement III is incorrect:</b> The project is implemented through a Special Purpose Vehicle, Bharat Broadband Network Limited (BBNL). Under the Amended Programme, BSNL is designated as the single Project Management Agency (PMA) responsible for the operation and maintenance of the network, but it is not the nodal implementing agency for the scheme itself."
+  },
+  {
+    "section": "Economy",
+    "topic": "Infrastructure",
+    "question": "Consider the following statements:<br>1. Coal sector was nationalized by the Government of India under Indira Gandhi.<br>2. Now, coal blocks are allocated on lottery basis.<br>3. Till recently, India imported coal to meet the shortages of domestic supply, but now India is self-sufficient in coal product.<br><br>Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement 1 is correct:</b> The Indira Gandhi government nationalized the coal sector in the 1971-73 period. This was reversed by the NDA government in 2015, opening the sector to private players.<br><br><b>Statement 2 is incorrect:</b> Under the new policy, the allocation of coal blocks is done on the basis of a bidding process. The firm offering the highest per tonne price is allotted the mine, not on a lottery basis.<br><br><b>Statement 3 is incorrect:</b> Although India has the fifth largest coal reserve in the world, it is not self-sufficient. India still imports high-quality coal to meet its domestic demand."
+  },
+  {
+    "section": "Economy",
+    "topic": "Infrastructure",
+    "question": "The Water+ Certification under the Swachh Bharat Mission (Urban) indicates which of the following?",
+    "options": [
+      "All the households in the city have a functional tap water connection in their homes.",
+      "All Schools, Health centres, wellness centres and community buildings in a city have a clean and functional toilet.",
+      "All the wastewater released from households, commercial establishments, drains, nallahs etc. in a city is treated to the level as per Central Pollution Control board norms, before releasing the treated wastewater to the environment.",
+      "The city is free from any water-borne diseases due to improved sanitation and wastewater management."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option c is correct:</b> Building on the achievement of an Open Defecation Free (ODF) nation under SBM-U, the government introduced the ODF, ODF+, ODF++, and Water+ protocols. A city/ward/circle/zone can be declared as <b>Water Plus</b> provided all wastewater released from households, commercial establishments, drains, nallahs, etc., is treated to a satisfactory level (as per Central Pollution Control Board norms), before releasing the treated wastewater to the environment. Adequate capacity of wastewater and sewage treatment facilities must also be ensured."
+  },
+  {
+    "section": "Economy",
+    "topic": "Indian Industry",
+    "question": "With reference to the Business Expectations Index (BEI) in India, which of the following statements is correct?",
+    "options": [
+      "It is released by the Ministry of Commerce and Industry.",
+      "It is compiled annually.",
+      "It is released as part of the Industrial Outlook Survey.",
+      "The Index lies between 0 and 100, where a reading above 50 indicates expansion in the manufacturing and services sector of the economy."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option a is incorrect:</b> The Business Expectations Index (BEI) is published by the Reserve Bank of India (RBI), not the Ministry of Commerce and Industry.<br><br><b>Option b is incorrect:</b> The BEI is compiled and released quarterly (not annually).<br><br><b>Option c is correct:</b> The BEI is released with the quarterly Industrial Outlook Survey conducted by the RBI. The survey produces the Business Assessment Index (BAI) and the forward-looking Business Expectations Index (BEI).<br><br><b>Option d is incorrect:</b> The Index ranges from 0 to 200, with 100 as the neutral threshold. Values above 100 signify expansionary business expectations."
+  },
+  {
+    "section": "Economy",
+    "topic": "Indian Industry",
+    "question": "With reference to cement industry in India, consider the following statements:<br>I. India is the second-largest cement producer in the world.<br>II. India’s per capita cement consumption is higher than the global average.<br>III. The production of cement in India has steadily increased between the Financial Year 2020 and Financial Year 2024.<br><br>Which of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> India is the second-largest producer of cement globally, next only to China. It has an installed capacity of about 639 million tonnes and produced around 427 million tonnes in FY24.<br><br><b>Statement II is incorrect:</b> India’s per capita cement consumption is about 290 kg, which is much lower than the global average of around 540 kg.<br><br><b>Statement III is incorrect:</b> The production of cement has not steadily increased year-on-year. Cement production was about 340 million tonnes in FY20 but declined to around 300 million tonnes in FY21 before rising again in subsequent years."
+  }
+]
