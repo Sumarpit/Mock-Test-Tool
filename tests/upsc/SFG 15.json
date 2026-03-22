@@ -1,0 +1,1043 @@
+[
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Number System",
+
+    "question": "The number 3798125P369 is divisible by 7. What is the value of the digit P?",
+
+    "options": [
+
+      "1",
+
+      "6",
+
+      "7",
+
+      "9"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>It is given that 3798125P369 is divisible by 7<br><br>First divide the given number in triplets of digits from right to left:<br>369 / 25P / 981 / 37<br><br>Subtracting the first and the second triplet and the third and the last; and then adding the result:<br>369 \u2013 25P + 981 \u2013 37 = 1350 \u2013 25P \u2013 37 = 1313 \u2013 25P<br><br>Now, on dividing 1313 by 7 we get 4 as remainder. So, when 25P is divided by 7, it should give 4 as remainder.<br>25P in the above equation will be between 250 to 259.<br><br>Now, both 252 and 259 are divisible by 7. So, the number must be 252 + 4 = 256.<br>Therefore, the value of P = 6."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Number System",
+
+    "question": "What is the rightmost non-zero digit in the value of 70\u00b2\u2070\u00b2\u2076?",
+
+    "options": [
+
+      "1",
+
+      "3",
+
+      "7",
+
+      "9"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Rewriting the number:<br>70 = 7 \u00d7 10<br>So, 70\u00b2\u2070\u00b2\u2076 = (7 \u00d7 10)\u00b2\u2070\u00b2\u2076 = 7\u00b2\u2070\u00b2\u2076 \u00d7 10\u00b2\u2070\u00b2\u2076<br><br><b>Effect of 10\u00b2\u2070\u00b2\u2076:</b><br>10\u00b2\u2070\u00b2\u2076 only adds zeros at the end of the number. It does not affect the rightmost non-zero digit. Therefore, we only need the last digit of 7\u00b2\u2070\u00b2\u2076.<br><br><b>Cyclic pattern of last digits of powers of 7:</b><br>7\u00b9 \u2192 7<br>7\u00b2 \u2192 9<br>7\u00b3 \u2192 3<br>7\u2074 \u2192 1<br>The cycle repeats every 4 powers: 7, 9, 3, 1<br><br><b>Locate 2026 in the cycle:</b><br>2026 \u00f7 4 gives remainder 2.<br>Remainder 2 corresponds to the second digit in the cycle.<br><br><b>Identify the digit:</b><br>Second digit in the cycle = 9<br>The rightmost non-zero digit is 9."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Number System",
+
+    "question": "When the numbers 749, 1041, and 1479 are each divided by a certain positive integer n, they all leave the same remainder r, where r is greater than 5. How many possible values of n satisfy this condition?",
+
+    "options": [
+
+      "3",
+
+      "2",
+
+      "1",
+
+      "4"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Key Concept required while solving the given problem:</b><br>If three numbers leave the same remainder when divided by a number n, then the difference of any two numbers must be divisible by n.<br><br><b>Finding the differences between the numbers:</b><br>1041 \u2212 749 = 292<br>1479 \u2212 1041 = 438<br>1479 \u2212 749 = 730<br><br><b>Finding the greatest common divisor (GCD) of the differences:</b><br>GCD of 292 and 438 = GCD of 292 and (438 \u2212 292 = 146) = 146<br>GCD of 146 and 730 = 146<br>So, n must be a divisor of 146.<br><br><b>List all positive divisors of 146:</b><br>146 = 2 \u00d7 73<br>Divisors of 146 are: 1, 2, 73, 146<br><br><b>Applying the condition r > 5:</b><br>The remainder r is obtained when 749 is divided by n.<br>For n = 1 or 2, the remainder is less than or equal to 1, which does not satisfy r > 5.<br>For n = 73: 749 \u00f7 73 leaves a remainder of 19 (greater than 5).<br>For n = 146: 749 \u00f7 146 leaves a remainder of 19 (greater than 5).<br><br>Thus, only 73 and 146 satisfy all conditions. The number of possible values of n is 2."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "HCF and LCM",
+
+    "question": "A warehouse contains three vats with 462 litres of Apple juice, 546 litres of orange juice, and 756 litres of Grape juice. The owner wants to bottle the juices into identical containers such that each container is filled completely (no partial filling). No container contains a mixture of different juices. The capacity of each container is an even integer greater than 5. How many different container capacities (in litres) are possible?",
+
+    "options": [
+
+      "3",
+
+      "2",
+
+      "4",
+
+      "5"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The container size must exactly divide the quantity of each juice. Hence, the container capacity must be a common divisor of 462, 546, and 756.<br><br><b>Finding the greatest common divisor (GCD):</b><br>Prime factorizations:<br>462 = 2 \u00d7 3 \u00d7 7 \u00d7 11<br>546 = 2 \u00d7 3 \u00d7 7 \u00d7 13<br>756 = 2\u00b2 \u00d7 3\u00b3 \u00d7 7<br><br>Common factors: 2 \u00d7 3 \u00d7 7 = 42<br>So, the GCD is 42.<br><br><b>List all divisors of 42:</b><br>Divisors of 42 are: 1, 2, 3, 6, 7, 14, 21, 42<br><br><b>Applying the given conditions:</b><br>The capacity must be even.<br>The capacity must be greater than 5.<br><br>From the list, the values that satisfy both conditions are:<br>6, 14, 42.<br>The number of different possible bottle sizes is 3."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Partnership",
+
+    "question": "Two friends, A and B, start a caf\u00e9 business. A invests \u20b910,000 less than B. A remains in the business for 12 months, while B remains for 6 months. The total profit earned is \u20b95,000. A\u2019s share of profit is \u20b91,000 more than B\u2019s share. What was the capital invested by B?",
+
+    "options": [
+
+      "\u20b920,000",
+
+      "\u20b925,000",
+
+      "\u20b930,000",
+
+      "\u20b940,000"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Profit-sharing rule is given by: Profit is shared in the ratio of Capital \u00d7 Time.<br><br><b>Assume B\u2019s capital:</b><br>Let B\u2019s capital = x<br>Then A\u2019s capital = x \u2212 10,000<br><br><b>Calculate investment\u2013time values:</b><br>A\u2019s investment-time value = (x \u2212 10,000) \u00d7 12<br>B\u2019s investment-time value = x \u00d7 6<br>So, profit ratio A : B = 12(x \u2212 10,000) : 6x = 2(x \u2212 10,000) : x<br><br><b>Using profit information:</b><br>Total profit = \u20b95,000<br>A\u2019s share is \u20b91,000 more than B\u2019s share.<br>So, A\u2019s share = \u20b93,000<br>B\u2019s share = \u20b92,000<br>Thus, profit ratio A : B = 3 : 2<br><br><b>Forming the equation:</b><br>2(x \u2212 10,000) : x = 3 : 2<br>Cross-multiplying, 4(x \u2212 10,000) = 3x<br>4x \u2212 40,000 = 3x<br>x = 40,000<br><br>The capital contributed by B was \u20b940,000."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Percentages",
+
+    "question": "A\u2019s salary is 25% higher than B\u2019s salary. B\u2019s salary is 20% lower than C\u2019s salary. C\u2019s salary is 10% higher than D\u2019s salary. By what percentage is D\u2019s salary lower than A\u2019s salary?",
+
+    "options": [
+
+      "8.25%",
+
+      "9.09%",
+
+      "10%",
+
+      "11.11%"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>After analyzing the given data, we follow the following approach:<br><br><b>Assume D\u2019s salary:</b><br>Let D\u2019s salary = 100 units.<br><br><b>Finding C\u2019s salary:</b><br>C\u2019s salary is 10% higher than D\u2019s salary.<br>C = 110 units.<br><br><b>Finding B\u2019s salary:</b><br>B\u2019s salary is 20% lower than C\u2019s salary.<br>So, B = 80% of 110<br>B = 88 units.<br><br><b>Finding A\u2019s salary:</b><br>A\u2019s salary is 25% higher than B\u2019s salary.<br>So, A = 125% of 88<br>A = 110 units.<br><br><b>Comparing A\u2019s and D\u2019s salaries:</b><br>A\u2019s salary = 110<br>D\u2019s salary = 100<br>Difference = 110 \u2212 100 = 10<br><br>Percentage by which D\u2019s salary is lower than A\u2019s salary:<br>(10 / 110) \u00d7 100 = 9.09%<br>D\u2019s salary is 9.09% lower than A\u2019s salary."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Percentages",
+
+    "question": "A student was instructed to perform the following operation on a number. First, multiply the number by \u00be. Then, decrease the result by 20 percent. However, the student made a mistake and instead divided the number by \u00be and then increased the result by 20 percent. What is the percentage error in the final result (rounded to two decimal places)?",
+
+    "options": [
+
+      "66.67%",
+
+      "133.33%",
+
+      "166.67%",
+
+      "33.33%"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Assume the original number:</b><br>Let the original number be x.<br><br><b>Finding the correct result:</b><br>Multiplying by 3/4 gives: (3/4) \u00d7 x<br>Decreasing this by 20 percent means multiplying by 0.8<br>Correct result = (3/4) \u00d7 x \u00d7 0.8 = 0.6x<br><br><b>Finding the wrong result:</b><br>Dividing by 3/4 is the same as multiplying by 4/3<br>So, value becomes: (4/3) \u00d7 x<br>Increasing this by 20 percent means multiplying by 1.2<br>Wrong result = (4/3) \u00d7 x \u00d7 1.2 = 1.6x<br><br><b>Finding the absolute error:</b><br>Error = Wrong result \u2212 Correct result = 1.6x \u2212 0.6x = 1.0x<br><br><b>Calculating percentage error:</b><br>Percentage error is calculated with respect to the correct result.<br>Percentage error = (Error \u00f7 Correct result) \u00d7 100 = (1.0x \u00f7 0.6x) \u00d7 100 = (1 \u00f7 0.6) \u00d7 100 = 166.67 percent<br><br>The percentage error in the final result is 166.67%."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Number System",
+
+    "question": "Let n be a positive integer such that n = x \u00d7 y \u00d7 z, where x, y, and z are three distinct prime numbers satisfying the condition 3 \u2264 x < y < z < 25.<br>Consider the following statements:<br>1. The sum of the digits of n can be a prime number.<br>2. The unit digit of n can never be 5.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "1 only",
+
+      "2 only",
+
+      "Both 1 and 2",
+
+      "Neither 1 nor 2"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Identify the eligible prime numbers:</b><br>Prime numbers between 3 and 25 are: 3, 5, 7, 11, 13, 17, 19, 23 (8 primes).<br><br><b>Evaluating Statement 1:</b> \u201cThe sum of the digits of n can be a prime number.\u201d<br>We only need to find one valid example.<br>If n = 3 \u00d7 5 \u00d7 7 = 105. Sum of digits = 1 + 0 + 5 = 6 (not prime)<br>If n = 3 \u00d7 7 \u00d7 11 = 231. Sum of digits = 2 + 3 + 1 = 6 (not prime)<br>If n = 7 \u00d7 11 \u00d7 13 = 1001. Sum of digits = 1 + 0 + 0 + 1 = 2 (prime)<br>Thus, it is possible for the digit sum of n to be a prime number. Hence, <b>Statement 1 is CORRECT</b>.<br><br><b>Evaluating Statement 2:</b> \u201cThe unit digit of n can never be 5.\u201d<br>For a number to end in 5, it must be divisible by 5 and must not be divisible by 2. Since 5 is one of the allowed primes, it is possible that one of x, y, or z is 5.<br>Example: n = 3 \u00d7 5 \u00d7 7 = 105. Unit digit = 5<br>Hence, the unit digit can be 5. <b>Statement 2 is INCORRECT</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical Reasoning / Cubes",
+
+    "question": "A master carpenter has a large wooden cube and wants to cut it into 72 identical rectangular blocks. The cutting must be such that all blocks are identical in shape and size. Each cut must be a single straight plane through the entire structure. After making a cut, the carpenter is not allowed to move or rearrange the pieces. What is the minimum number of cuts required to obtain 72 identical rectangular blocks?",
+
+    "options": [
+
+      "10",
+
+      "13",
+
+      "14",
+
+      "15"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Understanding the given cutting logic:</b><br>If a cube is cut into a \u00d7 b \u00d7 c identical rectangular blocks, then:<br>Number of blocks = a \u00d7 b \u00d7 c<br>Number of cuts required:<br>(a \u2212 1) cuts in one direction<br>(b \u2212 1) cuts in the second direction<br>(c \u2212 1) cuts in the third direction<br>Total cuts = (a \u2212 1) + (b \u2212 1) + (c \u2212 1) = a + b + c \u2212 3<br><br><b>Factorize 72 into three integers:</b><br>Possible factorizations of 72 into three integers are:<br>3 \u00d7 4 \u00d7 6<br>2 \u00d7 6 \u00d7 6<br>3 \u00d7 3 \u00d7 8<br><br><b>Compute cuts for each case:</b><br>For 3 \u00d7 4 \u00d7 6 : Cuts = (3 \u2212 1) + (4 \u2212 1) + (6 \u2212 1) = 2 + 3 + 5 = 10<br>For 2 \u00d7 6 \u00d7 6 : Cuts = 1 + 5 + 5 = 11<br>For 3 \u00d7 3 \u00d7 8 : Cuts = 2 + 2 + 7 = 11<br><br>Hence the minimum number of cuts required is 10, achieved using the 3 \u00d7 4 \u00d7 6 arrangement."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Time and Work",
+
+    "question": "Three workers A, B, and C can complete a project together in 12 days. The work proceeds as follows. All three work together for the first 3 days, after which C leaves. A and B then work together for the next 3 days, after which B also leaves. To complete the remaining work within the original 12-day period, A works alone for the last 6 days after increasing his efficiency by 60%. It is given that B is twice as efficient as C. How many days would B alone take to complete the entire project?",
+
+    "options": [
+
+      "48",
+
+      "51",
+
+      "53",
+
+      "55"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Defining work efficiencies:</b><br>Let the efficiency of C be c units per day.<br>Then, efficiency of B = 2c units per day.<br>Let the efficiency of A = a units per day.<br>Combined efficiency of A, B, and C = a + 3c.<br><br><b>Total work of the project:</b><br>Since all three together complete the work in 12 days, Total work = 12 \u00d7 (a + 3c)<br><br><b>Work done in different phases:</b><br>First 3 days (A + B + C): Work done = 3 \u00d7 (a + 3c)<br>Next 3 days (A + B): Efficiency = a + 2c. Work done = 3 \u00d7 (a + 2c)<br><br><b>Remaining work after 6 days:</b><br>Total work done in first 6 days = 3(a + 3c) + 3(a + 2c) = 6a + 15c<br>Remaining work = 12(a + 3c) \u2212 (6a + 15c) = 6a + 21c<br><br><b>Use A\u2019s increased efficiency:</b><br>A works alone for the last 6 days with a 60% increase in efficiency.<br>New efficiency of A = 1.6a<br>Work done by A in 6 days = 6 \u00d7 1.6a = 9.6a<br>This equals the remaining work:<br>9.6a = 6a + 21c \u2192 3.6a = 21c \u2192 a = 35c / 6<br><br><b>Finding total work in terms of c:</b><br>Total work = 12(a + 3c) = 12(35c/6 + 3c) = 12(53c/6) = 106c<br><br><b>Time taken by B alone:</b><br>Efficiency of B = 2c<br>Time taken by B alone = Total work \u00f7 Efficiency of B = 106c \u00f7 2c = 53 days.<br>B alone would take 53 days to complete the entire project."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Number System",
+
+    "question": "What is the number of fives used in numbering a 260-page book?",
+
+    "options": [
+
+      "55",
+
+      "56",
+
+      "57",
+
+      "60"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>For single digit page numbers:</b><br>5 is used only 1 time.<br><br><b>For double digit page numbers:</b><br>Case 1: 5 at unit\u2019s place<br>15, 25, 35\u2026 95 = 9 times<br>Case 2: 5 at tenth place<br>50, 51, 52\u2026 59 = 10 times<br><br><b>For triple digit page numbers:</b><br>Case 1: 5 at unit\u2019s place<br>105, 115, 125\u2026 195 = 10 times<br>205, 215\u2026 255 = 6 times<br>Case 2: 5 at tenth place<br>150, 151, 152\u2026 159 = 10 times<br>250, 251\u2026 259 = 10 times<br><br><b>Adding all cases:</b><br>5 is used = 1 + 9 + 10 + 10 + 6 + 10 + 10 = 56."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Data Sufficiency",
+
+    "question": "A question is followed by two statements A and B. Consider the following Question and statements:<br><br>Question: Is x > y > z?<br>Statement A: (x \u2212 y)(y \u2212 z) > 0<br>Statement B: x + z < 2y<br><br>Which of the following is correct in reference to the question and the statements given above?",
+
+    "options": [
+
+      "Statement A alone is sufficient to answer the question, but Statement B alone is not sufficient.",
+
+      "Statement B alone is sufficient to answer the question, but Statement A alone is not sufficient.",
+
+      "Both Statement A and Statement B together are sufficient to answer the question, but neither Statement alone is sufficient.",
+
+      "Even using both Statement A and Statement B together, the question cannot be answered."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Analysis of Statement A:</b><br>(x \u2212 y)(y \u2212 z) > 0 means the product is positive. This happens in two cases:<br>Case 1: x \u2212 y > 0 and y \u2212 z > 0 \u2192 x > y > z<br>Case 2: x \u2212 y < 0 and y \u2212 z < 0 \u2192 x < y < z<br>Since it allows both x > y > z (YES) and x < y < z (NO), Statement A alone is not sufficient.<br><br><b>Analysis of Statement B:</b><br>x + z < 2y means y is greater than the average of x and z. This does not fix the order of x, y, and z.<br>Example where x > y > z: x = 6, y = 4, z = 1 (Condition satisfied)<br>Example where x < y < z: x = 1, y = 4, z = 6 (Condition satisfied)<br>Statement B alone is not sufficient.<br><br><b>Using BOTH Statements Together:</b><br>From Statement A, we narrowed it to either x > y > z OR x < y < z.<br>Test Case: x > y > z (e.g., x = 6, y = 4, z = 1) \u2192 satisfies both Statements.<br>Test Case: x < y < z (e.g., x = 2, y = 5, z = 7) \u2192 satisfies both Statements.<br><br>Since even together the statements allow for both a YES and a NO to the original question, they are not sufficient. The Question cannot be answered even by using both the Statements together."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Data Sufficiency",
+
+    "question": "A question is followed by two statements A and B. Consider the following Question and statements:<br>In a class of 50 students, Isha and her twin brother Ishan are competing for the top spots. Isha is ranked 4th among the girls. Ishan is ranked 11th in the entire class.<br><br>Question: Between Isha and Ishan, who has the better overall rank in the class?<br>Statement A: Among the students ranked lower (worse than) than Ishan, the ratio of boys to girls is 4:9.<br>Statement B: Among the top 10 students in the class, the ratio of boys to girls is 3: 2.<br><br>Which of the following is correct in reference to the question and statements given above?",
+
+    "options": [
+
+      "Statement A alone is sufficient to answer the question, but Statement B alone is not sufficient.",
+
+      "Statement B alone is sufficient to answer the question, but Statement A alone is not sufficient.",
+
+      "Both Statement A and Statement B together are sufficient to answer the question, but neither Statement alone is sufficient.",
+
+      "Even using both Statement A and Statement B together, the question cannot be answered."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Given Data:</b><br>Ishan\u2019s overall rank = 11.<br>Isha is ranked 4th among the girls (exactly 3 girls are ahead of her).<br><br><b>Analysis of Statement A alone:</b><br>Students ranked lower than Ishan = 50 \u2212 11 = 39.<br>Ratio of boys to girls among these 39 = 4: 9. Each part = 39 \u00f7 13 = 3.<br>Boys below Ishan = 12, Girls below Ishan = 27.<br>This gives no information about how many boys or girls are ranked above Isha. Isha's rank could be better or worse than 11. Statement A alone is not sufficient.<br><br><b>Analysis of Statement B alone:</b><br>Top 10 students have boys:girls = 3:2.<br>Total parts = 5. Girls in top 10 = (2/5) \u00d7 10 = 4.<br>Since there are exactly 4 girls in the top 10, and Isha is 4th among girls, she must be the 4th girl in the top 10. Therefore, her overall rank is 10 or better.<br>Since Ishan\u2019s rank is 11, Isha definitely has a better rank than Ishan.<br>Statement B alone is sufficient."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Data Sufficiency",
+
+    "question": "A question is followed by two statements I and II. Consider the following Question and statements:<br>In a city, two companies, Company X and Company Y, are competing for market share. At the beginning of the year, Company X had a larger market share than Company Y.<br><br>Question: Is Company X's market share still larger than Company Y's at the end of the year?<br>Statement I: During the year, Company Y\u2019s market share increased by 25% of its value at the start of the year, while Company X\u2019s market share decreased by 15% of its initial value at the start of the year.<br>Statement II: The total gain by Company Y over the course of the year is exactly equal to the total loss by Company X.<br><br>Which one of the following is correct in reference to the question and statements given above?",
+
+    "options": [
+
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone.",
+
+      "The Question can be answered by using either Statement alone.",
+
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+
+      "The Question cannot be answered even using both the Statements together."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I Analysis:</b><br>End of year: X = 0.85X, Y = 1.25Y. We need to check if 0.85X > 1.25Y. This depends on the initial ratio. Example: X = 60, Y = 40 \u2192 X(51) > Y(50). Example: X = 52, Y = 48 \u2192 X(44.2) < Y(60). Statement I alone is not sufficient.<br><br><b>Statement II Analysis:</b><br>Absolute loss of X = absolute gain of Y. We don't know initial values or changes. Statement II alone is not sufficient.<br><br><b>Using Both Statements Together:</b><br>Change in X = 0.15X, Change in Y = 0.25Y<br>From Statement II: 0.15X = 0.25Y \u2192 X / Y = 0.25 / 0.15 = 5 / 3.<br>So initial ratio X:Y is 5:3.<br>End of year values:<br>X = 0.85 \u00d7 5 = 4.25<br>Y = 1.25 \u00d7 3 = 3.75<br>Since 4.25 > 3.75, Company X still has a larger market share. Both statements together are sufficient."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Data Sufficiency",
+
+    "question": "A question is followed by two statements I and II. Consider the following Question and statements:<br>Six friends\u2014U, V, W, X, Y, and Z\u2014are sitting in a row facing North. Each person occupies a unique place.<br><br>Question: Who is sitting at the extreme right end?<br>Statement I: Only two people sit between U and X. V sits to the immediate left of X.<br>Statement II: W sits third to the left of Y. Y is not an immediate neighbor of U.<br><br>Which of the following is correct in reference to the question and statements given above?",
+
+    "options": [
+
+      "Statement I alone is sufficient to answer the question, but Statement II alone is not sufficient.",
+
+      "Statement II alone is sufficient to answer the question, but Statement I alone is not sufficient.",
+
+      "Both Statement I and Statement II together are sufficient to answer the question, but neither Statement alone is sufficient.",
+
+      "Even using both Statement I and Statement II together, the question cannot be answered."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Analyzing Statement I:</b><br>V sits immediately left of X. Two people sit between U and X. Possible frameworks: U _ _ V X _ or _ U _ V X _. The extreme right end is not fixed.<br><br><b>Analyzing Statement II:</b><br>W _ _ Y, and Y is not adjacent to U. There are many possibilities. Right end is not fixed.<br><br><b>Combining Statement I and Statement II:</b><br>Multiple cases still exist:<br>Case 1: 1-U, 2-W, 3-V, 4-X, 5-Y, 6-Z \u2192 Extreme right is Z.<br>Case 2: 1-Z, 2-U, 3-W, 4-V, 5-X, 6-Y \u2192 Extreme right is Y.<br>Case 3: 1-W, 2-V, 3-X, 4-Y, 5-Z, 6-U \u2192 Extreme right is U.<br>Since multiple cases exist, we cannot determine uniquely who sits at the extreme right position. The question cannot be answered even using both statements."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Data Sufficiency",
+
+    "question": "A question is followed by two statements I and II. Consider the following Question and statements:<br><br>Question: Is the integer n divisible by 125?<br>Statement I: n = k! \u00f7 m! for some positive integers k and m, where k \u2212 m = 5.<br>Statement II: n is the product of five consecutive integers, and the middle (median) integer is a prime number p greater than 7.<br><br>Which of the following is correct in reference to the question and the statements given above?",
+
+    "options": [
+
+      "Statement I alone is sufficient to answer the question, but Statement II alone is not sufficient.",
+
+      "Statement II alone is sufficient to answer the question, but Statement I alone is not sufficient.",
+
+      "Both Statement I and Statement II together are sufficient to answer the question, but neither Statement alone is sufficient.",
+
+      "Even using both Statement I and Statement II together, the question cannot be answered."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>To determine whether n is divisible by 125, we must check whether n contains at least three factors of 5.<br><br><b>Analysis of Statement I:</b><br>n = (m + 1)(m + 2)(m + 3)(m + 4)(m + 5), meaning n is the product of 5 consecutive integers.<br>If m = 5, product is 6 \u00d7 7 \u00d7 8 \u00d7 9 \u00d7 10 \u2192 only one factor of 5 (NO).<br>If m = 120, product includes 125 \u2192 divisible by 125 (YES). Not sufficient.<br><br><b>Analysis of Statement II:</b><br>n is the product of 5 consecutive integers with median prime p > 7. So, (p-2)(p-1)p(p+1)(p+2).<br>If p = 11, numbers are 9, 10, 11, 12, 13 \u2192 not divisible by 125 (NO).<br>If p = 127, numbers are 125, 126, 127, 128, 129 \u2192 includes 125, so divisible by 125 (YES). Not sufficient.<br><br><b>Analysis Using Both Statements Together:</b><br>Statement I simply confirms n is the product of 5 consecutive integers. Statement II adds the prime median condition but still leaves multiple outcomes (p=11 vs p=127). Thus, even together, they are not sufficient."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Data Sufficiency",
+
+    "question": "A question is followed by two statements I and II. Consider the following Question and statements:<br>A workshop consists of 50 participants. Each participant is either an undergraduate or a graduate student. Let P be the probability that a randomly selected participant is a female graduate student.<br><br>Question: Is P less than one-half?<br>Statement I: Out of the 50 participants, 24 are female.<br>Statement II: Out of the 50 participants, 18 are graduate students.<br><br>Which one of the following is correct in reference to the question and statements given above?",
+
+    "options": [
+
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone.",
+
+      "The Question can be answered by using either Statement alone.",
+
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+
+      "The Question cannot be answered even using both the Statements together."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>We need to check if Probability(female graduate) < 1/2, which is equivalent to checking if the number of female graduates < 25.<br><br><b>Analysis of Statement I:</b><br>Total females = 24. The number of female graduates cannot exceed 24. Since 24 < 25, P is definitely less than 1/2. Statement I alone is sufficient.<br><br><b>Analysis of Statement II:</b><br>Total graduates = 18. The number of female graduates cannot exceed 18. Since 18 < 25, P is definitely less than 1/2. Statement II alone is sufficient.<br><br>Therefore, the question can be answered by using either Statement alone."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Data Sufficiency",
+
+    "question": "A question is followed by two statements I and II. Consider the following Question and statements:<br>A specialty coffee roaster sells two types of coffee beans: Highland Arabica and Lowland Robusta. A customer purchases 6 pounds of Highland Arabica and 4 pounds of Lowland Robusta for a total cost of $132. The price per pound of each type of bean is fixed.<br><br>Question: What is the differential price per unit of Highland Arabica and Lowland Robusta?<br>Statement I: Another customer buys 9 pounds of Highland Arabica and 6 pounds of Lowland Robusta for $198.<br>Statement II: A third customer buys 3 pounds of Highland Arabica and 3 pounds of Lowland Robusta for $81.<br><br>Which of the following is correct in reference to the question and statements given above?",
+
+    "options": [
+
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone.",
+
+      "The Question can be answered by using either Statement alone.",
+
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+
+      "The Question cannot be answered even using both the Statements together."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Let A = price of Arabica, R = price of Robusta.<br>From the question: 6A + 4R = 132.<br><br><b>Analysis of Statement I:</b><br>9A + 6R = 198. This is exactly 1.5 times the original equation. It provides no independent information. Statement I alone is not sufficient.<br><br><b>Analysis of Statement II:</b><br>3A + 3R = 81 \u2192 A + R = 27.<br>Solving this independent equation alongside 6A + 4R = 132 allows us to uniquely determine A and R (R = 27 - A \u2192 6A + 4(27-A) = 132 \u2192 2A = 24 \u2192 A = 12, R = 15). We can thus find the differential price. Statement II alone is sufficient.<br><br>Therefore, the question can be answered by using one statement alone (Statement II), but not the other."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "A question is followed by two statements I and II. Consider the following Question and statements:<br><br><b>Question:</b> What is the unique value of the integer ‘x’?<br><br><b>Statement I:</b> x is a prime number such that x is greater than 10 and less than 40, and the sum of its digits is also a prime number.<br><br><b>Statement II:</b> (x − 1) is a multiple of 6, and (x + 2) is a multiple of 5.<br><br>Which of the following is correct in reference to the question and statements given above?",
+
+    "options": [
+
+      "The question can be answered using Statement I alone, but not using Statement II alone.",
+
+      "The question can be answered using either Statement alone.",
+
+      "The question can be answered using both Statements together, but not using either Statement alone.",
+
+      "The question cannot be answered even by using both Statements together."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Analysis of Statement I:</b><br>We list all prime numbers between 10 and 40.<br>Primes between 10 and 40 are: 11, 13, 17, 19, 23, 29, 31, 37.<br>Now check whether the sum of digits of each number is also prime:<br>11 &rarr; 1 + 1 = 2 (prime) &rarr; possible<br>13 &rarr; 1 + 3 = 4 (not prime)<br>17 &rarr; 1 + 7 = 8 (not prime)<br>19 &rarr; 1 + 9 = 10 (not prime)<br>23 &rarr; 2 + 3 = 5 (prime) &rarr; possible<br>29 &rarr; 2 + 9 = 11 (prime) &rarr; possible<br>31 &rarr; 3 + 1 = 4 (not prime)<br>37 &rarr; 3 + 7 = 10 (not prime)<br><br>Possible values of x from Statement I are: 11, 23, and 29.<br>Since more than one value is possible, Statement I alone is not sufficient.<br><br><b>Analysis of Statement II:</b><br>There are two conditions.<br>First condition: (x − 1) is a multiple of 6. This means x is 1 more than a multiple of 6. Possible values are: 7, 13, 19, 25, 31, 37, 43, 49, 55, and so on.<br>Second condition: (x + 2) is a multiple of 5. This means x is 2 less than a multiple of 5. Such numbers end in 3 or 8, for example: 3, 8, 13, 18, 23, 28, 33, 38, 43 and so on.<br>Common values satisfying both conditions are: 13, 43, 73, 103, and so on.<br>Since there are infinitely many possible values, Statement II alone is not sufficient.<br><br><b>Combining Statement I and Statement II:</b><br>From Statement I, possible values of x are: 11, 23, and 29.<br>From Statement II, possible values of x are: 13, 43, 73, and so on.<br>There is no common value between these two sets.<br>Therefore, no value of x satisfies both statements at the same time. The Question cannot be answered even by using both the Statements together.<br><br>Therefore, <b>Option (d) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "How many 5-digit numbers can be formed from the set of digits {0, 1, 2, 3, 4, 5, 6, 7} such that no digit is repeated, and the digits of the number are in strictly decreasing order?",
+
+    "options": [
+
+      "56",
+
+      "66",
+
+      "24",
+
+      "84"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Given data:<br>Since the digits must be in strictly decreasing order, no permutation is possible.<br>Each selection of 5 distinct digits gives exactly one valid number arranged in strictly descending order.<br><br>Hence, the problem reduces to simply selecting 5 digits from 8 available digits.<br>Number of selections = 8C5 = 56.<br><br>The greatest selected digit always appears first, so the leading digit is never 0 in a strictly decreasing sequence (unless only 0 was chosen, which is impossible with 5 digits).<br>Therefore, all 56 selections form valid 5-digit numbers.<br><br>Total number of such 5-digit numbers = 56.<br>Therefore, <b>Option (a) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "If p, q, r and s are distinct single digit positive numbers, then what is the greatest value of (p + q)(r + s)?",
+
+    "options": [
+
+      "230",
+
+      "225",
+
+      "224",
+
+      "221"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>To maximize (p+q)(r+s), we need to maximize both (p+q) and (r+s).<br><br>Since p, q, r, and s are distinct single-digit positive numbers, we must choose the largest possible single digits: 9, 8, 7, and 6.<br><br>To make the product of the two sums as large as possible, the two sums should be as close to each other as possible.<br>Possible combinations for the sums:<br>9 + 6 = 15<br>8 + 7 = 15<br><br>Therefore, the greatest possible values of (p+q) and (r+s) are 15 and 15.<br>The greatest possible value of (p+q)(r+s) is 15 &times; 15 = 225.<br><br>Therefore, <b>Option (b) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "If x is a real number such that 0 &lt; x &lt; 1; then which of the following statements is/are correct?<br><br><b>I:</b> x &minus; x&sup2; &gt; x&sup2; &minus; x&sup3;<br><b>II:</b> x / (1 + x) &lt; x&sup2; / (1 + x&sup2;)<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I:</b> x &minus; x&sup2; &gt; x&sup2; &minus; x&sup3;<br>Bring all terms to one side:<br>x &minus; 2x&sup2; + x&sup3; &gt; 0<br>Factorizing:<br>x(1 &minus; 2x + x&sup2;) &gt; 0<br>x(1 &minus; x)&sup2; &gt; 0<br><br>Now check signs:<br>x &gt; 0 (given)<br>(1 &minus; x)&sup2; &gt; 0 and is positive since 0 &lt; x &lt; 1.<br>So, the product is positive. <b>Statement I is correct.</b><br><br><b>Statement II:</b> x / (1 + x) &lt; x&sup2; / (1 + x&sup2;)<br>Since denominators are positive, cross-multiply:<br>x(1 + x&sup2;) &lt; x&sup2;(1 + x)<br>Expand both sides:<br>x + x&sup3; &lt; x&sup2; + x&sup3;<br>Cancel x&sup3; from both sides:<br>x &lt; x&sup2;<br><br>But for 0 &lt; x &lt; 1, a number is always strictly greater than its square (e.g., 0.5 &gt; 0.25), meaning x &gt; x&sup2;.<br>So the inequality x &lt; x&sup2; becomes false. <b>Statement II is incorrect.</b><br><br>Only Statement I is correct. Therefore, <b>Option (a) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "Consider a set S of 15 distinct integers.<br><br><b>Value-I</b> = The minimum possible value of the average of the set S, given that the set consists of consecutive even integers whose sum is greater than &minus;30.<br><br><b>Value-II</b> = The minimum possible value of the product of the set S, given that the set consists of consecutive integers and contains exactly seven negative integers.<br><br>In context of the above values, which one of the following is correct?",
+
+    "options": [
+
+      "Value-I < Value-II",
+
+      "Value-II < Value-I",
+
+      "Value-I = Value-II",
+
+      "Relation between Value-I and Value-II is indeterminable due to insufficient data."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Evaluating Value-I:</b><br>The 15 integers are consecutive even integers and their sum is greater than &minus;30.<br>Any 15 consecutive even integers form an arithmetic progression. For an A.P. with an odd number of terms, the average equals the middle (8th) term.<br>Let the middle term be x. The sum of the 15 terms = 15x.<br>Given condition: 15x &gt; &minus;30, which implies x &gt; &minus;2.<br>Since the middle term must be an even integer, the smallest even integer strictly greater than &minus;2 is 0.<br>So, Minimum possible average = 0. Thus, <b>Value-I = 0</b>.<br><br><b>Evaluating Value-II:</b><br>The set consists of 15 consecutive integers. Exactly 7 of them are negative.<br>If exactly 7 integers are negative in a set of 15 consecutive integers, the sequence must include:<br>7 negative numbers, 1 zero, and 7 positive numbers.<br>The sequence is: &minus;7, &minus;6, &minus;5, &minus;4, &minus;3, &minus;2, &minus;1, 0, 1, 2, 3, 4, 5, 6, 7.<br>Since 0 is included in this set, the product of all 15 numbers is 0.<br>So, Minimum possible product = 0. Thus, <b>Value-II = 0</b>.<br><br><b>Final Comparison:</b><br>Value-I = 0<br>Value-II = 0<br>Therefore, Value-I = Value-II. <b>Option (c) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "Let a+b=3, where a,b are integers.<br><br><b>Value-I:</b> The maximum value of a&times;b when a and b are positive integers.<br><b>Value-II:</b> The maximum value of a&times;b when a &ge; &minus;4 and b &ge; &minus;6.<br><br>In context of the above values, which one of the following is correct?",
+
+    "options": [
+
+      "Value-I < Value-II",
+
+      "Value-II < Value-I",
+
+      "Value-I = Value-II",
+
+      "Relation between Value-I and Value-II is indeterminable due to insufficient data."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Given a + b = 3, where a and b are integers.<br><br><b>Value-I:</b><br>Maximum value of a &times; b when a and b are positive integers.<br>Since both a and b must be positive integers and their sum is 3, the only possible pairs are:<br>a = 1, b = 2<br>a = 2, b = 1<br>The product for both pairs is 1 &times; 2 = 2.<br>So, <b>Value-I = 2</b>.<br><br><b>Value-II:</b><br>Maximum value of a &times; b when a &ge; &minus;4 and b &ge; &minus;6.<br>Since the sum is fixed (a + b = 3), increasing one number forces the other to decrease.<br>The product of two numbers with a fixed sum is highest when the two numbers are as close to each other as possible.<br>Check values near the middle:<br>a = 1, b = 2 &rarr; product = 2<br>a = 2, b = 1 &rarr; product = 2<br>Check other allowed values to verify:<br>a = 0, b = 3 &rarr; product = 0<br>a = 3, b = 0 &rarr; product = 0<br>Negative values for a or b will make the product negative (since the other number must be positive to sum to 3), making the product smaller.<br>So the maximum product occurs again at a = 1, b = 2 or a = 2, b = 1.<br>Thus, <b>Value-II = 2</b>.<br><br><b>Final Comparison:</b><br>Value-I = 2<br>Value-II = 2<br>Therefore, Value-I = Value-II. <b>Option (c) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "Two ships start from the same port, one sailing due South-East and the other sailing due South-West, both travelling at constant speeds, the speed of the latter being 7 kmph greater than that of the former. If, after five hours, they are 65 km apart, then what is the sum of their speeds, in kmph?",
+
+    "options": [
+
+      "13",
+
+      "15",
+
+      "17",
+
+      "19"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Understand the directions:</b><br>South-East and South-West directions make a right angle (90&deg;) with each other.<br>Hence, the paths of the ships are perpendicular.<br><br><b>Assume speeds:</b><br>Let the speed of the South-East ship = x kmph.<br>Then the speed of the South-West ship = x + 7 kmph.<br><br><b>Distance travelled in 5 hours:</b><br>Distance travelled by first ship = 5x km.<br>Distance travelled by second ship = 5(x + 7) km.<br><br><b>Use Pythagoras theorem:</b><br>Since the directions are perpendicular:<br>Distance between ships&sup2; = (5x)&sup2; + [5(x + 7)]&sup2;<br>Given distance = 65 km.<br>So, (5x)&sup2; + 5&sup2;(x + 7)&sup2; = 65&sup2;<br><br>Divide both sides by 25:<br>x&sup2; + (x + 7)&sup2; = 169<br>x&sup2; + x&sup2; + 14x + 49 = 169<br>2x&sup2; + 14x &minus; 120 = 0<br>Divide by 2: x&sup2; + 7x &minus; 60 = 0<br>Factor: (x + 12)(x &minus; 5) = 0<br><br>Reject x = &minus;12 (speed cannot be negative). So, x = 5 kmph.<br><br><b>Finding the sum of speeds:</b><br>First ship speed = 5 kmph.<br>Second ship speed = 5 + 7 = 12 kmph.<br>Sum of speeds = 5 + 12 = 17 kmph.<br><br>Therefore, <b>Option (c) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "The number of soldiers in a regiment is fewer than 1000. When they are arranged in rows of five, seven and nine soldiers each, there is exactly one left over soldier in each of these arrangements. However, when they are arranged in rows of 11 soldiers each, then there is no left over soldier. How many soldiers will be left over if they are arranged in rows of 13 each?",
+
+    "options": [
+
+      "7",
+
+      "8",
+
+      "9",
+
+      "10"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Given:<br>The number of soldiers is less than 1000.<br>When arranged in rows of 5, 7, and 9, 1 soldier is left over each time.<br>When arranged in rows of 11, no soldier is left over.<br><br><b>Using the “1 left over” condition:</b><br>If 1 soldier is left over when arranged in rows of 5, 7, and 9, then the number of soldiers minus 1 is divisible by 5, 7, and 9.<br>So, Number of soldiers &minus; 1 is a common multiple of 5, 7, and 9.<br><br><b>Finding the least common multiple:</b><br>The smallest number divisible by 5, 7, and 9 is 5 &times; 7 &times; 9 = 315.<br>So the number of soldiers can be written as: Number of soldiers = 315k + 1.<br><br><b>Using the “no remainder with 11” condition:</b><br>The number of soldiers must be exactly divisible by 11. Try values of k:<br>k = 1 &rarr; 316 (not divisible by 11)<br>k = 2 &rarr; 631 (not divisible by 11)<br>k = 3 &rarr; 946 (divisible by 11, since 946 / 11 = 86)<br><br>So, Number of soldiers = 946. This satisfies the condition that the number is less than 1000.<br><br><b>Divide by 13:</b><br>Now arrange 946 soldiers in rows of 13:<br>946 &divide; 13 gives a quotient of 72 and a remainder. <br>13 &times; 72 = 936.<br>946 &minus; 936 = 10.<br><br>When the soldiers are arranged in rows of 13, 10 soldiers are left over.<br>Therefore, <b>Option (d) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "A three-digit number “n” has at least one digit as 4 and at least one digit 5. In addition, every digit 5 in the number must appear in a place of higher positional value than every digit 4. How many such three-digit numbers are possible?",
+
+    "options": [
+
+      "19",
+
+      "23",
+
+      "25",
+
+      "28"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>We consider all possible three-digit numbers that satisfy the given conditions and count them case by case. The 5 must appear at a higher positional value than the 4.<br><br><b>Case 1: Form 5 4 _</b><br>The hundreds digit is 5 and the tens digit is 4. The units digit can be any digit except 4 or 5 (to avoid overlapping cases), but wait, the rules say \"every 5 must appear before every 4\". <br>If the units digit is 5, it appears after a 4, which is invalid.<br>If the units digit is 4, the number is 544, covered in Case 5.<br>So, the units digit can be 0, 1, 2, 3, 6, 7, 8, 9 (8 different ways).<br><br><b>Case 2: Form 5 _ 4</b><br>The hundreds digit is 5 and the units digit is 4. The tens digit can be 0, 1, 2, 3, 6, 7, 8, 9 (8 different ways).<br><br><b>Case 3: Form _ 5 4</b><br>The tens digit is 5 and the units digit is 4. The hundreds digit can be 1, 2, 3, 6, 7, 8, 9 (7 different ways, excluding 0, 4, and 5).<br><br><b>Case 4: Form 5 5 4</b><br>Only 1 such number is possible.<br><br><b>Case 5: Form 5 4 4</b><br>Only 1 such number is possible.<br><br><b>Total Count:</b><br>Total number of such three-digit numbers = 8 + 8 + 7 + 1 + 1 = 25.<br>Therefore, <b>Option (c) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "A dishonest trader mixes water with milk. He announces that he is selling milk at a discount of 10 percent on its cost price. However, by adding water to the milk, he still manages to earn an overall profit of 20 percent. What is the percentage of water in the final mixture? (Assume cost of water added = ₹0)",
+
+    "options": [
+
+      "25%",
+
+      "30%",
+
+      "33.33%",
+
+      "15%"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Assume the cost price of pure milk:</b><br>Let the cost price of 1 litre of pure milk be ₹100.<br><br><b>Finding the selling price:</b><br>He claims to give a 10% discount.<br>Selling price per litre of the mixture = 90% of 100 = ₹90.<br><br><b>Use the actual profit condition:</b><br>Even after selling at ₹90, he makes a profit of 20%.<br>This means: Cost of mixture per litre = 90 &divide; 1.20 = ₹75.<br><br><b>Identifying cost of milk and water in the mixture:</b><br>Milk costs ₹100 per litre, while water costs nothing (₹0).<br>So, in 1 litre of the mixture, the cost solely comes from the milk used, which is ₹75.<br><br><b>Finding the quantity of milk and water:</b><br>Since pure milk costs ₹100 per litre, the milk quantity in 1 litre of mixture = 75 &divide; 100 = 0.75 litre.<br>Total mixture = 1 litre.<br>Quantity of water = 1 &minus; 0.75 = 0.25 litre.<br><br><b>Calculating percentage of water:</b><br>Percentage of water = (0.25 &divide; 1) &times; 100 = 25%.<br>Therefore, <b>Option (a) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "If the variable x lies between 5 and 12 (both inclusive) and the variable y lies between 3 and 9 (both inclusive), what is the ratio of the maximum possible value of (x + y) to that of minimum possible value of (x − y)?",
+
+    "options": [
+
+      "-4.25",
+
+      "-5.5",
+
+      "-4.5",
+
+      "-5.25"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Finding the maximum value of (x + y):</b><br>To maximize the sum, both x and y must take their largest possible values.<br>Maximum x = 12<br>Maximum y = 9<br>Maximum value of (x + y) = 12 + 9 = 21.<br><br><b>Finding the minimum value of (x &minus; y):</b><br>To minimize the difference, x should be as small as possible and y as large as possible.<br>Minimum x = 5<br>Maximum y = 9<br>Minimum value of (x &minus; y) = 5 &minus; 9 = &minus;4.<br><br><b>Finding the required ratio:</b><br>Required ratio = Maximum value of (x + y) : Minimum value of (x &minus; y)<br>= 21 : &minus;4<br>= &minus;5.25.<br><br>Therefore, <b>Option (d) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "A person invested a certain amount in the stock market. After one year, he sold all his holdings and, after accounting for brokerage, taxes, and other charges, realized an effective profit of 125 percent. He then reinvested the entire amount obtained into another investment, which yielded an effective annual return of 44 percent after all deductions. What was the average annual compounded rate of return (in percent) earned by him over the two-year period?",
+
+    "options": [
+
+      "80%",
+
+      "90%",
+
+      "85%",
+
+      "75%"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Let the initial investment be 100 units.<br><br><b>After the first year:</b><br>Effective gain = 125%<br>So the value becomes: 100 + 125% of 100 = 100 + 125 = 225.<br><br><b>After the second year:</b><br>Effective annual return = 44%<br>Value after second year: 225 + 44% of 225 = 225 &times; 1.44 = 324.<br><br><b>Overall growth over two years:</b><br>Initial value = 100<br>Final value after two years = 324<br><br>Let the average annual compounded return be r%. Then:<br>100 &times; (1 + r/100)&sup2; = 324<br>Dividing both sides by 100: (1 + r/100)&sup2; = 3.24<br>Taking square root: 1 + r/100 = 1.8<br>So, r/100 = 0.8<br>r = 80%<br><br>The average annual compounded return earned over the two years is 80%.<br>Therefore, <b>Option (a) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "In an examination, the maximum marks for each of the four papers namely P, Q, R and S are 100. Marks scored by the students are in integers. A student can score 99% in n different ways. What is the value of n?",
+
+    "options": [
+
+      "16",
+
+      "17",
+
+      "23",
+
+      "35"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Scoring 99% overall across 4 papers of 100 marks each means the overall score is 396 out of 400. This implies the student lost a total of exactly 4 marks across the four subjects.<br><br>Let us find the possible ways of losing these 4 marks (or scoring 396).<br><br><b>Possibility 1:</b> Lost 1 mark in each of the 4 papers (Scores: 99, 99, 99, 99).<br>There is 1 possible way.<br><br><b>Possibility 2:</b> Lost 4 marks in 1 paper, and 0 in the others (Scores: 100, 100, 100, 96).<br>There are 4C1 = 4 possible ways.<br><br><b>Possibility 3:</b> Lost 2 marks in 2 papers, and 0 in the others (Scores: 100, 100, 98, 98).<br>There are 4C2 = 6 possible ways.<br><br><b>Possibility 4:</b> Lost 3 marks in 1 paper, 1 mark in 1 paper, and 0 in the others (Scores: 100, 100, 99, 97).<br>There are 4C2 &times; 2C1 &times; 1C1 ways = 12 possible ways.<br><br><b>Possibility 5:</b> Lost 2 marks in 1 paper, 1 mark in 2 papers, and 0 in 1 paper (Scores: 100, 99, 99, 98).<br>Select 1 paper for 100 (4 ways), select 1 paper for 98 (3 ways), and the rest are 99s. 4 &times; 3 = 12 possible ways.<br><br>Total Possible ways = 1 + 4 + 6 + 12 + 12 = 35 ways.<br>Therefore, <b>Option (d) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "Five distinct prime numbers p, q, r, s and t are all less than 25. They are arranged in increasing order such that p, q and r and r, s and t are in arithmetic progression. The common difference of the arithmetic progression in the second case is thrice that of the common difference of the first. What is the sum of (p+r+t)?",
+
+    "options": [
+
+      "19",
+
+      "23",
+
+      "29",
+
+      "31"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The prime numbers less than 25 are: 2, 3, 5, 7, 11, 13, 17, 19, 23.<br><br>We need p, q, r to be in an Arithmetic Progression (A.P.) with a common difference d1, and r, s, t to be in an A.P. with a common difference d2, such that d2 = 3 &times; d1.<br><br>Let's find the first A.P. (p, q, r):<br>Try d1 = 2: Primes could be (3, 5, 7). So, p = 3, q = 5, r = 7.<br><br>If d1 = 2, then d2 = 3 &times; 2 = 6.<br>We need r, s, t to be in an A.P. with d2 = 6, starting with r = 7.<br>So, s = 7 + 6 = 13 (which is prime).<br>t = 13 + 6 = 19 (which is prime).<br><br>All the numbers (3, 5, 7, 13, 19) are distinct primes less than 25 and arranged in increasing order. This perfectly satisfies all conditions.<br><br>Now, the required sum is (p + r + t):<br>= 3 + 7 + 19 = 29.<br><br>Therefore, <b>Option (c) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "Consider the first 500 natural numbers, that is, the set {1, 2, 3, … , 500}. How many numbers in this set are not divisible by any of the numbers 3, 4, 10, and 14?",
+
+    "options": [
+
+      "224",
+
+      "258",
+
+      "318",
+
+      "272"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>We need to find numbers not divisible by any of 3, 4, 10, and 14. We will use the Principle of Inclusion-Exclusion.<br><br><b>1. Divisible by 1 number:</b><br>By 3: Floor(500/3) = 166<br>By 4: Floor(500/4) = 125<br>By 10: Floor(500/10) = 50<br>By 14: Floor(500/14) = 35<br>Sum = 166 + 125 + 50 + 35 = 376<br><br><b>2. Divisible by 2 numbers (LCM):</b><br>3 & 4 (LCM 12): Floor(500/12) = 41<br>3 & 10 (LCM 30): Floor(500/30) = 16<br>3 & 14 (LCM 42): Floor(500/42) = 11<br>4 & 10 (LCM 20): Floor(500/20) = 25<br>4 & 14 (LCM 28): Floor(500/28) = 17<br>10 & 14 (LCM 70): Floor(500/70) = 7<br>Sum = 41 + 16 + 11 + 25 + 17 + 7 = 117<br><br><b>3. Divisible by 3 numbers (LCM):</b><br>3, 4, 10 (LCM 60): Floor(500/60) = 8<br>3, 4, 14 (LCM 84): Floor(500/84) = 5<br>3, 10, 14 (LCM 210): Floor(500/210) = 2<br>4, 10, 14 (LCM 140): Floor(500/140) = 3<br>Sum = 8 + 5 + 2 + 3 = 18<br><br><b>4. Divisible by all 4 numbers (LCM):</b><br>3, 4, 10, 14 (LCM 420): Floor(500/420) = 1<br><br><b>Total divisible by at least one:</b><br>N(A U B U C U D) = 376 &minus; 117 + 18 &minus; 1 = 276<br><br><b>Numbers NOT divisible by any:</b><br>Total numbers &minus; Numbers divisible by at least one<br>= 500 &minus; 276 = 224.<br><br>Therefore, <b>Option (a) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "Akash owns a boat. On Monday, the speed of the boat in still water is 15 km per hour. The speed of the river current is 3 km per hour and remains the same on both days. On Monday, Akash travels downstream from point A to point B and then returns upstream from B to A. The total time taken for this round trip is 5 hours. On Tuesday, Akash again makes the same round trip from A to B and back to A, with the river current still flowing at 3 km per hour. However, the total time taken on Tuesday is 4 hours. If the distance between A and B is the same on both days, what is the approximate speed of the boat in still water on Tuesday in kmph?",
+
+    "options": [
+
+      "18.5",
+
+      "19.5",
+
+      "20.5",
+
+      "21.5"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Finding the distance between A and B using Monday’s data:</b><br>Speed of boat in still water on Monday = 15 kmph<br>Speed of current = 3 kmph<br>Downstream speed on Monday = 15 + 3 = 18 kmph<br>Upstream speed on Monday = 15 &minus; 3 = 12 kmph<br><br>Let the distance between A and B be D km.<br>Time taken downstream + time taken upstream = 5 hours<br>D / 18 + D / 12 = 5<br>Taking LCM of 18 and 12 (which is 36):<br>(2D + 3D) / 36 = 5<br>5D = 180<br>D = 36 km.<br><br><b>Using Tuesday’s data to find the boat’s speed:</b><br>Let the boat’s speed in still water on Tuesday be V kmph.<br>Downstream speed = V + 3<br>Upstream speed = V &minus; 3<br>Total time taken on Tuesday = 4 hours.<br><br>So, 36 / (V + 3) + 36 / (V &minus; 3) = 4<br>Divide both sides by 36: 1 / (V + 3) + 1 / (V &minus; 3) = 1 / 9<br>Combine the fractions: [(V &minus; 3) + (V + 3)] / (V&sup2; &minus; 9) = 1 / 9<br>2V / (V&sup2; &minus; 9) = 1 / 9<br>Cross-multiplying: 18V = V&sup2; &minus; 9<br>Rearranging: V&sup2; &minus; 18V &minus; 9 = 0<br><br>Using the quadratic formula:<br>V = [18 + &radic;(324 + 36)] / 2 = [18 + &radic;360] / 2<br>&radic;360 is approximately 18.97.<br>V &approx; (18 + 18.97) / 2 = 36.97 / 2 &approx; 18.48 kmph.<br><br>The approximate speed of the boat in still water on Tuesday is 18.5 kmph.<br>Therefore, <b>Option (a) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "On one side of a 1.01 km long road, 101 plants are planted at equal distance from each other. What is the total distance between 5 consecutive plants?",
+
+    "options": [
+
+      "40 m",
+
+      "40.4 m",
+
+      "50 m",
+
+      "50.5 m"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Total length of road = 1.01 km = 1010 m.<br><br>Since a total of 101 plants are to be planted, there will be exactly 100 equal gaps between these plants.<br>The length of each gap will be: 1010 m / 100 = 10.1 m.<br><br>There are 4 gaps between any 5 consecutive plants.<br>So, the distance between 5 consecutive plants = 4 &times; 10.1 m = 40.4 m.<br><br>Therefore, <b>Option (b) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "A bag contains 3 red balls, 4 blue balls, and 2 green balls. Three balls are drawn one after the other, without replacement. What is the probability that at least one of the drawn balls is Red?",
+
+    "options": [
+
+      "16/21",
+
+      "13/21",
+
+      "17/21",
+
+      "19/21"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Given that we have to find the probability of drawing “at least one Red”.<br>“At least one Red” includes exactly 1 Red, exactly 2 Reds, or exactly 3 Reds.<br><br>Instead of calculating all these cases separately, we use the complement method. The complement of “at least one Red” is “no Red at all”.<br>Probability (at least one Red) = 1 &minus; Probability (no Red)<br><br><b>Calculating Probability of Drawing No Red:</b><br>Total balls in the bag: 3 Red + 4 Blue + 2 Green = 9 balls.<br>Non-red balls: 4 Blue + 2 Green = 6 balls.<br><br><b>Probability calculations (without replacement):</b><br>Probability first ball is non-red = 6 / 9<br>Probability second ball is non-red = 5 / 8<br>Probability third ball is non-red = 4 / 7<br><br>Probability (no Red) = (6 / 9) &times; (5 / 8) &times; (4 / 7)<br>= (2 / 3) &times; (5 / 8) &times; (4 / 7) = 40 / 168 = 10 / 42 = 5 / 21.<br><br><b>Finding Required Probability:</b><br>Probability (at least one Red) = 1 &minus; 5 / 21 = 16 / 21.<br><br>Therefore, <b>Option (a) is correct</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "A sum of money P is invested at a fixed annual rate of interest r% for n years. Consider the following statements about the interest earned:<br><br>I. When interest is calculated using the Simple Interest method, the principal amount becomes double of the original amount in n years if and only if the product r × n equals 100.<br>II. When interest is Compounded Annually, the interest earned during the second year is always greater than the interest earned during the first year by exactly r% of the first year’s interest.<br><br>Which of the above statements is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I: Simple Interest case</b><br>Under Simple Interest, Interest = (P × r × n) / 100<br>Amount after n years = P + (P × r × n) / 100<br>For the amount to double: P + (P × r × n) / 100 = 2P<br>Divide throughout by P: 1 + (r × n) / 100 = 2<br>So, (r × n) / 100 = 1<br>⇒ r × n = 100<br>Hence, Statement I is correct.<br><br><b>Statement II: Compound Interest case</b><br>Under annual compounding:<br>Interest in the first year = (r% of P) = (r/100)P<br>Amount at the beginning of the second year = P + (r/100)P<br>Interest in the second year = r% of this new amount = (r/100) × [P + (r/100)P] = (r/100)P + (r²/100²)P<br>Increase in interest from first to second year: = (r²/100²)P<br>This increase is r% of the first year’s interest, because: r% of first year’s interest = (r/100) × (r/100)P = (r²/100²)P<br>Hence, Statement II is also correct.<br><br>Both statements I and II are correct."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "Five positive integers m, n, o, p, and q are given such that exactly two of them are even and the remaining three are odd (not necessarily in any particular order).<br><br>Consider the following statements:<br>I. The sum of the squares, m² + n² + o² + p² + q², is always odd.<br>II. The product (m + n) × (o + p) × q is always even.<br>III. The expression m + 2n + 3o + 4p + 5q is always even.<br><br>Which of the above statements is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "I and II only",
+
+      "II and III only",
+
+      "I, II, and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Given: Five positive numbers: m, n, o, p, q. Exactly two of them are even and exactly three of them are odd.<br><br><b>Statement I: m² + n² + o² + p² + q² is definitely odd</b><br>Square of an even number is even (Example: 2² = 4).<br>Square of an odd number is odd (Example: 3² = 9).<br>Squares of the two even numbers → even + even = even.<br>Squares of the three odd numbers → odd + odd + odd = odd.<br>Now add them: even + odd = odd.<br>This will happen in every possible case, no matter which numbers are even or odd. Statement I is correct.<br><br><b>Statement II: (m + n) × (o + p) × q is definitely even</b><br>Check carefully using an example.<br>Let m = odd, n = even → m + n = odd.<br>Let o = odd, p = even → o + p = odd.<br>Let q = odd.<br>Total even numbers = 2. Total odd numbers = 3. So the condition is satisfied.<br>Now calculate: odd × odd × odd = odd.<br>So the expression can be odd, which means it is not always even. Statement II is incorrect.<br><br><b>Statement III: m + 2n + 3o + 4p + 5q is definitely even</b><br>Simplify the expression:<br>2n is always even.<br>4p is always even.<br>So they do not change the final result. Now look at: m + 3o + 5q.<br>3o behaves like o, and 5q behaves like q. So the result depends on: m + o + q.<br>Example 1: m = odd, o = odd, q = odd → odd + odd + odd = odd.<br>Example 2: m = even, o = odd, q = odd → even + odd + odd = even.<br>Since the result changes depending on the choice, it is not definitely even. Statement III is incorrect.<br><br>Only Statement I is correct."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "Find the unit digit of the expression:<br>3847<sup>(22! + 3115)</sup>",
+
+    "options": [
+
+      "1",
+
+      "3",
+
+      "7",
+
+      "9"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>We are asked to find the unit digit of 3847<sup>(22! + 3115)</sup>.<br>Only the last digit of the base matters. The unit digit of 3847 is 7. So we only need the unit digit of: 7<sup>(22! + 3115)</sup>.<br><br>Observe the repeating pattern of powers of 7. Powers of 7 repeat their unit digits every 4:<br>7¹ → 7<br>7² → 9<br>7³ → 3<br>7⁴ → 1<br>Cycle: 7, 9, 3, 1<br><br>Find the position of the exponent in the cycle:<br>Exponent = 22! + 3115<br>22! is divisible by 4 (since it contains 4 as a factor).<br>3115 ÷ 4 leaves remainder 3.<br>So, 22! + 3115 leaves remainder 3 when divided by 4.<br><br>Match with the cycle: Remainder 3 corresponds to the third term in the cycle: 7 → 9 → 3.<br>The unit digit is 3."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Aptitude and Data Interpretation",
+
+    "question": "Three individuals A, B, and C enter into a partnership business. A invests an amount x for 12 months, B invests an amount y for 8 months, and C invests an amount z for 6 months. The values x, y, z are distinct positive integers such that x < y < z. At the end of the year, the total profit is divided among A, B, and C in the ratio 2 : 2 : 3, respectively. Consider the following statements:<br><br>I. The highest investment z is exactly twice the lowest investment x.<br>II. The sum of the value of (x + y + z) is a multiple of 10.<br><br>Which of the above statements is/are incorrect?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Using the profit-sharing rule:<br>Profit is proportional to (Investment × Time). So,<br>A’s share ∝ 12x<br>B’s share ∝ 8y<br>C’s share ∝ 6z<br><br>Given profit ratio: 12x : 8y : 6z = 2 : 2 : 3<br>Simplifying the ratio by dividing the left side by 2:<br>6x : 4y : 3z = 2 : 2 : 3<br><br>This gives:<br>6x = 2k → x = k / 3<br>4y = 2k → y = k / 2<br>3z = 3k → z = k<br>for some positive constant k.<br><br>To make x, y, z integers, k must be a multiple of 6.<br>Let k = 6. Then:<br>x = 2<br>y = 3<br>z = 6<br>These satisfy x < y < z and all are distinct.<br><br>Checking each statement:<br><b>Statement I:</b> z = 6 and x = 2 → z = 3x, not 2x. This statement is incorrect.<br><b>Statement II:</b> x + y + z = 2 + 3 + 6 = 11. 11 is not a multiple of 10. This statement is incorrect.<br><br>Both the given statements are incorrect. Note: the source document only contained up to question 40, so questions 41-50 could not be generated."
+
+  }
+
+]
