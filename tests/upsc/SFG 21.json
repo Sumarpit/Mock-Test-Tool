@@ -1,0 +1,1303 @@
+[
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "According to the Environmental Protection Agency (EPA), which one of the following is the largest source of Sulphur dioxide emissions?",
+
+    "options": [
+
+      "Locomotives using fossil fuels",
+
+      "Ships using fossil fuels",
+
+      "Extraction of metals from ores",
+
+      "Power plants using fossil fuels"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Environmental Protection Agency (EPA)’s national ambient air quality standards for SO2 are designed to protect against exposure to the entire group of sulfur oxides (SOx). The largest sources of SO2 emissions are from fossil fuel combustion at power plants and other industrial facilities."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Macroeconomics",
+
+    "question": "‘This law refers to the dictum that “bad money drives out good.” In economics it comes into play when the exchange rate between two moneys or currencies is fixed by the government at a certain ratio that is different from the market exchange rate. Such price fixing causes the undervalued currency to go out of circulation. The overvalued currency, on the other hand, remains in circulation but it does not find enough buyers.’<br><br>Which of the below mentioned laws is being discussed in the above paragraph?",
+
+    "options": [
+
+      "Says Law of Markets",
+
+      "Gresham’s Law",
+
+      "Walras’s Law",
+
+      "Thier’s Law"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Gresham’s law refers to the phrase that “bad money drives out good.” It states that the legally overvalued currency will drive legally undervalued currency out of circulation.<br><br>Gresham’s law comes into play when the exchange rate between two moneys or currencies is fixed by the government at a certain ratio that is different from the market exchange rate. Such price fixing causes the undervalued currency — that is, the currency whose price is fixed at a level below the market rate — to go out of circulation. The overvalued currency, on the other hand, remains in circulation but it does not find enough buyers."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "In the context of Indian economy, consider the following statements with reference to the Positive Pay System (PPS):<br><br><b>I.</b> It is a system under which Micro, Small and Medium enterprises will be given advanced payments for Government purchases.<br><b>II.</b> It has been developed by the National Payments Corporation of India (NPCI).<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I is incorrect:</b> The Positive Pay System (PPS) is a security measure introduced by the Reserve Bank of India (RBI) to reduce fraud in cheque transactions. It requires the issuer of the cheque to share key details, such as cheque number, date, amount, and beneficiary name, with the bank before the cheque is presented for clearing. The details are cross-checked by banks while issuing the cheque and any discrepancy is flagged. It is not related to advance payments to MSMEs for government purchases.<br><br><b>Statement II is correct:</b> The Positive Pay System (PPS) was introduced by the Reserve Bank of India and was developed by the National Payments Corporation of India (NPCI). It is an additional indicator provided by NPCI to all banks to facilitate the clearing process and pre-empt cheque-related frauds. This system adds an extra layer of scrutiny to high-value transactions and protects both the bank and the customer from significant financial losses."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "With reference to the waste treatment techniques, consider the following statements:<br><br><b>Statement I:</b> Pyrolysis is considered environmentally more friendly than incineration.<br><b>Statement II:</b> Unlike incineration, Pyrolysis involves the thermal decomposition of waste in the absence of oxygen.<br><b>Statement III:</b> Pyrolysis is usually carried out at a higher temperature than incineration.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+
+      "Both Statement II and Statement III are correct, but only one of them explains Statement I.",
+
+      "Only one of the Statements II and III is correct and that explains Statement I",
+
+      "Neither Statement II nor Statement III is correct"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Waste-to-Energy (WtE) technologies consist of any waste treatment process that creates energy from several types of waste. For example: Torrefaction, Pyrolysis, Incineration, Gasification etc.<br><br><b>Statement I is correct:</b> Pyrolysis is considered more environmentally friendly than incineration.<br><br><b>Statement II is correct and explains Statement I:</b> Incineration is a process where waste materials undergo a combustion process at high temperatures (typically above 850°C) in the presence of excess oxygen. The combustion process in incineration generates air pollutants like nitrogen oxides, carbon monoxide, and particulate matter.<br><br>Pyrolysis is the thermal decomposition of wastes, such as plastic, at elevated temperatures in the absence of oxygen. During pyrolysis, waste is heated rapidly at high temperatures (500°C–800°C) in an oxygen-free environment. Because no oxygen is present, combustion does not occur, rather the biomass thermally decomposes into combustible gases and bio-char. By avoiding combustion, pyrolysis generates significantly lower emissions of greenhouse gasses and harmful particulates.<br><br><b>Statement III is incorrect:</b> Pyrolysis usually takes place at a lower temperature than incineration. Incineration involves combustion at high temperatures typically above 850°C. During pyrolysis, waste is heated rapidly at temperatures about 500°C–800°C."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Supply",
+
+    "question": "As per Economic Survey 2024-25, the money multiplier declined during the COVID-19 pandemic. Which of the following is the primary reason for this?",
+
+    "options": [
+
+      "Increased economic uncertainty encouraged individuals to hold more physical cash.",
+
+      "The Reserve Bank of India (RBI) decreased the Cash Reserve Ratio (CRR) to be maintained by banks.",
+
+      "Increase in defaults on personal and business loans led to reduced bank credit.",
+
+      "Sharp increase in government borrowings led to the crowding out of the private sector."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The money multiplier measures the maximum amount of money that a banking system generates with each unit of central bank money.<br><br><b>Option (a) is correct:</b> A country’s money multiplier is influenced by two main factors: the amount of cash individuals (and businesses) hold and the reserves that banks maintain. When individuals keep more cash, the banking system cannot create money, resulting in a lower multiplier. In this case, cash in hand acts as a leakage from the banking system. Similarly, the reserves that banks hold with the central bank also count as a leakage, further decreasing the money multiplier. The money multiplier declined during the COVID-19 pandemic as increased economic uncertainty caused individuals to increase their cash holdings, resulting in a fall.<br><br><b>Option (b) is incorrect:</b> In India’s case, banks hold a portion of their deposits as reserves with the RBI, known as Cash Reserve Ratio (CRR). Lower required reserves means banks have more money to lend, expanding their ability to provide new loans and take further credit expansion. This would result in a higher money multiplier in the economy.<br><br><b>Option (c) is incorrect:</b> In India, money multiplier did decline during the COVID-19 pandemic but it was not because of the increase in loan defaults. RBI introduced moratoriums and restructuring schemes during COVID 19 pandemic that temporarily prevented massive defaults from being recorded.<br><br><b>Option (d) is incorrect:</b> The money multiplier depends on factors such as the currency–deposit ratio and reserve ratios, not on whether credit flows to the government or the private sector. During COVID-19, the decline in the multiplier was observed even when liquidity was sufficient and interest rates were low."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "In the context of Reserve bank of India (RBI), consider the following:<br><br><b>I.</b> Loans extended in the form of Ways and Means Advances and Overdraft to the Central Government.<br><b>II.</b> Contingency Fund (CF) and Asset Development Fund (ADF)<br><b>III.</b> Purchasing and discounting of commercial bills<br><b>IV.</b> Deposits of Scheduled commercial banks with RBI<br><br>How many of the above are considered as assets of the Reserve Bank of India (RBI)?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option I is correct:</b> Loans and advances to Central and State governments are counted under the assets of RBI. These loans are extended in the form of Ways and Means Advances (WMA) and Overdraft (OD) to the Central Government and in the form of WMA, OD and Special Drawing Facility (SDF) to State Governments.<br><br><b>Option II is incorrect:</b> There are certain risk provisions maintained by the Reserve Bank comprising Contingency Fund (CF) and Asset Development Fund (ADF). These are counted under liabilities and not assets.<br><br><b>Option III is correct:</b> Reserve Bank of India can undertake purchase and discounting of commercial bills under the RBI Act, 1934. These are considered as assets of RBI.<br><br><b>Option IV is incorrect:</b> Banks maintain balance in their current accounts with the Reserve Bank to provide for the Cash Reserve Ratio (CRR) requirements and for working funds to meet payment and settlement obligations. This is counted under liabilities of the Reserve bank of India and not as assets."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Monetary Policy",
+
+    "question": "Which among the following can be counted as an asset under Statutory Liquidity Ratio which is to be maintained by the Scheduled commercial banks in India?<br><br><b>I.</b> Gold<br><b>II.</b> Unencumbered investment in the Treasury Bills of the Government of India<br><b>III.</b> Government securities offered as collateral to the Reserve Bank for availing liquidity assistance under Marginal Standing Facility.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I, II and III",
+
+      "I and III only",
+
+      "II only",
+
+      "I and II only"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Statutory Liquidity Ratio or SLR is a minimum percentage of deposits that a commercial bank has to maintain in the form of liquid cash, gold or other securities. It is basically the reserve requirement that banks are expected to keep before offering credit to customers.<br><br><b>Options I and II are correct:</b> Following are considered as SLR assets:<br>1. Cash<br>2. Gold.<br>3. Unencumbered investment in Treasury bills of the Government of India.<br>4. Unencumbered investment in Dated securities issued under market borrowing programme and market stabilisation schemes (MSS).<br>5. Unencumbered investment in State Development Loans (SDLs) of the State Governments issued from time to time under the market borrowing program.<br>6. Unencumbered investment in any other instrument as may be notified by the Reserve Bank of India.<br><br><b>Option III is incorrect:</b> Unencumbered deposits means that it is free from collateral. Therefore, securities offered as collateral to the Reserve Bank for availing liquidity assistance under Marginal Standing Facility (MSF) up to the permissible percentage of the total NDTL in India, carved out of the required SLR portfolio of the bank concerned, do not qualify."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "Consider the following:<br>There is a bye-election to be conducted in an assembly constituency in the state capital of state X. The Model code of conduct would generally be enforced:",
+
+    "options": [
+
+      "in the whole of the state.",
+
+      "in the district where the assembly constituency is located.",
+
+      "in the particular assembly constituency only and not the whole district.",
+
+      "in the district where the assembly constituency is located as well as all the adjoining districts."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>As per the Election Commission of India, in case the constituency going to bye election is in the state capital/metropolitan city/municipal corporation, Model Code of Conduct would be applicable in the particular assembly constituency only and not the whole district. In all other cases, the Model code would be enforced in the entire district covering the constituency going for bye-election."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following pollutants:<br><br><b>I.</b> Carbon Dioxide<br><b>II.</b> Dichloro-diphenyl-trichloroethane (DDT)<br><b>III.</b> Nitrogen Oxide<br><b>IV.</b> Herbicides<br><br>How many of the above are primarily classified as quantitative pollutants?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Pollutants are the constituents or factors, which harm the natural quality of any component of the environment.<br><br>According to their existence in nature, the pollutants may be classified into quantitative and qualitative pollutants.<br><br><b>Options I and III are correct:</b> Pollutants that occur in nature and become pollutants only when their concentration reaches beyond a certain level are called Quantitative pollutants. e.g., carbon dioxide, and nitrogen oxide.<br><br><b>Options II and IV are incorrect:</b> Qualitative pollutants do not occur in nature and are man-made. Qualitative Pollutants are substances which are not normally present in the environment and are added by human beings. Ex: fungicides, herbicides, DDT etc."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Money Supply",
+
+    "question": "Consider the following statements:<br><br><b>Statement I:</b> In India, any currency note is categorised as a promissory note.<br><b>Statement II:</b> As per the Reserve Bank of India Act, 1934, the Reserve Bank of India is liable to pay the value of banknote.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
+      "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+
+      "Statement I is correct but Statement II is not correct",
+
+      "Statement I is not correct but Statement II is correct"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I is incorrect:</b> In India, Rupee 1 note is a currency note and notes exceeding denominational value of Rupee 2 are bank notes. Bank notes are promissory notes while the Rupee 1 note is a sovereign note which provides the legal sanctity to the higher denomination bank notes. The Re 1 note is issued by the Government of India and not the Reserve Bank, and is the only 'currency note' or an asset, and not a 'promissory note', which is a liability. Again, unlike other banknotes, this is not signed by the RBI governor, but by the finance secretary. Thus, currency notes, apart from Rupee 1 note, are categorised as promissory notes.<br><br><b>Statement II is correct:</b> As per Section 26 of Reserve Bank of India Act, 1934, the Reserve Bank of India is liable to pay the value of banknote. This is payable on demand by RBI, being the issuer. The promissory clause printed on the banknotes i.e., \"I promise to pay the bearer the sum of Rupees …” denotes the obligation on the part of the Reserve Bank of India towards the holder of the bank note."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Elections",
+
+    "question": "For election to the Lok Sabha, a nomination paper can be filed by:",
+
+    "options": [
+
+      "anyone residing in India.",
+
+      "a resident of the constituency from which the election is to be contested.",
+
+      "any citizen of India whose name appears in the electoral roll of a constituency.",
+
+      "any citizen of India."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>According to section 4 (d) of the Representation of People Act, 1951, for election to Lok Sabha, a nomination paper can be filed by any citizen whose name appears in the electoral rolls of any parliamentary constituency.<br><br>The Constitution lays down the following qualifications for a person to be chosen a member of the Parliament:<br>1) He must be a citizen of India.<br>2) He must make and subscribe to an oath or affirmation before the person authorised by the election commission for this purpose.<br>3) He must be not less than 30 years of age in the case of the Rajya Sabha and not less than 25 years of age in the case of the Lok Sabha.<br>4) He must possess other qualifications prescribed by Parliament.<br><br>The Parliament has laid down the following additional qualifications in the Representation of People Act (1951):<br>1) He must be registered as an elector for a parliamentary constituency. This is same in the case of both, the Rajya Sabha and the Lok Sabha.<br>2) He must be a member of a scheduled caste or scheduled tribe in any state or union territory, if he wants to contest a seat reserved for them. However, a member of scheduled castes or scheduled tribes can also contest a seat not reserved for them."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Capital Market",
+
+    "question": "With reference to investment instruments, consider the following:<br><br><b>I.</b> Participatory Notes<br><b>II.</b> American Depository Receipts<br><b>III.</b> Global Depository Receipts<br><b>IV.</b> Indian Depository Receipts<br><br>How many of the above enable foreign investors to invest in Indian securities or the Indian market?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option I is correct:</b> Participatory Notes (P-Notes) are offshore derivative instruments issued by SEBI-registered Foreign Portfolio Investors to overseas investors who wish to invest in India but do not want to register directly with SEBI. They derive their value from Indian securities such as equities, debt instruments, or derivatives. Through P-Notes, foreign investors obtain economic exposure to the Indian securities market without being directly registered with Indian regulators.<br><br><b>Option II is correct:</b> American Depository Receipts (ADRs) are negotiable certificates issued by a US depository bank, representing a specified number of shares of a foreign company, including Indian companies. For Indian companies, ADRs represent underlying shares listed or issued in India. They are traded on US stock exchanges such as NYSE or NASDAQ. Therefore, foreign investors investing through ADRs are effectively investing in Indian securities.<br><br><b>Option III is correct:</b> Global Depository Receipts (GDRs) are similar to ADRs but are issued in international markets other than the US, such as Europe or Asia. GDRs represent ownership in Indian companies and are linked to the underlying shares issued in India. Thus, they allow foreign investors to invest in Indian securities via overseas financial markets.<br><br><b>Option IV is incorrect:</b> Indian Depository Receipts (IDRs) are the reverse of ADRs/GDRs. IDRs are issued in India by foreign companies to raise capital from Indian investors. They are listed on Indian stock exchanges and are designed to facilitate investment by Indian residents in foreign firms. Hence, IDRs do not enable foreign investors to invest in Indian securities or the Indian market."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Capital Market",
+
+    "question": "The Investor Education and Protection Fund Authority (IEPFA) functions under which one of the following Ministries of the Government of India?",
+
+    "options": [
+
+      "Ministry of Finance",
+
+      "Ministry of Corporate Affairs",
+
+      "Ministry of Commerce and Industry",
+
+      "Ministry of Consumer Affairs, Food and Public Distribution"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The Investor Education and Protection Fund Authority (IPEFA) is a statutory body constituted in 2016 under the Companies Act, 2013 to administer the Investor Education and Protection Fund (IEPF). It functions under the Ministry of Corporate Affairs and is dedicated to safeguarding investor interests by facilitating the return of unclaimed shares and dividends and advancing financial literacy nationwide."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Capital Market",
+
+    "question": "Arrange the following institutions in chronological order as per the year of their establishment:<br><br><b>I.</b> Employees' State Insurance Corporation<br><b>II.</b> Life Insurance Corporation of India<br><b>III.</b> General Insurance Corporation of India<br><b>IV.</b> Export Credit Guarantee Corporation of India Limited (ECGC Limited)<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "III – II – I– IV",
+
+      "IV – II – I – III",
+
+      "II – I – III – IV",
+
+      "I – II – IV – III"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Option I. Employees' State Insurance Corporation (ESIC) (1952):</b> The Employees’ State Insurance Corporation was established under the Employees’ State Insurance Act, 1948, and became operational in 1952.<br><br><b>Option II. Life Insurance Corporation of India (LIC) (1956):</b> The Life Insurance Corporation of India was established in 1956 through the LIC Act, 1956.<br><br><b>Option IV. Export Credit Guarantee Corporation of India (ECGC Limited) (1957):</b> The Export Credit Guarantee Corporation of India was established in 1957, initially as the Export Risks Insurance Corporation (ERIC).<br><br><b>Option III: General Insurance Corporation of India (GIC) (1972):</b> The General Insurance Corporation of India was created in 1972 under the General Insurance Business (Nationalisation) Act, 1972.<br><br>Therefore, the Correct Chronological Order (earliest to latest) of their establishment is:<br>ESIC (1952) → LIC (1956) → ECGC (1957) → GIC (1972).<br>Hence, Option (d) I – II – IV – III is the correct answer."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Insurance",
+
+    "question": "With reference to the financial services sector, which of the following best describes ‘Bancassurance’?",
+
+    "options": [
+
+      "An agreement between the bank and insurance companies under which banks sell insurance products of insurance companies to their customers.",
+
+      "An agreement between the banks and insurance companies under which the insurance policy’s premium is based on the prevailing bank rates.",
+
+      "A risk-sharing mechanism through which banks provide capital support to insurance companies during financial stress.",
+
+      "A financial protection mechanism designed to insure banks against credit defaults and non-performing assets."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Bancassurance is an agreement between a bank and an insurer to sell its offerings to the lender’s customers. The banks sell and distribute insurance products of insurance companies to their existing and potential customers through their branch network, digital platforms, or relationship managers. The bancassurance model was introduced in 2000 after the government permitted banks to undertake insurance as a permissible form of business under Section 6 of the Banking Regulation Act, 1949.<br><br>Under this arrangement:<br>1. Banks act as intermediaries or corporate agents, leveraging their wide customer base, branch reach, and customer trust.<br>2. Insurance companies design, underwrite, and bear the insurance risk; the bank does not assume insurance risk.<br>3. Banks earn fee-based income or commissions, thereby diversifying their revenue beyond traditional interest income."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "International Organisation",
+
+    "question": "With reference to the Asian Development Bank (ADB), which of the following statements are correct?<br><br><b>I.</b> The headquarters of the bank is located in Jakarta, Indonesia.<br><b>II.</b> The membership of the ADB is open only to countries located in Asia and the Pacific region.<br><b>III.</b> The number of proportional votes of each member of the bank is equal to the number of shares of the capital stock of ADB held by that member.<br><b>IV.</b> Japan and the United States are the two largest shareholders of ADB.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and II only",
+
+      "III and IV only",
+
+      "I, II and III",
+
+      "I, III and IV"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I is incorrect:</b> The Asian Development Bank (ADB) was established in 1966 with the aim of promoting social and economic development in Asia and the Pacific. Its headquarters are in Manila, Philippines. Jakarta, Indonesia, is the headquarters of the Association of Southeast Asian Nations (ASEAN), not of the ADB.<br><br><b>Statement II is incorrect:</b> ADB has 69 member countries, of which 50 are from Asia and the Pacific, and 19 are non-regional members (such as the United States, Canada, and several European countries). Hence, membership is not restricted only to Asia-Pacific nations.<br><br><b>Statement III is correct:</b> The total voting power of each member of the bank consists of the sum of its basic votes and proportional votes. The number of proportional votes of each member is equal to the number of shares of the capital stock of ADB held by that member.<br><br><b>Statement IV is correct:</b> Japan and the United States each hold about 15.6% of total shares, making them the largest shareholders. They are followed by China (6.4%), India (6.3%) and Australia (5.8%)."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Miscellaneous",
+
+    "question": "Which of the following statements is incorrect about the PM CARES Fund?",
+
+    "options": [
+
+      "Prime Minister of India is the ex-officio chairperson of the fund.",
+
+      "The contribution made by any Company to PM CARES Fund shall qualify as the company’s Corporate Social Responsibility (CSR) expenditure.",
+
+      "The PM CARES Fund accepts contributions from foreign individuals as well as foreign organisations.",
+
+      "PM CARES Fund is audited by the Comptroller and Auditor General (CAG) of India at the end of the financial year."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>PM CARES Fund is a public charitable trust. It has been set up keeping in mind the need for having a dedicated fund with the primary objective of dealing with any kind of emergency or distress situation, like posed by the COVID-19 pandemic, and to provide relief to the affected.<br><br><b>Option (a) is correct:</b> The Prime Minister of India acts as the ex-officio Chairperson of the PM CARES Fund, while the Union Ministers of Defense, Home Affairs, and Finance function as its ex-officio Trustees.<br><br><b>Option (b) is correct:</b> The PM CARES Fund accepts voluntary contributions from individuals and organisations. The contributions made by companies, including Public Sector Undertakings (PSUs), are eligible to be treated as Corporate Social Responsibility (CSR) expenditure under the Companies Act, 2013.<br><br><b>Option (c) is correct:</b> The PM CARES Fund has been granted exemption from the provisions of the Foreign Contribution (Regulation) Act, 2010 enabling it to accept foreign donations from individuals and organisations based abroad.<br><br><b>Option (d) is incorrect:</b> The PM CARES Fund is audited by an independent auditor, not by the Comptroller and Auditor General (CAG)."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Taxation",
+
+    "question": "In the context of the Indian economy, which of the following best describes the term ‘tax expenditure’?",
+
+    "options": [
+
+      "The expenditure incurred by income tax authorities in collecting taxes from individuals.",
+
+      "The loss of government revenue due to tax evasion by certain individuals.",
+
+      "The portion of tax revenue utilised by the government for social sector expenditure.",
+
+      "The revenue foregone by the government due to tax exemptions and deductions."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>In the Indian economy, tax expenditure/tax preference refers to the revenue foregone by the government due to tax preferences such as special tax rates, exemptions, deductions, rebates, deferrals, and tax credits. These measures reduce the tax liability of specific sectors or groups and influence the level and distribution of taxation."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Taxation",
+
+    "question": "With reference to the Goods and Services Tax (GST) in India, a private individual sells his personal used car to another individual within the same State at a value lower than its original purchase price. In this scenario, which of the following is correct?",
+
+    "options": [
+
+      "Only Central GST (CGST) is levied",
+
+      "Only State GST (SGST) is levied",
+
+      "Both CGST and SGST are levied",
+
+      "GST is not levied on the transaction"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Under GST law, tax is generally levied on the transaction value of goods. However, for second-hand goods, a dealer or taxable person may opt to pay GST on the margin, which is the difference between the selling price and the purchase price. If there is no margin, no GST is charged for such supply. The purpose of the scheme is to avoid double taxation as the goods, having once borne the incidence of tax, re-enter the supply and the economic supply chain.<br><br>In case of the sale of used cars, GST is applicable only when the seller is a GST-registered person (e.g., a dealer or business) and is making the sale in the course of business. GST is charged on the margin (profit) earned by such dealers at the applicable rate and recently changed to 18% on the margin for most used vehicles.<br><br>In the above scenario the individual is selling the car below its original purchase value, so in this case no GST will be levied on the transaction."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "With reference to the Black Carbon, consider the following statements:<br><br><b>I.</b> It is a dark sooty material produced from incomplete combustion of biomass and fossil fuels.<br><b>II.</b> The global warming impact of Black Carbon is lower than carbon dioxide.<br><b>III.</b> Black Carbon is classified as a short-lived climate pollutant.<br><b>IV.</b> The industrial sector is the largest emitter contributing to more than 75% of Black Carbon emission in India.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and III only",
+
+      "I and IV only",
+
+      "II and III only",
+
+      "II and IV only"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> Black carbon is the dark, sooty material emitted alongside other pollutants when biomass and fossil fuels are not fully combusted. Black Carbon, commonly known as soot, is a solid particle or aerosol produced from incomplete combustion of fossil fuels.<br><br><b>Statement II is incorrect:</b> Black carbon has a warming impact up to 1,500 times stronger than CO2 per unit of mass. Black Carbon is the strongest absorber of sunlight and heats the air directly. Black Carbon warms the earth by absorbing heat in the atmosphere and reducing albedo when deposited on snow. This in turn accelerates the melting of glaciers. Further, it also disrupts precipitation patterns.<br><br><b>Statement III is correct:</b> Short-lived climate pollutants are powerful climate forces that remain in the atmosphere for a much shorter period of time than carbon dioxide, yet their potential to warm the atmosphere can be many times greater. The short-lived climate pollutants black carbon, methane, tropospheric ozone, and hydrofluorocarbons (HFCs) are the most important contributors to anthropogenic global warming after carbon dioxide, responsible for up to 45% of current global warming.<br><br><b>Statement IV is incorrect:</b> Most black carbon emissions in India arise from burning biomass, such as cow dung or straw, in traditional cookstoves. According to a 2016 study, the residential sector contributes 47% of India’s total black carbon emissions. Industries contribute a further 22%, diesel vehicles 17%, open burning 12%, and other sources 2%."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Capital Market",
+
+    "question": "Consider the following statements:<br><br><b>I.</b> The Reserve Bank of India mandates all the listed companies in India to submit a Business Responsibility and Sustainability Report (BRSR).<br><b>II.</b> In India, a company submitting a BRSR makes disclosures in the report that are largely non-financial in nature.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The Business Responsibility and Sustainability Report (BRSR) is an Indian reporting framework aimed at improving the disclosure of environmental, social, and governance (ESG) performance by listed companies. It traces its origins to the ‘Voluntary Guidelines on Corporate Social Responsibility’ introduced by the Ministry of Corporate Affairs in 2009.<br><br><b>Statement I is incorrect:</b> As per SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (LODR Regulations), the Securities and Exchange Board of India (SEBI) (not RBI) requires the top 1,000 listed companies in India to submit a Business Responsibility and Sustainability Report (BRSR). This report includes disclosures on how these companies perform in relation to the nine principles outlined in the National Guidelines on Responsible Business Conduct.<br><br><b>Statement II is correct:</b> The BRSR is a non-financial reporting framework that requires companies to disclose their performance on environmental, social, and governance (ESG) parameters based on nine principles of the National Guidelines on Responsible Business Conduct (NGRBC)."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "External Sector",
+
+    "question": "Consider the following countries:<br><br><b>I.</b> United States of America<br><b>II.</b> United Arab Emirates<br><b>III.</b> Netherlands<br><b>IV.</b> China<br><br>What is the correct descending order of the given countries based on the respective value of Indian exports to these countries in FY 2024–25?",
+
+    "options": [
+
+      "I – II – IV – III",
+
+      "I – III – II – IV",
+
+      "II – I – IV – III",
+
+      "I – II – III – IV"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>India’s export performance in FY 2024–25 reflects both market size and strategic trade linkages. While the total value of India’s exports during the year stood at USD 433,562.24 million, a small group of countries accounted for a significant share of this total.<br><br><b>Option I:</b> The United States of America emerged as India’s largest export destination in FY 2024–25. Indian exports to the US stood at USD 86,514.28 million, making it the biggest market among all trading partners. Strong demand for Indian pharmaceuticals, engineering goods, textiles, and services explains why the US continues to occupy the top position.<br><br><b>Option II:</b> The United Arab Emirates ranked second, with Indian exports valued at USD 36,638.02 million. The UAE is important not only because of its own consumption but also because it acts as a major re-export hub for West Asia and Africa, which boosts India’s export figures.<br><br><b>Option III:</b> The Netherlands stood at the third position, importing Indian goods worth USD 22,763.41 million. It serves as a key entry point to the European market, mainly through ports such as Rotterdam. However, its share remains much lower than that of the UAE.<br><br><b>Option IV:</b> China ranked fourth among the given countries, with Indian exports amounting to USD 14,252.21 million. Even though overall India–China trade is large, India’s exports to China are relatively limited. This is mainly due to structural trade imbalances between the two economies.<br><br>Therefore, the correct descending order based on FY 2024–25 data is: I. USA II. UAE III. Netherlands IV. China (I – II – III – IV)."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "External Sector",
+
+    "question": "With reference to India’s Foreign Trade Policy, what is the primary objective of the Advance Authorisation Scheme?",
+
+    "options": [
+
+      "To promote exports by allowing duty-free import of inputs which are physically incorporated in an export product.",
+
+      "To encourage foreign direct investment in export-oriented units.",
+
+      "To subsidise finished exports through direct cash incentives.",
+
+      "To restrict imports in order to protect domestic industries."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The Advance Authorisation (AA) Scheme is a long-standing export facilitation measure under India’s Foreign Trade Policy. Its core objective is to make Indian exports more competitive in global markets.<br><br>Under this scheme, exporters are permitted to import inputs such as raw materials, components or chemicals without paying Customs duty, provided these inputs are used in the manufacture of goods meant for export. By removing the burden of import duties on inputs, the scheme directly reduces production costs, which is crucial for price competitiveness."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Balance of Payment",
+
+    "question": "If a person from the USA buys a ticket to watch a cricket match in India, under which category will this transaction be recorded in India’s Balance of Payments?",
+
+    "options": [
+
+      "Service export",
+
+      "Service import",
+
+      "Remittances",
+
+      "Merchandise export"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The Balance of Payments records all economic transactions between residents of a country and the rest of the world. One important component of this is trade in services.<br><br>When a person from the USA travels to India and purchases a cricket match ticket, India is providing a service, in this case, entertainment to a foreign resident. The payment is made by a non-resident, and the service is supplied by entities located in India. Hence, from India’s perspective, this transaction is treated as a <b>service export</b>.<br><br>In simple terms, whenever foreign nationals spend money in India on tourism, sports, hospitality or entertainment, it counts as export of services and adds to India’s foreign exchange earnings."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Social Sector",
+
+    "question": "In the context of India, consider the following:<br><br><b>I.</b> Indira Gandhi National Old Age Pension Scheme<br><b>II.</b> National Maternity Benefit Scheme<br><b>III.</b> Annapurna Scheme<br><b>IV.</b> National Family Benefit Scheme<br><br>Presently, the National Social Assistance Programme (NSAP) comprises how many of the above schemes?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The National Social Assistance Programme (NSAP) is a centrally sponsored social security programme launched in 1995 to provide minimum national assistance to economically vulnerable individuals. It targets elderly persons, widows, persons with disabilities, and families facing distress due to the death of the primary breadwinner, primarily from Below Poverty Line (BPL) households.<br><br>Presently National Social Assistance Programme comprises five schemes, namely - (1) Indira Gandhi National Old Age Pension Scheme (IGNOAPS), (2) Indira Gandhi National Widow Pension Scheme (IGNWPS), (3) Indira Gandhi National Disability Pension Scheme (IGNDPS), (4) National Family Benefit Scheme (NFBS) and (5) Annapurna. Thus, <b>Options I, III and IV are correct.</b><br><br><b>Option II is incorrect:</b> The National Social Assistance Programme at its inception in 1995 had three components namely (1) National Old Age Pension Scheme (NOAPS), (2) National Family Benefit Scheme (NFBS) and (3) National Maternity Benefit Scheme (NMBS). The National Maternity Benefit Scheme (NMBS) was subsequently transferred on 1st April, 2001 from the Ministry of Rural development to the Ministry of Health and Family Welfare."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "External Sector",
+
+    "question": "Consider the following statements:<br>Other things remaining unchanged, the depreciation of Indian Rupee is likely to occur if:<br><br><b>I.</b> there is a significant rise in the general level of prices of goods in India.<br><b>II.</b> the United States Federal Reserve increases the policy interest rates.<br><b>III.</b> the Foreign Institutional Investors bring more capital into India.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> If there is a significant rise in the general level of prices of goods in India, then the Indian goods would be more expensive. Thus, it would pose a negative impact on exports. High inflation thus tends to reduce exports, and thus puts a depreciating effect on Indian currency.<br><br><b>Statement II is correct:</b> When the United States Federal Reserve increases the policy interest rates, it increases interest rates throughout the US economy. The higher yields will attract investment capital from investors seeking higher returns on bonds and interest-rate products. This results in the outflow of funds from India to the USA. This will increase the demand for the US dollar and thus will lead to strengthening of the US dollar thus depreciating Indian Rupee.<br><br><b>Statement III is incorrect:</b> If the Foreign Institutional Investors bring more capital into India, it will increase the demand for Indian rupee. This will lead to appreciation of the Indian rupee."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "External Sector",
+
+    "question": "In the context of Indian economy, the Bank Realisation Certificate/Electronic Bank Realisation Certificate sometimes appears in the media, in the context of:",
+
+    "options": [
+
+      "trade facilitation for exporters.",
+
+      "completion of any personal Loan of an individual.",
+
+      "bank’s capital adequacy ratio achieved under Basel III norms.",
+
+      "bank’s liquidation process."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>To improve trade facilitation for exporters, the Directorate General of Foreign Trade, Ministry of Commerce and Industry, Government of India has implemented an electronic Bank Realisation Certificate/Bank Realisation Certificate system.<br><br>Bank Realisation Certificate is a digital certificate issued by banks to exporters, confirming that payment for an export transaction has been received in foreign currency. It is a critical document for exporters, serving as proof of payment receipt for exported goods and services. It confirms that an exporter has received payment from the buyer against the export of goods or services."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "External Sector",
+
+    "question": "A sharp appreciation of the US dollar usually results in the contraction of the global credit market. Which of the following is the primary reason for this?",
+
+    "options": [
+
+      "A strong dollar will lead to a fall in market interest rates in most of the countries.",
+
+      "Developing countries generally borrow external funds in local currency rather than US dollars.",
+
+      "Appreciation of the US dollar makes it costlier for the countries to repay loans.",
+
+      "The United States of America is the largest international creditor country to the world."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option a is incorrect:</b> A strong US dollar usually leads to a rise in interest rates in developing countries. It is because higher returns on US assets attract global capital, thus leading to capital outflows from these countries to the US. This capital outflow can cause a rise in interest rates in these countries.<br><br><b>Option b is incorrect:</b> A strong dollar can put a financial squeeze across the world. Many companies and governments in emerging markets borrow money in U.S.-dollar terms, instead of in their own currencies. When they must repay their debts in U.S. dollars, while their own currencies buy fewer dollars by the day, it can create lots of stress.<br><br><b>Option c is correct:</b> A strong US dollar significantly impacts global credit markets by increasing the cost of servicing debt that is denominated in US dollars. Since a large share of external commercial borrowings, and sovereign debt in emerging and developing economies is denominated in dollars, any appreciation of the US currency raises the local-currency value of debt repayments. Moreover, as the dollar strengthens, global investors tend to reallocate capital towards dollar-denominated assets to get higher returns. This leads to a contraction in credit availability. Thus, a strong US dollar raises the cost of servicing existing foreign currency liabilities and restricts the availability of new credit.<br><br><b>Option d is incorrect:</b> Germany is the world’s leading creditor nation. Japan is the world’s second-leading creditor nation."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "External Sector",
+
+    "question": "According to the Economic Survey 2024-25, the Real Effective Exchange Rate (REER) of India had increased during 2023-24. What does this increase imply?",
+
+    "options": [
+
+      "Indian goods had become more competitive in the foreign markets.",
+
+      "India’s overall trade balance had improved.",
+
+      "Indian Rupee had depreciated in the international currency market.",
+
+      "Indian goods had become relatively more expensive in the international markets."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>The Real Effective Exchange Rate (REER) is the weighted average of nominal exchange rates adjusted for relative price differential between the domestic and foreign countries. Nominal Effective Exchange Rate (NEER) is the weighted average of a currency’s exchange rates with multiple trading partner currencies. Real Effective Exchange Rate adjusts NEER to account for inflation differences between the country and its trading partners.<br><br><b>Option d is correct:</b> According to the Economic Survey 2024-25, the Real Effective Exchange Rate (REER) of India increased from 103.2 in April 2024 to 107.2 in December 2024. The REER increased between December 2022 to December 2024. REER above 100 indicated overvaluation (hurts exports) while below 100 indicates undervaluation (helps exports). An increase in a nation's REER is an indication that its exports are becoming more expensive and its imports are becoming cheaper, reducing its trade competitiveness.<br><br><b>Option a is incorrect:</b> An increase in REER indicates that the country’s goods are becoming less competitive in the global market as exports become more expensive.<br><br><b>Option b is incorrect:</b> An increase in a nation’s REER indicates that its exports are becoming more expensive, which could lead to the worsening of a country's trade balance.<br><br><b>Option c is incorrect:</b> An increase in a nation’s REER is an indication that its currency has appreciated, not depreciated."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "International Organization",
+
+    "question": "With reference to the affairs of the World Trade Organization (WTO), consider the following statements regarding the clause of Most Favoured Nation (MFN):<br><br><b>I.</b> It prevents any country from discriminating between its trading partners on providing access to its markets under the WTO agreements.<br><b>II.</b> All the WTO members are mandatorily required to grant MFN status to all other members without any exception.<br><b>III.</b> The MFN principle applies to the trade of both goods and services under the WTO agreements.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and III only",
+
+      "I only",
+
+      "II and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> According to the World Trade Organisation rules, countries cannot normally discriminate between their trading partners. If one country is granted a trade concession such as lower import duties, then all WTO members must be given the same concessions. Under the WTO agreements, countries following the Most Favoured Nation status cannot discriminate among their trading partners. This principle is known as the Most Favoured Nation treatment.<br><br><b>Statement II is incorrect:</b> Under Article 1 of the General Agreement on Tariffs and Trade (GATT), 1994, every member country of the World Trade Organization (WTO) must accord Most Favoured Nation (MFN) status to all other member countries. However, some exceptions are allowed. For example, countries can set up a free trade agreement that applies only to goods traded within the group. Or they can give developing countries special access to their markets.<br><br><b>Statement III is correct:</b> While the MFN principle originated with merchandise trade, it equally applies to digital products and services under WTO agreements. MFN is in the first article of the General Agreement on Tariffs and Trade (GATT), which governs trade in goods. MFN is also a priority in the General Agreement on Trade in Services (GATS) (Article 2) and the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS) (Article 4)."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Budgetary Economics",
+
+    "question": "Suppose the revenue expenditure is ₹ 80,000 crores and the revenue receipts of the Government are ₹ 60,000 crores. The Government budget also shows borrowings of ₹ 10,000 crores and interest payments of ₹ 6,000 crores.<br><br>Which of the following statements are correct?<br><b>I.</b> Revenue deficit is ₹ 20,000 crores.<br><b>II.</b> Fiscal deficit is ₹ 10,000 crores.<br><b>III.</b> Primary deficit is ₹ 4,000 crores.<br><br>Select the correct answer using the code given below.",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Given Data:<br>Revenue Expenditure = ₹80,000 crores<br>Revenue Receipts = ₹60,000 crores<br>Borrowings (Fiscal Deficit) = ₹10,000 crores<br>Interest Payments = ₹6,000 crores<br><br><b>Statement I is correct:</b> Revenue Deficit = Revenue Expenditure – Revenue Receipts. So, Revenue Deficit = ₹80,000 – ₹60,000 = ₹20,000 crores.<br><br><b>Statement II is correct:</b> Fiscal Deficit = Total Expenditure – Total Receipts (excluding borrowings). In this question, total borrowings by the government are ₹10,000 crores, which means the gap between the government’s total expenditure and its non-borrowed receipts is being met by borrowing ₹10,000 crores. Fiscal Deficit is the total borrowing requirement of the government. Fiscal Deficit = Borrowings = ₹10,000 crores.<br><br><b>Statement III is correct:</b> Primary Deficit = Fiscal Deficit – Interest Payments. Primary Deficit = ₹10,000 – ₹6,000 = ₹4,000 crores.<br><br>Hence, All three statements are correct."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "External Sector",
+
+    "question": "Which one of the following countries is presently the largest exporter of textiles (in value terms) in the world?",
+
+    "options": [
+
+      "China",
+
+      "Vietnam",
+
+      "Bangladesh",
+
+      "India"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>China is the world's largest exporter of textiles. China leads the world in textile sales, bringing in more than $300 billion annually. China is followed by Bangladesh and Vietnam."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Patent",
+
+    "question": "With reference to the rules pertaining to ‘copyright’ protection in India, consider the following statements:<br><br><b>I.</b> It is an intellectual property right that is protected even if no registration or application is made by the concerned party.<br><b>II.</b> An unpublished literary work cannot be registered for the claim of copyright protection.<br><b>III.</b> Computer softwares and programmes can be registered as ‘literary works’ under the copyright laws.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "III only",
+
+      "I and III",
+
+      "I only",
+
+      "II and III"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Copyright is a right given by the law to creators of literary, dramatic, musical and artistic works and producers of cinematograph films and sound recordings. The Copyright Act of 1957 governs the law pertaining to copyright in India.<br><br><b>Statement I is correct:</b> Acquisition of copyright is automatic and it does not require any formality. Copyright comes into existence as soon as a work is created and no formality is required to be completed for acquiring copyright. However, certificate of registration of copyright and the entries made therein serve as prima facie evidence in a court of law.<br><br><b>Statement II is incorrect:</b> Both published and unpublished literary works can be registered. For unpublished work a copy of the manuscript is sent along with an application form for affixing the stamp of the copyright office as a matter of proof.<br><br><b>Statement III is correct:</b> Computer Software or programmes can be registered as a ‘literary work’. As per Section 2 (o) of the Copyright Act, 1957 “literary work” includes computer programmes, tables and compilations, including computer databases."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Planning",
+
+    "question": "The Gadgil Formula, that was introduced during the Fourth Five Year Plan in India, was primarily related with:",
+
+    "options": [
+
+      "promotion of foreign direct investments into India to promote economic growth.",
+
+      "reservation of certain manufacturing sectors for small and medium industries.",
+
+      "allocation of Central resources to States for plan expenditures.",
+
+      "distribution of subsidies to various social sectors."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The Gadgil Formula became operational during the fourth Five Year Plan. It is a formula for determining the Central Assistance to the State plans. The allocation of Central Assistance to the States was to be made on the basis of Gadgil Formula.<br><br>Various criteria adopted were - Population of states, Per capita Income, Fiscal performance, Special problems of states and miscellaneous. The formula was later revised in 1991 as the Gadgil-Mukherjee formula. Gadgil Formula was named after the then deputy chairman of the Planning Commission Dr. D R Gadgil and was adopted in 1969."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Planning",
+
+    "question": "“This Five Year Plan of India began during the prime ministership of Indira Gandhi. It primarily focused on the achievement of two main objectives of 'removal of poverty (Garibi Hatao)' and 'attainment of self reliance'. D.P. Dhar played an instrumental role in the preparation of this Plan.”<br><br>The above description refers to which of the following Five Year Plans?",
+
+    "options": [
+
+      "Fourth Five Year Plan",
+
+      "Fifth Five Year Plan",
+
+      "Sixth Five Year Plan",
+
+      "Seventh Five Year Plan"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option b is correct:</b> The Fifth Five Year Plan began during the Prime Ministership of Indira Gandhi. It proposed to achieve two main objectives: 'removal of poverty' (Garibi Hatao) and 'attainment of self-reliance'. It laid stress on increasing employment and poverty alleviation. The final Draft of the fifth plan was prepared and launched by D.P. Dhar. It was implemented between 1974-78. When the Janta Party came to power in 1978, the Plan was terminated.<br><br><b>Option a is incorrect:</b> The Fourth Plan was launched with the twin objectives of “growth with stability” and “progressive achievement of self reliance.“<br><br><b>Option c is incorrect:</b> The Sixth Five Year Plan focussed on increase in national income, modernization of technology, ensuring continuous decrease in poverty and unemployment.<br><br><b>Option d is incorrect:</b> The Seventh Five Year Plan aimed at accelerating food grain production, increasing employment opportunities & raising productivity."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Social Sector",
+
+    "question": "Consider the following statements regarding the Food Safety and Standards Authority of India (FSSAI):<br><br><b>I.</b> It is a statutory body.<br><b>II.</b> It functions under the administrative control of the Union Ministry of Consumer Affairs, Food and Public Distribution.<br><b>III.</b> It provides AGMARK certification for agricultural products in India.<br><b>IV.</b> It is responsible for regulation of Nutraceuticals/Prebiotics/Probiotics in India.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "I and IV only",
+
+      "II, III and IV only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I is correct and II is incorrect:</b> The FSSAI is an autonomous statutory body established under the Food Safety and Standards Act, 2006. The Ministry of Health & Family Welfare, Government of India is the Administrative Ministry for the implementation of FSSAI (not the Ministry of Consumer Affairs, Food and Public Distribution).<br><br><b>Statement III is incorrect:</b> FSSAI does not provide the AGMARK (Agricultural Mark) certification mark for agricultural products. AGMARK is a separate certification system managed by the Directorate of Marketing and Inspection (DMI) under the Ministry of Agriculture & Farmers’ Welfare.<br><br><b>Statement IV is correct:</b> Nutraceuticals in India are regulated by the Food Safety and Standards Authority of India (FSSAI). FSSAI governs Nutraceuticals under the Food Safety and Standards Regulations, 2016. Both probiotics and prebiotics are classified as Nutraceuticals due to their role in enhancing digestive health and immunity."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Unemployment",
+
+    "question": "During an economic recession, a major automobile manufacturer in India experiences a sharp decline in vehicle sales due to reduced consumer demand for automobiles. As a result, the company scales down production and lays off about 2,000 workers, even though the workers possess the required skills and are willing to work at prevailing wage rates. Which one of the following types of unemployment is best described in the above situation?",
+
+    "options": [
+
+      "Structural unemployment",
+
+      "Frictional unemployment",
+
+      "Disguised unemployment",
+
+      "Cyclical unemployment"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Option d is correct:</b> The unemployment described in the question is a classic example of cyclical unemployment, which is directly linked to the cyclical fluctuations of an economy.<br><br>Cyclical unemployment refers to unemployment that arises due to periodic fluctuations in economic activity, especially during recessions or economic slowdowns, when aggregate demand in the economy declines.<br><br>In the given situation, the automobile manufacturer lays off workers because of a decline in vehicle sales caused by reduced consumer demand during an economic recession.<br><br>The workers are skilled, willing to work, and ready to accept the prevailing wage, yet they lose their jobs due to insufficient demand in the economy. This clearly indicates cyclical unemployment.<br><br><b>Option a is incorrect:</b> Structural unemployment occurs when workers lose jobs due to a mismatch between their skills and the requirements of available jobs, often caused by technological change, automation, or long-term shifts in the economy. In the given case, workers possess the required skills and are laid off solely due to reduced demand, not because their skills have become irrelevant.<br><br><b>Option b is incorrect:</b> Frictional unemployment is temporary and voluntary in nature. It arises when workers are in the process of searching for a new job, changing jobs, or entering the labour force for the first time. The layoffs in the given situation are involuntary and result from an economic recession, not from normal job mobility.<br><br><b>Option c is incorrect:</b> Disguised unemployment occurs when labor force members are engaged in jobs but produce minimal or zero productivity, meaning their output does not influence the economy’s aggregate production. It often arises in economies with labor surpluses where too many workers perform tasks that lead to low productivity."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "The Biological Oxygen Demand (BOD) in a water sample at a certain temperature over a specified time period is a measure of:",
+
+    "options": [
+
+      "the amount of dissolved oxygen required to chemically oxidize the organic substance in the water.",
+
+      "the amount of dissolved oxygen required to decompose water soluble inorganic wastes in the water.",
+
+      "the amount of dissolved oxygen needed by aerobic biological organisms to break down organic material present in the water.",
+
+      "the amount of dissolved oxygen required to chemically oxidize all organic and inorganic substances in the water."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Biological Oxygen Demand (BOD) is the amount of dissolved oxygen required by aerobic microorganisms (bacteria and other decomposers) to biologically break down the organic matter present in a given volume of water. It is measured under standard conditions of a 5-day incubation period at 20 °C and is expressed in milligrams of oxygen per litre (mg/L or ppm).<br><br>A high BOD value indicates intense microbial activity, which in turn reflects the presence of large quantities of organic waste or sewage in the water whereas low BOD values signify cleaner water with minimal organic pollution. Further, clean water has a BOD of less than 5 ppm, while highly polluted water may exhibit BOD values of 17 ppm or more."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Sectors of Economy",
+
+    "question": "With reference to economy, which of the following best describes “Engel’s Pause”, recently seen in the news?",
+
+    "options": [
+
+      "A situation in which, despite rapid technological innovation, overall productivity growth in the economy shows a prolonged slowdown.",
+
+      "A long-term condition in which an economy experiences persistently low growth, weak investment, and subdued aggregate demand.",
+
+      "A phase where technological progress leads to productivity gains without a corresponding rise in real wages of workers.",
+
+      "A situation where, with rising household income, the share of income spent on food declines, even if total food expenditure increases."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option c is correct:</b> Engel’s Pause is a term coined by economic historian Robert C. Allen to describe a historical phenomenon during the British Industrial Revolution (1790–1840).<br><br>During this period, output per worker (productivity) rose rapidly due to technological innovations in manufacturing and mechanization.<br><br>However, real wages of workers stagnated for decades, meaning that ordinary labourers did not immediately benefit from the productivity boom.<br><br>Instead, the gains were captured largely by capital owners and landowners, leading to rising inequality.<br><br>Friedrich Engels, in his famous work The Condition of the Working Class in England, documented this paradox of industrial progress without wage improvement.<br><br>The term has recently appeared in the news in the context of artificial intelligence and advanced automation, raising concerns that AI-driven productivity gains may not immediately translate into higher real wages for workers, thereby recreating a modern version of Engel’s Pause.<br><br><b>Option a is incorrect:</b> This describes a Productivity Paradox, where technological innovation does not translate into higher productivity growth, which is different from Engel’s Pause where productivity rises but wages stagnate.<br><br><b>Option b is incorrect:</b> This refers to Secular Stagnation, a long-term macroeconomic condition characterised by weak demand, low investment, and subdued growth, rather than a divergence between productivity and wages.<br><br><b>Option d is incorrect:</b> This explains Engel’s Law, which states that as income increases, the proportion of income spent on food declines, even though absolute food expenditure may rise; it is unrelated to wages or technological productivity."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Sectors of Economy",
+
+    "question": "‘A software engineer is employed full-time at a software company but also undertakes a part-time freelancing project for another firm during evenings and weekends, without resigning from his/her main job.’ Which one of the following is best described in the above situation?",
+
+    "options": [
+
+      "Moonlighting",
+
+      "Casual employment",
+
+      "Dual Employment",
+
+      "Gig employment"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Option a is correct:</b> Moonlighting is the practice where an individual who is already engaged in a full-time job takes up an additional job, assignment, or professional engagement outside regular working hours, without resigning from or discontinuing the primary employment.<br><br>The defining features of moonlighting are the continuation of the main job, the secondary nature of the additional work, and the fact that it is usually undertaken during evenings, weekends, or off-hours.<br><br>In the given scenario, the software engineer remains employed full-time while simultaneously undertaking a part-time freelancing project, which clearly fits the definition of moonlighting.<br><br><b>Option b is incorrect:</b> Casual employment refers to work that is irregular, temporary, or intermittent, often without continuity of service or long-term contractual obligations. The individual in the scenario, however, has a stable full-time job, so this does not apply.<br><br><b>Option c is incorrect:</b> Dual employment generally implies holding two formal employment at the same time, often with overlapping obligations, and may involve legal or contractual issues. The scenario here specifically highlights secondary work outside normal hours, which is better captured by moonlighting.<br><br><b>Option d is incorrect:</b> Gig employment involves short-term, task-based work, frequently mediated through digital platforms, where workers are not in a conventional employer–employee relationship. While freelancing can be part of the gig economy, the core feature highlighted in the question is the coexistence of a full-time job with additional work, which makes moonlighting the most appropriate answer."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Microeconomics",
+
+    "question": "How is the magnitude of price elasticity for an individual good determined?<br>1. By the degree to which the good is a necessity or luxury.<br>2. By the extent to which substitutes are available.<br>3. By the rate of income growth in the economy.<br>4. By the relative importance of the good in the consumer’s budget.<br>Select the correct answer using the codes given below.",
+
+    "options": [
+
+      "1, 2 and 3",
+
+      "1 and 4 only",
+
+      "1, 2 and 4",
+
+      "3 and 4"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The price elasticity of demand for a commodity relies upon the trait of the commodity and the obtainability of close alternatives to the commodity. The major factors that determine the price elasticity of demand are:<br><br>1. The number of close substitutes goods: The more substitutes a good has and the more close the substitutes are, the more elastic the demand for the good is.<br>2. The proportion of income spent on the commodity. (By the relative importance of the good in the consumer’s budget)<br>3. The demand for a product tends to be more elastic in a longer period of time and less elastic in a shorter period of time.<br>4. Habit-forming commodities tend to have less elastic or inelastic demand.<br>5. Luxuries are things we can do away with; hence, they tend to have elastic demand."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "External Sector",
+
+    "question": "With reference to external sector management, what does the Guidotti–Greenspan rule suggest a country should do?",
+
+    "options": [
+
+      "Maintain foreign exchange reserves equal to the value of total imports for one year.",
+
+      "Hold foreign exchange reserves sufficient to cover all short-term external debt.",
+
+      "Hold foreign exchange reserves equal to the total external debt of the country.",
+
+      "Accumulate foreign exchange reserves equal to a fixed percentage of GDP to manage capital flow volatility."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The Guidotti–Greenspan rule is a widely used benchmark for assessing the adequacy of a country’s foreign exchange reserves. It was formulated by economists Pablo Guidotti and Alan Greenspan, the former Chair of the US Federal Reserve.<br><br>The rule is simple; a country should hold enough foreign exchange reserves to fully meet all its short-term external debt obligations falling due within the next one year. The logic is that even if access to international capital markets suddenly dries up, the country should be able to meet its external commitments without triggering a balance of payments crisis.<br><br>Economists often express this as a ratio of forex reserves to short-term external liabilities. For reserves to be considered adequate, this ratio should be at least one. In India’s case, this ratio has remained comfortably above one for more than a decade and was estimated at around 2.7 at the end of FY23, indicating a strong external buffer."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Sectors of Economy",
+
+    "question": "Recently, the South Coast Railway Zone has been notified as the 18th zone of the Indian Railways. In this context, consider the following pairs regarding Railway Zones and their Headquarters:<br><br><b>Railway Zone &mdash; Zonal Headquarters</b><br>I. Central Railway &mdash; Jabalpur<br>II. Western Railway &mdash; Ahmedabad<br>III. Eastern Railway &mdash; Kolkata<br>IV. Northern Railway &mdash; Prayagraj<br><br>How many of the pairs given above are correctly matched?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Indian Railways is one of the world’s largest railway networks and is administratively organised into railway zones to ensure effective planning, operation, and management across India’s vast geographical expanse. Recently, the South Coast Railway Zone (SCoR) has been notified as the 18th zone of Indian Railways, with its headquarters at Visakhapatnam, Andhra Pradesh.<br><br><b>Pair I is incorrect:</b> The headquarters of Central Railway is Mumbai (Chhatrapati Shivaji Maharaj Terminus). Jabalpur is actually the headquarters of West Central Railway, which is a separate zone, formed in 2003.<br><br><b>Pair II is incorrect:</b> Western Railway, one of the oldest zones (formed in 1951) of Indian Railways, has its headquarters in Churchgate, Mumbai.<br><br><b>Pair III is correct:</b> Eastern Railway’s headquarters is Kolkata, covering West Bengal, parts of Bihar, and Jharkhand. It was created in 1952.<br><br><b>Pair IV is incorrect:</b> The headquarters of Northern Railway is New Delhi, not Prayagraj. The Northern Railway Zone was created in 1952. Prayagraj is the headquarters of North Central Railway, which was created in 2003.<br><br>Therefore, only one pair is correctly matched."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Social Sector Scheme",
+
+    "question": "Which of the following statements regarding the National Pension System (NPS) is incorrect?",
+
+    "options": [
+
+      "It is regulated by the Pension Fund Regulatory Development Authority (PFRDA).",
+
+      "Non-Resident Indians (NRIs) are eligible to open an NPS account.",
+
+      "The minimum annual contribution required under the NPS is ₹5000.",
+
+      "A Permanent Retirement Account Number (PRAN) is allocated to every subscriber under the NPS."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>National Pension System (NPS) is a defined contribution pension. NPS is voluntary for subscription by an individual to make contributions to his/her Individual Pension Account during the working life for creating a pension corpus from which regular income will be generated after retirement / working age.<br><br><b>Statement a is correct:</b> The National Pension System (NPS) is regulated by the Pension Fund Regulatory and Development Authority (PFRDA), a statutory body established through an Act of Parliament.<br><br><b>Statement b is correct:</b> An NRI between the age of 18 – 70 years, as on the date of submission of his/her application and complying with the extant KYC norms, can open an NPS account.<br><br><b>Statement c is incorrect:</b> Under the NPS, subscribers can operate two types of accounts such as Tier I and Tier II. Tier I is the mandatory pension account and is eligible for tax benefits under the Income Tax Act, with a minimum annual contribution of ₹1,000 (not ₹5000). Tier II is an optional investment account, available only to subscribers with an active Tier I account; it allows free withdrawals and does not carry pension status or tax benefits, with a minimum contribution requirement of ₹250.<br><br><b>Statement d is correct:</b> Under the NPS, a Permanent Retirement Account Number (PRAN) is a unique identification number allotted to each subscriber for their Individual Pension Account. The PRAN is portable and remains the same throughout the subscriber’s lifetime, even if the subscriber changes employment, sector, or location."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Microeconomics",
+
+    "question": "If a commodity is provided free to the public by the Government, then",
+
+    "options": [
+
+      "the opportunity cost is zero.",
+
+      "the opportunity cost is ignored.",
+
+      "the opportunity cost is transferred from the consumers of the product to the taxpaying public.",
+
+      "the opportunity cost is transferred from the consumers of the product to the Government."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Opportunity cost is the forgone benefit that would have been derived by an option not chosen. For example, if you decide to spend two hours studying on a Friday night. The opportunity cost is that you cannot have those two hours for leisure.<br><br>When a commodity is provided free to the public by the government then the opportunity cost is transferred to the tax-paying public."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Triclosan, which is added to many household products, can have adverse effects on human health. In this context, consider the following:<br>I. Toothpaste<br>II. Soap and hand wash<br>III. Cosmetics<br>IV. Artificial sweetener<br>V. Food preservatives<br><br>Triclosan is generally added to how many of the above mentioned products?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All the five"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Triclosan is an antibacterial and anti-fungal agent. It is used in many household products as an antibacterial agent. But long-term exposure to triclosan can adversely affect human health. It can also potentially cause colon inflammation and cancer. Indiscriminate usage of antimicrobial agents like triclosan over the years has led to bacteria developing resistance to them.<br><br><b>Option I is correct:</b> Triclosan is found in toothpaste. While triclosan's main purpose is to reduce plaque and gum disease, it may end up harming the good bacteria in our mouth, which are important for maintaining oral health. It can also leach into your bloodstream, leading to potential long-term health effects such as endocrine disruption and weakened immunity.<br><br><b>Option II is correct:</b> Triclosan is a key ingredient in household cleaning products, including handwash liquids and gels, hand sanitisers and wet wipes. It is found in soap, handwash, talcum powder and even in the wall paint.<br><br><b>Option III is correct:</b> Triclosan is also used in personal care products, and cosmetics.<br><br><b>Options IV and V are incorrect:</b> Triclosan is not usually added to Artificial sweeteners and Food preservatives."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Banking",
+
+    "question": "With reference to the Immediate Payment Service (IMPS), consider the following statements:<br>I. It is developed and operated by the Reserve Bank Innovation Hub (RBIH).<br>II. It allows users to settle bills and transfer funds instantly up to a maximum limit of Rs. 1,00,000 per day.<br>III. The sender or the receiver is not mandatorily required to maintain a bank account to transfer funds through IMPS.<br>IV. The IMPS facility is available to users on all days including bank holidays.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and II",
+
+      "II and III",
+
+      "IV only",
+
+      "I, III and IV"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Immediate Payment Service (IMPS) allows individuals to send and receive money instantly using mobile phones or internet banking. The real-time, interbank electronic funds transfer system can be used to settle bills and transfer funds.<br><br><b>Statement I is incorrect:</b> IMPS is an innovative real time payment service that is available round the clock. This service is developed and operated by National Payments Corporation of India (NPCI), and not the Reserve Bank Innovation Hub (RBIH).<br><br><b>Statement II is incorrect:</b> The Reserve Bank of India (RBI) has set the IMPS upper limit at Rs 5,00,000 per transaction, raised from the earlier limit of 2,00,000 per transaction in 2021. However, the RBI hasn't set a daily transaction limit. IMPS transfer facility is available 24/7 for every account holder of any bank.<br><br><b>Statement III is incorrect:</b> According to the National Payments Corporation of India (NPCI), both the sender and the receiver must have a bank account with a registered mobile number and Mobile Money Identifier (MMID) to send and receive funds through IMPS.<br><br><b>Statement IV is correct:</b> IMPS enables instant money movement during critical situations, ensuring that funds are available to the recipient within seconds of the transfer being initiated. Its 24/7/365 availability means that users can transfer funds even during weekends, holidays, or late-night hours when traditional banking channels are unavailable."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Ecosystem",
+
+    "question": "With reference to the environment, the Calvin Cycle is primarily associated with:",
+
+    "options": [
+
+      "conversion of atmospheric nitrogen to useful or simpler compounds of nitrogen.",
+
+      "increase in the concentration of contaminants as they move up each trophic level in an ecosystem.",
+
+      "conversion of atmospheric carbon dioxide into sugar by the plants.",
+
+      "flow of energy from autotrophs to carnivores in a food chain."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option c is correct:</b> The Calvin cycle is a process that plants use to turn carbon dioxide from the air into sugar. The Calvin pathway occurs in all photosynthetic plants.<br><br>The Calvin cycle proceeds through three stages:<br>(1) Carboxylation, during which CO₂ combines with ribulose-1,5-bisphosphate;<br>(2) Reduction, during which carbohydrate is formed using ATP (adenosine triphosphate) and NADPH (nicotinamide adenine dinucleotide phosphate) produced in the light reactions; and<br>(3) Regeneration, during which the CO₂ acceptor, ribulose-1,5-bisphosphate, is regenerated so that the cycle can continue.<br><br>Thus, for every CO₂ molecule entering the Calvin cycle, three molecules of ATP and two molecules of NADPH are required. To make one molecule of glucose 6 turns of the cycle are required."
+
+  },
+
+  {
+
+    "section": "Economy",
+
+    "topic": "Taxation",
+
+    "question": "With reference to the Goods and Services Tax (GST) in India, the Reverse Charge Mechanism (RCM) could be best described as:",
+
+    "options": [
+
+      "the liability to pay tax is on the recipient of supply of goods or services instead of the supplier of such goods or services in respect of notified categories of supply.",
+
+      "the liability to pay tax is on the supplier of goods or services.",
+
+      "the liability to pay tax is on the supplier of goods or services but the supplier pays tax to origin state of goods or services rather than the destination state where it is consumed.",
+
+      "the liability to pay tax is shared equally between the recipient of goods or services and the supplier of such goods or services in respect of notified categories of supply."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Under normal circumstances, the supplier of goods or services is responsible for paying GST. However, in certain cases, such as imports or other notified supplies, the liability to pay tax shifts to the recipient under the Reverse Charge Mechanism (RCM).<br><br>Reverse Charge means the liability to pay tax is on the recipient of supply of goods or services instead of the supplier of such goods or services in respect of notified categories of supply. There are two types of reverse charge scenarios provided in law. First is dependent on the nature of supply and/or nature of supplier. The second scenario is where taxable supplies by any unregistered person to a registered person is covered."
+
+  },
+
+  {
+
+    "section": "Polity",
+
+    "topic": "Language",
+
+    "question": "The 92nd Constitutional Amendment Act, 2003, amends the Eighth Schedule to the Constitution of India to include which of the following languages?<br>I. Bodo<br>II. Dogri<br>III. Nepali<br>IV. Santhali<br><br>Select the correct answer using the code given below",
+
+    "options": [
+
+      "I, II and III",
+
+      "I, III and IV",
+
+      "II, III and IV",
+
+      "I, II and IV"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Option I is correct:</b> Bodo became part of the Eighth Schedule through the 92nd Constitutional Amendment, 2003.<br><br><b>Option II is correct:</b> Dogri became part of the Eighth Schedule through the 92nd Constitutional Amendment, 2003.<br><br><b>Option IV is correct:</b> Santhali became part of the Eighth Schedule through the 92nd Constitutional Amendment, 2003. Maithili was one more language which became part of the Eighth Schedule through the 92nd Constitutional Amendment, 2003.<br><br><b>Option III is incorrect:</b> Nepali became part of the Eighth Schedule through the 71st Constitutional Amendment, 1992."
+
+  }
+
+]
