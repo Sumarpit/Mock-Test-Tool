@@ -1,0 +1,1303 @@
+[
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Various Environmental Issues",
+
+    "question": "Consider the following substances:<br>I. Ethanol<br>II. Nitroglycerine<br>III. Urea<br>Coal gasification technology can be used in the production of how many of them?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Coal gasification is a process that converts coal into syngas (synthesis gas), a mixture primarily consisting of carbon monoxide (CO), hydrogen (H2), carbon dioxide (CO2), and methane (CH4). Syngas is a valuable feedstock and can be further processed to produce various chemicals, fuels, and fertilizers.<br><br><b>Option I is correct:</b> Ethanol can be produced indirectly from coal through the coal gasification route. Coal is gasified to produce syngas, which is then converted into ethanol through a catalytic or microbial fermentation process.<br><br><b>Option II is incorrect:</b> Nitroglycerine cannot be produced through coal gasification. It is synthesized by the nitration of glycerol (glycerin) using a mixture of concentrated nitric acid and sulfuric acid. Glycerol is typically a byproduct of the soap-making or biodiesel industries.<br><br><b>Option III is correct:</b> Urea is one of the most important fertilizers and can indeed be produced using coal gasification technology. Coal is gasified to produce syngas, which is further used to synthesize ammonia via the Haber-Bosch process. The ammonia is then reacted with carbon dioxide to produce urea."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following substances:<br>I. Synthetic rubber<br>II. Chemical pesticides such as Endosulfan<br>III. Mercury<br>IV. Glass<br>V. Radioactive waste from nuclear reactors<br>How many of the above substances are generally considered as non-biodegradable under natural conditions?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All the five"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Biodegradable substances are those that can be broken down naturally by microorganisms. Non-biodegradable substances do not undergo natural decomposition and remain in the environment for very long periods.<br><br><b>Option I is correct:</b> Synthetic rubber is a man-made polymer produced through chemical processes. It does not decompose through the action of microorganisms.<br><br><b>Option II is correct:</b> Chemical pesticides like Endosulfan are synthetic chemicals designed to remain active for long durations. They do not break down easily under natural conditions.<br><br><b>Option III is correct:</b> Mercury is a heavy metal and does not break down; instead, it accumulates in food chains.<br><br><b>Option IV is correct:</b> Glass is made from minerals such as silica and does not decompose through biological action.<br><br><b>Option V is correct:</b> Radioactive materials generated during nuclear power production do not undergo biological decomposition. Their hazard reduces only through radioactive decay."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> Carbon dioxide contributes to more than 50% of the total anthropogenic global warming.<br><b>Statement II:</b> Carbon dioxide is a short-lived atmospheric pollutant.<br>Which of the above is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> Carbon dioxide is the largest single contributor to anthropogenic global warming. Studies have shown that carbon dioxide alone is responsible for around 70% of the total warming caused by human activities. Since the beginning of the industrial era, human activities have increased atmospheric carbon dioxide levels by about 50%.<br><br><b>Statement II is incorrect:</b> Carbon dioxide is not a short-lived atmospheric pollutant. In fact, it is a long-lived greenhouse gas. A significant portion of carbon dioxide remains in the atmosphere for hundreds to thousands of years. Its long residence time is one of the main reasons for its dominant role in global warming."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "With reference to Acid rain, consider the following statements:<br>I. It refers to precipitation with a pH value more than 7.<br>II. The excess of carbon monoxide in the atmosphere is one of the primary causes for acid rain.<br>III. It improves crop productivity by increasing the availability of nutrients in the soil.<br>IV. It may lead to the discoloration and damage of buildings and other structures made of stone or metal.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "IV only",
+
+      "II and IV",
+
+      "I and II",
+
+      "III and IV"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is incorrect:</b> Precipitation with a pH value more than 7 is alkaline in nature, whereas acid rain is characterized by increased acidity. Acid rain occurs only when the pH of rainwater falls below 5.6.<br><br><b>Statement II is incorrect:</b> Carbon monoxide does not react with water to form an acid. The principal causes of acid rain are oxides of sulphur (SO₂) and oxides of nitrogen (NOₓ).<br><br><b>Statement III is incorrect:</b> Acid rain does not enhance crop productivity. Instead, it leads to leaching of essential nutrients such as calcium and magnesium from the soil and damages plant tissues.<br><br><b>Statement IV is correct:</b> Acid rain contains strong acids such as sulphuric acid and nitric acid, which react chemically with stone materials like limestone and marble and also accelerate corrosion of metals. This leads to discoloration, surface erosion, and structural weakening of buildings and monuments (e.g., Taj Mahal)."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Various Environmental Issues",
+
+    "question": "There is some concern regarding the nanoparticles of some chemical elements that are used by the industry in the manufacture of various products. Why?<br>1. They can accumulate in the environment and contaminate water and soil.<br>2. They can enter the food chains.<br>3. They can trigger the production of free radicals.<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1 and 2 only",
+
+      "3 only",
+
+      "1 and 3 only",
+
+      "1, 2 and 3"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement 1 is correct:</b> Nanoparticles are very small particles, and because of their size, they can easily move through the environment and into living organisms. They can also accumulate in the environment over time, contaminating water and soil.<br><br><b>Statement 2 is correct:</b> Nanoparticles can enter the food chain through plants and animals that ingest them. They can also be absorbed directly into the bloodstream through the skin or lungs.<br><br><b>Statement 3 is correct:</b> Nanoparticles can interact with cells and trigger the production of free radicals. Free radicals are unstable molecules that can damage cells. This damage can lead to a number of health problems, including cancer, heart disease, and Alzheimer’s disease."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following statements about lead pollution:<br>I. Paints are one of the major sources of lead pollution in the world.<br>II. Lead interferes with the development and maturation of red blood cells in the human body.<br>III. There is no known safe blood lead concentration.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "I and III only",
+
+      "II and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I is correct:</b> Important sources of environmental contamination include mining, smelting, manufacturing, and lead use in a range of products. Lead is widely used in many products, including pigments, paints, solder, stained glass, and lead-acid batteries.<br><br><b>Statement II is correct:</b> Lead interferes with the development and maturation of red blood cells in a human body. It interferes with haemoglobin formation and causes anaemia due to deficiency of haemoglobin. Lack of haemoglobin may further cause kidney and brain damage.<br><br><b>Statement III is correct:</b> There is no level of exposure to lead that is known to be without harmful effects. Even blood lead concentrations as low as 3.5 µg/dL may be associated with decreased intelligence in children, behavioural difficulties, and learning problems."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following statements about Asbestos:<br>I. It is a group of naturally occurring minerals.<br>II. Its long-term exposure can be carcinogenic.<br>III. The National Green tribunal in India has recently imposed a nationwide ban upon the use of asbestos cement roofing sheets in schools.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> Asbestos occurs naturally as a group of fibrous silicate minerals embedded in rocks and soil beneath the earth’s surface. These fibres are released when asbestos-bearing rocks are mined or disturbed.<br><br><b>Statement II is correct:</b> When asbestos fibres become airborne and enter the human body through inhalation or ingestion, they can remain lodged in tissues for many years. Over time, this can lead to chronic inflammation, lung scarring, and fatal diseases such as asbestosis, lung cancer, and mesothelioma.<br><br><b>Statement III is incorrect:</b> The National Green Tribunal (NGT) in 2025 declined to impose a nationwide ban on asbestos cement roofing sheets used in schools but ordered strict safety measures, worker protection, and a phase-out review."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following:<br>I. Ozone<br>II. Nitric oxide<br>III. Volatile organic compounds<br>IV. Polyaromatic Hydrocarbon<br>V. Peroxyacetyl nitrate (PAN)<br>How many of the above are components of photochemical smog ?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All the five"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Photochemical Smog is also called “Los Angeles Smog.” It is produced when nitrogen oxides react with volatile organic compounds (VOCs) in the presence of sunlight. When sunlight hits a combination of these chemicals, airborne particles and ground-level ozone or smog are formed.<br><br>The chemical reaction leading to the formation of photochemical smog includes Nitrogen, Oxygen, Nitric oxide (NO), Nitrogen dioxide (NO2), Oxygen radical, Ozone (O3), Hydrocarbons (VOCs), and Peroxyacetyl nitrate (PAN).<br><br>Thus, <b>Options I, II, III and V are correct.</b> Polyaromatic Hydrocarbon is not one of the components of Photochemical smog. Hence, only four are components."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Which among the following can be the consequence of ozone layer depletion?<br>I. Mutation in plant cells<br>II. Decrease in moisture content in the soil<br>III. Increase in water loss through the stomata of the plant leaves<br>IV. Slowing of the process of chlorosis in leaves<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I, II and III only",
+
+      "I and III only",
+
+      "II and IV only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>With the depletion of the ozone layer, more UV radiation filters into the troposphere, leading to various harmful impacts.<br><br><b>Option I is correct:</b> Plant proteins get easily affected by UV radiations which leads to the harmful mutation of cells. Ozone depletion results in protein damage, and disrupts cellular processes, resulting in stunted growth and reduced photosynthesis.<br><br><b>Options II and III are correct:</b> Ozone depletion increases evaporation of surface water through the stomata of the leaves and decreases the moisture content of the soil.<br><br><b>Option IV is incorrect:</b> Ozone layer depletion causes a series of harmful effects. Leaves of plants show chlorosis (loss of chlorophyll and yellowing) as a result of ozone depletion. Thus, it will not slow down the process of chlorosis rather strengthen it."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "With reference to impact of carbon monoxide poisoning in humans, consider the following statements:<br><b>Statement I:</b> Carbon monoxide poisoning can cause hypoxia in the brain (cerebral Hypoxia).<br><b>Statement II:</b> Carbon monoxide binds with haemoglobin and reduces the oxygen-carrying capacity of blood.<br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
+      "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+
+      "Statement I is correct but Statement II is not correct",
+
+      "Statement I is not correct but Statement II is correct"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Carbon monoxide (CO) is a colourless and odourless gas, highly poisonous to living beings because of its ability to block the delivery of oxygen to the organs and tissues.<br><br><b>Statement I is correct:</b> Carbon monoxide (CO) poisoning causes cerebral hypoxia (oxygen deficiency in the brain) and is a leading cause of brain injury and death.<br><br><b>Statement II is correct and explains Statement I:</b> CO has an affinity for hemoglobin 200 to 250 times greater than oxygen. Carbon monoxide binds to haemoglobin to form carboxyhaemoglobin, which is about 300 times more stable than the oxygen-haemoglobin complex. This significantly reduces the blood's oxygen-carrying capacity. This oxygen deficiency (hypoxia) explains the brain injury."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Various Environmental Issues",
+
+    "question": "Brominated flame retardants are used in many household products like mattresses and upholstery. Why is there some concern about their use?<br>1. They are highly resistant to degradation in the environment.<br>2. They are able to accumulate in humans and animals.<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1 only",
+
+      "2 only",
+
+      "Both 1 and 2",
+
+      "Neither 1 nor 2"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Brominated flame retardants (BFRs) are a group of chemicals added to household and commercial products to slow down or prevent the spread of fire.<br><br><b>Statement 1 is correct:</b> Brominated flame retardants (BFRs) are highly resistant to degradation in the environment, which means that BFRs can stay in the environment for a long time, even after the product they were in has been disposed of. Once in the environment, they can be transported by air and water.<br><br><b>Statement 2 is correct:</b> BFRs are able to accumulate in humans and animals, meaning they can build up in our bodies over time. They enter our bodies through food, water, and air, and can be passed up the food chain."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "With reference to environmental pollution, consider the following pairs:<br><b>Disease &mdash; Result of the contamination/poisoning caused by</b><br>I. Itai- itai &mdash; Chromium<br>II. Black foot &mdash; Arsenic<br>III. Fluorosis &mdash; Fluoride<br>How many of the pairs given above are correctly matched?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Pair I is incorrect:</b> Cadmium (not chromium) contaminated rice in Japan caused the disease Itai-Itai. The disease was characterized by severe damage to the kidneys, joint pain and arthritis.<br><br><b>Pair II is correct:</b> Black foot disease is caused by Arsenic poisoning. Arsenic can leach into water from rocks, fertilizers, pesticides, and smelter runoff.<br><br><b>Pair III is correct:</b> Exposure to high concentrations of fluoride is the reason for a serious disease called fluorosis. Fluorosis is categorized as Skeletal and Dental fluorosis.<br><br>Hence, only two pairs are correctly matched."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "With reference to laundry detergents, consider the following statements:<br><b>Statement I:</b> Detergents can cause algal bloom in water bodies.<br><b>Statement II:</b> Most of the detergents contain phosphate salts.<br><b>Statement III:</b> Detergents are generally alkaline in nature.<br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement II and Statements III are correct and both of them explain Statement I.",
+
+      "Both Statement II and Statement III are correct but only one of them explains Statement I.",
+
+      "Only one of the Statements II and III is correct and explains Statement I.",
+
+      "Neither Statement II nor Statement III is correct."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I is correct:</b> Laundry detergents are a form of water pollutant that can cause algal bloom (eutrophication), depriving the water of available oxygen and causing the death of other organisms.<br><br><b>Statement II is correct:</b> Many laundry detergents contain a high proportion of phosphate salts (about 35–75%). When these phosphates enter water bodies, they act as nutrient pollutants that stimulate excessive algal growth, resulting in eutrophication. Thus, Statement II explains Statement I.<br><br><b>Statement III is correct:</b> Most detergents are alkaline (basic) in nature. However, the alkaline nature itself does not cause the algal blooms; it is the presence of phosphate salts that leads to eutrophication. Thus, Statement III does not explain Statement I.<br><br>Therefore, both Statement II and Statement III are correct but only one of them (Statement II) explains Statement I."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following statements about Dichlorodiphenyltrichloroethane (DDT):<br>I. It has been effectively used to combat malaria and typhus.<br>II. It is highly soluble in water, which allows it to accumulate in the tissues of organisms.<br>III. It is classified as one of the persistent organic pollutants (POPs) under Stockholm Convention.<br>IV. Presently, the production of DDT is banned in India.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and III only",
+
+      "I, II and III",
+
+      "I and IV",
+
+      "III only"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> DDT was used very effectively to control vector-borne diseases such as malaria, typhus, and other insect-borne illnesses.<br><br><b>Statement II is incorrect:</b> DDT is lipophilic (fat-soluble) and has very low solubility in water. This fat solubility allows it to accumulate in the fatty tissues of organisms (biomagnification).<br><br><b>Statement III is correct:</b> DDT is included as a persistent organic pollutant (POP) under the Stockholm Convention due to its persistence, bioaccumulation, and health risks.<br><br><b>Statement IV is incorrect:</b> Since 2008, the Indian state-owned company HIL has been the world's only registered producer of this insecticide. HIL's DDT is still exported to countries where mosquito control remains crucial."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Magnetite particles, suspected to cause neurodegenerative problems, are generated as environmental pollutants from which of the following?<br>1. Brakes of motor vehicles<br>2. Engines of motor vehicles<br>3. Microwave stoves within homes<br>4. Power plants<br>5. Telephone lines<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1, 2, 3 and 5 only",
+
+      "1, 2 and 4 only",
+
+      "3, 4 and 5 only",
+
+      "1, 2, 3, 4 and 5"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Magnetite particles can act as pollutants and penetrate the blood-brain barrier, leading to early development of Alzheimer’s disease.<br><br><b>Option 1 is correct:</b> The automotive industry uses ceramic or ferrite magnets in vehicles (e.g., in ABS brakes). The friction and usage can generate magnetite particles.<br><b>Option 2 is correct:</b> Engines of motor vehicles use high-powered magnets generating magnetic flux and particles.<br><b>Option 3 is incorrect:</b> Microwave stoves use magnetic stirrers but are not potential sources of environmental magnetite particles.<br><b>Option 4 is correct:</b> Power Plants release metal content along with ash. Coal combustion is a major source of magnetite fine particles.<br><b>Option 5 is incorrect:</b> Telephone lines produce low frequency electromagnetic fields and are not sources of magnetite particles."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Recently seen in news, the ‘carbamates’ are:",
+
+    "options": [
+
+      "persistent organic pollutants released through vehicular emissions.",
+
+      "catalysers used for removal of pollutants from the environment.",
+
+      "feedstocks used for the production of Biodiesel.",
+
+      "organic compounds that are used as pesticides."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Option d is correct:</b> Carbamates are organic compounds that are used as pesticides, fungicides, herbicides, and nematocides. They are used against both insects and weeds as chemical agents in sprays or baits. They kill insects by affecting their brains and nervous systems.<br><br>Carbamates are esters of carbamic acid. They have a short residual life and a wide spectrum of activity. However, they are severe nerve toxins that are harmful to humans."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Various Environmental Issues",
+
+    "question": "Steel slag can be the material for which of the following?<br>I. Clinker production<br>II. Construction of roads<br>III. Manufacturing of fertilisers<br>IV. Developing light weight concrete<br>V. Treating acidic water discharges from abandoned mines<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All the five"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Steel slag is a by-product of the steel industry, generated from steel furnaces as an impurity flux material.<br><br><b>Option I is correct:</b> Steel Slag is a useful alternative raw material for clinker production, reducing fuel consumption and CO2 emissions.<br><b>Option II is correct:</b> Steel slag aggregates can be used in road construction, specifically in substituting fine aggregate and filler in bituminous mixtures.<br><b>Option III is correct:</b> Steel slag can be utilized in the production of fertilizers. Slag with high SiO2 content acts as a silicon fertilizer and is rich in nutrients like Ca, Mg, P, Fe, Mn, and S.<br><b>Option IV is correct:</b> Expanded or foamed steel slag binds well with cement and is used mainly as an aggregate for light-weight concrete.<br><b>Option V is correct:</b> Steel slag acts as a barrier material remedy; its high oxide mineral content forces heavy metals to drop out of solution. It is used to treat acidic water discharges from abandoned mines."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "With reference to Methane, consider the following statements:<br>I. Methane has a higher atmospheric lifespan than carbon dioxide.<br>II. Agriculture and Allied activities are the largest contributor of anthropogenic methane emissions globally.<br>III. Methane contributes to the formation of ground-level ozone.<br>IV. Presently, India is the third largest methane emitter in the world.<br>Which of the above-given statements are correct?",
+
+    "options": [
+
+      "I and IV only",
+
+      "II and III only",
+
+      "II, III and IV only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is incorrect:</b> Methane has a higher Global Warming Potential than Carbon dioxide, but it has a shorter lifespan. Methane has a lifetime of about 12 years, whereas CO2 has a lifespan of about 100 years.<br><br><b>Statement II is correct:</b> Agriculture, including livestock and rice cultivation, is the largest contributor (approximately 40%) to anthropogenic methane emissions in the world.<br><br><b>Statement III is correct:</b> Methane acts as a precursor for the formation of tropospheric ozone. Ground-level ozone is formed by the interaction of sunlight with VOCs (including methane) and nitrogen oxides (NOX).<br><br><b>Statement IV is correct:</b> As per the Global Methane Status report 2025, India is the world’s third-largest methane emitter after China and the United States, responsible for nearly 9% of global methane emissions."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Disaster Management",
+
+    "question": "Which of the following statements with reference to the revised Earthquake Design Code, 2025 in India are correct?<br>I. Under the code, an updated national seismic zonation map has been released by the Bureau of Indian Standards (BIS).<br>II. The entire Himalayan arc now falls within the highest seismic risk category, Seismic Zone VI in the updated national seismic zonation map.<br>III. According to the updated seismic assessment, around 60% of overall proportion of land in India falls under moderate to high earthquake hazard zones.<br>IV. Under the new seismic assessment, the whole country is now divided into 4 seismic zones.<br><br>Select the correct answer using the code given below.",
+
+    "options": [
+
+      "I, II and III only",
+
+      "I, II and IV only",
+
+      "III and IV only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>India’s revised Earthquake Design Code, 2025 represents one of the most significant updates to seismic risk assessment in decades. It reflects a shift from historical and administrative approaches towards a more scientific, fault-based understanding of earthquake hazards. The changes have direct implications for urban planning, infrastructure safety and building design across large parts of the country.<br><br><b>Statement I is correct:</b> The Bureau of Indian Standards (BIS) is the national body responsible for formulating building codes in India. The revised Earthquake Design Code and the updated seismic zonation map have been released by BIS, replacing earlier versions and urging all new construction to adopt the 2025 standards.<br><br><b>Statement II is correct:</b> For the first time, the entire Himalayan arc has been placed uniformly in a newly created Zone VI, the highest seismic hazard category. Earlier maps divided the Himalayas between Zones IV and V despite similar tectonic stress conditions. The new map removes these inconsistencies, and any settlement lying on a zone boundary is automatically assigned to the higher-risk zone, leaving no internal exemptions within the Himalayan belt.<br><br><b>Statement III is correct:</b> The revised seismic assessment shows that about 61% of India (up from 59% previously) now lies in moderate to high earthquake hazard zones. Now nearly three-fourths of India’s population now lives in seismically active regions and the overall proportion of land falling under moderate to high hazard categories has increased from 59% to 61%. This reflects improved hazard modelling based on probabilistic seismic hazard assessment methods and explains why BIS has emphasised urgent adoption of the new code, especially as a large share of India’s population lives in seismically active regions.<br><br><b>Statement IV is incorrect:</b> The country was earlier divided into 4 seismic zones i.e. Zone II-V but now there are 5 zones i.e Zone II-VI."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "With reference to indoor air pollutants and their major sources, consider the following pairs:<br><br><b>Indoor air pollutant &mdash; Major source</b><br>I. Radon &mdash; Building materials such as concrete, stone and soil<br>II. Cadmium &mdash; Pesticide residues present in paints<br>III. Toluene &mdash; Nail Paints<br><br>How many of the pairs given above are correctly matched?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Pair I is correct:</b> Radon is a naturally occurring radioactive gas produced from the decay of uranium present in rocks and soil. It can seep into indoor spaces through cracks in floors and walls and may also be released from building materials like granite, concrete and stone, as well as from groundwater. Radon is colourless, odourless, and inert, making detection difficult without instruments. It is a major indoor air pollutant and a major cause of lung cancer among non-smokers.<br><br><b>Pair II is correct:</b> Cadmium is a toxic heavy metal that can be present indoors due to pesticides mixed with paints, laboratory spills, sprays, and also through tobacco smoke. Chronic exposure leads to kidney damage, bone demineralisation and skeletal deformities. Notably, cadmium poisoning is associated with Itai–Itai disease, first reported in Japan, characterized by severe bone pain and fractures due to osteomalacia.<br><br><b>Pair III is correct:</b> Toluene is a volatile organic compound (VOC) commonly found in nail polish, nail polish removers, and other nail products. When these products are applied, toluene evaporates into the air, contributing to indoor air pollution."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following statements:<br><b>Statement-I:</b> Many chewing gums found in the market are considered a source of environmental pollution.<br><b>Statement-II:</b> Many chewing gums contain plastic as gum base.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+
+      "Statement-I is correct, but Statement-II is incorrect",
+
+      "Statement-I is incorrect, but Statement-II is correct"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> Commercially, chewing gum is produced based on synthetic gum base, which is non-biodegradable. Accordingly, chewing gum residue can be considered as a dangerous environmental pollutant.<br><br><b>Statement II is correct and explains Statement I:</b> Chewing gum does contain plastic. The ingredient known as “gum base” in the list of ingredients in chewing gum is largely made of polyvinyl acetate. This plastic is non-biodegradable and remains in the environment for a long time. Thus, chewing gum residue can be considered as a dangerous environmental pollutant.<br><br>So, both Statement-I and statement II are correct and Statement-II explains Statement-I."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following<br>I. Nitrous oxide<br>II. Chlorofluorocarbons (CFCs)<br>III. Carbon monoxide<br>IV. Sulphur dioxide<br><br>How many of the above are classified as direct greenhouse gases?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>According to the Intergovernmental Panel on Climate Change, “Greenhouse gases are those gaseous constituents of the atmosphere, both natural and anthropogenic, that absorb and emit radiation at specific wavelengths within the spectrum of infrared radiation emitted by the Earth’s surface, the atmosphere and clouds”. The GHGs include water vapor (H2O), carbon dioxide (CO2), nitrous oxide (N2O), methane (CH4), ozone (O3), sulphur hexafluoride (SF6), hydrofluorocarbons (HFCs) and perfluorocarbons (PFCs).<br><br><b>Option I is correct:</b> Nitrous oxide is a gas that can absorb outgoing heat radiation from the Earth’s surface. This absorbed heat is partly re-emitted back into the atmosphere, leading to warming. Nitrous oxide stays in the atmosphere for a long time, which increases its warming effect. Thus, it is a direct greenhouse gas.<br><br><b>Option II is correct:</b> Chlorofluorocarbons have a very high capacity to absorb heat. They remain in the atmosphere for a long period and trap large amounts of infrared radiation. Because of their strong warming potential, CFCs are considered powerful greenhouse gases, even though their use has been restricted. Thus, it is a direct greenhouse gas.<br><br><b>Option III is incorrect:</b> Carbon monoxide does not have the ability to absorb infrared radiation in a manner required for the greenhouse effect. As a result, it does not directly trap heat in the atmosphere. But Nitrogen oxides, carbon monoxide and volatile organic compounds can be considered as indirect greenhouse gas because they play a role in the increase in tropospheric ozone concentrations and this increases radiative forcing (warming of the atmosphere).<br><br><b>Option IV is incorrect:</b> Sulphur dioxide does not trap heat in the atmosphere and therefore does not contribute to the greenhouse effect. Though Sulphur dioxide can be considered as indirect greenhouse gas because it contributes to aerosol formation which can either warm (through absorption of solar radiation on dark particles) or cool (from forming cloud droplets and reflecting radiation) the atmosphere."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> Increase in temperature reduces the dissolved oxygen content in stagnant water.<br><b>Statement II:</b> Water molecule is dipolar in nature.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct and Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Dissolved oxygen (DO) is the amount of oxygen gas present in water, obtained from the atmosphere as well as from photosynthesis by aquatic plants.<br><br><b>Statement I is correct:</b> The Dissolved Oxygen level in a stagnant water body is influenced by temperature. The solubility of gas in water is inversely proportional to temperature and total dissolved solid content. As temperature increases, the solubility of oxygen in water decreases, leading to lower dissolved oxygen concentrations, particularly in stagnant water.<br><br><b>Statement II is correct but does not explain Statement I:</b> Water is known as the “universal solvent” because it can dissolve a wide variety of substances. This property is obtained from its chemical composition and molecular structure. A water molecule is polar (dipolar), with the hydrogen side carrying a partial positive charge and the oxygen side carrying a partial negative charge. This polarity enables water molecules to attract and interact with many different substances, facilitating their chemical dissolution.<br><br>Water being dipolar has no relation to how high temperature reduces the dissolved oxygen content in stagnant water. Increase in temperature reduces the dissolved oxygen content in stagnant water due to decrease in solubility of oxygen with increase in temperature."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "With reference to pollutants and their health impacts, consider the following:<br>I. Benzene<br>II. Particulate Matter (PM) 2.5<br>III. Carbon dioxide<br><br>How many of the above are generally considered carcinogenic in nature?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Certain environmental pollutants are known to increase the risk of cancer in humans. These substances may act directly by damaging DNA or indirectly by causing long-term inflammation and cellular stress.<br><br><b>Option I is correct:</b> Benzene is a volatile organic compound widely used in the petrochemical industry. Long-term exposure to benzene is strongly linked to blood-related cancers, especially leukemia. Benzene damages bone marrow and interferes with blood cell formation. Thus, it is carcinogenic.<br><br><b>Option II is correct:</b> PM2.5 refers to fine particulate matter with a diameter of less than 2.5 microns. These particles can penetrate deep into the lungs and even enter the bloodstream. In 2013, the IARC classified particulate matter as a Group 1 carcinogen, linking long-term exposure to lung cancer.<br><br><b>Option III is incorrect:</b> Carbon dioxide is a greenhouse gas responsible for global warming and climate change. However, it does not directly cause cancer. Its health impacts are mainly related to climate stress and extreme weather, not carcinogenicity."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Various Environmental Issues",
+
+    "question": "Why is there a concern about copper smelting plants?<br>1. They may release lethal quantities of carbon monoxide into the environment.<br>2. The copper slag can cause the leaching of some heavy metals into the environment.<br>3. They may release sulphur dioxide as a pollutant.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1 and 2 only",
+
+      "2 and 3 only",
+
+      "1 and 3 only",
+
+      "1, 2 and 3"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement 1 is incorrect:</b> In the copper smelting process, first, the carbon (C) combusts with oxygen (O2) in the air to produce carbon monoxide (CO). Second, the carbon monoxide reacts with the ore and removes one of its oxygen atoms, releasing carbon dioxide. Hence, it does not release lethal quantities of CO in the environment.<br><br><b>Statement 2 is correct:</b> Copper smelters emit staggering amounts of toxic pollution i.e., lead, arsenic and selenium. These heavy metals and particulate matter from copper smelters contaminate the environment downwind and downstream.<br><br><b>Statement 3 is correct:</b> Copper smelters are the largest source of sulphur oxides (SOx) and trace elements. Suspended particles have a pollution scope of 2-3 km, while Sulphur dioxide has a range of as much as 15 km."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following items:<br>I. Medical diagnostic equipment using X-ray technology<br>II. Production of phosphate fertilizers<br>III. Microwave ovens used in households<br><br>How many of the above act as sources of radiation pollution?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Radiation pollution arises from the release of ionising radiation into the environment due to natural radioactive elements such as radium, uranium, and caesium, as well as human activities. Major sources include radioactive wastes generated from medical diagnosis and therapy using X-rays, detonation of nuclear weapons during testing and warfare, nuclear power plants, research laboratories, and certain consumer products such as television sets and self-luminous dials.<br><br><b>Option I is correct:</b> Medical diagnostic equipment using X-ray technology: X-ray machines generate ionising radiation during diagnostic and therapeutic procedures. Medical use of X-rays is a recognised source of radiation exposure, and certain components of such equipment require controlled handling and disposal after their service life, thereby contributing to radioactive waste.<br><br><b>Option II is correct:</b> Phosphate rock contains the mineral phosphorus, an ingredient used in some fertilizers to help plants grow strong roots. Phosphate rock contains small amounts of naturally-occurring radionuclides, mostly uranium and radium. When processing phosphate rock to make fertilizer, the phosphorus is removed by dissolving the rock in an acidic solution. The waste that is left behind is called phosphogypsum. Most of the naturally-occurring uranium found in phosphate rock ends up in the acid and the other radionuclides, including radium, mostly end up in the waste. Uranium and thorium decay to radium and radium decays to radon, a radioactive gas.<br><br><b>Option III is incorrect:</b> Microwave ovens used in households: Microwave ovens use non-ionising electromagnetic radiation for heating food. They neither contain radioactive materials nor produce ionising radiation and hence do not contribute to radiation pollution or radioactive waste."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Various Environmental Issues",
+
+    "question": "The term ‘Flue Gas Desulphurisation (FGD)’ units often talked in the media in the context of:",
+
+    "options": [
+
+      "Stubble Burning",
+
+      "Electric Vehicles",
+
+      "Coal fired Thermal Power Plants",
+
+      "Treatment of Industrial Wastewater"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option c is correct:</b> Flue Gas Desulphurisation units presently are used in all coal-fired thermal power plants. Flue gas is emitted as a byproduct of combustion of fossil fuels. It mainly contains pollutants such as carbon dioxide (CO2), sulphur dioxide (SO2), nitrogen oxides, particulate matter, etc. Flue Gas Desulphurisation units specifically target the SO2 emissions in flue gas. SO2 is an acidic gas, and is usually treated with a basic compound in the FGD unit to neutralise the pollutant.<br><br>Recently, a committee chaired by the Principal Scientific advisor has recommended that India needs to move away from decade old policy of mandating Flue gas desulphurization units in coal fired thermal power plants."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Various Environmental Issues",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> Electrostatic Precipitators are used in the cement manufacturing industry to remove particulate matter from a gas stream.<br><b>Statement II:</b> Electrostatic Precipitator removes the particles by passing the dirty gas stream through fabric bags that trap the particles.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct and Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> Electric precipitators, also referred to as electrostatic precipitators, play a crucial role in mitigating pollution from cement manufacturing plants. It removes particulate matter from a gas stream by applying an electrical charge to the particles and then collecting them on a grounded surface. They are used in a variety of industries, including power generation and steel production.<br><br><b>Statement II is not correct:</b> Electrostatic precipitators remove particulate matter by imparting an electrical charge to dust particles using high-voltage electrodes. These charged particles are then attracted to and collected on oppositely charged metal plates, from which they are periodically removed. Bag filters, on the other hand, remove dust by physically filtering polluted gas through porous fabric bags. Dust particles are trapped on the fabric surface, while clean air passes through."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Various Environmental Issues",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> In Financial Year 2024-25, India utilized more than 95% of the fly ash generated in the country.<br><b>Statement II:</b> India is committed to the principles of a circular economy and environmental sustainability.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+
+      "Statement I is correct but Statement II is not correct",
+
+      "Statement I is not correct but Statement II is correct"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> In 2024–25, India generated 340.11 million tonnes of fly ash, of which 332.63 million tonnes were successfully utilized i.e. around 97% of fly ash has been utilized. During the year 2024-25, 32% of the total fly ash generated was used in the construction of roads and flyovers, followed by 27% utilized within the cement industry, and 14% in the manufacturing of bricks and tiles. Backfilling and mine filling accounted for approximately 11% and 10%, respectively. The agricultural sector and ready-mix concrete (RMC) recorded usage, ranging between 1% and 2%.<br><br><b>Statement II is correct:</b> India is committed to the principles of a circular economy, cost efficiency, and environmental sustainability. The Government of India has elaborated upon the significance of the 3R (Reduce, Reuse, and Recycle) principles and the Circular Economy in fostering sustainable development and resource efficiency.<br><br><b>Statement II explains Statement I:</b> India’s is committed towards environmental sustainability and circular economy because of which it has come up with a policy mandating the use of fly ash in cement manufacturing, road construction, mine backfilling, brick production, and other building materials."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following statements with reference to Bisphenol-A (BPA):<br>I. It is used in the thermal coating of thermal papers i.e. papers on which receipts are printed.<br>II. In humans, it is considered an endocrine disruptor which interferes with hormone regulation.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> Bisphenol A is found in various products including shatterproof windows, eyewear, water bottles, and epoxy resins that coat some metal food cans, bottle tops, and water supply pipes. Bisphenol A (BPA) is used in the thermal coating of thermal paper. The shiny, plastic paper that is used for receipts is called thermal paper and it uses the application of heat to print characters.<br><br><b>Statement II is correct:</b> Bisphenol B is used as the substitute for Bisphenol A and is used in the manufacturing of food-safe plastics and resins. However, both BPA and BPB are endocrine disruptors, meaning they can interfere with the hormone system in humans. BPA mimics the hormone estrogen, which can disrupt normal hormone signalling in the body, potentially affecting heart function. It can increase blood pressure, cause irregular heartbeats or arrhythmia and change the structure of the heart."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Various Environmental Issues",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> Activated carbon is a good and an attractive tool to remove pollutants from effluent streams and to remediate contaminants from various industries.<br><b>Statement II:</b> Activated carbon exhibits a large surface area and a strong potential for adsorbing heavy metals.<br><b>Statement III:</b> Activated carbon can be easily synthesized from environmental wastes with high carbon content.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+
+      "Only one of the Statements II and III is correct and that explains Statement I",
+
+      "Neither Statement II nor Statement III is correct"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Activated carbon is a highly porous material that has an exceptionally large surface area, making it an effective adsorbent. It is widely used to remove pollutants from water and air, particularly in industries dealing with heavy metal contamination, wastewater treatment, and chemical processes.<br><br><b>Statement I is correct:</b> Activated carbon is widely recognized for its effectiveness in environmental applications, particularly in the treatment of industrial effluents and polluted water or air. It functions primarily through adsorption, a process in which contaminants adhere to the surface of the carbon material. Due to its high efficiency in removing a wide range of pollutants—including dyes, organic compounds, and heavy metals—activated carbon is extensively used in sectors such as chemical manufacturing, textiles, food processing, and water treatment.<br><br><b>Statement II is correct and explains Statement I:</b> One of the most important physical properties of activated carbon is its extremely large surface area. This large surface area is due to its highly porous structure. This large surface area provides numerous active sites for adsorption. This makes it especially useful in removing toxic metals from industrial effluents and contaminated water sources.<br><br><b>Statement III is correct and explains Statement I:</b> Activated carbon can be produced from a wide range of carbon-rich waste materials, including agricultural by-products like coconut shells, rice husks, sawdust, sugarcane bagasse, and nutshells. These materials are subjected to carbonization and activation processes to create the porous structure necessary for adsorption. This ease of synthesis from waste makes activated carbon accessible and attractive, especially in developing countries and for large-scale industrial applications — thus supporting and explaining the attractiveness mentioned in Statement I.<br><br>Therefore, both Statement II and Statement III are correct and both of them explain Statement I."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Impact Assessment",
+
+    "question": "With reference to the mechanism of Environmental Impact Assessment (EIA) of proposed projects in India, consider the following statements:<br><b>Statement I:</b> India notified its first Environmental Impact Assessment (EIA) norms in 1994, under which developmental projects required a prior environmental clearance.<br><b>Statement II:</b> In 1994, India became a party to the Convention on Biological Diversity (CBD).<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+
+      "Statement I is correct but Statement II is not correct",
+
+      "Statement I is not correct but Statement II is correct"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Environmental Impact Assessment (EIA) is a systematic process used to evaluate the potential environmental effects of a proposed project or development before it is approved. EIA systematically examines both beneficial and adverse consequences of the project and ensures that these effects are taken into account during project design.<br><br><b>Statement I is correct:</b> The Environmental Impact Assessment (EIA) was first introduced as a regulatory requirement in 1994. On 27 January 1994, the Union Ministry of Environment and Forests (MEF), under the Environmental (Protection) Act 1986, promulgated an EIA notification making Environmental Clearance (EC) mandatory. It set in place a legal framework for regulating activities that access, utilise, and affect (pollute) natural resources. Every development project has been required to go through the EIA process for obtaining prior environmental clearance ever since.<br><br><b>Statement II is correct but does not explain Statement I:</b> India became a party to the Convention on Biological Diversity (CBD) on 18th February 1994. The Convention on Biological Diversity (CBD) was negotiated and signed by nations at the Earth Summit at Rio de Janeiro in Brazil on June 5, 1992. The convention came into force on December 29, 1993. There are three main objectives of the convention: the conservation of biological diversity; the sustainable use of the components of biological diversity; and the fair and equitable sharing of the benefits arising out of the utilization of genetic resources. The two statements don't have any relation to each other."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Impact Assessment",
+
+    "question": "Arrange the following steps in the correct sequential order generally followed during the process of Environmental Impact Assessment (EIA):<br>I. Scoping<br>II. Screening<br>III. Public Hearing<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I-III-II",
+
+      "II-I-III",
+
+      "III-II-I",
+
+      "II-III-I"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The environment impact assessment consists of various stages for determining the overall effect of the project. EIA goes through various stages. In sequential order, these stages include:<br><br><b>1. Screening (Option II):</b> which is the first stage and determines whether a project requires an EIA and the level of assessment required.<br><br><b>2. Scoping (Option I):</b> is the second stage of EIA. Scoping identifies the key issues and impacts that should be further investigated. This stage also defines the boundary and time limit of the study. It involves engaging in discussions with the stakeholders, communities, and native people.<br><br><b>3. Public Hearing/Consultation (Option III):</b> is a key stage in the EIA process that provides space for affected local communities and other stakeholders to express their concerns regarding the project. The existing notification mandates public consultation once in the entire assessment process of a project i.e. after the draft EIA report is prepared.<br><br>Therefore, the correct order is II-I-III."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Various Environmental Issues",
+
+    "question": "Which one of the following periodically issues the ‘Plastic Overshoot Day’ Report?",
+
+    "options": [
+
+      "The Nature Conservancy",
+
+      "EA - Earth Action",
+
+      "Greenpeace International",
+
+      "Friends of the Earth"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option b is correct:</b> The Plastic Overshoot Day (POD) Report is released by Swiss non-profit EA - Earth Action.<br><br>Plastic Overshoot Day is the date on which the plastic waste generated across the world exceeds the world’s capacity to manage it. It was August 28 in 2021, August 30 in 2022, September 4 in 2023 and September 5 in 2024. In 2025, the global Plastic Overshoot Day occurred on September 5. Each country has its own ‘Plastic Overshoot Day’, determined by the amount of plastic waste generated and the country’s capacity to manage it."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Which of the following are the reasons/ factors for exposure to benzene pollution?<br>1. Automobile exhaust<br>2. Tobacco smoke<br>3. Wood burning<br>4. Using varnished wooden furniture<br>5. Using products made of polyurethane<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1, 2 and 3 only",
+
+      "2 and 4 only",
+
+      "1, 3 and 4 only",
+
+      "1, 2, 3, 4 and 5"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Benzene is a colourless liquid with a sweet Odour. It evaporates into the air very quickly and dissolves slightly in water. It is highly flammable. Human exposure to benzene has been associated with a range of acute and long-term adverse health effects and diseases, including cancer and aplastic anemia.<br><br><b>Option 1 is correct:</b> Automobile exhaust accounts for the largest source of benzene in the general environment.<br><br><b>Option 2 is correct:</b> Active and passive exposure to tobacco smoke is also a significant source of exposure. Benzene is highly volatile, and exposure occurs mostly through inhalation.<br><br><b>Option 3 is correct:</b> Benzene is one of the main organic compounds emitted by wood-burning, that has the potential to cause cancer.<br><br><b>Options 4 and 5 are incorrect:</b> Automobile exhaust, tobacco smoke, and wood burning are all sources of benzene pollution. Varnished wooden furniture and products made of polyurethane may also contain benzene, but they are not as significant sources of exposure as the other three sources."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Which of the following pollutants are included under National Ambient Air Quality Standards (NAAQS) by the Central Pollution Control Board (CPCB)?<br>I. Carbon monoxide (CO)<br>II. Ozone (O3)<br>III. Carbon dioxide (CO2)<br>IV. Ammonia (NH3)<br>V. Nitrous Oxide(N2O)<br>VI. Arsenic (As)<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I, III, V and VI only",
+
+      "I, II, IV and VI only",
+
+      "II, III, IV and V only",
+
+      "I, II, IV, V and VI"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Under the Air (Prevention and Control of Pollution) Act, 1981, the Central Pollution Control Board (CPCB) notified the National Ambient Air Quality Standards (NAAQS) in 2009. The standards monitor 12 health-based pollutants such as Sulphur dioxide (SO₂), Nitrogen dioxide (NO₂), Particulate Matter (PM₁₀), Particulate Matter (PM₂.₅), Ozone (O₃), Carbon monoxide (CO), Lead (Pb), Ammonia (NH₃), Benzene (C₆H₆), Benzo(a)pyrene [BaP] (particulate phase), Arsenic (As), and Nickel (Ni).<br><br><b>Option I is correct:</b> Carbon monoxide (CO) is highly toxic and reduces the oxygen-carrying capacity of blood. It is included under NAAQS.<br><br><b>Option II is correct:</b> Ozone (O₃) is included. Ground-level ozone is a secondary air pollutant that causes respiratory problems.<br><br><b>Option III is incorrect:</b> Carbon dioxide (CO₂), though a greenhouse gas, is not a local ambient air pollutant and is not included under NAAQS.<br><br><b>Option IV is correct:</b> Ammonia (NH₃) is included as one of the pollutants under NAAQS.<br><br><b>Option V is incorrect:</b> Nitrogen dioxide (NO₂) is regulated under the NAAQS, not nitrous oxide (N₂O).<br><br><b>Option VI is correct:</b> Arsenic (As) is included as a hazardous pollutant under the NAAQS. Chronic exposure through air can cause severe health effects."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Geography plays a major role in Delhi's air pollution. In this context which of the following factors contribute to Delhi's air pollution especially during winters?<br>I. The city lies in a basin-like formation surrounded by Aravalli hills and other natural barriers.<br>II. Reduced wind speed during the post-monsoon period.<br>III. Frequent occurrence of temperature inversion during winter months.<br>IV. Southward shift of the Inter-Tropical Convergence Zone (ITCZ).<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I, II and III only",
+
+      "II and IV only",
+
+      "I and III only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>According to the 2024 World Air Quality Report published by IQAir, India ranked as the fifth most polluted country, and New Delhi was ranked as the most polluted capital city.<br><br><b>Option I is correct:</b> Delhi lies in the north-western Indo-Gangetic Plains, with the Himalayas to the north and the Aravalli range to the south-west. The Himalayas restrict large-scale atmospheric ventilation, while the low, discontinuous Aravallis provide limited wind channelization. This physiographic setting reduces the horizontal dispersion of air pollutants. As a result, pollutants tend to stagnate over Delhi, particularly when combined with unfavorable winter conditions.<br><br><b>Option II is correct:</b> Post-monsoon air in the Delhi region is characterised by lower humidity, decreasing temperatures, and reduced wind speeds. These conditions lower the atmospheric mixing height, causing pollutants to remain trapped near the surface and leading to increased air pollution.<br><br><b>Option III is correct:</b> During Delhi’s winter months, a meteorological phenomenon known as temperature inversion occurs frequently. Under this condition, warmer air overlies a cooler air layer near the surface, preventing the normal upward movement of air. This warm layer acts like a lid, trapping pollutants close to the ground. As a result, the vertical mixing height is drastically reduced, leading to a high concentration of harmful pollutants within the breathing zone.<br><br><b>Option IV is incorrect:</b> Southward shift of the Inter-Tropical Convergence Zone (ITCZ) has no direct role in Delhi’s winter air pollution dynamics. It plays a major role in determining the monsoon pattern in India."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "With reference to Environment pollution, consider the following effects:<br>I. Reduction in the water-repellent ability of birds’ feathers.<br>II. Increase in the level of dissolved oxygen in the water body.<br>III. Alteration of respiration rates in fishes.<br>IV. Triggering hypothermia in fur-bearing mammals.<br>Which of the above are possible impacts of oil spills on the marine ecosystem?",
+
+    "options": [
+
+      "I, II and III only",
+
+      "I, III and IV only",
+
+      "I and IV only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>An oil spill occurs when petroleum or its derivatives are released into the environment, typically into water bodies, and spread quickly due to the chemical properties of oil. Oil spills have long been one of the most catastrophic environmental disasters, inflicting severe damage on marine and terrestrial ecosystems, local economies, and human livelihoods.<br><br><b>Option I is correct:</b> Oil coating destroys the water-repelling properties of birds’ feathers and the insulating fur of marine mammals (like sea otters).<br><br><b>Option II is incorrect:</b> Oil pollution results in the formation of a layer on the water surface, restricting sunlight penetration and interfering with photosynthesis, which reduces dissolved oxygen levels rather than increasing them.<br><br><b>Option III is correct:</b> When oil sinks in water, it contaminates aquatic ecosystems, affecting fishes. Exposed adult fish show reduced growth, enlarged livers, fin erosion, altered heart and respiration rates, and impaired reproduction.<br><br><b>Option IV is correct:</b> Oil contamination reduces the ability of mammals and birds to maintain body temperature by damaging their insulating fur or feather layers. This loss of protection can lead to hypothermia and drowning among the mammals."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Various Environmental Issues",
+
+    "question": "Consider the following types of electromagnetic radiations:<br>I. X-rays<br>II. Microwaves<br>III. Gamma rays<br>IV. Radio waves<br>How many of the above radiations are considered as examples of Ionizing radiation?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All four"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>There are two types of radiation: non Ionizing radiation and Ionizing radiation.<br><br>Non-ionizing radiation is a lower energy radiation, which means there is a lack of adequate energy to completely remove an electron from an atom or molecule (a process called ionization). Thus, instead of producing charged ions while passing through the matter or organisms, they make those molecules vibrate (a process called excitation), ultimately producing heat. Some examples of it are: visible light, radio waves, microwave etc. <b>Thus option II, and IV are incorrect.</b><br><br>Ionizing radiation is a type of radiation where due to a large amount of energy electrons can be detached from atoms or molecules when interacting with matter as well as organisms. This leads to the production of ions (electrically charged atoms or molecules) and exposure to it can cause cell damage to living tissue and even organ damage. Example: Ultra violet, X-ray, Gamma ray. <b>Thus Option I and III are correct.</b>"
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Various Environmental Issues",
+
+    "question": "At a petroleum refinery site, groundwater has been contaminated with hydrocarbons. To remediate the contamination, air is injected below the water table to increase dissolved oxygen levels and enhance the metabolic activity of indigenous aerobic microorganisms that degrade hydrocarbons. Which of the following bioremediation techniques is being used in the above situation?",
+
+    "options": [
+
+      "Biosparging",
+
+      "Bioaugmentation",
+
+      "Biopiles",
+
+      "Bioreactor"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Bioremediation is the use of microorganisms such as bacteria and fungi to degrade environmental contaminants.<br><br>At the petroleum refinery site, the in-situ technique of <b>biosparging</b> is used, where air is injected under pressure below the water table to increase dissolved oxygen levels, thereby stimulating the metabolic activity of indigenous aerobic microorganisms to degrade hydrocarbons."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "With reference to furnace oil, consider the following statements:<br>1. It is a product of oil refineries.<br>2. Some industries use it to generate power.<br>3. Its use causes sulphur emissions into the environment.<br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "1 and 2 only",
+
+      "2 and 3 only",
+
+      "1 and 3 only",
+
+      "1, 2 and 3"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement 1 is correct:</b> Furnace oil is a dark viscous residual fuel obtained by blending heavier components of crude oil. It is a product of oil refineries.<br><br><b>Statement 2 is correct:</b> Furnace oil uses include heating up homes and fuel trucks to lighting up furnaces, producing steam for industrial uses and for generating electric energy. It is produced from the burnable liquids derived from crude oil and is also called kerosene, home heating oil, diesel fuel or coal oil.<br><br><b>Statement 3 is correct:</b> Sulphur is a natural component in crude oil that is present in gasoline and diesel unless removed. Furnace oil has a high component of sulphur leading to its emission when burned."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "With reference to the National Clean Air Programme (NCAP), consider the following statements:<br>I. Under the programme the target has been set to achieve reduction in PM10 level up to 40% or achievement of national ambient air quality standards by 2025-26 from the levels of 2019-20.<br>II. The PRANA portal is a portal for managing and monitoring the implementation of programme.<br>III. Swachh Vayu Survekshan is an annual survey conducted by the Ministry of Environment, Forest and Climate Change under NCAP.<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and II only",
+
+      "III only",
+
+      "I, II and III",
+
+      "I only"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Air pollution is no longer seen as a seasonal or city-specific problem in India. It is now treated as a structural environmental challenge with serious public health costs. The National Clean Air Programme was launched by the Ministry of Environment, Forest and Climate Change in January 2019 to improve air quality in 130 (non-attainment cities and Million Plus Cities) in 24 States/UTs. It aims to bring uniformity, accountability and long-term planning into air quality management across Indian cities. Its design rests on clear targets, digital monitoring and competitive performance assessment.<br><br><b>Statement I is correct:</b> The National Clean Air Programme was initially framed with a 20–30% reduction target for PM2.5 and PM10 levels as compared to 2017 levels by 2024. This target was later revised upward. The current target is to achieve a reduction in PM10 level up to 40% or achievement of national ambient air quality standards (60 µg/m3) by 2025-26 from the levels of 2019-20.<br><br><b>Statement II is correct:</b> “PRANA” stands for Portal for Regulation of Air-Pollution in Non-Attainment Cities. It is a portal for managing and monitoring the implementation of the National Clean Air Programme (NCAP). It supports tracking the physical as well as financial status of city air action plan implementation and disseminates information on air quality management efforts under NCAP to the public.<br><br><b>Statement III is correct:</b> Swachh Vayu Survekshan is an annual survey conducted by the Ministry of Environment, Forest and Climate Change under the framework of NCAP. It evaluates cities on multiple parameters such as dust control, waste management, emission control and public awareness. The 2025 edition, in which Indore topped the million-plus cities category, reinforces the use of competition as a governance tool to improve air quality outcomes."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Disaster Management",
+
+    "question": "With reference to the institutional framework of Disaster Management in India under the Disaster Management Act, 2005, consider the following pairs:<br><b>Body &mdash; Chairperson</b><br>I. National Disaster Management Authority &mdash; Prime Minister<br>II. National Crisis Management Committee &mdash; Cabinet Secretary<br>III. National Executive Committee &mdash; Union Home Minister<br>How many of the pairs given above are correctly matched?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Disaster management in India functions through a clearly defined institutional hierarchy created under the Disaster Management Act, 2005. Each national-level body has a specific mandate, and the person heading the body reflects its role in policy formulation, coordination or operational monitoring.<br><br><b>Pair I is correct:</b> The National Disaster Management Authority (NDMA) is the apex policy-making body for disaster management in India. It is chaired by the Prime Minister, which underlines the national importance of disaster risk reduction and preparedness. The NDMA is responsible for laying down policies, guidelines and plans for managing all types of disasters, whether natural or man-made.<br><br><b>Pair II is correct:</b> The National Crisis Management Committee (NCMC) is chaired by the Cabinet Secretary, the senior-most civil servant in the Government of India. The NCMC plays a crucial role during crisis situations by overseeing command, control and coordination of disaster response. It issues directions to ministries and departments for immediate and time-bound action. It has been given legal status recently under section 8A of Disaster Management Act, 2005, post 2025 amendment to the principal act.<br><br><b>Pair III is incorrect:</b> The National Executive Committee (NEC) is not chaired by the Union Home Minister. Instead, it is chaired by the Secretary to the Government of India in charge of the Ministry or Department of the Central Government having administrative control of the disaster management (Union Home Secretary). The NEC functions as the coordinating and monitoring body for disaster management and assists the NDMA in implementing policies and national plans."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Disaster Management",
+
+    "question": "In the context of India, droughts over an area for a time period are classified into different types, in this context consider the following pairs:<br><b>Type of Drought &mdash; Meaning</b><br>I. Meteorological Drought &mdash; A period during which the stream flows are inadequate to supply established use of water under a given water management system.<br>II. Agricultural Drought &mdash; It occurs when available soil moisture is inadequate for healthy crop growth and cause extreme stress and wilting.<br>III. Hydrological Drought &mdash; A situation when the seasonal rainfall received over the area is less than 75% of its long term average value.<br>How many of the pairs given above are correctly matched?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Drought is a temporary reduction in water or moisture availability significantly below the normal or expected amount for a specific period. This condition occurs either due to inadequacy of rainfall, or lack of irrigation facilities.<br><br><b>Pair I is incorrect:</b> Meteorological Drought refers to lack of precipitation. It describes a situation where there is a reduction in rainfall for a specific period below a specific amount. According to India Meteorological Department, meteorological drought over an area is defined as a situation when the seasonal rainfall received over the area is less than 75% of its long term average value. The definition provided in Pair I describes Hydrological Drought.<br><br><b>Pair II is correct:</b> Agricultural Drought refers to lack of moisture in the soil where crops grow. It occurs when available soil moisture is inadequate for healthy crop growth and causes extreme stress and wilting.<br><br><b>Pair III is incorrect:</b> Hydrological Drought refers to low levels of water in reservoirs. It involves a reduction in water resources (stream flow, lake level, ground water, underground aquifers) below a specified level for a given period of time. It means low water supply in rivers, lakes, aquifers, and other reservoirs. The definition provided in Pair III describes Meteorological Drought."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following statements regarding mercury pollution:<br>1. Gold mining activity is a source of mercury pollution in the world.<br>2. Coal-based thermal power plants cause mercury pollution.<br>3. There is no known safe level of exposure to mercury.<br>How many of the above statements are correct?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All three",
+
+      "None"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement 1 is correct:</b> Gold mining is poisoning Amazon forests with mercury. To separate the gold, miners mix liquid mercury into the sediment, which forms a coating around the gold.<br><br><b>Statement 2 is correct:</b> Fly ash generated by TPPs is one of the ways mercury is released into the environment. Fly ash is usually disposed of in ash ponds in the form of ash slurry, forming an aquatic ecosystem of its own. Coal-based TPPs are the major source of mercury - the ninth most toxic element found on earth — emissions into the environment. Mercury contributed over 80 per cent of emissions released by the TPPs, according to 2016 estimates by Delhi-based think-tank Centre for Science and Environment.<br><br><b>Statement 3 is incorrect:</b> While high levels of mercury exposure can be harmful, there are established safe levels of exposure to mercury for various scenarios. As per different reports currently, mercury vapour concentrations greater than 0.01 mg/m3 are considered unsafe."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following air pollutants:<br>I. Tropospheric Ozone<br>II. Smog<br>III. Sulphur dioxide<br>How many of the above are primarily secondary pollutants?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Based on their mode of origin, air pollutants are broadly classified into primary pollutants and secondary pollutants:<br>Primary pollutants are those that are emitted directly into the atmosphere from identifiable sources such as vehicles, industries, power plants, biomass burning, and natural events. Secondary pollutants are not released directly from sources. Instead, they are formed in the atmosphere through physical and chemical reactions involving primary pollutants, often under the influence of sunlight, oxygen, moisture, and oxidizing agents.<br><br><b>Option I is correct:</b> Tropospheric Ozone is a secondary pollutant. Ozone present in the troposphere (ground-level ozone) is not emitted directly from any source. It is formed when nitrogen oxides (NOx) and volatile organic compounds (VOCs) react in the presence of sunlight.<br><br><b>Option II is correct:</b> Smog is a secondary pollutant. Smog is a complex mixture of pollutants formed due to atmospheric reactions involving primary pollutants such as nitrogen oxides, and hydrocarbons triggered by sunlight.<br><br><b>Option III is incorrect:</b> Sulphur dioxide (SO2) is a primary pollutant. It is directly released into the atmosphere from sources such as coal-based thermal power plants, oil refineries, metal smelting industries, and volcanic eruptions."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "Consider the following statements regarding India’s greenhouse gas (GHG) emissions:<br>I. Between 1850 and 2019, India’s share of global cumulative greenhouse gas emissions has been less than 5 percent.<br>II. India’s emission intensity of its GDP annually has consistently increased during the period from 2005 till 2020.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> India’s contribution to cumulative global greenhouse gas (GHG) emissions since the beginning of the industrial era has remained below 5 percent (approximately 4%), despite India being home to around 17% of the world’s population between 1850 and 2019. This reflects India’s late industrialisation and comparatively lower per-capita emissions over a long historical period, a key argument used by India in international climate negotiations to emphasise the principle of common but differentiated responsibilities (CBDR).<br><br><b>Statement II is incorrect:</b> India’s emission intensity of GDP (GHG emissions per unit of GDP) has shown a declining trend, not an increasing one, during the period 2005–2020. According to India’s Fourth Biennial Update Report submitted to the UNFCCC, India reduced the emission intensity of its GDP by about 36% between 2005 and 2020. This decline has been driven by improved energy efficiency, expansion of renewable energy, and structural changes in the economy."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Environmental Pollution",
+
+    "question": "This group of chemicals consists of highly toxic, persistent organic pollutants that are not intentionally produced but are formed mainly as unintended by-products during industrial processes such as waste incineration and chlorine bleaching of paper pulp. They have a strong tendency to bioaccumulate and biomagnify in food chains and even at very low concentrations, can cause serious health effects including cancer, reproductive disorders, and immune system impairment.<br>Which one of the following persistent organic pollutants is best described in the above passage?",
+
+    "options": [
+
+      "Aldrin",
+
+      "DDT",
+
+      "Dioxins",
+
+      "Polychlorinated Biphenyls (PCBs)"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The passage clearly describes <b>Dioxins</b>, which are a group of highly toxic, persistent organic pollutants (POPs).<br><br>Dioxins are mainly by-products of industrial processes but can also result from natural processes, such as volcanic eruptions and forest fires. They are unintended or unwanted by-products of many manufacturing processes including smelting, chlorine bleaching of paper pulp, waste incineration, and the manufacture of some herbicides and pesticides. They are highly persistent, lipophilic, and therefore bioaccumulate in fatty tissues and biomagnify along food chains, leading to higher concentrations at higher trophic levels.<br><br><b>Option a is incorrect:</b> Aldrin is an organochlorine insecticide that was intentionally produced and used in agriculture.<br><br><b>Option b is incorrect:</b> DDT is an intentionally manufactured pesticide, historically used for malaria control.<br><br><b>Option d is incorrect:</b> Polychlorinated Biphenyls (PCBs) were intentionally manufactured industrial chemicals used earlier as coolants and insulating fluids."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Various Environmental Issues",
+
+    "question": "With reference to water quality assessment, the Most Probable Number (MPN) parameter is primarily used to indicate:",
+
+    "options": [
+
+      "The presence of toxic heavy metals such as lead and mercury in water",
+
+      "The level of dissolved oxygen available for aquatic organisms",
+
+      "The total quantity of dissolved salts and solids in water",
+
+      "The extent of coliform (faecal) bacterial contamination in water"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>The Most Probable Number (MPN) is a statistical microbiological technique used in water quality assessment to detect and enumerate coliform bacteria, including E. coli, in a water sample.<br><br>Water polluted with organic wastes such as sewage or sludge typically supports a high population of these bacteria, resulting in elevated MPN values. Coliform bacteria are naturally present in the human intestinal tract and are not necessarily harmful by themselves. However, their presence in water serves as a reliable indicator of faecal contamination. Consequently, a high MPN value reflects poor sanitary quality and an increased likelihood of the presence of pathogenic microorganisms."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Various Environmental Issues",
+
+    "question": "Which one of the following introduced the concept of Extended Producer Responsibility for the first time for the collection of e-waste in India?",
+
+    "options": [
+
+      "E-Waste (Management & Handling) Rules, 2011",
+
+      "E-Waste (Management) Rules, 2016",
+
+      "E-waste (Management) Amendment Rules, 2018",
+
+      "E-Waste (Management) Rules, 2022"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>To streamline e-waste management, the government notified Electronic Waste Rules in 2011, based on the concept of Extended Producer Responsibility (EPR).<br><br>Extended producer’s responsibility (EPR) is the main feature of the E-waste (Management and Handling) Rules, 2011, wherein the producer of electrical and electronic equipment has the responsibility of managing such equipment after its ‘end of life’, thus the producer is responsible for their products once the consumer discards them. Under this EPR, producers are also entrusted with the responsibility to finance and organize a system to meet the costs involved in complying with EPR. The later rules strengthened the Extended producer responsibility provisions but it was introduced for the first time in E-Waste (Management & Handling) Rules, 2011."
+
+  }
+
+]
