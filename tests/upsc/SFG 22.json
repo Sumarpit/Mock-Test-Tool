@@ -1,0 +1,1303 @@
+[
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change and its Impact",
+
+    "question": "The World Bank warned that India could become one of the first places where wet-bulb temperatures routinely exceed 35 degree Celsius. Which of the following statements best reflect(s) the implication of the above-said report?<br>I. Peninsular India will most likely suffer from flooding, tropical cyclones and droughts.<br>II. The survival of animals including humans will be affected as shedding of their body heat through perspiration becomes difficult.<br>Select the correct answer using the code given below.",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Wet-bulb temperature is a measure that combines dry air temperature and humidity to indicate the lowest temperature to which air can be cooled by the evaporation of water. In essence, it is a measure of heat-stress conditions on humans. When the wet-bulb temperature reaches 35 &deg;C, it becomes extremely dangerous for humans and animals because sweat can no longer evaporate to cool the body.<br><br><b>Statement I is correct:</b> This statement accurately reflects the broader climatic risks that Peninsular India faces due to climate change, which are interconnected with the rise in wet-bulb temperatures. The region’s tropical location makes it particularly vulnerable to intensified monsoon variability, resulting in both extreme rainfall events causing floods and cyclones, as well as periods of inadequate rainfall leading to droughts.<br><br><b>Statement II is correct:</b> This statement accurately captures the core implication of the World Bank’s warning. When wet-bulb temperatures exceed 35 &deg;C, the human body can no longer effectively cool itself through sweating and evaporation, which are essential to regulate internal body temperature. This creates life-threatening conditions even for healthy individuals, and especially for vulnerable populations."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change and its Impact",
+
+    "question": "With reference to environment, carbon footprint best refers to:",
+
+    "options": [
+
+      "the economic cost associated with each additional ton of carbon dioxide emitted into the atmosphere.",
+
+      "the rise in the global temperature following a doubling of CO2 concentration in the atmosphere compared to pre-industrial levels.",
+
+      "the total amount of greenhouse gases emitted directly or indirectly by an individual or entity.",
+
+      "the capacity of a specific forest area to absorb carbon dioxide from the atmosphere."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option a is incorrect:</b> The social cost of carbon (SCC) measures the economic cost associated with each additional ton of carbon dioxide emitted into the atmosphere.<br><br><b>Option b is incorrect:</b> Climate sensitivity is defined as the global temperature rise following a doubling of CO2 concentration in the atmosphere compared to pre-industrial levels.<br><br><b>Option c is correct:</b> A carbon footprint is the total set of GHGs (Green House Gases) emissions, like Carbon dioxide (CO2), Methane (CH4), Nitrous oxide (N2O) emitted directly or indirectly by an individual or entity. It relates to the amount of GHG we are producing in our day-to-day lives through burning fuels for electricity, heating, transportation etc. It is measured in tCO2eq (Tonnes of CO2 equivalent).<br><br><b>Option d is incorrect:</b> The capacity of a specific forest area to absorb carbon dioxide from the atmosphere is related to the concept of carbon sequestration."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change and its Impact",
+
+    "question": "Consider the following statements:<br>A greenhouse gas’s effect on climate change depends on:<br>I. its lifetime in the atmosphere.<br>II. its concentration in the atmosphere.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>All greenhouse gases do not trap heat with the same intensity. Its effect on climate change depends on - how abundant is the greenhouse gas in the atmosphere?; How long does the greenhouse gas stay in the atmosphere? and how strongly does greenhouse gas impact the atmosphere?<br><br><b>Statement I is correct:</b> A greenhouse gas that remains in the atmosphere for a longer duration continues to trap heat over an extended period of time. Even if emissions stop, such gases keep influencing the climate until they are removed.<br><br><b>Statement II is correct:</b> The warming effect of a greenhouse gas increases when its concentration in the atmosphere rises. A gas present in large amounts can contribute significantly to global warming even if its heat-trapping capacity per molecule is moderate. For example, CO2 despite its low global warming potential has contributed to almost 75% of global warming."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change and its Impact",
+
+    "question": "With reference to natural causes of climate change, which of the following statements best describes the ‘Milankovitch Cycle’, sometimes seen in the news?",
+
+    "options": [
+
+      "The changes in the composition of the gases present in the Earth’s atmosphere caused by volcanic eruptions.",
+
+      "The alteration in the Earth’s orbit around the sun, as well as its angle and axis impacting the distribution and quantity of solar radiation reaching the Earth’s atmosphere.",
+
+      "The periodic fluctuations in solar radiation reaching the Earth’s atmosphere due to periodic changes in the Sun's magnetic field.",
+
+      "The changes in the composition of gases in the atmosphere due to significant release of methane from the melting of permafrost in the Arctic region."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Climate change has both human-induced and natural drivers. Among the natural causes, some operate over very long-time scales and are linked to the geometry of the Earth–Sun system.<br><br><b>Option b is correct:</b> Milankovitch Cycles helps to explain slow climatic shifts observed in Earth’s history. Milankovitch Cycles describe repeating changes in the Earth’s orbital characteristics. These include changes in the shape of Earth’s orbit, variations in the tilt of its rotational axis, and the wobble of that axis over time. These movements influence how solar energy is distributed across the Earth’s surface rather than changing the total energy emitted by the Sun. Because climate depends strongly on how and where solar radiation is received, these orbital variations lead to long-term climatic effects such as glacial and interglacial periods."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Mitigation Strategies",
+
+    "question": "What does India’s “Blue growth” refer to:",
+
+    "options": [
+
+      "Upgradation of Indian Air Force",
+
+      "Discouraging farmers from using pesticides",
+
+      "A long-term strategy support to sustainable growth in the marine and maritime sectors",
+
+      "Socio-economic empowerment of India’s blue collar workers in the unorganized sector"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option c is correct:</b> India’s “Blue Growth” refers to a sustainable development strategy aimed at fostering economic growth in marine and maritime sectors while ensuring the protection of ocean ecosystems and resources. This concept aligns with global initiatives to achieve sustainable development by balancing economic, social, and environmental dimensions in the maritime and marine sectors."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change conventions and organization",
+
+    "question": "With reference to climate governance, the Intergovernmental Panel on Climate Change (IPCC) in 1988 was established by?",
+
+    "options": [
+
+      "United Nations Environment Programme (UNEP) and World Meteorological Organization (WMO)",
+
+      "United Nations Framework Convention on Climate Change (UNFCCC) and United Nations Environment Programme (UNEP)",
+
+      "United Nations Development Programme (UNDP) and Food and Agriculture Organization (FAO)",
+
+      "United Nations Environment Programme (UNEP) and United Nations Development Programme (UNDP)"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Option a is correct:</b> The Intergovernmental Panel on Climate Change was established in 1988 by the United Nations Environment Programme (UNEP) and the World Meteorological Organization (WMO). It was created to provide scientific and objective assessments on climate change so that governments can frame informed climate policies.<br><br>The IPCC is an intergovernmental body with 195 member countries, all of which are members of the United Nations or WMO. The panel does not carry out original research. Instead, it assesses existing scientific literature related to climate change. The main output of the IPCC consists of Assessment Reports, Methodology Reports, and Synthesis Reports."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Ozone depletion",
+
+    "question": "Consider the following statements:<br><b>Statement-I:</b> The Kigali Amendment to the Montreal Protocol on Substances that Deplete the Ozone Layer called for the phasedown of hydrofluorocarbons (HFCs).<br><b>Statement-II:</b> Similar to Hydrochlorofluorocarbons (HCFCs), Hydrofluorocarbons (HFCs) have a high ozone-depleting potential.<br><b>Statement-III:</b> Hydrofluorocarbons (HFCs) have a high global warming potential.<br>Which of the above is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement II and Statement III are correct and both of them explain Statement I.",
+
+      "Both Statement II and Statement III are correct, but only one of them explains Statement I.",
+
+      "Only one of the Statement II and III is correct and that explains Statement I.",
+
+      "Neither Statement II nor Statement III is correct."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> The Kigali Amendment, adopted in 2016, expanded the scope of the Montreal Protocol to include climate protection by targeting hydrofluorocarbons (HFCs). The goal is not an immediate ban but a gradual reduction in their production and consumption.<br><br><b>Statement II is incorrect:</b> Hydrofluorocarbons (HFCs) do not deplete the stratospheric ozone layer. They were introduced as non-ozone depleting alternatives to support the timely phase-out of Chlorofluorocarbons (CFCs) and Hydrochlorofluorocarbons (HCFCs).<br><br><b>Statement III is correct:</b> HFCs are powerful short-lived climate pollutants. Although their average atmospheric lifetime is about 15 years, their heat-trapping ability is extremely high. On a per-unit basis, many HFCs have a global warming potential hundreds to thousands of times greater than carbon dioxide.<br><br><b>Statement III explains statement I:</b> Although HFCs are not ozone-depleting, they were brought under the Montreal Protocol through the Kigali Amendment because of their high global warming potential. The Montreal Protocol had an effective implementation framework, and regulating HFCs under it could deliver quick climate benefits."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change related initiatives",
+
+    "question": "The Carbon Border Adjustment Mechanism (CBAM) by the European Union (EU) aims to address the issue of:",
+
+    "options": [
+
+      "Carbon Leakage",
+
+      "Carbon Sequestration",
+
+      "Carbon Budget",
+
+      "Carbon Farming"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Option a is correct:</b> The Carbon Border Adjustment Mechanism (CBAM) aims to align the cost of carbon emissions for imported goods with that of domestically produced products. As countries/groups like the EU phase out the free allowances they offer their industries under the Emissions Trading System (ETS), they are ushering in CBAM to prevent their consumption from shifting to countries with relatively softer environmental regulations. The justification offered for the introduction of CBAM is that it prevents carbon leakage. Carbon leakage refers to a situation where emission reduction in one country leads to higher emissions in another country.<br><br><b>Option b is incorrect:</b> Carbon sequestration is the process of storing carbon dioxide (CO2) in underground geologic formations.<br><br><b>Option c is incorrect:</b> Carbon budgeting deals with the limits of carbon emissions that the atmosphere can safely absorb.<br><br><b>Option d is incorrect:</b> Carbon Farming is a whole farm approach to optimizing carbon capture on working landscapes."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change related initiatives",
+
+    "question": "With reference to global climate governance, consider the following statements about Climate Investment Funds (CIF):<br>I. The CIF was established in 2015 under the Paris Agreement to help developing countries address climate change.<br>II. In 2024, CIF became the first multilateral climate fund to list bonds on the capital markets.<br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I is incorrect:</b> The Climate Investment Funds (CIF) were established in 2008, much before the Paris Agreement was adopted. They were created as an interim financing mechanism to support developing countries in experimenting with low-carbon and climate-resilient development models. CIF is not a product of the Paris Agreement, although its objectives are consistent with global climate goals.<br><br><b>Statement II is correct:</b> In 2024, Climate Investment Funds became the first multilateral climate fund to list bonds on the capital markets, with the CIF Capital Markets Mechanism (CCMM). This opens new avenues for scaling climate capital and mobilizing private investors."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Ozone depletion",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> The International Day for the Preservation of the Ozone Layer/World Ozone Day is celebrated globally every year on 16 September.<br><b>Statement II:</b> The Vienna Convention for the Protection of the Ozone Layer came into force on 16 September 1985.<br>Which of the above is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> The International Day for the Preservation of the Ozone Layer/World Ozone Day is observed every year on 16 September. The United Nations designated this date and the day is meant to spread awareness about ozone depletion and encourage countries to follow global commitments.<br><br><b>Statement II is incorrect:</b> The Vienna Convention for the Protection of the Ozone Layer was adopted on 22 September 1985, and not on 16 September. The United Nations designated 16 September as World Ozone Day to mark the adoption of the Montreal Protocol on Substances that Deplete the Ozone Layer commemorating the date of the signing of the protocol i.e. 16th September 1987."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Mitigation Strategies",
+
+    "question": "Consider the following materials:<br>1. Agricultural residues<br>2. Corn grain<br>3. Wastewater treatment sludge<br>4. Wood mill waste<br>Which of the above can be used as feedstock for producing Sustainable Aviation Fuel?",
+
+    "options": [
+
+      "1 and 2 only",
+
+      "3 and 4 only",
+
+      "1, 2, 3 and 4",
+
+      "1, 3 and 4 only"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Sustainable aviation fuel (SAF) is a type of fuel that can be used in airplanes to reduce greenhouse gas emissions. It is made from various sources, including Corn grain, Oil seeds, Algae, Agricultural residues, Forestry residues, Wood mill waste, Municipal solid waste streams, Wet wastes (manures, wastewater treatment sludge), Dedicated energy crops etc. Thus, all 1, 2, 3 and 4 are correct options."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Mitigation Strategies",
+
+    "question": "In the context of cloud seeding, substances such as dry ice and silver iodide are primarily used to:",
+
+    "options": [
+
+      "increase atmospheric humidity and initiate cloud formation.",
+
+      "act as ice nuclei particles, a particle on which water freezes.",
+
+      "chemically react with water vapour to directly produce rainfall.",
+
+      "decrease the freezing temperature to expand the rain bearing cloud base."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option b is correct:</b> Cloud seeding is a form of weather modification aimed at enhancing precipitation (rain or snow) from naturally forming clouds by dispersing specific chemical agents into the atmosphere. This process is employed to increase rainfall in drought-prone regions, suppress hail, clear fog, and more recently attempt to mitigate airborne pollution by &quot;washing out&quot; particulates.<br><br>In cloud seeding, the common chemicals like silver iodide, potassium iodide, dry ice (solid CO&amp;#8322;), and sometimes table salt is added which act as cloud condensation nuclei or ice nuclei agent enabling water vapor in clouds to coalesce and form larger droplets or ice crystals."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change related initiatives",
+
+    "question": "Which of the following is the only international treaty providing a legal framework to regulate and enable the safe injection and storage of Carbon Dioxide (CO2) in sub-seabed geological formations for permanent isolation?",
+
+    "options": [
+
+      "London Protocol",
+
+      "MARPOL convention",
+
+      "High Seas treaty",
+
+      "Basel Convention"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Carbon Capture and Storage is recognized as one of several tools available to help reduce atmospheric carbon dioxide levels. As a potential temporary solution, it can play a valuable part in global efforts to mitigate climate change.<br><br><b>Option a is correct:</b> The London Protocol (LP) under International Maritime Organization is the only international treaty providing a legal framework to regulate and enable the safe injection and storage of CO&amp;#8322; in sub-seabed geological formations for permanent isolation.<br><br><b>Option b is incorrect:</b> The MARPOL Convention covers the prevention of pollution of the marine environment by ships.<br><br><b>Option c is incorrect:</b> High Seas Treaty is an international agreement on the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction.<br><br><b>Option d is incorrect:</b> The Basel Convention aims to protect human health and the environment against the adverse effects resulting from the generation, transboundary movements and management of hazardous wastes."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Mitigation Strategies",
+
+    "question": "Syngas obtained from coal gasification technology can be used to produce which of the following?<br>I. Methanol<br>II. Synthetic Natural Gas<br>III. Ammonium Nitrate<br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I, II and III",
+
+      "II and III only",
+
+      "I and II only",
+
+      "I and III only"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Gasification is a thermo-chemical process in which carbon-rich materials such as coal or other fossil fuels are converted into a gaseous fuel by reacting them at high temperatures (above 700 &deg;C) with a controlled supply of oxygen and/or steam, without complete combustion.<br><br>Coal gasification converts coal into syngas, which is primarily composed of carbon monoxide (CO) and hydrogen (H2), with smaller amounts of carbon dioxide (CO2) and methane (CH4) depending on the process. The obtained syngas can be used to produce downstream products like methanol, ammonium nitrate, Synthetic Natural Gas (SNG) and Fertilizers. Thus, options I, II, and III are all correct."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change related initiatives",
+
+    "question": "The concept of Carbon Credit originated under which of the following agreements of United Nations Framework Convention on Climate Change (UNFCCC)?",
+
+    "options": [
+
+      "Kyoto protocol",
+
+      "Paris agreement",
+
+      "Glasgow Climate Pact",
+
+      "Madrid agreement"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>A carbon credit is a tradable certificate or permit that represents the right to emit one tonne of carbon dioxide or its equivalent in other greenhouse gases (tCO&amp;#8322;e).<br><br><b>Option a is correct:</b> The concept of carbon credits originated under the Kyoto Protocol of the United Nations Framework Convention on Climate Change, where market-based mechanisms such as emissions trading and the Clean Development Mechanism were introduced to reduce greenhouse gas emissions cost-effectively."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change related initiatives",
+
+    "question": "In the context of India’s carbon market and emission trading, a 'Rate-based' Emission Trading System, the emission targets are decided based on:",
+
+    "options": [
+
+      "a fixed and absolute cap on the total quantity of CO₂ emissions allowed to an entity during a financial year.",
+
+      "the performance benchmark to limit net emissions relative to output for each entity.",
+
+      "the historical average of the entity’s emissions and reducing it by a fixed annual percentage.",
+
+      "the ratio between the output of an entity with total greenhouse gas emissions to output without any such emission."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Carbon pricing is a policy tool that puts a financial cost on greenhouse gas emissions, primarily carbon dioxide, to incentivize reductions in pollution and promote a shift towards cleaner energy sources. It works by making emitters pay for the environmental damage caused by their pollution, encouraging them to reduce emissions.<br><br><b>Option b is correct:</b> Against the backdrop of increasing global emphasis on carbon markets and emissions trading, India is now actively developing a rate-based Emissions Trading System (ETS) and associated voluntary carbon crediting mechanisms. In a rate-Based Emissions trading system, the emission target is calculated based on a performance benchmark to limit net emissions relative to output. This model offers greater flexibility, particularly for fast-growing economies like India, by accommodating industrial expansion while maintaining climate discipline. The national ETS is set to initially cover nine energy-intensive sectors, including cement, steel, and power generation. Facilities outperforming benchmark emission levels will be issued tradable Credit Certificates."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Mitigation Strategies",
+
+    "question": "With reference to geo engineering technology, consider the following statements:<br><b>Statement I:</b> Cirrus cloud thinning helps in mitigating global warming.<br><b>Statement II:</b> Cirrus cloud thinning increases the reflectivity of existing clouds to incoming short wave solar radiation.<br><b>Statement III:</b> Cirrus cloud thinning reduces the trapping of outgoing long-wave infrared radiation by existing clouds.<br>Which of the above is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement II and Statement III are correct and both of them explain Statement I.",
+
+      "Both Statement II and Statement III are correct, but only one of them explains Statement I.",
+
+      "Only one of the Statement II and III is correct and that explains Statement I.",
+
+      "Neither Statement II nor Statement III is correct."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Geo-engineering techniques aim to manage Earth’s radiation balance by influencing both incoming short-wave solar radiation and outgoing long-wave terrestrial radiation. Cirrus cloud thinning is one such radiation-management approach.<br><br><b>Statements I and III are correct and Statement III explains Statement I:</b> Cirrus clouds are high-altitude clouds that are partially transparent to incoming short-wave solar radiation but effectively absorb and re-emit outgoing long-wave (infrared) radiation from the Earth’s surface. As a result, they generally exert a net warming effect. Cirrus cloud thinning, achieved through the injection of aerosols that modify ice crystal formation, reduces the optical thickness and lifetime of these clouds. This process allows greater escape of outgoing long-wave terrestrial radiation into outer space, thereby reducing heat retention in the lower atmosphere.<br><br><b>Statement II is incorrect:</b> Cirrus Cloud Thinning is a technique which aims at reducing the amount of cirrus clouds in the sky. This would typically reduce the reflection of short wave solar radiation."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Mitigation Strategies",
+
+    "question": "With reference to reports and indices, consider the following pairs:<br><b>Reports/Indices &mdash; Released/Published by</b><br>I. Climate Risk Index &mdash; World Economic Forum (WEF)<br>II. Adaptation Gap Report &mdash; United Nations Environment Programme (UNEP)<br>III. Energy Transition Index &mdash; International Energy Agency(IEA)<br>IV. Climate Change Performance Index &mdash; United Nations Framework Convention on Climate Change (UNFCCC)<br>How many of the pairs given above are correctly matched?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All four"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Pair I is incorrect:</b> The Climate Risk Index (CRI), published by Germanwatch (not by World Economic Forum) since 2006, is among the longest-running annual indices assessing the impacts of climate change.<br><br><b>Pair II is correct:</b> The Adaptation Gap Report is published by the United Nations Environment Programme (UNEP). It presents an annual, science-based assessment of global progress in climate change adaptation.<br><br><b>Pair III is incorrect:</b> The Energy Transition Index (ETI) is released by the World Economic Forum (not by International Energy Agency(IEA)). It benchmarks 118 countries on their current energy system performance and on the readiness of their enabling environment.<br><br><b>Pair IV is incorrect:</b> The Climate Change Performance Index (CCPI) is published by Germanwatch, CAN International, and the New Climate Institute (Not by UNFCCC/UNEP). It is an instrument to enable transparency in national and international climate politics.<br><br>Thus, only one pair is correctly matched."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change and its Impact",
+
+    "question": "Consider the following:<br>I. Energy sector<br>II. Industrial Processes and Product Use<br>III. Waste<br>IV. Agriculture<br><br>Arrange the above sectors in decreasing order based on their total annual emission in terms of Gigagrams CO2e, as per the 4th Biennial Update report submitted by India to UNFCCC?",
+
+    "options": [
+
+      "IV- I- II- III",
+
+      "I- IV-II-III",
+
+      "II-III-I-IV",
+
+      "I- III- II- IV"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>India submitted its 4th Biennial Update Report (BUR-4) to the UNFCCC on 30th December 2024. The report shows a 7.93% reduction in total GHG emissions in 2020 with respect to 2019.<br><br>The energy sector was the largest contributor accounting for 75.66% of emissions. Hence the correct descending order is option b: I- IV-II-III i.e. Energy sector (75.66%) - Agriculture (13.72%) - Industrial Processes and Product Use (8.06%) - Waste (2.56%)."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change related initiatives",
+
+    "question": "With reference to National Mission for Green India, consider the following statements:<br>I. It is one of the eight National Missions under India’s National Action Plan on Climate Change (NAPCC).<br>II. It aims to increase forest and tree cover on 5 million hectares of forest and non-forest lands.<br>III. It seeks to create an additional carbon sink of 5 billion tonnes of CO₂ equivalent by 2030.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "I and III only",
+
+      "II and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is correct:</b> The National Mission for a Green India (also known as Green India Mission) was launched in February 2014 by the government of India and is one of the eight core missions under India’s National Action Plan on Climate Change (NAPCC). Its main objective is to protect, restore, and enhance India’s forest and tree cover, using a blend of climate adaptation and mitigation strategies.<br><br><b>Statement II is correct:</b> The core objectives of the mission was to increase forest and tree cover on 5 million hectares of forest and non-forest land and improve the quality of forest cover on another 5-million hectares.<br><br><b>Statement III is incorrect:</b> As part of its commitments under the Nationally Determined Contribution, the revised National Mission for Green India aims to create an additional carbon sink of 2.5 to 3 billion tonnes (not 5 billion tonnes) of carbon dioxide equivalent through additional forest and tree cover."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Mitigation Strategies",
+
+    "question": "Consider the following activities :<br>1. Spreading finely ground basalt rock on farmlands extensively<br>2. Increasing the alkalinity of oceans by adding lime<br>3. Capturing carbon dioxide released by various industries and pumping into abandoned subterranean mines in the form of carbonated waters.<br><br>How many of the above activities are often considered and discussed for carbon capture and sequestration?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All three",
+
+      "None"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement 1 is correct:</b> Spreading finely ground basalt rock on farmlands extensively. This activity, known as enhanced weathering, involves spreading finely ground basalt rock on farmlands to accelerate the natural process of carbon dioxide capture from the atmosphere. The basalt reacts with carbon dioxide to form stable carbonates, effectively storing carbon.<br><br><b>Statement 2 is correct:</b> Increasing the alkalinity of oceans by adding lime. This approach, known as ocean alkalinity enhancement, involves adding lime (calcium oxide or calcium hydroxide) to the oceans to increase their alkalinity. This process enhances the capacity of the oceans to absorb and store carbon dioxide from the atmosphere, thereby aiding in carbon sequestration.<br><br><b>Statement 3 is correct:</b> Capturing carbon dioxide released by various industries and pumping it into abandoned subterranean mines in the form of carbonated waters. This activity refers to carbon capture and storage (CCS), where carbon dioxide emissions from industrial processes are captured and stored underground. Abandoned subterranean mines can serve as suitable storage sites, with the captured carbon dioxide pumped into these locations in the form of carbonated waters."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change and its Impact",
+
+    "question": "With reference to greenhouse gases, consider the following:<br>I. Chlorofluorocarbons<br>II. Nitrous Oxide<br>III. Sulphur Hexafluoride<br>IV. Nitrogen Trifluoride<br><br>How many of the above greenhouse gases occur naturally in the Earth’s atmosphere?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "None"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Greenhouse gases can be grouped into two broad categories. Some are released through natural Earth processes such as oceans, vegetation and biological activity. Others are entirely human-made, produced through industrial and technological activities. The naturally occurring greenhouse gases are water vapour, carbon dioxide, methane and nitrous oxide.<br><br><b>Option I is incorrect:</b> Chlorofluorocarbons (CFCs) are synthetic chemicals developed for use in refrigeration, aerosols and foam manufacturing. They do not have any natural source in the atmosphere.<br><br><b>Option II is correct:</b> Nitrous oxide is naturally present in the atmosphere as part of the Earth's nitrogen cycle and has a variety of natural sources. Human activities such as agriculture, fuel combustion, wastewater management, and industrial processes are increasing the amount of N2O in the atmosphere.<br><br><b>Option III is incorrect:</b> Sulphur Hexafluoride is an entirely man-made gas. It is used mainly as an insulating gas in electrical equipment.<br><br><b>Option IV is incorrect:</b> Nitrogen Trifluoride is also a synthetic greenhouse gas. It is used in the electronics and semiconductor industry. It has no known natural source."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change conventions and organization",
+
+    "question": "With reference to the Bureau of Energy Efficiency (BEE), consider the following statements:<br>I. It is a statutory body established under the Energy Conservation Act, 2001.<br>II. It implements the Perform, Achieve and Trade (PAT) scheme to reduce specific energy consumption in energy intensive industries.<br>III. It is the nodal authority for accreditation of agencies for the monitoring, verification and certification for Green Hydrogen production projects in India.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "I only",
+
+      "II only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I is correct:</b> The Bureau of Energy Efficiency (BEE), under the Ministry of Power, is a statutory body set up under the Energy Conservation Act, 2001. It assists the government in developing policies and strategies with a thrust on self-regulation and market principles, within the overall framework of the Energy Conservation Act with the primary objective of reducing the energy intensity of the Indian economy.<br><br><b>Statement II is correct:</b> The Bureau of Energy Efficiency (BEE) is implementing the Perform, Achieve and Trade (PAT) scheme, a component under the National Mission for Enhanced Energy Efficiency (NMEEE) in India. The PAT scheme was launched in 2012. It is a regulatory instrument to reduce specific energy consumption in energy intensive industries, with an associated market based mechanism to enhance the cost effectiveness through certification of excess energy saving which can be traded.<br><br><b>Statement III is correct:</b> The Bureau of Energy Efficiency (BEE) is the Nodal Authority for accreditation of agencies for the monitoring, verification and certification for Green Hydrogen production projects. Green Hydrogen is the clean hydrogen generated by using renewable energy such as solar and wind energy instead of fossil fuels."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change and its Impact",
+
+    "question": "With reference to Greenhouse gases (GHGs), consider the following statements:<br><b>Statement I:</b> The Global Warming Potential of Methane is higher than that of carbon dioxide.<br><b>Statement II:</b> Methane has more bonds between atoms than carbon dioxide.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct and Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Since 1990, the Intergovernmental Panel on Climate Change (IPCC) has used the Global Warming Potential (GWP) to allow comparisons of the global warming impacts of different gases. The GWP is a measure of how much energy the emission of 1 ton of a gas will absorb over a given period of time, relative to the emission of 1 ton of carbon dioxide (CO2).<br><br><b>Statement I is correct:</b> Carbon dioxide (CO₂), by definition, is assigned a Global Warming Potential (GWP) of 1 for all time horizons, as it serves as the reference gas. Methane (CH₄) has a much higher GWP, estimated at about 27–30 over a 100-year period. Although methane persists in the atmosphere for only around a decade, far shorter than CO₂, it is far more efficient at absorbing heat.<br><br><b>Statement II is correct and explains Statement I:</b> Greenhouse gases absorb the infrared light when it is radiating back from the Earth’s surface. By “trapping heat” in the atmosphere, it actually means how these gases interact with infrared light. So what happens is that infrared energy gets absorbed by the molecule. Molecules are made of atoms constantly moving around each other, getting closer and further apart and vibrating in three-dimensional space. Now, Methane is a central carbon atom surrounded by four hydrogen atoms. CO2, in contrast, is a central carbon atom with just two oxygen atoms attached to it. As Methane has more bonds between atoms than CO2 thus it can twist and vibrate in more ways that absorb infrared light on its way out of the Earth’s atmosphere. And because there are so many more vibrational and rotational modes associated with the methane molecule—it makes it a much more potent greenhouse gas."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Mitigation Strategies",
+
+    "question": "Which of the following statement(s) is/are correct in respect of the ‘Ecoradicals’?<br>1. They believe that human societies on Earth are moving dangerously closer to the limits of the Earth’s carrying capacity.<br>2. They call for strict population control.<br>3. They stress for a less consumption-oriented and waste-producing way of life.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1 only",
+
+      "2 only",
+
+      "1, 2 and 3",
+
+      "2 and 3 only"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement 1 is correct:</b> ‘Ecoradicals’ believe that human societies on Earth are approaching or exceeding the Earth’s carrying capacity, meaning that they believe human activities are putting a strain on the planet’s resources and ecosystems.<br><br><b>Statement 2 is correct:</b> ‘Ecoradicals’ typically advocate for strict population control measures as a means to alleviate environmental pressures and ensure long-term sustainability.<br><br><b>Statement 3 is correct:</b> ‘Ecoradicals’ emphasize the need for a less consumption-oriented and waste-producing way of life. They promote sustainable practices, resource conservation, and a reduction in wasteful consumption patterns."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Ocean acidification",
+
+    "question": "Consider the following<br>I. Increased uptake of atmospheric carbon dioxide by the oceans<br>II. Increased Ocean upwelling<br>III. Increase in the eutrophication process in the oceans<br><br>How many of the above can promote ocean acidification?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Ocean acidification refers to the decrease in the pH of seawater due to an increase in acidic substances, primarily carbonic acid. This process is driven by chemical interactions between carbon dioxide and seawater, and it can also be influenced by biological and oceanographic processes that increase dissolved carbon dioxide levels.<br><br><b>Option I is correct:</b> The increased uptake of carbon dioxide by the ocean increases the dissolved carbon dioxide. This dissolved carbon dioxide reacts with water to form carbonic acid, which lowers the pH of the ocean.<br><br><b>Option II is correct:</b> Ocean upwelling brings carbon dioxide–rich and naturally acidic deep waters to the surface. This process increases the concentration of dissolved carbon dioxide in surface waters, thereby lowering pH levels.<br><br><b>Option III is correct:</b> Eutrophication leads to excessive growth of algae. When these organisms die and decompose, respiration and decomposition release large amounts of carbon dioxide into the water. This increases acidity, especially in coastal and semi-enclosed waters."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change and its Impact",
+
+    "question": "With reference to Earth’s radiation balance, what does the term ‘Atmospheric Window’ refer to? The portion of wavelength in the electromagnetic spectrum:",
+
+    "options": [
+
+      "in which the atmosphere completely blocks the long wave radiation.",
+
+      "in which the atmosphere completely blocks the incoming solar radiation.",
+
+      "to which the atmosphere remains largely transparent to incoming solar radiation.",
+
+      "to which the atmosphere remains largely transparent to long wave radiation."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>The atmosphere is an effective absorber of radiation emitted by Earth’s surface, it is nevertheless quite transparent to the band of radiation. The gases in the atmosphere (N2, CO2, H2O) absorb minimal energy in these wavelengths. the atmosphere is transparent to radiation between these band of radiation, this band is called the atmospheric window.<br><br>Thus, an atmospheric window is a portion of the electromagnetic spectrum in which the atmosphere remains largely transparent, allowing terrestrial radiation to escape directly into outer space."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change and its Impact",
+
+    "question": "With reference to Nitrous Oxide (N₂O), which of the following statements is/are correct?<br>I. India was the world’s largest emitter of Nitrous Oxide in 2020.<br>II. It is an ozone depleting substance.<br>III. It has a significantly higher global warming potential than carbon dioxide.<br>IV. It has an atmospheric lifetime exceeding one century.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and II only",
+
+      "III only",
+
+      "II, III and IV only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Nitrous oxide (N₂O), commonly known as laughing gas, is a naturally occurring greenhouse gas present in the atmosphere.<br><br><b>Statement I is incorrect:</b> India is the world’s second largest source of nitrous oxide (N2O), a greenhouse gas that heats up the atmosphere far more than carbon dioxide. Nearly 11% of such global man-made emissions in 2020 were from India, topped only by China at 16%.<br><br><b>Statement II is correct:</b> Nitrous oxide is currently the most significant ozone-depleting substance being emitted, risking exposing much of the world’s population to higher UV levels and an increase in skin cancers and cataracts.<br><br><b>Statement III is correct:</b> Nitrous oxide is approximately 270 times more potent than carbon dioxide in terms of warming the planet, and currently responsible for approximately 10% of net global warming since the industrial revolution.<br><br><b>Statement IV is correct:</b> Nitrous Oxide is a long-lived greenhouse gas. Once released into the atmosphere, its estimated atmospheric lifetime of around 114 years, which is well above one century."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change conventions and organization",
+
+    "question": "Consider the following Conventions/Commissions:<br>I. Convention on Biological Diversity (UN Biodiversity)<br>II. Commission on Sustainable Development (CSD)<br>III. United Nations Convention to Combat Desertification (UNCCD)<br>IV. United Nations Framework Convention on Climate Change (UNFCCC)<br>V. Convention on the Conservation of Migratory Species (CMS)<br><br>Which of the above are collectively referred to as ‘the Rio Conventions’?",
+
+    "options": [
+
+      "I, II and IV",
+
+      "I, III and IV",
+
+      "I, II and III",
+
+      "III, IV and V"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>Climate change, desertification and biodiversity loss are heavily interlinked and pose existential challenges to humanity. Governments came together to discuss and address such existential challenges at the 1992 Earth Summit in Rio de Janeiro.<br><br>It was at this Summit where the United Nations Framework Convention on Climate Change (UNFCCC, also known as UN Climate Change) and the Convention on Biological Diversity (CBD), also known as UN Biodiversity) were opened for signature, while the negotiation of the United Nations Convention to Combat Desertification (UNCCD) was called for in the Summit outcome - Agenda 21. This is why these three sister conventions later collectively became known as \"the Rio Conventions\".<br><br><b>Option II is incorrect:</b> The Commission on Sustainable Development was created in 1992 by the United Nations General Assembly as a direct institutional follow-up to the Rio Earth Summit. Its mandate was to oversee and review the implementation of Agenda 21 and other Rio commitments. But it is not part of three sister conventions later collectively became to be known as \"the Rio Conventions\".<br><br><b>Option V is incorrect:</b> The Convention on Migratory Species of Wild Animals, also known as the Bonn Convention, was adopted on 23 June 1979. It is not related to the Rio Conventions."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change conventions and organization",
+
+    "question": "Which of the following statements with regard to the United Nations Environment Programme (UNEP) are correct?<br>I. It was established as an outcome of the Stockholm Conference on the Human Environment, 1972.<br>II. It organises the global campaign known as Earth Hour.<br>III. It publishes reports such as the Emissions Gap Report and the Global Environment Outlook.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and III only",
+
+      "I and II only",
+
+      "II and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Global environmental governance within the United Nations system operates through specialised institutions rather than through treaties alone. The United Nations Environment Programme (UNEP) such institution plays a central coordinating role by shaping environmental policy, generating scientific assessments, and supporting countries in sustainable development.<br><br><b>Statement I is correct:</b> The United Nations Environment Programme was established in 1972 following the Stockholm Conference on the Human Environment. This conference was the first major global meeting focused exclusively on environmental issues and led to the creation of UNEP as the UN’s principal environmental body.<br><br><b>Statement II is incorrect:</b> Earth Hour is organised by the World Wide Fund for Nature (WWF) as a global awareness campaign on climate change and energy conservation. UNEP supports and promotes environmental awareness in many ways, but it does not organise Earth Hour.<br><br><b>Statement III is correct:</b> UNEP regularly releases authoritative global environmental assessments. These include the Emissions Gap Report, which evaluates the gap between pledged and required emission reductions, and the Global Environment Outlook, which provides a comprehensive assessment of the state of the global environment."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Mitigation Strategies",
+
+    "question": "Which one of the following is the exhaust pipe emission from Fuel Cell Electric Vehicles, powered by hydrogen:",
+
+    "options": [
+
+      "Hydrogen peroxide",
+
+      "Hydronium",
+
+      "Oxygen",
+
+      "Water vapour"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>The exhaust air from Fuel Cell Electric Vehicles (FCEVs) powered by hydrogen consists of pure water vapor. FCEVs emit only water vapor, making them locally emission-free and contributing to cleaner air in cities."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change conventions and organization",
+
+    "question": "With reference to Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal, consider the following statements:<br>I. The convention mandates the written consent of the importing country before the transboundary movement of hazardous waste.<br>II. The plastic waste is excluded from the category of hazardous or regulated wastes under the convention.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The Basel Convention which was adopted in 1989 and brought into force in 1992 aims to protect human health and the environment from the adverse effects arising from the transboundary movement and disposal of hazardous wastes.<br><br><b>Statement I is correct:</b> The regulatory system forms the cornerstone of the Basel Convention and is based on the principle of Prior Informed Consent (PIC). Accordingly, before any transboundary movement of hazardous waste can occur, the exporting State must notify the competent authorities of the importing State and any transit States, furnishing detailed information about the proposed shipment. The movement is permitted only after all concerned States provide their written consent, ensuring informed decision-making and environmental protection.<br><br><b>Statement II is incorrect:</b> In 2019, Parties to the Basel Convention adopted amendments to Annexes II, VIII, and IX, bringing the majority of plastic waste and scrap under the Prior Informed Consent (PIC) procedure with effect from 1 January 2021."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Ozone depletion",
+
+    "question": "With reference to Montreal Protocol on Substances that Deplete the Ozone Layer, consider the following statements:<br>I. The Protocol imposes complete ban on the production and consumption of all man-made ozone-depleting substances.<br>II. It is one of the only global environmental treaties to have achieved universal ratification.<br>III. It is primarily funded by the Global Environmental Facility (GEF).<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "II only",
+
+      "I and II",
+
+      "I and III",
+
+      "II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Statement I is incorrect:</b> The Montreal Protocol is a landmark multilateral environmental agreement that regulates the production and consumption of nearly 100 man-made chemicals, collectively known as ozone-depleting substances (ODS). The principal aim of the Montreal Protocol is to protect the ozone layer by taking measures to control total global production and consumption of substances that deplete it (not by complete ban on the production and use), with different timetables for developed and developing countries.<br><br><b>Statement II is correct:</b> Adopted on 16 September 1987, the Montreal Protocol is one of the rare multilateral environmental agreements to achieve universal ratification. On 16 September 2009, both the Montreal Protocol and its parent treaty, the Vienna Convention for the Protection of the Ozone Layer, became the first treaties in United Nations history to be ratified by all UN Member States.<br><br><b>Statement III is incorrect:</b> The Multilateral Fund (MLF) for the implementation of the Montreal Protocol was established in 1991 under Article 10 of the treaty (not funded by Global Environmental facility (GEF)). Its primary objective is to provide financial and technical assistance to developing country Parties whose annual per capita consumption and production of ozone-depleting substances is below 0.3 kg, enabling them to comply with the control and phase-out measures prescribed under the Protocol."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change related initiatives",
+
+    "question": "The ‘New Collective Quantified Goal (NCQG)’ under the United Nations Framework Convention on Climate Change primarily refers to:",
+
+    "options": [
+
+      "a revised global target for greenhouse gas emission reductions beyond 2030.",
+
+      "a binding commitment for achieving global net-zero emissions by 2030.",
+
+      "a common framework for measuring adaptation progress under the Paris Agreement.",
+
+      "a revamped approach to enable scaled-up finance for climate action in developing countries."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>The New Collective Quantified Goal (NCQG) emerged as one of the major outcomes of COP29, the annual climate conference under the United Nations Framework Convention on Climate Change, held in Baku in November 2024.<br><br>The final decision sets an annual climate finance goal of at least USD 300 billion, alongside a call to scale up overall climate finance for developing countries to USD 1.3 trillion per year by 2035. NCQG moves beyond a purely numerical climate finance target and adopts a broader, qualitative approach. In addition to specifying financial figures, it emphasises improved access to climate finance, outlines transparency and review mechanisms to track progress, considers channels of disbursement and types of financial instruments, and seeks an appropriate balance between different climate actions such as mitigation, adaptation, and loss and damage, along with strengthening the enabling environment in developing countries.<br><br>Compared to the earlier USD 100 billion goal set in 2009, the NCQG provides greater detail and ambition, and also sends signals to actors beyond the formal UNFCCC negotiation space, including multilateral development banks and the private sector."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change and its Impact",
+
+    "question": "Which one of the following is most sensitive to environmental change?",
+
+    "options": [
+
+      "Amphibian",
+
+      "Reptile",
+
+      "Mammal",
+
+      "Insect"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Amphibians, such as frogs, toads, and salamanders, are known to be highly sensitive to environmental changes. They have permeable skin, which makes them susceptible to pollutants and changes in water and air quality. Amphibians also have complex life cycles, often relying on both aquatic and terrestrial habitats. Therefore, any disturbances or alterations to their habitats, such as pollution, habitat destruction, climate change, or changes in water availability, can have significant impacts on their survival and population dynamics."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Mitigation Strategies",
+
+    "question": "With reference to carbon sinks, arrange the following countries in descending order based on the total amount of Carbon Dioxide (CO₂) absorbed annually by their forests, as per Food and Agriculture Organization (FAO) estimates:<br>I. China<br>II. Russian Federation<br>III. United States of America<br>IV. India<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "IV – II – III – I",
+
+      "I – IV – III – II",
+
+      "II – I – III – IV",
+
+      "II – IV – I – III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>According to the Food and Agriculture Organization (FAO) of the United Nations report titled “Forest Emissions and Removals: Global, Regional and Country Trends (1990–2025)”, global forests acted as a net carbon sink during the period 2021–2025, removing about 0.8 billion tonnes of CO₂ annually. The report said that during 2021-2025, global forests sequestered 3.6 billion tonnes of CO2 per year on forest land.<br><br>The report provides country-wise estimates of annual CO₂ absorption by forest ecosystems:<br>1. The Russian Federation ranks first due to its vast boreal (taiga) forests, which absorb approximately 1,150 million tonnes of CO₂ per year, the highest in the world.<br>2. China ranks second, absorbing about 840 million tonnes of CO₂ annually, supported by extensive forest cover and large-scale afforestation programmes.<br>3. The United States of America stands third, with forests absorbing around 410 million tonnes of CO₂ per year.<br>4. India, though among the top ten forest carbon sink countries globally, absorbs about 150 million tonnes of CO₂ annually, which is lower than the above countries due to comparatively smaller forest extent.<br><br>Therefore, the correct descending order of countries based on annual CO₂ absorption is: Russian Federation → China → United States of America → India. That is: II – I – III – IV."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Mitigation Strategies",
+
+    "question": "Which one of the following best describes the concept of Ocean Fertilization?",
+
+    "options": [
+
+      "Natural rise in marine primary productivity caused by higher concentrations of dissolved carbon dioxide in seawater.",
+
+      "Large scale removal of the ocean pollutant and marine debris to restore the ocean health.",
+
+      "Deliberate artificial enrichment of ocean waters with nutrients, to enhance phytoplankton growth and carbon sequestration.",
+
+      "Large-scale cultivation of seaweeds and algae in open oceans for commercial biomass and biofuel production."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option c is correct:</b> Ocean Fertilization is a deliberate geo-engineering technique proposed as a climate change mitigation measure.<br><br>It involves the artificial addition of nutrients (micronutrients (e.g., iron) and macronutrients (e.g., nitrogen)) to the upper (sunlit) layers of the ocean to stimulate the growth of phytoplankton in an attempt to draw down atmospheric CO2 levels.<br><br>Enhanced phytoplankton activity increases photosynthetic uptake of atmospheric carbon dioxide, part of which may be transferred to deeper ocean layers through the biological carbon pump, thereby contributing to carbon sequestration.<br><br><b>Option a is incorrect:</b> This describes a natural increase in marine productivity due to higher dissolved CO₂ levels in seawater. Ocean fertilization, however, is not a natural response to CO₂ but a deliberate human intervention involving nutrient addition.<br><br><b>Option b is incorrect:</b> This refers to coastal eutrophication, which is the unintended nutrient enrichment of coastal waters caused by sewage, agricultural runoff, or industrial effluents. It often leads to harmful algal blooms and hypoxia, unlike controlled ocean fertilization proposals.<br><br><b>Option d is incorrect:</b> This relates to marine biomass or seaweed farming, where algae are cultivated for commercial purposes such as food or biofuel. It is distinct from ocean fertilization, which aims at enhancing natural phytoplankton growth in open oceans for carbon sequestration, not biomass harvesting."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change related initiatives",
+
+    "question": "In the context of environment, the expression “Triple Planetary Crisis” is used to collectively highlight which of the following interlinked global challenges?",
+
+    "options": [
+
+      "Climate change, biodiversity loss and pollution",
+
+      "Climate change, desertification and food crisis",
+
+      "Biodiversity loss, pollution and sea-level rise",
+
+      "Climate change, sea-level rise and desertification"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Option a is correct:</b> The term Triple Planetary Crisis is widely used in contemporary environmental discourse, especially by the United Nations Environment Programme (UNEP) and the UNFCCC, to describe the three interconnected global challenges threatening humanity’s survival:<br><br>1. Climate Change: Long-term shifts in temperature and weather patterns caused mainly by human activities such as burning fossil fuels. It leads to rising global temperatures, extreme weather events, and sea-level rise.<br><br>2. Biodiversity Loss: Rapid decline in species and ecosystems due to deforestation, habitat destruction, overexploitation, and climate impacts. This undermines ecological resilience and threatens food security and livelihoods.<br><br>3. Pollution (including waste): Air, water, and soil contamination from industrial, agricultural, and urban sources. Plastic pollution, chemical waste, and hazardous emissions are major contributors to ecosystem degradation and human health risks."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change conventions and organization",
+
+    "question": "Recently, a review committee established under Stockholm Convention proposed for listing Chlorpyrifos in Annex A to the Convention. In this context, if a chemical is added under Annex A of the Stockholm Convention, what would be the most likely consequence?<br><br>The member countries must-",
+
+    "options": [
+
+      "take measures to eliminate the production and use of the chemical except for any specific exemption.",
+
+      "take measures to restrict the production and use of the chemical.",
+
+      "take measures to reduce the unintentional releases of the chemical.",
+
+      "do a risk evaluation based on a review of scientific data in the context of the conditions prevailing with respect to the usage of the chemical."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Option a is correct:</b> The Stockholm Convention is a global treaty aimed at protecting human health and the environment from Persistent Organic Pollutants (POPs)—chemicals that persist in the environment, bioaccumulate in living organisms, undergo long-range transport, and cause adverse health and ecological effects.<br><br>The Stockholm Convention lists chemicals in three annexes:<br>(i) Annex A lists chemicals to be eliminated.<br>(ii) Annex B lists chemicals to be restricted.<br>(iii) Annex C calls for minimizing unintentional production and release of listed chemicals.<br><br>Chlorpyrifos, an insecticide associated with adverse neurodevelopmental effects, reduced birth size, and increased cancer risks upon chronic exposure, was nominated by the European Union in 2021 as a candidate POP. In 2024, the Persistent Organic Pollutants Review Committee (POPRC) recommended its inclusion in Annex A.<br><br>If any chemical is added to Annex A, the most likely consequence would be the global elimination of its production and use, except for any specific exemptions permitted under the Convention. Specific exemptions are available in Annex A and apply only to Parties that have registered for them."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change conventions and organization",
+
+    "question": "With reference to India’s Climate policy, consider the following targets:<br>I. To reduce Emissions Intensity of its GDP by 33-35 percent by 2030, from 2005 level.<br>II. To achieve about 50 percent cumulative electric power installed capacity from non-fossil fuel-based energy resources by 2030.<br>III. Achieving a net-zero emissions target by 2050.<br>IV. To create an additional carbon sink of 2.5 to 3 billion tonnes of CO2 equivalent through additional forest and tree cover by 2030.<br>V. Mobilizing at least USD 100 billion in climate finance by 2050.<br><br>How many of the above are included under India's updated Intended Nationally Determined Contribution (INDCs) under the Paris Agreement?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All five"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>In response to the growing threat of climate change and rising global temperatures, the United Nations Framework Convention on Climate Change requires Parties to submit Nationally Determined Contributions (NDCs) under the Paris Agreement to limit greenhouse gas emissions. India submitted its first NDC in 2015 and updated its commitments in 2022.<br><br><b>Option I is incorrect:</b> India’s INDC pledged to reduce the emissions intensity of its GDP by 33–35% from 2005 levels by 2030 in 2015. This target was later enhanced in the updated NDC (2022), raising the reduction goal to 45%.<br><br><b>Option II is correct:</b> India’s INDC set a target of achieving about 40% cumulative electric power installed capacity from non-fossil fuel-based energy sources by 2030 in 2015, with support from technology transfer and international climate finance, including the Green Climate Fund and it was later enhanced in the updated NDC (2022) to 50% by 2030.<br><br><b>Option III is incorrect:</b> At COP26 in November 2021, India announced its target of achieving net zero emissions by 2070 (not in 2050). However, this pledge is not part of India’s INDCs.<br><br><b>Option IV is correct:</b> India’s INDC committed to creating an additional carbon sink of 2.5 to 3 billion tonnes of CO₂ equivalent by 2030 through enhanced forest and tree cover in 2015 and the target remains unchanged in 2022 updated INDC.<br><br><b>Option V is incorrect:</b> Mobilising at least USD 100 billion in climate finance by 2050 is not a specific target under India’s INDC."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Mitigation Strategies",
+
+    "question": "With reference to green hydrogen, consider the following statements:<br>1. It can be used directly as a fuel for internal combustion.<br>2. It can be blended with natural gas and used as fuel for heat or power generation.<br>3. It can be used in the hydrogen fuel cell to run vehicles.<br><br>How many of the above statements are correct?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All three",
+
+      "None"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement 1 is correct:</b> Both hydrogen internal combustion engines and hydrogen fuel cells can power vehicles using hydrogen, a zero-carbon fuel. Hydrogen engines burn hydrogen in an internal combustion engine, in just the same way gasoline is used in an engine.<br><br><b>Statement 2 is correct:</b> Hydrogen produced through clean pathways can be injected into natural gas pipelines, and the resulting blends can be used to generate heat and power with lower emissions than using natural gas alone. Blend limits depend on the design and condition of current pipeline materials, of pipeline infrastructure equipment, and of applications that utilize natural gas.<br><br><b>Statement 3 is correct:</b> Fuel cell electric vehicles (FCEVs) are powered by hydrogen. They are more efficient than conventional internal combustion engine vehicles and produce no harmful tailpipe emissions—they only emit water vapor and warm air. In contrast to other electric vehicles, FCEVs produce electricity using a fuel cell powered by hydrogen, rather than drawing electricity from only a battery."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change conventions and organization",
+
+    "question": "Recently seen in the news, The Belém Action Mechanism for a Global Just Transition (BAM), an institutional arrangement under:",
+
+    "options": [
+
+      "United Nations Development Programme (UNDP)",
+
+      "United Nations Framework Convention on Climate Change (UNFCCC)",
+
+      "United Nations Environment Programme (UNEP)",
+
+      "World Meteorological Organization (WMO)"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option b is correct:</b> The 30th Conference of the Parties to the United Nations Framework Convention on Climate Change (UNFCCC COP30) adopted a new Just Transition Mechanism (JTM), also called the Belém Action Mechanism (BAM). COP30 took place in Belém, Brazil.<br><br>The proposed Belém Action Mechanism for a Global Just Transition (BAM), an institutional arrangement under the UNFCCC, will help address the fragmentation of global efforts for just transition to a low-carbon economy. The mechanism performs three key functions: coordinating existing initiatives and addressing gaps in line with the Paris Agreement, sharing knowledge and best practices, and providing direct support to countries in the Global South through mobilizing finance and transferring technology."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change related initiatives",
+
+    "question": "Consider the following statements regarding the Global Methane Status Report 2025:<br>I. The report was prepared and released by the Global Methane Alliance.<br>II. The report indicates that India is the world’s largest emitter of methane.<br>III. It highlights that the target under Global Methane Pledge of cutting methane emissions by 30% from 2020 levels has been already achieved.<br><br>Which of the above-given statements is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II and III only",
+
+      "II only",
+
+      "None of the above"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I is incorrect:</b> The Global Methane Status Report 2025 was released by the UN Environment Programme (UNEP) and the Climate and Clean Air Coalition (CCAC). It presents the most comprehensive picture yet of global methane trends, policies, and opportunities.<br><br><b>Statement II is incorrect:</b> India is the world’s third-largest methane emitter after China (1) and USA (2). According to the report, India emitted around 31 million tonnes of methane in 2020, accounting for 9% of global methane emissions. Agriculture dominates its methane profile, contributing 12% of global agricultural methane.<br><br><b>Statement III is incorrect:</b> According to the report, methane emissions—responsible for nearly one-third of today’s global warming—are still rising. The report warns that global methane levels are still rising despite improved projections for 2030. The Global Methane Status Report shows that while progress has been made since the Global Methane Pledge was launched in 2021, the world remains far from meeting its target of cutting methane emissions by 30% from 2020 levels by the end of this decade."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change and its Impact",
+
+    "question": "Some recent reports indicate that Europe is warming twice as fast as compared to the world as a whole. Which of the following is the most prominent reason for it?",
+
+    "options": [
+
+      "The decrease in the absorption rate of Carbon Dioxide (CO₂) by the forests in the region.",
+
+      "The melting of Arctic ice is resulting in the decline in the region’s surface albedo.",
+
+      "There has been a substantial rise in aerosols emissions in Europe.",
+
+      "The northern European region has experienced an increased volcanic activity in the recent past."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>According to the 2024 European State of the Climate Report, Europe has warmed about twice as much as the world as a whole.<br><br><b>Option a is incorrect:</b> The decrease in the absorption rate of Carbon Dioxide (CO₂) by the forests in the region is an incorrect statement and is not the reason behind faster warming of Europe.<br><br><b>Option b is correct:</b> The greater warming of Europe is due to the fact that a substantial part of the continent lies in the Arctic region, and the warming of the Arctic region is much more pronounced than anywhere else in the world. An important reason for higher warming in the Arctic is the albedo effect (Albedo is a measure of the percentage of sunlight that a surface reflects back). Melting of ice in the arctic has resulted in reduction of albedo, leading to greater warming. The ice cover in the Arctic is melting, because of which more land or water is getting exposed to the Sun. This greater warming in the Arctic region pushes the average warming for Europe.<br><br><b>Option c is incorrect:</b> Another factor contributing to higher warming rate in Europe is the reduction in aerosols emissions, not a rise. Aerosols help in cloud formation and clouds reflect sunlight. Europe having relatively cleaner air and less emission of aerosols contributes to a faster warming.<br><br><b>Option d is incorrect:</b> Increased volcanic activity does not explain why Europe is warming twice as fast as compared to the world as a whole."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Mitigation Strategies",
+
+    "question": "The principle of ‘common but differentiated responsibilities and respective capabilities’, often talked about in media, refers to-",
+
+    "options": [
+
+      "WHO’s COVID-19 Global Vaccination Drive",
+
+      "Contributions to the International Monetary Fund",
+
+      "Reduction of greenhouse gas emissions",
+
+      "Contributions to the United Nations Peacekeeping Operations"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Option c is correct:</b> “Common but differentiated responsibilities and respective capabilities” (CBDR-RC) is an international environmental law principle that acknowledges unequal responsibilities in protecting the environment.<br><br>Developed countries bear a greater responsibility due to their historical emissions, while developing countries have a responsibility to reduce greenhouse gas emissions while ensuring their right to development."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change and its Impact",
+
+    "question": "Consider the following statements with reference to the Green Rating for Integrated Habitat Assessment (GRIHA):<br>I. It is a joint venture of The Energy and Resources Institute (TERI) and the Ministry of New and Renewable Energy (MNRE).<br>II. GRIHA certification in India recently has been made mandatory for all residential buildings and complexes for RERA (Real Estate Regulatory Authority) certification.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>The Green Rating for Integrated Habitat Assessment (GRIHA) is a national rating system for Green Buildings developed by TERI. It evaluates the environmental performance of a building holistically over its entire life cycle.<br><br><b>Statement I is correct:</b> The Green Rating for Integrated Habitat Assessment (GRIHA) was founded by The Energy and Resources Institute (TERI) with support from the Ministry of New and Renewable Energy, Government of India along with a handful of experts in the sustainability of the built environment from across the country.<br><br><b>Statement II is incorrect:</b> The Union Government has made it mandatory for all new buildings of the public sector undertakings and the government to seek new green rating norms in an effort to ensure energy efficiency and tackle climate change threats. Though no such announcement has been made for mandatory GRIHA certification for all residential buildings and complexes for RERA certification."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change related initiatives",
+
+    "question": "Consider the following statements about the Tropical Forests Forever Facility (TFFF):<br>I. It was launched at the 21st Conference of the Parties (COP-21) to the UNFCCC as part of the Paris Agreement framework.<br>II. It acts as a global financing mechanism to provide long-term, performance-linked incentives to participating countries for the conservation of tropical forests.<br>III. India is a founding member of the TFFF.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II only",
+
+      "I and III only",
+
+      "II and III only"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I is incorrect:</b> The Tropical Forests Forever Facility (TFFF) was not launched at the 21st Conference of the Parties (COP-21) to the UNFCCC in 2015. The TFFF was first proposed by Brazil during the COP28 Climate Summit (2023). However, it was formally launched on the sidelines of the 30th Conference of the Parties (COP-30) Leader’s Summit, held in Belém, Brazil in 2025.<br><br><b>Statement II is correct:</b> The TFFF is a blended finance facility aimed at mobilising long-term, performance-based funding to tropical forest countries for forest conservation and restoration, rewarding countries who have curbed deforestation and regenerated tropical forest cover. The payments to countries will be based on satellite remote sensing data that track forest canopy cover annually.<br><br><b>Statement III is incorrect:</b> India joined TFFF as an observer at COP-30, showing support for tropical forest conservation. However, it is not a founding member or part of the core group that designed the facility."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change related initiatives",
+
+    "question": "Which of the following statements are correct with reference to the National Adaptation Fund for Climate Change (NAFCC)?<br>I. It provides 100 per cent grant to the State Governments for implementing climate change adaptation projects.<br>II. National Bank for Agriculture and Rural Development (NABARD) is the National Implementing Entity for NAFCC.<br>III. Projects related to forestry and tourism are not eligible for funding under the scheme.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I only",
+
+      "I and II",
+
+      "II and III",
+
+      "II only"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Statement I is correct:</b> The National Action Plan on Climate Change (NAPCC) is a flagship Scheme of Government of India, which provides 100 per cent grant to the State Governments for implementing climate change adaptation projects. The Scheme is designed to fulfill the objectives of the National Action Plan on Climate Change (NAPCC) and to operationalize the State Action Plans on Climate Change (SAPCCs).<br><br><b>Statement II is correct:</b> The National Bank for Agriculture and Rural Development (NABARD) is the National Implementing Entity for NAFCC and project funds are released to NABARD in installments based on the performance of the projects and NAFCC guidelines.<br><br><b>Statement III is incorrect:</b> The projects under NAFCC prioritizes the needs that build climate resilience in the areas identified under the SAPCC and the relevant Missions under NAPCC. The projects related to adaptation in sectors like agriculture, animal husbandry, forestry, tourism etc. are eligible for funding under NAFCC."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change related initiatives",
+
+    "question": "With reference to climate change, the Keeling curve represents the graphical representation of:",
+
+    "options": [
+
+      "the concentration of the total greenhouse gases in the Earth’s atmosphere.",
+
+      "the concentration of carbon dioxide in the Earth' s atmosphere.",
+
+      "the concentration of ozone depleting substances in the Earth’s atmosphere.",
+
+      "the concentration of methane in the Earth’s atmosphere"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Option b is correct:</b> The Keeling Curve is a graph representing the concentration of carbon dioxide (CO2) in Earth’s atmosphere. The curve is named after Dr. Charles David Keeling, who started measuring CO2 levels at the Mauna Loa Observatory in Hawaii in 1958.<br><br>It provides evidence for the increase in atmospheric CO2 levels due to human activities such as the burning of fossil fuels, deforestation, and other industrial processes. As per the recent Keeling Curve, the carbon dioxide (CO2) levels have surged in 2024, driven by wildfires and anthropogenic emissions."
+
+  },
+
+  {
+
+    "section": "Environment",
+
+    "topic": "Climate Change related initiatives",
+
+    "question": "The Santiago Network, established under the United Nations Framework Convention on Climate Change (UNFCCC), primarily aims to:",
+
+    "options": [
+
+      "Establish a global compensation mechanism for climate-related disasters affecting least developed countries.",
+
+      "Coordinate international carbon markets and non-market mechanisms under the Paris Agreement.",
+
+      "Promote climate-resilient infrastructure investment in vulnerable nations through multilateral development banks.",
+
+      "Provide technical assistance to prevent, minimize, and address climate-related loss and damage in vulnerable developing countries."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Option d is correct:</b> The Santiago Network was established in December 2019 at COP25, Madrid under the United Nations Framework Convention on Climate Change (UNFCCC) as part of the Warsaw International Mechanism for Loss and Damage.<br><br>Its primary purpose is to catalyse and coordinate technical assistance for developing countries that are particularly vulnerable to the adverse impacts of climate change.<br><br>The Network functions as a connective platform; linking vulnerable countries with relevant organisations, experts, knowledge hubs, and institutions to help them prevent, minimise, and address climate-related loss and damage, including impacts from extreme weather events and slow-onset processes such as sea-level rise and desertification."
+
+  }
+
+]
