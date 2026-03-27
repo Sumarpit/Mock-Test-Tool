@@ -117,7 +117,41 @@
 ,
 {"name": "SFG 1", "filename": "SFG 1.json", "path": "tests/upsc/SFG 1.json"}
 ,
+{"name": "SFG 10", "filename": "SFG 10.json", "path": "tests/upsc/SFG 10.json"}
+,
+{"name": "SFG 11", "filename": "SFG 11.json", "path": "tests/upsc/SFG 11.json"}
+,
+{"name": "SFG 12", "filename": "SFG 12.json", "path": "tests/upsc/SFG 12.json"}
+,
+{"name": "SFG 13", "filename": "SFG 13.json", "path": "tests/upsc/SFG 13.json"}
+,
+{"name": "SFG 14", "filename": "SFG 14.json", "path": "tests/upsc/SFG 14.json"}
+,
+{"name": "SFG 15", "filename": "SFG 15.json", "path": "tests/upsc/SFG 15.json"}
+,
+{"name": "SFG 16", "filename": "SFG 16.json", "path": "tests/upsc/SFG 16.json"}
+,
+{"name": "SFG 17", "filename": "SFG 17.json", "path": "tests/upsc/SFG 17.json"}
+,
+{"name": "SFG 18", "filename": "SFG 18.json", "path": "tests/upsc/SFG 18.json"}
+,
+{"name": "SFG 19", "filename": "SFG 19.json", "path": "tests/upsc/SFG 19.json"}
+,
 {"name": "SFG 2", "filename": "SFG 2.json", "path": "tests/upsc/SFG 2.json"}
+,
+{"name": "SFG 20", "filename": "SFG 20.json", "path": "tests/upsc/SFG 20.json"}
+,
+{"name": "SFG 21", "filename": "SFG 21.json", "path": "tests/upsc/SFG 21.json"}
+,
+{"name": "SFG 22", "filename": "SFG 22.json", "path": "tests/upsc/SFG 22.json"}
+,
+{"name": "SFG 23", "filename": "SFG 23.json", "path": "tests/upsc/SFG 23.json"}
+,
+{"name": "SFG 24", "filename": "SFG 24.json", "path": "tests/upsc/SFG 24.json"}
+,
+{"name": "SFG 25", "filename": "SFG 25.json", "path": "tests/upsc/SFG 25.json"}
+,
+{"name": "SFG 27", "filename": "SFG 27.json", "path": "tests/upsc/SFG 27.json"}
 ,
 {"name": "SFG 3", "filename": "SFG 3.json", "path": "tests/upsc/SFG 3.json"}
 ,
@@ -127,7 +161,11 @@
 ,
 {"name": "SFG 6", "filename": "SFG 6.json", "path": "tests/upsc/SFG 6.json"}
 ,
-{"name": "abc", "filename": "abc.json", "path": "tests/upsc/abc.json"}
+{"name": "SFG 7", "filename": "SFG 7.json", "path": "tests/upsc/SFG 7.json"}
+,
+{"name": "SFG 8", "filename": "SFG 8.json", "path": "tests/upsc/SFG 8.json"}
+,
+{"name": "SFG 9", "filename": "SFG 9.json", "path": "tests/upsc/SFG 9.json"}
 ,
 {"name": "center state relations 20q", "filename": "center state relations 20q.json", "path": "tests/upsc/center state relations 20q.json"}
 ,

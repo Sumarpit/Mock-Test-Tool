@@ -1,0 +1,1069 @@
+[
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Images of consonants of the English alphabet (Capitals) are observed in a mirror. What is the number of images of these which do not look like their original shapes?",
+
+    "options": [
+
+      "13",
+
+      "14",
+
+      "15",
+
+      "16"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The consonants in the English alphabet are B, C, D, F, G, H, J, K, L, M, N, P, Q, R, S, T, V, W, X, Y, and Z.<br><br>There is a total of 21 consonants. The alphabets whose original shapes and mirror images remain the same are H, M, T, V, W, X, and Y (total of 7).<br><br>So, the number of images which do not look like their original shapes would be 21 - 7 = 14."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Between 11:00 a.m. Monday and 1:00 p.m. Tuesday, how many times do the hour hand and the minute hand of a clock form a straight line?",
+
+    "options": [
+
+      "47",
+
+      "42",
+
+      "50",
+
+      "49"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>On a clock, the hour hand and minute hand form a straight line in two distinct situations: Coincidences (0 degrees) and Oppositions (180 degrees).<br><br><b>Coincidences:</b> In every 12-hour period, the hands coincide 11 times. The coincidence at 12:00 is counted only once for the entire 12-hour cycle.<br><b>Oppositions:</b> In every 12-hour period, the hands are opposite 11 times. The opposition at 6:00 is common to two adjoining hours and is counted once.<br><br><b>Total Time Interval:</b> From 11:00 a.m. Monday to 1:00 p.m. Tuesday is a total of 26 hours (24 hours + 2 hours).<br><br><b>Number of Coincidences:</b> In 24 hours, they coincide 22 times. In the remaining 2 hours (11:00 a.m. to 1:00 p.m.), they coincide once exactly at 12:00 noon. Total = 23 times.<br><br><b>Number of Oppositions:</b> In 24 hours, they are opposite 22 times. In the remaining 2 hours, they are opposite twice (approx. at 11:27 and 12:33). Total = 24 times.<br><br><b>Total straight-line positions:</b> 23 + 24 = 47 times."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "An athlete starts a morning run from their house. They run 400 m in a straight line, turn left and run 200 m, then turn left again and run 600 m. From there, they turn right and run 300 m, and finally turn right one last time and run 200 m to reach a park. If the park is located exactly South of their house, in which direction did the athlete initially start running?",
+
+    "options": [
+
+      "West",
+
+      "North",
+
+      "South",
+
+      "East"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>To find the initial direction of running, we map out the path traced by the athlete based on the instructions provided:<br><br>1. Run 400 m in a straight line.<br>2. Turn left and run 200 m.<br>3. Turn left again and run 600 m.<br>4. Turn right and run 300 m.<br>5. Turn right and run 200 m to reach the park.<br><br>When we orient the compass such that the final destination (the park) aligns perfectly to the South of the starting point (the house), the initial 400 m straight line must have been directed towards the <b>West</b>."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "A delivery person travels from Point A to Point C, passing through Point B. There are 3 distinct routes from A to B. There are 4 distinct routes from B to C. On the return journey from C back to A (via B), the delivery person does not reuse any road segment that was used during the onward journey from A to C. How many total possible ways can the delivery person complete the round trip?",
+
+    "options": [
+
+      "144",
+
+      "72",
+
+      "12",
+
+      "48"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Onward Journey (A &rarr; B &rarr; C):</b><br>From A to B: 3 choices<br>From B to C: 4 choices<br>Total ways for the onward journey = 3 &times; 4 = 12 ways.<br><br><b>Return Journey (C &rarr; B &rarr; A):</b><br>The delivery person cannot reuse any road segments used during the onward journey.<br>From C to B: Out of 4 routes, 1 is already used. Available = 3 choices.<br>From B to A: Out of 3 routes, 1 is already used. Available = 2 choices.<br>Total ways for the return journey = 3 &times; 2 = 6 ways.<br><br><b>Total Round Trips:</b><br>Total ways = (Ways for onward journey) &times; (Ways for return journey) = 12 &times; 6 = 72 ways."
+
+  },
+
+  {
+
+    "section": "Current Affairs",
+
+    "topic": "International Relations",
+
+    "question": "Consider the following statements:<br>I. India has joined the Minerals Security Partnership as a member.<br>II. India is a resource-rich country in all the 30 critical minerals that it has identified.<br>III. The Parliament in 2023 has amended the Mines and Minerals (Development and Regulation) Act, 1957 empowering the Central Government to exclusively auction mining lease and composite license for certain critical minerals.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Statement I is correct:</b> India has formally joined the US-led Minerals Security Partnership (MSP), which is aimed at securing supply chains for critical minerals.<br><br><b>Statement II is incorrect:</b> India is not resource-rich in all 30 critical minerals it has identified. It is highly import-dependent for many critical minerals like Lithium, Cobalt, and Nickel, which are necessary for energy transition.<br><br><b>Statement III is correct:</b> The Parliament amended the Mines and Minerals (Development and Regulation) Act in 2023. The amendment empowers the Central Government to exclusively auction mining leases and composite licenses for specific critical and deep-seated minerals."
+
+  },
+
+{
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "If 'BRIGHT' is written as 'UIHJSC', then how is 'CANDLE' written?",
+
+    "options": [
+
+      "FMEOAD",
+
+      "FMEMBD",
+
+      "FMEOBD",
+
+      "FNEOBD"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Here the pattern being followed is reversing the word and replacing each letter with its next letter in the alphabet.<br><br><b>Step 1:</b> The reverse of BRIGHT is THGIRB.<br><br><b>Step 2:</b> Replace each letter in THGIRB with the next one:<br>T = U<br>H = I<br>G = H<br>I = J<br>R = S<br>B = C<br>Thus, BRIGHT is written as UIHJSC.<br><br><b>Step 3:</b> Now take the word CANDLE. The reverse of CANDLE is ELDNAC.<br><br><b>Step 4:</b> Replace each letter in ELDNAC with the next one:<br>E = F<br>L = M<br>D = E<br>N = O<br>A = B<br>C = D<br>Thus, CANDLE is written as FMEOBD."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "What comes at X and Y, respectively in the following sequence?<br>January, February, December, March, X, April, Y",
+
+    "options": [
+
+      "November, October",
+
+      "October, January",
+
+      "November, February",
+
+      "October, December"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Assign numerical values to the months according to their calendar positions: January = 1, February = 2, ..., December = 12.<br><br><b>Pattern Identified:</b><br>1. The sequence alternates between addition and subtraction.<br>2. The number added or subtracted increases by 1 at each step: +1, -2, +3, -4, +5, -6.<br>3. Month values follow a cyclical count from 1 to 12.<br><br><b>Step-by-step Execution:</b><br>Step 1: January (1) + 1 = February (2)<br>Step 2: February (2) - 2 = December (12)<br>Step 3: December (12) + 3 = March (3)<br>Step 4: March (3) - 4 = November (11) &rarr; <b>X is November</b><br>Step 5: November (11) + 5 = April (4) (since 11+5=16, 16-12=4)<br>Step 6: April (4) - 6 = October (10) (since 4-6=-2, 12-2=10) &rarr; <b>Y is October</b><br><br>Therefore, X = November and Y = October."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "A is 16th from the left end in a row of boys and V is 18th from the right end. Q is 11th from A towards the right and 3rd from V towards the right end. How many boys are there in the row?",
+
+    "options": [
+
+      "40",
+
+      "41",
+
+      "42",
+
+      "Cannot be determined due to insufficient data"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Given:</b><br>A is 16th from the left end.<br>V is 18th from the right end.<br>Q is 11th from A towards the right.<br>Q is 3rd from V towards the right end.<br><br><b>Calculations:</b><br>Since Q is 11th to the right of A, Q's position from the left end is: 16 + 11 = 27th.<br>Since Q is 3rd to the right of V (who is 18th from the right end), Q's position from the right end is: 18 - 3 = 15th.<br><br><b>Total number of boys:</b><br>From Q's position from the left end (27th), there are 26 boys to the left of Q.<br>From Q's position from the right end (15th), there are 14 boys to the right of Q.<br>Total boys = 26 (left of Q) + 1 (Q himself) + 14 (right of Q) = 41.<br>So, there are 41 boys in the row."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "If 2 * 3 = ∛(35) and 1 * 4 = ∛(65) then what is the value of 3 * 5 ?",
+
+    "options": [
+
+      "∛(98)",
+
+      "∛(152)",
+
+      "∛(216)",
+
+      "∛(123)"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Analyzing the first expression (2 * 3):</b><br>2&sup3; = 8<br>3&sup3; = 27<br>Sum of the cubes: 8 + 27 = 35<br>Taking cube root: ∛(35). Thus, 2 * 3 = ∛(2&sup3; + 3&sup3;)<br><br><b>Verifying the rule using the second expression (1 * 4):</b><br>1&sup3; = 1<br>4&sup3; = 64<br>Sum of the cubes: 1 + 64 = 65<br>Taking cube root: ∛(65). This confirms the same rule.<br><br><b>Defining the operation:</b><br>The operation is defined as: a * b = ∛(a&sup3; + b&sup3;)<br><br><b>Applying the rule to 3 * 5:</b><br>3&sup3; = 27<br>5&sup3; = 125<br>Sum of the cubes: 27 + 125 = 152<br>Result: ∛(152)"
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Consider the following statements:<br>I. If M &gt; N &ge; O &ne; P &gt; Q = R, then N is always greater than Q.<br>II. If W ≮ X &le; Y ≯ Z, then W is always greater than or equal to Z.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement I Analysis:</b><br>Given: M &gt; N &ge; O &ne; P &gt; Q = R<br>The relation O &ne; P does not indicate whether O &gt; P or O &lt; P.<br>If O &lt; P, we could have values like O = 1, P = 5, N = 1 (since N &ge; O), and Q = 4 (since P &gt; Q).<br>In this case, N = 1 and Q = 4, so N is not greater than Q. Thus, the conclusion does not always follow. Statement I is incorrect.<br><br><b>Statement II Analysis:</b><br>Given: W ≮ X &le; Y ≯ Z<br>Interpreting symbols: W &ge; X, X &le; Y, Y &le; Z.<br>From X &le; Y and Y &le; Z, we get X &le; Z. We are also given W &ge; X.<br>W &ge; X and X &le; Z does not imply W &ge; Z.<br>Counterexample: W = 5, X = 4, Y = 10, Z = 12. <br>Check conditions: 5 &ge; 4 (Valid), 4 &le; 10 (Valid), 10 &le; 12 (Valid).<br>But W (5) is not greater than or equal to Z (12). Thus, Statement II is incorrect.<br><br>Neither I nor II is correct."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Consider the following Statement and Conclusions:<br><b>Statement:</b> In the last decade, Company Alpha’s annual expenditure on employee wellness programs has increased by 500%, while the average number of sick days taken per employee has decreased by half.<br><br><b>Conclusion I:</b> The wellness programs are the primary reason for the improvement in employee health at Company Alpha.<br><b>Conclusion II:</b> The total number of sick days taken by the entire workforce last year was lower than the total number of sick days taken ten years ago.<br><br>Which one of the following is correct?",
+
+    "options": [
+
+      "Only Conclusion I follows",
+
+      "Only Conclusion II follows",
+
+      "Both Conclusion I and Conclusion II follow",
+
+      "Neither Conclusion I nor Conclusion II follows"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Conclusion I:</b> The statement only establishes a correlation between increased spending on wellness programs and reduced average sick days. It does not provide evidence of a cause-effect relationship. Other factors (changes in workforce demographics, work-from-home practices, improved healthcare access, etc.) could also explain the reduction. Conclusion I does not follow.<br><br><b>Conclusion II:</b> The statement refers only to the <i>average</i> number of sick days per employee, not the <i>total</i> number of sick days. The total number of sick days depends on the overall size of the workforce, which may have increased or decreased over the decade. Without information on changes in the number of employees, no definite conclusion can be drawn. Conclusion II does not follow.<br><br>Neither conclusion logically follows from the given statement."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Select the number from among the given options that can replace the question mark (?) in the following series.<br>1, 730, 218, 561, ?, 470",
+
+    "options": [
+
+      "365",
+
+      "345",
+
+      "291",
+
+      "384"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>The sequence follows the alternating addition and subtraction of decreasing consecutive cubes, starting from 9&sup3;.<br><br>1. Start with 1 and add 9&sup3; (729): 1 + 729 = 730<br>2. Subtract 8&sup3; (512) from the result: 730 - 512 = 218<br>3. Add 7&sup3; (343) to the result: 218 + 343 = 561<br>4. Subtract 6&sup3; (216) from the result: 561 - 216 = <b>345</b><br>5. Add 5&sup3; (125) to the result: 345 + 125 = 470<br><br>Therefore, the missing number is 345."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "If P = +, Q = &minus;, R = &times;, S = &divide;, insert the proper notations between the successive numbers in the equation: 16 _ 4 _ 2 _ 10 _ 5 = 13<br><br>Which one of the following options gives the correct sequence of operations?",
+
+    "options": [
+
+      "SPRQ",
+
+      "SQRP",
+
+      "SRPQ",
+
+      "RQSP"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>We must apply BODMAS / order of operations to verify each option.<br><br><b>Option (a) SPRQ:</b> S = &divide;, P = +, R = &times;, Q = &minus;<br>16 &divide; 4 + 2 &times; 10 &minus; 5 &rarr; 4 + 20 &minus; 5 = 19 (Incorrect)<br><br><b>Option (b) SQRP:</b> S = &divide;, Q = &minus;, R = &times;, P = +<br>16 &divide; 4 &minus; 2 &times; 10 + 5 &rarr; 4 &minus; 20 + 5 = -11 (Incorrect)<br><br><b>Option (c) SRPQ:</b> S = &divide;, R = &times;, P = +, Q = &minus;<br>16 &divide; 4 &times; 2 + 10 &minus; 5 &rarr; 4 &times; 2 + 10 &minus; 5 &rarr; 8 + 10 &minus; 5 = 13 (Correct!)<br><br><b>Option (d) RQSP:</b> R = &times;, Q = &minus;, S = &divide;, P = +<br>16 &times; 4 &minus; 2 &divide; 10 + 5 &rarr; 64 &minus; 0.2 + 5 = 68.8 (Incorrect)"
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Three teams X, Y, and Z participated in a tournament in which each team played every other team exactly once. The scoring system was as follows: A win gives 2 points, a draw gives 1 point and a loss gives 0 points. Each team scored exactly 2 goals in the entire tournament. Team X scored 3 points. Team Y scored 2 points. Team Z scored 1 point.<br><br>Based on the above information, consider the following statements:<br>I. The match between Team X and Team Y ended in a 2–2 draw.<br>II. Team Z lost its match against Team X with a score of 1–2.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Analysing the points obtained:</b><br>Each team plays two matches.<br>Team X (3 points): Must be 1 win + 1 draw.<br>Team Y (2 points): Must be 1 win + 1 loss OR 2 draws.<br>Team Z (1 point): Must be 1 draw + 1 loss.<br><br><b>Determining match outcomes:</b><br>If X drew with Z, then Z’s loss would be against Y. This would require Y to win one match, giving Y at least 2 points, but X already has a draw and needs a win — leading to contradiction.<br>Therefore:<br>X must have defeated Z (X vs Z: X wins)<br>X must have drawn with Y (X vs Y: Draw)<br>The remaining match Y vs Z must be a draw.<br><br><b>Applying the goal constraint (each team scored exactly 2 goals):</b><br>X vs Y: 0 – 0 (Draw)<br>Y vs Z: 2 – 2 (Draw)<br>X vs Z: 2 – 0 (X wins)<br>Check totals: Team X (0+2=2), Team Y (0+2=2), Team Z (2+0=2). All conditions satisfied.<br><br><b>Checking statements:</b><br>Statement I: Claims X vs Y ended 2–2. Actual result is 0–0. (Incorrect)<br>Statement II: Claims Z lost to X 1–2. Actual result is 0–2. (Incorrect)<br><br>Neither I nor II is correct."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "A family consists of P, Q, R, S, T, U. P is the father of Q and the brother of R. S is the sister of T. T is the child of U. U is the spouse of P. Q is the niece of R.<br><br>How many of the following statements are definitely true?<br>I. S is Q’s aunt.<br>II. U is R’s mother.<br>III. T is Q’s sibling.<br>IV. R is T’s aunt.<br>V. U is S’s sister-in-law.<br>VI. Q is female.",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "Only four"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Analyzing relationships:</b><br>P and U are spouses. They have children Q, S, and T (since S is sister of T, and T is child of U). P is the father, making U the mother.<br>R is the sibling of P.<br>Q is the niece of R.<br><br><b>Evaluating statements:</b><br>I. S is Q’s aunt: False. S and Q are siblings.<br>II. U is R’s mother: False. U is R's sister-in-law (spouse of brother P).<br>III. T is Q’s sibling: <b>True.</b> Both T and Q are children of U and P.<br>IV. R is T’s aunt: Not definitely true. R is a sibling of P, but R's gender is unspecified (could be uncle or aunt).<br>V. U is S’s sister-in-law: False. U is S's mother.<br>VI. Q is female: <b>True.</b> Q is explicitly stated to be a 'niece', implying female gender.<br><br>Only Statement III and Statement VI are definitely true. (Total = 2 statements)."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "If P means “not less than”, Q means “greater than”, R means “equal to”, S means “not greater than”, and T means “less than”, then consider the following statements:<br>1. If 3x (S) 2y and 4y (R) 3z, then 2x (S) z.<br>2. If x (T) y and y (S) z, then x (T) z.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "1 only",
+
+      "2 only",
+
+      "Both 1 and 2",
+
+      "Neither 1 nor 2"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Decoding the symbols:</b><br>P: &ge;<br>Q: &gt;<br>R: =<br>S: &le;<br>T: &lt;<br><br><b>Statement 1:</b> If 3x &le; 2y and 4y = 3z, then 2x &le; z.<br>From 3x &le; 2y, we have x &le; (2/3)y.<br>From 4y = 3z, we have y = (3/4)z.<br>Substituting y: x &le; (2/3) &times; (3/4)z &rarr; x &le; (1/2)z.<br>Multiplying both sides by 2 gives: 2x &le; z. This is exactly 2x (S) z. Statement 1 is correct.<br><br><b>Statement 2:</b> If x &lt; y and y &le; z, then x &lt; z.<br>From the transitive property of inequalities: x &lt; y and y &le; z clearly implies x &lt; z. This is exactly x (T) z. Statement 2 is correct.<br><br>Both statements 1 and 2 are correct."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "A Main Statement is followed by four statements labelled P, Q, R, and S. You are required to choose the ordered pair(s) of statements such that the first statement logically implies the second, and both statements are logically consistent with the Main Statement.<br><br><b>Main Statement:</b> Whenever the stock market crashes, gold prices increase.<br><br><b>Statements:</b><br>P: Gold prices increased.<br>Q: The stock market crashed.<br>R: The stock market did not crash.<br>S: Gold prices did not increase.<br><br>Which of the following is/are correct?",
+
+    "options": [
+
+      "QP only",
+
+      "RS only",
+
+      "Both QP and SQ",
+
+      "Both QP and RS"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Translating to logical form:</b><br>Let M = \"The stock market crashes\" and G = \"Gold prices increase\".<br>Main Statement: M &rarr; G<br><br><b>Analysing the options:</b><br>Option (a) QP: Q says M, P says G. The logical implication is M &rarr; G. This fully matches the Main Statement. QP is valid.<br><br>Option (b) RS: R says ~M, S says ~G. The logical implication is ~M &rarr; ~G. This does NOT follow from M &rarr; G (it is the inverse fallacy). RS is invalid.<br><br>Option (c) Both QP and SQ: SQ means ~G &rarr; M, which directly contradicts the Main Statement. SQ is invalid.<br><br>Option (d) Both QP and RS: RS is invalid.<br><br>Only the ordered pair QP satisfies both conditions."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Ena was born 4 years after her parents’ marriage. Her mother is three years younger than her father and 24 years older than Ena, who is 13 years old. At what age did Ena’s father get married?",
+
+    "options": [
+
+      "22 years",
+
+      "23 years",
+
+      "24 years",
+
+      "25 years"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br><b>Step 1: Calculate current ages</b><br>Present age of Ena = 13 years.<br>Present age of Ena’s Mother = 13 + 24 = 37 years.<br>Present age of Ena’s Father = 37 + 3 = 40 years.<br><br><b>Step 2: Calculate years since marriage</b><br>Ena was born 4 years after her parents’ marriage, and her present age is 13.<br>So, her parents’ marriage occurred 13 + 4 = 17 years ago.<br><br><b>Step 3: Calculate Father's age at marriage</b><br>Ena’s father’s present age is 40. His age 17 years ago would be: 40 - 17 = 23 years."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "A person starts at Point A and walks 120 m North. He turns 45&deg; to their right and walk 100 m. From there, he takes a 225&deg; turn counter-clockwise and walks another 120 m. Finally, he turns 135&deg; to his left and walks for some distance reaching F. In which direction is he facing now?",
+
+    "options": [
+
+      "East",
+
+      "South-West",
+
+      "North-East",
+
+      "South-East"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Step-by-step movement tracking:</b><br>1. Walks North (facing 0&deg;).<br>2. Turns 45&deg; to the right (facing North-East, 45&deg;).<br>3. Turns 225&deg; counter-clockwise: 45&deg; - 225&deg; = -180&deg; (facing South).<br>4. Turns 135&deg; to the left (counter-clockwise): -180&deg; + 135&deg; = -45&deg; (equivalent to 315&deg; or North-East in standard compass tracking from initial state if we map it properly).<br><br>Wait, mapping step by step:<br>Current facing = South. Turning 135&deg; to the left (counter-clockwise) from South points directly to North-East.<br>Therefore, he is now facing North-East."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "A man has a calendar for the year 2023. He observes that the same calendar can be reused for the months of January and February in a future year. Which of the following is the earliest year for which this is possible?",
+
+    "options": [
+
+      "2028",
+
+      "2029",
+
+      "2031",
+
+      "2034"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Key principle:</b><br>For January–February to match in two different years:<br>1. Both years must be non-leap years.<br>2. The total number of odd days between the two years must be a multiple of 7.<br><br><b>Counting odd days starting from 2023:</b><br>2023 (1), 2024 (2), 2025 (1), 2026 (1), 2027 (1), 2028 (2), 2029 (1). Total = 9 (Not a multiple of 7).<br>Continue counting:<br>2030 (1), 2031 (1), 2032 (2), 2033 (1).<br>Total from 2023 to 2033 = 1 + 2 + 1 + 1 + 1 + 2 + 1 + 1 + 1 + 2 + 1 = 14.<br><br>Since 14 is a multiple of 7, 1 January 2034 falls on the same weekday as 1 January 2023.<br>Because 2034 is also a non-leap year, January and February calendars match exactly. Therefore, the earliest year is 2034."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Consider the following statements regarding unit conversions:<br>1. 1 g/cm³ = 1000 kg/m³<br>2. 90 km/h = 25 m/s<br>3. 1 foot = 30.48 cm<br>4. 1 metric ton = 10 quintals<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "1, 3 and 4 only",
+
+      "2 and 4 only",
+
+      "1, 2, and 4 only",
+
+      "1, 2, 3, and 4"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br><b>Statement 1:</b> 1 g = 10⁻³ kg and 1 cm³ = 10⁻⁶ m³.<br>Therefore, 1 g/cm³ = (10⁻³ kg)/(10⁻⁶ m³) = 10³ kg/m³ = 1000 kg/m³. (Correct)<br><br><b>Statement 2:</b> 1 km/h = 5/18 m/s.<br>Hence, 90 km/h = 90 &times; (5/18) = 25 m/s. (Correct)<br><br><b>Statement 3:</b> By standard length conversion, 1 foot = 30.48 cm. (Correct)<br><br><b>Statement 4:</b> 1 metric ton = 1000 kg. 1 quintal = 100 kg.<br>Therefore, 1 metric ton = 10 quintals. (Correct)<br><br>All the given statements are correct."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Consider the following sequence:<br>W X _ Z Y _ W X _ Z W _ Y Z W _ X _ Z<br>which follows a particular pattern. Which one of the following options correctly completes the sequence?",
+
+    "options": [
+
+      "Y, Z, Y, X, X, Y",
+
+      "Y, X, Y, X, X, Y",
+
+      "Z, X, Y, W, Z, X",
+
+      "Y, Z, Y, X, W, Y"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>Identification of the basic pattern:</b><br>The letters follow a cyclic order: W &rarr; X &rarr; Y &rarr; Z.<br>The sequence is constructed using repeating blocks of four letters.<br><br><b>Reconstruction of the sequence into blocks:</b><br>Block 1: W X <b>Y</b> Z<br>Block 2: Y <b>Z</b> W X<br>Block 3: <b>Y</b> Z W <b>X</b><br>Wait, the logic explains the blocks slightly differently:<br>Block 1: W X Y Z<br>Block 2: Y Z W X<br>Block 3: W X Y Z<br>Block 4: Y Z W X<br><br><b>Determination of missing letters:</b><br>Filling the blanks according to these blocks, the missing letters in order are: Y, Z, Y, X, X, Y."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "On 1st January 2024, Alex started a savings plan. He saved an amount N dollars on the first day, where N is the smallest integer greater than 100 that leaves a remainder of 3 when divided by 7. Each subsequent day in January, Alex increased his daily savings by 5 dollars over the previous day. On the completion of a certain day D in January, Alex observed that his total accumulated savings was a perfect square, and its square root was a palindrome number. On which day did this first occur?",
+
+    "options": [
+
+      "7th January",
+
+      "8th January",
+
+      "9th January",
+
+      "11th January"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Step 1: Determine the value of N</b><br>We require N &gt; 100 such that N leaves a remainder of 3 when divided by 7.<br>101 &divide; 7 = 14 with a remainder of 3. Therefore, N = 101.<br><br><b>Step 2: Identify the arithmetic progression (AP)</b><br>Daily savings form an AP with:<br>First term, a = 101<br>Common difference, d = 5<br>Sum of first k terms: Total savings = k/2 &times; [2a + (k &minus; 1)d] = k/2 &times; [202 + 5(k &minus; 1)].<br><br><b>Step 3: Checking for perfect squares</b><br>Evaluate the sum for increasing values of k:<br>For k = 9: Total savings = 9/2 &times; [202 + 40] = 9/2 &times; 242 = 9 &times; 121 = 1089.<br>1089 = 33&sup2; (a perfect square).<br>Its square root is 33, which is a palindrome number (reads the same forwards and backwards).<br>This first occurs on the 9th day of January."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option.<br><br><b>Question:</b> In a football match, team P playing against Q was behind by 3 goals with 10 minutes remaining. Does team P win the match?<br><b>Statement I:</b> Team P scored 4 goals in the last 10 minutes.<br><b>Statement II:</b> Team Q scored a total of 4 goals in the match.<br><br>Which one of the following is correct in respect of the above Question and the Statements?",
+
+    "options": [
+
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone.",
+
+      "The Question can be answered by using either Statement alone.",
+
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+
+      "The Question cannot be answered using any of the Statements."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Team P was behind by 3 goals with 10 minutes remaining. Did P win?<br><br><b>Statement I:</b> P scored 4 goals in the last 10 minutes.<br>P's final score = Initial score + 4.<br>However, we don't know how many goals Q scored in the last 10 minutes. If Q scored &ge;1 goal, P might not win.<br>Conclusion: Statement I alone is insufficient.<br><br><b>Statement II:</b> Q scored a total of 4 goals in the match.<br>Q's total = 4 goals.<br>But we don't know Q's goals in the last 10 minutes or P's final score.<br>Conclusion: Statement II alone is insufficient.<br><br><b>Combining Both Statements:</b><br>Let Q's goals in the last 10 minutes = y.<br>Total Q goals: Q<sub>initial</sub> + y = 4.<br>Initial deficit: Q<sub>initial</sub> &minus; P<sub>initial</sub> = 3.<br>P's final score: P<sub>initial</sub> + 4.<br><br><b>Possible scenarios:</b><br>If y = 0: Q<sub>initial</sub> = 4, P<sub>initial</sub> = 1. Final score: P = 5, Q = 4 &rarr; P wins.<br>If y = 1: Q<sub>initial</sub> = 3, P<sub>initial</sub> = 0. Final score: P = 4, Q = 4 &rarr; Draw.<br><br>Result: P could win or draw. We cannot definitively answer \"yes\" or \"no.\" The Question cannot be answered even using any of the Statements."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Consider the following statements:<br>1. P is younger than Q but older than R.<br>2. S is of the same age as Q.<br>3. U is younger than everyone except R.<br>4. R is not the oldest.<br>5. T is younger than S but older than P.<br><br>How many statements given above are required to determine the oldest person/persons?",
+
+    "options": [
+
+      "Only two",
+
+      "Only three",
+
+      "Only four",
+
+      "All five"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>There are six persons P, Q, R, S, T, U<br><br><b>From statement 1:</b> P is younger than Q but older than R &rarr; Q > P > R ...............(a)<br><br><b>From statement 2:</b> S is of the same age as Q &rarr; S = Q ...............(b)<br><br><b>Combining (a) and (b):</b> S = Q > P > R ...............(c)<br><br><b>From statement 3:</b> U is younger than everyone except R. Means U is second youngest and R is the youngest or U and R are of same age &rarr; _ > _ > _ > _ > U > R or _ > _ > _ > _ > U = R ...............(d)<br><br><b>From statement 4:</b> R is not the oldest. This is already known from the statement 1 which says P is older than R. Thus there is no need for this statement.<br><br><b>From statement 5:</b> T is younger than S but older than P &rarr; S > T > P ...............(e)<br><br><b>Combining (c), (d) and (e):</b> S = Q > T > P > U > R or S = Q > T > P > U = R.<br><br>Thus, S and Q are the oldest. Thus only four statements 1, 2, 3 and 5 are required to determine the oldest person/persons."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Consider the following including the Question and the Statements:<br>There are six members in a family: A, B, C, D, E and F.<br><br><b>Question :</b> What is the relation of F to B?<br><b>Statement 1 :</b> B is the only brother of C.<br><b>Statement 2 :</b> A is the mother of D and is married to B.<br><b>Statement 3 :</b> E is the sister of D but is not the daughter of B.<br><b>Statement 4 :</b> F is the son of E.<br><br>Which one of the following is correct in respect of the above Question and Statements?",
+
+    "options": [
+
+      "Statement-1, Statement-2 and Statement-3 are sufficient to answer the Question.",
+
+      "Statement-1, Statement-3 and Statement-4 are sufficient to answer the Question.",
+
+      "All four statements together are sufficient to answer the Question.",
+
+      "All four statements are not sufficient to answer the Question."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>From statement 1:</b> B is the only brother of C.<br>Means, B and C are siblings. B is male and C's gender is not known yet.<br><br><b>From statement 2:</b> A is the mother of D and is married to B.<br>Means, A (female) is wife of B (male) and D is their child (gender is unknown).<br><br><b>From statement 3:</b> E is the sister of D but is not the daughter of B.<br>As per the statement 2, D is the child of B. But this statement says that E is not the daughter of B. So E must be the daughter of A from another relationship.<br><br><b>From statement 4:</b> F is the son of E.<br><br><b>From statement 3 and 4:</b> F is grandson of A, but not of B.<br>Combining all the statements, F is the step-grandson of B.<br><br>Thus all four statements together are sufficient to answer the Question."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Choose the group which is different from the others :",
+
+    "options": [
+
+      "26, 39, 52, 65",
+
+      "34, 51, 68, 85",
+
+      "38, 57, 76, 95",
+
+      "42, 84, 105, 126"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>When we check all the groups:<br><br><b>Group a:</b> All numbers are consecutive multiples of 13 (multiplied by 2, 3, 4, and 5 consecutively).<br>26 = 13*2, 39 = 13*3, 52 = 13*4, 65 = 13*5<br><br><b>Group b:</b> All numbers are consecutive multiples of 17 (multiplied by 2, 3, 4, and 5 consecutively).<br>34 = 17*2, 51 = 17*3, 68 = 17*4, 85 = 17*5<br><br><b>Group c:</b> All numbers are consecutive multiples of 19 (multiplied by 2, 3, 4, and 5 consecutively).<br>38 = 19*2, 57 = 19*3, 76 = 19*4, 95 = 19*5<br><br><b>Group d:</b> All numbers are multiples of 21 but not in consecutive order like other groups.<br>42 = 21*2, 84 = 21*4, 105 = 21*5, 126 = 21*6<br><br>Thus group d is different from others."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "If today is Wednesday, then which day is it exactly on 9<sup>25</sup>th day?",
+
+    "options": [
+
+      "Friday",
+
+      "Sunday",
+
+      "Monday",
+
+      "Tuesday"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Today is Wednesday, which repeats after 7 days.<br>The 9<sup>25</sup>th day will be calculated by dividing 9<sup>25</sup> by 7.<br><br>As 9 is bigger than 7, thus in rule of division, first 9<sup>1</sup> is divided by 7 &rarr; remainder = 2.<br>Now, 2<sup>25</sup> will be divided by 7.<br><br>We know that powers of 2 have a cyclicity of 4:<br>2<sup>1</sup> = 2<br>2<sup>2</sup> = 4<br>2<sup>3</sup> = 8<br>2<sup>4</sup> = 16 (unit digit = 6)<br>2<sup>5</sup> = 32 (unit digit = 2, same as 2<sup>1</sup>)<br><br>Now, 25/4 &rarr; remainder = 1.<br>So 2<sup>1</sup> / 7 gives a remainder of 2.<br>Thus, 9<sup>25</sup>/7 gives the remainder of 2.<br><br>Thus on 9<sup>25</sup>th day, the day will be Wednesday + 2, which is Friday."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "There are 36 seats arranged in a circular hall, numbered 1 to 36 clockwise. A marker is initially placed on Seat-1. The marker is moved clockwise. In the first move, it advances 2 seats. In the second move, it advances 4 seats. In the third move, it advances 6 seats and so on, increasing by 2 seats each time. After how many moves (including the starting position) will the marker again be on Seat-1?",
+
+    "options": [
+
+      "6",
+
+      "7",
+
+      "8",
+
+      "9"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Total seats = 36<br>Starting from seat 1<br><br><b>Moving pattern:</b><br>First move = 2 seats<br>Second move = 4 seats<br>Third move = 6 seats<br>And so on.....<br><br><b>Move number &mdash; Steps ahead &mdash; Total steps</b><br>1 &mdash; 2 &mdash; 2<br>2 &mdash; 4 &mdash; 6<br>3 &mdash; 6 &mdash; 12<br>4 &mdash; 8 &mdash; 20<br>5 &mdash; 10 &mdash; 30<br>6 &mdash; 12 &mdash; 42<br>7 &mdash; 14 &mdash; 56<br>8 &mdash; 16 &mdash; 72<br><br>36 seats = 1 round<br>72 seats = 2 rounds<br>Means, after 8 moves, the marker is back at seat 1.<br>Total moves (including the starting position) = 8 + 1 = 9."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "What is the middle term of the sequence A,B,B,C,C,C,D,E,E,F,F,F,G,H,H,I,I,I,&hellip; ,Z ?",
+
+    "options": [
+
+      "L",
+
+      "M",
+
+      "N",
+
+      "O"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The given sequence follows the following pattern: Every three letters from the alphabet, 1st letter repeats 1 time, 2nd repeats 2 times, and third repeats 3 times.<br><br>A repeats 1 time<br>B repeats 2 times<br>C repeats 3 times<br>Total letters A+B+B+C+C+C = 6.<br><br>This pattern follows till X, which means there are 8 groups (ABC, DEF, GHI, JKL, MNO, PQR, STU, VWX) and YZ.<br>Y will again repeats 1 time and Z will repeats 2 times = 3 letters (YZZ).<br>So total letters = 8 groups * 6 + 3 = 51.<br><br>Thus the middle term will be the 26th letter of the sequence.<br>Up to L, there are 4 groups = 24 letters.<br>M repeats 1 time = 25th.<br>N repeats 2 times = 26th letter.<br><br>Thus, the middle term will be N."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Consider the following :<br>I. A # B means A is neither greater nor equal to B<br>II. A @ B means A is not smaller than B<br>III. A $ B means A is neither smaller nor greater than B<br>IV. A ! B means A is not greater than B<br><br><b>Statement :</b> M @ N, N ! P, P # Q, Q $ R<br><b>Conclusion-1 :</b> M @ P<br><b>Conclusion-2 :</b> R # M<br><br>Which one of the following is correct in respect of the above statement and the conclusions ?",
+
+    "options": [
+
+      "Only conclusion 1 follows from the statement",
+
+      "Only conclusion 2 follows from the statement",
+
+      "Both conclusion 1 and conclusion 2 follow from the statement",
+
+      "Neither conclusion 1 nor conclusion 2 follows from this statement"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>First decode the symbols:<br>A # B means A < B<br>A @ B means A &ge; B<br>A $ B means A = B<br>A ! B means A &le; B<br><br>Now decode the statement:<br>M @ N &rarr; M &ge; N<br>N ! P &rarr; N &le; P<br>P # Q &rarr; P < Q<br>Q $ R &rarr; Q = R<br><br>Combining these: M &ge; N &le; P < Q = R ................(1)<br><br>Now check <b>conclusion 1</b> that says, M @ P or M &ge; P:<br>As per equation 1, Conclusion 1 cannot be established.<br><br>Now check <b>conclusion 2</b> that says R # M or R < M:<br>As per the equation 1, Conclusion 2 also cannot be established.<br><br>Thus neither conclusion 1 nor conclusion 2 follows from this statement."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Consider the sequence AB_BCD_ _EDEFE_GFGH that follows a certain pattern. Which one of the following completes the sequence?",
+
+    "options": [
+
+      "BCDE",
+
+      "CCDF",
+
+      "CCDD",
+
+      "DEFF"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: (b)</b><br><br>First count the total number of letters. There are a total of 18 letters.<br>Now divide these 18 letters into 3*6 or 6*3.<br>Means 6 groups of 3 letters or 3 groups of 6 letters.<br><br>First let's try six groups of three letters:<br>AB_ / BCD / _ _E / DEF / E_G / FGH<br><br>The sequence follows a pattern:<br>The second group starts from the second letter of previous group. Similarly the third group starts from the second letter of second group.<br><br>Thus the complete sequence will be:<br>ABC / BCD / CDE / DEF / EFG / FGH<br><br>Thus, the letters C, C, D and F will complete the sequence."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Consider the following statements in respect of five employees A, B, C, D and E. Three statements are true and one is false.<br><br><b>True Statement :</b> Exactly one of A and B, attended the meeting.<br><b>True Statement :</b> At least two among C, D and E attended the meeting.<br><b>True Statement :</b> At most three persons attended the meeting.<br><b>False Statement :</b> D did not attend the meeting.<br><br>Which of the following conclusions can be drawn ?<br>1. D attended the meeting.<br>2. C attended the meeting.<br><br>Select the correct answer using the code given below :",
+
+    "options": [
+
+      "1 only",
+
+      "2 only",
+
+      "Both 1 and 2",
+
+      "Neither 1 nor 2"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br><b>The false statement:</b> D did not attend the meeting.<br>Means, D attended the meeting ..............(a)<br>This directly supports the Conclusion 1.<br><br><b>The 2nd true statement:</b> At least two among C, D and E attended the meeting.<br>From (a), we know that D attended the meeting.<br>So, at least one of C or E must have attended the meeting ...............(b)<br><br><b>The third true statement:</b> At most three persons attended the meeting.<br>Now count the confirmed attendees:<br>From statement 1 exactly one of A or B = 1 person.<br>From (a), D attended = 1 person.<br>From (b), either C or E = 1 person.<br><br>Means, it is not confirmed whether C attended the meeting or E.<br>Thus, conclusion 2 cannot be drawn."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "Seven books P, Q, R, S, T, U and V are placed side by side. R, Q and T have blue covers and other books have red covers. Only S and U are new books and the rest are old. P, R and S are law reports; the rest are Gazetteers. Books of old Gazetteers with blue covers are",
+
+    "options": [
+
+      "Q and R",
+
+      "Q and U",
+
+      "Q and T",
+
+      "T and U"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>The given information can be represented as follows:<br><br><b>Book &mdash; Color &mdash; Old/New &mdash; Law/Gazetteer</b><br>P &mdash; Red &mdash; Old &mdash; Law<br>Q &mdash; Blue &mdash; Old &mdash; Gazetteer<br>R &mdash; Blue &mdash; Old &mdash; Law<br>S &mdash; Red &mdash; New &mdash; Law<br>T &mdash; Blue &mdash; Old &mdash; Gazetteer<br>U &mdash; Red &mdash; New &mdash; Gazetteer<br>V &mdash; Red &mdash; Old &mdash; Gazetteer<br><br>From the table, we can see that Books of old Gazetteers with blue covers are Q and T."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "The letters of the word \"INCOMPREHENSIBILITIES\" are arranged in a way that all vowels are placed first, in alphabetical order, then all consonants are placed, also in alphabetical order. How many positions of the letter/letters will remain unchanged?",
+
+    "options": [
+
+      "0",
+
+      "1",
+
+      "2",
+
+      "3"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Word \"INCOMPREHENSIBILITIES\" = 21 letters (9 vowels and 12 consonants).<br>Arranging all letters in alphabetical order, first vowels and then consonants:<br>Vowels: E E E I I I I I O<br>Consonants: B C H L M N N P R S S T<br><br>Now compare the positions of these letters with letters of the original word:<br><b>Original:</b> I N C O M P R E H E N S I B I L I T I E S<br><b>New:</b> E E E I I I I I O B C H L M N N P R S S T<br><br>There is no such letter whose position is unchanged."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "For five athletes, their ages are in increasing order and form an arithmetic sequence with a constant difference of 3 years.<br><br><b>Question :</b> What is the age of the youngest athlete ?<br><b>Statement-1 :</b> The age of the youngest athlete is one&ndash;sixth of the total age of all five athletes.<br><b>Statement-2 :</b> The average age of the athletes is less than 40 years.<br><br>Which one of the following is correct in respect of the above Question and the Statements ?",
+
+    "options": [
+
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone.",
+
+      "The Question can be answered by using either Statement alone.",
+
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+
+      "The Question cannot be answered even by using both the Statement together."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: (a)</b><br><br>Assume the age of youngest athlete = x<br>Then, ages of five athletes = x, x+3, x+6, x+9, x+12<br>Total age = 5x + 30<br><br><b>Using statement 1 alone:</b><br>The age of the youngest athlete is one&ndash;sixth of the total age of all five athletes.<br>x = (5x+30)/6<br>6x = 5x+30<br>x = 30<br>Thus, statement 1 alone is sufficient to answer the question.<br><br><b>Using statement 2 alone:</b><br>The average age of the athletes is less than 40 years.<br>(5x + 30)/5 < 40<br>x + 6 < 40<br>x < 34<br>The value of x can be any value less than 34.<br>Thus, statement 2 alone is not sufficient.<br><br>The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option.<br><br><b>Question :</b> How is M related to T?<br><b>Statement I :</b> M is the only son of N and N is the father of L.<br><b>Statement II :</b> The husband of L is the maternal uncle of T.<br><br>Which one of the following is correct in respect of the above Question and the Statements ?",
+
+    "options": [
+
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone.",
+
+      "The Question can be answered by using either Statement alone.",
+
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+
+      "The Question cannot be answered even by using both the Statement together."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br><b>Using statement 1 alone:</b><br>M is the only son of N and N is the father of L.<br>Means, L is sister of M.<br>There is no information regarding T. Thus statement 1 alone is not sufficient.<br><br><b>Using statement 2 alone:</b><br>The husband of L is the maternal uncle of T.<br>Means, L's husband is the brother of T's mother.<br>We still do not know how M is related to L. Thus statement 2 alone is not sufficient.<br><br><b>Using both statements together:</b><br>L is sister of M and L is maternal aunt of T.<br>Thus M is maternal uncle of T.<br>The question can be answered by using both the statements together, but cannot be answered using either statement alone."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option.<br><br><b>Question :</b> In a hockey match, Team X was trailing Team Y by 5 goals with 15 minutes remaining. Did Team X win the match?<br><b>Statement I :</b> In the last 15 minutes, Team X scored twice as many goals as Team Y.<br><b>Statement II :</b> The total number of goals scored by both teams in the match was 13.<br><br>Which one of the following is correct in respect of the above Question and the Statements ?",
+
+    "options": [
+
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone.",
+
+      "The Question can be answered by using either Statement alone.",
+
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+
+      "The Question cannot be answered even by using both the Statement together."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Before 15 minutes Y was 5 goals ahead of X.<br>Possibilities: X = 0, Y = 5; X = 1, Y = 6... so on.<br><br><b>Using statement 1 alone:</b><br>In the last 15 minutes, Team X scored twice as many goals as Team Y.<br>Let team Y scores = k<br>Team X scores = 2k<br>Net gain by team X = 2k - k = k<br>Without the value of k, we cannot confirm if team X overcame this deficit or not. Thus statement 1 alone is not sufficient.<br><br><b>Using statement 2 alone:</b><br>The total number of goals scored by both teams in the match was 13.<br>There is no information regarding the distribution of goals between the teams in the last 15 minutes. Thus statement 2 alone is not sufficient.<br><br><b>Using both statements together:</b><br>Before 15 minutes Y was 5 goals ahead of X.<br>Let assume minimum X = 0 and Y = 5 ...............(a)<br>In last 15 minutes X scored twice goals than Y.<br>If Y scored 1 then X scores 2 (Final Y = 6 and X = 2, Total = 8)<br>If Y scored 2 then X scores 4 (Final Y = 7 and X = 4, Total = 11)<br>If Y scored 3 then X scores 6 (Final Y = 8 and X = 6, Total = 14) which exceeds 13.<br>For total = 13, X+Y = 13. Before 15 mins, X+Y was at least 5. If X=1, Y=6 (sum=7), remaining is 6 goals. So Y scores 2, X scores 4. Final: Y = 8, X = 5.<br>Thus, Y is always ahead of X, so X cannot win the match.<br>The question can be answered by using both statements together."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "A question is given followed by two statements, I and II. Examine the question and the statements and determine which of the statements is sufficient to answer the question.<br><br>The ages of X and Y are two-digit integers. The age of Y is obtained by reversing the digits of the age of X. Both X and Y are older than 20 years but younger than 90 years. What is the age of X?<br><b>Statement I:</b> The product of the digits of X's age is a prime number.<br><b>Statement II:</b> The absolute difference between the ages of X and Y is equal to three times the sum of the digits of X's age.<br><br>Which one of the following is correct in with respect to the above question and statements?",
+
+    "options": [
+
+      "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone.",
+
+      "The question can be answered by using either statement alone.",
+
+      "The question can be answered by using both the statements together, but cannot be answered using either statement alone.",
+
+      "The question cannot be answered even by using both the statements together."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: (d)</b><br><br>Let the age of X be a two-digit number written as: X = 10a + b<br>The age of Y is obtained by reversing the digits of X: Y = 10b + a<br>Both X and Y are greater than 20 and less than 90.<br><br><b>Statement I Analysis:</b><br>The product of the digits is a &times; b. A prime number has exactly two positive factors. Therefore, one of the digits must be 1 and the other must be a prime digit (2, 3, 5, or 7).<br>Since X is greater than 20, the tens digit cannot be 1. Hence: b = 1 and a &isin; {3, 5, 7}.<br>Possible values of X: 31, 51, 71.<br>Since more than one value of X is possible, Statement I alone is not sufficient.<br><br><b>Statement II Analysis:</b><br>Absolute difference between X and Y: |X &minus; Y| = |(10a + b) &minus; (10b + a)| = |9a &minus; 9b| = 9|a &minus; b|.<br>According to the statement: 9|a &minus; b| = 3(a + b). Dividing both sides by 3: 3|a &minus; b| = a + b.<br>Case a > b: 3(a &minus; b) = a + b &rarr; 2a = 4b &rarr; a = 2b.<br>Possible digit pairs: a = 4, b = 2 &rarr; X = 42; a = 6, b = 3 &rarr; X = 63; a = 8, b = 4 &rarr; X = 84.<br>All satisfy the given conditions. Since multiple values of X are possible, Statement II alone is not sufficient.<br><br><b>Combined Analysis of Statements I and II:</b><br>From Statement I, possible values of X are: 31, 51, 71.<br>From Statement II, possible values of X are: 42, 63, 84.<br>There is no common value between the two sets. Therefore, even using both statements together, the age of X cannot be determined."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "A question is given followed by two statements, I and II. Examine the question and the statements and determine which of the statements is sufficient to answer the question.<br><br>Four persons P, Q, R and S appeared in a test. Is P's score greater than Q's score?<br><b>Statement I:</b> P's score is greater than R's score, and the sum of the scores of P and S is equal to the sum of the scores of Q and R.<br><b>Statement II:</b> Q's score is less than S's score, and the sum of the scores of P and R is equal to the sum of the scores of Q and S.<br><br>Which one of the following is correct with respect to the question and statements given above?",
+
+    "options": [
+
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+
+      "The Question can be answered by using either Statement alone",
+
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+
+      "The Question cannot be answered even by using both the Statements together"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Let the scores of P, Q, R and S be represented by p, q, r and s respectively.<br><br><b>Statement I Analysis:</b><br>Given: p > r and p + s = q + r<br>From the second condition: p &minus; q = r &minus; s.<br>We do not know the relationship between r and s. Hence, p &minus; q can be positive, zero, or negative. Therefore, it cannot be determined whether p > q.<br>Statement I alone is not sufficient.<br><br><b>Statement II Analysis:</b><br>Given: q < s and p + r = q + s<br>From the second condition: p &minus; q = s &minus; r.<br>Since we are not given the relation between s and r, the sign of s &minus; r is unknown. Hence, p may be greater than, equal to, or less than q.<br>Statement II alone is not sufficient.<br><br><b>Combined Analysis of Statement I and II:</b><br>From Statement I: p &minus; q = r &minus; s<br>From Statement II: p &minus; q = s &minus; r<br>Equating both: r &minus; s = s &minus; r &rarr; 2r = 2s &rarr; r = s.<br>Substitute r = s into p &minus; q = r &minus; s:<br>p &minus; q = 0 &rarr; p = q.<br>Thus, P's score is not greater than Q's score. A definite answer is obtained. The Question can be answered by using both the Statements together but cannot be answered using either Statement alone."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Logical and Verbal Reasoning",
+
+    "question": "A question is given followed by two statements, I and II. Examine the question and the statements and determine which of the statements is sufficient to answer the question.<br><br>What is the exact area of a rectangular plot of land?<br><b>Statement I:</b> The distance between the two most distant points on the perimeter of the rectangular plot is exactly 100 meters.<br><b>Statement II:</b> The perimeter of the rectangular plot is exactly 280 meters.<br><br>Which one of the following options is correct with respect to the question and statements give above?",
+
+    "options": [
+
+      "The question can be answered by using only one of the statements alone, but not the other Statement alone.",
+
+      "The question can be answered by using either statement alone.",
+
+      "The question can be answered by using both the statements together, but cannot be answered by using either statement alone.",
+
+      "The question cannot be answered even by using both the statements together."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: (c)</b><br><br>Let Length = L, Breadth = B.<br><br><b>Statement I:</b> In a rectangle, the two most distant points on the perimeter are opposite corners.<br>Distance between opposite corners = diagonal. So, Diagonal = 100.<br>Using Pythagoras: L<sup>2</sup> + B<sup>2</sup> = 100<sup>2</sup> &rarr; L<sup>2</sup> + B<sup>2</sup> = 10000.<br>This is one equation with two unknowns &rarr; infinitely many solutions. Area = L &times; B cannot be uniquely determined.<br><br><b>Statement II:</b> Perimeter = 280.<br>2(L + B) = 280 &rarr; L + B = 140.<br>Again, one equation with two unknowns &rarr; infinitely many solutions. Area = L &times; B cannot be uniquely determined.<br><br><b>Using Both Statements Together:</b><br>From Statement II: L + B = 140<br>Square both sides: (L + B)<sup>2</sup> = 140<sup>2</sup> &rarr; L<sup>2</sup> + B<sup>2</sup> + 2LB = 19600.<br>From Statement I: L<sup>2</sup> + B<sup>2</sup> = 10000.<br>Substitute: 10000 + 2LB = 19600 &rarr; 2LB = 9600 &rarr; LB = 4800.<br>Area = L &times; B = 4800 square meters.<br>The area is uniquely determined only when both statements are used together."
+
+  }
+
+]
