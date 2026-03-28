@@ -188,6 +188,15 @@
         .dropdown-item:last-child { border-bottom: none; }
         .dropdown-item:hover { background: #f8f9fa; color: var(--accent); }
 
+        /* Multi-Select Filter Chips */
+        .filter-panel { background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px; border: 1px solid #eee; }
+        .filter-row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
+        .filter-row:last-child { margin-bottom: 0; }
+        .filter-label { font-weight: 600; font-size: 0.9rem; color: #555; min-width: 85px; font-family: 'Inter', sans-serif; }
+        .f-chip { background: #fff; border: 1px solid #cbd5e1; padding: 6px 14px; border-radius: 20px; font-size: 0.85rem; cursor: pointer; color: #475569; transition: all 0.2s ease; font-weight: 500; }
+        .f-chip:hover { border-color: var(--accent); color: var(--accent); background: #f0f4ff; }
+        .f-chip.active { background: var(--accent); color: white; border-color: var(--accent); box-shadow: 0 2px 4px rgba(41, 98, 255, 0.2); }
+
         .mobile-nav { display: none !important; }
         .mobile-menu { display: none !important; }
 
@@ -344,13 +353,13 @@
                 <button id="prev-btn" onclick="prevQ()" style="background:#555; color:white; border:none; padding:10px 15px; border-radius:4px; font-weight:bold; cursor:pointer;">Prev</button>
                 
                 <div style="display:flex; gap:10px; margin-left:auto;">
-                    <button onclick="clearRes()" style="background:#e74c3c; border:none; padding:10px 15px; color:white; border-radius:4px; cursor:pointer;">Clear</button>
+                    <button onclick="clearRes()" style="background:#e74c3c; border:none; padding:10px 15px; color:white; border-radius:4px; cursor:pointer;">Clear (C)</button>
                     <button id="next-btn" class="primary" style="background:#2962ff; color: white; padding:10px 20px; border-radius:4px; border:none; font-weight:bold; cursor:pointer;" onclick="nextQ()">Save & Next</button>
                 </div>
             </div>
         </div>
 
-        <div class="sidebar-handle" onclick="toggleSidebar()">▶</div>
+        <div class="sidebar-handle" onclick="toggleSidebar()" title="Toggle Sidebar (N)">▶</div>
 
         <div id="pane-sidebar" class="pane-sidebar">
             <div style="padding:15px; background:#f9f9f9; border-bottom:1px solid #eee;">
@@ -422,26 +431,30 @@
         </div>
 
         <div class="analysis-section">
-            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; flex-wrap: wrap; gap: 10px;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
                 <h3 style="margin: 0;">Detailed Review</h3>
-                <div style="display: flex; gap: 10px;">
-                    <select id="filter-status" onchange="applyReviewFilters()" style="padding: 6px; border-radius: 4px; border: 1px solid #ccc; font-weight: bold; color: #333;">
-                        <option value="all">All Statuses</option>
-                        <option value="Correct">✅ Correct</option>
-                        <option value="Wrong">❌ Incorrect</option>
-                        <option value="Skipped">⏭️ Skipped</option>
-                        <option value="Attempted">📝 Attempted (Desc)</option>
-                    </select>
-                    <select id="filter-conf" onchange="applyReviewFilters()" style="padding: 6px; border-radius: 4px; border: 1px solid #ccc; font-weight: bold; color: #333;">
-                        <option value="all">All Confidence</option>
-                        <option value="100%">100%</option>
-                        <option value="50:50">50:50</option>
-                        <option value="Logic">Logic</option>
-                        <option value="Guess">Guess</option>
-                        <option value="None">None</option>
-                    </select>
+            </div>
+            
+            <div class="filter-panel">
+                <div class="filter-row" id="status-filters">
+                    <div class="filter-label">Status:</div>
+                    <button class="f-chip active" data-val="all" onclick="toggleFilter(this, 'status')">All</button>
+                    <button class="f-chip" data-val="Correct" onclick="toggleFilter(this, 'status')">✅ Correct</button>
+                    <button class="f-chip" data-val="Wrong" onclick="toggleFilter(this, 'status')">❌ Incorrect</button>
+                    <button class="f-chip" data-val="Skipped" onclick="toggleFilter(this, 'status')">⏭️ Skipped</button>
+                    <button class="f-chip" data-val="Attempted" onclick="toggleFilter(this, 'status')">📝 Attempted (Desc)</button>
+                </div>
+                <div class="filter-row" id="conf-filters">
+                    <div class="filter-label">Confidence:</div>
+                    <button class="f-chip active" data-val="all" onclick="toggleFilter(this, 'conf')">All</button>
+                    <button class="f-chip" data-val="100%" onclick="toggleFilter(this, 'conf')">100%</button>
+                    <button class="f-chip" data-val="50:50" onclick="toggleFilter(this, 'conf')">50:50</button>
+                    <button class="f-chip" data-val="Logic" onclick="toggleFilter(this, 'conf')">Logic</button>
+                    <button class="f-chip" data-val="Guess" onclick="toggleFilter(this, 'conf')">Guess</button>
+                    <button class="f-chip" data-val="None" onclick="toggleFilter(this, 'conf')">None</button>
                 </div>
             </div>
+
             <div id="review-list"></div>
         </div>
     </div>
@@ -456,7 +469,6 @@
     let LIB_KEY, HIST_KEY;
 
     let library = {}, cloudList = [], activeFile = '', questions = [], currIdx = 0;
-    // ADDED: eliminated variable
     let responses = {}, confidence = {}, visited = {}, eliminated = {};
     let timer, seconds = 0, qTimers = {}, lastQTime = 0;
     let isMultiMode = false, selectedFiles = new Set();
@@ -796,7 +808,6 @@
             return;
         }
 
-        // ADDED: Reset eliminated
         responses = {}; confidence = {}; visited = {}; eliminated = {}; 
         qTimers = {}; currIdx = 0; lastQTime = 0;
         
@@ -843,7 +854,7 @@
         startTimer(); loadQ(0); saveState();
     }
 
-    // --- NEW: Toggle Elimination Logic ---
+    // --- ELIMINATION LOGIC ---
     function toggleElimination(qIndex, optIndex, maxOpts) {
         if (!eliminated[qIndex]) eliminated[qIndex] = [];
         const eList = eliminated[qIndex];
@@ -860,10 +871,22 @@
         }
         
         const count = eList.length;
-        if (count === 1) confidence[qIndex] = 'Logic';
-        else if (count === 2) confidence[qIndex] = '50:50';
-        else if (count === 3) confidence[qIndex] = '100%';
-        else if (count === 0) delete confidence[qIndex];
+        if (count === 0) {
+            if (responses[qIndex] !== undefined) confidence[qIndex] = 'Guess';
+            else delete confidence[qIndex];
+        } else if (count === maxOpts - 1) {
+            // Auto Select Remaining
+            confidence[qIndex] = '100%';
+            for (let o = 0; o < maxOpts; o++) {
+                if (!eList.includes(o)) {
+                    responses[qIndex] = o;
+                    break;
+                }
+            }
+        } else {
+            if (maxOpts - count === 2) confidence[qIndex] = '50:50';
+            else confidence[qIndex] = 'Logic';
+        }
 
         loadQ(qIndex);
         saveState();
@@ -910,7 +933,6 @@
             cBox.style.display = 'none'; 
 
         } else if (Array.isArray(q.options)) {
-            // ADDED: Initialize eliminated array
             if (!eliminated[i]) eliminated[i] = [];
 
             q.options.forEach((opt, idx) => {
@@ -923,6 +945,12 @@
                 div.onclick = () => { 
                     if (isElim) { eliminated[i].splice(eliminated[i].indexOf(idx), 1); }
                     responses[i] = idx; 
+                    
+                    // Auto Guess if no eliminations
+                    if (eliminated[i].length === 0) {
+                        confidence[i] = 'Guess';
+                    }
+                    
                     loadQ(i); 
                     saveState(); 
                 };
@@ -932,7 +960,7 @@
                 const elimBtn = document.createElement('div');
                 elimBtn.className = `elim-btn ${isElim ? 'elim-active' : ''}`;
                 elimBtn.innerHTML = '✖';
-                elimBtn.title = "Eliminate Option";
+                elimBtn.title = "Eliminate Option (Shift + Num)";
                 elimBtn.onclick = (e) => {
                     e.stopPropagation(); 
                     toggleElimination(i, idx, q.options.length);
@@ -944,7 +972,6 @@
             });
 
             const cBtns = document.querySelectorAll('.c-btn');
-            // Check if answered OR eliminated to show confidence box
             if(responses[i] !== undefined || eliminated[i].length > 0) { 
                 cBox.classList.add('active');
                 cBtns.forEach(b => {
@@ -977,7 +1004,7 @@
     function clearRes() { 
         delete responses[currIdx]; 
         delete confidence[currIdx]; 
-        eliminated[currIdx] = []; // ADDED: Wipe elimination
+        eliminated[currIdx] = []; 
         loadQ(currIdx); 
         saveState(); 
     }
@@ -1039,7 +1066,7 @@
         loadLibraryFromStorage();
         activeFile = d.activeFile; questions = d.questions;
         responses = d.responses; confidence = d.confidence; 
-        eliminated = d.eliminated || {}; // ADDED
+        eliminated = d.eliminated || {}; 
         visited = d.visited;
         currIdx = d.currIdx; seconds = d.seconds; isReviewMode = d.isReviewMode;
         qTimers = d.qTimers || {}; lastQTime = Date.now();
@@ -1196,25 +1223,55 @@
             }
         }
         
-        // Ensure filters are reset
-        const statusFilter = document.getElementById('filter-status');
-        const confFilter = document.getElementById('filter-conf');
-        if (statusFilter) statusFilter.value = 'all';
-        if (confFilter) confFilter.value = 'all';
-        if (typeof applyReviewFilters === 'function') applyReviewFilters();
+        if (typeof resetFilters === 'function') resetFilters();
+    }
+
+    // --- MULTI-SELECT FILTER LOGIC ---
+    let activeFilters = {
+        status: new Set(['all']),
+        conf: new Set(['all'])
+    };
+
+    function toggleFilter(btn, type) {
+        const val = btn.getAttribute('data-val');
+        const set = activeFilters[type];
+
+        if (val === 'all') {
+            set.clear();
+            set.add('all');
+        } else {
+            set.delete('all');
+            if (set.has(val)) {
+                set.delete(val);
+                if (set.size === 0) set.add('all'); 
+            } else {
+                set.add(val);
+            }
+        }
+
+        const row = document.getElementById(`${type}-filters`);
+        row.querySelectorAll('.f-chip').forEach(chip => {
+            if (set.has(chip.getAttribute('data-val'))) {
+                chip.classList.add('active');
+            } else {
+                chip.classList.remove('active');
+            }
+        });
+
+        applyReviewFilters();
     }
 
     function applyReviewFilters() {
-        const statusFilter = document.getElementById('filter-status').value;
-        const confFilter = document.getElementById('filter-conf').value;
         const items = document.querySelectorAll('.review-item');
+        const statusSet = activeFilters.status;
+        const confSet = activeFilters.conf;
 
         items.forEach(item => {
             const itemStatus = item.getAttribute('data-status');
             const itemConf = item.getAttribute('data-conf');
 
-            const matchStatus = (statusFilter === 'all') || (itemStatus === statusFilter);
-            const matchConf = (confFilter === 'all') || (itemConf === confFilter);
+            const matchStatus = statusSet.has('all') || statusSet.has(itemStatus);
+            const matchConf = confSet.has('all') || confSet.has(itemConf);
 
             if (matchStatus && matchConf) {
                 item.style.display = 'block';
@@ -1222,6 +1279,21 @@
                 item.style.display = 'none';
             }
         });
+    }
+
+    function resetFilters() {
+        activeFilters.status = new Set(['all']);
+        activeFilters.conf = new Set(['all']);
+        
+        ['status', 'conf'].forEach(type => {
+            const row = document.getElementById(`${type}-filters`);
+            if(row) {
+                row.querySelectorAll('.f-chip').forEach(chip => {
+                    chip.classList.toggle('active', chip.getAttribute('data-val') === 'all');
+                });
+            }
+        });
+        applyReviewFilters();
     }
 
     function recalcScore() {
@@ -1250,19 +1322,14 @@
         if(!reviewSet.length) return;
         if(confirm("Start Review?")) {
             isReviewMode = true; 
-            
             questions = JSON.parse(JSON.stringify(reviewSet)); 
-            
             if (!activeFile.includes("(Review)")) {
                 activeFile += " (Review)"; 
             }
-            
             responses={}; confidence={}; visited={}; eliminated={}; currIdx=0; seconds=0; qTimers={};
-            
             if (typeof window.resetAllDrawings === 'function') {
                 window.resetAllDrawings();
             }
-            
             initExamUI();
         }
     }
@@ -1272,11 +1339,9 @@
         if(!confirm("Retake?")) return;
         isReviewMode=false; questions=prepareQuestions(library[n]); activeFile=n;
         seconds=d; responses={}; confidence={}; visited={}; eliminated={}; qTimers={}; currIdx=0;
-        
         if (typeof window.resetAllDrawings === 'function') {
             window.resetAllDrawings();
         }
-        
         localStorage.removeItem(BASE_KEY+'resume_'+currentProfile);
         initExamUI();
     }
@@ -1293,17 +1358,14 @@
     }
     
     function clearHistory() { localStorage.removeItem(HIST_KEY); loadHistory(); }
-    
     function returnToLibrary() { document.getElementById('result-screen').classList.remove('active'); document.getElementById('upload-screen').classList.add('active'); renderGrid(); loadHistory(); }
     
     function downloadRes() {
         const html = document.getElementById('result-screen').innerHTML;
         const css = document.getElementsByTagName('style')[0].innerText;
         const blob = new Blob([`<html><head><style>${css} body{overflow:visible;} #result-screen{display:block!important;}</style></head><body><div id="result-screen">${html}</div></body></html>`], {type:'text/html'});
-        
         let cleanName = activeFile.replace(/\.json$/i, '').replace(/ \(Review\)$/i, '');
         cleanName = cleanName.replace(/[^a-z0-9\-_]/gi, '_');
-        
         const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = `Result_${cleanName}.html`; a.click();
     }
 
@@ -1311,20 +1373,15 @@
         const q = questions[idx];
         const userAns = responses[idx] || "";
         const marks = q.marks || 10;
-        
         if (!userAns || userAns.trim().length < 5) { 
-            alert("No answer text found to evaluate."); 
-            return; 
+            alert("No answer text found to evaluate."); return; 
         }
-        
         let promptText = `Act as an expert SEBI GRADE A Phase 2 examiner.\n`;
         promptText += `Evaluate the following answer for a ${marks}-mark question.\n\n`;
-        
         if (q.passage) {
             const cleanPassage = q.passage.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
             promptText += `--- REFERENCE PASSAGE ---\n${cleanPassage}\n\n`;
         }
-
         promptText += `--- QUESTION ---\n${q.question.replace(/<[^>]*>/g, '')}\n\n`;
         promptText += `--- MY ANSWER ---\n${userAns}\n\n`;
         promptText += `Please provide:\n1. Strengths of the answer.\n2. Weaknesses/Gaps (Strict evaluation).\n3. A realistic Score out of ${marks}.\n4. Specific suggestions to improve vocabulary and flow.`;
@@ -1338,19 +1395,13 @@
     }
 
     function downloadCSV() {
-        if (!questions || questions.length === 0) {
-            alert("No data available to export.");
-            return;
-        }
-
+        if (!questions || questions.length === 0) { alert("No data available to export."); return; }
         let csvContent = "Q.No,Topic,Question,Correct Answer,My Answer,Status,Confidence,Time Taken (sec)\n";
-
         const escapeCSV = (text) => {
             if (text === null || text === undefined) return '""';
             let s = text.toString().replace(/<[^>]*>?/gm, ' ').replace(/\s+/g, ' ').trim();
             return `"${s.replace(/"/g, '""')}"`;
         };
-
         questions.forEach((q, i) => {
             const qNum = i + 1;
             const topic = q.topic || 'General';
@@ -1358,9 +1409,7 @@
             const conf = confidence[i] || 'None';
             const time = Math.round(qTimers[i] || 0);
 
-            let correctAns = "";
-            let myAns = "";
-            let status = "Skipped";
+            let correctAns = ""; let myAns = ""; let status = "Skipped";
 
             if (q.type === 'descriptive') {
                 correctAns = "N/A (Descriptive)";
@@ -1369,23 +1418,18 @@
             } else {
                 correctAns = q.options[q.answer];
                 const userResp = responses[i];
-                
                 if (userResp !== undefined) {
                     myAns = q.options[userResp];
                     status = (userResp === q.answer) ? "Correct" : "Wrong";
                 } else {
-                    myAns = "Skipped";
-                    status = "Skipped";
+                    myAns = "Skipped"; status = "Skipped";
                 }
             }
-
             csvContent += `${qNum},${escapeCSV(topic)},${escapeCSV(qText)},${escapeCSV(correctAns)},${escapeCSV(myAns)},${escapeCSV(status)},${escapeCSV(conf)},${time}\n`;
         });
-
         const blob = new Blob(["\uFEFF" + csvContent], { type: 'text/csv;charset=utf-8;' }); 
         const link = document.createElement("a");
         const url = URL.createObjectURL(blob);
-        
         let cleanName = activeFile ? activeFile.replace(/\.json$/i, '').replace(/ \(Review\)$/i, '') : "Mock_Test";
         cleanName = cleanName.replace(/[^a-z0-9\-_]/gi, '_');
 
@@ -1397,7 +1441,6 @@
         document.body.removeChild(link);
     }
 
-    // --- DROPDOWN LOGIC ---
     function toggleReportMenu(event) {
         event.stopPropagation();
         document.getElementById('report-menu').classList.toggle('show');
@@ -1410,24 +1453,18 @@
         }
     });
 
-    // --- CENTRAL EXPORT ROUTER ---
     function downloadReport(format) {
         document.getElementById('report-menu').classList.remove('show');
-        
         let cleanName = activeFile ? activeFile.replace(/\.json$/i, '').replace(/ \(Review\)$/i, '') : "Mock_Test";
         cleanName = cleanName.replace(/[^a-z0-9\-_]/gi, '_');
 
-        if (format === 'html') {
-            downloadRes(); 
-        } 
+        if (format === 'html') { downloadRes(); } 
         else if (format === 'md') {
             const mdContent = generateNotionMarkdown();
             const blob = new Blob([mdContent], { type: 'text/markdown;charset=utf-8;' });
             triggerDownload(blob, `Report_${cleanName}.md`);
         } 
-        else if (format === 'pdf') {
-            generatePDF(`Report_${cleanName}.pdf`);
-        }
+        else if (format === 'pdf') { generatePDF(`Report_${cleanName}.pdf`); }
     }
 
     function triggerDownload(blob, filename) {
@@ -1440,10 +1477,8 @@
         document.body.removeChild(link);
     }
 
-    // --- NOTION-OPTIMIZED MARKDOWN GENERATOR ---
     function generateNotionMarkdown() {
         if (!questions || questions.length === 0) return "No data available.";
-
         const score = document.getElementById('r-score').innerText;
         const cor = document.getElementById('r-cor').innerText;
         const wrg = document.getElementById('r-wrg').innerText;
@@ -1470,8 +1505,7 @@
                 md += `**Your Answer:**\n> ${stripHTML(userAns)}\n\n`;
             } else {
                 const userResp = responses[i];
-                let status = "Skipped";
-                let myAns = "Skipped";
+                let status = "Skipped"; let myAns = "Skipped";
                 
                 if (userResp !== undefined) {
                     myAns = q.options[userResp];
@@ -1482,23 +1516,17 @@
                 md += `- **Your Answer:** ${stripHTML(myAns)}\n`;
                 md += `- **Correct Answer:** ${stripHTML(q.options[q.answer])}\n\n`;
                 
-                if (q.explanation) {
-                    md += `**Explanation:**\n> ${stripHTML(q.explanation)}\n\n`;
-                }
+                if (q.explanation) { md += `**Explanation:**\n> ${stripHTML(q.explanation)}\n\n`; }
             }
             md += `---\n\n`;
         });
-
         return md;
     }
 
-    // --- PROGRAMMATIC PDF GENERATION ---
     function generatePDF(filename) {
         const element = document.getElementById('result-screen');
         const btnGroup = document.getElementById('export-btn-group');
-        
         btnGroup.style.display = 'none';
-
         const opt = {
             margin:       0.3,
             filename:     filename,
@@ -1506,36 +1534,54 @@
             html2canvas:  { scale: 2, useCORS: true },
             jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' }
         };
-
-        html2pdf().set(opt).from(element).save().then(() => {
-            btnGroup.style.display = 'flex';
-        });
+        html2pdf().set(opt).from(element).save().then(() => { btnGroup.style.display = 'flex'; });
     }
 
-    // --- TEXT SCALING LOGIC (Ctrl+ / Ctrl- / Ctrl0) ---
+    // --- TEXT SCALING & KEYBOARD SHORTCUTS LOGIC ---
     let resTextScale = 1;
 
     document.addEventListener('keydown', function(e) {
+        const tag = e.target.tagName;
+        if (tag === 'INPUT' || tag === 'TEXTAREA' || e.target.isContentEditable) return;
+
         const resScreen = document.getElementById('result-screen');
-        
         if (resScreen && resScreen.classList.contains('active')) {
             if (e.ctrlKey || e.metaKey) {
                 if (e.key === '=' || e.key === '+' || e.key === '-' || e.key === '0') {
-                    
                     e.preventDefault(); 
-
-                    if (e.key === '=' || e.key === '+') {
-                        resTextScale += 0.1;
-                    } else if (e.key === '-') {
-                        resTextScale -= 0.1;
-                    } else if (e.key === '0') {
-                        resTextScale = 1; 
-                    }
-
+                    if (e.key === '=' || e.key === '+') { resTextScale += 0.1; } 
+                    else if (e.key === '-') { resTextScale -= 0.1; } 
+                    else if (e.key === '0') { resTextScale = 1; }
                     resTextScale = Math.max(0.5, Math.min(resTextScale, 3.0));
                     document.documentElement.style.setProperty('--res-scale', resTextScale);
                 }
             }
+        }
+
+        const examScreen = document.getElementById('exam-screen');
+        if (examScreen && examScreen.classList.contains('active')) {
+            
+            // Shift + Num = Cross out (Eliminate)
+            if (e.shiftKey && ['Digit1', 'Digit2', 'Digit3', 'Digit4', 'Digit5'].includes(e.code)) {
+                e.preventDefault();
+                const idx = parseInt(e.code.replace('Digit', '')) - 1;
+                const q = questions[currIdx];
+                if (q && q.options && idx < q.options.length) {
+                    toggleElimination(currIdx, idx, q.options.length);
+                }
+            } 
+            // Normal Num = Select
+            else if (!e.shiftKey && ['1', '2', '3', '4', '5'].includes(e.key)) {
+                const idx = parseInt(e.key) - 1;
+                const options = document.querySelectorAll('#options-box .opt-label');
+                // Simulate a click so it triggers the Auto-Guess logic perfectly
+                if (options[idx]) options[idx].click();
+            }
+
+            // Other Exam Shortcuts
+            const key = e.key.toLowerCase();
+            if (key === 'c') { if (typeof clearRes === 'function') clearRes(); }
+            if (key === 'n') { if (typeof toggleSidebar === 'function') toggleSidebar(); }
         }
     }, { passive: false });
 </script>
