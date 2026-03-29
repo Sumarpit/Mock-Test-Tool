@@ -1592,25 +1592,116 @@
         let cleanName = activeFile ? activeFile.replace(/\.json$/i, '').replace(/ \(Review\)$/i, '') : "Mock_Test";
         cleanName = cleanName.replace(/[^a-z0-9\-_]/gi, '_');
 
-        if (format === 'html') { downloadRes(); } 
-        else if (format === 'md') {
-            alert("Markdown export requires an update to support advanced diagnostic metrics. Currently using standard layout.");
+        if (format === 'html') { 
+            downloadRes(); 
         } 
-        else if (format === 'pdf') { generatePDF(`Report_${cleanName}.pdf`); }
+        else if (format === 'md') {
+            const mdContent = generateNotionMarkdown();
+            const blob = new Blob([mdContent], { type: 'text/markdown;charset=utf-8;' });
+            triggerDownload(blob, `Report_${cleanName}.md`);
+        } 
+        else if (format === 'pdf') { 
+            generatePDF(`Report_${cleanName}.pdf`); 
+        }
     }
 
-    function generatePDF(filename) {
-        const element = document.getElementById('result-screen');
-        const btnGroup = document.getElementById('export-btn-group');
-        btnGroup.style.display = 'none';
-        const opt = {
-            margin:       0.3,
-            filename:     filename,
-            image:        { type: 'jpeg', quality: 0.98 },
-            html2canvas:  { scale: 2, useCORS: true },
-            jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' }
-        };
-        html2pdf().set(opt).from(element).save().then(() => { btnGroup.style.display = 'flex'; });
+    function generateNotionMarkdown() {
+        if (!questions || questions.length === 0) return "No data available.";
+        
+        const score = document.getElementById('r-score').innerText;
+        const cor = document.getElementById('r-cor').innerText;
+        const wrg = document.getElementById('r-wrg').innerText;
+        const skip = document.getElementById('r-skip').innerText;
+        const testName = activeFile ? activeFile.replace(/\.json$/i, '') : "Mock Test";
+
+        // Calculate Aggregate Diagnostic Metrics
+        let fatalCount = 0;
+        let fiftyTotal = 0;
+        let fiftyCorrect = 0;
+
+        questions.forEach((q, i) => {
+            if (q.type === 'descriptive') return;
+            const ans = responses[i];
+            const conf = confidence[i] || 'None';
+            if (eliminated[i] && eliminated[i].includes(q.answer)) fatalCount++;
+            if (conf === '50:50') {
+                fiftyTotal++;
+                if (ans === q.answer) fiftyCorrect++;
+            }
+        });
+        const cr = fiftyTotal > 0 ? Math.round((fiftyCorrect / fiftyTotal) * 100) : 0;
+
+        // Build Header
+        let md = `# Analysis Report: ${testName}\n\n`;
+        md += `### 📊 Basic Performance\n`;
+        md += `- **Score:** ${score}\n- **Correct:** ${cor}\n- **Wrong:** ${wrg}\n- **Skipped:** ${skip}\n\n`;
+        
+        md += `### 🧠 Advanced Diagnostics\n`;
+        md += `- **Fatal Eliminations:** ${fatalCount} *(Actively eliminated the correct answer)*\n`;
+        md += `- **50:50 Conversion Rate:** ${cr}% (${fiftyCorrect}/${fiftyTotal})\n\n`;
+        md += `---\n\n`;
+
+        const stripHTML = (str) => str ? str.replace(/<br\s*[\/]?>/gi, '\n').replace(/<[^>]*>?/gm, '') : '';
+
+        // Build Question Loop
+        questions.forEach((q, i) => {
+            const time = Math.round(qTimers[i] || 0);
+            const conf = confidence[i] || 'None';
+            const topic = q.topic || 'General';
+
+            md += `### Q${i + 1}. ${stripHTML(q.question)}\n`;
+            md += `- **Topic:** ${topic}\n`;
+            md += `- **Time:** ${time}s | **Confidence:** ${conf}\n`;
+
+            if (q.type === 'descriptive') {
+                const userAns = responses[i] || "No Answer Typed";
+                const descStatus = responses[i] && responses[i].trim().length > 0 ? 'Attempted' : 'Skipped';
+                md += `- **Status:** ${descStatus}\n\n`;
+                md += `**Your Answer:**\n> ${stripHTML(userAns)}\n\n`;
+            } else {
+                const userResp = responses[i];
+                let status = "Skipped"; let myAns = "Skipped";
+                
+                if (userResp !== undefined) {
+                    myAns = q.options[userResp];
+                    status = (userResp === q.answer) ? "Correct" : "Wrong";
+                }
+
+                // Process Eliminations & Diagnostics
+                let elimText = eliminated[i] && eliminated[i].length > 0 
+                    ? eliminated[i].map(idx => String.fromCharCode(65 + idx)).join(', ') 
+                    : "None";
+                let isFatal = eliminated[i] && eliminated[i].includes(q.answer);
+                let instinctChanged = firstChoice[i] !== undefined && firstChoice[i] !== userResp;
+                let trap = traps[i] || "None";
+
+                md += `- **Status:** ${status}\n`;
+                md += `- **Eliminated:** ${elimText}\n`;
+                
+                if (isFatal) {
+                    md += `- 🚩 **Fatal Elimination:** Yes\n`;
+                }
+                if (instinctChanged) {
+                    const firstChar = firstChoice[i] !== undefined ? String.fromCharCode(65 + firstChoice[i]) : '?';
+                    md += `- 🔄 **Instinct Changed:** Yes (Originally chose ${firstChar})\n`;
+                }
+                if (status === 'Wrong' && trap !== 'None') {
+                    md += `- 🪤 **Trap Type:** ${trap}\n`;
+                }
+
+                md += `\n**Your Answer:** ${stripHTML(myAns)}\n`;
+                md += `**Correct Answer:** ${stripHTML(q.options[q.answer])}\n\n`;
+                
+                if (q.explanation) { 
+                    md += `**Explanation:**\n> ${stripHTML(q.explanation)}\n\n`; 
+                }
+                if (q.exp_image) {
+                    md += `*(Image reference: ${q.exp_image})*\n\n`;
+                }
+            }
+            md += `---\n\n`;
+        });
+        return md;
     }
 
     // --- TEXT SCALING & KEYBOARD SHORTCUTS LOGIC ---
