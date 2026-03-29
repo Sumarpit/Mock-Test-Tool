@@ -1,4 +1,5 @@
-// extensions.js - COMPLETE (Hooks + Shortcuts + S-Pen + TCS Mode + Smart Nav)
+// extensions.js - COMPLETE (Hooks + S-Pen + TCS Mode + Smart Nav)
+// Note: Keyboard shortcuts have been migrated to index.html to support advanced logic.
 
 let canvas, ctx;
 let isDrawing = false;
@@ -106,7 +107,6 @@ const EXAM_HOOKS = {
 };
 
 // 2. CANVAS & S-PEN LOGIC
-// 2. CANVAS & S-PEN LOGIC
 function initCanvas() {
     canvas = document.getElementById('drawing-canvas');
     if(!canvas) return;
@@ -116,17 +116,13 @@ function initCanvas() {
     canvas.addEventListener('pointermove', draw);
     canvas.addEventListener('pointerup', endDraw);
     canvas.addEventListener('pointerout', endDraw);
-    canvas.addEventListener('pointercancel', endDraw); // Catch browser interruptions
+    canvas.addEventListener('pointercancel', endDraw); 
     
-    // Default to transparent for fingers/mouse
     canvas.style.pointerEvents = 'none'; 
     
-    // MAGIC: Hover detection for S-Pen
-    // When the pen hovers over the screen, instantly make the canvas solid to capture the stroke.
     document.addEventListener('pointermove', (e) => {
         if (!canvas) return;
         
-        // --- NEW: Abort if in Smart Review Mode ---
         if (typeof isReviewMode !== 'undefined' && isReviewMode) return; 
 
         if (e.pointerType === 'pen' || e.pointerType === 'stylus') {
@@ -157,7 +153,6 @@ function resizeAndLoadCanvas(qIndex) {
 }
 
 function startDraw(e) {
-    // --- NEW: Block drawing in Review Mode ---
     if (typeof isReviewMode !== 'undefined' && isReviewMode) return; 
     
     if (e.pointerType !== 'pen' && e.pointerType !== 'stylus' && e.button !== 0) return; 
@@ -199,73 +194,84 @@ function endDraw(e) {
         const startP = currentPath.points[0];
         const endP = currentPath.points[currentPath.points.length - 1];
         
-        // Calculate how far the pen moved during this stroke
         const dist = Math.hypot(endP.x - startP.x, endP.y - startP.y);
         
-        // TAP DETECTION: If the stroke was tiny (less than 5px), treat it as a click!
         if (dist < 5 && currentPath.points.length < 10) {
-            currentPaths.pop(); // Remove the accidental dot from memory
+            currentPaths.pop(); 
             ctx.clearRect(0, 0, canvas.width, canvas.height);
-            redrawCanvas(); // Redraw without the dot
+            redrawCanvas(); 
             
-            // Temporarily hide canvas and forward the click to the option underneath!
             canvas.style.pointerEvents = 'none';
             const target = document.elementFromPoint(e.clientX, e.clientY);
             if (target) {
-                target.click(); // Select the option
+                target.click(); 
             }
-            return; // Stop here, don't save this stroke
+            return; 
         } else {
             if(typeof currIdx !== 'undefined') drawings[currIdx] = currentPaths;
         }
     }
 }
 
-// 3. KEYBOARD SHORTCUTS
-document.addEventListener('keydown', (e) => {
-    const tag = e.target.tagName;
-    if (tag === 'INPUT' || tag === 'TEXTAREA' || e.target.isContentEditable) return;
-
-    const examScreen = document.getElementById('exam-screen');
-    if (examScreen && examScreen.classList.contains('active')) {
-        const key = e.key.toLowerCase();
-
-        if (e.key === 'ArrowRight') { if (typeof nextQ === 'function') nextQ(); } 
-        else if (e.key === 'ArrowLeft') { if (typeof prevQ === 'function') prevQ(); }
-
-        if (['1', '2', '3', '4', '5'].includes(e.key)) {
-            const idx = parseInt(e.key) - 1;
-            const options = document.querySelectorAll('#options-box .opt-label');
-            if (options[idx]) options[idx].click();
-        }
-
-        const confMap = { 'w': '100%', 'a': '50:50', 'd': 'Logic', 's': 'Guess' };
-        if (confMap[key]) {
-            const targetText = confMap[key];
-            const buttons = document.querySelectorAll('.c-btn');
-            buttons.forEach(btn => { if (btn.innerText.trim() === targetText) btn.click(); });
-        }
+function setupBrush() {
+    ctx.lineCap = 'round';
+    ctx.lineJoin = 'round';
+    if (currentTool === 'pen') {
+        ctx.lineWidth = 2;
+        ctx.strokeStyle = '#e74c3c'; 
+        ctx.globalCompositeOperation = 'source-over';
+    } else if (currentTool === 'highlighter') {
+        ctx.lineWidth = 15;
+        ctx.strokeStyle = 'rgba(255, 235, 59, 0.4)'; 
+        ctx.globalCompositeOperation = 'multiply'; 
     }
+}
 
-    const resScreen = document.getElementById('result-screen');
-    if (resScreen && resScreen.classList.contains('active')) {
-        if (e.code === 'Space') {
-            e.preventDefault(); 
-            const items = document.querySelectorAll('.review-item');
-            const headerOffset = 20; 
-            const currentTop = window.scrollY + headerOffset + 10; 
-            let nextItem = null;
-            for (let item of items) {
-                if (item.offsetTop > currentTop) { nextItem = item; break; }
-            }
-            if (nextItem) {
-                window.scrollTo({ top: nextItem.offsetTop - headerOffset, behavior: 'smooth' });
-            }
+function redrawCanvas() {
+    if(!currentPaths.length) return;
+    currentPaths.forEach(path => {
+        ctx.beginPath();
+        if (path.tool === 'pen') {
+            ctx.lineWidth = 2;
+            ctx.strokeStyle = '#e74c3c';
+            ctx.globalCompositeOperation = 'source-over';
+        } else {
+            ctx.lineWidth = 15;
+            ctx.strokeStyle = 'rgba(255, 235, 59, 0.4)';
+            ctx.globalCompositeOperation = 'multiply';
         }
-    }
-});
+        
+        if(path.points.length > 0) {
+            ctx.moveTo(path.points[0].x, path.points[0].y);
+            for (let i = 1; i < path.points.length; i++) {
+                ctx.lineTo(path.points[i].x, path.points[i].y);
+            }
+            ctx.stroke();
+        }
+    });
+}
 
-// 4. SMART GESTURE NAVIGATION
+window.setTool = function(tool) {
+    currentTool = tool;
+    document.querySelectorAll('.tool-btn').forEach(b => b.classList.remove('active'));
+    if(tool === 'pen') document.getElementById('tool-pen').classList.add('active');
+    if(tool === 'highlighter') document.getElementById('tool-high').classList.add('active');
+};
+
+window.clearCanvas = function() {
+    if(!canvas) return;
+    ctx.clearRect(0, 0, canvas.width / (window.devicePixelRatio || 1), canvas.height / (window.devicePixelRatio || 1));
+    currentPaths = [];
+    if(typeof currIdx !== 'undefined') drawings[currIdx] = [];
+};
+
+window.resetAllDrawings = function() {
+    drawings = {};
+    currentPaths = [];
+    window.clearCanvas();
+};
+
+// 3. SMART GESTURE NAVIGATION
 (function initSmartGestures() {
     const container = document.getElementById('touch-area');
     if (!container) return;
@@ -274,11 +280,9 @@ document.addEventListener('keydown', (e) => {
     let isValidSwipe = false;
 
     container.addEventListener('pointerdown', (e) => {
-        // --- NEW: Allow Touch always. Allow Pen ONLY if in Review Mode ---
         const isTouch = e.pointerType === 'touch';
         const isPenInReview = (e.pointerType === 'pen' || e.pointerType === 'stylus') && (typeof isReviewMode !== 'undefined' && isReviewMode);
         
-        // If it's neither a finger, nor a pen in review mode, ignore the swipe.
         if (!isTouch && !isPenInReview) { 
             isValidSwipe = false; 
             return; 
