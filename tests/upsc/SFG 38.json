@@ -1,4 +1,3 @@
-```json
 [
   {
     "section": "CSAT",
@@ -240,4 +239,3 @@
     "explanation": "<b>Correct Answer: Option (d)</b><br><br>Given:<br>Sum of the first n terms of the AP, Sₙ = n² + 3n<br><br>Find the sum of the first (n − 1) terms:<br>Sₙ₋₁ = (n − 1)² + 3(n − 1)<br>Sₙ₋₁ = n² − 2n + 1 + 3n − 3<br>Sₙ₋₁ = n² + n − 2<br><br>Find the nᵗʰ term of the AP:<br>nᵗʰ term = Sₙ − Sₙ₋₁<br>aₙ = (n² + 3n) − (n² + n − 2)<br>aₙ = 2n + 2<br>aₙ = 2(n + 1)<br><br>Apply the divisibility condition:<br>Given that the nᵗʰ term is divisible by 7.<br>Therefore, 2(n + 1) must be divisible by 7.<br><br>Find the smallest natural number n:<br>Check values of n:<br>n = 4 &rarr; 2(5) = 10 (not divisible by 7)<br>n = 5 &rarr; 2(6) = 12 (not divisible by 7)<br>n = 6 &rarr; 2(7) = 14 (divisible by 7)<br><br>The smallest possible value of n is 6."
   }
 ]
-```
