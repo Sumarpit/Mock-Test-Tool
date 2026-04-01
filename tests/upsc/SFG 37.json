@@ -1,0 +1,1304 @@
+[
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Goldsmiths blow the outermost zone of a flame with a metallic blowpipe for melting gold and silver. For which one of the following reasons do they use the outermost zone of the flame?",
+
+    "options": [
+
+      "It is the hottest part providing the most heat.",
+
+      "This luminous zone doesn’t produce any ash.",
+
+      "It is the least-hottest part protecting the design of jewellery.",
+
+      "Middle zone vaporizes gold leading to loss of metal."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>The outermost zone is the hottest part of the flame. This provides for maximum heat while burning which ensures a quick process. Also, complete combustion takes place in this zone preventing any sort of blackening of metal. The luminous zone is the middle portion which contains unburnt carbon particles."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Friction plays an important role in our day to day life. In this context, consider the following statements:<br>If there is no friction,:<br>I. walking or running would be impossible.<br>II. construction of buildings would be impossible.<br>III. there would be a significant increase in the power consumption to enable maglev trains to reach higher speeds.<br>IV. nails could not be fixed into walls or wood.<br>V. a higher amount of electricity would be required to fully charge an electric vehicle.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I, II, IV and V only",
+
+      "I, II and IV only",
+
+      "III and V only",
+
+      "I, II, III, IV and V"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is correct:</b> Without friction, even basic actions like walking or writing would not be possible. Our feet would keep sliding backward against the ground, making walking or running impossible.<br><br><b>Statement II is correct:</b> Buildings may be constructed only due to the force of friction between different building materials. Without friction, materials like bricks and steel would slide apart.<br><br><b>Statement III is incorrect:</b> Maglev trains float over guideways using magnets, so there is no rail friction. Therefore, power consumption for reaching higher speeds would not be impacted if there were no friction.<br><br><b>Statement IV is correct:</b> When hammering a nail into wood or a wall, friction between the nail and the material keeps it securely in place.<br><br><b>Statement V is incorrect:</b> Friction is not directly involved in the electrical charging process of a stationary EV."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Consider the following scenario:<br>Two inflated balloons are rubbed with the same woolen cloth and are brought close to each other. It is observed that the balloons repel each other.<br><br>In the above scenario which force is exerted by one of the charged balloons on the other charged balloon?",
+
+    "options": [
+
+      "Gravitational force",
+
+      "Weak nuclear force",
+
+      "Electrostatic force",
+
+      "Centripetal force"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>When two inflated balloons are rubbed with the same woolen cloth, they acquire similar charges. Because similarly charged objects repel each other, the balloons are pushed apart. The force exerted by a charged body on another charged body or an uncharged body is called an electrostatic force."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Lactometers, which are used for determining the purity of milk, work on the basis of which of the following principles/laws?",
+
+    "options": [
+
+      "Coulomb’s law",
+
+      "Archimedes’ principle",
+
+      "Pascal's law",
+
+      "Bernoulli’s principle"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>Lactometers, used for determining the purity of milk, are based on Archimedes’ principle. Archimedes’ principle states that when a body is immersed fully or partially in a fluid, it experiences an upward force that is equal to the weight of the fluid displaced by it. The lactometer floats at different depths depending on the density of the milk, which relates to its fat content."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Water can dissolve more substances than any other liquid because:",
+
+    "options": [
+
+      "It is dipolar in nature",
+
+      "It is a good conductor of heat",
+
+      "It has high value of specific heat",
+
+      "It is an oxide of hydrogen"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Water is called the \"universal solvent\" because it is capable of dissolving more substances than any other liquid. Water molecules have a polar arrangement where one side (hydrogen) has a positive electrical charge, and the other side (oxygen) has a negative charge. This dipolar structure allows the water molecule to attract and pull apart many other different types of molecules."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> A bar magnet when suspended freely, the north and south poles of the magnet points approximately towards geographic north and south poles respectively.<br><b>Statement II:</b> The force of attraction and repulsion of the magnet is highest at its poles.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
+      "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+
+      "Statement I is correct but Statement II is not correct",
+
+      "Statement I is not correct but Statement II is correct"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is correct:</b> A freely suspended magnet comes to rest along the north-south direction.<br><br><b>Statement II is correct but does not explain Statement I:</b> The force of attraction and repulsion is maximum at the poles of the magnet because the density of magnetic lines per unit area is maximum there. However, this is not why the magnet aligns north-south. A freely suspended magnet aligns in the geographical north-south direction because the Earth itself acts like a giant bar magnet, and the magnet aligns in response to the Earth’s magnetic field."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Despite being constructed of a material denser than seawater, a large steel ship remains afloat on the ocean surface without sinking primarily because:",
+
+    "options": [
+
+      "the steel used in shipbuilding is treated with specialized chemical coatings that repel water.",
+
+      "the buoyant force exerted by the water displaced by the ship is equal to the total weight of the ship.",
+
+      "the continuous upward thrust generated by ocean currents and surface waves supports the ship against gravity.",
+
+      "the temperature difference between seawater and steel causes thermal expansion that keeps the ship afloat."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>The floating of a steel ship is governed by Archimedes’ Principle. A large ship is designed with a hollow structure, which increases its overall volume and enables it to displace a large quantity of seawater. When the ship is placed in water, it sinks only up to the level where the weight of the displaced seawater becomes equal to the total weight of the ship. At this point, the upward buoyant force balances the downward gravitational force, keeping the ship afloat."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> Walls of a large dam are designed with a much wider base compared to their top.<br><b>Statement II:</b> The horizontal pressure exerted by water on a dam wall increases with increase in depth of water.<br><br>Which of the above is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Statement I is correct:</b> Walls of large dams are constructed with a much wider and stronger base to withstand the very high horizontal forces exerted by water at the bottom.<br><br><b>Statement II is correct and explains Statement I:</b> Hydrostatic pressure due to a fluid (water) increases linearly with depth. To ensure structural stability against this increasing horizontal pressure, the thickness of the dam wall must be increased as the depth increases, which is why the base is wider."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "During storms accompanied by high-speed winds, it is considered safer to keep the doors and windows of a house with roof made of tin sheets open primarily because:",
+
+    "options": [
+
+      "it increases the weight of air inside the house and stabilizes the walls.",
+
+      "it decreases the weight of air inside the house and stabilizes the walls.",
+
+      "it reduces the pressure difference between inside the house and over the roof of the house.",
+
+      "it increases the pressure difference between inside the house and over the roof of the house."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>When high-speed winds blow over houses, a low-pressure area is created over them. This means the air pressure above the roofs is lower than the pressure inside the house. If the doors and windows are kept open, wind moves through the house, significantly reducing the pressure difference between the inside of the house and over the roof. This equalization helps prevent weak roofs, like those made of tin sheets, from being blown off."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "During a lightning discharge on earth, which among the following will be a comparatively safer way for a person to avoid its harmful impact?",
+
+    "options": [
+
+      "To use an umbrella with a metallic rod.",
+
+      "To lie down flat on the ground.",
+
+      "To take shelter in a nearby bus or car",
+
+      "To stand up in a nearby water body"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>In a thunderstorm accompanied by lightning, it is safer to take shelter inside a car or a bus. The metallic body of the vehicle provides electrostatic shielding from lightning and minimizes the person's contact with the ground, preventing the electric charge from passing through their body."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Which one of the following is a reason why astronomical distances are measured in light-year?",
+
+    "options": [
+
+      "Distances among stellar bodies do not change.",
+
+      "Gravity of stellar bodies does not change.",
+
+      "Light always travels in a straight line.",
+
+      "The speed of light is always the same."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>A light-year is a measurement of distance in space. Astronomical distances are measured in light-years primarily because the speed of light in a vacuum is a universal constant, making it a reliable standard for calculating vast distances throughout the universe."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Consider the following substances and arrange them in descending order of their melting points:<br>I. Urea<br>II. Iron<br>III. Water<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "II-III-I",
+
+      "III-I-II",
+
+      "III-II-I",
+
+      "II-I-III"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>The melting point of a substance depends heavily on the strength of the forces holding its particles together.<br><br><b>Iron (II):</b> It is a transition metal with strong metallic bonding, giving it a very high melting point of about 1538°C.<br><b>Urea (I):</b> It is an organic molecular compound held together by weaker intermolecular forces, resulting in a low melting point of around 133°C.<br><b>Water (III):</b> Pure water transitions between solid and liquid states at 0°C (32°F).<br><br>Therefore, the descending order of melting points is Iron &gt; Urea &gt; Water."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "The comparatively faster dissolution of sugar in hot water than in cold water, as observed in daily life, is best explained by which one of the following physical phenomena?",
+
+    "options": [
+
+      "Higher temperature increases the surface tension of water, improving its ability to penetrate sugar crystals.",
+
+      "Higher temperature increases the kinetic energy of water molecules, enhancing the rate of interaction with sugar particles.",
+
+      "Higher temperature increases the density of water, thereby improving its capacity to dissolve sugar molecules.",
+
+      "Higher temperature causes chemical breakdown of sugar molecules in water, facilitating their rapid mixing."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>The dissolution of sugar in water is a physical process. When water is heated, its molecules gain higher kinetic energy and move more rapidly. Because of this increased motion, the water molecules collide more frequently and with greater energy against the surface of the sugar crystals. These vigorous collisions weaken the intermolecular forces holding the sugar together, allowing it to dissolve much faster in hot water than in cold water."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "With reference to alloys and their composition, consider the following pairs:<br><br><b>Alloy &mdash; Composition</b><br>I. Brass &mdash; Copper and Zinc<br>II. Bronze &mdash; Copper and Tin<br>III. Stainless Steel &mdash; Copper and Iron<br><br>How many of the pairs given above are correctly matched?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Pair I is correct:</b> Brass is a substitutional alloy formed by adding zinc to copper, which increases its strength and corrosion resistance.<br><br><b>Pair II is correct:</b> Bronze is created by alloying tin with copper, enhancing the hardness and wear resistance of the copper.<br><br><b>Pair III is incorrect:</b> Stainless steel is not an alloy of copper and iron. It is primarily composed of iron and chromium, often with added nickel or carbon to improve its properties."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "The surface of a lake is frozen in severe winter, but the water at its bottom is still liquid. What is the reason?",
+
+    "options": [
+
+      "Ice is a bad conductor of heat",
+
+      "Since the surface of the lake is at the same temperature as the air, no heat is lost.",
+
+      "The density of water is maximum at 4°C.",
+
+      "None of the statements (a), (b) and (c) given is correct."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>Warm water generally gets denser as it cools and therefore sinks. However, when water cools below 4°C, it begins to expand and becomes less dense. Because of this unique property, the colder water floats to the top while the slightly warmer, denser water remains at the bottom. The water at the surface eventually freezes into ice, which is significantly less dense than liquid water and acts as an insulating layer."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "If lime water turns milky when exposed to air, it indicates the presence of which one of the following gases in the air?",
+
+    "options": [
+
+      "Hydrogen",
+
+      "Carbon dioxide",
+
+      "Methane",
+
+      "Nitrogen"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>Lime water is a clear solution containing calcium hydroxide. When it comes into contact with carbon dioxide gas, a chemical reaction occurs that forms calcium carbonate. Calcium carbonate is insoluble in water and appears as fine white particles suspended in the liquid. These particles scatter light and cause the solution to turn milky, confirming the presence of carbon dioxide."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> Water is not considered an element.<br><b>Statement II:</b> Pure Water is composed of hydrogen and oxygen combined in a fixed proportion.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Statement I is correct:</b> Water is not an element because it is not composed of a single type of atom, and it can be broken down into simpler substances (hydrogen and oxygen) by chemical means.<br><br><b>Statement II is correct and explains Statement I:</b> Water is formed by the chemical combination of hydrogen and oxygen in a fixed ratio of 2:1 by number of atoms. This fixed proportion of different elements classifies water as a compound, which fundamentally explains why it is not an element."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "With reference to certain physical properties of metals and non-metals at room temperature, consider the following statements:<br>I. Mercury is the only metal that exists in liquid state at room temperature.<br>II. Bromine is the only non-metal that exists in liquid state at room temperature.<br>III. Graphite is the only metal that is a good conductor of electricity.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Statement I is correct:</b> Mercury, also known as quicksilver, is uniquely the only metal that exists as a liquid at room temperature.<br><br><b>Statement II is correct:</b> Bromine is the sole non-metal that exists in liquid form at room temperature; most other non-metals are either gases or solids.<br><br><b>Statement III is incorrect:</b> Graphite is a non-metal, not a metal. While it does conduct electricity well due to free electrons in its structure, it remains classified as a non-metal."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> Graphene aerogel can be used to clean up oil spills in both seas and on land.<br><b>Statement II:</b> Graphene aerogel is highly porous in nature.<br><b>Statement III:</b> Graphene aerogel is one of the lightest materials on the Earth.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+
+      "Only one of the Statements II and III is correct and that explains Statement I",
+
+      "Neither Statement II nor Statement III is correct"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>Graphene, often referred to as a ‘wonder material’, can carry extremely high electrical currents, making it a promising building block for next-generation ultra-fast electronics. Graphene is a single layer of carbon atoms arranged in a two-dimensional (2D) lattice and is mechanically strong and flexible, similar to carbon nanotubes (CNTs).<br><br><b>Statement I is correct:</b> Graphene aerogel can be used to clean up oil spills in both seas and on land. This application is based on its ability to absorb large quantities of oil while remaining extremely lightweight.<br><br><b>Statement II is correct and explains Statement I:</b> Graphene aerogel has a highly porous internal structure, which provides it with high surface area and absorption capacity. This high porosity enables the material to effectively soak up oil from water bodies and land surfaces.<br><br><b>Statement III is correct but does not explain Statement I:</b> Graphene aerogel is said to be the lightest material on earth. It has such a low density that it can rest on delicate surfaces like grass without causing damage. However, its extreme lightness is not the primary reason for its effectiveness in oil-spill cleanup; rather, the key factors are its porosity and absorption properties."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Consider the following pairs:<br><br><b>Item &mdash; Primary constituent</b><br>I. Cement &mdash; Lime<br>II. Talcum powder &mdash; Mineral talc<br>III. Glass &mdash; Silica<br><br>How many of the pairs given above are correctly matched?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Pair I is correct:</b> The basic raw materials used in the manufacture of cement are Lime, silica, alumina and iron oxide. The approximate percentage of calcium oxide or lime in cement is 60-67%. These compounds provide essential oxides like calcium oxide, silica, and alumina, which are responsible for the strength and binding properties of cement.<br><br><b>Pair II is correct:</b> Talcum powder is manufactured from mineral talc, a naturally occurring hydrated magnesium silicate mineral. Talc is the softest mineral and is the primary constituent of talcum powder.<br><br><b>Pair III is correct:</b> The primary constituent of glass is silica (SiO₂), which is generally obtained from sand. Alumina (Al₂O₃) is added in small quantities to improve the durability and chemical resistance of glass."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "In a pressure cooker, the temperature at which the food is cooked depends mainly upon which of the following?<br>1. Area of the hole in the lid<br>2. Temperature of the flame<br>3. Weight of the lid<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1 and 2 only",
+
+      "2 and 3 only",
+
+      "1 and 3 only",
+
+      "1, 2 and 3"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Option 1 is correct:</b> The area of the hole in the lid will affect pressure inside the pressure cooker that affects the temperature at which liquid boils in the cooker.<br><br><b>Option 2 is incorrect:</b> Temperature of the flame is not a factor because it will not impact the temperature at which the food cooks, that will remain the same whether the flame is low or high. The temperature of the flame will decide the pace of cooking.<br><br><b>Option 3 is correct:</b> Internal pressure depends upon the weight of the lid plus the external atmospheric pressure. As the temperature at which the food cooks is the boiling point of the internal water, which goes up with the internal pressure, the cooking time will depend on the weight of the lid."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Mr. X’s power of accommodation of the eye has decreased with ageing. He visited an eye clinic to get his eyes tested. As per the doctor, he is suffering from both myopia and hypermetropia. The doctor will recommend to him which type of lenses?",
+
+    "options": [
+
+      "Convex lens",
+
+      "Concave lens",
+
+      "Bi-focal lens",
+
+      "Blue lens"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>The power of accommodation of the eye usually decreases with ageing. For most people, the near point gradually recedes away. They find it difficult to see nearby objects comfortably and distinctly without corrective eye-glasses. This defect is called Presbyopia. It arises due to the gradual weakening of the ciliary muscles and diminishing flexibility of the eye lens.<br><br>Sometimes, a person may suffer from both myopia and hypermetropia. Such people often require bi-focal lenses. A common type of bi-focal lens consists of both concave and convex lenses. The upper portion consists of a concave lens. It facilitates distant vision. The lower part is a convex lens. It facilitates near vision. Thus, Mr. X would be prescribed a bi-focal lens for his condition.<br><br><b>Knowledge Base:</b><br><ul><li><b>Myopia</b> is also known as near-sightedness. A person with myopia can see nearby objects clearly but cannot see distant objects distinctly. A concave lens of suitable power will bring the image back on to the retina and thus the defect is corrected.</li><li><b>Hypermetropia</b> is also known as far-sightedness. A person with hypermetropia can see distant objects clearly but cannot see nearby objects distinctly. This defect can be corrected by using a convex lens of appropriate power.</li><li><b>Blue lens</b> glasses help at reducing glare in snowy or icy conditions, which makes them ideal for winter sports and other outdoor activities.</li></ul>"
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Consider the following:<br>I. Mirror used by Dentist for inspecting the teeth<br>II. Mirrors installed at road intersections or sharp bend<br>III. Headlight of Cars<br>IV. Shaving and make up Mirrors<br><br>In how many of the above are convex mirrors primarily used?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "None"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Mirrors, whose reflecting surfaces are spherical, are called spherical mirrors. The reflecting surface of the spherical mirror may be curved inwards or outwards. A spherical mirror, which has a reflecting surface that curves inwards, is called a concave mirror. A spherical mirror which has a reflecting surface that curves outwards is called a convex mirror.<br><br>In the concave mirror, when the object is placed close to the mirror, the image is erect but larger than the object in size, that is, enlarged. However, when the object is moved farther away, the image becomes inverted.<br><br>In the case of a convex mirror, the image is always erect and smaller than the object, which is diminished.<br><br><b>Option I is incorrect:</b> A dental mirror used by a dentist for inspecting teeth is a concave mirror which provides an enlarged view of teeth when held close to the teeth inside the mouth.<br><br><b>Option II is correct:</b> Convex mirrors are installed at road intersections or sharp bends to provide drivers from both sides the visibility of the other side and prevent collisions.<br><br><b>Option III is incorrect:</b> The reflectors of torches, headlights of cars and scooters are concave in shape. Convex mirrors are used as side view mirrors of vehicles.<br><br><b>Option IV is incorrect:</b> A concave mirror is used as shaving and make up mirrors. It is because when the concave mirror is placed very close to the object, a magnified and virtual image is obtained."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Consider the following properties:<br>I. Mass<br>II. Density<br>III. Volume<br><br>How many of the above properties will change when the temperature of a metal increases, while other conditions remain unchanged?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>When the temperature of a metal increases, its atoms gain kinetic energy and vibrate more vigorously about their mean positions. This microscopic change results in macroscopic changes in some physical properties of the metal, while others remain unaffected when external conditions are unchanged.<br><br><b>Option I is incorrect:</b> Heating a metal does not involve any addition or loss of matter. Therefore, the mass of the metal remains unchanged.<br><br><b>Option II is correct:</b> Density is defined as mass per unit volume. On heating, the volume of the metal increases while mass remains constant, causing the density to decrease. Hence, density changes with temperature. (Density = Mass/Volume).<br><br><b>Option III is correct:</b> An increase in temperature causes the metal to undergo thermal expansion, as atoms move farther apart. This leads to an increase in volume."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Scattering of ‘α-particles’ by a thin gold foil suggests the presence of:",
+
+    "options": [
+
+      "electron in an atom",
+
+      "proton in an atom",
+
+      "positively charged nucleus at the centre of an atom",
+
+      "isotopes of gold"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>The scattering of alpha particles by a thin gold foil, as observed in the famous experiment conducted by Ernest Rutherford, led to the conclusion that most of the mass and positive charge of an atom is concentrated in a small, dense region called the nucleus. This discovery suggested the presence of a positively charged nucleus at the center of an atom, which is surrounded by negatively charged electrons."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "The different phases of the Moon is primarily caused by:",
+
+    "options": [
+
+      "the Earth’s shadow falling on the Moon during its revolution around the Earth.",
+
+      "the relative change in the positions of the Sun, Moon and Earth as the Moon revolves around the Earth.",
+
+      "periodic changes in the distance between the Earth and the Moon.",
+
+      "the inclination of the Earth’s axis leading to unequal illumination of the Moon."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Option a is incorrect:</b> The Earth’s shadow falls on the Moon only during a lunar eclipse. Lunar eclipses are rare events and do not occur every month. Moon phases, on the other hand, occur regularly every month.<br><br><b>Option b is correct:</b> The Moon is a non-luminous body. It does not emit light of its own. It becomes visible only because it reflects sunlight. At any moment, half of the Moon is always illuminated by the Sun, irrespective of the phase. As the Moon revolves around the Earth, the angle between the Sun, Earth and Moon continuously changes. Because of this changing geometry, we see different portions of the Moon’s sunlit surface. This produces the sequence of phases of the Moon such as New Moon, First Quarter and Full Moon among others.<br><br><b>Option c is incorrect:</b> The Moon’s distance from the Earth varies slightly due to its elliptical orbit. However, this variation affects only the apparent size of the Moon, not its phases. Distance has no role in determining which part of the Moon appears illuminated.<br><br><b>Option d is incorrect:</b> The inclination of the Earth’s axis is responsible for seasons, not Moon phases. The illumination of the Moon depends on sunlight and orbital positions, not on Earth’s axial tilt."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "With reference to the motion of Earth, which of the following best describes the term ‘tropical year’?",
+
+    "options": [
+
+      "The time interval between occurrence of two successive spring equinoxes.",
+
+      "The time taken by the Earth to complete one revolution around the Sun.",
+
+      "The time interval between two successive perihelion positions of the Earth.",
+
+      "The time interval between two successive aphelion positions of the Earth."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>The Earth revolves around the Sun in a nearly elliptical orbit. At the same time, the Earth’s axis is tilted. Because of this tilt, the Sun’s apparent position shifts north and south of the equator, giving rise to seasons.<br><br>A tropical year is defined as the time interval between two successive spring equinoxes. The spring equinox marks the beginning of the seasonal cycle in the northern hemisphere. Since seasons repeat after one tropical year, this definition is season-based. For this reason, the Gregorian calendar follows the tropical year."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "With reference to Earth’s cardinal directions, on which of the following events does the Sun rise exactly in the East and set exactly in the West?",
+
+    "options": [
+
+      "The Aphelion",
+
+      "The Perihelion",
+
+      "The Solstices",
+
+      "The Equinoxes"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>The apparent position of sunrise and sunset on the horizon is influenced by the tilt of the Earth’s axis and the Earth’s revolution around the Sun. Because the Earth’s axis is tilted, the Sun’s apparent path shifts northward and southward during the year. As a result, the Sun usually rises north of East or south of East, and sets north of West or south of West.<br><br>However, on the days of the equinox, the Sun is positioned directly above the Earth’s equator. Both hemispheres receive equal sunlight. On these days, the Sun rises exactly in the East and sets exactly in the West at almost all places on Earth. This happens twice a year, around March and September."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "When the same tone is played on a sitar and a flute, the sound produced can be distinguished from each other because of the difference in:",
+
+    "options": [
+
+      "pitch, loudness, and quality",
+
+      "pitch and loudness",
+
+      "quality only",
+
+      "loudness only"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>When the same tone is played on a sitar and a flute, the pitch and loudness of the sound produced will be the same. However, the quality of the sound will be different.<br><br>This is because the two instruments have different constructions and different ways of producing sound. The sitar is a stringed instrument, and the sound is produced when the strings are plucked. The flute is a wind instrument, and the sound is produced when the player blows into the mouthpiece."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Consider the following:<br>I. Baking soda solution<br>II. Washing powder solution<br>III. Sugar solution<br>IV. Lemon juice<br><br>How many of the above are acidic in nature?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Substances are classified as acidic, basic or neutral based on the nature of the ions they produce in aqueous solutions. Acids release hydrogen ions (H⁺), bases release hydroxide ions (OH⁻), and neutral substances do not significantly release either.<br><br><b>Option I is incorrect:</b> Baking soda is sodium bicarbonate. When dissolved in water, it produces bicarbonate ions, which make the solution mildly basic. It is commonly used to neutralise acids.<br><br><b>Option II is incorrect:</b> Washing powders contain alkaline substances such as sodium carbonate. When dissolved in water, they produce hydroxide ions, making the solution basic. This basic nature helps in removing grease and dirt.<br><br><b>Option III is incorrect:</b> Sugar does not ionise in water. It does not release hydrogen ions or hydroxide ions. As a result, sugar solution is neutral in nature.<br><br><b>Option IV is correct:</b> Lemon juice contains citric acid. It readily releases hydrogen ions in solution. This is why lemon juice tastes sour."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Consider the following statements:<br>1. Light is affected by gravity.<br>2. The Universe is constantly expanding.<br>3. Matter warps its surrounding space-time.<br><br>Which of the above is/are the prediction/ predictions of Albert Einstein’s General Theory of Relativity, often discussed in the media?",
+
+    "options": [
+
+      "1 and 2 only",
+
+      "3 only",
+
+      "1 and 3 only",
+
+      "1, 2 and 3"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>According to Albert Einstein’s General Theory of Relativity:<br><ul><li>Light will be affected the same way matter is affected by gravity.</li><li>Based on this theory, Hubble found that distant galaxies move away faster than those that are relatively nearby and the universe is indeed expanding.</li><li>Gravity is caused by a warping of space and time. Gravity is the curvature of the universe, caused by massive bodies, which determines the path that objects travel.</li></ul>"
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Consider the following:<br>I. Hydrangea plant<br>II. Beetroot<br>III. Turmeric<br>IV. Indian blackberry (Jamun)<br>V. Red hibiscus (Gudhal) flower<br>VI. Red rose flower<br>VII. Purple cabbage<br><br>How many of the above act as natural indicators to determine the acidic or basic nature of a substance/solution?",
+
+    "options": [
+
+      "Only four",
+
+      "Only five",
+
+      "Only six",
+
+      "All the seven"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>Some plants contain natural pigments that respond to changes in acidity or basicity of substances/solutions. These pigments undergo visible colour changes when exposed to acidic or basic substances. Because of this property, such plant extracts can be used as natural acid-base indicators.<br><br><b>Option I is correct:</b> Hydrangea flowers change colour based on the pH of the soil. In acidic soil, the flowers appear blue, while in alkaline soil they appear pink or red.<br><br><b>Option II is correct:</b> Beetroot contains betalain pigments. In acidic solutions, beetroot extract generally retains a deep red or pink colour. In basic solutions, the colour becomes yellowish or fades significantly.<br><br><b>Option III is correct:</b> Turmeric contains curcumin, a well-known natural indicator. It remains yellow in acidic or neutral solutions but turns reddish-brown in basic solutions.<br><br><b>Option IV is correct:</b> Jamun contains anthocyanin pigments. In an acidic medium, jamun extract appears red or pink. In a basic medium, it turns bluish or greenish.<br><br><b>Option V is correct:</b> Red hibiscus flowers are rich in anthocyanins. In acidic solutions, the extract turns dark pink or red. In basic solutions, it becomes greenish.<br><br><b>Option VI is correct:</b> Red rose extract turns red in an acidic solution and in basic solutions, it changes to green.<br><br><b>Option VII is correct:</b> Purple cabbage contains anthocyanin pigments that are highly sensitive to pH. In acidic solutions, the extract appears reddish. In basic solutions, it turns greenish to yellow."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> Addition of manure and composted leaves to soil helps in reducing its alkalinity.<br><b>Statement II:</b> Organic matter upon decomposition, releases acids in the soil.<br><br>Which of the above is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Healthy plant growth depends not only on water and sunlight but also on the chemical nature of the soil. Soil can be acidic, basic or neutral, and each crop grows best within a specific range of soil reaction.<br><br><b>Statement I is correct:</b> When soil becomes too basic or alkaline, plant growth is adversely affected. In such situations, organic matter like manure and composted leaves is added to the soil. This practice helps in reducing the alkalinity and improving soil health.<br><br><b>Statement II is correct:</b> Organic matter, when decomposed by soil microorganisms, releases acids into the soil. These acids react with the basic components present in alkaline soil. As a result, the basic nature of the soil is neutralised.<br><br><b>Statement II explains Statement I:</b> Organic matter reduces soil alkalinity because it releases organic acids in the soil during decomposition. This boosts productivity and plant growth."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "With reference to the electrical conductivity of materials, consider the following:<br>I. Glass<br>II. Paper<br>III. Wax<br>IV. Mercury<br><br>How many of the above materials are good conductors of electricity?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Electrical conductivity depends on the availability of free electrons or charged particles that can move easily through a material. Materials that allow electric current to pass through them easily are called conductors and those that strongly resist the flow of current are known as insulators.<br><br><b>Option I is incorrect:</b> Glass is an insulating material. Its electrons are tightly bound and cannot move freely. As a result, electric current cannot pass through glass easily.<br><br><b>Option II is incorrect:</b> Paper, in its dry form, is an electrical insulator. It does not have free electrons or ions that can carry electric charge. Although wet paper may conduct slightly due to moisture, dry paper does not.<br><br><b>Option III is incorrect:</b> Wax is commonly used to coat electrical wires precisely because it prevents the flow of current. Its molecular structure does not allow charge movement.<br><br><b>Option IV is correct:</b> Mercury is a metal, and metals are generally good conductors of electricity. Even in its liquid state, mercury has free electrons that can move easily. Therefore, mercury is a good conductor of electricity."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Sonic boom is produced when a source of sound travels at a speed:",
+
+    "options": [
+
+      "greater than the speed of sound.",
+
+      "greater than the speed of light.",
+
+      "lesser than the speed of sound.",
+
+      "equal to the speed of sound."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>A sonic boom is a phenomenon that occurs when an object travels through the air at a speed greater than the speed of sound. When the object reaches the speed of sound, it compresses the air in front of it, and the pressure waves begin to pile up. This creates a shock wave.<br><br>Once the object surpasses the speed of sound, it continues to compress the waves in front, and the shock wave forms a cone behind the object. When this shock wave reaches an observer, it is heard as a sonic boom."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Consider the following:<br>I. Nickel<br>II. Cobalt<br>III. Copper<br><br>How many of the above elements are magnetic in nature at room temperature?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Options I and II are correct:</b> The materials which are attracted towards a magnet are called magnetic materials. The metal iron is a magnetic material. Nickel and cobalt are other metals that are also magnetic. Some of their combinations with other metals are also attracted towards magnets. Iron, nickel and cobalt are a special class of elements known as ferromagnets, which interact particularly strongly with magnetic fields and make permanent magnets.<br><br><b>Option III is incorrect:</b> The materials which are not attracted towards a magnet are called non-magnetic materials. Copper is not a magnetic material; it is classified as a diamagnetic material. Diamagnetic materials have a weak, negative susceptibility to magnetic fields."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Despite the atmospheric air column exerting a very large force on the Earth’s surface, human beings do not feel crushed by it primarily because:",
+
+    "options": [
+
+      "the density of atmospheric air near the Earth’s surface is very low.",
+
+      "Human tissues are rigid enough to withstand high external pressure.",
+
+      "the pressure inside the human body is nearly equal to the atmospheric pressure.",
+
+      "gravitational force counterbalances the atmospheric pressure."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Option c is correct:</b> The atmospheric air column exerts a very large pressure on the Earth’s surface. For example, the force exerted by the atmospheric air column over an area 15 cm × 15 cm is nearly equal to the force of gravity on an object of mass 225 kg (2250 N).<br><br>However, human beings do not feel crushed by this force because the internal pressure inside the human body (caused by the movement of fluids and gases in tissues and organs of the body) is almost equal to the external atmospheric pressure. Due to this balance, the external pressure is counteracted from within, and hence there is no net compressive force acting on the body.<br><br><b>Option a is incorrect:</b> Air density is maximum near the Earth’s surface, not low, and decreases with altitude. Humans do not feel crushed because internal body pressure balances the external atmospheric pressure.<br><br><b>Option b is incorrect:</b> Human tissues are not rigid; they are soft and elastic.<br><br><b>Option d is incorrect:</b> Gravity acts downward, while atmospheric pressure acts in all directions. Gravity does not neutralize air pressure."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Vapour formation, which refers to the conversion of a liquid into its gaseous state from the surface of the liquid, can occur:",
+
+    "options": [
+
+      "only at the boiling point of the liquid.",
+
+      "only at temperatures above the boiling point of the liquid.",
+
+      "at any temperature.",
+
+      "only at temperatures close to the critical temperature of the liquid."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>Vapour formation from a liquid can occur at all temperatures, though the mechanism and rate differ depending on the temperature.<br><br>At temperatures below the boiling point of the liquid, vapour formation occurs only at the surface of the liquid and proceeds relatively slowly. This process is called evaporation. It happens because some molecules at the surface have enough kinetic energy to overcome intermolecular forces and escape into the air as vapour.<br><br>Evaporation can occur at any temperature, and its rate increases with temperature, surface area, and airflow.<br><br>At the boiling point of the liquid, vapour formation becomes very rapid and occurs throughout the liquid, not just at the surface. This is observed as the formation of bubbles within the liquid, and the process is called boiling. Thus, while boiling is limited to the boiling point, evaporation can occur at all temperatures."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "With reference to the litmus paper, which of the following statements is/are correct?<br>I. It is made from a special type of paper that has been treated with a chemical dye extracted from lichens.<br>II. Substances that turn blue litmus paper to red are acidic in nature.<br>III. Substances that turn red litmus paper to blue are basic in nature.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Statement I is correct:</b> Litmus paper is a type of indicator used to test the acidity or alkalinity of a solution. It is made from a special type of paper that has been treated with a chemical dye that changes color in response to changes in pH.<br><br><b>Statements II and III are correct:</b> Substances that turn blue litmus paper to red are acidic in nature, while those that turn red litmus paper to blue are basic in nature. Since litmus shows different colours in acidic and basic solutions, it is called an acid-base indicator."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> Phosphorus is generally stored under water instead of keeping it in open air.<br><b>Statement II:</b> Phosphorus catches fire when exposed to atmospheric air.<br><br>Which of the above is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Statement I is correct:</b> Phosphorus is stored under water. This method of storage is used to isolate it from contact with air.<br><br><b>Statement II is correct:</b> Phosphorus is a highly reactive non-metal. When exposed to atmospheric air, it reacts vigorously with oxygen and catches fire spontaneously. This property makes it dangerous to store in the open air.<br><br><b>Statement II explains Statement I:</b> Phosphorus is stored in water because it catches fire on exposure to air. Water acts as a protective barrier and prevents contact with oxygen. White phosphorus is soft, appreciably volatile, and poisonous; it is soluble in organic solvents but not in water, which is why it is stored under water to protect it from oxygen."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Consider the following phenomena:<br>1. Size of the sun at dusk.<br>2. Color of the sun at dawn<br>3. Moon being visible at dawn<br>4. Twinkle of stars in the sky<br>5. Polestar being visible in the sky<br><br>Which of the above are optical illusions?",
+
+    "options": [
+
+      "1, 2 and 3",
+
+      "3, 4 and 5",
+
+      "1, 2 and 4",
+
+      "2, 3 and 5"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>Optical Illusions are images or pictures that are perceived differently than they really are.<br><br><b>Option 1 is correct:</b> The size of the sun at different intervals of the day will appear different because of optical illusion. At sunset or sunrise, the sun appears closer to the horizon because we see it with other objects in the environment.<br><br><b>Option 2 is correct:</b> The color of the sun resembles optical illusion. Light is composed of many colors and out of all those colors, red travels farthest in the atmosphere and appears to be seen at last.<br><br><b>Option 3 is incorrect:</b> Moon being visible at dawn is not an optical illusion, rather it is a real one.<br><br><b>Option 4 is correct:</b> The twinkling of a star is due to atmospheric refraction of starlight. The starlight undergoes refraction continuously before it reaches the earth. To our eyes, this makes the star seem to twinkle.<br><br><b>Option 5 is incorrect:</b> Polestar being visible in the sky is not an optical illusion."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "An object of mass m is dropped freely from a height of about 100 feet. During the free-fall of the object, which of the following would occur?",
+
+    "options": [
+
+      "Both the potential energy and the kinetic energy of the object would continuously increase.",
+
+      "Both the potential energy and the kinetic energy of the object would continuously decrease.",
+
+      "The potential energy of the object would increase while the kinetic energy would decrease.",
+
+      "The potential energy of the object would decrease while the kinetic energy would increase."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>As per the law of conservation of energy, total energy remains constant. It can only be converted from one form to another. Let an object of mass, m be made to fall freely from a height, h.<br><br>At the start, the potential energy of the object is mgh and kinetic energy is zero (velocity is zero). As it falls, its potential energy will change into kinetic energy. If v is the velocity of the object at a given instant, the kinetic energy would be ½mv².<br><br>As the fall of the object continues, the potential energy would decrease while the kinetic energy would increase. When the object is about to reach the ground, h = 0 and v will be the highest. Therefore, the kinetic energy would be the maximum and potential energy the least."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> In the air, nitrogen is considered as the solvent.<br><b>Statement II:</b> Nitrogen is the largest component of air, constituting about 78% of the Earth’s atmosphere.<br><br>Which of the above is correct in respect of the statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>A solution is a homogeneous mixture in which one substance dissolves uniformly in another. In such mixtures, the substance present in the larger amount is called the solvent, while the substance present in the smaller amount is called the solute. Air is an important example of a gaseous solution.<br><br><b>Statement I is correct:</b> Air is a uniform mixture of gases and hence qualifies as a solution. In a solution, the component present in the largest proportion is treated as the solvent. Since nitrogen constitutes the maximum share of air, it is considered the solvent, while oxygen, argon, carbon dioxide, and other gases are treated as solutes.<br><br><b>Statement II is correct and explains Statement I:</b> Nitrogen accounts for approximately 78% of the volume of air, making it the most abundant gas in the Earth’s atmosphere and therefore the solvent in air."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Consider the following pairs:<br><br><b>I. Mass Number:</b> The sum of the total number of protons and neutrons present in the nucleus of an atom.<br><b>II. Atomic Number:</b> The sum of the total number of protons and electrons present in an atom of an element.<br><b>III. Isotopes:</b> Atoms of different elements with different atomic numbers, but have the same mass number.<br><b>IV. Isobars:</b> Atoms of the same element, having the same atomic number but different mass numbers.<br><br>How many of the pairs given above are correctly matched?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Pair I is correct:</b> The mass number is defined as the sum of the total number of protons and neutrons present in the nucleus of an atom. It is denoted by ‘A’.<br><br><b>Pair II is incorrect:</b> The atomic number of an element is equal to the total number of protons in the nucleus of the atoms of that element. It is not the sum of protons and electrons.<br><br><b>Pair III is incorrect:</b> Isotopes are defined as the atoms of the same element, having the same atomic number but different mass numbers. For example: three isotopes of hydrogen atom are protium, deuterium and tritium.<br><br><b>Pair IV is incorrect:</b> Isobars are atoms of different elements with the same mass number but different atomic numbers. For example: calcium with atomic number 20, and argon with atomic number 18."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Rainbow is produced when sunlight falls on drops of rain. Which of the following physical phenomena are responsible for this?<br>1. Dispersion<br>2. Refraction<br>3. Internal reflection<br><br>Select the correct answer using the codes below:",
+
+    "options": [
+
+      "1 and 2 only",
+
+      "2 and 3 only",
+
+      "1 and 3 only",
+
+      "1, 2 and 3"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>When sunlight falls on the drops of rain, formation of a Rainbow occurs in the sky. These droplets work as a prism for the rays coming from the sun.<br><br>When the sunlight gets through these droplets, it results in refraction and dispersion in seven colours known as VIBGYOR. Then it goes to total internal reflection. This happens due to the combined phenomena of Dispersion, Refraction, and Total Internal reflection in the atmosphere."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> Light waves can propagate through vacuum, but sound waves cannot.<br><b>Statement II:</b> Light waves are mechanical waves whereas sound waves are electromagnetic waves.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+
+      "Statement I is correct but Statement II is not correct",
+
+      "Statement I is not correct but Statement II is correct"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct:</b> Light is an example of an electromagnetic wave and can travel through a vacuum. Light does not require any material medium for propagation. Sound waves cannot travel through a vacuum; they require a material medium for propagation.<br><br><b>Statement II is incorrect:</b> Light can travel in a vacuum because light waves are electromagnetic in nature. Sound waves are mechanical waves which require a medium for their propagation. Sound waves travel via a series of pressure changes (compressions and rarefactions)."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "While cooking on a gas stove, if the bottom of the vessel is getting blackened on the outside, it means that:",
+
+    "options": [
+
+      "the food is not cooked completely.",
+
+      "the fuel is not burning completely as the air holes of the stove are blocked.",
+
+      "the fuel is burning with yellow flame because of high concentration of water vapour in it.",
+
+      "the fuel is burning with a blue flame as the calorific value of the fuel is higher than 1000."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>Soot forms as a result of incomplete combustion of fuel. Saturated hydrocarbons generally give a clean flame while unsaturated carbon compounds give a yellow flame with lots of black smoke, resulting in a sooty deposit.<br><br>However, limiting the supply of air results in incomplete combustion of even saturated hydrocarbons, giving a sooty flame. The gas/kerosene stove used at home has inlets for air so that a sufficiently oxygen-rich mixture is burnt to give a clean blue flame. If the bottoms of cooking vessels get blackened, it means that the air holes are blocked and fuel is not getting enough oxygen, resulting in soot due to incomplete combustion."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Consider the following processes/phenomena:<br>I. Dissolving of sugar in water<br>II. Burning of a candle<br>III. Rusting of iron<br>IV. Conversion of milk into curd<br><br>In how many of the above processes/phenomena do both physical and chemical changes occur?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Option I is incorrect:</b> Dissolving sugar in water is a physical change because the chemical composition of sugar does not change.<br><br><b>Option II is correct:</b> Burning of a candle involves both physical and chemical changes. The melting of wax and its evaporation are physical changes. The burning of vapour, on the other hand, is a chemical change.<br><br><b>Option III is incorrect:</b> Rusting of iron is a chemical change because a new brown-coloured substance (iron oxide) is formed.<br><br><b>Option IV is incorrect:</b> Curdling of milk is a chemical change forming a new irreversible product (lactic acid) different from the original lactose sugar."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Physics",
+
+    "question": "Suppose there are two objects, with a gravitation force F between them. Now the mass of one of the objects is halved, while the other remains the same and the distance between the two objects is doubled. Then the new gravitational force between the objects will be:",
+
+    "options": [
+
+      "4F",
+
+      "F/4",
+
+      "F/8",
+
+      "8F"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>The gravitational force between two objects is governed by Newton’s Law of Universal Gravitation, which is expressed as: <b>F = (G * M * m) / r²</b>.<br><br>When the mass of one object is halved (M becomes M/2) and the distance between the objects is doubled (r becomes 2r), the new gravitational force F' is:<br><br>F' = (G * (M/2) * m) / (2r)²<br>F' = (G * M * m / 2) / 4r²<br>F' = (G * M * m) / 8r² = F / 8."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "General Chemistry",
+
+    "question": "Other factors remaining unchanged, the rate of evaporation of liquid would increase under which of the following conditions?<br>I. Increase in the surface area of the liquid<br>II. Increase in the humidity of the surrounding air<br>III. Increase in the velocity of the wind<br>IV. Increase in the temperature of the surroundings<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "II and III only",
+
+      "I, III and IV",
+
+      "I and IV only",
+
+      "I, II, and IV"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>Evaporation is a phase transition process in which a substance changes from a liquid state to a gaseous state at temperatures below its boiling point.<br><br><b>Option I is correct:</b> The rate of evaporation increases with an increase of surface area. More molecules are exposed to the surrounding air.<br><br><b>Option II is incorrect:</b> The lower the humidity, the faster the rate of evaporation. If the amount of water in air is already high, the rate of evaporation decreases.<br><br><b>Option III is correct:</b> The faster the wind speed, the faster the rate of evaporation. The particles of water vapour move away with the wind, decreasing the amount of water vapour in the surrounding area.<br><br><b>Option IV is correct:</b> The higher the temperature of the surroundings, the faster the rate of evaporation. With the increase of temperature, more particles get enough kinetic energy to go into the vapour state."
+
+  }
+
+]
+
