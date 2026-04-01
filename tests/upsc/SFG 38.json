@@ -1,0 +1,243 @@
+```json
+[
+  {
+    "section": "CSAT",
+    "topic": "Reading Comprehension",
+    "passage": "Passage I The best universities like Harvard and MIT, despite having the luxury of having some truly excellent teachers on their payroll, are increasingly embracing the “flipped classroom” format, where students listen to video lectures at home, and spend class time applying their knowledge, solving problems, discussing examples, etc. Professors guide that discussion and fill in wherever necessary, explaining those bits that seem to be eluding the students and throwing in advanced ideas that happen to be topical. These universities have made their video lectures available free for anyone in the world. They are also encouraging colleges and universities all over the world to integrate these online courses into their own pedagogy, picking the pieces that are appropriate for their needs and building a package around them.",
+    "question": "Which one of the following statements best reflects the central idea of the passage given above?",
+    "options": [
+      "Efficacy of universities would be better in online mode of conducting classroom tuition as compared to conventional methods.",
+      "Availability of higher education can be made easier and cheaper without diluting the content.",
+      "We need not invest much in infrastructure related to higher education and yet develop better human and social capital.",
+      "Private sector institutions in higher education as well as coaching institutes can take advantage of this opportunity and thrive well."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Option b is correct:</b> The passage describes how top universities like Harvard and MIT are adopting the “flipped classroom” format, making their video lectures available for free and encouraging other institutions to integrate these online courses. This reflects the central idea that higher education can be made more accessible and affordable without compromising on the quality of content.<br><br><b>Option a is incorrect:</b> The passage does not claim that the efficacy of universities would be better in the online mode compared to the conventional method. Instead, it focuses on the benefits of the flipped classroom format.<br><br><b>Option c is incorrect:</b> While the passage suggests that online resources can complement traditional education, it does not explicitly state that there is no need for investment in higher education infrastructure.<br><br><b>Option d is incorrect:</b> The passage does not discuss the advantages for private sector institutions and coaching institutes; it focuses on the broader impact on higher education accessibility and quality."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Reading Comprehension",
+    "passage": "Passage II We live in an age where an apple can be flown thousands of miles to reach a consumer in another country. Yet food tastes best when it remains close to its roots. Long journeys and chemical preservation often dull not only the natural flavour of fresh produce but also its nutritional value. The foods people grow up with are shaped by climate, terrain, and historic trade routes, embedding cultural meaning into every bite. Even in a world where global cuisines are readily available, we continue to gravitate towards local delicacies as they speak to something deeper. They give a sense of belonging, memory, and the quiet rituals of everyday life anchored in a specific place, reminding us why local food continues to matter.",
+    "question": "Based on the above passage, the following assumptions have been made:<br>I. Taste Food is deeply intertwined with a region’s culture and way of life.<br>II. Fresh food products retain a richer, more natural taste compared to long-stored foods.<br><br>Which of the assumptions given above is/are valid?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct:</b> The passage mentions that local delicacies provide a \"sense of belonging\" and are \"anchored in a specific place.\" This directly supports the idea that food is intertwined with regions culture. Hence it is a valid assumption.<br><br><b>Statement II is correct:</b> The passage states “food tastes best when it remains close to its roots. Long journeys and chemical preservation often dull not only the natural flavour of fresh produce but also its nutritional value”. Hence it is a valid assumption."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Reading Comprehension",
+    "passage": "Passage III Wealth creation is an art. It grows from consistent effort and strategic action, guided by clear financial goals, prudence, and attendant risk awareness. In all of this, a calm head plays a crucial role, as untamed emotions can lead to impulsive and poor financial decisions. While the mind acts as the internal architect of wealth-building, the heart helps align wealth creation with a broader purpose. The pursuit of wealth then transcends greed and self-centredness, fostering empathy, trust, and goodwill. Yet real world wealth results from tangible, measurable actions such as skills, dexterity, execution, and entrepreneurship. Trust in the hand helps build lasting fortunes and drive economic progress. When these three elements of head, heart, and hand are deployed together, the wealth so created becomes worth aspiring to, both for personal fulfillment and societal good.",
+    "question": "Which one of the following statements best reflects the crux of the passage?",
+    "options": [
+      "The act of wealth creation should not be pursued for personal material pleasures alone.",
+      "Skilled personnel are essential to translate the intentions of wealth creation into meaningful, real-world outcomes.",
+      "Sustainable wealth is built through a calm mind, an empathetic heart, and skilled hands.",
+      "Sound financial decisions require a clear mind, as emotions can cloud judgment."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement a is incorrect:</b> While the passage states “While the mind acts as the internal architect of wealth-building, the heart helps align wealth creation with a broader purpose. The pursuit of wealth then transcends greed and self-centredness, fostering empathy, trust, and goodwill”, statement a does not best reflect the crux of the passage as it focuses on one aspect of wealth creation (heart).<br><br><b>Statement b is incorrect:</b> While the passage states “real world wealth results from tangible, measurable actions such as skills, dexterity, execution, and entrepreneurship. Trust in the hand helps build lasting fortunes and drive economic progress”, statement b does not best reflect the crux of the passage as it focuses on one aspect of wealth creation (hand).<br><br><b>Statement c is correct:</b> It best reflects the crux of the passage as it links the three elements (head, heart and hand) of wealth creation. It is mentioned in the passage as “When these three elements of head, heart, and hand are deployed together, the wealth so created becomes worth aspiring to, both for personal fulfillment and societal good.”<br><br><b>Statement d is incorrect:</b> The passage states “Wealth creation is an art. It grows from consistent effort and strategic action, guided by clear financial goals, prudence, and attendant risk awareness. In all of this, a calm head plays a crucial role, as untamed emotions can lead to impulsive and poor financial decisions.” However, statement d does not best reflect the crux of the passage as it focuses on one aspect of wealth creation (head)."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Quantitative Aptitude",
+    "question": "The difference between any two natural numbers A and B, both of which are less than 20, is 11. If ‘Z’ represents a set of natural numbers, which are multiples of 4 and lie between A and B, then which of the following is correct about numbers contained in set Z?",
+    "options": [
+      "There is exactly one such number.",
+      "There are exactly two such numbers.",
+      "There can be either two or three such numbers.",
+      "There can be either one or two such numbers."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>Given that A and B are natural numbers both less than 20. Difference between the two natural numbers A and B = 11<br>We are required to count the numbers divisible by 4 lying strictly between them.<br>Numbers divisible by 4 and less than 20 are 4, 8, 12, 16, and 20<br><br>Analyze possible cases using examples:<br><b>Case 1:</b> A=1, B=12<br>Numbers divisible by 4 between them: 4, 8 (Total = two numbers)<br><br><b>Case 2:</b> A=2, B=13<br>Numbers divisible by 4 between them: 4, 8, 12 (Total = three numbers)<br><br><b>Case 3:</b> A=3, B=14<br>Numbers divisible by 4 between them: 4, 8, 12 (Total = three numbers)<br><br><b>Case 4:</b> A=4, B=15<br>Numbers divisible by 4 between them: 8, 12 (Total = two numbers)<br><br><b>Case 5:</b> A=5, B=16<br>Numbers divisible by 4 between them: 8, 12 (Total = two numbers)<br><br><b>Case 6:</b> A=6, B=17<br>Numbers divisible by 4 between them: 8, 12, 16 (Total = three numbers)<br><br><b>Case 7:</b> A=7, B=18<br>Numbers divisible by 4 between them: 8, 12, 16 (Total = three numbers)<br><br><b>Case 8:</b> A=8, B=19<br>Numbers divisible by 4 between them: 12, 16 (Total = two numbers)<br><br>Hence, depending on the values of A and B, the possible numbers contained in set Z can either be two or three."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Quantitative Aptitude",
+    "question": "The average of four distinct non-zero positive integers w, x, y, and z is A. It is known that w exceeds the average by exactly as much as the sum of x and y falls short of twice the average. What is the value of z?",
+    "options": [
+      "A",
+      "2A",
+      "A/2",
+      "Cannot be determined"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Given:<br>Four distinct non-zero integers: w, x, y, z<br>Average of the four numbers = A<br><br>From the definition of average:<br>w + x + y + z = 4A<br><br>Translating the given condition “w exceeds the average by exactly as much as the sum of x and y falls short of twice the average”<br>This means:<br>Amount by which w exceeds A = Amount by which (x + y) is less than 2A<br>So,<br>w − A = 2A − (x + y)<br>Rearranging,<br>w + x + y = 3A…….(i)<br><br>Find the value of z:<br>From Equation (i): w + x + y = 3A<br>From the total sum: w + x + y + z = 4A<br><br>Subtracting the two equations:<br>z = 4A − 3A<br>z = A"
+  },
+  {
+    "section": "CSAT",
+    "topic": "Quantitative Aptitude",
+    "question": "What is the remainder when 4⁴ + 4⁵ + 4⁶ + 4⁷ + … + 4²⁰²⁶ is divided by 6?",
+    "options": [
+      "0",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>Given:<br>Expression: 4⁴ + 4⁵ + 4⁶ + … + 4²⁰²⁶<br>Divisor: 6<br>Required: Remainder on division by 6<br><br>Observe the pattern of powers of 4 when divided by 6:<br>4¹ = 4 &rarr; remainder 4 when divided by 6<br>4² = 16 &rarr; remainder 4<br>4³ = 64 &rarr; remainder 4<br>4⁴ = 256 &rarr; remainder 4<br>So, every power of 4 leaves the remainder 4 when divided by 6.<br><br>Counting the number of terms:<br>The series starts from 4⁴ and ends at 4²⁰²⁶.<br>Number of terms = 2026 − 3 = 2023 terms<br><br>Finding the total remainder:<br>Each term contributes a remainder of 4.<br>Number of terms = 2023<br>Total remainder contribution = 2023 &times; 4 = 8092<br><br>Divide the total remainder by 6:<br>8092 &divide; 6 = 1348 remainder 4.<br>The remainder is 4."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Quantitative Aptitude",
+    "question": "Raja has been asked to write all natural numbers from 51 to 100 (both included) and add them. He missed exactly one number by mistake and got an erroneous result. Which of the following cannot be the result he got?",
+    "options": [
+      "3699",
+      "3705",
+      "3724",
+      "3725"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>Given:<br>Natural numbers from 51 to 100 are to be added<br>Exactly one number is missed<br>An incorrect sum is obtained<br><br>Find the correct sum of numbers from 51 to 100:<br>Number of terms = 100 − 51 + 1 = 50<br>Average of the numbers = (51 + 100) &divide; 2 = 75.5<br>Correct sum = Number of terms &times; Average = 50 &times; 75.5 = 3775<br><br>Understand the effect of missing one number:<br>If one number is missed, the obtained sum = 3775 − (missed number)<br>The smallest possible missed number = 51<br>The largest possible missed number = 100<br><br>Find the possible range of erroneous sums:<br>Maximum erroneous sum = 3775 − 51 = 3724<br>Minimum erroneous sum = 3775 − 100 = 3675<br>Therefore, the erroneous result must lie between 3675 and 3724 (both inclusive).<br><br>Check the given options:<br>3699 lies between 3675 and 3724 &rarr; possible<br>3705 lies between 3675 and 3724 &rarr; possible<br>3724 lies between 3675 and 3724 &rarr; possible<br>3725 is greater than 3724 &rarr; not possible<br>The result that cannot be obtained is 3725."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Quantitative Aptitude",
+    "question": "Let p, q, and r be three distinct prime numbers such that (p² + q + r) is a prime number less than 40. If the sum of the digits of (p² + q + r) is itself a prime number, what is the number of possible values for the set {p, q, r}?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Given:<br>p, q, r are three distinct prime numbers<br>p² + q + r is a prime number less than 40.<br>Sum of digits of (p² + q + r) is also a prime number.<br><br>Try possible values of p:<br>Since p² is involved and the total must be less than 40:<br>p = 2 &rarr; p² = 4<br>p = 3 &rarr; p² = 9<br>p = 5 &rarr; p² = 25<br>p &ge; 7 &rarr; p² &ge; 49 (not allowed)<br>So only p = 2, 3, 5 are possible.<br><br><b>Case 1: p = 2</b><br>p² = 4<br>p² + q + r must be a prime < 40<br>For every valid prime, q + r equals an odd number.<br>Since 2 cannot be reused and q, r must be distinct primes, no valid pair (q, r) exists.<br>Conclusion: No valid set for p = 2<br><br><b>Case 2: p = 3</b><br>p² = 9<br>Try prime values less than 40:<br>p² + q + r = 29 &rarr; q + r = 20 &rarr; Possible pair: 7 and 13.<br>Check conditions:<br>All are distinct primes (3, 7, 13).<br>29 is prime.<br>Digit sum of 29 = 2 + 9 = 11 (prime).<br>Valid set: {3, 7, 13}<br>Other primes:<br>31 &rarr; digit sum = 4 (not prime)<br>37 &rarr; digit sum = 10 (not prime)<br>Only one valid set found.<br><br><b>Case 3: p = 5</b><br>p² = 25<br>Try prime values less than 40:<br>29 &rarr; q + r = 4 (not possible)<br>31 &rarr; q + r = 6 (not possible)<br>37 &rarr; q + r = 12 (requires reuse of 5 and 7, or non-primes)<br>Conclusion: No valid set for p = 5<br><br><b>Final count:</b><br>Total valid sets = 1."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Quantitative Aptitude",
+    "question": "What is the maximum value of n such that 22 × 121 × 1331 × 2500 × 3125 × 161051 is divisible by 55ⁿ?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "9"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>Given Expression: 22 &times; 121 &times; 1331 &times; 2500 &times; 3125 &times; 161051<br>Divisor: 55ⁿ<br><br>Prime factorization of 55:<br>55 = 5 &times; 11<br>So, 55ⁿ = 5ⁿ &times; 11ⁿ<br>The maximum value of n depends on the minimum power of 5 and 11 present in the given expression.<br><br>Factorize each term:<br>22 = 2 &times; 11<br>121 = 11²<br>1331 = 11³<br>2500 = 2² &times; 5⁴<br>3125 = 5⁵<br>161051 = 11⁵<br><br>Count total powers of 11:<br>From 22 &rarr; 11¹<br>From 121 &rarr; 11²<br>From 1331 &rarr; 11³<br>From 161051 &rarr; 11⁵<br>Total power of 11 = 1 + 2 + 3 + 5 = 11<br><br>Count total powers of 5:<br>From 2500 &rarr; 5⁴<br>From 3125 &rarr; 5⁵<br>Total power of 5 = 4 + 5 = 9<br><br>Determine maximum value of n:<br>Maximum power of 11 available = 11<br>Maximum power of 5 available = 9<br>Since 55ⁿ requires both 5ⁿ and 11ⁿ, Maximum possible value of n = minimum of (11, 9) = 9."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Quantitative Aptitude",
+    "question": "The average age of three sisters is 17 years. If the age of the brother is included, the average age of the 4 persons remains an odd number. What can be the minimum age of the brother (in years) if his age is not less than 2 years?",
+    "options": [
+      "3",
+      "5",
+      "9",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>Given:<br>Average age of three sisters = 17 years<br>Age of brother &ge; 2 years<br>Average age of 4 persons (3 sisters + brother) remains an odd number.<br><br>Find total age of three sisters:<br>Total age of three sisters = 17 &times; 3 = 51 years<br><br>Let the brother's age be x years.<br>Total age of 4 persons = 51 + x<br>Average age of 4 persons = (51 + x) &divide; 4<br><br>Condition for average to be an odd number:<br>Let's define an odd integer as 2k + 1. Then, (51 + x)/4 = 2k + 1<br>Multiply both sides by 4: 51 + x = 8k + 4<br>Simplify: x = 8k + 4 − 51 = 8k − 47<br><br>Find minimum x &ge; 2:<br>8k − 47 &ge; 2<br>8k &ge; 49<br>k &ge; 6.125 &rarr; smallest integer k = 7<br><br>Then x = 8 &times; 7 − 47 = 56 − 47 = 9<br>Minimum age of the brother = 9 years."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Reading Comprehension",
+    "passage": "Passage I India is at once among the fastest growing global economies and home to the largest number of malnourished children in the world. There are regions where malnutrition is not the exception but the norm. And across the country, malnutrition is the cause of death for roughly half the 1.3 million children who die before their fifth birthday each year. Even those children who survive suffer permanently from the damage that has already been done to their bodies and minds from not getting enough of the right foods and nutrients. Around 44 million children under 5 are stunted. That makes it harder for them to learn in school and subsequently earn a living as adults. Their lifetime earnings potential is almost a quarter less than that or their healthy peers.",
+    "question": "With reference to the above passage, which of the following is/are the most rational and practical implication(s)?<br>I. India’s Public Distribution System should be monitored by the Union Government.<br>II. Girls should be encouraged to delay marriage and first pregnancy.<br>III. Mothers should be encouraged to breastfeed their children immediately after birth.<br>IV. The supply of safe drinking water and proper sanitation facilities to all should be ensured.<br>V. Authorities should ensure the vaccination as prescribed<br><br>Select the correct answer using the code given below:",
+    "options": [
+      "I, II, III and IV",
+      "II, III, IV and V",
+      "I only",
+      "III and V only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is incorrect:</b> The passage does not at all mention anything about India’s Public Distribution System.<br><br><b>Statement II is correct:</b> When women marry and get pregnant at later stages, then there are better chances that they will take care of their nutritional requirements and health. Also, there are better chances of birth of a healthy child.<br><br><b>Statement III is correct:</b> The passage discusses the prevalence of malnutrition and stunting among children in India. One of the important steps to check this is by encouraging women to breastfeed their children immediately after birth. Breastfeeding is essential to provide required nutrition to newborns.<br><br><b>Statement IV is correct:</b> Provision of safe drinking water and proper sanitation facilities is essential to prevent the occurrence of water borne and other diseases among children. Inadequate water, sanitation and hygiene services in India is a major reason behind high neonatal mortality rate. So, supply of safe drinking water and proper sanitation facilities is necessary.<br><br><b>Statement V is correct:</b> Ensuring the provision of vaccination to the children is necessary to prevent associated diseases and reduce child mortality rate."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Reading Comprehension",
+    "passage": "Passage II Space Situational Awareness (SSA) systems are designed to monitor and analyze the environment around Earth, helping us understand and predict the behavior of satellites, debris, and other orbital objects. However, traditional SSA systems that rely heavily on human analysts face significant challenges. They must process vast volumes of data from thousands of active satellites, defunct rocket bodies, and fragments of space debris. This overwhelming amount of information makes it difficult for human operators to identify the most critical and relevant data needed to prevent collisions among space objects. Furthermore, manual analysis often leads to delayed responses. In the near future SSA, emerging technologies like Artificial Intelligence (AI) under human supervision, can help overcome some of the limitations. It could take complex roles such as automating data processing and detecting threats. This will speed up decision-making and improve reliability of SSA systems.",
+    "question": "Which of the following statements best reflect the most logical and rational inferences that can be made from the passage?",
+    "options": [
+      "Human operated Space Situational Awareness systems have low reliability and efficiency.",
+      "Space Situational Awareness systems have become an important tool to analyze and understand the space objects.",
+      "Technological upgradation is needed to increase the efficiency of Space Situational Awareness systems.",
+      "Collaboration between human intelligence and artificial intelligence will lie at the heart of future Space Situational Awareness (SSA) systems."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Statement a is incorrect:</b> The passage states “traditional SSA systems that rely heavily on human analysts face significant challenges.” However, statement a does not best reflect the most logical and rational inferences that can be made from the passage as it does not state how these challenges could be overcome.<br><br><b>Statement b is incorrect:</b> The passage states “Space Situational Awareness (SSA) systems are designed to monitor and analyze the environment around Earth, helping us understand and predict the behavior of satellites, debris, and other orbital objects.” However, statement b does not best reflect the most logical and rational inferences that can be made from the passage as it does not highlight its operational nuances.<br><br><b>Statement c is incorrect:</b> Though the passage states that human operated SSA systems face challenges and emerging technologies could aid in enhancing the efficiency of SSA systems, statement c does not best reflect the most logical and rational inferences that can be made from the passage as it does not highlight the role of human supervision in deploying technology in SSA systems.<br><br><b>Statement d is correct:</b> It best reflects the most logical and rational inferences that can be made from the passage as it highlights the collaborative role of humans and technology in improving SSA systems. It is mentioned in the passage as “emerging technologies like Artificial Intelligence (AI) under human supervision, can help overcome some of the limitations. It could take complex roles such as automating data processing and detecting threats. This will speed up decision-making and improve reliability of SSA systems."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Reading Comprehension",
+    "question": "Based on the above passage, the following assumptions have been made:<br>I. Space Situational Awareness Systems help to protect vital space assets.<br>II. With the increasing number of satellites orbiting the Earth, the need for Space Situational Awareness (SSA) systems will increase.<br><br>Which of the assumptions given above is/are valid?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Statement I is correct:</b> The passage highlights the role of SSA systems in preventing collision among space objects. Therefore, we can assume that SSA systems help to protect space assets and thus statement I is correct.<br><br><b>Statement II is incorrect:</b> The passage is silent on the increase in the number of satellites and the need of SSA systems. Therefore, the assumption is outside the scope of the passage and thus incorrect."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Quantitative Aptitude",
+    "question": "In an election, 3/7th of the voters promised to vote Kushal and the rest promised to vote Vishal. 5% of the voters who had promised to vote Kushal changed their minds and voted for Vishal. P% of the voters who had promised to vote Vishal changed their minds and voted for Kushal. The difference between their votes was 10% of the total votes. Which of the following could be the value of P?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>Given:<br>Fraction of voters who promised to vote Kushal = 3/7<br>Fraction of voters who promised to vote Vishal = 4/7<br>5% of Kushal’s promised voters switched to Vishal<br>P% of Vishal’s promised voters switched to Kushal<br>Difference in final votes = 10% of total voters<br><br>Assume a convenient total number of voters:<br>Since fractions are in 7, assume total voters = 70<br><br>Calculate promised votes initially:<br>Promised to Kushal = (3/7) &times; 70 = 30<br>Promised to Vishal = (4/7) &times; 70 = 40<br><br>Calculate voters who changed their decision:<br>From Kushal to Vishal = 5% of 30 = 1.5<br>From Vishal to Kushal = P% of 40 = 0.4P<br><br>Calculate final votes:<br>Votes received by Kushal = 30 − 1.5 + 0.4P<br>Votes received by Vishal = 40 − 0.4P + 1.5<br><br>Find the difference between votes:<br>Difference = |(30 − 1.5 + 0.4P) − (40 − 0.4P + 1.5)|<br>= |30 − 1.5 + 0.4P − 40 + 0.4P − 1.5|<br>= |−13 + 0.8P|<br>= |13 − 0.8P|<br><br>Use the given condition:<br>Difference = 10% of total voters = 10% of 70 = 7<br>So, |13 − 0.8P| = 7<br><br>Solve the equation:<br>Case 1: 13 − 0.8P = 7 &rarr; 0.8P = 6 &rarr; P = 7.5 (not an option)<br>Case 2: 13 − 0.8P = −7 &rarr; 0.8P = 20 &rarr; P = 25<br><br>The value of P = 25."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Quantitative Aptitude",
+    "question": "A boat is moving at a constant speed against the stream that also flows with a constant speed. If the speed of the boat is increased by 16%, its speed in the upstream increases by 24%. What will be the percentage change in the downstream speed of the boat, if its speed is similarly increased by 16%?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>Given:<br>Speed of boat in still water = b kmph<br>Speed of stream (current) = c kmph<br>Upstream speed = b − c<br>Downstream speed = b + c<br><br>Use the given increase in upstream speed:<br>Original upstream speed = b − c<br>New speed of boat after increase = 1.16b<br>New upstream speed = 1.16b − c<br>Given that upstream speed increases by 24%:<br>(b − c) &times; 1.24 = 1.16b − c<br><br>Form and simplify the equation:<br>1.24b − 1.24c = 1.16b − c<br>1.24b − 1.16b = 1.24c − c<br>0.08b = 0.24c<br>Therefore, b = 3c<br><br>Find original downstream speed:<br>Original downstream speed = b + c = 3c + c = 4c<br><br>Find new downstream speed after increase:<br>New speed of boat = 1.16b = 1.16 &times; 3c = 3.48c<br>New downstream speed = 3.48c + c = 4.48c<br><br>Calculate percentage change in downstream speed:<br>Increase in downstream speed = 4.48c − 4c = 0.48c<br>Percentage increase = (0.48c &divide; 4c) &times; 100 = 12%."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Quantitative Aptitude",
+    "question": "If n is a natural number, then what is the number of distinct remainders of 2ⁿ + 3ⁿ + 4ⁿ when divided by 6?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>Given Expression: 2ⁿ + 3ⁿ + 4ⁿ<br>Divisor: 6<br>n is a natural number<br>Required: Number of distinct remainders<br><br>Finding remainders of individual terms when divided by 6. Consider powers separately.<br>When n = 1:<br>2¹ = 2, 3¹ = 3, 4¹ = 4<br>Sum = 2+3+4 = 9. Remainder of 9 when divided by 6 = 3.<br><br>When n = 2:<br>2² = 4, 3² = 9, 4² = 16<br>Sum = 4+9+16 = 29. Remainder of 29 when divided by 6 = 5.<br><br>When n = 3:<br>2³ = 8, 3³ = 27, 4³ = 64<br>Sum = 8+27+64 = 99. Remainder of 99 when divided by 6 = 3.<br><br>When n = 4:<br>2⁴ = 16, 3⁴ = 81, 4⁴ = 256<br>Sum = 16+81+256 = 353. Remainder of 353 when divided by 6 = 5.<br><br>When n = 5:<br>2⁵ = 32, 3⁵ = 243, 4⁵ = 1024<br>Sum = 32+243+1024 = 1299. Remainder of 1299 when divided by 6 = 3.<br><br>From the above trend we find that remainders for different cases of n follows a trend of:<br>Case 1: n is odd &rarr; Remainder of 2ⁿ + 3ⁿ + 4ⁿ when divided by 6 = 3<br>Case 2: n is even &rarr; Remainder of 2ⁿ + 3ⁿ + 4ⁿ when divided by 6 = 5<br><br>Hence the Number of distinct remainders = 2."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Quantitative Aptitude",
+    "question": "In a family of three members, the ratio of ages of father and mother was 5 : 4 when their son was born. Six years later, the ratio became 6 : 5. After how many more years will the ratio of the ages of mother and son become 3 : 1?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Given:<br>Ratio of ages of father and mother at the time of son’s birth = 5 : 4<br>Six years later, the ratio of their ages becomes = 6 : 5<br>Son’s age at birth = 0<br><br>Assume initial ages of father and mother:<br>Let father’s age = 5x years<br>Let mother’s age = 4x years<br><br>Use the ratio given after six years:<br>Father’s age after 6 years = 5x + 6<br>Mother’s age after 6 years = 4x + 6<br>According to the given ratio: (5x + 6) &divide; (4x + 6) = 6 &divide; 5<br><br>Solve the equation:<br>5(5x + 6) = 6(4x + 6)<br>25x + 30 = 24x + 36<br>x = 6<br><br>Find actual ages:<br>Father’s age when son was born = 5 &times; 6 = 30 years<br>Mother’s age when son was born = 4 &times; 6 = 24 years<br><br>Find ages after six years:<br>Mother’s present age = 24 + 6 = 30 years<br>Son’s present age = 6 years<br><br>Let after y more years, the ratio of mother’s age to son’s age become 3 : 1.<br>Mother’s age after y years = 30 + y<br>Son’s age after y years = 6 + y<br>According to the condition: (30 + y) &divide; (6 + y) = 3 &divide; 1<br><br>Solve for y:<br>30 + y = 3(6 + y)<br>30 + y = 18 + 3y<br>12 = 2y<br>y = 6<br><br>The required number of years = 6."
+  },
+  {
+    "section": "CSAT",
+    "topic": "Quantitative Aptitude",
+    "question": "For any natural number n, suppose the sum of the first n terms of an arithmetic progression is (n² + 3n). If the nᵗʰ term of the progression is divisible by 7, then what is the smallest possible value of n?",
+    "options": [
+      "4",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>Given:<br>Sum of the first n terms of the AP, Sₙ = n² + 3n<br><br>Find the sum of the first (n − 1) terms:<br>Sₙ₋₁ = (n − 1)² + 3(n − 1)<br>Sₙ₋₁ = n² − 2n + 1 + 3n − 3<br>Sₙ₋₁ = n² + n − 2<br><br>Find the nᵗʰ term of the AP:<br>nᵗʰ term = Sₙ − Sₙ₋₁<br>aₙ = (n² + 3n) − (n² + n − 2)<br>aₙ = 2n + 2<br>aₙ = 2(n + 1)<br><br>Apply the divisibility condition:<br>Given that the nᵗʰ term is divisible by 7.<br>Therefore, 2(n + 1) must be divisible by 7.<br><br>Find the smallest natural number n:<br>Check values of n:<br>n = 4 &rarr; 2(5) = 10 (not divisible by 7)<br>n = 5 &rarr; 2(6) = 12 (not divisible by 7)<br>n = 6 &rarr; 2(7) = 14 (divisible by 7)<br><br>The smallest possible value of n is 6."
+  }
+]
+```
