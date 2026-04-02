@@ -179,12 +179,11 @@
         .fatal-flag { color: var(--wrong); font-weight: bold; font-size: calc(0.85rem * var(--res-scale)); display: flex; align-items: center; gap: 5px; margin-top: 5px; background: #ffebee; padding: 5px 10px; border-radius: 4px; }
         .instinct-flag { color: #f39c12; font-weight: bold; font-size: calc(0.85rem * var(--res-scale)); display: flex; align-items: center; gap: 5px; margin-top: 5px; background: #fef5e7; padding: 5px 10px; border-radius: 4px; }
         
-        .trap-panel { margin-top: 15px; padding: 10px; background: #f1f5f9; border-radius: 6px; border: 1px dashed #cbd5e1; }
-        .trap-panel h4 { margin: 0 0 10px 0; font-size: calc(0.9rem * var(--res-scale)); color: #334155; }
-        .trap-chips { display: flex; gap: 8px; flex-wrap: wrap; }
-        .t-chip { background: #fff; border: 1px solid #cbd5e1; padding: 5px 12px; border-radius: 15px; font-size: calc(0.8rem * var(--res-scale)); cursor: pointer; color: #475569; transition: 0.2s; }
-        .t-chip:hover { background: #e2e8f0; }
-        .t-chip.active { background: #64748b; color: white; border-color: #475569; }
+        /* DIAGNOSTIC CUSTOM REASON PANEL */
+        .trap-panel { margin-top: 15px; padding: 12px; background: #f1f5f9; border-radius: 6px; border: 1px dashed #cbd5e1; }
+        .trap-panel h4 { margin: 0 0 8px 0; font-size: calc(0.9rem * var(--res-scale)); color: #334155; }
+        .reason-input { width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: calc(0.9rem * var(--res-scale)); font-family: 'Segoe UI', sans-serif; transition: 0.2s; background: #fff; }
+        .reason-input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 2px rgba(41, 98, 255, 0.1); }
         
         .data-table { width: 100%; border-collapse: collapse; margin-top: 10px; font-size: calc(0.9rem * var(--res-scale)) !important; }
         .data-table th, .data-table td { padding: 10px; text-align: center; border-bottom: 1px solid #eee; }
@@ -414,6 +413,7 @@
                     <button class="split-btn-main" onclick="downloadReport('md')">💾 Save Report (MD)</button>
                     <button class="split-btn-arrow" onclick="toggleReportMenu(event)">▼</button>
                     <div class="dropdown-menu" id="report-menu">
+                        <div class="dropdown-item" onclick="downloadReport('md')">Markdown <span>(.md)</span></div>
                         <div class="dropdown-item" onclick="downloadReport('html')">HTML <span>(.html)</span></div>
                         <div class="dropdown-item" onclick="downloadReport('pdf')">PDF <span>(.pdf)</span></div>
                         <div class="dropdown-item" onclick="downloadCSV()">CSV Data <span>(.csv)</span></div>
@@ -479,7 +479,6 @@
             <div id="review-list"></div>
         </div>
     </div>
-    <button class="split-btn-main" onclick="downloadReport('md')">💾 Save Report (MD)</button>
 </div>
 
 <script src="config.js"></script>
@@ -1106,22 +1105,10 @@
         initExamUI();
     }
 
-    // --- INTERACTIVE TRAP TAGS ---
-    window.setTrap = function(qIndex, trapName, btnEl) {
-        if (traps[qIndex] === trapName) {
-            delete traps[qIndex];
-        } else {
-            traps[qIndex] = trapName;
-        }
+    // --- CUSTOM REASON INPUT ---
+    window.setCustomReason = function(qIndex, text) {
+        traps[qIndex] = text;
         saveState(); 
-        
-        const container = document.getElementById(`trap-chips-${qIndex}`);
-        if (container) {
-            container.querySelectorAll('.t-chip').forEach(btn => btn.classList.remove('active'));
-            if (traps[qIndex] === trapName) {
-                btnEl.classList.add('active');
-            }
-        }
     };
 
     function submitExam(force=false) {
@@ -1270,11 +1257,11 @@
 
             const ans = responses[i];
             const conf = confidence[i] || 'None';
-            let status = 'Skipped', cls = 'skip';
+            let status = 'Skipped', cls = 'skip', uAns = 'Skipped';
 
             if(ans !== undefined) {
-                if(ans === q.answer) { status='Correct'; cls='correct'; }
-                else { status='Wrong'; cls='wrong'; }
+                if(ans === q.answer) { status='Correct'; cls='correct'; uAns=q.options[ans]; }
+                else { status='Wrong'; cls='wrong'; uAns=q.options[ans]; }
             }
 
             // Generating Feature 1: The Autopsy View
@@ -1306,17 +1293,14 @@
                 flagsHtml += `<div class="instinct-flag">🔄 Instinct Changed (Originally chose ${firstChar})</div>`;
             }
 
-            // Generating Feature 4: Interactive Trap Tags
+            // Generating Feature 4: Custom Mistake Reason
             let trapPanelHtml = '';
             if (status === 'Wrong' && q.type !== 'descriptive') {
-                const activeTrap = traps[i] || '';
-                const trapTypes = ['Absolute Word', 'Symmetry Trap', 'Anachronism', 'Literal Translation', 'Knowledge Deficit'];
-                let chipsHtml = trapTypes.map(t => `<button class="t-chip ${activeTrap === t ? 'active' : ''}" onclick="setTrap(${i}, '${t}', this)">🪤 ${t}</button>`).join('');
-                
+                const savedReason = traps[i] || '';
                 trapPanelHtml = `
                 <div class="trap-panel">
                     <h4>Diagnostic: Why did you get this wrong?</h4>
-                    <div class="trap-chips" id="trap-chips-${i}">${chipsHtml}</div>
+                    <input type="text" class="reason-input" placeholder="Type your reason here..." value="${savedReason.replace(/"/g, '&quot;')}" oninput="setCustomReason(${i}, this.value)">
                 </div>`;
             }
             
@@ -1525,9 +1509,6 @@
         });
     }
 
-    // --- UPDATED EXPORT FUNCTIONS NOT INCLUDED HERE ---
-    // (Only 1, 2, 3, 4 requested; Notion/CSV Markdown exports are currently kept at their previous state)
-
     function downloadCSV() {
         if (!questions || questions.length === 0) { alert("No data available to export."); return; }
         let csvContent = "Q.No,Topic,Question,Correct Answer,My Answer,Status,Confidence,Time Taken (sec)\n";
@@ -1598,7 +1579,13 @@
         else if (format === 'md') {
             const mdContent = generateNotionMarkdown();
             const blob = new Blob([mdContent], { type: 'text/markdown;charset=utf-8;' });
-            triggerDownload(blob, `Report_${cleanName}.md`);
+            const link = document.createElement("a");
+            link.href = URL.createObjectURL(blob);
+            link.download = `Report_${cleanName}.md`;
+            link.style.display = 'none';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
         } 
         else if (format === 'pdf') { 
             generatePDF(`Report_${cleanName}.pdf`); 
@@ -1631,7 +1618,6 @@
         });
         const cr = fiftyTotal > 0 ? Math.round((fiftyCorrect / fiftyTotal) * 100) : 0;
 
-        // Build Header
         let md = `# Analysis Report: ${testName}\n\n`;
         md += `### 📊 Basic Performance\n`;
         md += `- **Score:** ${score}\n- **Correct:** ${cor}\n- **Wrong:** ${wrg}\n- **Skipped:** ${skip}\n\n`;
@@ -1643,7 +1629,6 @@
 
         const stripHTML = (str) => str ? str.replace(/<br\s*[\/]?>/gi, '\n').replace(/<[^>]*>?/gm, '') : '';
 
-        // Build Question Loop
         questions.forEach((q, i) => {
             const time = Math.round(qTimers[i] || 0);
             const conf = confidence[i] || 'None';
@@ -1667,13 +1652,12 @@
                     status = (userResp === q.answer) ? "Correct" : "Wrong";
                 }
 
-                // Process Eliminations & Diagnostics
                 let elimText = eliminated[i] && eliminated[i].length > 0 
                     ? eliminated[i].map(idx => String.fromCharCode(65 + idx)).join(', ') 
                     : "None";
                 let isFatal = eliminated[i] && eliminated[i].includes(q.answer);
                 let instinctChanged = firstChoice[i] !== undefined && firstChoice[i] !== userResp;
-                let trap = traps[i] || "None";
+                let trap = traps[i] || "";
 
                 md += `- **Status:** ${status}\n`;
                 md += `- **Eliminated:** ${elimText}\n`;
@@ -1685,8 +1669,8 @@
                     const firstChar = firstChoice[i] !== undefined ? String.fromCharCode(65 + firstChoice[i]) : '?';
                     md += `- 🔄 **Instinct Changed:** Yes (Originally chose ${firstChar})\n`;
                 }
-                if (status === 'Wrong' && trap !== 'None') {
-                    md += `- 🪤 **Trap Type:** ${trap}\n`;
+                if (status === 'Wrong' && trap.trim() !== '') {
+                    md += `- 📝 **Reason for Mistake:** ${stripHTML(trap)}\n`;
                 }
 
                 md += `\n**Your Answer:** ${stripHTML(myAns)}\n`;
@@ -1702,6 +1686,20 @@
             md += `---\n\n`;
         });
         return md;
+    }
+
+    function generatePDF(filename) {
+        const element = document.getElementById('result-screen');
+        const btnGroup = document.getElementById('export-btn-group');
+        btnGroup.style.display = 'none';
+        const opt = {
+            margin:       0.3,
+            filename:     filename,
+            image:        { type: 'jpeg', quality: 0.98 },
+            html2canvas:  { scale: 2, useCORS: true },
+            jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' }
+        };
+        html2pdf().set(opt).from(element).save().then(() => { btnGroup.style.display = 'flex'; });
     }
 
     // --- TEXT SCALING & KEYBOARD SHORTCUTS LOGIC ---
