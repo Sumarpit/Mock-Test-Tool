@@ -1,0 +1,1303 @@
+[
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "Consider the following types of vehicles:<br>I. Full battery Electric vehicles<br>II. Hydrogen fuel cell vehicles<br>III. Fuel cell electric hybrid vehicles<br><br>How many of the above are considered as alternative powertrain vehicles?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>Alternative powertrain vehicles are those that do not rely solely on conventional internal combustion engines (ICEs) using petrol or diesel. Instead, they use alternative energy sources such as electricity, hydrogen, or a combination of power sources.<br><br><b>Option I is correct:</b> Full Battery Electric Vehicles (BEVs) operate entirely on electricity stored in high-capacity batteries. They have no internal combustion engine, meaning they do not consume petrol or diesel at all, making them a key category of alternative powertrain vehicles.<br><br><b>Option II is correct:</b> Hydrogen Fuel Cell Vehicles (FCEVs) generate electricity onboard by using a chemical process in a fuel cell, where hydrogen gas reacts with oxygen from the air. They do not rely on fossil fuels or internal combustion engines.<br><br><b>Option III is correct:</b> Fuel Cell Electric Hybrid Vehicles (FCHEVs) combine the technologies of fuel cell vehicles and battery-electric vehicles. Both a hydrogen fuel cell and a battery system work together to power an electric motor."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "Which of the following is a pilot project launched by the Government of India under National Geospatial Policy 2022 to demonstrate the potential applications of geospatial technologies and innovations in improving the quality of life of citizens and ease of doing business?",
+
+    "options": [
+
+      "NAVYA",
+
+      "PM-SETU",
+
+      "Operation Dronagiri",
+
+      "Mission LiFE"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Option c is correct:</b> Operation Dronagiri is a pilot project under National Geospatial Policy 2022 to demonstrate the potential applications of geospatial technologies and innovations in improving the quality of life of citizens and ease of doing business. It will be implemented in states like UP, Haryana, Assam, Andhra Pradesh & Maharashtra.<br><br><b>Option a is incorrect:</b> The NAVYA initiative aims to provide skill training to adolescent girls for job roles in emerging sectors, empowering them with personal hygiene, workplace safety, and financial literacy skills.<br><br><b>Option b is incorrect:</b> PM-SETU is primarily a vocational education and training upgradation scheme aimed at strengthening the ITI & NSTI ecosystem.<br><br><b>Option d is incorrect:</b> Mission LiFE (Lifestyle for Environment) is an India-led global mass movement to nudge individual and community action to protect and preserve the environment."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "‘It is a quantum mechanical phenomenon that allows a particle to pass through a potential energy barrier even if its energy is lower than the barrier’s height. This is in contrast to classical physics, where a particle cannot pass through a potential energy barrier unless its energy is greater than or equal to the barrier’s height.’<br><br>The above paragraph best explains which of the following principles of quantum mechanics?",
+
+    "options": [
+
+      "Quantum Key Distribution",
+
+      "Quantum Superposition",
+
+      "Quantum Entanglement",
+
+      "Quantum Tunneling"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Option d is correct:</b> Quantum tunneling is a quantum mechanical phenomenon that allows a particle to pass through a potential energy barrier even if its energy is lower than the barrier’s height. It is responsible for phenomena like the operation of scanning tunneling microscopes and radioactive decay.<br><br><b>Option a is incorrect:</b> Quantum Key Distribution (QKD) is a mechanism to secure quantum communication via cryptographic protocols.<br><br><b>Option b is incorrect:</b> Quantum superposition is a principle of quantum mechanics that explains that a particle can exist in multiple states at once.<br><br><b>Option c is incorrect:</b> Quantum entanglement is a phenomenon that explains how two subatomic particles get linked to each other irrespective of distance."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space Technology",
+
+    "question": "With reference to different Earth orbits, consider the following statements:<br>I. All geostationary orbits are geosynchronous orbits but not vice-versa.<br>II. Satellites placed in geosynchronous orbit complete one revolution of Earth in about 24 hours.<br>III. Satellites in Low Earth Orbit (LEO) can have their orbital planes tilted at various angles.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I, II and III",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I and II only"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Orbit is the fixed trajectory in which a satellite revolves around the earth.<br><br><b>Statement I is correct:</b> Geostationary earth (GEO) orbit is a special case of geosynchronous orbit located exactly above the equator. Satellites in GEO move from west to east, exactly matching Earth’s rotation. Thus, all geostationary orbits are geosynchronous but not vice versa.<br><br><b>Statement II is correct:</b> Geosynchronous Orbit (GSO) is an orbit at a height of 35786 kms above the earth’s surface. A satellite placed in this orbit completes one revolution of earth in the same time as earth completes its one rotation, i.e., around 24 hours.<br><br><b>Statement III is correct:</b> Low Earth Orbit (LEO) is an orbit close to the earth’s surface (below 2000 Km). Unlike satellites in GEO that orbit along Earth’s equator, LEO satellites can have their orbital planes tilted at various angles."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "With reference to Unmanned Aerial Vehicles (UAVs), consider the following statements:<br>I. All types of UAVs can do vertical landing.<br>II. All types of UAVs can do automated hovering.<br>III. All types of UAVs can use battery only as a source of power supply.<br><br>How many of the statements given above are correct?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Statement I is incorrect:</b> Not all UAVs are capable of vertical landing. Fixed-Wing UAVs require runways or catapult systems for takeoff and landing. Only UAVs designed with VTOL (Vertical Take-Off and Landing) capabilities, like multirotors or hybrid systems, can land vertically.<br><br><b>Statement II is incorrect:</b> Hovering refers to maintaining a stationary position in the air. Fixed-Wing UAVs cannot hover because they depend on constant forward movement to generate lift and will stall if they try to stop moving forward.<br><br><b>Statement III is incorrect:</b> UAVs utilize various power sources depending on their design. While small drones are battery-powered, others use Internal Combustion Engines (petrol/diesel), Fuel Cell-Powered systems, or Hybrid Systems to balance endurance and performance."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space Technology",
+
+    "question": "Consider the following statements with reference to gravitational waves:<br>I. They may be caused by the collision of black holes or neutron stars.<br>II. They are believed to propagate through space at the speed of light.<br>III. Unlike electromagnetic waves, gravitational waves get easily scattered while travelling through the universe.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "I and III only",
+
+      "I, II and III",
+
+      "II and III only"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Gravitational waves are 'small ripples' in space-time caused by some of the most violent and energetic processes in the Universe.<br><br><b>Statement I is correct:</b> The strongest gravitational waves are produced by cataclysmic events such as the collision of neutron stars or black holes and supernovae events.<br><br><b>Statement II is correct:</b> As per Einstein’s Theory of Relativity, Gravitational waves travel across the universe at the speed of light, carrying with them information about their origins.<br><br><b>Statement III is incorrect:</b> Gravitational waves do not get scattered as they traverse the cosmos, making them capable of giving information regarding the early universe and mysterious objects. In contrast, electromagnetic waves often get scattered."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space Technology",
+
+    "question": "With reference to dark matter in the universe, consider the following statements:<br>I. It does not interact with electro-magnetic radiation.<br>II. It forms 95% of the total mass-energy content of the universe.<br>III. Scientists believe that dark matter is the binding force that holds galaxies together.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "III only",
+
+      "I and III only",
+
+      "II and III only"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct:</b> Dark matter is a hypothetical form of matter that does not interact with electro-magnetic radiation hence doesn’t absorb, reflect or emit light.<br><br><b>Statement II is incorrect:</b> Of the total mass-energy content of the universe, dark energy forms 68.3%, dark matter forms 26.8% (and not 95%), while ordinary matter forms only 4.9%.<br><br><b>Statement III is correct:</b> Galaxies in our universe are rotating at high speed and the gravity of observable matter in them is found to be inadequate to hold them together. The galaxies are held together due to an ‘unknown matter effect’ which scientists believe is \"dark matter\" due to its attractive gravity."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "Which of the following statements with regard to a Ramjet Engine are correct?<br>I. It is an air-breathing jet engine that uses the vehicle’s forward motion to compress incoming air for combustion.<br>II. It works most efficiently at supersonic speeds around three times the speed of sound.<br>III. The BrahMos missile uses a liquid-fuelled ramjet engine in its cruise phase.<br><br>Select the correct answer using the code given below.",
+
+    "options": [
+
+      "II and III only",
+
+      "I, II and III",
+
+      "I and III only",
+
+      "I and II only"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>A ramjet engine is a type of air-breathing propulsion system. It uses atmospheric oxygen for combustion.<br><br><b>Statements I and II are correct:</b> A ramjet uses the vehicle’s forward motion to compress incoming air for combustion without a rotating compressor. It requires an assisted take-off to reach a speed where it produces thrust. Ramjets work most efficiently at supersonic speeds around Mach 3 and can operate up to speeds of Mach 6.<br><br><b>Statement III is correct:</b> BRAHMOS is a two-stage missile. Its first stage is a solid propellant booster. The liquid ramjet or the second stage then takes the missile closer to 2.8 Mach speed in its cruise phase."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "The ‘Time Rondeau Crystal (TRC)’, recently seen in the news, refers to:",
+
+    "options": [
+
+      "A newly discovered elementary particle of nature.",
+
+      "A newly discovered phase of matter.",
+
+      "A rare form of dark matter detected in deep space.",
+
+      "A special type of superconducting material."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Option b is correct:</b> Scientists have discovered a new phase of matter called a time rondeau crystal that shows an unusual kind of order in time, rather than in space like solids and liquids. The phase is related to, but distinct from, a time crystal.<br><br>In normal matter, the arrangement of atoms can be either ordered or disordered. The order in a crystal comes from breaking the perfect symmetry of space: instead of looking the same everywhere, it repeats in a regular pattern."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space Technology",
+
+    "question": "Consider the following statements with reference to the Polar Satellite Launch Vehicle (PSLV) and the Geosynchronous Satellite Launch Vehicle (GSLV):<br>I. Unlike the GSLV, the PSLV does not use a cryogenic fuel stage.<br>II. Unlike the GSLV, the PSLV can only be used for launching satellites into Sun-synchronous polar orbits.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>India uses different launch vehicles based on mission requirements. PSLV and GSLV are the two most reliable operational launch vehicles of ISRO.<br><br><b>Statement I is correct:</b> PSLV relies on solid and liquid propellant stages only. It does not use a cryogenic engine. GSLV, on the other hand, uses a cryogenic upper stage that burns liquid hydrogen and liquid oxygen, providing higher efficiency.<br><br><b>Statement II is incorrect:</b> PSLV is a highly versatile launch vehicle. Though best known for launching satellites into Sun-synchronous polar orbits, its use is not limited to them. PSLV has also placed satellites in low Earth orbits and sub-geosynchronous transfer orbits (e.g., Chandrayaan-1 and Mars Orbiter Mission)."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science",
+
+    "question": "In which of the following are hydrogels used?<br>1. Controlled drug delivery in patients<br>2. Mobile air-conditioning systems<br>3. Preparation of Industrial lubricants<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1 only",
+
+      "1 and 2 only",
+
+      "2 and 3 only",
+
+      "1, 2 and 3"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>Hydrogels are water-absorbent, crosslinked polymer networks that can hold large amounts of water.<br><br><b>Statement 1 is correct:</b> Hydrogels are widely used in controlled drug delivery systems because they can encapsulate drugs and release them in a controlled manner over time.<br><br><b>Statement 2 is correct:</b> Hydrogels can be used in mobile air-conditioning systems. They can absorb and release moisture, which can be useful in humidity control.<br><br><b>Statement 3 is correct:</b> Hydrogels can be used in industrial lubricants to improve their properties, such as reducing friction and wear, controlling viscosity, and improving thermal stability."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "With reference to the Global Navigation Satellite Systems, the process of trilateration is most closely associated with which of the following?",
+
+    "options": [
+
+      "Calculating the exact position of a receiver on earth by measuring its distance from multiple satellites in space.",
+
+      "Determining the direction of travel of a receiver on earth using changes in a satellite’s signal frequency.",
+
+      "Estimating receiver’s location based on relative signal strength from nearby communication towers.",
+
+      "Mapping surface elevation to create 3D models by analysing the return time of laser signals sent from a single satellite."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Option a is correct:</b> The Global Navigation Satellite System at its core is a constellation of satellites orbiting Earth, continuously beaming down radio signals containing precise time and orbital information. With at least four of these satellites in view, a GNSS receiver can triangulate its position through a process called trilateration.<br><br>The positioning calculations rely on the trilateration method that uses distance measurements from multiple satellites. It is the core principle behind GPS, NavIC, Galileo, and other satellite navigation systems."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "With reference to quantum systems, consider the following statements regarding the quantum information scrambling:<br>I. It is the process by which information initially stored in a single Quantum bit (qubit) becomes distributed across all other qubits as they interact in the system.<br>II. It is studied using interference effects arising from the mixing and cancellation of different quantum wave functions.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>In quantum systems, information does not simply disappear. Instead, it gets redistributed in a highly complex way. This process is called quantum information scrambling.<br><br><b>Statement I is correct:</b> Quantum information scrambling occurs when information that is initially local, such as being stored in one quantum bit, spreads across many interacting quantum bits. After scrambling, no single particle carries the information on its own.<br><br><b>Statement II is correct:</b> The measurement of scrambling relies on the principle of quantum interference. At the quantum level, particles behave like waves, and their wave functions can be made to interfere with each other. By analyzing these wave functions, scientists can determine how widely and deeply the information has spread within the system."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space Technology",
+
+    "question": "With reference to observational astronomy, an Einstein ring is formed primarily due to which of the following phenomena?",
+
+    "options": [
+
+      "Gravitational lensing caused by a massive celestial object bending light coming from a distant galaxy.",
+
+      "Emission of circular light waves from rapidly rotating neutron stars.",
+
+      "Reflection of starlight by dense interstellar dust clouds surrounding a galaxy.",
+
+      "Expansion of light fronts due to the accelerated expansion of the universe."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Option a is correct:</b> An Einstein ring is a striking visual effect produced by gravitational lensing. This phenomenon occurs when a massive object, such as a galaxy, a cluster of galaxies, or dark matter, lies directly between a distant light source and the observer.<br><br>The strong gravitational field of the foreground object bends and magnifies the light coming from the background galaxy. When the source galaxy, the lensing galaxy, and the observer are almost perfectly aligned along the same line of sight, the light bends to form a circular ring around the foreground object."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> Some rare earth elements are used in the manufacture of flat television screens and computer monitors.<br><b>Statement II:</b> Some rare earth elements have phosphorescent properties.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+
+      "Statement I is correct but Statement II is not correct",
+
+      "Statement I is not correct but Statement II is correct"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Rare earth elements (REEs) are a group of 17 chemically similar elements, including the 15 lanthanides along with scandium and yttrium.<br><br><b>Statement I is correct:</b> Rare earth elements such as europium, terbium, and yttrium are integral in the production of phosphors used in display technologies. These phosphors emit specific colours when excited by electrons, enabling the vivid displays in flat-screen televisions and computer monitors.<br><br><b>Statement II is correct:</b> Certain rare earth elements exhibit phosphorescence, a type of photoluminescence where materials emit light after being energized. Elements like europium and terbium are known for this.<br><br><b>Statement II explains Statement I:</b> The phosphorescent properties of rare earth elements are exactly the reason why they are utilized in manufacturing display screens."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space Technology",
+
+    "question": "With reference to Antrix Corporation Limited, which of the following statements is/are correct?<br>I. It was established under a Public–Private Partnership (PPP) model in which the Government of India holds 51% ownership.<br>II. It has been accorded the ‘MINIRATNA’ status.<br>III. It is responsible for the manufacturing of Polar Satellite Launch Vehicle (PSLV) and Geosynchronous Satellite Launch Vehicle (GSLV).<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and II only",
+
+      "II only",
+
+      "I and III only",
+
+      "None of the above"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>Antrix Corporation Limited is the commercial arm of the Indian Space Research Organisation (ISRO) and operates under the administrative control of the Department of Space.<br><br><b>Statement I is incorrect:</b> Antrix Corporation Limited is not a Public–Private Partnership entity. It is a wholly owned Government of India company under the Department of Space... The Government holds 100% ownership, not 51%.<br><br><b>Statement II is correct:</b> Antrix Corporation Limited was granted ‘MINIRATNA’ status in 2008. This status provides greater financial and operational autonomy.<br><br><b>Statement III is incorrect:</b> Antrix does not manufacture launch vehicles such as PSLV and GSLV. Manufacturing and production activities are handled by ISRO and New Space India Limited (NSIL). Antrix’s role is limited to commercial marketing and service provision."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space Technology",
+
+    "question": "With reference to the Outer Space Treaty, 1967, consider the following statements:<br>I. It holds the States responsible for national space activities carried out by non-governmental entities.<br>II. It states that outer space is not subject to national appropriation by claim of sovereignty by any means.<br>III. It prohibits the placement of nuclear weapons or other weapons of mass destruction in outer space.<br>IV. It defines space debris and explicitly holds nations liable for damage caused by their space debris.<br><br>Which of the above given statements are correct?",
+
+    "options": [
+
+      "I and IV only",
+
+      "I, II and III only",
+
+      "II and III only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>The Outer Space Treaty, 1967 is the cornerstone of international space law.<br><br><b>Statements I, II and III are correct:</b> The treaty provides a basic framework on international space law, including the following principles:<br><ul><li>Outer space is not subject to national appropriation by claim of sovereignty, by means of use or occupation, or by any other means.</li><li>States shall not place nuclear weapons or other weapons of mass destruction in orbit or on celestial bodies.</li><li>States shall be responsible for national space activities whether carried out by governmental or non-governmental entities.</li></ul><br><br><b>Statement IV is incorrect:</b> The Outer Space Treaty, 1967 neither defines space debris nor lays down detailed liability rules for damage caused by debris. Detailed rules on liability and compensation for damage caused by space objects were developed later under the Liability Convention, 1972."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space Technology",
+
+    "question": "Consider the following statements with reference to the NASA–ISRO Synthetic Aperture Radar (NISAR) mission:<br>I. It will image the global land and ice-covered surfaces, including islands, sea-ice and selected oceans every 12 days.<br>II. It is the world’s first major Earth-observing mission to employ a dual frequency synthetic aperture radar.<br>III. It is placed in a geo-synchronous orbit to make it capable of collecting data irrespective of cloud cover, weather conditions, or daylight.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>NISAR is a joint Earth-observation mission of the Indian Space Research Organisation (ISRO) and the National Aeronautics and Space Administration (NASA).<br><br><b>Statement I is correct:</b> NISAR will image the global land and ice-covered surfaces, including islands, sea-ice and selected oceans every 12 days.<br><br><b>Statement II is correct:</b> NISAR is the first major Earth-observing satellite to carry a dual-band synthetic aperture radar. It combines an L-band radar and an S-band radar. This dual-band capability allows more detailed and accurate observations than single-band radar missions.<br><br><b>Statement III is incorrect:</b> NISAR operates from a sun-synchronous polar orbit at an altitude of 747 km and inclination of 98.4º (not in geo-synchronous orbit which is at approx 36000 km height). Its radar-based instruments can image the Earth day and night and can see through clouds."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "With reference to satellite communications, which of the following organisations oversees the global allocation of satellite radio-frequency spectrum?",
+
+    "options": [
+
+      "International Telecommunication Union (ITU)",
+
+      "International Civil Aviation Organization (ICAO)",
+
+      "World Meteorological Organisation (WMO)",
+
+      "United Nations Office for Outer Space Affairs (UNOOSA)"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Satellite spectrum refers to specific bands of radio frequencies used for communication between satellites and ground stations. Examples include commonly used bands such as Ku-band and Ka-band, which are crucial for satellite television, broadband internet, navigation, and Earth observation services.<br><br>ITU, through its Radiocommunication Sector (ITU-R), and its executive arm, the Radiocommunication Bureau (BR), is the global agency responsible for the management of the radio-frequency spectrum and satellite orbit resources."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space",
+
+    "question": "With reference to major space mission seen in news, consider the following information:<br><br><b>Name of the Space mission &mdash; Launched by &mdash; Description</b><br>I. SpaDex Mission &mdash; Indian Space Research Organisation (ISRO) &mdash; It is a technology demonstrator mission for the demonstration of in-space docking using two small spacecraft.<br>II. GRAIL &mdash; European Space Agency (ESA) &mdash; It is a mission designed to create the most accurate gravitational map of planet Mars to date.<br>III. Biomass Mission &mdash; Japan Aerospace Exploration Agency (JAXA) &mdash; It is a mission to determine the amount of biomass and carbon stored in forests.<br><br>In how many of the above rows is the given information correctly matched?",
+
+    "options": [
+
+      "All the three",
+
+      "Only two",
+
+      "Only one",
+
+      "None"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Row I is correct:</b> SpaDeX mission is a cost-effective technology demonstrator mission of Indian Space Research Organisation (ISRO) for the demonstration of in-space docking using two small spacecraft launched by PSLV.<br><br><b>Row II is incorrect:</b> Gravity Recovery and Interior Laboratory (GRAIL) was the 11th mission in National Aeronautics and Space Administration (NASA)’s Discovery Program (not European Space Agency). It mapped the moon's gravity by measuring the push and pull between twin spacecraft flying in tandem, not Mars.<br><br><b>Row III is incorrect:</b> The Biomass mission is the forest mission of the European Space Agency (Not Japan Aerospace Exploration Agency (JAXA)) designed to provide P-band SAR measurements to determine the amount of biomass and carbon stored in forests."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "Which one of the following words/phrases is most appropriately used to denote “an interoperable network of 3D virtual worlds that can be accessed simultaneously by millions of users, who can exert property rights over virtual items”?",
+
+    "options": [
+
+      "Big data analytics",
+
+      "Cryptography",
+
+      "Metaverse",
+
+      "Virtual matrix"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>The most appropriate word/phrase to describe the given concept is “metaverse”. The term “metaverse” refers to an interconnected network of 3D virtual worlds that can be accessed by millions of users simultaneously. Users can create and own virtual items within the metaverse."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "'Continuously Operating Reference Stations (CORS) Networks' are often discussed in the context of-",
+
+    "options": [
+
+      "development of artificial intelligence (AI) based reasoning models.",
+
+      "providing internet services by setting up public Wi-Fi Hotspots.",
+
+      "providing real-time positioning services.",
+
+      "development of Quantum Computing capabilities."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>Continuously Operating Reference Station (CORS) is a GPS reference station that provides accurate and reliable positioning data for a variety of applications. CORS is an infrastructure that can solve the problem of accuracy and real-time data acquisition. These stations are capable of providing Real Time Positioning Service through Real Time-Kinematic. The Survey of India has set up more than 1,000 CORS stations across India."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space",
+
+    "question": "With reference to Extreme Nuclear Transients (ENTs), consider the following statements:<br>I. They are among the most energetic explosion events observed in the universe since the Big Bang.<br>II. They occur when massive stars, at least 3 times the mass of the Sun, are disrupted by supermassive black holes.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct:</b> In astronomy, transients refer to celestial objects whose brightness changes significantly over a relatively short period. ENTs are the most energetic class of transient events yet discovered... astronomers now believe they are the “biggest explosions” to have taken place since the Big Bang.<br><br><b>Statement II is correct:</b> ENT phenomena occur when massive stars, at least three times the mass of our Sun, are torn apart by supermassive black holes at the centers of distant galaxies. The resulting explosions release energy equivalent to what 100 Suns would emit over their entire lifespans, making them visible across vast cosmic distances."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space",
+
+    "question": "Which one of the following features of the object 3I/ATLAS has led scientists to identify it as an interstellar object?",
+
+    "options": [
+
+      "It moves in an open-ended hyperbolic orbit at such great speeds that the Sun’s gravitational pull is not able to slow it down.",
+
+      "It has an exceptionally rapid rotation speed on its own axis.",
+
+      "It is composed of exotic elements not found in the Milky Way.",
+
+      "It moves in a closed elliptical orbit at such low speeds that the Sun’s gravitational pull is ultimately able to slow it down."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Interstellar objects are celestial bodies that originate outside the solar system and travel through it. To determine if a celestial body is interstellar, scientists compute its trajectory. <br><br>All planets, asteroids, and comets within the Solar System move in closed elliptical orbits. The trajectory of interstellar objects, however, is quite different. They move in an open-ended hyperbolic orbit, where there is a perihelion point but no aphelion. That is because these objects move at such great speeds that the Sun’s gravitational pull is not able to slow them down enough during their outbound leg, allowing them to escape our Solar System. 3I/Atlas exhibited these characteristics, confirming its interstellar nature."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "With reference to communication technologies, what is/are the difference/differences between LTE (Long-Term Evolution) and VoLTE (Voice over Long-Term Evolution)?<br>1. LTE is commonly marketed as 3G, and VoLTE is commonly marketed as advanced 3G.<br>2. LTE is data-only technology and VoLTE is voice-only technology.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1 only",
+
+      "2 only",
+
+      "Both 1 and 2",
+
+      "Neither 1 nor 2"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>LTE stands for Long Term Evolution, and it is a standard for high-speed data communication. VoLTE stands for Voice over Long Term Evolution, and it is a technology that enables voice calls over LTE networks.<br><br><b>Statement 1 is incorrect:</b> LTE (Long-Term Evolution) is marketed as 4G (fourth-generation technology), not 3G. VoLTE is an enhancement of LTE that allows for high-quality voice calls over the LTE network.<br><br><b>Statement 2 is incorrect:</b> LTE is a data-only technology, while VoLTE supports both voice and data simultaneously."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space",
+
+    "question": "To prepare for possible Indian manned space missions to the Moon and potentially Mars, the Himalayan Outpost for Planetary Exploration (HOPE) Mission has been established at-",
+
+    "options": [
+
+      "Tso Kar Valley, Ladakh",
+
+      "Kashmir Valley, Jammu & Kashmir",
+
+      "Kangra Valley, Himachal Pradesh",
+
+      "Ziro Valley, Arunachal Pradesh"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>On 31st July, 2025, Secretary, Department of Space & Chairman, ISRO inaugurated the Himalayan Outpost for Planetary Exploration (HOPE) analog mission setup in Tso Kar Valley, Ladakh. The high-altitude, cold desert conditions of the region make it an exceptional analogue site that closely replicates the geological and environmental characteristics of the Moon and Mars."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "Which of the following statements is/are correct regarding a national programme ‘AgriEnIcs’?<br>I. It supports the development, deployment, and commercialization of technologies in the agriculture and environment domain.<br>II. The Centre for Development of Advanced Computing (C-DAC) is the nodal agency responsible for its implementation.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct:</b> The AgriEnIcs (Agriculture and Environment Informatics and Communication Systems) is a national programme of the Union Ministry of Electronics and Information Technology involving research, development, deployment, demonstration, and commercialization of technologies in the agriculture and environment domain.<br><br><b>Statement II is correct:</b> The programme is being implemented by the Centre for Development of Advanced Computing (C-DAC), Kolkata, as the nodal agency with participating agencies from Academic Institutes, R&D laboratories, and Industries."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "Consider the following applications:<br>1. Electronic toll collection from vehicles using FASTag<br>2. Credit card payments using tap and pay mode<br>3. Prevention of train collisions using the Kavach System of Indian Railways<br><br>How many of the above applications use the RFID (Radio Frequency Identification) technology?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>Radio frequency identification (RFID) is a technology that uses radio waves to identify and track objects or people.<br><br><b>Application 1 is correct:</b> FASTag is an electronic toll collection system that uses RFID technology to deduct toll on national highways.<br><br><b>Application 2 is correct:</b> Tap-n-Pay’ based credit card payment is based on near-field communications (NFC) technology, which is a subset of High frequency RFID technology.<br><br><b>Application 3 is correct:</b> Kavach operates through continuous real-time communication between trackside systems and locomotives using secure Ultra High Frequency (UHF) radio antenna and track-mounted Radio Frequency Identification (RFID) tags."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "Consider the following statements regarding the Metal-Organic Frameworks:<br>I. They are crystalline structures in which metal ions serve as nodes and organic molecules as connectors.<br>II. They can have enormous internal surface areas.<br>III. These frameworks find applications in harvesting water from desert air.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>The 2025 Nobel Prize in Chemistry was awarded for developing metal-organic frameworks.<br><br><b>Statements I and II are correct:</b> MOFs are crystalline structures in which metal ions serve as nodes and organic molecules as connectors. The resulting structure can have enormous internal surface areas — thousands of square metres per gram — and their pores can be customised to attract or hold specific molecules.<br><br><b>Statement III is correct:</b> A MOF called MOF-303 can harvest drinking water from arid desert air by absorbing vapour at night and releasing it in sunlight. Others can capture carbon dioxide or remove persistent forever chemicals (PFAS) from water."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "‘Shinkansen Technology’ is sometimes talked about with reference to which one of the following?",
+
+    "options": [
+
+      "Development of artificial intelligence models based on Large Language Models",
+
+      "Construction and operation of high-speed bullet train corridors",
+
+      "Commercial production of green hydrogen for its use as fuel",
+
+      "Development of next-generation hypersonic missile systems"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>Shinkansen refers to Japan’s high-speed bullet train technology that serves as a swift and efficient mode of transport. The entire 508 km Mumbai–Ahmedabad Bullet Train corridor is being developed with Japanese Shinkansen technology."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "Consider the following technologies:<br>1. Closed-circuit Television<br>2. Radio Frequency Identification<br>3. Wireless Local Area Network<br><br>Which of the above are considered Short-Range devices/technologies?",
+
+    "options": [
+
+      "1 and 2 only",
+
+      "2 and 3 only",
+
+      "1 and 3 only",
+
+      "1, 2 and 3"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>Short Range Devices (SRD) are radio devices that offer a low risk of interference with other radio services, usually because their transmitted power, and hence their range, is low. The definition ‘Short Range Device’ may be applied to many different types of wireless equipment, including:<br><ul><li>Closed-circuit television (CCTV)</li><li>Radio frequency identification (RFID)</li><li>Local Area Networks (WLAN)</li><li>Access control (door/gate openers)</li><li>Alarms and movement detectors</li></ul>"
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> In general, Fiber optic cables are free from any electromagnetic interference.<br><b>Statement II:</b> Fiber optic cables carry data in pulses of light.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct, and Statement II is the correct explanation for Statement I",
+
+      "Both Statement I and Statement-II are correct and Statement II is not the correct explanation for Statement I",
+
+      "Statement I is correct, but Statement II is incorrect",
+
+      "Statement I is incorrect, but Statement II is correct"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Statement I is correct:</b> Unlike traditional metal wires, Fiber optic cables are immune to electromagnetic interference (EMI).<br><br><b>Statement II is correct and explains Statement I:</b> Fiber optic cables are non-metallic and carry data in pulses of light using the principle of Total Internal Reflection. Since they use light to transmit data instead of electrical signals, they are free of any electromagnetic interference. These light pulses are not affected by radio frequency interference that disrupts electrical signals in copper cables."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> The widespread adoption of ‘4G’ and ‘5G’ generations of mobile telecommunication technology have acted as a massive catalyst for the Internet of Things (IoT) industry.<br><b>Statement II:</b> Unlike 1G, 2G, and 3G, which transmitted information only in analog signal form, 4G and 5G transmit information in digital signal form.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+
+      "Statement I is correct but Statement II is not correct",
+
+      "Statement I is not correct but Statement II is correct"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct:</b> The expansion of 4G and 5G communication networks has played a crucial role in accelerating the growth of the Internet of Things (IoT). 4G provides high-speed broadband connectivity, and 5G enhances this with ultra-low latency and the ability to support millions of connected devices per square kilometre.<br><br><b>Statement II is incorrect:</b> While 1G communication systems were based on analog transmission, 2G marked the transition from analog to digital communication. 3G, 4G, and 5G are all based on digital transmission. Therefore, it is incorrect to say that 2G and 3G transmitted information only in analog signal form."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "Consider the following statements regarding Open-Source Software (OSS):<br>I. Its source code is publicly available and can be modified by users as per their needs.<br>II. It is generally more cost-effective than proprietary software as it involves minimal or no licensing fees.<br>III. It includes widely used programs such as Microsoft Windows, Adobe Photoshop, and Microsoft Office.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "I and II only",
+
+      "II and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is correct:</b> Open source software is software whose source code is openly accessible for anyone to inspect, modify, and enhance without any specific individual permission from the original creator.<br><br><b>Statement II is correct:</b> Open-source software is generally more cost-effective than proprietary software because it involves little or no licensing fees and no recurring subscription charges.<br><br><b>Statement III is incorrect:</b> Software such as Microsoft Windows, Adobe Photoshop, and Microsoft Office are examples of proprietary (closed source) software, not open-source. Examples of open-source software include Linux, Mozilla Firefox, LibreOffice, and Apache Web Server."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space",
+
+    "question": "Consider the following statements:<br><b>Statement-I:</b> Giant stars live much longer than dwarf stars.<br><b>Statement-II:</b> Compared to dwarf stars, giant stars have a greater rate of nuclear reactions.<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I.",
+
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I.",
+
+      "Statement-I is correct, but Statement-II is incorrect",
+
+      "Statement-I is incorrect, but Statement-II is correct"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Statement-I is incorrect:</b> Giant stars actually have shorter lifetimes compared to dwarf stars. Their massive cores burn through nuclear fuel more rapidly, leading to a shorter overall lifespan.<br><br><b>Statement-II is correct:</b> Giant stars, due to their higher mass, have hotter and denser cores. As a result, they experience more intense nuclear reactions, which contribute to their immense brightness and energy output."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "The IRCTC online ticket booking website is primarily an example of which of the following cloud service models?",
+
+    "options": [
+
+      "Infrastructure as a Service (IaaS)",
+
+      "Platform as a Service (PaaS)",
+
+      "Function as a Service (FaaS)",
+
+      "Software as a Service (SaaS)"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Option d is correct:</b> Software as a Service (SaaS) applications are provided on-demand through the Internet; users can access these applications through a web-enabled interface without software installation on end-user machines. The IRCTC ticket booking website illustrates SaaS because passengers simply open the website (or app) to search trains and book tickets, while the underlying infrastructure, databases, and software maintenance are entirely handled by IRCTC and its cloud service providers.<br><br><b>Options a, b, and c are incorrect:</b> IaaS provides fundamental computing resources like virtual servers. PaaS provides a platform for developers to build applications. FaaS is a serverless computing model where developers run specific pieces of code. IRCTC is a finished application meant for public use, not a developer platform or raw infrastructure."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "“This AI-based technology is capable of altering videos, images, and audio to create highly realistic but artificial representations of real people. It utilizes machine learning models, particularly Generative Adversarial Networks (GANs), to synthesize content that can be used for entertainment, misinformation, and identity fraud.”<br><br>Which of the following emerging technologies is best described in the above passage?",
+
+    "options": [
+
+      "Digital Twin",
+
+      "Augmented Reality",
+
+      "Deepfakes",
+
+      "Virtual Human Modeling"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Option c is correct:</b> Deepfakes are AI-generated synthetic media that use machine learning (deep learning) techniques, particularly Generative Adversarial Networks (GANs), to create highly realistic but fake videos, images, and audio. These AI models swap faces, mimic voices, and generate videos of real people saying or doing things they never did.<br><br><b>Option a is incorrect:</b> A Digital Twin is a real-time virtual representation of a physical object, system, or process, continuously updated using real-world data. It does not generate fake media or alter real-world images.<br><br><b>Option b is incorrect:</b> Augmented Reality (AR) is a technology that overlays digital elements onto the real world, enhancing the user's perception of reality. It does not manipulate or alter existing videos or images.<br><br><b>Option d is incorrect:</b> Virtual Human Modelling involves creating AI-driven avatars or 3D digital humans that can interact in virtual environments. It does not modify existing real-world media but creates independent digital entities."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "With reference to generally discussed taxonomy of Artificial Intelligence (AI), consider the following technologies:<br>I. Artificial Intelligence<br>II. Machine Learning<br>III. Deep Learning<br><br>Which of the following represents the correct sequence of the above technologies as a series of AI systems from largest to smallest, each encompassing the next?",
+
+    "options": [
+
+      "II - III - I",
+
+      "III - II - I",
+
+      "I - II - III",
+
+      "III - I - II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>With reference to the general Taxonomy of AI, the easiest way to think about Artificial Intelligence, Machine Learning, and Deep Learning is to think of them as a series of AI systems from largest to smallest, each encompassing the next. Artificial intelligence is the overarching system. Machine learning is a subset of AI. Deep learning is a subset of Machine learning and hence is also a subset of artificial intelligence.<br><br><b>Option I:</b> Artificial Intelligence is the broadest concept. It refers to the overall goal of creating machines capable of performing tasks that normally require human intelligence.<br><br><b>Option II:</b> Machine Learning is a subset of Artificial Intelligence that focuses on developing algorithms enabling computers to learn from data, identify patterns, and make predictions or decisions without explicit programming for every task.<br><br><b>Option III:</b> Deep Learning is a highly specialized branch of Machine Learning that relies on artificial neural networks with multiple layers (hence “deep”) to analyse complex patterns in large datasets.<br><br>Hence, the correct sequence from largest to smallest is: Artificial Intelligence (I) &rarr; Machine Learning (II) &rarr; Deep Learning (III)."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "With reference to the Blockchain Technology, Consider the following statements:<br>I. Blockchain is an irreversible record of transactions, which cannot be changed, deleted or destroyed.<br>II. The ‘Proof of Stake’ (PoS) consensus protocol/algorithm of blockchain operations generally requires more computational energy than the ‘Proof of Work’ (PoW) protocol/algorithm.<br>III. Digital currencies such as Libra (Diem) and Ethereum are based on blockchain technology.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "III only",
+
+      "I and III only",
+
+      "II only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is correct:</b> Blockchain allows digital information to be recorded and distributed. Blockchain is an irreversible record of transactions, which cannot be changed, deleted or destroyed. It ensures the transparency and integrity of transactions and helps in curbing corrupt practices.<br><br><b>Statement II is incorrect:</b> The Proof of Work (PoW) algorithms require participants (miners) to solve complex mathematical problems using high computational power, consuming large amounts of electricity. In contrast, Proof of Stake (PoS) selects validators based on the amount of cryptocurrency they hold and “stake” in the system. It does not require intensive calculations, making it more energy-efficient. Therefore, PoS consumes less energy than PoW, not more.<br><br><b>Statement III is correct:</b> Ethereum is a blockchain-based cryptocurrency and smart contract platform. Libra (later renamed Diem) was also designed as a blockchain-based digital currency project by Meta (Facebook), though it was eventually discontinued."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "The primary challenge in using superconducting materials in real-life applications such as Maglev trains is:",
+
+    "options": [
+
+      "They emit harmful magnetic radiation that severely affects human health and environment.",
+
+      "They require continuous large external power input to maintain high temperatures for sustained superconductivity.",
+
+      "They lose superconducting properties due to atmospheric pressure variations at ground level.",
+
+      "They require continuous maintenance of very low temperatures to retain superconductivity."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Option d is correct:</b> Superconductivity is a special property of certain materials in which they exhibit zero electrical resistance and expel magnetic flux from their interior when cooled below a specific critical temperature. Despite its advantages for applications like Maglev trains, superconductivity is observed only at very low temperatures, very close to absolute zero (-273 degree Celsius). Maintaining such conditions requires complex and costly cryogenic systems, involving liquid helium or liquid nitrogen, making it the primary challenge in their large-scale, real-life adoption.<br><br><b>Option a is incorrect:</b> Superconductors do not emit harmful magnetic radiation. Due to the Meissner effect, they expel magnetic fields and behave as perfect diamagnets.<br><br><b>Option b is incorrect:</b> External power is needed mainly for maintaining cryogenic cooling (very low temperatures), not high temperatures.<br><br><b>Option c is incorrect:</b> Superconductivity is not significantly affected by normal atmospheric pressure changes, but primarily depends on temperature."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "With reference to Visible Light Communication (VLC) technology, which of the following statements are correct?<br>1. VLC uses electromagnetic spectrum wavelengths 375 to 780 nm.<br>2. VLC is known as long-range optical wireless communication.<br>3. VLC can transmit large amounts of data faster than Bluetooth.<br>4. VLC has no electromagnetic interference.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1, 2 and 3 only",
+
+      "1, 2 and 4 only",
+
+      "1, 3 and 4 only",
+
+      "2, 3 and 4 only"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement 1 is correct:</b> Visible Light Communication uses visible light, which is a part of the electromagnetic spectrum with wavelengths ranging from 375 to 780 nm.<br><br><b>Statement 2 is incorrect:</b> VLC is not known as long-range optical wireless communication, but rather as a short-range communication technology that works best in indoor environments. Long-range optical wireless communication usually refers to free-space optical communication (FSO).<br><br><b>Statement 3 is correct:</b> VLC can transmit large amounts of data faster than Bluetooth, which is another wireless technology that uses radio waves. VLC can achieve data rates of up to 500 Mbit/s with LEDs, while Bluetooth can only reach up to 50 Mbit/s.<br><br><b>Statement 4 is correct:</b> VLC has no electromagnetic interference, because it does not use radio waves, which are prone to interference from other devices or sources. It also does not interfere with Wi-Fi or cellular networks."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "With reference to Li-Fi technology, which of the following statements are correct?<br>I. It uses visible and infrared lights to transmit data.<br>II. It provides significantly higher data transmission speeds than Wi-Fi.<br>III. Li-Fi signals can easily pass through walls, making them suitable for wide-area networking.<br>IV. One of the major limitations of Li-Fi technology is that it offers lower data security than Wi-Fi.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and II only",
+
+      "I, II and III only",
+
+      "III and IV only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Statement I is correct:</b> Li-Fi (Light Fidelity) is a wireless communication technology that uses light waves instead of radio waves to transmit data. It mainly employs visible and infrared light emitted from LED bulbs.<br><br><b>Statement II is correct:</b> Li-Fi has the potential to provide much higher data transmission speeds than conventional Wi-Fi. Its speed is said to be 100 times faster because it uses the optical spectrum, which is vastly larger and far less congested than the radio-frequency spectrum used by Wi-Fi.<br><br><b>Statement III is incorrect:</b> Li-Fi works on the principle of direct light transmission and generally requires a clear line of sight. Light cannot pass through walls, furniture, or other opaque objects, making it unsuitable for wide-area networking.<br><br><b>Statement IV is incorrect:</b> Li-Fi generally offers higher data security than Wi-Fi, as light-based signals remain confined within a physical space and do not leak through walls. Therefore, security is typically an advantage, not a limitation."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "With reference to the Frontier 50 Initiative, consider the following statements:<br>I. It has been launched by the NITI Aayog.<br>II. This initiative will provide direct financial and technical assistance to 50 selected technology startups engaged in development of frontier technologies.<br><br>Which of the statements given above is/are incorrect?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is correct:</b> The Frontier 50 Initiative was launched by NITI Aayog under its Frontier Tech Hub. It is part of NITI Aayog’s efforts to promote the use of advanced technologies for improving governance and service delivery.<br><br><b>Statement II is incorrect:</b> The initiative does not provide assistance to startups. Instead, under the Frontier 50 Initiative, NITI Aayog will support 50 Aspirational Districts / Blocks to pick use cases from the NITI Frontier Tech Repository and deploy frontier technologies that have potential to accelerate saturation of services."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space Technology",
+
+    "question": "With reference to cryogenic engines, which of the following statements is/are correct?<br>I. A Cryogenic rocket stage is more efficient and provides more thrust for every kilogram of propellant it burns compared to solid and earth-storable liquid propellant rocket stages.<br>II. Cryogenic engines use liquefied hydrogen as both fuel and oxidizer.<br>III. Cryogenic engines are more environmentally friendly than other liquid and solid propellant engines.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and II only",
+
+      "III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct:</b> A Cryogenic rocket stage is more efficient and provides more thrust for every kilogram of propellant it burns compared to solid and earth-storable liquid propellant rocket stages. Specific impulse achievable with cryogenic propellants is much higher.<br><br><b>Statement II is incorrect:</b> Cryogenic engines use liquid hydrogen as fuel and liquid oxygen as oxidizer. Hydrogen cannot act as an oxidizer. Oxygen is required to support the combustion of hydrogen.<br><br><b>Statement III is correct:</b> The main exhaust product of a cryogenic engine is water vapour. In contrast, solid propellant engines release toxic gases and particulates, making cryogenic engines relatively cleaner."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "With reference to street-lighting, how do sodium lamps differ from led lamps?<br>1. Sodium lamps produce light in 360 degrees, but it is not so in the case of LED lamps.<br>2. As street-lights, sodium lamps have a longer life span than LED lamps.<br>3. The spectrum of visible light from sodium lamps is almost monochromatic while LED lamps offer significant colour advantages in street-lighting.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "3 only",
+
+      "2 only",
+
+      "1 and 3 only",
+
+      "1, 2 and 3"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement 1 is correct:</b> Sodium lamps produce light in 360 degrees but it is not so in the case of LED lamps. LED lamps have a 180-degree bulb angle to preserve light efficiency and allow for targeted lighting.<br><br><b>Statement 2 is incorrect:</b> As street lights, sodium lamps have an average shorter lifespan than LED lamps. High Pressure Sodium lamps average 24,000 hours, whereas LED lamps' lifespan ranges from 25,000 to 200,000 hours.<br><br><b>Statement 3 is correct:</b> The spectrum of visible light from sodium lamps is almost monochromatic (warm yellow glow). On the other hand, LED lamps offer significant colour advantages in street-lighting by providing a variety of colour options."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "“It involves the use of large, permeable textile containers, which are filled with slurry or sand. These containers are often placed along shorelines to reduce wave energy, prevent coastal erosion, and protect vulnerable coastal stretches.”<br><br>Which of the following technologies is most accurately described above?",
+
+    "options": [
+
+      "Bio-rock Technology",
+
+      "Micro-piling Technique",
+
+      "Hydroponic Wall Engineering",
+
+      "Geotube Technology"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Option d is correct:</b> Geotube technology uses large permeable geotextile tubes filled with sand or sediments. They are placed either along the shoreline or underwater to act as artificial breakwaters that absorb and dissipate wave energy, helping curb erosion.<br><br><b>Option a is incorrect:</b> Bio-rock technology refers to an artificial reef restoration technique using low-voltage electrical currents on metal structures to stimulate coral growth.<br><br><b>Option b is incorrect:</b> Micro-piling is a foundation reinforcement method used in civil engineering to support structures in poor soil conditions.<br><br><b>Option c is incorrect:</b> Hydroponic wall engineering involves soilless plant growth systems typically used in vertical farming."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "With reference to the satellite-based internet network, consider the following statements:<br>I. A satellite internet network does not require any terrestrial infrastructure for the effective delivery of internet services.<br>II. It has extremely lower latency in comparison to terrestrial-based internet systems.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Statement I is incorrect:</b> A satellite internet network is composed of a space segment and a ground segment. The ground segment includes gateways (ground stations that relay internet data) and subscriber ground stations with antennas and transceivers. Terrestrial infrastructure is absolutely essential.<br><br><b>Statement II is incorrect:</b> While satellite-based internet services offer wider coverage and a resilient network, the latency of satcom services can at times be higher than terrestrial broadband networks due to the vast distances the signals must travel."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "Consider the following statements regarding the DNA Computing technology:<br>I. In DNA Computing, the information is represented and stored using the sequences of DNA nitrogenous bases.<br>II. The computational outputs of a DNA computer can be analyzed without requiring any high end expensive tools.<br>III. One of its major limitations is that it does not allow multiple computing operations to be performed simultaneously.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "III only",
+
+      "I and II only",
+
+      "I only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct:</b> DNA computing is an emerging branch of computing which uses DNA to store information and perform computing operations. The data is stored in the form of the DNA nitrogenous bases A, T, G, C.<br><br><b>Statement II is incorrect:</b> The output yielded by DNA computation requires high-end expensive tools for analysis, which is one of the challenges in its adoption.<br><br><b>Statement III is incorrect:</b> DNA computing actually offers parallel computing ability. Multiple calculation operations can be performed simultaneously, facilitated by interactions of millions or billions of DNA molecules to produce a number of outcomes."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "Consider the following statements regarding the Neutrino particles:<br>I. They are often called 'ghost particles' as they rarely interact with the matter.<br>II. They have an electric charge equal to that of electrons.<br>III. They only occur naturally, and cannot be synthetically produced.<br>IV. They are the most abundant subatomic particles in the universe having mass.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and III",
+
+      "I and IV",
+
+      "II and III",
+
+      "II and IV"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is correct:</b> Neutrinos are often called 'ghost particles' because they barely interact with anything else. They pass through the earth without any interaction with any matter.<br><br><b>Statement II is incorrect:</b> Neutrinos are electrically neutral, whereas electrons possess a negative charge.<br><br><b>Statement III is incorrect:</b> While they occur naturally (from the Big Bang, Sun, supernovae), they can also be produced artificially by nuclear reactors and by particle accelerators in the lab.<br><br><b>Statement IV is correct:</b> Neutrinos are the second most abundant subatomic particles after photons (which are massless). Therefore, they are the most abundant among particles that have mass."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "“It is a malicious program that disguises itself as legitimate software to gain user trust. Once installed, it does not self-replicate but provides unauthorized access to attackers, often enabling data theft, system manipulation, or installation of additional malware.”<br><br>Which of the following best refers to the above described cyber threat?",
+
+    "options": [
+
+      "Ransomware",
+
+      "Trojan Horse",
+
+      "Phishing",
+
+      "Worm"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Option b is correct:</b> A Trojan horse is a destructive program that looks like a genuine application. Unlike viruses or worms, Trojan horses do not replicate themselves. They open a backdoor entry to a computer, giving malicious users access to the system and allowing confidential information to be stolen.<br><br><b>Option a is incorrect:</b> Ransomware typically locks the system or files until a ransom is paid, after which access is granted.<br><br><b>Option c is incorrect:</b> Phishing is a cyberattack using fraudulent emails, texts, or websites to trick people into sharing sensitive data. It exploits human psychology rather than software manipulation.<br><br><b>Option d is incorrect:</b> A Worm replicates itself and can spread to different computers via a network."
+
+  }
+
+]
