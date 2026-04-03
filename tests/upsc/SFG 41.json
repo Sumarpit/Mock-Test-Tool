@@ -1,0 +1,1200 @@
+[
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "“This AI-based technology is capable of altering videos, images, and audio to create highly realistic but artificial representations of real people. It utilizes machine learning models, particularly Generative Adversarial Networks (GANs), to synthesize content that can be used for entertainment, misinformation, and identity fraud.”<br><br>Which of the following emerging technologies is best described in the above passage?",
+
+    "options": [
+
+      "Digital Twin",
+
+      "Augmented Reality",
+
+      "Deepfakes",
+
+      "Virtual Human Modeling"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Option c is correct:</b> Deepfakes are AI-generated synthetic media that use machine learning (deep learning) techniques, particularly Generative Adversarial Networks (GANs), to create highly realistic but fake videos, images, and audio. These AI models swap faces, mimic voices, and generate videos of real people saying or doing things they never did.<br><br><b>Option a is incorrect:</b> A Digital Twin is a real-time virtual representation of a physical object, system, or process, continuously updated using real-world data. It does not generate fake media or alter real-world images.<br><br><b>Option b is incorrect:</b> Augmented Reality (AR) is a technology that overlays digital elements onto the real world, enhancing the user's perception of reality. It does not manipulate or alter existing videos or images.<br><br><b>Option d is incorrect:</b> Virtual Human Modelling involves creating AI-driven avatars or 3D digital humans that can interact in virtual environments. It does not modify existing real-world media but creates independent digital entities."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "With reference to generally discussed taxonomy of Artificial Intelligence (AI), consider the following technologies:<br>I. Artificial Intelligence<br>II. Machine Learning<br>III. Deep Learning<br><br>Which of the following represents the correct sequence of the above technologies as a series of AI systems from largest to smallest, each encompassing the next?",
+
+    "options": [
+
+      "II - III - I",
+
+      "III - II - I",
+
+      "I - II - III",
+
+      "III - I - II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>With reference to the general Taxonomy of AI, the easiest way to think about Artificial Intelligence, Machine Learning, and Deep Learning is to think of them as a series of AI systems from largest to smallest, each encompassing the next. Artificial intelligence is the overarching system. Machine learning is a subset of AI. Deep learning is a subset of Machine learning and hence is also a subset of artificial intelligence.<br><br><b>Option I:</b> Artificial Intelligence is the broadest concept. It refers to the overall goal of creating machines capable of performing tasks that normally require human intelligence.<br><br><b>Option II:</b> Machine Learning is a subset of Artificial Intelligence that focuses on developing algorithms enabling computers to learn from data, identify patterns, and make predictions or decisions without explicit programming for every task.<br><br><b>Option III:</b> Deep Learning is a highly specialized branch of Machine Learning that relies on artificial neural networks with multiple layers (hence “deep”) to analyse complex patterns in large datasets.<br><br>Hence, the correct sequence from largest to smallest is: Artificial Intelligence (I) &rarr; Machine Learning (II) &rarr; Deep Learning (III)."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "With reference to the Blockchain Technology, Consider the following statements:<br>I. Blockchain is an irreversible record of transactions, which cannot be changed, deleted or destroyed.<br>II. The ‘Proof of Stake’ (PoS) consensus protocol/algorithm of blockchain operations generally requires more computational energy than the ‘Proof of Work’ (PoW) protocol/algorithm.<br>III. Digital currencies such as Libra (Diem) and Ethereum are based on blockchain technology.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "III only",
+
+      "I and III only",
+
+      "II only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is correct:</b> Blockchain allows digital information to be recorded and distributed. Blockchain is an irreversible record of transactions, which cannot be changed, deleted or destroyed. It ensures the transparency and integrity of transactions and helps in curbing corrupt practices.<br><br><b>Statement II is incorrect:</b> The Proof of Work (PoW) algorithms require participants (miners) to solve complex mathematical problems using high computational power, consuming large amounts of electricity. In contrast, Proof of Stake (PoS) selects validators based on the amount of cryptocurrency they hold and “stake” in the system. It does not require intensive calculations, making it more energy-efficient. Therefore, PoS consumes less energy than PoW, not more.<br><br><b>Statement III is correct:</b> Ethereum is a blockchain-based cryptocurrency and smart contract platform. Libra (later renamed Diem) was also designed as a blockchain-based digital currency project by Meta (Facebook), though it was eventually discontinued."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "The primary challenge in using superconducting materials in real-life applications such as Maglev trains is:",
+
+    "options": [
+
+      "They emit harmful magnetic radiation that severely affects human health and environment.",
+
+      "They require continuous large external power input to maintain high temperatures for sustained superconductivity.",
+
+      "They lose superconducting properties due to atmospheric pressure variations at ground level.",
+
+      "They require continuous maintenance of very low temperatures to retain superconductivity."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Option d is correct:</b> Superconductivity is a special property of certain materials in which they exhibit zero electrical resistance and expel magnetic flux from their interior when cooled below a specific critical temperature. Despite its advantages for applications like Maglev trains, superconductivity is observed only at very low temperatures, very close to absolute zero (-273 degree Celsius). Maintaining such conditions requires complex and costly cryogenic systems, involving liquid helium or liquid nitrogen, making it the primary challenge in their large-scale, real-life adoption.<br><br><b>Option a is incorrect:</b> Superconductors do not emit harmful magnetic radiation. Due to the Meissner effect, they expel magnetic fields and behave as perfect diamagnets.<br><br><b>Option b is incorrect:</b> External power is needed mainly for maintaining cryogenic cooling (very low temperatures), not high temperatures.<br><br><b>Option c is incorrect:</b> Superconductivity is not significantly affected by normal atmospheric pressure changes, but primarily depends on temperature."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "With reference to Visible Light Communication (VLC) technology, which of the following statements are correct?<br>1. VLC uses electromagnetic spectrum wavelengths 375 to 780 nm.<br>2. VLC is known as long-range optical wireless communication.<br>3. VLC can transmit large amounts of data faster than Bluetooth.<br>4. VLC has no electromagnetic interference.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1, 2 and 3 only",
+
+      "1, 2 and 4 only",
+
+      "1, 3 and 4 only",
+
+      "2, 3 and 4 only"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement 1 is correct:</b> Visible Light Communication uses visible light, which is a part of the electromagnetic spectrum with wavelengths ranging from 375 to 780 nm.<br><br><b>Statement 2 is incorrect:</b> VLC is not known as long-range optical wireless communication, but rather as a short-range communication technology that works best in indoor environments. Long-range optical wireless communication usually refers to free-space optical communication (FSO).<br><br><b>Statement 3 is correct:</b> VLC can transmit large amounts of data faster than Bluetooth, which is another wireless technology that uses radio waves. VLC can achieve data rates of up to 500 Mbit/s with LEDs, while Bluetooth can only reach up to 50 Mbit/s.<br><br><b>Statement 4 is correct:</b> VLC has no electromagnetic interference, because it does not use radio waves, which are prone to interference from other devices or sources. It also does not interfere with Wi-Fi or cellular networks."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "With reference to Li-Fi technology, which of the following statements are correct?<br>I. It uses visible and infrared lights to transmit data.<br>II. It provides significantly higher data transmission speeds than Wi-Fi.<br>III. Li-Fi signals can easily pass through walls, making them suitable for wide-area networking.<br>IV. One of the major limitations of Li-Fi technology is that it offers lower data security than Wi-Fi.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and II only",
+
+      "I, II and III only",
+
+      "III and IV only",
+
+      "I, II, III and IV"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Statement I is correct:</b> Li-Fi (Light Fidelity) is a wireless communication technology that uses light waves instead of radio waves to transmit data. It mainly employs visible and infrared light emitted from LED bulbs.<br><br><b>Statement II is correct:</b> Li-Fi has the potential to provide much higher data transmission speeds than conventional Wi-Fi. Its speed is said to be 100 times faster because it uses the optical spectrum, which is vastly larger and far less congested than the radio-frequency spectrum used by Wi-Fi.<br><br><b>Statement III is incorrect:</b> Li-Fi works on the principle of direct light transmission and generally requires a clear line of sight. Light cannot pass through walls, furniture, or other opaque objects, making it unsuitable for wide-area networking.<br><br><b>Statement IV is incorrect:</b> Li-Fi generally offers higher data security than Wi-Fi, as light-based signals remain confined within a physical space and do not leak through walls. Therefore, security is typically an advantage, not a limitation."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "With reference to the Frontier 50 Initiative, consider the following statements:<br>I. It has been launched by the NITI Aayog.<br>II. This initiative will provide direct financial and technical assistance to 50 selected technology startups engaged in development of frontier technologies.<br><br>Which of the statements given above is/are incorrect?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is correct:</b> The Frontier 50 Initiative was launched by NITI Aayog under its Frontier Tech Hub. It is part of NITI Aayog’s efforts to promote the use of advanced technologies for improving governance and service delivery.<br><br><b>Statement II is incorrect:</b> The initiative does not provide assistance to startups. Instead, under the Frontier 50 Initiative, NITI Aayog will support 50 Aspirational Districts / Blocks to pick use cases from the NITI Frontier Tech Repository and deploy frontier technologies that have potential to accelerate saturation of services."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Space Technology",
+
+    "question": "With reference to cryogenic engines, which of the following statements is/are correct?<br>I. A Cryogenic rocket stage is more efficient and provides more thrust for every kilogram of propellant it burns compared to solid and earth-storable liquid propellant rocket stages.<br>II. Cryogenic engines use liquefied hydrogen as both fuel and oxidizer.<br>III. Cryogenic engines are more environmentally friendly than other liquid and solid propellant engines.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I and II only",
+
+      "III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct:</b> A Cryogenic rocket stage is more efficient and provides more thrust for every kilogram of propellant it burns compared to solid and earth-storable liquid propellant rocket stages. Specific impulse achievable with cryogenic propellants is much higher.<br><br><b>Statement II is incorrect:</b> Cryogenic engines use liquid hydrogen as fuel and liquid oxygen as oxidizer. Hydrogen cannot act as an oxidizer. Oxygen is required to support the combustion of hydrogen.<br><br><b>Statement III is correct:</b> The main exhaust product of a cryogenic engine is water vapour. In contrast, solid propellant engines release toxic gases and particulates, making cryogenic engines relatively cleaner."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "With reference to street-lighting, how do sodium lamps differ from led lamps?<br>1. Sodium lamps produce light in 360 degrees, but it is not so in the case of LED lamps.<br>2. As street-lights, sodium lamps have a longer life span than LED lamps.<br>3. The spectrum of visible light from sodium lamps is almost monochromatic while LED lamps offer significant colour advantages in street-lighting.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "3 only",
+
+      "2 only",
+
+      "1 and 3 only",
+
+      "1, 2 and 3"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement 1 is correct:</b> Sodium lamps produce light in 360 degrees but it is not so in the case of LED lamps. LED lamps have a 180-degree bulb angle to preserve light efficiency and allow for targeted lighting.<br><br><b>Statement 2 is incorrect:</b> As street lights, sodium lamps have an average shorter lifespan than LED lamps. High Pressure Sodium lamps average 24,000 hours, whereas LED lamps' lifespan ranges from 25,000 to 200,000 hours.<br><br><b>Statement 3 is correct:</b> The spectrum of visible light from sodium lamps is almost monochromatic (warm yellow glow). On the other hand, LED lamps offer significant colour advantages in street-lighting by providing a variety of colour options."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "“It involves the use of large, permeable textile containers, which are filled with slurry or sand. These containers are often placed along shorelines to reduce wave energy, prevent coastal erosion, and protect vulnerable coastal stretches.”<br><br>Which of the following technologies is most accurately described above?",
+
+    "options": [
+
+      "Bio-rock Technology",
+
+      "Micro-piling Technique",
+
+      "Hydroponic Wall Engineering",
+
+      "Geotube Technology"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Option d is correct:</b> Geotube technology uses large permeable geotextile tubes filled with sand or sediments. They are placed either along the shoreline or underwater to act as artificial breakwaters that absorb and dissipate wave energy, helping curb erosion.<br><br><b>Option a is incorrect:</b> Bio-rock technology refers to an artificial reef restoration technique using low-voltage electrical currents on metal structures to stimulate coral growth.<br><br><b>Option b is incorrect:</b> Micro-piling is a foundation reinforcement method used in civil engineering to support structures in poor soil conditions.<br><br><b>Option c is incorrect:</b> Hydroponic wall engineering involves soilless plant growth systems typically used in vertical farming."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "With reference to the satellite-based internet network, consider the following statements:<br>I. A satellite internet network does not require any terrestrial infrastructure for the effective delivery of internet services.<br>II. It has extremely lower latency in comparison to terrestrial-based internet systems.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Statement I is incorrect:</b> A satellite internet network is composed of a space segment and a ground segment. The ground segment includes gateways (ground stations that relay internet data) and subscriber ground stations with antennas and transceivers. Terrestrial infrastructure is absolutely essential.<br><br><b>Statement II is incorrect:</b> While satellite-based internet services offer wider coverage and a resilient network, the latency of satcom services can at times be higher than terrestrial broadband networks due to the vast distances the signals must travel."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "Consider the following statements regarding the DNA Computing technology:<br>I. In DNA Computing, the information is represented and stored using the sequences of DNA nitrogenous bases.<br>II. The computational outputs of a DNA computer can be analyzed without requiring any high end expensive tools.<br>III. One of its major limitations is that it does not allow multiple computing operations to be performed simultaneously.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "III only",
+
+      "I and II only",
+
+      "I only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct:</b> DNA computing is an emerging branch of computing which uses DNA to store information and perform computing operations. The data is stored in the form of the DNA nitrogenous bases A, T, G, C.<br><br><b>Statement II is incorrect:</b> The output yielded by DNA computation requires high-end expensive tools for analysis, which is one of the challenges in its adoption.<br><br><b>Statement III is incorrect:</b> DNA computing actually offers parallel computing ability. Multiple calculation operations can be performed simultaneously, facilitated by interactions of millions or billions of DNA molecules to produce a number of outcomes."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Applied Science and Modern Day Technology",
+
+    "question": "Consider the following statements regarding the Neutrino particles:<br>I. They are often called 'ghost particles' as they rarely interact with the matter.<br>II. They have an electric charge equal to that of electrons.<br>III. They only occur naturally, and cannot be synthetically produced.<br>IV. They are the most abundant subatomic particles in the universe having mass.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and III",
+
+      "I and IV",
+
+      "II and III",
+
+      "II and IV"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is correct:</b> Neutrinos are often called 'ghost particles' because they barely interact with anything else. They pass through the earth without any interaction with any matter.<br><br><b>Statement II is incorrect:</b> Neutrinos are electrically neutral, whereas electrons possess a negative charge.<br><br><b>Statement III is incorrect:</b> While they occur naturally (from the Big Bang, Sun, supernovae), they can also be produced artificially by nuclear reactors and by particle accelerators in the lab.<br><br><b>Statement IV is correct:</b> Neutrinos are the second most abundant subatomic particles after photons (which are massless). Therefore, they are the most abundant among particles that have mass."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "IT and Telecommunications",
+
+    "question": "“It is a malicious program that disguises itself as legitimate software to gain user trust. Once installed, it does not self-replicate but provides unauthorized access to attackers, often enabling data theft, system manipulation, or installation of additional malware.”<br><br>Which of the following best refers to the above described cyber threat?",
+
+    "options": [
+
+      "Ransomware",
+
+      "Trojan Horse",
+
+      "Phishing",
+
+      "Worm"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Option b is correct:</b> A Trojan horse is a destructive program that looks like a genuine application. Unlike viruses or worms, Trojan horses do not replicate themselves. They open a backdoor entry to a computer, giving malicious users access to the system and allowing confidential information to be stolen.<br><br><b>Option a is incorrect:</b> Ransomware typically locks the system or files until a ransom is paid, after which access is granted.<br><br><b>Option c is incorrect:</b> Phishing is a cyberattack using fraudulent emails, texts, or websites to trick people into sharing sensitive data. It exploits human psychology rather than software manipulation.<br><br><b>Option d is incorrect:</b> A Worm replicates itself and can spread to different computers via a network."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "With reference to monoclonal antibodies, often mentioned in news, consider the following statements:<br>I. They are man-made proteins.<br>II. They stimulate immunological function due to their ability to bind to specific antigens.<br>III. They are used in treating viral infections like that of Nipah virus.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Statement I is correct:</b> Monoclonal antibodies are manmade antibodies artificially created in laboratories using biotechnology. Scientists produce them by cloning a single white blood cell (B-cell) that produces a desired antibody. Since all the antibodies are copies (clones) of one original cell, they are called monoclonal antibodies. These proteins are designed to mimic the immune system’s ability to fight off harmful pathogens such as viruses and bacteria.<br><br><b>Statement II is correct:</b> Monoclonal antibodies are highly specific – they are engineered to bind to a particular antigen (a molecule or protein found on the surface of pathogens or abnormal cells). This binding can neutralize the pathogen, mark it for destruction by other immune cells, or block receptors that the virus uses to enter human cells. By binding to these specific targets, mAbs enhance the immune response and help the body fight disease more effectively.<br><br><b>Statement III is correct:</b> Monoclonal antibodies have been developed as therapeutic options for several viral infections, including COVID-19, Ebola virus, and Nipah virus. A monoclonal antibody called m102.4 has shown potential against the Nipah virus."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "With reference to germline gene editing, consider the following statements:<br>I. It involves genetic modification of reproductive cells and embryos.<br>II. Modifications made through germline gene editing can be passed down to future generations.<br>III. India has recently permitted trials of CRISPR-Cas9 technology to edit the human germline.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Statement I is correct:</b> In germline editing technique, genes in reproductive cells such as eggs, sperms or embryos may be edited. These cells pass their DNA to future generations so any edits made to them are inherited.<br><br><b>Statement II is correct:</b> Editing the human germline essentially means creating genetically modified humans through the manipulation of their genes. While germline editing is focussed on editing the genes — or traits — that pass on from parents to children, it runs the risk of affecting even non-targeted genes. Modifications are heritable and could alter the genetic makeup of future generations.<br><br><b>Statement III is incorrect:</b> At present, in India, gene therapy is applied only to somatic (non-heritable) cells in clinical settings, while germline modifications remain prohibited and tightly regulated for ethical reasons. India has not permitted trials of CRISPR-Cas9 technology to edit the human germline."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "BIRSA-101, recently seen in news, is:",
+
+    "options": [
+
+      "a high-yielding variety of bio-fortified rice seeds designed to combat malnutrition among children.",
+
+      "India’s first indigenous CRISPR-based gene therapy for sickle cell disease.",
+
+      "an automated biomedical waste treatment that disinfects pathogenic waste without incineration.",
+
+      "a portable hospital designed to provide rapid medical assistance in Humanitarian Aid & Disaster Relief (HADR) conditions."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>The Union Ministry of Science & technology has recently launched BIRSA 101 - India’s first indigenous \"CRISPR\" based gene therapy for Sickle Cell Disease, which particularly affects India's tribal population. The therapy has been named \"BIRSA 101\" in honour of tribal leader Birsa Munda on his 150th anniversary (15th November, 2025).<br><br>Birsa-101 precisely corrects the mutations in the genetic code that causes the disease. The therapy has to be given as a one-time infusion, after which the body should start producing normal red blood cells instead of sickle-shaped ones."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Defence",
+
+    "question": "Which of the following statements with respect to the differences between ballistic missiles and cruise missiles is/are incorrect?<br>I. Compared to Ballistic missiles, Cruise missiles are generally harder to detect by radar.<br>II. Cruise missiles can only be used to deliver conventional warheads, whereas ballistic missiles can carry both nuclear and conventional warheads.<br><br>Select the correct answer using the code given below.",
+
+    "options": [
+
+      "Neither I nor II",
+
+      "Both I and II",
+
+      "II only",
+
+      "I only"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct:</b> Cruise missiles are difficult to detect because they fly low and can use terrain for concealment. Ballistic missiles, due to their high-altitude trajectory and speed, are generally easier to detect and track by radar and satellite systems once launched. Ballistic missiles follow a high-arching, unpowered (ballistic) trajectory through space. In contrast, cruise missiles are jet-powered and maintain a steady, low-altitude flight path. Flying low expends more fuel but makes a cruise missile very difficult to detect.<br><br><b>Statement II is incorrect:</b> Both cruise and ballistic missiles are capable of delivering either conventional or nuclear warheads. For instance, The BrahMos missile is a supersonic cruise missile capable of carrying both conventional and nuclear warheads. The Agni series are nuclear-capable ballistic missiles."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Defence",
+
+    "question": "With reference to India’s defense, consider the following pairs:<br><br><b>Aircraft type &mdash; Description</b><br>I. Dornier-228 &mdash; Maritime patrol aircraft<br>II. IL-76 &mdash; Supersonic combat aircraft<br>III. C-17 Globe Master III &mdash; Military transport aircraft<br><br>How many of the pairs given above are correctly matched?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Pair I is correct:</b> The Dornier 228 is a twin-engine turboprop aircraft utilized by the Indian Navy and Coast Guard for maritime patrol, surveillance, search and rescue, and pollution control missions. It is manufactured under license by Hindustan Aeronautics Limited (HAL).<br><br><b>Pair II is incorrect:</b> The Ilyushin Il-76 is a strategic airlifter, not a supersonic combat aircraft. It serves roles such as transporting heavy machinery, aerial refueling, and emergency response. It lacks the speed and agility characteristic of supersonic combat aircraft.<br><br><b>Pair III is correct:</b> The C-17 Globemaster III is a large military transport aircraft designed for rapid strategic airlift of troops and cargo to main operating bases or forward bases in the deployment area."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Nuclear Technology",
+
+    "question": "What is the primary function of a moderator in a nuclear reactor?",
+
+    "options": [
+
+      "To absorb excess neutrons and stop the chain reaction.",
+
+      "To convert nuclear energy directly into electrical energy.",
+
+      "To slow down fast-moving neutrons produced during nuclear fission.",
+
+      "To remove heat from the reactor core to prevent it from excessive heating."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>In a nuclear reactor, energy is released when a heavy nucleus like uranium splits, a process called nuclear fission. When fission occurs, it releases a large amount of energy and fast-moving neutrons. For a sustained and controlled chain reaction, neutrons must move slowly (thermal neutrons). A moderator is a substance used to slow down the fast-moving neutrons produced by fission to sustain the chain reaction. Common moderator materials include graphite, heavy water, and ordinary water."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "With reference to MicroRNA, consider the following statements:<br>I. They are endogenous in nature, meaning they are encoded within the organism's own genome.<br>II. They are short duplex RNA molecules that exert gene silencing effects at the post-transcriptional level by targeting messenger RNA (mRNA).<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>MicroRNAs (miRNAs) are important types of noncoding RNA molecules involved in gene silencing and post-transcriptional regulation of gene expression.<br><br><b>Statement I is correct:</b> miRNAs are endogenous, meaning they are encoded within the organism's own genome. They are typically transcribed from specific genes and processed into mature miRNAs. They do not code for proteins.<br><br><b>Statement II is correct:</b> miRNAs are short duplex RNA molecules that exert gene silencing effects at the post-transcriptional level by targeting messenger RNA (mRNA). They regulate gene expression by binding to the 3' untranslated region of target mRNAs, either inhibiting translation or causing mRNA degradation."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "Which of the following statements regarding Chimeric Antigen Receptor T (CAR-T) cell therapy is/are correct?<br>I. In CAR-T cell therapy, T-cells can be genetically engineered to add specific receptors, which are specifically designed to recognise and bind to antigens on the surface of cancer cells.<br>II. Unlike chemotherapy, which can affect both cancerous and healthy cells, CAR-T cell therapy generally specifically attacks cancer cells while sparing normal healthy cells.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct:</b> T-cells are primarily used in CAR-T cell therapy because of their pivotal role in the immune system’s response to pathogens and malignancies. These cells can be genetically engineered to express chimeric antigen receptors (CARs), which are specifically designed to recognise and bind to antigens on the surface of cancer cells. Once bound, these modified T-cells can efficiently kill cancer cells.<br><br><b>Statement II is correct:</b> CAR-T cell therapy is designed to target specific antigens present in cancer cells. This specificity allows the therapy to directly attack cancer cells while sparing normal, healthy cells. The precision minimises collateral damage and reduces the risk of side effects compared to traditional treatments like chemotherapy."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "Consider the following statements regarding Transposons:<br>I. They are mobile DNA sequences commonly known as Jumping genes.<br>II. They can cause DNA damage and may lead to early cell death.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statements I and II are correct:</b> Transposons, also known as “jumping genes” or mobile elements are little pieces of DNA that can insert themselves into different regions of the genome, damaging it and leading to cell death. The DNA damage caused by the transposons leads to these cells dying out early. Transposons challenge the prevailing concept that genes are stable and arranged in an orderly manner on the chromosome.<br><br>Transposons influence the effects of genes by turning ‘on’ or ‘off’ their expression using a variety of epigenetic mechanisms. They are thus rightly called the tools of evolution, for their ability to rearrange the genome and introduce changes."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Nuclear Technology",
+
+    "question": "With reference to the use of thorium for the generation of power, consider the following statements:<br><b>Statement I:</b> Naturally occurring thorium can be directly used as fuel in nuclear reactors for the generation of electrical power.<br><b>Statement II:</b> Naturally occurring thorium is a ‘fertile’ material that can be converted into a ‘fissile material.’<br><br>Which one of the following is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+
+      "Statement I is correct but Statement II is not correct",
+
+      "Statement I is not correct but Statement II is correct"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>Thorium is a silvery, slightly radioactive metal commonly found in igneous rocks and heavy mineral sands. Thorium-232 is the only naturally occurring isotope of thorium.<br><br><b>Statement I is incorrect:</b> Thorium by itself cannot be directly used as a fuel in nuclear reactors for generation of power. Thorium has to be converted to Uranium-233 in a reactor before it can be used as fuel.<br><br><b>Statement II is correct:</b> Thorium is not a fissile material. Rather, it is a fissionable fertile material that has to be converted to fissile material U-233. When irradiated, thorium-232 undergoes a series of nuclear reactions, eventually forming uranium-233, which can then be split to release energy to power a nuclear reactor."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "“Membrane Bioreactors” are often discussed in the context of:",
+
+    "options": [
+
+      "Assisted reproductive technologies",
+
+      "Drug delivery nanotechnologies",
+
+      "Vaccine production technologies",
+
+      "Wastewater treatment technologies"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>“Membrane Bioreactors” are commonly discussed in the context of wastewater treatment technologies. These systems combine biological treatment (using microorganisms) with membrane filtration to efficiently remove pollutants from wastewater. The membranes act as barriers, allowing clean water to pass through while retaining suspended solids and microorganisms. Membrane bioreactors are widely used in treating domestic and industrial wastewater."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "Consider the following statements about mRNA vaccines:<br>I. They generally use weakened or killed forms of a virus to generate an immune response in the human body.<br>II. They do not alter human DNA because the mRNA usually does not enter the cell nucleus.<br>III. The mRNA vaccine can be stored at normal room temperature for a long time.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I and II",
+
+      "II only",
+
+      "III only",
+
+      "None of the above"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>mRNA vaccines are a modern type of vaccine that use messenger RNA (mRNA) to train the immune system.<br><br><b>Statement I is incorrect:</b> While most vaccines use weakened or dead bacteria or viruses to evoke a response from the immune system, mRNA vaccines only introduce a piece of the genetic material that corresponds to a viral protein. This is usually a protein found on the membrane of the virus and is called spike protein.<br><br><b>Statement II is correct:</b> mRNA from vaccines never enters the nucleus of the cell. Human DNA is stored inside the nucleus, while mRNA functions in the cytoplasm. Since the mRNA cannot interact with DNA, it cannot alter or integrate into human genes.<br><br><b>Statement III is incorrect:</b> The mRNA vaccines are required to be stored at sub-zero temperatures as mRNA is fragile and easily breaks down thus reducing the efficacy of the vaccine."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "With reference to recent advances in technology, a new technique called Light-microscopy-based Connectomics (LICONN) is most closely associated with which of the following?",
+
+    "options": [
+
+      "Mapping neural connections in human brain",
+
+      "Establishing satellite based internet networks",
+
+      "Developing Small Modular Nuclear Reactors",
+
+      "Developing high end night vision infrared cameras for military purpose"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Light-microscopy-based Connectomics (LICONN) is a new technique used to map how brain cells are connected. Normally, many brain structures are too small to be seen with a light microscope. LICONN solves this problem by physically expanding brain tissue by soaking in a special gel that expands evenly, making the tissue about 16 times larger. After expansion, scientists use fluorescent stains to mark different proteins inside neurons, which makes them glow under a light microscope. Advanced computer programs are then used to map how they are connected."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "The gene drive technology was recently seen in the news in the context of which one of the following?",
+
+    "options": [
+
+      "Treating genetic disorders through human gene therapy.",
+
+      "Treating cancer in humans.",
+
+      "Developing faster DNA sequencing techniques.",
+
+      "Controlling malaria by spreading infertility or resistance traits in mosquitoes."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>A gene drive is a naturally occurring process where a specific gene is prioritised, meaning its chances of being inherited are up to 99%. Within a few generations, almost all of the species will carry that gene.<br><br>Malaria is spread by female Anopheles mosquitoes. Scientists use gene drive technology to insert specific genes into mosquitoes, such as genes that make mosquitoes infertile or prevent them from carrying the malaria parasite. When released into the wild, the modified gene is inherited by nearly all offspring, causing the mosquito population to either collapse or become unable to transmit malaria."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "Aerial metagenomics best refers to which one of the following situations?",
+
+    "options": [
+
+      "Collecting DNA samples from air in a habitat at one go.",
+
+      "Understanding the genetic makeup of avian species of a habitat.",
+
+      "Using air-borne devices to collect blood samples from moving animals.",
+
+      "Sending drones to inaccessible areas to collect plant and animal samples from land surfaces and water bodies."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>“Aerial metagenomics” refers to the collection and analysis of DNA samples from the air or aerosol particles present in a specific habitat. It involves sampling the air in a particular environment to capture the genetic material (DNA) present in microorganisms, including bacteria, viruses, fungi, and other microscopic organisms."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Defence",
+
+    "question": "INS Arnala, INS Androth and INS Anjadip belong to which of the following class of marine vessels:",
+
+    "options": [
+
+      "Frigates",
+
+      "Aircraft Carriers",
+
+      "Anti-Submarine Warfare Shallow Water Craft (ASW SWC)",
+
+      "Nuclear submarine"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>INS Arnala, Androth and Anjadip are three out of eight Anti-Submarine Warfare Shallow Water Craft (ASW SWC), indigenously designed and built by Garden Reach Shipbuilders and Engineers (GRSE), Kolkata. At approximately 77 metres in length, the ASW SWCs are the largest Indian naval warships to be propelled by waterjets. They are equipped with state-of-the-art lightweight torpedoes, indigenously developed anti-submarine rockets and shallow-water sonar, enabling effective detection and engagement of underwater threats."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Defence",
+
+    "question": "Consider the following statements:<br><b>Statement I:</b> SONAR is preferred over RADAR for detecting submerged objects like submarines or shipwrecks.<br><b>Statement II:</b> Radio waves are heavily absorbed and scattered by seawater, whereas sound waves can travel great distances through water with minimal absorption or scattering.<br><br>Which of the above is correct in respect of the above statements?",
+
+    "options": [
+
+      "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+
+      "Statement I is correct but Statement II is not correct.",
+
+      "Statement I is not correct but Statement II is correct."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Statement I is correct:</b> SONAR, which stands for Sound Navigation and Ranging, is widely used to detect submerged objects such as submarines, underwater rocks, and shipwrecks. It is the primary sensing technology for underwater navigation and surveillance, unlike RADAR, which is mainly used in air and space.<br><br><b>Statement II is correct:</b> Electromagnetic waves, including radio waves and microwaves used in RADAR systems, are strongly absorbed by seawater and thus get attenuated. In contrast, sound waves are mechanical, longitudinal waves that can travel long distances in water with relatively little energy absorption or scattering.<br><br><b>Statement II explains Statement I:</b> Since Electromagnetic waves used in RADAR systems cannot propagate effectively in water, it becomes unsuitable for underwater detection. At the same time, sound waves propagate efficiently in water, making SONAR a reliable and effective tool for detecting submerged objects."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Defence",
+
+    "question": "In the context of Indian defence technology, which of the following best describes “Akashteer”?",
+
+    "options": [
+
+      "A nuclear-powered attack submarine designed for underwater deterrence",
+
+      "A satellite-based early warning system for detecting intercontinental ballistic missiles",
+
+      "A long-range surface-to-surface ballistic missile developed by DRDO",
+
+      "An indigenous automated air defence control and reporting system of India"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>Akashteer is an indigenously developed, automated Air Defence Control and Reporting System (ADCRS) for the Indian Army. It integrates radars, sensors, and air defence weapon systems into a single network. Akashteer enables real-time detection, tracking, identification, and engagement of aerial threats, thereby enhancing battlefield air defence and reducing human reaction time."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "With reference to the the Stem Cells in human body, consider the following statements:<br>I. These are unspecialised cells which divide to produce two daughter cells, one of which remains a stem cell and the other one becomes differentiated.<br>II. These cells are found only in the embryonic stage and are absent in adult tissues.<br>III. The Haematopoietic stem cells (HSCs) are an example of totipotent stem cells.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "III only",
+
+      "I and II",
+
+      "I only",
+
+      "I and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct and statement II is incorrect:</b> All of the human body cells are not differentiated. Some populations of unspecialised/undifferentiated cells, also known as stem cells, are found to be present in organisms even after attaining adulthood. Stem cells are unspecialised cells which divide to produce two daughter cells, one of which remains a stem cell and the other one becomes differentiated.<br><br>The major sources of stem cells are embryos and adult tissues (adult stem cells). The embryonic stem cells can be derived from embryos which are in the early phase of development. The adult stem cells, on the other hand, can be found in various tissues throughout the body, e.g., bone marrow, blood vessels, brain, skeletal muscles and liver.<br><br><b>Statement III is incorrect:</b> Multipotent cells have a limited range of tissues into which they can differentiate. Therefore, they have a lower cell differentiation potential than totipotent and pluripotent stem cells. An excellent example of Multipotent stem cell type is the haematopoietic stem cells (HSCs). HSCs differentiate into a large number of blood cells including red blood cells (RBCs), white blood cells (WBCs) and platelets. On the other hand, a totipotent cell is able to differentiate into all possible cell types in an organism."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "Which of the following vaccines contains pathogens, like virus or bacteria, that are weakened by genetic manipulations so that they cannot cause disease but still trigger an immune response?",
+
+    "options": [
+
+      "Live attenuated Vaccine",
+
+      "Inactivated Vaccine",
+
+      "Conjugate Vaccine",
+
+      "Recombinant Vaccine"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Option (a) is correct:</b> In Live attenuated vaccines, Pathogens like virus or bacteria are weakened by genetic manipulations to limit its growth and thus do not cause disease to the host. The weakened pathogen replicates in the body thus generating a broad immune response in the host similar to that shown by an infected individual with a natural pathogen. For example Oral polio vaccine.<br><br><b>Option (b) is incorrect:</b> In Inactivated or Dead vaccines, the disease-causing pathogen is killed or inactivated, usually through a thermal or chemical process. For example Hepatitis A vaccine.<br><br><b>Option (c) is incorrect:</b> Conjugate Vaccines do not contain the whole bacteria or viruses. Instead, they contain polysaccharides or proteins from the surface of the bacteria or virus. For example Pneumococcal conjugate vaccine.<br><br><b>Option (d) is incorrect:</b> In Recombinant Vaccine, a small piece of the DNA is taken from the disease-causing bacterium or virus. The particular gene is incorporated into plasmid or a carrier vehicle which enables production of large quantities of well-defined proteins. For example Human papillomavirus (HPV) vaccine."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "With reference to Genetically Modified mustard DMH-11 in India, consider the following statements:<br>I. It is a hybrid variety of mustard produced by a crossing between the ‘Varuna’ and ‘Early Heera-2’ mustard varieties.<br>II. It is only the second Genetically Modified crop allowed for commercial cultivation in India.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>GM mustard or Dhara Mustard Hybrid-11 (DMH-11) was developed by researchers at the Centre for Genetic Manipulation of Crop Plants (CGMCP) at the University of Delhi.<br><br><b>Statement I is correct:</b> The CGMCP scientists have deployed the barnase-barstar GM technology to create what they say is a robust and viable hybridisation system in mustard. This system was used to develop DMH-11 by crossing a popular Indian mustard variety ‘Varuna’ (the barnase line) with an East European ‘Early Heera-2’ mutant (barstar).<br><br><b>Statement II is incorrect:</b> The GEAC functions under the Ministry of Environment, Forest and Climate Change (MoEF&CC) and has been tasked with the appraisal of proposals relating to the ‘release’ of GM organisms into the environment. At present, Bt cotton is the only genetically modified crop allowed to be commercially cultivated in India. Though the Environment Ministry/GEAC gave its conditional go-ahead for commercial cultivation of GM mustard in 2022, it has not taken off as it was challenged in the Supreme Court."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "Consider the following statements regarding the National Biofoundry Network of India:<br>I. It has been launched under the BioE3 Policy.<br>II. Its primary objective is to strengthen indigenous biomanufacturing and to foster sustainable biotechnology innovations.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct:</b> India’s first National Biofoundry Network was recently launched under the BioE3 (Biotechnology for Economy, Environment and Employment) Policy with the objective of strengthening indigenous Biomanufacturing.<br><br><b>Statement II is correct:</b> Its primary objective is the strengthening indigenous Biomanufacturing. It is a step towards making biotechnology a driver of India's economy, environment and employment. National Biofoundry Network aims to boost India's bioeconomy, create jobs, and foster sustainable biotechnology innovations.<br><br>The National Biofoundry Network comprises six institutions to help scale up proof-of-concept developments, enhance indigenous biomanufacturing, and create employment opportunities."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Defence",
+
+    "question": "Consider the following aircraft:<br>1. Rafael<br>2. MiG-29<br>3. Tejas MK-1<br><br>How many of the above are considered fifth generation fighter aircraft?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All three",
+
+      "None"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>Fifth-generation fighters include major technologies developed during the first part of the 21st century. They typically have characteristics like stealth, super cruise, advanced avionics, and networked data fusion for situational awareness. Examples of combat-ready fifth-generation fighters include the Lockheed Martin F-22 Raptor, Lockheed Martin F-35 Lightning II, Chengdu J-20, and Sukhoi Su-57.<br><br><b>Option 1 is incorrect:</b> The Rafale is a fourth-generation (4.5th) fighter jet developed by France.<br><br><b>Option 2 is incorrect:</b> The MiG-29 is also a fourth generation fighter jet developed by Russia.<br><br><b>Option 3 is incorrect:</b> The Tejas MK-1 is an indigenous Indian fighter, but it falls under the fourth generation (4.5th generation) as well."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "In the context of Biotechnology, what is the primary function of restriction enzymes?",
+
+    "options": [
+
+      "Making cuts at specific positions within the DNA.",
+
+      "Translation of genetic information into proteins.",
+
+      "Separation of DNA fragments based on their size.",
+
+      "Getting pure form of DNA, free from other macro-molecules, for DNA editing."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>The cutting of DNA at specific locations became possible with the discovery of the so-called molecular scissors i.e. restriction enzymes.<br><br>Restriction enzymes belong to a larger class of enzymes called nucleases. These are of two kinds; exonucleases and endonucleases. Exonucleases remove nucleotides from the ends of the DNA whereas endonucleases make cuts at specific positions within the DNA. Each restriction endonuclease functions by ‘inspecting’ the length of a DNA sequence.<br><br>Once it finds its specific recognition sequence, it will bind to the DNA and cut each of the two strands of the double helix at specific points in their sugar-phosphate backbones."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "Consider the following statements regarding the Organ-on-Chip technology:<br>I. An organ-on-chip is a small device designed to recreate the dynamic functions of some human organ in a controlled microenvironment.<br>II. It will help reduce dependence on testing of drugs on animals during preclinical trials.<br>III. It can help in precision therapeutics, which involve developing and administering drugs according to the needs of individual patients.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>Recent advancements in human-relevant 3D culture models, also known as ‘new approach methods’ (NAMs), have shown promising results in the field of precision therapeutics. These models include 3D spheroids, organoids, bioprinting, and organ-on-chips.<br><br><b>Statement I is correct:</b> An organ-on-chip is a small device designed to recreate the dynamic functions of some human organ in a controlled microenvironment. It allows integrating cells derived from a human body with a well-defined in vitro biological environment that mimics the body’s conditions.<br><br><b>Statement II is correct:</b> In the early stages of drug trials, drugs are tested on animal models. However, drugs that succeed on these animals often fail in humans. Organ-on-chip technology offers a potential solution by providing a more accurate and efficient platform for testing drugs without involving animals or humans in preclinical testing.<br><br><b>Statement III is correct:</b> Precision therapeutics involves developing and administering drugs according to the needs of individual patients. Advancements like organ-on-chips have shown promising results in enabling such personalized medicine."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "Which among the following is an example of the ‘Xenotransplantation’?",
+
+    "options": [
+
+      "Replacement of defective mitochondria in a woman with healthy mitochondria from another woman.",
+
+      "Inactivation or removal of one or more specific genes from a human body.",
+
+      "Differentiation of stem cells into diverse functional tissues.",
+
+      "Infusion of non-human animal cells or tissues or organs into human recipients."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Option (d) is correct:</b> Xenotransplantation refers to the transplantation of non-human tissues or organs into human recipients. Xenotransplantation is any procedure that involves the transplantation, implantation or infusion into a human recipient of either: a) live cells, tissues, or organs from a nonhuman animal source, or b) human body fluids, cells, tissues or organs that have had ex vivo contact with live nonhuman animal cells, tissues or organs.<br><br>Thus, it is the use of animal cells and organs to heal humans. For example: Pig heart valves have been used for replacing damaged valves in humans for over 50 years now."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "With reference to bio-toilets used by the Indian Railways, consider the following statements:<br>1. The decomposition of human waste in the bio-toilets is initiated by a fungal inoculum.<br>2. Ammonia and water vapour are the only end products in this decomposition which are released into the atmosphere.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "1 only",
+
+      "2 only",
+
+      "Both 1 and 2",
+
+      "Neither 1 nor 2"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Statements 1 and 2 are incorrect:</b> The biological degradation of human waste is done by Anaerobic Bacteria inoculums, not fungal inoculum. Bio-toilets dispose of human waste in a 100% eco-friendly manner and generate colourless, odourless water and inflammable Methane-Gas for cooking as end products, not just ammonia and water vapour."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Nanotechnology",
+
+    "question": "With reference to Carbon Nanotubes (CNTs), consider the following statements:<br>I. They are three-dimensional concentric tubular structures with pentagonal arrangement of carbon atoms.<br>II. They exhibit high electrical and thermal conductivity.<br>III. They can be used in targeted drug delivery systems.<br><br>Which of the above given statements are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II and III"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is incorrect:</b> Carbon nanotube (CNT) is a one-dimensional concentric tubular structure with hexagonal (not pentagonal) arrangement of carbon atoms.<br><br><b>Statement II is correct:</b> CNTs are well known for a combination of special material properties like very high thermal & electrical conductivities, high tensile strength, high modulus of elasticity, low density, and high porosity.<br><br><b>Statement III is correct:</b> CNTs are used in medical applications like targeted drug delivery systems and biosensors."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Nuclear Technology",
+
+    "question": "With reference to the applications of nuclear technology, consider the following:<br>I. Plant breeding and genetics to develop disease-resistant crop varieties.<br>II. Pest management in agricultural fields.<br>III. Diagnosis and therapy of thyroid and related cancers.<br><br>How many of the above are the applications of nuclear technology?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "All the three",
+
+      "None"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>Nuclear energy is often associated only with power generation. In reality, nuclear technology has wide non-electric applications to solve problems in agriculture, health, water management, and industry.<br><br><b>Option I is correct:</b> Nuclear technology used in crop breeding can develop improved varieties that better adapt to climate change. Seeds can be irradiated with gamma rays or X rays to initiate genetic changes, allowing for better resistance to pests and diseases.<br><br><b>Option II is correct:</b> Nuclear technology is used for insect pest management. The sterile insect technique (SIT) involves mass-rearing insects, sterilizing them through ionizing radiation, and releasing them back into pest-infested areas.<br><br><b>Option III is correct:</b> Nuclear technology is used to produce radioactive medicines. Example: 131I-Iodine based products are used for diagnosis and therapy of thyroid and related cancers."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "With reference to Trans Fats, consider the following statements:<br>I. They are a type of unsaturated fatty acids.<br>II. They do not occur naturally.<br>III. In India presently, the permissible limit of trans fatty acids (TFA) in food products is 5% of total fats and oil.<br>IV. Regular high consumption of trans fats increases the risk of cardiovascular diseases.<br><br>Which of the statements given above are correct?",
+
+    "options": [
+
+      "I, II and IV",
+
+      "I and IV only",
+
+      "II and III only",
+
+      "I, III and IV"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is correct:</b> Trans fats, also known as trans-fatty acids (TFAs), are a type of unsaturated fatty acids.<br><br><b>Statement II is incorrect:</b> Trans fats occur naturally as well as are produced artificially. They can be found naturally in meat and dairy foods from ruminant animals (e.g. cows, sheep, goats). Industrially, they are produced by the partial hydrogenation of liquid oils.<br><br><b>Statement III is incorrect:</b> In India, the permissible limit of trans fatty acids (TFA) in oils and fats is 2% (not 5%). In 2020, FSSAI amended regulations to progressively reduce the TFA limit to 3% in 2021 and further to 2% from 2022 onwards.<br><br><b>Statement IV is correct:</b> A regular high intake/consumption of trans fats significantly increases cardiovascular disease risk, increasing the overall risk of developing coronary heart disease by about 21%."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Defence",
+
+    "question": "Consider the following:<br>I. Brahmos missile<br>II. Akash Prime<br>III. Prithivi missile<br>IV. Agni-V missile<br><br>How many of the above are classified as Ballistic missiles?",
+
+    "options": [
+
+      "Only one",
+
+      "Only two",
+
+      "Only three",
+
+      "All the four"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>Based on the type of trajectory, missiles are divided into ballistic missiles and cruise missiles. Ballistic missiles follow a projectile or arch trajectory and are guided only during their initial stage. Cruise missiles fly at low altitudes and are guided throughout their path.<br><br><b>Option I is incorrect:</b> Brahmos is a supersonic cruise missile (not ballistic missile) developed jointly by India and Russia.<br><br><b>Option II is incorrect:</b> Akash Prime is a medium-range, surface-to-air missile platform (not ballistic missile).<br><br><b>Option III is correct:</b> Prithvi missile is an indigenously developed short range surface-to-surface ballistic missile.<br><br><b>Option IV is correct:</b> Agni V is the intermediate-range ballistic missile. It is an indigenously developed intercontinental ballistic missile (ICBM) with a range of 5,000 km."
+
+  },
+
+  {
+
+    "section": "Science and Technology",
+
+    "topic": "Biotechnology",
+
+    "question": "The primary concern about glycans in the context of viral infections like HIV is that they:",
+
+    "options": [
+
+      "increase the mutation rate of viral genetic material.",
+
+      "are the sugar shields that mask viral proteins from being recognised by the immune system.",
+
+      "are the viral proteins that directly destroy host antibodies after infection.",
+
+      "prevent the virus from binding to host cell receptors."
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Option (b) is correct:</b> Viruses such as HIV are covered with special proteins on their outer surface. However, these proteins are not left exposed. They are heavily covered with glycans, which are complex sugar molecules derived from the host cell itself. This covering of sugars is called a glycan shield.<br><br>When HIV is produced inside a human cell, it uses the host cell’s machinery to add sugar molecules to its surface proteins. Since these sugars are similar to the body’s own sugars, the immune system sees them as “self” rather than “foreign”.<br><br>The protein parts of the virus, which immune cells and antibodies usually recognise, are physically covered by sugars. Antibodies work by binding to specific shapes on viral proteins. The glycan layer blocks access to these shapes, preventing effective antibody binding."
+
+  }
+
+]
+
