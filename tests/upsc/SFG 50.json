@@ -1,0 +1,1069 @@
+[
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Reading Comprehensions",
+
+    "passage": "When you think about auroras, you probably picture mesmerizing displays of color dancing across the sky. However, their less enchanting effects on navigation and communication systems are significant. The charged particles responsible for these stunning visuals can disrupt Global Navigation Satellite Systems (GNSS) such as GPS, leading to considerable positioning errors. These disruptions are particularly concerning for critical sectors like transportation and aviation. As dependence on GPS increases in an interconnected world, there is a growing need for reliable backup systems during such events. In these situations, Land Mobile Radio (LMR) can provide a dependable solution. LMR systems maintain reliability over short distances, typically a few kilometers, ensuring that critical communication remains operational. For emergency services and first responders, this resilience is crucial.",
+
+    "question": "Based on the above passage, the following assumptions have been made:<br>I. Further research is required to gain a deeper understanding of the effects of auroral events on Earth’s communication systems.<br>II. Auroral events can significantly affect the reliability of navigation and communication systems.<br><br>Which of the assumptions given above is/are valid?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is incorrect:</b> While the passage states that auroral events may impact satellite navigation systems, it is silent on the need for further research to understand its effects on Earth’s communication systems. Therefore, the assumption is outside the scope of the passage and thus incorrect.<br><br><b>Statement II is correct:</b> The passage states “The charged particles responsible for these stunning visuals can disrupt Global Navigation Satellite Systems (GNSS) such as GPS, leading to considerable positioning errors. These disruptions are particularly concerning for critical sectors like transportation and aviation. As dependence on GPS increases in an interconnected world, there is a growing need for reliable backup systems during such events.” From here, we can assume that statement II is correct."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Reading Comprehensions",
+
+    "passage": "India’s linguistic diversity is not merely a statistic; it is a living, breathing embodiment of the nation’s cultural richness. Throughout history, empires have played a crucial role in shaping linguistic patterns. The Mauryan Empire used Prakrit and Sanskrit for governance and inscriptions, while the Gupta period revitalized Sanskrit as the language of scholars and intellectual life. Later, the Delhi Sultanate and the Mughal Empire introduced Persian, which blended with local dialects to give rise to Urdu, a language celebrated for its poetic elegance. The British colonial era further transformed the linguistic landscape by institutionalizing English. After independence, the Constitution of India recognized 22 languages under the Eighth Schedule, reflecting a strong commitment to linguistic plurality. Despite this vast diversity, language in India often acts as a unifying force. Shared expressions, borrowed words, and mutual intelligibility create connections across communities. Multilingualism in India is therefore not merely accepted but celebrated as a symphony of voices that is uniquely and beautifully Indian.",
+
+    "question": "Which one of the following statements best reflects the crux of the passage?",
+
+    "options": [
+
+      "Linguistic diversity in India is constitutionally protected, reflecting the nation’s commitment to pluralism.",
+
+      "Historical political shifts and foreign influences are the primary reasons India is a multilingual nation today.",
+
+      "The diverse linguistic heritage of India, though evolved through generations under different empires, is a celebration of its identity.",
+
+      "Languages in India did not develop in isolation but through continuous interaction with one another."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement a is incorrect:</b> While the passage states “After independence, the Constitution of India recognized 22 languages under the Eighth Schedule, reflecting a strong commitment to linguistic plurality”, statement a does not best reflect the crux of the passage as it does not highlight that linguistic diversity is a part of Indian identity.<br><br><b>Statement b is incorrect:</b> While the passage details how empires and colonial rule shaped linguistic patterns, it does not claim these are the primary reasons. The passage begins by stating that diversity is a \"living, breathing embodiment\" of cultural richness, implying that the roots of diversity may be deeper and more varied than just political history alone.<br><br><b>Statement c is correct:</b> This statement best captures the crux of the entire passage. It bridges the historical evolution mentioned in the first half (Mauryan, Mughal, and British influences) with the concluding sentiment that this diversity is a \"celebration\" and a \"symphony of voices\" that defines Indian identity.<br><br><b>Statement d is incorrect:</b> The passage states “Shared expressions, borrowed words, and mutual intelligibility create connections across communities.” However, statement d does not best reflect the crux of the passage as it narrowly focuses upon interconnections between languages in India."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Reading Comprehensions",
+
+    "passage": "India’s linguistic diversity is not merely a statistic; it is a living, breathing embodiment of the nation’s cultural richness. Throughout history, empires have played a crucial role in shaping linguistic patterns. The Mauryan Empire used Prakrit and Sanskrit for governance and inscriptions, while the Gupta period revitalized Sanskrit as the language of scholars and intellectual life. Later, the Delhi Sultanate and the Mughal Empire introduced Persian, which blended with local dialects to give rise to Urdu, a language celebrated for its poetic elegance. The British colonial era further transformed the linguistic landscape by institutionalizing English. After independence, the Constitution of India recognized 22 languages under the Eighth Schedule, reflecting a strong commitment to linguistic plurality. Despite this vast diversity, language in India often acts as a unifying force. Shared expressions, borrowed words, and mutual intelligibility create connections across communities. Multilingualism in India is therefore not merely accepted but celebrated as a symphony of voices that is uniquely and beautifully Indian.",
+
+    "question": "Based on the above passage, following assumptions have been made:<br>I. The evolution of languages in India has been significantly influenced by the administrative and cultural policies of various ruling dynasties.<br>II. Persian had a more profound impact on the development of modern Indian languages than other languages did.<br><br>Which of the above given assumptions is/are valid?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Statement I is correct:</b> The passage explicitly details how different ruling powers (Mauryan, Gupta, Mughal, British) utilized specific languages for \"governance,\" \"inscriptions,\" and \"intellectual life,\" thereby shaping the linguistic landscape of the country.<br><br><b>Statement II is incorrect:</b> While the passage mentions that Persian blended with local dialects to form Urdu, it does not compare the \"profoundness\" of its impact against other influences like Sanskrit, Prakrit, or English. There is no evidence in the text to rank Persian as having a \"more profound\" impact than the others."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "A student was computing the average of 30 positive two-digit numbers. While doing the calculation, he accidentally reversed the digits in two of the numbers. In one number, whose digits are x and y (forming the number xy), the digits were written as yx. In another number, whose digits are a and b (forming the number ab), the digits were written as ba. Because of this mistake, the calculated average turned out to be 1.8 less than the correct average. It is given that (x − y) = 3. What is the value of (b – a)?",
+
+    "options": [
+
+      "3",
+
+      "-6",
+
+      "9",
+
+      "-3"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Given:</b> There are 30 numbers. If the average is 1.8 less than the true average, then the total sum used by the student is smaller than the correct sum by:<br>Difference in sum = 1.8 &times; 30 = 54. So, the mistakes reduced the total by 54.<br><br><b>Change caused by reversing digits of a number:</b><br>Any two-digit number xy equals 10x + y. If digits are reversed, it becomes 10y + x.<br>Change (wrong &minus; correct) = (10y + x) &minus; (10x + y) = 9(y &minus; x).<br>Similarly, for number ab:<br>Change = 9(b &minus; a).<br><br><b>Total change due to both mistakes:</b><br>Total change = 9(y &minus; x) + 9(b &minus; a) = 9[(y &minus; x) + (b &minus; a)].<br>This total change equals &minus;54 (since sum decreased).<br>So, 9[(y &minus; x) + (b &minus; a)] = &minus;54.<br>Divide by 9: (y &minus; x) + (b &minus; a) = &minus;6.<br><br><b>Use given condition:</b><br>Given x &minus; y = 3, so y &minus; x = &minus;3.<br>Substitute: &minus;3 + (b &minus; a) = &minus;6.<br>Therefore, b &minus; a = &minus;3."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "Five friends appeared for a test in which the highest possible score was 100. The average of the four lowest scores among them is 80, while the average of the four highest scores is 85. What is the difference between the greatest possible overall average and the smallest possible overall average of all five friends?",
+
+    "options": [
+
+      "2",
+
+      "3",
+
+      "5",
+
+      "6"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Given:</b><br><ul><li>Number of friends = 5</li><li>Maximum possible score = 100</li><li>Average of four lowest scores = 80 &rArr; Sum of four lowest = 4 &times; 80 = 320</li><li>Average of four highest scores = 85 &rArr; Sum of four highest = 4 &times; 85 = 340</li></ul><br>Let scores in non-decreasing order be: a &le; b &le; c &le; d &le; e<br><br><b>Form equations:</b><br>a + b + c + d = 320<br>b + c + d + e = 340<br>Subtract: (b + c + d + e) &minus; (a + b + c + d) = 340 &minus; 320<br>e &minus; a = 20 &rArr; e = a + 20<br><br><b>Express total sum:</b><br>Total sum S = a + b + c + d + e<br>Since a + b + c + d = 320, S = 320 + e = 320 + (a + 20) = 340 + a<br>Overall average depends only on a.<br>To maximize average &rarr; maximize a.<br>To minimize average &rarr; minimize a.<br><br><b>Constraints:</b><br>Scores are between 0 and 100.<br>Order must hold: a &le; b &le; c &le; d &le; e.<br>Also e &le; 100 &rArr; a + 20 &le; 100 &rArr; a &le; 80.<br><br><b>Maximum possible average:</b><br>Take a = 80 &rArr; e = 100.<br>Then b + c + d = 320 &minus; 80 = 240.<br>Choose b = c = d = 80 (valid since &le; e).<br>Total sum = 80 + 80 + 80 + 80 + 100 = 420.<br>Maximum average = 420 &divide; 5 = 84.<br><br><b>Minimum possible average:</b><br>Make a as small as possible while keeping order feasible.<br>Since b, c, d &le; e = a + 20, the largest possible sum of b + c + d is 3(a + 20).<br>But we need b + c + d = 320 &minus; a.<br>So, 320 &minus; a &le; 3(a + 20)<br>320 &minus; a &le; 3a + 60<br>260 &le; 4a &rArr; a &ge; 65.<br>Take a = 65 &rArr; e = 85.<br>Then b = c = d = 85 works.<br>Total sum = 65 + 85 + 85 + 85 + 85 = 405.<br>Minimum average = 405 &divide; 5 = 81.<br><br><b>Difference:</b><br>84 &minus; 81 = 3.<br>Difference between maximum and minimum overall average = 3."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "A vendor sells only bananas and guavas, each at a constant price per fruit. The total cost of purchasing five bananas and six guavas is Rs 40. Similarly, the total cost of buying seven bananas and four guavas is Rs 34. If a guava costs more than a banana, then which of the following is the difference between the price of a guava and a banana (in Rs)?",
+
+    "options": [
+
+      "2.5",
+
+      "3",
+
+      "3.5",
+
+      "4"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>Let the price of one banana = B<br>Let the price of one guava = G<br><br>We have:<br>5B + 6G = 40 ......(1)<br>7B + 4G = 34 ......(2)<br><br>Multiply (1) by 7:<br>35B + 42G = 280 ......(3)<br><br>Multiply (2) by 5:<br>35B + 20G = 170 ......(4)<br><br>Subtract (4) from (3):<br>(35B + 42G) &minus; (35B + 20G) = 280 &minus; 170<br>22G = 110 &rArr; G = Rs 5<br><br>Now, substitute G = 5 into equation (2):<br>7B + 4(5) = 34<br>7B + 20 = 34<br>7B = 14 &rArr; B = Rs 2<br><br>Hence, the required difference G &minus; B = 5 &minus; 2 = 3<br>Therefore, the difference between the price of a guava and a banana is Rs 3."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "Two teams, A and B, played several matches in which team A won three-fourths of the total matches played initially. Afterwards, they played 7 more matches and team A lost all of these. As a result, the overall fraction of matches won by team A became two-thirds. What is the number of matches team A had originally won?",
+
+    "options": [
+
+      "21",
+
+      "35",
+
+      "42",
+
+      "63"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Given:</b><br><ul><li>Let the number of matches originally won by team A be W.</li><li>Let the total number of matches originally played be T.</li><li>Team A initially won three-fourths of matches &rArr; W = (3/4)T.</li></ul><br><b>After 7 additional matches:</b><br><ul><li>Team A loses all 7 &rArr; wins remain W.</li><li>Total matches become T + 7.</li><li>New winning fraction = 2/3.</li></ul><br><b>Form equation:</b><br>W &divide; (T + 7) = 2/3 ......(1)<br><br><b>Express T in terms of W:</b><br>From W = (3/4)T &rArr; T = (4/3)W ......(2)<br><br>Substituting (2) in (1):<br>W &divide; ((4/3)W + 7) = 2/3.<br><br>Now Solving this we get:<br>3W = 2((4/3)W + 7)<br>3W = (8/3)W + 14<br>Multiply by 3 on both sides &rArr; 9W = 8W + 42<br>W = 42.<br><br>Therefore, Team A originally won 42 matches."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "A rectangle has the property that the ratio of its length to breadth equals 2.5 times the ratio of its perimeter to its length. What is the interval in which the ratio of length to breadth lies?",
+
+    "options": [
+
+      "Less than 4",
+
+      "Between 4 and 5",
+
+      "Between 5 and 6",
+
+      "More than 6"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Given:</b><br><ul><li>Let length = &ell;.</li><li>Let breadth = b.</li><li>Perimeter = 2(&ell; + b).</li><li>Condition: &ell;/b = 2.5 &times; (perimeter/&ell;).</li></ul><br><b>Form equation:</b><br>&ell;/b = (5/2) &times; [2(&ell; + b)/&ell;]<br>&ell;/b = 5(&ell; + b)/&ell;<br><br><b>Cross multiply:</b><br>&ell;&sup2; = 5b(&ell; + b)<br>&ell;&sup2; = 5b&ell; + 5b&sup2;<br><br><b>Divide by b&sup2;:</b><br>(&ell;/b)&sup2; &minus; 5(&ell;/b) &minus; 5 = 0<br><br><b>Solve quadratic:</b><br>&ell;/b = [5 &plusmn; &radic;(25 + 20)] / 2<br>&ell;/b = [5 &plusmn; &radic;45] / 2<br>&ell;/b = (5 &plusmn; 3&radic;5) / 2<br><br>Since &radic;5 &asymp; 2.24.<br>Hence (5 - 3&radic;5) = (5 - 6.72)/2 = -0.86 which is not possible.<br>Selecting &ell;/b = (5 + 3&radic;5) / 2 for a positive ratio:<br>&ell;/b &asymp; (5 + 6.72) / 2 &asymp; 11.72 / 2 &asymp; 5.86.<br><br>Hence the Ratio of length to breadth i.e. &ell;/b lies between 5 and 6."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "A patient receives two vaccine doses one after the other. The probability that immunity develops after the first dose is 0.5, and after the second dose is 0.4, with the second dose administered only if the first dose does not produce immunity. If it is known that the patient has developed immunity, what is the probability that this immunity resulted from the second dose?",
+
+    "options": [
+
+      "1/4",
+
+      "2/7",
+
+      "2/5",
+
+      "4/9"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Given:</b><br><ul><li>Probability immunity from shot I = 0.5.</li><li>Probability shot I fails = 1 &minus; 0.5 = 0.5.</li><li>Probability immunity from shot II (when given) = 0.4.</li><li>Shot II is given only if shot I fails.</li></ul><br>Let S&#8321; denote the event that immunity is produced by the first dose and S&#8322; denote the event that immunity is produced by the second dose.<br>We have P(S&#8321;) = 0.5.<br>The probability that the first dose fails is 1 &minus; 0.5 = 0.5.<br><br>Since the second dose is given only if the first dose fails, the probability that immunity is produced by the second dose equals 0.5 &times; 0.4 = 0.2.<br>The total probability that immunity is produced is therefore P(S&#8321;) + P(S&#8322;) = 0.5 + 0.2 = 0.7.<br><br>Hence, the conditional probability that immunity was produced by the second dose given that immunity occurred is P(S&#8322; | immunity) = 0.2 / 0.7 = 2/7."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "Let a be the product of four consecutive even natural numbers. If b = a + 16, then which of the following statements must always be true about b/16 ?<br>I. a perfect square<br>II. prime<br>III. odd",
+
+    "options": [
+
+      "I only",
+
+      "I and III only",
+
+      "II and III only",
+
+      "II only"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Given:</b><br>Let the four consecutive even natural numbers be 2n, 2n + 2, 2n + 4, and 2n + 6.<br>Then a = (2n)(2n + 2)(2n + 4)(2n + 6).<br>Factor out 2 from each term: a = 16 &middot; n(n + 1)(n + 2)(n + 3).<br><br>Hence b = a + 16 = 16 [ n(n + 1)(n + 2)(n + 3) + 1 ].<br>Now compute n(n + 1)(n + 2)(n + 3) = (n&sup2; + 3n)(n&sup2; + 3n + 2).<br>Let t = n&sup2; + 3n. Then the expression becomes t(t + 2) = t&sup2; + 2t.<br>Adding 1 gives t&sup2; + 2t + 1 = (t + 1)&sup2;.<br><br>Therefore b/16 = (n&sup2; + 3n + 1)&sup2;.<br>Thus b/16 is always a perfect square. Since any perfect square greater than 1 is composite, it is not prime in general.<br><br>Next, n&sup2; + 3n = n(n + 3).<br>One of n and n + 3 is even, so the product is even. Hence n&sup2; + 3n + 1 is odd, and its square is odd.<br><br>Therefore, statements I and III are true, while II is false."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Reading Comprehensions",
+
+    "passage": "Unlike religion and science, poetry does not posit or expect any belief in absolute truths. Those forces or individuals who claim to have absolute truths in their grasp tend to turn dictatorial and tyrannical. Truth usually does not admit any contradictions or imperfections. It is unitarian. It is, therefore, not of much use for poetry. Poetry abides by the plurality of life and existence. Perhaps poetry follows reality which is plural, anachronistic, full of contradictions. Against the tyranny of truth, poetry remains a partisan of democratic reality. Against the arrogance of power, wealth and hierarchy, poetry proposes both humility and defiance.",
+
+    "question": "Which one of the following statements best reflects the most logical and rational message conveyed by the above passage?",
+
+    "options": [
+
+      "It is the poetry, not science or religion, which recognizes and accepts imperfections in humans.",
+
+      "Truth is revealed through science or religion and poetry is anathema to truth.",
+
+      "Poetry is romantic, imaginary and is about feeling whereas science and religion are about truth.",
+
+      "In a world of violence, tyranny and bigotry, poetry is a form of dynamic resistance."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Option a is correct:</b> This option accurately captures the essence of the passage. The passage emphasizes that poetry does not rely on absolute truths, which are often unitarian and intolerant of contradictions or imperfections. Instead, poetry embraces the plurality of life and the existence of contradictions, thereby recognizing and accepting human imperfections.<br><br><b>Option b is incorrect:</b> The passage does not suggest that poetry is anathema to truth. Rather, it argues that poetry does not concern itself with absolute truths, which are typically rigid and dictatorial.<br><br><b>Option c is incorrect:</b> This option simplifies the distinction by focusing on the emotional and imaginative aspects of poetry, contrasting them with the truth claims of science and religion. However, the passage specifically emphasizes poetry’s acceptance of the complexities and contradictions of life, and its opposition to the unitarian nature of absolute truths.<br><br><b>Option d is incorrect:</b> While the passage does mention that poetry opposes the tyranny associated with absolute truths, its primary focus is on poetry’s acceptance of plurality and contradictions. The passage does not explicitly frame poetry as a form of dynamic resistance against violence, tyranny, and bigotry, but rather as a medium that thrives on the diversity and complexity of life."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Reading Comprehensions",
+
+    "passage": "The Ganges River Dolphin is a keystone species and an apex predator in river ecosystems. It regulates fish populations and helps maintain ecological balance. Its presence reflects healthy trophic interactions and stable water quality in the Ganga–Brahmaputra–Meghna basin. A decline in the population of the Gangetic Dolphin can disrupt the balance of riverine ecosystems and accelerate their degradation. As rivers deteriorate, they lose their capacity to buffer floods, recharge aquifers, and regulate local temperatures. This increases risks for both biodiversity and human communities. Protecting the Ganges River Dolphin is therefore not only about saving a species. It is essential for strengthening the resilience and long-term sustainability of India’s river systems.",
+
+    "question": "Based on the above passage, the following assumptions have been made:<br>I. As Gangetic River Dolphin helps maintain ecological balance, it should be introduced along all the stretches of Gangetic river system.<br>II. Protecting keystone species like gangetic dolphins not only protects the species itself but the ecosystem as a whole.<br><br>Which of the above assumptions is/are valid?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is incorrect:</b> While the passage states that Gangetic River Dolphin helps maintain ecological balance, it is silent on introducing it in all stretches of Gangetic river system. Therefore, the assumption is outside the scope of the passage and thus incorrect.<br><br><b>Statement II is correct:</b> The passage explicitly describes the dolphin as a keystone species and apex predator whose presence ensures \"ecological balance\" and \"stable water quality.\" The passage also says protecting the dolphin is \"essential for strengthening the resilience\" of the entire river system, confirming that its protection safeguards the ecosystem as a whole. Hence this assumption is correct."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Reading Comprehensions",
+
+    "passage": "India’s policies and investments have pushed rapid growth in solar and wind energy capacity. Yet this expansion brings a structural challenge. Solar generation peaks at midday and drops sharply in the evening, precisely when electricity demand typically rises. This growing mismatch between supply and demand of renewable energy poses a serious test for grid stability. Battery Energy Storage Systems (BESS) offer a practical solution. They store excess electricity when generation is high or demand is low, and discharge it during peak consumption hours, aligning renewable output with real-time demand. This smoothens fluctuations and strengthens grid reliability. As renewable capacity rises, the question is no longer whether India can generate green power. The real challenge is whether the grid can absorb it smoothly and deliver it reliably when people actually need it. In this context, BESS must be recognized as a core component of grid planning, essential to transforming high renewable capacity into dependable, round the clock clean energy availability.",
+
+    "question": "Which one of the following statements best reflects the most logical, rational and crucial message implied by the passage?",
+
+    "options": [
+
+      "Expansion of renewable energy capacity will enable the generation of round the clock green power.",
+
+      "India’s policy framework has successfully accelerated the expansion of renewable energy capacity.",
+
+      "Efficient storage systems can transform renewable energy capacity into a reliable source of power.",
+
+      "The existing gap between renewable energy generation and consumption undermines its capacity as a reliable source of power."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement a is incorrect:</b> The passage states “As renewable capacity rises, the question is no longer whether India can generate green power. The real challenge is whether the grid can absorb it smoothly and deliver it reliably when people actually need it.” The focus is on increasing storage for renewable energy rather than just expanding renewable energy generation capacity.<br><br><b>Statement b is incorrect:</b> The passage states “India’s policies and investments have pushed rapid growth in solar and wind capacity.” However, statement b does not best reflect the most logical, rational and crucial message implied by the passage as it does not highlight the structural challenges and solutions associated with this trend.<br><br><b>Statement c is correct:</b> It best reflects the most logical, rational and crucial message implied by the passage as it provides a practical solution to solve the mismatch between supply and demand of renewable energy. It states BESS can help transform high renewable capacity into dependable, round the clock clean energy.<br><br><b>Statement d is incorrect:</b> The passage points out the growing mismatch between supply and demand, but statement d does not best reflect the most crucial message implied by the passage as it does not provide or highlight the solution (efficient storage systems) which the passage strongly advocates."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Verbal Ability and Logical Reasoning",
+
+    "question": "If 'CAT' is written as '72' and 'DOG' is written as '78', then how is 'FISH' written?",
+
+    "options": [
+
+      "132",
+
+      "168",
+
+      "176",
+
+      "184"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Pattern identification using CAT:</b><br><ul><li>Alphabetical positions: C = 3, A = 1, T = 20</li><li>Sum of positions: 3 + 1 + 20 = 24</li><li>Count letters: CAT has 3 letters</li><li>Multiply sum by number of letters: 24 &times; 3 = 72</li></ul><br><b>Pattern verification using DOG:</b><br><ul><li>Alphabetical positions: D = 4, O = 15, G = 7</li><li>Sum of positions: 4 + 15 + 7 = 26</li><li>Count letters: DOG has 3 letters</li><li>Multiply: 26 &times; 3 = 78</li></ul>The rule holds, confirming consistency. Established coding rule: The code of a word equals the sum of alphabetical positions of its letters multiplied by the number of letters in the word.<br><br><b>Applying the rule to FISH:</b><br><ul><li>Alphabetical positions: F = 6, I = 9, S = 19, H = 8</li><li>Sum: 6 + 9 + 19 + 8 = 42</li><li>Number of letters: 4</li><li>Multiply: 42 &times; 4 = 168</li></ul><br>Conclusion: FISH is written as 168."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Verbal Ability and Logical Reasoning",
+
+    "question": "Consider the following statements in respect of five candidates A, B, C, D, and E who appeared for an interview. It is known that two statements are true and one statement is false.<br><br><b>Statement 1 (True):</b> If A was selected, then B was also selected, but both were not selected if C was selected.<br><b>Statement 2 (False):</b> At most one of C, D, and E was selected for the job.<br><b>Statement 3 (True):</b> Exactly one of A and E was selected, and at least one of B and D was not selected.<br><br>Which of the following conclusions can be drawn?<br>I. C was definitely selected for the job.<br>II. At most three candidates were selected for the job.<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Understanding Statement 2 (False):</b><br>\"At most one of C, D, E selected\" is false. Therefore, at least two among C, D, and E must have been selected.<br><br><b>Using Statement 3 (True):</b><br>Exactly one of A and E is selected. So either A is selected and E is not, OR E is selected and A is not. Also, at least one of B and D is not selected.<br><br><b>Case Analysis:</b><br><b>Case 1: A selected, E not selected</b><br>From Statement 1: If A selected &rarr; B must be selected.<br>Since at least two among C, D, E must be selected and E is not, both C and D must be selected.<br>But Statement 1 also says: If C is selected &rarr; A and B are not selected.<br>This contradicts A and B being selected. Hence this case is impossible.<br><br><b>Case 2: E selected, A not selected</b><br>Now at least two among C, D, E must be selected. Since E is already selected, at least one of C or D must be selected.<br>Statement 3 requires at least one of B or D not selected &mdash; this can be satisfied.<br>Check Statement 1: Since A is not selected, the first implication is irrelevant. If C is selected, it only requires A and B not selected &mdash; A already not selected, so B must not be selected if C is selected. This is consistent. Thus valid configurations exist with C selected or not selected.<br><br><b>Evaluate Conclusion I:</b> \"C was definitely selected.\" Not necessary &mdash; possible scenarios exist where C is not selected. Conclusion I is false.<br><br><b>Evaluate Conclusion II:</b> \"At most three candidates were selected.\" Since at least two among C, D, E are selected and exactly one of A or E is selected, total selections can be 2 or 3 but cannot exceed 3 without violating Statement 3 or Statement 2 being false. Hence total selections &le; 3. Conclusion II is true."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Verbal Ability and Logical Reasoning",
+
+    "question": "The letters of the word \"UNCHARACTERISTICALLY\" are rearranged such that all the vowels are first arranged in alphabetical order and placed at the start. Then all the consonants are arranged in reverse alphabetical order and placed after all the vowels. After this arrangement, how many letters will occupy the same position as they did in the original word?",
+
+    "options": [
+
+      "None",
+
+      "One",
+
+      "Two",
+
+      "Three"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Original arrangement:</b><br>U(1) N(2) C(3) H(4) A(5) R(6) A(7) C(8) T(9) E(10) R(11) I(12) S(13) T(14) I(15) C(16) A(17) L(18) L(19) Y(20)<br><br><b>Vowels in the word:</b> U, A, A, E, I, I, A<br>Alphabetical order &rarr; A, A, A, E, I, I, U<br>Placed at positions 1&ndash;7: A(1) A(2) A(3) E(4) I(5) I(6) U(7)<br><br><b>Consonants in the word:</b> N, C, H, R, C, T, R, S, T, C, L, L, Y<br>Reverse alphabetical order &rarr; Y, T, T, S, R, R, N, L, L, H, C, C, C<br>Placed at positions 8&ndash;20: Y(8) T(9) T(10) S(11) R(12) R(13) N(14) L(15) L(16) H(17) C(18) C(19) C(20)<br><br><b>New arrangement:</b><br>A(1) A(2) A(3) E(4) I(5) I(6) U(7) Y(8) T(9) T(10) S(11) R(12) R(13) N(14) L(15) L(16) H(17) C(18) C(19) C(20)<br><br><b>Comparison:</b><br>Only position 9 has the same letter T in both original and new arrangement."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Verbal Ability and Logical Reasoning",
+
+    "question": "Balan starts from Point P and walks 10 km North to reach Point Q. From Point Q, he takes a right turn and walks 8 km to reach Point R. At Point R, he takes a right turn and walks 14 km to reach Point S. From Point S, he takes a right turn and walks 12 km to reach Point T. Finally, he takes a right turn and walks 4 km to reach Point U. In which direction is Point U with respect to Point P?",
+
+    "options": [
+
+      "North",
+
+      "South",
+
+      "East",
+
+      "West"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Tracking the movements:</b><br>1. From P, walks North 10 km to Q.<br>2. From Q, right turn (East) 8 km to R.<br>3. From R, right turn (South) 14 km to S.<br>4. From S, right turn (West) 12 km to T.<br>5. From T, right turn (North) 4 km to U.<br><br><b>Calculating final position:</b><br>North-South direction: Started at 0, went +10 (N), then -14 (S), then +4 (N). Total = 10 - 14 + 4 = 0. So, U is at the same vertical level as P.<br>East-West direction: Went +8 (E), then -12 (W). Total = 8 - 12 = -4 (W).<br><br>We can see that U lies 4 km to the West of P. Therefore, Option (d) is the correct answer."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Verbal Ability and Logical Reasoning",
+
+    "question": "Three Statements followed by three Conclusions are given below. You have to take the Statements to be true even if they seem to be at variance from the commonly known facts. Read all the Conclusions and then decide which of the given Conclusions logically follows/follow from the Statements:<br><br><b>Statement-1:</b> All Pens are Pencils.<br><b>Statement-2:</b> Some Pencils are Erasers.<br><b>Statement-3:</b> No Eraser is a Sharpener.<br><br><b>Conclusion-I:</b> All Pens being Erasers is a possibility.<br><b>Conclusion-II:</b> All Pencils being Sharpeners is a possibility.<br><b>Conclusion-III:</b> Some Pencils are definitely not Sharpeners.<br><br>Which one of the following is correct?",
+
+    "options": [
+
+      "Only Conclusion-I follows",
+
+      "Only Conclusion-II follows",
+
+      "Only Conclusion-I and Conclusion-III follows",
+
+      "Only Conclusion-II and Conclusion-III follows"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Understanding the statements:</b><br>1. All Pens &sube; Pencils.<br>2. Some Pencils are Erasers (there exists overlap).<br>3. Erasers and Sharpeners are mutually exclusive (no overlap).<br><br><b>Check Conclusion I &mdash; All Pens being Erasers is a possibility:</b><br>There is no statement saying Pens cannot be Erasers. Since Pens are within Pencils and some Pencils are Erasers, it is possible that the Pens fall within that overlapping region. No contradiction with any statement. Therefore Conclusion I follows as a possibility.<br><br><b>Check Conclusion II &mdash; All Pencils being Sharpeners is a possibility:</b><br>We know some Pencils are Erasers, and no Eraser is a Sharpener. If all Pencils were Sharpeners, then those Pencils that are Erasers would also be Sharpeners, which violates \"No Eraser is a Sharpener\". Therefore Conclusion II does not follow.<br><br><b>Check Conclusion III &mdash; Some Pencils are definitely not Sharpeners:</b><br>From Statement 2: some Pencils are Erasers.<br>From Statement 3: no Eraser is a Sharpener.<br>Therefore those Pencils which are Erasers cannot be Sharpeners. Hence some Pencils are definitely not Sharpeners. Conclusion III follows.<br><br>Both Conclusion I and Conclusion III follow."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "There are four investment amounts and four distinct interest calculation schemes. Exactly one investment amount is to be paired with exactly one interest scheme to reach a specific target value. If the investment amounts are randomly assigned to the interest schemes, then consider the following statements:<br><br><b>I.</b> It is possible that exactly one investment amount is paired with an incorrect interest scheme.<br><b>II.</b> There are only six ways in which exactly two investment amounts can be paired with their correct interest schemes.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>There are 4 investment amounts and 4 distinct interest schemes. Each amount must be paired with exactly one scheme.<br><br><b>To examine Statement I:</b><br>Suppose exactly one investment amount is incorrectly paired. This means the other three are correctly paired. If three pairings are correct, the remaining amount and scheme are fixed automatically. Therefore, the last pairing must also be correct. Hence, having exactly one incorrect (or exactly three correct) pairing is impossible. Conclusion: Statement I is incorrect.<br><br><b>To examine Statement II:</b><br>We want the number of ways in which exactly two pairings are correct.<br>Choose which 2 out of the 4 pairings are correct: Number of ways = 4C2 = 6.<br>For the remaining two amounts and schemes: They must both be incorrect. With two items, there is exactly one way to mismatch them (swap).<br>Total ways = 6 &times; 1 = 6.<br>Conclusion: Statement II is correct."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "Consider the following information:<br><br>Let N, a, and b be positive integers, where a is a two-digit prime number such that N = a + b, a < 20, and 15 < b < 30. It is further known that N > 30.<br><br>In context of the information given above, consider the following statements:<br><b>I.</b> The number of distinct values that N can take is 18.<br><b>II.</b> The smallest possible value for N is 31, and the largest possible value for N is 48.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>Given N = a + b, where a is a two-digit prime number and a < 20. Therefore possible values of a are 11, 13, 17, and 19.<br>b is an integer such that 15 < b < 30, so b can take values from 16 to 29.<br>Additional condition: N > 30.<br><br><b>Examine possible values of N for each value of a:</b><br><b>When a = 11:</b> N = 11 + b. For N > 30, b must be at least 20. N ranges from 31 to 40.<br><b>When a = 13:</b> N = 13 + b. For N > 30, b must be at least 18. N ranges from 31 to 42.<br><b>When a = 17:</b> N = 17 + b. Even at the smallest b = 16, N = 33 (> 30). N ranges from 33 to 46.<br><b>When a = 19:</b> N = 19 + b. At b = 16, N = 35 (> 30). N ranges from 35 to 48.<br><br><b>Determine all distinct values of N:</b><br>Taking the union of all ranges, every integer from 31 up to 48 is achievable.<br>Number of distinct values = 48 &minus; 31 + 1 = 18.<br>Statement I is correct.<br><br><b>Verify Statement II:</b><br>The smallest possible N is 31 (e.g., a = 11, b = 20).<br>The largest possible N is 48 (a = 19, b = 29).<br>Statement II is correct."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Reading Comprehensions",
+
+    "passage": "We often hear about conflicts among different States in India over river waters. Of the 20 major river systems, 14 are already water-stressed; 75% of the population lives in water-stressed regions, a third of whom live in water-scarce areas. Climate change, the demands of rising population and the need for agriculture to keep pace, and increased rate of urbanization and industrialization will exacerbate water stress. According to the Constitution of India, water is a State subject and not that of the Union, except for regulation of inter-State rivers. Key to ensuring balance between competing demands of various stakeholders is a basin-based approach to allocate water amongst constituent regions and States. Allocating fair share of water to them requires assessments based on objective criteria, such as specificities of the river basin, size of dependent population, existing water use and demand, efficiency of use, projected future use, etc. while ensuring the environmental needs of the river and aquifers.",
+
+    "question": "Which one of the following statements best reflects the most rational, practical and immediate action required to ensure fair and equitable allocation of water to different stakeholders?",
+
+    "options": [
+
+      "A national, pragmatic, legal and policy framework for water allocation should be made.",
+
+      "All river systems of the country should be linked and huge aquifers created.",
+
+      "Water channels between regions of water surplus and regions of water deficit should be created.",
+
+      "To mitigate water crisis, water demand of sectors such as agriculture and industry should be reduced."
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Option a is correct:</b> This option aligns well with the passage’s emphasis on the need for a basin-based approach and assessments based on objective criteria. Establishing a national, pragmatic, legal, and policy framework would provide a systematic and comprehensive approach to water allocation, taking into account the competing demands of various stakeholders and ensuring fair and equitable distribution of water resources. It would also help address conflicts among different states and provide a unified approach to water management.<br><br><b>Option b is incorrect:</b> While interlinking river systems and creating huge aquifers may have some benefits, it is not directly supported by the information provided in the passage. The passage emphasizes a basin-based approach.<br><br><b>Option c is incorrect:</b> This suggests the creation of water channels between regions of water surplus and deficit. While it may be a potential solution, the passage doesn’t explicitly mention this as the most rational and immediate action.<br><br><b>Option d is incorrect:</b> Reducing water demand in sectors such as agriculture and industry can be an effective approach, but the passage doesn’t indicate that this action alone is the most rational, practical, and immediate solution."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Reading Comprehensions",
+
+    "passage": "Children deserve a childhood filled with joy, creativity, and the simple lessons of right and wrong. By teaching them good morals and values, we can equip them with the tools they need to make wise decisions when they’re older. If we focus on instilling a strong sense of ethics, fairness, and compassion, they will naturally gravitate toward the right choices when it’s their turn to vote and defend the principles of the Republic.",
+
+    "question": "Which of the following statements best reflects the crux of the passage?",
+
+    "options": [
+
+      "A joyful and creative childhood is the most essential factor in ensuring a child's future happiness.",
+
+      "The survival of the Republic depends primarily on teaching children the technicalities of the voting process.",
+
+      "Instilling moral values and ethics during childhood is fundamental to developing responsible citizens who uphold democratic principles.",
+
+      "Children should be encouraged to focus on creativity rather than being burdened with lessons on right and wrong."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement a is incorrect:</b> This statement overemphasizes joy and creativity as the most essential factors for a child’s future happiness. While the passage values a joyful childhood, its central argument is about moral development and ethical grounding.<br><br><b>Statement b is incorrect:</b> This statement introduces the technicalities of the voting process, which the passage does not mention. The focus is not on procedural knowledge of elections but on moral values.<br><br><b>Statement c is correct:</b> This statement accurately captures the passage’s core message. The author connects moral education in childhood with responsible adulthood and the protection of democratic principles. It reflects the logical flow: instilling ethics early prepares children to make wise decisions and uphold the values of the Republic.<br><br><b>Statement d is incorrect:</b> This statement contradicts the passage. Although creativity is appreciated, the author clearly stresses the importance of teaching right and wrong."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Reading Comprehensions",
+
+    "passage": "Children deserve a childhood filled with joy, creativity, and the simple lessons of right and wrong. By teaching them good morals and values, we can equip them with the tools they need to make wise decisions when they’re older. If we focus on instilling a strong sense of ethics, fairness, and compassion, they will naturally gravitate toward the right choices when it’s their turn to vote and defend the principles of the Republic.",
+
+    "question": "Based on the above passage, the following assumptions have been made:<br><b>I.</b> The character and values developed during childhood have a direct influence on an individual’s future civic and political behavior.<br><b>II.</b> A childhood devoid of joy and creativity prevents an individual from understanding the difference between right and wrong.<br><b>III.</b> Wise decision-making in adulthood is a skill that can be fostered through early moral education.<br><br>Which of the above assumptions are valid?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "I, II, and III"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Statement I is correct:</b> The author explicitly links \"instilling ethics\" in children to how they will \"naturally gravitate toward the right choices\" when they vote. This assumes that childhood upbringing directly shapes future civic actions.<br><br><b>Statement II is incorrect:</b> While the author says children deserve joy and creativity, the passage does not assume that a lack of joy prevents someone from knowing right from wrong. This is an extreme causal link not supported by the text.<br><br><b>Statement III is correct:</b> The passage states that by teaching morals, we \"equip them with the tools they need to make wise decisions.\" This is based on the assumption that moral education is an effective method for fostering future decision-making skills."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "A freight train passes two track workers completely. One worker is walking in the same direction as the train at 3 km/h, while the other is walking in the opposite direction at 6 km/h. The train takes 48 seconds to pass the first worker and 16 seconds to pass the second worker. What is the length of the train?",
+
+    "options": [
+
+      "60 m",
+
+      "120 m",
+
+      "150 m",
+
+      "200 m"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Let train speed = V km/h and length = L metres.<br><br>Relative speed with first worker (same direction) = V &minus; 3.<br>Relative speed with second worker (opposite direction) = V + 6.<br><br>Distance covered while passing is the train length, so:<br>L = (V &minus; 3) &times; (5/18) &times; 48<br>L = (V + 6) &times; (5/18) &times; 16<br><br>Equate both expressions for L:<br>48(V &minus; 3) = 16(V + 6)<br>3(V &minus; 3) = V + 6<br>3V &minus; 9 = V + 6<br>2V = 15 &rArr; V = 7.5 km/h<br><br>Now substitute V to find L:<br>L = (7.5 + 6) &times; (5/18) &times; 16 = 13.5 &times; (5/18) &times; 16 = 60 m<br>Length of the train = 60 metres.<br>Therefore, Option a is the correct answer."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "If the square of the sum of two positive integer numbers is 121, then their product must be?",
+
+    "options": [
+
+      "greater than 40.25",
+
+      "less than or equal to 40.25",
+
+      "greater than 30.25",
+
+      "less than or equal to 30.25"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>Let the two numbers be x and y.<br>The square of their sum is 121, so (x + y)&sup2; = 121.<br><br><b>Concept Used:</b><br>For any real numbers, (x &minus; y)&sup2; is always greater than or equal to zero.<br>Using the identity: (x &minus; y)&sup2; = (x + y)&sup2; &minus; 4xy<br><br>Since (x &minus; y)&sup2; &ge; 0, we must have:<br>(x + y)&sup2; &minus; 4xy &ge; 0<br><br>Substituting (x + y)&sup2; = 121 gives:<br>121 &minus; 4xy &ge; 0 which implies xy &le; 121/4 = 30.25.<br><br>Thus, the product cannot exceed 30.25. Therefore, Option d is the correct answer."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "What is the number of 8-digit numbers which remain the same on reversing the order of digits?",
+
+    "options": [
+
+      "9² × 10⁴",
+
+      "9² × 10⁷",
+
+      "9 × 10⁷",
+
+      "9 × 10³"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br>Let the number be an 8-digit palindrome. Then it can be written as:<br>N = abcd dcba (where a, b, c, d are digits and a &ne; 0).<br><br><b>Counting choices for each digit:</b><br>a &isin; {1,2,...,9} &rArr; 9 choices<br>b &isin; {0,1,...,9} &rArr; 10 choices<br>c &isin; {0,1,...,9} &rArr; 10 choices<br>d &isin; {0,1,...,9} &rArr; 10 choices<br><br>The remaining digits are fixed by the palindrome condition.<br><br><b>Total number of such numbers:</b><br>Number = 9 &times; 10 &times; 10 &times; 10 = 9 &times; 10&sup3;<br>Required number of 8-digit palindromes = 9 &times; 10&sup3;."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "Consider a regular polygon having m sides, and suppose the number of its diagonals is n. Now, another regular polygon is formed with one fewer side, that is, with (m &minus; 1) sides. What is the number of diagonals in this new polygon in terms of m and n?",
+
+    "options": [
+
+      "n &minus; m + 2",
+
+      "m &minus; n + 1",
+
+      "m + n &minus; 1",
+
+      "m &minus; n + 3"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>A polygon with m sides has n diagonals.<br>Formula for number of diagonals of a polygon with p sides is: p(p &minus; 3)/2.<br><br><b>Write expression for n:</b><br>For the polygon with m sides, n = m(m &minus; 3)/2 = (m&sup2; &minus; 3m)/2.<br><br><b>Diagonals of polygon with (m &minus; 1) sides:</b><br>Number of diagonals = (m &minus; 1)((m &minus; 1) &minus; 3)/2 = (m &minus; 1)(m &minus; 4)/2.<br>Now expand: (m &minus; 1)(m &minus; 4) = m&sup2; &minus; 4m &minus; m + 4 = m&sup2; &minus; 5m + 4.<br>So diagonals = (m&sup2; &minus; 5m + 4)/2.<br><br><b>Express this in terms of n:</b><br>We know: n = (m&sup2; &minus; 3m)/2.<br>Write the new expression by adjusting the numerator:<br>m&sup2; &minus; 5m + 4 = (m&sup2; &minus; 3m) &minus; 2m + 4.<br>Divide by 2:<br>(m&sup2; &minus; 5m + 4)/2 = (m&sup2; &minus; 3m)/2 &minus; m + 2 = n &minus; m + 2.<br><br>The polygon with (m &minus; 1) sides has n &minus; m + 2 diagonals."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "The marks of 19 students, when arranged in ascending order, form an arithmetic progression (AP). Let the average of all 19 students be X. Later, it is found that the students ranked 4th, 8th, 10th, 12th, and 16th are disqualified due to malpractice. After removing their marks, the average of the remaining 14 students becomes Y.<br><br>In context of the above information, consider the following statements:<br><b>I.</b> The value of X is exactly equal to the value of Y.<br><b>II.</b> If the common difference of the AP is non-zero, the sum of the marks of the disqualified students equals 5X.<br><br>Which of the statements given above is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br>There are 19 terms in an arithmetic progression. Let the first term be a and common difference be d. So the terms are: a, a + d, a + 2d, &hellip; , a + 18d.<br><br><b>Find the overall average X:</b><br>The average of an AP equals the middle term when the number of terms is odd. Here the middle term is the 10th term.<br>10th term = a + 9d. Therefore, X = a + 9d.<br><br><b>Write the removed terms explicitly:</b><br>Positions removed:<br>4th term = a + 3d<br>8th term = a + 7d<br>10th term = a + 9d<br>12th term = a + 11d<br>16th term = a + 15d<br><br><b>Find the sum of removed terms:</b><br>Add them: (a + 3d) + (a + 7d) + (a + 9d) + (a + 11d) + (a + 15d) = 5a + (3 + 7 + 9 + 11 + 15)d = 5a + 45d = 5(a + 9d).<br>But a + 9d = X. Hence, Sum of removed terms = 5X. So Statement II is correct.<br><br><b>Compare averages before and after removal:</b><br>Total sum of all 19 students = 19X.<br>Sum removed = 5X.<br>Remaining sum = 19X &minus; 5X = 14X.<br>Average of remaining students: Y = (remaining sum) / 14 = 14X / 14 = X.<br>So X = Y. Thus Statement I is correct.<br><br>Both statements are correct."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "Five distinct positive integers a, b, c, d, and e each leave a remainder of 2 when divided by 3.<br><br>Consider the following statements:<br>I. The sum a + b + c + d + e is always divisible by 5.<br>II. The product a × b × c × d × e leaves a remainder of 2 when divided by 3.<br><br>Which of the above statements is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Given:</b> Each number leaves remainder 2 when divided by 3. So each number can be written as: 3k + 2 (for some integer k). There are five such numbers and they are distinct.<br><br><b>Examine Statement I (sum divisible by 5):</b><br>Sum: (3k₁ + 2) + (3k₂ + 2) + (3k₃ + 2) + (3k₄ + 2) + (3k₅ + 2) = 3(k₁ + k₂ + k₃ + k₄ + k₅) + 10.<br>This shows the sum equals a multiple of 3 plus 10. There is no condition forcing divisibility by 5.<br>Counterexample: Take numbers 2, 5, 8, 11, 14. Sum = 40, divisible by 5.<br>But take another set: 2, 5, 8, 11, 17. Sum = 43, not divisible by 5.<br>Hence it is not definite. <b>Statement I is false.</b><br><br><b>Examine Statement II (product remainder):</b><br>Each number leaves the remainder 2 when divided by 3.<br>So the product behaves like: 2 × 2 × 2 × 2 × 2 = 2⁵ = 32.<br>Since 32 leaves remainder 2 when divided by 3, the product also leaves remainder 2.<br>This is always true. <b>Statement II is correct.</b>"
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "A solution of 80 litres contains ethyl and methyl alcohol in the ratio 5:3. The rates at which ethyl and methyl alcohol evaporate at 2 litres/min and 1 litres/min respectively till the quantity of ethyl and methyl alcohol in the solution becomes the same. After the quantities of ethyl and methyl alcohol in the solution become the same, the rates of evaporation of ethyl and methyl alcohol becomes 1 litre/ min and 2 litres/min respectively. If the initial volume of the solution is 80 litres, then what is the final volume of the solution when the quantity of methyl alcohol left in the solution becomes 5 litres?",
+
+    "options": [
+
+      "15 litres",
+
+      "12.5 litres",
+
+      "10 litres",
+
+      "7.5 litres"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Initial Quantities:</b> Total solution = 80 litres. Initial ratio ethyl : methyl = 5 : 3.<br>Ethyl = 80 × 5/8 = 50 litres.<br>Methyl = 80 × 3/8 = 30 litres.<br><br><b>First Phase:</b> Evaporation of Ethyl and methyl alcohol is 2 litres/min and 1 litres/min respectively, until the quantities become same.<br>In 20 min, Ethyl alcohol left = 50 - 40 = 10 litres, and methyl alcohol left = 30 - 20 = 10 litres.<br><br><b>Second Phase:</b> After 20 min the rates of evaporation of ethyl and methyl alcohol becomes 1 litre/min and 2 litres/min respectively.<br>For methyl alcohol to become 5 litres, it will take (10 - 5) / 2 = 2.5 min.<br>In 2.5 min, the quantity of ethyl alcohol evaporated = 2.5 litres.<br><br><b>Final Quantities:</b><br>Methyl alcohol = 10 - 5 = 5 litres.<br>Ethyl alcohol = 10 - 2.5 = 7.5 litres.<br>Total leftover quantity of solution = 5 + 7.5 = 12.5 litres."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Reading Comprehensions",
+
+    "passage": "The main threat to maintaining progress in human development comes from the increasingly evident unsustainability of production and consumption patterns. Current production models rely heavily on fossil fuels. We now know that this is unsustainable because the resources are finite. The close link between economic growth and greenhouse gas emissions needs to be severed for human development to become truly sustainable. Some developed countries have begun to alleviate the worst effects by expanding recycling and investing in public transport and infrastructure. But most developing countries are hampered by the high costs and low availability of clean energy sources. Developed countries need to support developing countries’ transition to sustainable human development.",
+
+    "question": "Unsustainability in production pattern is due to which of the following?<br>1. Heavy dependence on fossil fuels<br>2. Limited availability of resources<br>3. Expansion of recycling<br><br>Select the correct answer using the code given below:",
+
+    "options": [
+
+      "1 and 2 only",
+
+      "2 only",
+
+      "1 and 3 only",
+
+      "1, 2 and 3"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br><b>Statement 1 is correct:</b> The passage explicitly states that current production models rely heavily on fossil fuels, which are unsustainable because these resources are finite.<br><br><b>Statement 2 is correct:</b> The passage mentions that fossil fuels are finite resources, highlighting the limited availability of these resources as a reason for unsustainability.<br><br><b>Statement 3 is incorrect:</b> The passage indicates that some developed countries are expanding recycling to alleviate the worst effects of unsustainability. Expansion of recycling is a mitigating action, not a cause of unsustainability."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Reading Comprehensions",
+
+    "passage": "Countries, big or small, struggle when it comes to their neighbourhood. There is no perfect neighbourhood anywhere in the world and there is no perfect neighbourhood policy. India and its neighbourhood are no different and can’t be different. However, great nations, while being anchored in their regions, rise beyond their periphery and don’t make the mistake of internalizing that geography is destiny. This does not mean that India should not invest in its neighbourhood and regional stability. But, at the same time, India needs to realize that her success would lie in escaping the logic of its own geography and emerging as a leading global power.",
+
+    "question": "Which one of the following statements best reflects the most logical and rational inference that can be drawn from the passage?",
+
+    "options": [
+
+      "India’s primary focus should be on resolving all neighbourhood disputes before pursuing global leadership.",
+
+      "Since geography is destiny, India’s global status will always be limited by the instability of its region.",
+
+      "While regional stability is important, India’s growth as a global power depends on its ability to look beyond geographical constraints.",
+
+      "India should disengage from regional politics as perfect neighbourhood policies are impossible to achieve."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Option a is incorrect:</b> This statement suggests that India must first resolve all neighbourhood disputes before aspiring for global leadership. However, the passage does not advocate postponing global ambitions until regional issues are fully settled.<br><br><b>Option b is incorrect:</b> This statement directly contradicts the passage. The author explicitly warns against internalizing the idea that 'geography is destiny'.<br><br><b>Option c is correct:</b> This statement accurately captures the core inference of the passage. While acknowledging the importance of investing in regional stability, the author emphasizes that India’s true success lies in transcending geographical limitations and emerging as a global power.<br><br><b>Option d is incorrect:</b> This statement misinterprets the passage by implying that India should disengage from regional politics. The argument is about not being confined by geography, not abandoning regional responsibilities."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Reading Comprehensions",
+
+    "passage": "From the gurukuls that nurtured generations of thinkers, to the great universities of Nalanda and Takshashila that attracted scholars from across the world, learning has been central to Indian civilization. This vast tradition was carefully preserved in manuscripts written in multiple scripts and languages. These texts span a remarkable range of knowledge covering disciplines such as philosophy, science, medicine, mathematics, astronomy, literature, arts, architecture, and spirituality. Together, they form an unparalleled record of the Indian Knowledge Systems and illustrate the continuity of India’s civilisational thought. It is in recognition of this legacy that the Government of India has launched the Gyan Bharatam Mission. It is a national initiative dedicated to preserving, digitising, and disseminating India’s vast manuscript heritage. As India strides ahead in development, the mission ensures that it does so with its heritage preserved and its wisdom proudly shared for the benefit of present and future generations.",
+
+    "question": "Which one of the following statements best reflects the most logical and rational inference that can be drawn from the passage?",
+
+    "options": [
+
+      "India has a rich heritage of ancient knowledge systems spanning multiple languages and disciplines.",
+
+      "Intellectual thought has always been an integral part of Indian civilization.",
+
+      "India’s legacy of ancient knowledge systems must be preserved and shared for the greater good of humanity.",
+
+      "The world can gain valuable insights from the rich and diverse ancient Indian knowledge systems."
+
+    ],
+
+    "answer": 2,
+
+    "explanation": "<b>Correct Answer: Option (c)</b><br><br><b>Option a is incorrect:</b> The passage mentions that ancient manuscripts were written in multiple scripts and languages. However, it does not best reflect the overall inference regarding the need for action and preservation highlighted by the Gyan Bharatam Mission.<br><br><b>Option b is incorrect:</b> While true according to the passage, it does not reflect the conclusion about preserving this thought.<br><br><b>Option c is correct:</b> It best reflects the logical inference by highlighting both the legacy of ancient knowledge systems and the crucial need for preserving and sharing them, matching the mission's intent described.<br><br><b>Option d is incorrect:</b> This narrowly focuses on just one aspect and misses the core theme of national preservation efforts."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Reading Comprehensions",
+
+    "passage": "From the gurukuls that nurtured generations of thinkers, to the great universities of Nalanda and Takshashila that attracted scholars from across the world, learning has been central to Indian civilization. This vast tradition was carefully preserved in manuscripts written in multiple scripts and languages. These texts span a remarkable range of knowledge covering disciplines such as philosophy, science, medicine, mathematics, astronomy, literature, arts, architecture, and spirituality. Together, they form an unparalleled record of the Indian Knowledge Systems and illustrate the continuity of India’s civilisational thought. It is in recognition of this legacy that the Government of India has launched the Gyan Bharatam Mission. It is a national initiative dedicated to preserving, digitising, and disseminating India’s vast manuscript heritage. As India strides ahead in development, the mission ensures that it does so with its heritage preserved and its wisdom proudly shared for the benefit of present and future generations.",
+
+    "question": "Based on the above passage, the following assumptions have been made:<br>I. A rich heritage of ancient knowledge suggests that India is the oldest civilization in the world.<br>II. Digitalization of ancient texts helps in the preservation of historical knowledge.<br><br>Which of the assumptions given above is/ are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br><b>Statement I is incorrect:</b> While the passage states that India’s rich heritage of ancient knowledge depicts cultural continuity, it does not explicitly mention that India is the oldest civilization of the world. Therefore, the assumption is incorrect.<br><br><b>Statement II is correct:</b> The passage states 'It (Gyan Bharatam Mission) is a national initiative dedicated to preserving, digitising, and disseminating India’s vast manuscript heritage.' From here we can deduce that digitalization aids in preserving historical knowledge."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "A question is followed by two statements I and II. Consider the following question and the statements:<br><br>p, q, and r are distinct prime numbers.<br><br><b>Question:</b> Is the product pqr an odd integer?<br><b>Statement-I:</b> The sum of the three prime numbers (p+q+r) is an even integer.<br><b>Statement-II:</b> The difference between the largest and the smallest of these three prime numbers is an odd integer.<br><br>Which one of the following is correct in respect of the above Question and the Statements?",
+
+    "options": [
+
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+
+      "The Question can be answered by using either Statement alone",
+
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+
+      "The Question cannot be answered even by using both the Statements together"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>A number is odd only if none of its prime factors is 2. The question reduces to checking whether 2 is among p, q, r.<br><br><b>Statement I:</b> The sum p + q + r is even.<br>Three odd numbers added together give an odd result. Therefore, all three primes cannot be odd. Since only one prime can be even (2), exactly one of the three must be 2. Hence the product contains a factor 2, so the product is even. The answer is definitively 'No'. Statement I alone is sufficient.<br><br><b>Statement II:</b> The difference between the largest and smallest primes is odd.<br>A difference is odd only when one number is even and the other is odd. Among primes, the only even number is 2. Therefore, either the smallest or the largest must be 2. Since 2 is the smallest prime, it must be the smallest of the three. Hence 2 is included among p, q, r, making the product even. The answer is definitively 'No'. Statement II alone is sufficient.<br><br>Both statements independently provide a definite answer."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Quantitative Aptitude and Data Interpretation",
+
+    "question": "P and Q can complete a piece of work in 12 days, Q and R can complete the same work in 16 days, and P and R can complete the same work in 24 days. After working together for 4 days, P leaves, and Q and R continue for another 2 days before R also leaves. Q completes the remaining work alone.<br><br>In context of the above information, consider the following statements:<br>I. The efficiency of Q is thrice the efficiency of R.<br>II. Q takes 32 days to complete the entire work alone.<br>III. The ratio of the work done by P, Q, and R in the entire project is 2:5:1.<br><br>Which of the above statements are correct?",
+
+    "options": [
+
+      "I and II only",
+
+      "II and III only",
+
+      "I and III only",
+
+      "None of the statements"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Combined efficiency:</b><br>(P+Q) = 1/12, (Q+R) = 1/16, (P+R) = 1/24.<br>Adding pairwise: 2(P+Q+R) = 1/12 + 1/16 + 1/24 = 9/48 = 3/16.<br>P+Q+R = 3/32.<br><br><b>Individual efficiencies:</b><br>R = (P+Q+R) - (P+Q) = 3/32 - 1/12 = 1/96.<br>Q = (Q+R) - R = 1/16 - 1/96 = 5/96.<br>P = (P+R) - R = 1/24 - 1/96 = 1/32.<br><br><b>Check Statement I:</b> Q/R = (5/96) / (1/96) = 5. Not 3. <b>Statement I is false.</b><br><br><b>Check Statement II:</b> Time for Q alone = 1 / (5/96) = 19.2 days. Not 32 days. <b>Statement II is false.</b><br><br><b>Check Statement III (Work done timeline):</b><br>First 4 days (all three): Work = 4 × 3/32 = 3/8.<br>Next 2 days (Q + R): Work = 2 × 1/16 = 1/8.<br>Remaining work = 1 - (3/8 + 1/8) = 1/2 (done by Q).<br>Total work by P = 4 × 1/32 = 1/8.<br>Total work by R = 6 × 1/96 = 1/16.<br>Total work by Q = 6 × 5/96 + 1/2 = 30/96 + 48/96 = 78/96 = 13/16.<br>Ratio P : Q : R = 1/8 : 13/16 : 1/16 = 2 : 13 : 1. Not 2:5:1. <b>Statement III is false.</b>"
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Verbal Ability and Logical Reasoning",
+
+    "question": "Consider the following statements regarding the ages of seven individuals: P, Q, R, S, T, U, and V.<br>I. P is older than Q but younger than R.<br>II. S is older than at least four other individuals.<br>III. T is the eldest among T, U, and V.<br>IV. U is older than R.<br>V. Q is not the youngest.<br><br>How many statements given above are required to determine the oldest person?",
+
+    "options": [
+
+      "Only three",
+
+      "Only four",
+
+      "All five",
+
+      "The oldest person cannot be determined even with all five statements"
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Analyze statements:</b><br><b>Statement I:</b> R > P > Q.<br><b>Statement II:</b> S is older than at least four people, so S is somewhere in the top three.<br><b>Statement III:</b> T > U and T > V.<br><b>Statement IV:</b> U > R. Combined chain: U > R > P > Q.<br><b>Statement V:</b> Q is not the youngest.<br><br><b>Combine key ordering:</b><br>From I and IV: U > R > P > Q.<br>From III: T > U and T > V.<br>Combining these: T > U > R > P > Q and T > V.<br>This means T is older than U, R, P, Q, and V.<br><br><b>Check position of S:</b><br>S is older than at least four people. We must check whether S could be older than T. There is no statement comparing S with T. Two possibilities exist:<br>Case A: T is older than S &rarr; T is the oldest.<br>Case B: S is older than T &rarr; S is the oldest.<br>Both satisfy all five statements. Therefore, the oldest person cannot be uniquely determined even with all five statements."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Verbal Ability and Logical Reasoning",
+
+    "question": "A question is followed by two statements I and II. Consider the Question and the Statements.<br><br>Five people—M, N, O, P, and Q—are sitting in a single row facing North.<br><br><b>Question:</b> Who is sitting in the exact middle of the row?<br><b>Statement I:</b> N sits to the immediate right of M. There are two people sitting between N and P.<br><b>Statement II:</b> Q sits to the immediate left of P. There are two people sitting between Q and O.<br><br>Which one of the following is correct in respect of the above Question and the Statements?",
+
+    "options": [
+
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone.",
+
+      "The Question can be answered by using either Statement alone.",
+
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+
+      "The Question cannot be answered even by using both the Statements together."
+
+    ],
+
+    "answer": 3,
+
+    "explanation": "<b>Correct Answer: Option (d)</b><br><br><b>Considering only Statement I:</b> N sits to the immediate right of M (MN). Two people between N and P. Possible arrangements: M N _ _ P, P _ M N _, or _ P _ M N. No unique middle person.<br><br><b>Considering only Statement II:</b> Q sits to the immediate left of P (QP). Two people between Q and O. Possible arrangements: O _ _ Q P, Q P _ O _, or _ Q P _ O. No unique middle person.<br><br><b>Combining both statements:</b><br>After combining both statements, we do not get a unique arrangement that satisfies all conditions perfectly without contradicting others (e.g. Q P _ O N makes M overlap with O since M must be to the immediate left of N). Hence the Question cannot be answered even by using both the Statements together."
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Verbal Ability and Logical Reasoning",
+
+    "question": "Three containers P, Q, and R have equal capacities and are filled completely with mixtures of pure ethanol and water. The percentage of ethanol in P, Q, and R is 40%, 60%, and 80% respectively. The contents of all three containers are mixed together in a larger vessel.<br><br>In context of the above information, consider the following statements:<br>I. The amount of water in the final mixture is exactly half of the amount of ethanol.<br>II. Assuming the cost of water is zero, if the final mixture is sold at a price that is 25% higher than the cost price of pure ethanol, the profit earned is greater than 100%.<br><br>Which of the above statement(s) is/are correct?",
+
+    "options": [
+
+      "I only",
+
+      "II only",
+
+      "Both I and II",
+
+      "Neither I nor II"
+
+    ],
+
+    "answer": 1,
+
+    "explanation": "<b>Correct Answer: Option (b)</b><br><br>Assume each jar contains 1 litre. Total volume after mixing = 3 litres.<br><br><b>Calculate total ethanol and water:</b><br>Jar P: Ethanol = 0.4, Water = 0.6<br>Jar Q: Ethanol = 0.6, Water = 0.4<br>Jar R: Ethanol = 0.8, Water = 0.2<br>Total ethanol = 0.4 + 0.6 + 0.8 = 1.8 litres.<br>Total water = 0.6 + 0.4 + 0.2 = 1.2 litres.<br><br><b>Check Statement I:</b><br>Half of ethanol = 1.8 / 2 = 0.9. Actual water = 1.2. Since 1.2 is not equal to 0.9, <b>Statement I is false.</b><br><br><b>Check Statement II:</b><br>Water costs nothing. Let cost of 1 litre ethanol = C.<br>Total cost = 1.8C.<br>Selling price per litre of mixture = 1.25C.<br>Total revenue = 3 × 1.25C = 3.75C.<br>Profit = Revenue − Cost = 3.75C − 1.8C = 1.95C.<br>Profit percentage = (1.95C / 1.8C) × 100 ≈ 108.33%.<br>Since this is greater than 100%, <b>Statement II is true.</b>"
+
+  },
+
+  {
+
+    "section": "CSAT",
+
+    "topic": "Verbal Ability and Logical Reasoning",
+
+    "question": "A Question is given followed by two Statements I and II. Consider the Question and the Statements.<br><br>Age of each of P and Q is less than 100 years but more than 10 years. If you interchange the digits of the age of P, the number represents the age of Q.<br><br><b>Question:</b> What is the difference of their ages?<br><b>Statement-I:</b> The age of P is greater than the age of Q.<br><b>Statement-II:</b> The sum of their ages is 11/6 times their difference.<br><br>Which one of the following is correct in respect of the above Question and the Statements?",
+
+    "options": [
+
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+
+      "The Question can be answered by using either Statement alone",
+
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+
+      "The Question cannot be answered even by using both the Statements together"
+
+    ],
+
+    "answer": 0,
+
+    "explanation": "<b>Correct Answer: Option (a)</b><br><br>Let the ages be <i>ab</i> and <i>ba</i> where a, b are the digits of a 2-digit number.<br><br><b>Statement I:</b> Age of P is greater than the age of Q. So, 10a + b > 10b + a, which implies 9a > 9b, or a > b. This is not sufficient to tell the exact difference. Hence, the question cannot be answered only using Statement I.<br><br><b>Statement II:</b> The sum of their ages is 11/6 times their difference.<br>Let <i>ab</i> be the larger number.<br>Sum = 10a + b + 10b + a = 11a + 11b = 11(a + b)<br>Difference = (10a + b) - (10b + a) = 9a - 9b = 9(a - b)<br>Given: 11(a + b) = 11/6 × 9(a - b)<br>a + b = 3/2(a - b)<br>2a + 2b = 3a - 3b<br>a = 5b<br>Since a and b are digits (1 to 9), the only possible values are a = 5, b = 1.<br>So, ages are 51 and 15. The difference of their ages can be uniquely determined (36).<br>Hence, Statement II alone is sufficient to answer the question."
+
+  }
+
+]
