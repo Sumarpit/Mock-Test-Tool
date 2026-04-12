@@ -111,11 +111,29 @@
 ,
 {"name": "Current Affairs Polity Constitution", "filename": "Current Affairs Polity Constitution.json", "path": "tests/upsc/Current Affairs Polity Constitution.json"}
 ,
+{"name": "Env CA Part 2", "filename": "Env CA Part 2.json", "path": "tests/upsc/Env CA Part 2.json"}
+,
 {"name": "Polity CoI, citizenship, oci", "filename": "Polity CoI, citizenship, oci.json", "path": "tests/upsc/Polity CoI, citizenship, oci.json"}
 ,
 {"name": "SC HC", "filename": "SC HC.json", "path": "tests/upsc/SC HC.json"}
 ,
-{"name": "SFG 1", "filename": "SFG 1.json", "path": "tests/upsc/SFG 1.json"}
+{"name": "SFG 01", "filename": "SFG 01.json", "path": "tests/upsc/SFG 01.json"}
+,
+{"name": "SFG 02", "filename": "SFG 02.json", "path": "tests/upsc/SFG 02.json"}
+,
+{"name": "SFG 03", "filename": "SFG 03.json", "path": "tests/upsc/SFG 03.json"}
+,
+{"name": "SFG 04", "filename": "SFG 04.json", "path": "tests/upsc/SFG 04.json"}
+,
+{"name": "SFG 05", "filename": "SFG 05.json", "path": "tests/upsc/SFG 05.json"}
+,
+{"name": "SFG 06", "filename": "SFG 06.json", "path": "tests/upsc/SFG 06.json"}
+,
+{"name": "SFG 07", "filename": "SFG 07.json", "path": "tests/upsc/SFG 07.json"}
+,
+{"name": "SFG 08", "filename": "SFG 08.json", "path": "tests/upsc/SFG 08.json"}
+,
+{"name": "SFG 09", "filename": "SFG 09.json", "path": "tests/upsc/SFG 09.json"}
 ,
 {"name": "SFG 10", "filename": "SFG 10.json", "path": "tests/upsc/SFG 10.json"}
 ,
@@ -137,8 +155,6 @@
 ,
 {"name": "SFG 19", "filename": "SFG 19.json", "path": "tests/upsc/SFG 19.json"}
 ,
-{"name": "SFG 2", "filename": "SFG 2.json", "path": "tests/upsc/SFG 2.json"}
-,
 {"name": "SFG 20", "filename": "SFG 20.json", "path": "tests/upsc/SFG 20.json"}
 ,
 {"name": "SFG 21", "filename": "SFG 21.json", "path": "tests/upsc/SFG 21.json"}
@@ -151,21 +167,59 @@
 ,
 {"name": "SFG 25", "filename": "SFG 25.json", "path": "tests/upsc/SFG 25.json"}
 ,
+{"name": "SFG 26", "filename": "SFG 26.json", "path": "tests/upsc/SFG 26.json"}
+,
 {"name": "SFG 27", "filename": "SFG 27.json", "path": "tests/upsc/SFG 27.json"}
 ,
-{"name": "SFG 3", "filename": "SFG 3.json", "path": "tests/upsc/SFG 3.json"}
+{"name": "SFG 28", "filename": "SFG 28.json", "path": "tests/upsc/SFG 28.json"}
 ,
-{"name": "SFG 4", "filename": "SFG 4.json", "path": "tests/upsc/SFG 4.json"}
+{"name": "SFG 29", "filename": "SFG 29.json", "path": "tests/upsc/SFG 29.json"}
 ,
-{"name": "SFG 5", "filename": "SFG 5.json", "path": "tests/upsc/SFG 5.json"}
+{"name": "SFG 30", "filename": "SFG 30.json", "path": "tests/upsc/SFG 30.json"}
 ,
-{"name": "SFG 6", "filename": "SFG 6.json", "path": "tests/upsc/SFG 6.json"}
+{"name": "SFG 31", "filename": "SFG 31.json", "path": "tests/upsc/SFG 31.json"}
 ,
-{"name": "SFG 7", "filename": "SFG 7.json", "path": "tests/upsc/SFG 7.json"}
+{"name": "SFG 32", "filename": "SFG 32.json", "path": "tests/upsc/SFG 32.json"}
 ,
-{"name": "SFG 8", "filename": "SFG 8.json", "path": "tests/upsc/SFG 8.json"}
+{"name": "SFG 33", "filename": "SFG 33.json", "path": "tests/upsc/SFG 33.json"}
 ,
-{"name": "SFG 9", "filename": "SFG 9.json", "path": "tests/upsc/SFG 9.json"}
+{"name": "SFG 34", "filename": "SFG 34.json", "path": "tests/upsc/SFG 34.json"}
+,
+{"name": "SFG 35", "filename": "SFG 35.json", "path": "tests/upsc/SFG 35.json"}
+,
+{"name": "SFG 36", "filename": "SFG 36.json", "path": "tests/upsc/SFG 36.json"}
+,
+{"name": "SFG 37", "filename": "SFG 37.json", "path": "tests/upsc/SFG 37.json"}
+,
+{"name": "SFG 38", "filename": "SFG 38.json", "path": "tests/upsc/SFG 38.json"}
+,
+{"name": "SFG 39", "filename": "SFG 39.json", "path": "tests/upsc/SFG 39.json"}
+,
+{"name": "SFG 40", "filename": "SFG 40.json", "path": "tests/upsc/SFG 40.json"}
+,
+{"name": "SFG 41", "filename": "SFG 41.json", "path": "tests/upsc/SFG 41.json"}
+,
+{"name": "SFG 42", "filename": "SFG 42.json", "path": "tests/upsc/SFG 42.json"}
+,
+{"name": "SFG 43", "filename": "SFG 43.json", "path": "tests/upsc/SFG 43.json"}
+,
+{"name": "SFG 44", "filename": "SFG 44.json", "path": "tests/upsc/SFG 44.json"}
+,
+{"name": "SFG 45", "filename": "SFG 45.json", "path": "tests/upsc/SFG 45.json"}
+,
+{"name": "SFG 46", "filename": "SFG 46.json", "path": "tests/upsc/SFG 46.json"}
+,
+{"name": "SFG 47", "filename": "SFG 47.json", "path": "tests/upsc/SFG 47.json"}
+,
+{"name": "SFG 48", "filename": "SFG 48.json", "path": "tests/upsc/SFG 48.json"}
+,
+{"name": "SFG 49", "filename": "SFG 49.json", "path": "tests/upsc/SFG 49.json"}
+,
+{"name": "SFG 50", "filename": "SFG 50.json", "path": "tests/upsc/SFG 50.json"}
+,
+{"name": "SFG 51", "filename": "SFG 51.json", "path": "tests/upsc/SFG 51.json"}
+,
+{"name": "SFG 52", "filename": "SFG 52.json", "path": "tests/upsc/SFG 52.json"}
 ,
 {"name": "center state relations 20q", "filename": "center state relations 20q.json", "path": "tests/upsc/center state relations 20q.json"}
 ,

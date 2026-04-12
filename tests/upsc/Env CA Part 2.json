@@ -1,0 +1,449 @@
+[
+  {
+    "section": "Environment",
+    "topic": "Protected Areas and Legislations",
+    "question": "<b>Consider the following statements regarding the recently notified Tsarap Chu Conservation Reserve:</b><br><br>1. It is India's largest conservation reserve, located in the Spiti Valley of Himachal Pradesh.<br>2. It was officially notified by the State Government under the provisions of the Environment (Protection) Act, 1986.<br>3. It serves as a prime habitat for the snow leopard, often referred to as the 'ghost of the mountains'.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3 are correct)</b><br><br><b>Statement 1 is correct:</b> Covering 1,585 sq km in Spiti Valley, it is HP's fifth and India's largest conservation reserve.<br><b>Statement 2 is incorrect (The Statutory Parentage Trap):</b> Examiners frequently swap parent Acts. Conservation Reserves are strictly declared under Section 36A(1) of the <b>Wildlife (Protection) Act, 1972</b>, not the EPA 1986.<br><b>Statement 3 is correct:</b> It is explicitly noted as a prime habitat for the snow leopard.<br><br><i>PYQ Integration:</i> UPSC 2020 and 2022 heavily tested the exact statutory backing of bodies (e.g., CGWA under EPA 1986 vs NTCA under WPA 1972).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Mapping of Protected Areas",
+    "question": "<b>With reference to the geographical boundaries of the Tsarap Chu Conservation Reserve, consider the following pairs:</b><br><br><b>Direction : Bordering Entity</b><br>1. North : Union Territory of Ladakh<br>2. East : Kibber Wildlife Sanctuary<br>3. West : Chandratal Wildlife Sanctuary<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><b>Explanation:</b> The geographical boundaries of the Tsarap Chu Conservation Reserve are strictly defined as:<br>- North: Union Territory of Ladakh<br>- East: Kibber Wildlife Sanctuary (up to Malang Nala and Lungar Lungpa)<br>- West: Chandratal Wildlife Sanctuary<br>- South: Kabjima Nala.<br><br><i>PYQ Integration:</i> Mirrors the 2020 and 2023 Geography mapping PYQs where exact directional borders of reserves and intersecting rivers were tested.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species Conservation",
+    "question": "<b>With reference to the Asiatic Lion (<i>Panthera leo leo</i>), consider the following statements:</b><br><br>1. Historically, its natural range was strictly confined to the Indian subcontinent.<br>2. The social structure of Asiatic lions involves smaller prides compared to African lions.<br>3. It is currently listed as 'Endangered' on the IUCN Red List of Threatened Species.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>Statement 1 is incorrect (The Absolute History Trap):</b> The examiner uses extreme phrasing ('strictly confined'). Historically, its range extended from Turkey through the Middle East to India. It is only <i>today</i> that its wild population is restricted to India.<br><b>Statement 2 is correct:</b> They have smaller prides, often with male coalitions separate from larger female groups.<br><b>Statement 3 is incorrect (The IUCN Status Trap):</b> It is officially listed as <b>Vulnerable</b> on the IUCN Red List, not Endangered.<br><br><i>PYQ Integration:</i> Follows the exact template of the 2019 PYQ on Asiatic Lions naturally found only in India, testing historical range vs present distribution.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Wildlife Census and Ecology",
+    "question": "<b>Consider the following statements regarding the 2025 estimate of Asiatic Lions in India:</b><br><br>1. The population has witnessed a decline of 10% since the 2020 census due to canine distemper virus.<br>2. Their present distribution covers approximately 35,000 sq km spanning across 11 districts of Gujarat.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The latest 2025 estimate shows 891 Asiatic Lions, which is a <b>32% rise</b> since 2020, not a decline.<br><b>Statement 2 is correct:</b> Their range has expanded significantly to cover 35,000 sq km across 11 districts of Gujarat.<br><br><i>PYQ Integration:</i> UPSC tests exact population trends (increase/decrease) of flagship species, similar to the elephant census questions in 2020.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "Commercial Cultivation and Policy",
+    "question": "<b>With reference to Teak (<i>Tectona grandis</i>) cultivation in India, consider the following statements:</b><br><br>1. Tissue-cultured teak involves growing genetically identical plantlets in a controlled environment to overcome traditional propagation limits.<br>2. According to the FAO Global Teak Resources Assessment 2022, Kerala and Tamil Nadu hold the largest areas of natural native teak forests in India.<br>3. Green felling of timber from government-owned forests is explicitly permitted under the National Forest Policy, 1988 to meet domestic demand.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 1 is correct)</b><br><br><b>Statement 1 is correct:</b> Tissue culture uses meristematic tissues in nutrient-rich mediums to produce clones.<br><b>Statement 2 is incorrect (The Geographical Proxy Trap):</b> The examiner baits with Southern states known for plantations. However, <b>Madhya Pradesh and Maharashtra</b> have the largest areas of natural native teak forests.<br><b>Statement 3 is incorrect (The Legal Prohibition Trap):</b> Green felling of timber from government-owned forests is strictly <b>prohibited</b> under the Forest Conservation Act, 1980, and the National Forest Policy, 1988.<br><br><i>PYQ Integration:</i> Mirrors the 2021 PYQ on Palm Oil, testing origin, state-wise dominance, and regulatory limits.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "Tissue Culture Technology",
+    "question": "<b>The National Agroforestry Policy (2014) encourages tree plantations on farmlands, specifically identifying 'tissue-cultured teak' as a viable option. What is the primary advantage of utilizing 'tissue culture' in this context?</b>",
+    "options": [
+      "It allows the teak plant to fix atmospheric nitrogen directly into the soil without symbiotic bacteria.",
+      "It produces genetically identical plantlets (clones) in a controlled environment, ensuring uniform high-quality timber.",
+      "It modifies the genome of the teak plant to render it completely fire-resistant.",
+      "It enables the teak to grow effectively in highly saline marine coastal ecosystems."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: It produces genetically identical plantlets (clones) in a controlled environment, ensuring uniform high-quality timber.</b><br><br><b>Explanation:</b> Tissue culture is a biotechnological method used to culture meristematic tissues or nodal segments in a nutrient-rich medium. It produces genetically identical clones, addressing the limitations of traditional propagation (variable seed quality, slow germination). It does not impart nitrogen-fixing, fire-resistance, or halophytic properties.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Global Environmental Forums",
+    "question": "<b>Consider the following statements regarding the United Nations Forum on Forests (UNFF):</b><br><br>1. It was established as a high-level intergovernmental policy forum by the United Nations Environment Programme (UNEP).<br>2. It adopted the Non-Legally Binding Instrument on All Types of Forests (Forest Instrument) to provide a policy framework for sustainable forest governance.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (The Nodal Agency Swap Trap):</b> UNFF was established in 2000 by the <b>UN Economic and Social Council (ECOSOC)</b> as a functional commission, not by UNEP.<br><b>Statement 2 is correct:</b> UNFF adopted the Forest Instrument in 2007 to provide a framework for sustainable forest governance.<br><br><i>PYQ Integration:</i> In line with 2021 and 2022 PYQs (e.g., Global Ocean Commission, PAGE), UPSC heavily tests the exact UN parent body of environmental forums.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "International Environmental Forums",
+    "question": "<b>At the 20th session of the United Nations Forum on Forests (UNFF-20), India called for global action based on the outcomes of the Country-Led Initiative (CLI) hosted in Dehradun. What were the primary focus areas of this specific initiative?</b>",
+    "options": [
+      "Eradication of invasive alien species and wetland restoration.",
+      "Forest fire management and forest certification.",
+      "Phasing out of persistent organic pollutants in agroforestry.",
+      "Promotion of blue carbon sequestration in mangrove ecosystems."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Forest fire management and forest certification.</b><br><br><b>Explanation:</b> During UNFF-20, India highlighted the outcomes of the Country-Led Initiative (CLI) held in Dehradun in October 2023, which specifically focused on forest fire management and forest certification. India also proposed a Global Fire Management Hub under UNEP and FAO.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Legislations",
+    "question": "<b>With reference to the Biological Diversity (Access and Sharing of Benefits) Regulation, 2025, consider the following statements:</b><br><br>1. It mandates that entities using high-value resources like Red sanders and sandalwood must share at least 15% of their sale proceeds for commercial use.<br>2. Users of cultivated medicinal plants are strictly exempted from benefit-sharing obligations to support AYUSH practices.<br>3. The National Biodiversity Authority (NBA), which enforces this regulation, is a statutory body headquartered in New Delhi.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>Statement 1 is incorrect (The Data Precision Trap):</b> The regulation requires at least <b>5%</b> (not 15%) of sale or auction proceeds for high-value resources like Red sanders, potentially exceeding 20% for commercial use.<br><b>Statement 2 is correct:</b> Cultivated medicinal plants are explicitly exempt to support AYUSH and traditional medicine.<br><b>Statement 3 is incorrect (The HQ Location Trap):</b> The National Biodiversity Authority (NBA) is headquartered in <b>Chennai</b>, not New Delhi.<br><br><i>PYQ Integration:</i> Matches the 2019 and 2020 UPSC pattern where exact exemption clauses in environmental rules (like Solid Waste or E-Waste rules) and institutional HQs (like Animal Welfare Board) were tested.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Institutional Mechanisms under BD Act",
+    "question": "<b>Under the Biological Diversity Act, 2002, which of the following institutions holds the exclusive authority to approve access to India's biological resources by foreign entities?</b>",
+    "options": [
+      "State Biodiversity Boards (SBBs)",
+      "Biodiversity Management Committees (BMCs)",
+      "National Biodiversity Authority (NBA)",
+      "Ministry of Environment, Forest and Climate Change (MoEFCC)"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: National Biodiversity Authority (NBA)</b><br><br><b>Explanation:</b> The three-tier system assigns specific roles. The <b>National Biodiversity Authority (NBA)</b> strictly approves access by foreign entities and regulates IPR applications. State Biodiversity Boards (SBBs) regulate access by Indian citizens/companies, and Biodiversity Management Committees (BMCs) operate at the local body level to prepare People’s Biodiversity Registers (PBRs).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "Global Agricultural Initiatives",
+    "question": "<b>With reference to the Globally Important Agricultural Heritage Systems (GIAHS), consider the following statements:</b><br><br>1. It is an initiative launched and managed by the United Nations Educational, Scientific and Cultural Organization (UNESCO).<br>2. It aims to identify and safeguard eco-friendly traditional farm practices, agricultural biodiversity, and the knowledge systems of local communities.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (The Nodal Agency Trap):</b> GIAHS is an initiative launched and managed by the <b>Food and Agriculture Organization (FAO)</b>, not UNESCO.<br><b>Statement 2 is correct:</b> GIAHS protects living heritage systems where communities maintain an intricate relationship with their territory through traditional knowledge and agrobiodiversity.<br><br><i>PYQ Integration:</i> This exact concept was tested in the 2016 UPSC Prelims, checking the overall goal of the FAO's GIAHS initiative.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "GIAHS Sites in India",
+    "question": "<b>Consider the following pairs of Globally Important Agricultural Heritage Systems (GIAHS) sites in India:</b><br><br><b>Site : Associated Feature</b><br>1. Koraput region : Diverse paddy landraces and tribal farming<br>2. Kuttanad : Below-sea-level farming integrating rice and fishing<br>3. Saffron Heritage of Kashmir : Traditional saffron farming sustaining cultural heritage<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><b>Explanation:</b> India has exactly three GIAHS sites recognized by the FAO:<br>1. Koraput (Odisha) - traditional tribal farming and diverse paddy landraces.<br>2. Kuttanad (Kerala) - a unique below-sea-level system integrating rice, fishing, and coconut.<br>3. Saffron Heritage of Kashmir - centered on traditional saffron farming.<br>All pairs are correctly matched.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "Agro-Climatic Profile of Crops",
+    "question": "<b>With reference to Moringa (<i>Moringa oleifera</i>), often referred to as the 'miracle tree', consider the following statements:</b><br><br>1. It is native exclusively to the arid regions of tropical Africa.<br>2. It requires high annual rainfall and deep, highly acidic soils to thrive effectively.<br>3. It is officially recommended by WHO and UNICEF in malnutrition and anemia control programs.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 3 is correct)</b><br><br><b>Statement 1 is incorrect (Origin Trap):</b> Moringa is native to the <b>Indian subcontinent</b> (Western Ghats, Himalayas) and is now widely cultivated in Africa and Southeast Asia.<br><b>Statement 2 is incorrect (Agro-Climatic Trap):</b> It thrives in <b>arid and semi-arid</b> tropical climates, is drought-resistant, and tolerates poor, alkaline, and sandy soils.<br><b>Statement 3 is correct:</b> WHO and UNICEF recommend Moringa in malnutrition and anemia control programs due to its high vitamin and mineral content.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "Crop Characteristics",
+    "question": "<b>Which of the following best describes the agricultural utility of the Moringa tree in traditional Indian farming systems?</b>",
+    "options": [
+      "It is grown primarily in flooded wetlands to prevent coastal soil erosion.",
+      "It is often intercropped with maize or millets, enhancing farm resilience and producing flowers and fruits multiple times a year.",
+      "It is a nitrogen-fixing winter annual crop cultivated exclusively for its timber.",
+      "It is a parasitic plant that requires a host tree to extract essential nutrients."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: It is often intercropped with maize or millets, enhancing farm resilience and producing flowers and fruits multiple times a year.</b><br><br><b>Explanation:</b> Moringa is a fast-growing, perennial tree. In its agro-climatic profile, it is noted for its use in intercropping (often grown with maize or millets to enhance farm resilience) and its ability to produce flowers and fruits multiple times a year.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species Conservation",
+    "question": "<b>Consider the following statements regarding the Snow Leopard (<i>Panthera uncia</i>):</b><br><br>1. Under the Convention on the Conservation of Migratory Species of Wild Animals (CMS), it is classified as a classical migratory species due to its seasonal north-south movement.<br>2. It is listed as 'Vulnerable' on the IUCN Red List and placed under Schedule I of the Wildlife (Protection) Act, 1972.<br>3. The Global Snow Leopard and Ecosystem Protection Program (GSLEP) is an alliance of 12 range countries exclusively located in Central and South Asia.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>Statement 1 is incorrect (The Definitional Trap):</b> The snow leopard is included under the Central Asian Mammals Initiative (CAMI) of the CMS, but it is explicitly <b>not migratory in the classical sense</b>; it is included due to its large transboundary range.<br><b>Statement 2 is correct:</b> It is Vulnerable (IUCN), CITES Appendix I, CMS Appendix I, and WPA Schedule I.<br><b>Statement 3 is correct:</b> GSLEP consists of 12 range countries spread across Central and South Asia (e.g., India, Nepal, China, Russia, Mongolia, etc.).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Distribution of Wildlife",
+    "question": "<b>According to the recent Snow Leopard Population Assessment, which region in India hosts the highest density and the largest population (accounting for 68% of India's total) of snow leopards?</b>",
+    "options": [
+      "Spiti Valley, Himachal Pradesh",
+      "Nanda Devi Biosphere Reserve, Uttarakhand",
+      "Union Territory of Ladakh",
+      "Khangchendzonga National Park, Sikkim"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Union Territory of Ladakh</b><br><br><b>Explanation:</b> A study by Ladakh’s Department of Wildlife Protection estimated 477 snow leopards in the region. Ladakh hosts one of the world’s highest densities of snow leopards, accounting for 68% of India’s total population.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Marine Conservation Initiatives",
+    "question": "<b>With reference to 'Operation Olivia', consider the following statements:</b><br><br>1. It is an annual conservation initiative launched by the Indian Navy to protect coral reef ecosystems.<br>2. It operates primarily along the Odisha coast, targeting key nesting sites like Gahirmatha and Rushikulya.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (The Implementing Agency Trap):</b> Operation Olivia is an annual initiative launched by the <b>Indian Coast Guard (ICG)</b> since the early 1980s, specifically to protect Olive Ridley turtles, not coral reefs.<br><b>Statement 2 is correct:</b> It runs from November to May along the Odisha coast, protecting nesting/breeding grounds at Gahirmatha, Rushikulya, and Devi river mouths.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Marine Species Ecology",
+    "question": "<b>Consider the following statements regarding the Olive Ridley Turtle (<i>Lepidochelys olivacea</i>):</b><br><br>1. They exhibit strong sexual dimorphism, with females growing significantly larger than males to support mass nesting (arribada).<br>2. They are strictly herbivorous, feeding entirely on seagrass meadows in the shallow coastal waters.<br>3. Indian Ocean olive ridley turtles are, on average, smaller than those found in the Pacific and Atlantic oceans.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 3 is correct)</b><br><br><b>Statement 1 is incorrect:</b> Males and females grow to the <b>same size</b>; however, females have a slightly more rounded carapace.<br><b>Statement 2 is incorrect (Dietary Absolutes Trap):</b> They are <b>omnivorous</b>, feeding on algae, crustaceans, mollusks, jellyfish, fish, and fish eggs.<br><b>Statement 3 is correct:</b> Indian Ocean olive ridleys are documented as being smaller on average than their Pacific and Atlantic counterparts.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species Discoveries",
+    "question": "<b>Which one of the following best describes <i>Musa indandamanensis</i>, which is currently listed as Critically Endangered by the IUCN?</b>",
+    "options": [
+      "A rare species of marine algae discovered in the Gulf of Mannar that exhibits bioluminescence.",
+      "A wild banana species discovered in the Andaman and Nicobar Islands known for its exceptionally long infructescence.",
+      "A newly discovered species of freshwater turtle endemic to the Brahmaputra river basin.",
+      "An invasive alien weed aggressively spreading across the Western Ghats causing native biodiversity loss."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: A wild banana species discovered in the Andaman and Nicobar Islands known for its exceptionally long infructescence.</b><br><br><b>Explanation:</b> Musa indandamanensis is a wild banana species discovered in 2012 near the Krishna Nala Reserve Forest in the Andaman and Nicobar Islands. It grows up to 11 metres tall, bears green flowers, and has a fruit bunch axis (infructescence) measuring about 4.2 metres—the longest recorded among all banana species.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Botanical Terminology",
+    "question": "<b>In the context of botany and recent plant discoveries, what does the term 'Infructescence' precisely refer to?</b>",
+    "options": [
+      "The underground rhizome network used for vegetative propagation in herbaceous plants.",
+      "The premature dropping of fruit from a tree due to severe abiotic stress.",
+      "A cluster or group of fruits arranged on a common stalk or axis.",
+      "The specific region of a plant leaf where maximum stomatal transpiration occurs."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: A cluster or group of fruits arranged on a common stalk or axis.</b><br><br><b>Explanation:</b> An infructescence refers to a cluster or group of fruits arranged on a common stalk or axis. It develops from the flowering part (inflorescence) and often exhibits a complex branching pattern. This term was highlighted due to the discovery of Musa indandamanensis, which has a 4.2-metre-long infructescence.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Protected Area Network",
+    "question": "<b>Consider the following statements regarding the Greater Flamingo Sanctuary recently declared in Tamil Nadu:</b><br><br>1. It is located at Dhanushkodi and falls within the Gulf of Mannar Biosphere Reserve.<br>2. It serves as South Asia's only breeding ground for the Greater Flamingo.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> The sanctuary was recently declared at Dhanushkodi in Ramanathapuram district, TN, within the Gulf of Mannar Biosphere Reserve.<br><b>Statement 2 is incorrect (The Geographical Swap Trap):</b> While Dhanushkodi is a major stopover on the Central Asian Flyway, South Asia's <i>only</i> breeding ground for the Greater Flamingo is strictly the <b>Kachchh Desert Wildlife Sanctuary (Flamingo City)</b> in Gujarat.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Avian Ecology",
+    "question": "<b>With reference to the Greater Flamingo (<i>Phoenicopterus roseus</i>), consider the following statements:</b><br><br>1. It exclusively breeds in high-altitude freshwater glacial lakes.<br>2. It is highly philopatric, meaning it tends to return to the same specific site for breeding.<br>3. It is currently classified as 'Endangered' on the IUCN Red List.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>Statement 1 is incorrect (Habitat Trap):</b> Greater Flamingos breed in <b>shallow wetlands, either saline or alkaline</b>, not freshwater glacial lakes.<br><b>Statement 2 is correct:</b> They are highly philopatric, meaning they return to the same breeding sites consistently.<br><b>Statement 3 is incorrect (IUCN Trap):</b> They are classified as <b>Least Concern</b> on the IUCN Red List.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Drainage Systems and Species Habitat",
+    "question": "<b>Consider the following statements regarding the Kulsi River:</b><br><br>1. It originates in the West Khasi Hills of Meghalaya and is a direct tributary of the Brahmaputra River.<br>2. It has been identified as a critical nesting ground and habitat for the Ganges River Dolphin.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>Statement 1 is correct:</b> The Kulsi river rises in Meghalaya’s West Khasi Hills, flows through Assam’s Kamrup district, and joins the Brahmaputra.<br><b>Statement 2 is correct:</b> WWF-India identified Kulsi as one of nine critical habitats for Ganges River Dolphin conservation, and its deep waters support this species.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Flagship Species Characteristics",
+    "question": "<b>With reference to the Ganges River Dolphin (<i>Platanista gangetica</i>), consider the following statements:</b><br><br>1. Due to the murky waters of its habitat, it is nearly blind and relies entirely on echolocation to detect prey.<br>2. The males of the species grow significantly larger than the females.<br>3. It is the official State Aquatic Animal of Assam.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3 are correct)</b><br><br><b>Statement 1 is correct:</b> It is nearly blind and navigates/hunts using ultrasonic sounds (echolocation).<br><b>Statement 2 is incorrect (Sexual Dimorphism Trap):</b> In Ganges River Dolphins, the <b>females grow larger</b> (up to 2.7 m) than the males (up to 2.1 m).<br><b>Statement 3 is correct:</b> It was declared India's National Aquatic Animal in 2009 and is also Assam's State Aquatic Animal.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Global Environmental Organizations",
+    "question": "<b>The 'Integrated Biodiversity Assessment Tool (IBAT) Alliance', which provides authoritative biodiversity data for research and policy-making, is a collaboration of which of the following organizations?</b>",
+    "options": [
+      "World Bank, Global Environment Facility (GEF), and the United Nations Development Programme (UNDP)"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: BirdLife International, Conservation International, IUCN, and UNEP-WCMC</b><br><br><b>Explanation:</b> Founded in 2008, the IBAT Alliance is a coalition of four of the world's most influential conservation organizations: BirdLife International, Conservation International, International Union for Conservation of Nature (IUCN), and United Nations Environment Programme World Conservation Monitoring Centre (UNEP-WCMC). It does not include the World Bank, GEF, or UNDP.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Biodiversity Databases",
+    "question": "<b>The Integrated Biodiversity Assessment Tool (IBAT) explicitly integrates data from which of the following global datasets?</b><br><br>1. The IUCN Red List of Threatened Species<br>2. The World Database on Protected Areas (WDPA)<br>3. The World Database of Key Biodiversity Areas (WDKBA)<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>Explanation:</b> The IBAT Alliance draws its authoritative data specifically from three core global datasets: The World Database on Protected Areas (WDPA), the World Database of Key Biodiversity Areas (WDKBA), and the IUCN Red List of Threatened Species. It is used heavily for risk screening and environmental impact assessments.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Global Conservation Coalitions",
+    "question": "<b>With reference to the International Big Cat Alliance (IBCA), consider the following statements:</b><br><br>1. It was launched by India during the 50th anniversary of Project Tiger with its headquarters located in New Delhi.<br>2. Its conservation mandate is strictly restricted to the big cat species that are naturally found within the Indian subcontinent.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> Launched in April 2023 in Mysuru during Project Tiger's 50th anniversary, its headquarters is in New Delhi.<br><b>Statement 2 is incorrect (The Exclusion Trap):</b> The IBCA's mandate covers the world's seven major big cats (Tiger, Lion, Leopard, Snow Leopard, Cheetah, Jaguar, Puma). The <b>Jaguar and Puma</b> are not found in India.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Big Cat Conservation Status",
+    "question": "<b>Consider the following pairs regarding the big cats covered under the International Big Cat Alliance (IBCA):</b><br><br><b>Big Cat Species : Current IUCN Status</b><br>1. Tiger : Endangered<br>2. Snow Leopard : Critically Endangered<br>3. Puma : Least Concern<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Pairs 1 and 3 are correct)</b><br><br><b>Pair 1 is correctly matched:</b> The Tiger is listed as Endangered on the IUCN Red List.<br><b>Pair 2 is incorrectly matched:</b> The Snow Leopard is officially listed as <b>Vulnerable</b>, not Critically Endangered.<br><b>Pair 3 is correctly matched:</b> The Puma is listed as Least Concern.<br><br><i>PYQ Integration:</i> UPSC tests the exact IUCN status of flagship species frequently, heavily punishing candidates who assume all big cats are endangered.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Geological Heritage Sites",
+    "question": "<b>Consider the following statements regarding the Salkhan Fossil Park recently added to UNESCO's Tentative List:</b><br><br>1. It is located in the Kaimur Range of Uttar Pradesh.<br>2. It preserves massive dinosaur fossils dating back to the Jurassic period.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> It is located in Salkhan village, Sonbhadra district, UP, covering 25 hectares in the Kaimur Range.<br><b>Statement 2 is incorrect (The Geological Era Trap):</b> The park does not preserve dinosaur fossils. It preserves ancient <b>stromatolite fossils</b> (sedimentary structures formed by cyanobacteria/blue-green algae) that thrived 1.4–1.5 billion years ago (Proterozoic Era), playing a role in Earth’s Great Oxidation Event.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Evolution and Paleobiology",
+    "question": "<b>Which of the following biological entities was primarily responsible for creating the stromatolite fossils found in Salkhan Fossil Park, driving the Earth's 'Great Oxidation Event'?</b>",
+    "options": [
+      "Anaerobic methanogenic archaea",
+      "Photosynthetic cyanobacteria (blue-green algae)",
+      "Early marine diatoms and radiolarians",
+      "Chemosynthetic sulfur bacteria"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Photosynthetic cyanobacteria (blue-green algae)</b><br><br><b>Explanation:</b> Stromatolites are layered sedimentary structures formed by the trapping, binding, and cementation of sedimentary grains by biofilms of microorganisms, especially cyanobacteria (blue-green algae). These organisms thrived nearly 1.4–1.5 billion years ago and were pivotal in the Great Oxidation Event (~2.4 billion years ago), which enriched Earth's atmosphere with oxygen.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
