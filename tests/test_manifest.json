@@ -115,6 +115,8 @@
 ,
 {"name": "Env CA Part 3", "filename": "Env CA Part 3.json", "path": "tests/upsc/Env CA Part 3.json"}
 ,
+{"name": "Env CA Part 4", "filename": "Env CA Part 4.json", "path": "tests/upsc/Env CA Part 4.json"}
+,
 {"name": "Polity CoI, citizenship, oci", "filename": "Polity CoI, citizenship, oci.json", "path": "tests/upsc/Polity CoI, citizenship, oci.json"}
 ,
 {"name": "SC HC", "filename": "SC HC.json", "path": "tests/upsc/SC HC.json"}
