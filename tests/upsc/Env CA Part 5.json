@@ -1,0 +1,377 @@
+[
+  {
+    "section": "Geography",
+    "topic": "Cyclone Ditwah",
+    "question": "<b>With reference to Cyclone Ditwah and related disaster relief, consider the following statements:</b><br><br>1. It was a tropical cyclone that caused catastrophic devastation in Sri Lanka and southern India in late 2025.<br>2. In response to this cyclone, the Indian Navy launched 'Operation Sadbhavana' to provide Humanitarian Assistance and Disaster Relief (HADR).<br>3. Tropical cyclones frequently originate in the South Atlantic and South-Eastern Pacific regions due to the strong Coriolis force.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 1 is correct)</b><br><br><b>Statement 1 is correct:</b> Cyclone Ditwah struck Sri Lanka and southern India in late Nov/Early Dec 2025.<br><b>Statement 2 is incorrect (Operation Swap Trap):</b> India launched <b>Operation Sagar Bandhu</b> for Cyclone Ditwah. <i>Operation Sadbhavana</i> is an Army initiative for the upliftment of local populations in remote areas (e.g., Ladakh).<br><b>Statement 3 is incorrect (Geographical Absolute Trap):</b> Tropical cyclones <b>do not originate</b> in the South Atlantic/SE Pacific because the Inter-Tropical Convergence Zone (ITCZ) seldom occurs there, and sea surface temperatures are unfavorable.<br><br><i>PYQ Integration:</i> Statement 3 is a direct replica of the 2015 CSE PYQ. Statement 2 mirrors the 2024 PYQ trap distinguishing Operations Maitri, Sankalp, and Sadbhavana.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Cyclone Ditwah",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> A tropical cyclone intensifies as it moves over warm ocean waters but dissipates rapidly upon making landfall.<br><b>Statement-II:</b> The continuous supply of moisture from the ocean releases latent heat during condensation, which is the primary energy source driving the tropical cyclone.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> Cyclones intensify over warm oceans and die over land.<br><b>Statement-II is correct and explains Statement-I:</b> The absolute energy engine of a tropical cyclone is the <b>latent heat of condensation</b> derived from ocean moisture. Once it hits land, this moisture supply is cut off, explaining the rapid dissipation mentioned in Statement-I.<br><br><i>PYQ Integration:</i> The examiner frequently tests the physical mechanics of climatological phenomena using the S1/S2 format (e.g., 2024 PYQ on atmospheric heating and terrestrial radiation).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Bow Echoes",
+    "question": "<b>The term 'Bow Echo', recently seen in the news in the context of weather radar signatures over Delhi, is most accurately associated with:</b>",
+    "options": [
+      "A concentrated band of heavy snowfall occurring strictly in the higher Himalayas.",
+      "A line of intense thunderstorms that form a crescent shape and generate severe straight-line winds.",
+      "An atmospheric optical illusion caused by the refraction of moonlight through cirrus clouds.",
+      "A localized zone of zero wind velocity at the absolute center of a tropical cyclone."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: A line of intense thunderstorms that form a crescent shape and generate severe straight-line winds.</b><br><br><b>Explanation:</b> A bow echo is a meteorological phenomenon where a line of thunderstorms forms a bow-shaped (crescent) appearance on weather radar. It is caused by strong winds descending from the storm and pushing the system outward, often associated with severe straight-line winds, heavy rainfall, and hail.<br><br><i>PYQ Integration:</i> This tests the exact definition of a newly observed meteorological phenomenon, similar to how the examiner tested 'Cloudbursts' and 'Polar Vortex' in previous years.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Bow Echoes",
+    "question": "<b>Consider the following statements regarding the 'Bow Echo' phenomenon:</b><br><br>1. It is a radar signature caused exclusively by the collision of two opposing warm ocean currents.<br>2. The characteristic 'bow' shape is formed when strong descending winds push the center of a thunderstorm line forward faster than its edges.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> It is strictly an atmospheric/meteorological phenomenon involving thunderstorms and strong winds, not ocean currents.<br><b>Statement 2 is correct:</b> The bow shape is generated precisely because strong downdrafts (descending winds) hit the surface and push the center of the storm system forward.<br><br><i>PYQ Integration:</i> The examiner routinely inserts 'exclusively' or targets the wrong physical sphere (ocean vs atmosphere) to create distractors.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Tapti Basin Mega Recharge Project",
+    "question": "<b>Consider the following statements regarding the Tapti (Tapi) River:</b><br><br>1. It originates in the Mahadev Hills of Madhya Pradesh and flows eastward to join the Mahanadi.<br>2. It flows through a linear rift valley bounded by the Satpura range to the north and the Ajanta range to the south.<br>3. The Purna and Girna rivers are its principal left-bank tributaries.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>Statement 1 is incorrect (Origin & Direction Trap):</b> The Tapti originates in <b>Multai in the Satpura range</b> (not Mahadev hills) and flows <b>westward</b> into the Arabian Sea.<br><b>Statement 2 is correct:</b> It flows through a rift valley, strictly bounded by the Satpura range (north) and the Ajanta/Satmala hills (south).<br><b>Statement 3 is correct:</b> Purna, Girna, Bori, and Panjhra are its left-bank tributaries.<br><br><i>PYQ Integration:</i> Statement 2 is a direct derivative of the 2013 PYQ which tested the physical boundaries of the Narmada and Tapti rift valleys.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Tapti Basin Mega Recharge Project",
+    "question": "<b>Consider the following pairs of rivers and their classification as tributaries of the Tapti River:</b><br><br><b>Tributary : Bank</b><br>1. Purna : Left Bank<br>2. Aner : Right Bank<br>3. Gomai : Left Bank<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two pairs (Pairs 1 and 2 are correct)</b><br><br><b>Pair 1 is correctly matched:</b> Purna is the principal left-bank tributary of the Tapti.<br><b>Pair 2 is correctly matched:</b> Aner is a right-bank tributary.<br><b>Pair 3 is incorrectly matched (Bank Swap Trap):</b> Gomai is strictly a <b>right-bank</b> tributary of the Tapti, not left.<br><br><i>PYQ Integration:</i> The examiner frequently tests left vs. right bank tributaries for major peninsular rivers (e.g., 2014, 2015, 2021 PYQs on Godavari and Brahmaputra tributaries).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Centre of Polar and Ocean Research (NCPOR)",
+    "question": "<b>With reference to the National Centre of Polar and Ocean Research (NCPOR), consider the following statements:</b><br><br>1. It is an autonomous institution functioning under the Ministry of Science and Technology.<br>2. It manages India's active research stations 'Maitri' and 'Bharati' in Antarctica, and 'Himadri' in the Arctic.<br>3. It is the lead agency for implementing the Deep Ocean Mission in the Indian Ocean.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>Statement 1 is incorrect (Nodal Ministry Swap Trap):</b> NCPOR operates strictly under the <b>Ministry of Earth Sciences (MoES)</b>, not the Ministry of Science and Technology.<br><b>Statement 2 is correct:</b> It manages Maitri, Bharati (Antarctica), Himadri (Arctic), and Himansh (Himalayas).<br><b>Statement 3 is correct:</b> It leads the Deep Ocean Mission exploring deep-sea minerals.<br><br><i>PYQ Integration:</i> Nodal ministry swaps are the examiner's most deployed tool (e.g., 2014 PYQ swapping MoEFCC and MoRD for watershed programs).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Centre of Polar and Ocean Research (NCPOR)",
+    "question": "<b>Consider the following pairs regarding India's polar and high-altitude research stations:</b><br><br><b>Station : Location</b><br>1. Himansh : High Himalayas<br>2. Bharati : Larsemann Hills, East Antarctica<br>3. Maitri : Svalbard, Arctic<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two pairs (Pairs 1 and 2 are correct)</b><br><br><b>Pair 1 is correctly matched:</b> Himansh is India's high-altitude research station in the Himalayas.<br><b>Pair 2 is correctly matched:</b> Bharati is located in the Larsemann Hills of East Antarctica.<br><b>Pair 3 is incorrectly matched (Region Swap Trap):</b> Maitri is located in the <b>Schirmacher Oasis, Antarctica</b>. The station in Svalbard, Arctic, is <b>Himadri</b>.<br><br><i>PYQ Integration:</i> Mirrors the 2015 PYQ where 'IndARC' was tested specifically to see if candidates knew it was an Arctic (not Antarctic) observatory.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Yala Glacier Declared Dead",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The Yala Glacier in the Hindu Kush Himalayan region was recently declared 'dead' by glaciologists.<br><b>Statement-II:</b> A glacier is scientifically classified as 'dead' when its entire ice mass has completely melted away, leaving only exposed bedrock.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> The Yala Glacier in Nepal's Langtang Valley was declared dead in May 2025.<br><b>Statement-II is incorrect (Definitional Absolute Trap):</b> A glacier is declared dead <b>not</b> when it has completely melted, but when it <b>no longer shows movement or flow under its own weight</b>. Ice mass may still remain, but it ceases the dynamic movement that defines a living glacier.<br><br><i>PYQ Integration:</i> The examiner frequently sets up S1/S2 questions where S2 provides a plausible-sounding but scientifically inaccurate definition of a concept mentioned in S1.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Yala Glacier Declared Dead",
+    "question": "<b>The Yala Glacier, which recently became the first glacier in Asia to receive a climate memorial plaque, is geographically located in the:</b>",
+    "options": [
+      "Karakoram Range, India",
+      "Langtang Valley, Nepal",
+      "Tien Shan Mountains, Tajikistan",
+      "Zanskar Range, India"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Langtang Valley, Nepal</b><br><br><b>Explanation:</b> The Yala Glacier is located in the Langtang Valley of Nepal (within the Hindu Kush Himalayan region). It lost 66% of its ice mass since the 1970s and was declared dead in May 2025.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "RIMES Declaration on Disaster Preparedness",
+    "question": "<b>With reference to the Regional Integrated Multi-Hazard Early Warning System (RIMES) for Africa and Asia, consider the following statements:</b><br><br>1. It is a specialized agency of the United Nations, established directly by the UN Security Council following the 2004 Indian Ocean Tsunami.<br>2. Its Regional Early Warning Centre is headquartered at the Asian Institute of Technology (AIT) in Thailand.<br>3. India is one of the 22 Member States that own and manage this intergovernmental institution.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>Statement 1 is incorrect (Institutional Parentage Trap):</b> RIMES is an <b>intergovernmental institution owned and managed by its member states</b>. It is registered with the UN, but it is strictly <i>not</i> a specialized agency of the UN, nor was it established by the UN Security Council.<br><b>Statement 2 is correct:</b> The HQ/Warning Centre is at AIT, Thailand.<br><b>Statement 3 is correct:</b> India is a member state contributing to its management.<br><br><i>PYQ Integration:</i> The 2014 and 2015 PYQs heavily tested whether organizations like GEF or Amnesty International were UN agencies or independent bodies.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "RIMES Declaration on Disaster Preparedness",
+    "question": "<b>The genesis of the Regional Integrated Multi-Hazard Early Warning System (RIMES) can be traced back to the immediate aftermath of which of the following catastrophic events?</b>",
+    "options": [
+      "The 1999 Odisha Super Cyclone",
+      "The 2004 Indian Ocean Tsunami",
+      "The 2011 Tohoku Earthquake and Tsunami in Japan",
+      "The 2015 Nepal Earthquake"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The 2004 Indian Ocean Tsunami</b><br><br><b>Explanation:</b> RIMES was created following the 2004 Indian Ocean tsunami when countries across Africa, Asia, and the Pacific recognized the urgent need for a shared regional mechanism to monitor and warn against natural hazards.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Atmospheric Memory",
+    "question": "<b>Consider the following statements regarding the meteorological concept of 'Atmospheric Memory':</b><br><br><b>Statement-I:</b> The current state of the atmosphere is entirely dependent on the intensity of incoming solar radiation, irrespective of past weather events.<br><b>Statement-II:</b> The phenomenon of 'bistability' demonstrates that the atmosphere can exist in two different stable states (wet or dry) under the exact same solar conditions.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect (Causality Inversion Trap):</b> Recent studies on 'Atmospheric Memory' prove that the atmosphere does <b>not</b> depend solely on solar radiation. Its current state is highly dependent on its <i>recent weather history</i> (e.g., if it has been raining, conditions favor continued rain).<br><b>Statement-II is correct:</b> Bistability is the core of atmospheric memory, meaning the system can be either wet or dry under the exact same solar conditions based on preceding events.<br><br><i>PYQ Integration:</i> The examiner uses the S1/S2 format to test paradigm shifts in scientific understanding, similar to the 2024 PYQ on atmospheric heating.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Atmospheric Memory",
+    "question": "<b>In climatology, the concept that \"if it has been dry, it becomes difficult to trigger rain, even when solar radiation conditions are otherwise favorable\" is best described by which of the following terms?</b>",
+    "options": [
+      "Atmospheric Memory",
+      "True Polar Wander",
+      "Albedo Effect",
+      "Coriolis Deflection"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Atmospheric Memory</b><br><br><b>Explanation:</b> Atmospheric memory refers to the phenomenon where the atmosphere's current state is influenced by its recent weather history. This creates 'bistability', where the system resists changing its state (e.g., staying dry or staying wet) despite sufficient solar radiation.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "India Expands Coastline by 3,500 km",
+    "question": "<b>With reference to the recent official revision of India's geographical boundaries, consider the following statements:</b><br><br>1. India's official coastline has been revised upward from 7,516 km to 11,098 km due to the high-resolution mapping of coastal inlets and previously unmapped islands.<br>2. This revised coastline measurement now explicitly includes the boundaries of major river islands such as Majuli in Assam.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> India's coastline has been officially revised to 11,098 km (a 48% increase), largely due to the inclusion of previously unmapped islands (bringing the total to 1,389).<br><b>Statement 2 is incorrect (Definitional Exclusion Trap):</b> The official coastal count strictly <b>excludes</b> river islands, such as those in Assam (Majuli) and West Bengal.<br><br><i>PYQ Integration:</i> The examiner tests the exact inclusions/exclusions of geographical data points, mirroring PYQs that tested which states/bodies of water are included in specific territorial definitions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "India Expands Coastline by 3,500 km",
+    "question": "<b>The recent 48% expansion in India's officially recognized coastline length has significant implications for which of the following?</b><br><br>1. Increasing the absolute land area of the Indian subcontinent.<br>2. Expanding the area for the harvesting of living and non-living resources within the Exclusive Economic Zone (EEZ).<br>3. Strengthening India's legal claims in international maritime disputes.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Explanation:</b> The revision of the coastline impacts maritime boundaries. It expands the baseline used to calculate the Exclusive Economic Zone (EEZ), thereby increasing resource harvesting rights (Statement 2) and strengthening strategic/legal maritime claims (Statement 3). However, mapping a more complex coastline boundary does <b>not</b> increase the absolute continental landmass area of the country (Statement 1).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Global Ocean Darkening",
+    "question": "<b>Consider the following statements regarding 'Global Ocean Darkening':</b><br><br><b>Statement-I:</b> The phenomenon of ocean darkening leads to a significantly shallower 'photic zone' in marine environments.<br><b>Statement-II:</b> An increase in suspended particles and climate-induced changes reduces the amount of sunlight that can penetrate the upper layers of the ocean.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> Ocean darkening restricts light, directly resulting in a shallower photic zone (the layer where photosynthesis can occur).<br><b>Statement-II is correct and explains Statement-I:</b> The reduction of sunlight penetration into the upper layers of the ocean is the exact physical mechanism (the definition of darkening) that causes the photic zone to shrink.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Global Ocean Darkening",
+    "question": "<b>Which of the following are the most likely ecological consequences of 'Global Ocean Darkening'?</b><br><br>1. Drastic reduction in the primary productivity of marine phytoplankton.<br>2. Severe disruption of the biological carbon pump, affecting global climate regulation.<br>3. Expansion of the euphotic zone into the deeper abyssal plains.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Explanation:</b> Ocean darkening reduces sunlight penetration.<br>1. Correct: Less light means less photosynthesis by phytoplankton (the primary producers).<br>2. Correct: Reduced phytoplankton activity lowers the ocean's ability to absorb carbon dioxide (the biological carbon pump).<br>3. Incorrect: The euphotic (photic) zone strictly <b>shrinks or becomes shallower</b>, it does not expand into the deep abyssal plains.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "New Ramsar Sites",
+    "question": "<b>Consider the following pairs of newly designated Ramsar Sites in India:</b><br><br><b>Wetland : Location/Feature</b><br>1. Khichan Wetland : An oxbow lake in Bihar formed by an abandoned river meander.<br>2. Udaipur Lake : A critical wintering ground in Rajasthan for migratory demoiselle cranes.<br>3. Kopra Jalashay : The first-ever recognized Ramsar Site in the state of Chhattisgarh.<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one pair (Pair 3 is correct)</b><br><br><b>Pair 1 is incorrectly matched (Location Swap Trap):</b> Khichan Wetland is in <b>Rajasthan</b> (Thar desert) and is famous for demoiselle cranes.<br><b>Pair 2 is incorrectly matched:</b> The examiner baits with 'Udaipur' (a famous Rajasthan city), but Udaipur Lake is strictly an <b>oxbow lake in West Champaran, Bihar</b>.<br><b>Pair 3 is correctly matched:</b> Kopra Jalashay is indeed Chhattisgarh's first-ever Ramsar Site.<br><br><i>PYQ Integration:</i> The examiner frequently swaps features of wetlands or exploits deceptive names (like Udaipur Lake) to trap candidates, similar to the 2022 PYQ on wetland mapping.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "New Ramsar Sites",
+    "question": "<b>Under the Ramsar Convention, 'Criterion 9' is used to designate a wetland of international importance based on specific biological parameters. Which of the following best describes Criterion 9?</b>",
+    "options": [
+      "The wetland supports vulnerable, endangered, or critically endangered species or threatened ecological communities.",
+      "The wetland regularly supports 1% of the individuals in a population of one species or subspecies of waterbird.",
+      "The wetland regularly supports 1% of the population of a wetland-dependent non-avian animal species or subspecies.",
+      "The wetland is an important source of food for fishes, spawning ground, nursery, and/or migration path."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: The wetland regularly supports 1% of the population of a wetland-dependent non-avian animal species or subspecies.</b><br><br><b>Explanation:</b> <br>- Criterion 9 strictly mandates that the site regularly supports 1% of the population of a <b>non-avian</b> (non-bird) animal species (like turtles, otters, or specific mammals).<br>- Supporting 1% of a waterbird population is Criterion 6.<br>- Supporting threatened species is Criterion 2.<br>- Serving as an important fish habitat is Criterion 8.<br><br><i>PYQ Integration:</i> Tests the absolute definitions within international conventions, mirroring the 2010 and 2014 PYQs on the exact criteria for the Montreux Record and Ramsar designations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Volcanic Eruptions",
+    "question": "<b>Consider the following statements regarding the relationship between glacial dynamics and volcanic activity:</b><br><br><b>Statement-I:</b> The rapid melting of glaciers and ice caps due to global warming may lead to more frequent and powerful volcanic eruptions.<br><b>Statement-II:</b> When massive ice sheets melt, the lithospheric pressure on the Earth's crust significantly increases, forcing magma violently up through volcanic vents.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> Research indicates that melting ice caps can trigger more volcanic eruptions.<br><b>Statement-II is incorrect (Physical Mechanism Inversion):</b> When ice melts, the pressure on the Earth's crust actually <b>decreases</b> (due to the removal of heavy ice mass), not increases. This decompression melting allows mantle rocks to melt more easily into magma, fueling eruptions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Volcanic Eruptions",
+    "question": "<b>In the context of the climatological impact of volcanic eruptions, consider the following statements:</b><br><br>1. Major volcanic eruptions inject sulfur dioxide into the stratosphere, which combines with water vapor to form sulfuric acid aerosols.<br>2. These volcanic aerosols efficiently trap outgoing long-wave terrestrial radiation, causing an immediate and severe spike in global temperatures.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> Volcanic eruptions release massive amounts of sulfur dioxide, forming sulfuric acid aerosols in the stratosphere.<br><b>Statement 2 is incorrect (Climatological Inversion Trap):</b> These specific aerosols reflect incoming short-wave solar radiation back into space, resulting in a <b>temporary cooling</b> of the Earth's surface (volcanic winter), not an immediate spike in global warming.<br><br><i>PYQ Integration:</i> The 2019 PYQ tested the 'cirrus cloud thinning' and 'sulphate aerosol injection' techniques for reducing global warming. The examiner expects candidates to know that sulphate aerosols cool the earth.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Human-Made Dams Shifted Earth’s Poles",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Since the 19th century, the construction of thousands of massive water reservoirs and dams globally has caused the Earth's rotational poles to shift by nearly one metre.<br><b>Statement-II:</b> The colossal volume of water impounded in these reservoirs has fundamentally altered the Earth's mass distribution, inducing a phenomenon known as True Polar Wander (TPW).<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> Recent research confirms that human-made dams have stored so much water that they have shifted Earth's poles by about 1 metre.<br><b>Statement-II is correct and explains Statement-I:</b> The underlying physical mechanism is True Polar Wander (TPW), which occurs when the redistribution of mass (in this case, vast amounts of water moving from oceans/rivers to stationary terrestrial dams) shifts the Earth's outer surface relative to its rotational axis.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Chenab River",
+    "question": "<b>Consider the following pairs of hydroelectric projects and the rivers they are built upon:</b><br><br><b>Hydroelectric Project : River</b><br>1. Sawalkot : Chenab<br>2. Baglihar : Jhelum<br>3. Dul Hasti : Sutlej<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one pair (Pair 1 is correct)</b><br><br><b>Pair 1 is correctly matched:</b> The Forest Advisory Committee recently approved the Sawalkot Hydroelectric Project on the Chenab River.<br><b>Pair 2 is incorrectly matched:</b> Baglihar Dam is strictly built on the <b>Chenab River</b>, not Jhelum.<br><b>Pair 3 is incorrectly matched:</b> Dul Hasti Power Station is strictly built on the <b>Chenab River</b> in Kishtwar, not Sutlej.<br><br><i>PYQ Integration:</i> Matches the 2009 PYQ format which directly tested the river associated with the Dul Hasti and Baglihar power stations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Chenab River",
+    "question": "<b>The Chenab River, a major tributary of the Indus system, is formed by the confluence of the Chandra and Bhaga rivers. Which of the following glaciers is the primary source feeding this river system?</b>",
+    "options": [
+      "Bandarpunch Glacier",
+      "Bara Shigri Glacier",
+      "Milam Glacier",
+      "Zemu Glacier"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Bara Shigri Glacier</b><br><br><b>Explanation:</b> The Chandra River, which joins the Bhaga to form the Chenab (Chandrabhaga) in the Lahaul and Spiti district of Himachal Pradesh, is primarily fed by the Bara Shigri Glacier.<br><br><i>PYQ Integration:</i> This is a direct extraction from the 2019 CSE PYQ which asked candidates to match glaciers to their respective rivers (Bara Shigri -> Chenab).",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
