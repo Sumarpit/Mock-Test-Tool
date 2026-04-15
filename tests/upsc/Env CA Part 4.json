@@ -1,23 +1,23 @@
 [
   {
     "section": "Environment",
-    "topic": "UNESCO and Seven New Natural Heritage Sites in India",
-    "question": "<b>Consider the following pairs of natural heritage sites recently added to UNESCO's Tentative List and their defining geographical features:</b><br><br><b>Site : Defining Feature</b><br>1. Bhedaghat-Lametaghat : Presence of dinosaur fossils and marble rocks<br>2. Erra Matti Dibbalu : Extensive layered basalt lava flows<br>3. Varkala Cliffs : Unique coastal erosional cliffs adjacent to the Arabian Sea<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "topic": "COPS to Basel, Rotterdam, and Stockholm (BRS) Conventions",
+    "question": "<b>Consider the following pairs of international environmental conventions and their primary mandates:</b><br><br><b>Convention : Objective</b><br>1. Basel Convention : Prior Informed Consent (PIC) procedure for certain hazardous chemicals in international trade.<br>2. Rotterdam Convention : Control of transboundary movements of hazardous wastes and their disposal.<br>3. Stockholm Convention : Elimination or restriction of Persistent Organic Pollutants (POPs).<br><br><b>How many of the pairs given above are correctly matched?</b>",
     "options": [
-      "Only one pair",
-      "Only two pairs",
-      "All three pairs",
-      "None of the pairs"
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
     ],
-    "answer": 1,
-    "explanation": "<b>Correct Answer: Only two pairs</b><br><br><b>Pair 1 is correctly matched:</b> Bhedaghat-Lametaghat in the Narmada Valley (MP) is world-renowned for its marble rocks and significant dinosaur fossil discoveries.<br><b>Pair 2 is incorrectly matched (Geographical Swap Trap):</b> Erra Matti Dibbalu (Andhra Pradesh) is characterized by rare <b>coastal red sand hills</b>, not basalt lava flows. The extensive layered basalt lava flows are strictly the defining feature of the <b>Deccan Traps</b> (Panchgani & Mahabaleshwar, Maharashtra).<br><b>Pair 3 is correctly matched:</b> Varkala Cliffs (Kerala) are uniquely the only place in southern Kerala where cliffs are found immediately adjacent to the sea.<br><br><i>PYQ Integration:</i> The examiner frequently tests micro-geographical features of Heritage Sites, mirroring the 2014 and 2019 PYQs on the exact locations of rock-cut architecture and natural features.",
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Pair 3 is correct)</b><br><br><b>Pair 1 is incorrectly matched (Convention Swap Trap):</b> The Basel Convention strictly deals with the <b>transboundary movements of hazardous wastes</b>, not the PIC procedure.<br><b>Pair 2 is incorrectly matched:</b> The Rotterdam Convention strictly governs the <b>Prior Informed Consent (PIC)</b> procedure for hazardous chemicals and pesticides.<br><b>Pair 3 is correctly matched:</b> The Stockholm Convention strictly targets Persistent Organic Pollutants (POPs).<br><br><i>PYQ Integration:</i> The examiner frequently swaps the core mandates of the BRS conventions, exactly as seen in the 2016 and 2018 CSE PYQs regarding the Cartagena and Nagoya protocols.",
     "marks": 2.0,
     "negative": 0.66
   },
   {
     "section": "Environment",
-    "topic": "UNESCO and Seven New Natural Heritage Sites in India",
-    "question": "<b>With reference to India's UNESCO World Heritage Sites, consider the following statements:</b><br><br>1. India currently possesses the highest number of recognized natural heritage sites in the Asia-Pacific region.<br>2. Khangchendzonga National Park is the only site in India recognized under the 'Mixed' category.<br>3. The Maratha Military Landscapes of India is the most recent addition to India's recognized World Heritage Sites.<br><br><b>How many of the statements given above are correct?</b>",
+    "topic": "COPS to Basel, Rotterdam, and Stockholm (BRS) Conventions",
+    "question": "<b>With reference to the Stockholm Convention on Persistent Organic Pollutants (POPs), consider the following statements:</b><br><br>1. It is a legally binding treaty that mandates the elimination of all chemicals listed under its Annex A.<br>2. In the recent COP-12, the widely used pesticide 'Chlorpyrifos' was amended into Annex A for elimination.<br>3. The convention also strictly governs the transboundary movement of radioactive wastes.<br><br><b>How many of the statements given above are correct?</b>",
     "options": [
       "Only one",
       "Only two",
@@ -25,14 +25,14 @@
       "None"
     ],
     "answer": 1,
-    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect (Data Absolute Trap):</b> India has exactly 7 natural sites out of 44 total recognized sites. It does <b>not</b> hold the highest number of natural sites in the Asia-Pacific (countries like Australia and China have more).<br><b>Statement 2 is correct:</b> Khangchendzonga National Park strictly remains India's only 'Mixed' (Natural + Cultural) World Heritage Site.<br><b>Statement 3 is correct:</b> The Maratha Military Landscapes of India was recognized in 2025 as the most recent addition.<br><br><i>PYQ Integration:</i> Follows the pattern of testing exact categorization (Cultural vs. Natural vs. Mixed) as seen in PYQs related to MAB and UNESCO lists.",
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 2 are correct)</b><br><br><b>Statement 1 is correct:</b> Annex A of the Stockholm Convention strictly mandates the elimination of production and use of listed POPs.<br><b>Statement 2 is correct:</b> At the recent COP-12 (2025), Chlorpyrifos, along with LC-PFCAs and MCCPs, was added to Annex A.<br><b>Statement 3 is incorrect (Jurisdictional Limit Trap):</b> Radioactive waste is explicitly <b>excluded</b> from the scope of both the Stockholm and Basel Conventions.<br><br><i>PYQ Integration:</i> Tests the exact inclusion of chemicals in treaty annexures, mirroring the 2019 PYQ on Carbofuran and Phorate being used as agricultural pesticides.",
     "marks": 2.0,
     "negative": 0.66
   },
   {
     "section": "Environment",
-    "topic": "Cold Desert Biosphere Reserve (CDBR)",
-    "question": "<b>Consider the following statements regarding the Cold Desert Biosphere Reserve (CDBR):</b><br><br><b>Statement-I:</b> It is India’s first high-altitude cold desert ecosystem to be included in the UNESCO World Network of Biosphere Reserves (WNBR).<br><b>Statement-II:</b> To maintain the fragile ecology, the reserve completely prohibits local communities from practicing pastoralism and traditional agriculture.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "topic": "Flue Gas Desulphurisation (FGD)",
+    "question": "<b>Consider the following statements regarding emission control technologies in thermal power plants:</b><br><br><b>Statement-I:</b> A high-level expert committee has recently recommended ending the mandate for universal installation of Flue Gas Desulphurisation (FGD) units in all Indian coal-based thermal power plants.<br><b>Statement-II:</b> Approximately 92% of the coal used in India possesses an extremely high sulphur content, making universal FGD installation technologically redundant.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
     "options": [
       "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
       "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
@@ -40,74 +40,29 @@
       "Statement-I is incorrect but Statement-II is correct"
     ],
     "answer": 2,
-    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> Added in 2025 during the 37th MAB session, CDBR is the 13th Indian site in the WNBR and the first high-altitude cold desert to receive this status.<br><b>Statement-II is incorrect (Absolute Exclusion Trap):</b> Biosphere Reserves explicitly integrate human communities. Local communities in CDBR <b>heavily rely on and are permitted to practice</b> pastoralism (yak and goat herding), limited agriculture (barley), and traditional Sowa Rigpa healing.<br><br><i>PYQ Integration:</i> The examiner routinely uses absolute words like \"completely prohibits\" to create false statements about Protected Areas, similar to the 2012 PYQ on biomass collection in National Parks vs Biosphere Reserves.",
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> The Principal Scientific Adviser-led committee proposed ending the universal FGD mandate, recommending it strictly only for plants using imported/high-sulphur coal (>0.5%).<br><b>Statement-II is incorrect (Material Property Inversion Trap):</b> The reason for ending the mandate is that 92% of Indian coal has a <b>low sulphur content (0.3%-0.5%)</b>, not high sulphur. (Indian coal has high ash, but low sulphur).<br><br><i>PYQ Integration:</i> This directly integrates the 2013 PYQ absolute fact (Indian coal has high ash, low sulphur) with current regulatory shifts.",
     "marks": 2.0,
     "negative": 0.66
   },
   {
     "section": "Environment",
-    "topic": "Cold Desert Biosphere Reserve (CDBR)",
-    "question": "<b>Which of the following protected areas are encompassed within the geographical boundaries of the Cold Desert Biosphere Reserve (CDBR)?</b><br><br>1. Pin Valley National Park<br>2. Hemis National Park<br>3. Chandratal Wetland<br>4. Kibber Wildlife Sanctuary<br><br><b>Select the correct answer using the code given below:</b>",
+    "topic": "Flue Gas Desulphurisation (FGD)",
+    "question": "<b>Consider the following pairs of emission control technologies and their primary target pollutants in thermal power plants:</b><br><br><b>Technology : Target Pollutant</b><br>1. Selective Catalytic Reduction (SCR) : Nitrogen Oxides (NOx)<br>2. Electrostatic Precipitators (ESPs) : Particulate Matter (PM)<br>3. Flue Gas Desulphurisation (FGD) : Carbon Dioxide (CO2)<br><br><b>How many of the pairs given above are correctly matched?</b>",
     "options": [
-      "1, 2 and 3 only",
-      "1, 3 and 4 only",
-      "2, 3 and 4 only",
-      "1, 2, 3 and 4"
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
     ],
     "answer": 1,
-    "explanation": "<b>Correct Answer: 1, 3 and 4 only</b><br><br><b>Explanation:</b> The CDBR (located in Himachal Pradesh) encompasses Pin Valley National Park, Kibber Wildlife Sanctuary, Chandratal Wetland (Ramsar Site), and the Sarchu Plains. <b>Hemis National Park (Trap)</b> is located in Ladakh and is strictly outside the CDBR boundaries.<br><br><i>PYQ Integration:</i> Matches the 2019 PYQ format which asked candidates to identify the exact sanctuaries located within the Agasthyamala Biosphere Reserve.",
+    "explanation": "<b>Correct Answer: Only two (Pairs 1 and 2 are correct)</b><br><br><b>Pair 1 is correctly matched:</b> SCR is strictly used to reduce NOx emissions.<br><b>Pair 2 is correctly matched:</b> ESPs are utilized to remove Particulate Matter (PM).<br><b>Pair 3 is incorrectly matched (Pollutant Swap Trap):</b> FGD systems are strictly designed to remove <b>Sulphur Dioxide (SO2)</b> from flue gases, not Carbon Dioxide. Carbon Capture & Storage (CCS) is used for CO2.<br><br><i>PYQ Integration:</i> Standard UPSC matching trap seen in 2011 and 2014 PYQs targeting specific pollutants emitted from coal combustion.",
     "marks": 2.0,
     "negative": 0.66
   },
   {
     "section": "Environment",
-    "topic": "Synchronous All India Elephant Estimation (SAIEE) 2021-25",
-    "question": "<b>With reference to the Synchronous All India Elephant Estimation (SAIEE) 2021-25, consider the following statements:</b><br><br>1. It marks India's first-ever nationwide population estimation of Asian elephants relying exclusively on the traditional direct sighting and dung-decay count methods.<br>2. The Asian Elephant is listed as 'Endangered' on the IUCN Red List and receives the highest legal protection under Schedule I of the Wildlife (Protection) Act, 1972.<br><br><b>Which of the statements given above is/are correct?</b>",
-    "options": [
-      "1 only",
-      "2 only",
-      "Both 1 and 2",
-      "Neither 1 nor 2"
-    ],
-    "answer": 1,
-    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Methodology Trap):</b> The SAIEE 2021-25 is explicitly noted as India’s <b>first-ever DNA-based</b> population estimation of the Asian elephant, marking a shift away from relying solely on traditional dung-count and direct sighting methods.<br><b>Statement 2 is correct:</b> The Asian Elephant (<i>Elephas maximus</i>) is strictly categorized as Endangered (IUCN), Appendix I (CITES), and Schedule I (WPA, 1972).<br><br><i>PYQ Integration:</i> The examiner frequently tests the exact methodology used in wildlife censuses, as seen with M-STrIPES for tigers in 2017.",
-    "marks": 2.0,
-    "negative": 0.66
-  },
-  {
-    "section": "Environment",
-    "topic": "Synchronous All India Elephant Estimation (SAIEE) 2021-25",
-    "question": "<b>Which of the following physical and behavioral traits strictly distinguishes the female Asian Elephant from the male Asian Elephant?</b>",
-    "options": [
-      "The females possess twin-domed heads, whereas males have a single-domed head.",
-      "The females are completely solitary, whereas males form strongly bonded matriarchal herds.",
-      "The females lack prominent tusks or possess very small ones (tushes), significantly reducing their poaching vulnerability for ivory.",
-      "The females primarily consume a carnivorous diet of insects and small reptiles during gestation."
-    ],
-    "answer": 2,
-    "explanation": "<b>Correct Answer: The females lack prominent tusks or possess very small ones (tushes), significantly reducing their poaching vulnerability for ivory.</b><br><br><b>Explanation:</b> In Asian elephants, prominent tusks are strictly found only in males. Females either lack them entirely or have very small ones called tushes. (Unlike African elephants, where both sexes typically have tusks). Both sexes have twin-domed heads, and it is the females that form matriarchal herds, not the males.<br><br><i>PYQ Integration:</i> Direct extension of the 2020 PYQ which tested the gestation period and matriarchal herd structure of Indian elephants.",
-    "marks": 2.0,
-    "negative": 0.66
-  },
-  {
-    "section": "Environment",
-    "topic": "Environmental Accounting on Forest 2025",
-    "question": "<b>Consider the following statements regarding the publication \"EnviStats India 2025: Environmental Accounting on Forest\":</b><br><br>1. It is released by the Ministry of Environment, Forest and Climate Change (MoEFCC) to assess the carbon sequestration of Indian forests.<br>2. It presents national and state-level forest accounts strictly aligned with the UN System of Environmental-Economic Accounting (SEEA) framework.<br><br><b>Which of the statements given above is/are correct?</b>",
-    "options": [
-      "1 only",
-      "2 only",
-      "Both 1 and 2",
-      "Neither 1 nor 2"
-    ],
-    "answer": 1,
-    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Nodal Ministry Swap Trap):</b> The examiner relies on the keyword \"Forest\" to bait candidates toward MoEFCC. The EnviStats India 2025 publication is strictly released by the <b>Ministry of Statistics & Programme Implementation (MoSPI)</b>.<br><b>Statement 2 is correct:</b> The publication represents India's first dedicated forest accounting aligned with the UN SEEA framework (adopted by MoSPI in 2018).<br><br><i>PYQ Integration:</i> Ministry swap traps are the examiner's favorite tool, analogous to the 2014 PYQ swapping the ministries for DPAP and DDP.",
-    "marks": 2.0,
-    "negative": 0.66
-  },
-  {
-    "section": "Environment",
-    "topic": "Blue Flag Certification",
-    "question": "<b>With reference to the 'Blue Flag' Certification recently awarded to five beaches in Maharashtra, consider the following statements:</b><br><br>1. The certification is awarded by the United Nations Environment Programme (UNEP) based on strict environmental and safety criteria.<br>2. In India, the program is implemented under the Beach Environment & Aesthetic Management Services (BEAMS) initiative.<br>3. India currently holds the highest number of Blue Flag certified sites globally.<br><br><b>How many of the statements given above are correct?</b>",
+    "topic": "Global Methane Tracker 2025",
+    "question": "<b>With reference to the 'Global Methane Tracker 2025' and global methane emissions, consider the following statements:</b><br><br>1. The Global Methane Tracker is an annual assessment published by the United Nations Environment Programme (UNEP).<br>2. India is currently the world's largest emitter of methane due to its extensive paddy cultivation and livestock population.<br>3. India is not a signatory to the Global Methane Pledge launched at the UNFCCC COP26.<br><br><b>How many of the statements given above are correct?</b>",
     "options": [
       "Only one",
       "Only two",
@@ -115,89 +70,59 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>Statement 1 is incorrect (Nodal Agency Trap):</b> The Blue Flag certification is strictly awarded by the <b>Foundation for Environmental Education (FEE)</b>, a non-governmental organization based in Denmark, not by UNEP.<br><b>Statement 2 is correct:</b> It is implemented in India under the BEAMS initiative of the MoEFCC.<br><b>Statement 3 is incorrect (Data Absolute Trap):</b> As of October 2025, India has 18 sites. <b>Spain</b> tops the global list with 729 certified sites, not India.<br><br><i>PYQ Integration:</i> Evaluates the precise awarding body of eco-labels, similar to the 2016 PYQ on the Bureau of Energy Efficiency Star Label.",
+    "explanation": "<b>Correct Answer: Only one (Statement 3 is correct)</b><br><br><b>Statement 1 is incorrect (Institutional Parentage Trap):</b> The Global Methane Tracker is strictly released by the <b>International Energy Agency (IEA)</b>, not UNEP.<br><b>Statement 2 is incorrect (Ranking Trap):</b> While India is a major emitter, it ranks <b>fourth</b> globally (emitting about one-third of China's levels). The top three are China, Russia, and the USA.<br><b>Statement 3 is correct:</b> India has explicitly chosen not to join the U.S.-E.U.-led Global Methane Pledge, which aims for a 30% reduction by 2030.<br><br><i>PYQ Integration:</i> Mirrors the 2022 PYQ on Climate Action Tracker (database by coalition of research orgs, not IPCC) and tests absolute memberships in global pledges.",
     "marks": 2.0,
     "negative": 0.66
   },
   {
     "section": "Environment",
-    "topic": "Ministry of Environment’s Multiple Initiatives",
-    "question": "<b>Consider the following pairs of specific wildlife conservation initiatives and their target species traits:</b><br><br><b>Initiative : Associated Species Trait</b><br>1. Project Sloth Bear : Myrmecophagous diet (feeds on termites and ants) and carries cubs on its back<br>2. Project Gharial : Male possesses a bulbous snout structure ('ghara') acting as a vocal resonator<br>3. Project Dolphin : Exclusively marine cetacean completely intolerant to freshwater rivers<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "topic": "Intergovernmental Science-Policy Panel on Chemicals, Waste and Pollution",
+    "question": "<b>Which of the following bodies was recently established under the auspices of UNEP to serve as the third major global science-policy interface, operating alongside the IPCC and IPBES?</b>",
     "options": [
-      "Only one pair",
-      "Only two pairs",
-      "All three pairs",
-      "None of the pairs"
+      "Global Alliance for Climate-Smart Agriculture (GACSA)",
+      "Intergovernmental Science-Policy Panel on Chemicals, Waste and Pollution (ISP-CWP)",
+      "Partnership for Action on Green Economy (PAGE)",
+      "Scientific and Technical Review Panel (STRP)"
     ],
     "answer": 1,
-    "explanation": "<b>Correct Answer: Only two pairs (Pairs 1 and 2 are correct)</b><br><br><b>Pair 1 is correctly matched:</b> Sloth bears are unique for their myrmecophagous diet (termites/ants) and the behavior of carrying cubs on their backs.<br><b>Pair 2 is correctly matched:</b> The male Gharial is distinctly identified by the bulbous growth on its snout ('ghara').<br><b>Pair 3 is incorrectly matched (Habitat Exclusion Trap):</b> Project Dolphin explicitly covers <b>both marine and riverine (freshwater)</b> cetaceans, including the freshwater Ganges River Dolphin and Indus River Dolphin.<br><br><i>PYQ Integration:</i> Follows the pattern of testing deep behavioral traits and feeding habits of flagship species (e.g., 2021 PYQ on filter feeders, detritivores).",
+    "explanation": "<b>Correct Answer: Intergovernmental Science-Policy Panel on Chemicals, Waste and Pollution (ISP-CWP)</b><br><br><b>Explanation:</b> Established in June 2025 under UNEP, the ISP-CWP is designed to act as an independent intergovernmental bridge between science and policymaking specifically for hazardous substances, waste, and pollution. It forms the triad of major science-policy panels globally, complementing the IPCC (climate) and IPBES (biodiversity).<br><br><i>PYQ Integration:</i> Directly tests the identification of new global environmental architecture, similar to the 2018 PYQ on the PAGE initiative.",
     "marks": 2.0,
     "negative": 0.66
   },
   {
     "section": "Environment",
-    "topic": "Ministry of Environment’s Multiple Initiatives",
-    "question": "<b>The newly established 'Centre of Excellence for Human-Wildlife Conflict Management (CoE-HWC)' has been set up at which of the following institutions?</b>",
-    "options": [
-      "Wildlife Institute of India (WII), Dehradun",
-      "National Tiger Conservation Authority (NTCA), New Delhi",
-      "Salim Ali Centre for Ornithology and Natural History (SACON), Coimbatore",
-      "Indian Council of Forestry Research and Education (ICFRE), Dehradun"
-    ],
-    "answer": 2,
-    "explanation": "<b>Correct Answer: Salim Ali Centre for Ornithology and Natural History (SACON), Coimbatore</b><br><br><b>Explanation:</b> The Ministry of Environment established the CoE-HWC specifically at SACON to support policy formulation, research, and field-level mitigation of human-wildlife conflicts across India. Examiners often use WII as a highly plausible decoy.<br><br><i>PYQ Integration:</i> Directly tests Institutional Headquarters mapping, mirroring CDS 1 2026 traps on ICFRE regional institutes.",
-    "marks": 2.0,
-    "negative": 0.66
-  },
-  {
-    "section": "Environment",
-    "topic": "#23for23 Initiative",
-    "question": "<b>With reference to the '#23for23 Initiative', consider the following statements:</b><br><br>1. It was launched to promote the protection of the Snow Leopard and fragile high-altitude ecosystems.<br>2. The initiative marks India's withdrawal from the Global Snow Leopard and Ecosystem Protection Programme (GSLEP).<br>3. According to the recent Snow Leopard Population Assessment in India (SPAI), the highest number of snow leopards was recorded in the state of Himachal Pradesh.<br><br><b>How many of the statements given above are correct?</b>",
-    "options": [
-      "Only one",
-      "Only two",
-      "All three",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "<b>Correct Answer: Only one (Statement 1 is correct)</b><br><br><b>Statement 1 is correct:</b> Launched on Int'l Snow Leopard Day (Oct 23, 2025).<br><b>Statement 2 is incorrect (Geopolitical Trap):</b> It actively <b>reaffirms and complements</b> India's commitment to the GSLEP (a coalition of 12 range countries), not a withdrawal.<br><b>Statement 3 is incorrect (Location Data Trap):</b> The SPAI documented 718 snow leopards, with the highest numbers recorded strictly in the Union Territory of <b>Ladakh</b>, not Himachal Pradesh.<br><br><i>PYQ Integration:</i> Similar to the 2020 PYQ demanding knowledge of the exact state hosting the largest population of elephants (Kerala vs. Karnataka).",
-    "marks": 2.0,
-    "negative": 0.66
-  },
-  {
-    "section": "International Relations",
-    "topic": "IUCN World Conservation Congress",
-    "question": "<b>Consider the following statements regarding the 2025 IUCN World Conservation Congress held in Abu Dhabi:</b><br><br>1. The Congress formally recognized deliberate, large-scale environmental destruction (Ecocide) as an international crime.<br>2. It adopted the first global policy regulating the use of Synthetic Biology in conservation.<br>3. The resolutions passed by the IUCN Congress carry binding legal obligations enforceable by the United Nations Security Council.<br><br><b>How many of the statements given above are correct?</b>",
-    "options": [
-      "Only one",
-      "Only two",
-      "All three",
-      "None"
-    ],
-    "answer": 1,
-    "explanation": "<b>Correct Answer: Only two (Statements 1 and 2 are correct)</b><br><br><b>Statement 1 is correct:</b> A landmark outcome of the 2025 Congress was recognizing the Crime of Ecocide, to be prosecuted under the International Criminal Court (ICC).<br><b>Statement 2 is correct:</b> It adopted the first global policy on synthetic biology in conservation, recognizing both benefits and risks.<br><b>Statement 3 is incorrect (Jurisdiction Trap):</b> IUCN is a non-governmental organization (though it holds UN observer status). Its resolutions are influential but strictly <b>non-binding</b> and cannot be enforced by the UN Security Council.<br><br><i>PYQ Integration:</i> Consistently tests the binding vs non-binding nature of environmental agreements (e.g., 2015 PYQ on CITES and IUCN).",
-    "marks": 2.0,
-    "negative": 0.66
-  },
-  {
-    "section": "Environment",
-    "topic": "IUCN Green Status of Species",
-    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The recently introduced 'IUCN Green Status of Species' measures how close a species is to full recovery using a percentage score.<br><b>Statement-II:</b> The Green Status replaces the IUCN Red List by shifting global conservation focus entirely away from extinction risk metrics.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "topic": "Microplastics",
+    "question": "<b>Consider the following statements regarding 'Microplastics':</b><br><br><b>Statement-I:</b> Primary microplastics are generated exclusively through the photodegradation and mechanical wear of larger plastic debris like bottles and packaging.<br><b>Statement-II:</b> Microplastics are non-biodegradable particles measuring strictly less than five millimetres in length.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
     "options": [
       "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
       "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
       "Statement-I is correct but Statement-II is incorrect",
       "Statement-I is incorrect but Statement-II is correct"
     ],
-    "answer": 2,
-    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> The Green Status measures recovery using a Green Score from 0 to 100%.<br><b>Statement-II is incorrect (Replacement Trap):</b> The Green Status <b>does not replace</b> the Red List. It explicitly <b>works alongside</b> the Red List. While the Red List assesses extinction risk, the Green Status assesses recovery potential, providing a dual metric for conservationists.<br><br><i>PYQ Integration:</i> The S1/S2 format frequently tests if a new initiative outright \"replaces\" an old one, which is rarely true in global environmental governance.",
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect (Definitional Inversion Trap):</b> The examiner has swapped definitions. <b>Secondary microplastics</b> result from the breakdown of larger plastics. <b>Primary microplastics</b> are intentionally manufactured at a tiny size for use in cosmetics, toothpaste, and industrial applications.<br><b>Statement-II is correct:</b> By absolute definition, microplastics are plastic fragments measuring less than 5 mm.<br><br><i>PYQ Integration:</i> A direct extension of the 2019 PYQ on microbeads in cosmetics, testing the strict scientific classification of microplastics.",
     "marks": 2.0,
     "negative": 0.66
   },
   {
     "section": "Environment",
-    "topic": "Dugong Conservation Reserve",
-    "question": "<b>With reference to the Dugong, consider the following statements:</b><br><br>1. It is the only fully marine herbivorous mammal found in India.<br>2. India's first Dugong Conservation Reserve, recently recognized by the IUCN, is located in the Gulf of Kutch.<br>3. It is legally protected under Schedule I of the Wildlife (Protection) Act, 1972.<br><br><b>How many of the statements given above are correct?</b>",
+    "topic": "EPR Framework for Non-Ferrous Metals",
+    "question": "<b>With reference to the Extended Producer Responsibility (EPR) framework for non-ferrous metals notified in 2025, consider the following statements:</b><br><br>1. It mandates the phased recycling of non-ferrous metals specifically including aluminium, copper, and zinc.<br>2. The certificates generated under this framework are strictly non-tradable to prevent market monopolization.<br>3. The Bureau of Indian Standards (BIS) acts as the nodal implementation agency operating the centralized online registration portal.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 1 is correct)</b><br><br><b>Statement 1 is correct:</b> The 2025 rules introduce EPR obligations targeting non-ferrous metals like aluminium, copper, zinc, and their alloys.<br><b>Statement 2 is incorrect (Market Mechanism Trap):</b> EPR certificates are explicitly <b>tradable</b> among producers to help them fulfill their recycling targets.<br><b>Statement 3 is incorrect (Nodal Agency Trap):</b> The <b>Central Pollution Control Board (CPCB)</b> is the nodal agency operating the portal and monitoring compliance. BIS only revises the quality standards.<br><br><i>PYQ Integration:</i> UPSC heavily tests the nodal agencies and tradability of environmental certificates (e.g., Energy Saving Certificates under PAT, 2019 PYQ on EPR for E-Waste).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Ethanol Blending",
+    "question": "<b>Consider the following statements regarding Ethanol and its blending in India:</b><br><br>1. Ethanol (C2H5OH) is a renewable biofuel obtained primarily through the fermentation of sugar or starch-rich crops.<br>2. To rapidly accelerate the National Ethanol Blending Programme, the Goods and Services Tax (GST) on fuel-grade ethanol has been completely abolished.<br>3. The Industries (Development and Regulation) Act, 1951 was amended to facilitate the free inter-state movement of ethanol.<br><br><b>How many of the statements given above are correct?</b>",
     "options": [
       "Only one",
       "Only two",
@@ -205,14 +130,89 @@
       "None"
     ],
     "answer": 1,
-    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3 are correct)</b><br><br><b>Statement 1 is correct:</b> Dugongs (sea cows) are the only fully marine herbivorous mammals in India, feeding on seagrass meadows.<br><b>Statement 2 is incorrect (Geographical Mapping Trap):</b> India’s first Dugong Conservation Reserve is strictly located in <b>Palk Bay</b> (Tamil Nadu), not the Gulf of Kutch (though a small population exists in Kutch).<br><b>Statement 3 is correct:</b> It receives the highest legal protection under Schedule I of the WPA, 1972.<br><br><i>PYQ Integration:</i> Direct follow-up to the 2015 PYQ on Dugongs, escalating the difficulty by testing the exact location of the new conservation reserve.",
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3 are correct)</b><br><br><b>Statement 1 is correct:</b> Ethanol is a renewable ethyl alcohol derived from crops like sugarcane, maize, and rice.<br><b>Statement 2 is incorrect (Fiscal Absolute Trap):</b> While the government incentivizes ethanol, the GST has <b>not</b> been completely abolished. It remains taxed at a rate of <b>18%</b>.<br><b>Statement 3 is correct:</b> The IDRA 1951 was amended to remove regulatory bottlenecks and allow seamless supply across states.<br><br><i>PYQ Integration:</i> The examiner frequently tests GST exemptions and tax logic on critical commodities (e.g., 2018 PYQ on exempted goods under GST).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Landslides",
+    "question": "<b>In the context of geomorphology and mass-wasting processes, match the following types of landslides with their correct descriptions:</b><br><br><b>Type : Description</b><br>1. Falls : Forward tilting of rock blocks due to gravity without immediate collapse.<br>2. Topples : Sudden free descent of earth material from a cliff or steep slope.<br>3. Slides : Downslope movement of material occurring along a distinct flat or curved slip surface.<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Pair 3 is correct)</b><br><br><b>Pair 1 is incorrectly matched (Definition Swap Trap):</b> 'Falls' strictly refers to the <b>sudden free fall</b> of material (e.g., rockfalls), not forward tilting.<br><b>Pair 2 is incorrectly matched:</b> 'Topples' strictly refers to the <b>forward tilting</b> of rock blocks due to gravity.<br><b>Pair 3 is correctly matched:</b> 'Slides' involve mass movement along a rupture surface, which can be translational (flat) or rotational (curved).<br><br><i>PYQ Integration:</i> The examiner tests strict geomorphological definitions, similar to the 2013 and 2024 PYQs on soil erosion types and weathering mechanisms.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "District Flood Severity Index (DFSI)",
+    "question": "<b>With reference to the newly developed District Flood Severity Index (DFSI), consider the following statements:</b><br><br>1. It is developed exclusively by the National Disaster Management Authority (NDMA) to map nationwide flood damages.<br>2. It uses the 'District' as its primary focus unit because it is the main administrative unit responsible for planning under the Disaster Management Act, 2005.<br>3. It integrates both physical geographic flood parameters and human impacts such as total deaths and population exposure.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>Statement 1 is incorrect (Institutional Origin Trap):</b> The DFSI was developed by researchers from <b>IIT Delhi and IIT Gandhinagar</b>, specifically to fill a gap left by national agencies like NDMA and CWC.<br><b>Statement 2 is correct:</b> The district is the designated planning unit under the Disaster Management Act, 2005.<br><b>Statement 3 is correct:</b> The index is unique because it combines physical models (ILDAS) with human impact databases (IFI-Impacts).",
     "marks": 2.0,
     "negative": 0.66
   },
   {
     "section": "Environment",
-    "topic": "Central Asian Mammals Initiative (CAMI)",
-    "question": "<b>With reference to the Central Asian Mammals Initiative (CAMI), consider the following statements:</b><br><br>1. It is a framework for coordinated action established under the Convention on International Trade in Endangered Species (CITES).<br>2. The Snow Leopard is included under this initiative despite not being a migratory species in the classical sense.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "topic": "Swachh Vayu Survekshan’ (Clean Air Survey) 2025",
+    "question": "<b>Consider the following statements regarding the Swachh Vayu Survekshan (SVS) 2025:</b><br><br>1. It operates under the mandate of the National Clean Air Programme (NCAP) which targets a 40% reduction in particulate matter by 2026.<br>2. The methodological assessment and on-ground verification of city performance are strictly executed by the NITI Aayog.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> SVS is an annual survey under NCAP, which has enhanced its original target to aim for a 40% reduction in PM2.5 and PM10 levels by 2026 (baseline 2017).<br><b>Statement 2 is incorrect (Nodal Agency Trap):</b> The methodology and field verification are strictly executed by the <b>Central Pollution Control Board (CPCB)</b>, while policy oversight remains with the MoEFCC. NITI Aayog is not the implementing body.<br><br><i>PYQ Integration:</i> Similar to the 2018 PYQ distinguishing the statutory roles of NGT vs. CPCB, testing exact implementing agencies of environmental indices.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ozone Pollution",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Ground-level ozone (tropospheric ozone) is directly emitted into the atmosphere by automobile exhausts and industrial smokestacks.<br><b>Statement-II:</b> Ground-level ozone acts as a severe air pollutant that can trigger asthma, reduce lung function, and damage crop yields.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect (Primary vs Secondary Pollutant Trap):</b> Ground-level ozone is strictly a <b>secondary pollutant</b>. It is <b>not</b> emitted directly into the air. It forms chemically when Nitrogen Oxides (NOx) and Volatile Organic Compounds (VOCs) react in the presence of sunlight.<br><b>Statement-II is correct:</b> Tropospheric ozone is a highly reactive gas that causes severe respiratory issues and inhibits plant photosynthesis.<br><br><i>PYQ Integration:</i> The 2013 PYQ tested the exact mechanism of Photochemical Smog (NO2, O3, PAN reacting in sunlight). This statement explicitly tests the secondary nature of Ozone.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Green Fireworks",
+    "question": "<b>The Supreme Court of India permits the use of 'Green Fireworks' developed under the TAPFIRE project. In this context, consider the following pairs of green crackers and their emission-reduction mechanisms:</b><br><br><b>Green Cracker : Mechanism</b><br>1. SWAS : Releases water vapour to suppress dust and particulate matter.<br>2. STAR : Uses a thermite reaction to create less smoke and minimize NOx/SO2.<br>3. SAFAL : Completely eliminates the use of barium nitrate and potassium nitrate.<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Pairs 1 and 2 are correct)</b><br><br><b>Pair 1 is correctly matched:</b> SWAS (Safe Water Releaser) suppresses dust by releasing water vapour.<br><b>Pair 2 is correctly matched:</b> STAR (Safe Thermite Cracker) uses thermite to reduce smoke and noxious gases.<br><b>Pair 3 is incorrectly matched (Chemical Absolute Trap):</b> SAFAL (Safe Minimal Aluminium) achieves emission reduction by <b>reducing aluminium content</b>. It does not completely eliminate barium or potassium nitrate in its standard definition.<br><br><i>PYQ Integration:</i> Tests the exact chemical mechanics behind green tech, similar to the 2016 PYQ on why Neem-coated urea is used (slowing dissolution rate).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Montreal Protocol",
+    "question": "<b>With reference to the Kigali Amendment to the Montreal Protocol, consider the following statements:</b><br><br>1. It was introduced strictly to phase out Hydrofluorocarbons (HFCs) because they severely deplete the stratospheric ozone layer.<br>2. It introduced legally binding targets for developing countries like India to reduce HFC use by the 2040s.<br><br><b>Which of the statements given above is/are correct?</b>",
     "options": [
       "1 only",
       "2 only",
@@ -220,67 +220,37 @@
       "Neither 1 nor 2"
     ],
     "answer": 1,
-    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Treaty Swap Trap):</b> CAMI is established strictly under the <b>Convention on Migratory Species (CMS)</b>, also known as the Bonn Convention, not CITES.<br><b>Statement 2 is correct:</b> The Snow leopard is not classically migratory (it moves altitudinally rather than on long latitudinal routes) but is included in CAMI explicitly due to its large transboundary range across multiple nations.<br><br><i>PYQ Integration:</i> The examiner tests exceptions. If a convention is for \"Migratory Species,\" placing a non-classically migratory species in it is a prime trap.",
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Chemical Property Trap):</b> HFCs do <b>not</b> deplete the ozone layer (they have zero Ozone Depleting Potential). They were brought under the Montreal Protocol strictly because they are extremely potent <b>Greenhouse Gases</b> (high Global Warming Potential).<br><b>Statement 2 is correct:</b> The Kigali Amendment mandates legally binding targets to phase down HFCs by 80-85% by the 2040s, enforcing differentiated timelines for developed and developing countries.<br><br><i>PYQ Integration:</i> The 2015 PYQ directly tested the Montreal Protocol's association with ODS. The examiner frequently exploits the difference between ODS and GHGs.",
     "marks": 2.0,
     "negative": 0.66
   },
   {
     "section": "Environment",
-    "topic": "Vultures",
-    "question": "<b>Consider the following pairs of Vulture species found in India and their IUCN Red List status:</b><br><br><b>Vulture Species : IUCN Status</b><br>1. Red-headed Vulture : Critically Endangered<br>2. Egyptian Vulture : Least Concern<br>3. Griffon Vulture : Near Threatened<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "topic": "Minamata Convention",
+    "question": "<b>Which one of the following international environmental treaties recently mandated the complete phase-out of 'dental amalgam' by the year 2034 due to its severe neurotoxic risks?</b>",
     "options": [
-      "Only one pair",
-      "Only two pairs",
-      "All three pairs",
-      "None of the pairs"
+      "Stockholm Convention",
+      "Basel Convention",
+      "Minamata Convention",
+      "Rotterdam Convention"
     ],
-    "answer": 0,
-    "explanation": "<b>Correct Answer: Only one pair (Pair 1 is correct)</b><br><br><b>Pair 1 is correctly matched:</b> The Red-headed Vulture is Critically Endangered.<br><b>Pair 2 is incorrectly matched:</b> The Egyptian Vulture is officially listed as <b>Endangered</b>.<br><b>Pair 3 is incorrectly matched:</b> The Griffon Vulture is officially listed as <b>Least Concern</b> (the Himalayan Griffon is Near Threatened).<br><br><i>PYQ Integration:</i> A brutal evolution of the 2012 PYQ on Vulture decline. The examiner expects you to map exact IUCN statuses for individual species within a family rather than treating them uniformly.",
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Minamata Convention</b><br><br><b>Explanation:</b> At the Sixth Conference of the Parties (COP-6) held in Geneva, the Minamata Convention on Mercury explicitly decided to phase out the use of mercury-containing dental amalgam by 2034 to protect human health and the environment from mercury toxicity.<br><br><i>PYQ Integration:</i> This follows the exact format of the 2015 and 2016 PYQs where a specific industrial/chemical ban was linked to its parent international treaty.",
     "marks": 2.0,
     "negative": 0.66
   },
   {
-    "section": "Environment",
-    "topic": "India-Botswana Cheetah Translocation Pact",
-    "question": "<b>Consider the following statements regarding 'Project Cheetah' in India:</b><br><br>1. It was launched to reintroduce the Asiatic Cheetah, which went extinct in India in 1952.<br>2. Under the project, cheetahs have been officially translocated to India from Namibia, South Africa, and Botswana.<br>3. The project is being actively implemented and monitored by the Wildlife Institute of India (WII).<br><br><b>How many of the statements given above are correct?</b>",
-    "options": [
-      "Only one",
-      "Only two",
-      "All three",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>Statement 1 is incorrect (Species Parentage Trap):</b> The Asiatic cheetah went extinct in India in 1952, but Project Cheetah strictly involves the introduction of the <b>African Cheetah</b>, making it the world's first intercontinental large wild carnivore translocation.<br><b>Statement 2 is correct:</b> Cheetahs were brought from Namibia (2022), South Africa (2023), and a pact was recently signed with Botswana.<br><b>Statement 3 is incorrect (Implementing Agency Trap):</b> The project is strictly implemented and monitored by the <b>National Tiger Conservation Authority (NTCA)</b>, not WII.<br><br><i>PYQ Integration:</i> The \"Implementing Agency\" trap is a staple (e.g., NGT vs CPCB). NTCA's role expanding beyond tigers to cheetahs is a highly testable anomaly.",
-    "marks": 2.0,
-    "negative": 0.66
-  },
-  {
-    "section": "Environment",
-    "topic": "Freshwater Sponge and Microbes",
-    "question": "<b>In the context of freshwater ecosystems, the symbiotic relationship between freshwater sponges (like <i>Ephydatia</i>) and microbes (bacteria, archaea, fungi) primarily serves to:</b>",
-    "options": [
-      "Enable the sponge to perform photosynthesis in dark, subterranean cave waters.",
-      "Strengthen the sponge's ability to tolerate environmental stress and support its survival.",
-      "Convert the sponge from a sessile organism to a free-swimming predator.",
-      "Generate calcium carbonate to form hard, coral-like reef structures in rivers."
-    ],
-    "answer": 1,
-    "explanation": "<b>Correct Answer: Strengthen the sponge's ability to tolerate environmental stress and support its survival.</b><br><br><b>Explanation:</b> According to recent research, the microbiome (bacteria, archaea, fungi) living within the freshwater sponge forms a symbiotic relationship that strictly supports the sponge’s survival and bolsters its ability to tolerate environmental stress (like pollution or temperature changes). It does not grant photosynthesis, mobility, or reef-building capabilities.<br><br><i>PYQ Integration:</i> Symbiosis is a high-frequency PYQ topic (e.g., 2014 PYQ on Lichens, 2021 PYQ on Cnidarians and Fungi).",
-    "marks": 2.0,
-    "negative": 0.66
-  },
-  {
-    "section": "Environment",
-    "topic": "Great Indian Bustard",
-    "question": "<b>Consider the following statements regarding the Great Indian Bustard (GIB):</b><br><br>1. It is endemic to the Indian subcontinent and is the State bird of Rajasthan.<br>2. It is strictly a vegetarian bird, feeding exclusively on crops and wild grass seeds.<br>3. Collision with overhead power transmission lines is currently one of the greatest threats to its survival.<br><br><b>How many of the statements given above are correct?</b>",
+    "section": "Governance",
+    "topic": "Dumpsite Remediation Accelerator Programme (DRAP)",
+    "question": "<b>With reference to the Dumpsite Remediation Accelerator Programme (DRAP), consider the following statements:</b><br><br>1. It is a mission-mode initiative launched by the Ministry of Environment, Forest and Climate Change (MoEFCC).<br>2. It exclusively targets legacy dumpsites containing over 1,00,000 metric tonnes of waste across all Indian states.<br>3. It aims to achieve the national target of 'Lakshya Zero Dumpsites' by September 2026.<br><br><b>How many of the statements given above are correct?</b>",
     "options": [
       "Only one",
       "Only two",
       "All three",
       "None"
     ],
-    "answer": 1,
-    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3 are correct)</b><br><br><b>Statement 1 is correct:</b> The GIB is endemic to the Indian subcontinent and is Rajasthan's State bird.<br><b>Statement 2 is incorrect (Dietary Absolute Trap):</b> The GIB is an <b>omnivore</b>. It feeds on grass seeds, insects (like grasshoppers and beetles), and occasionally small rodents and reptiles.<br><b>Statement 3 is correct:</b> The Supreme Court recently issued orders emphasizing the undergrounding of power lines in priority areas (like the Desert National Park) because collisions with these lines are a primary mortality cause due to their poor frontal vision.<br><br><i>PYQ Integration:</i> The GIB is a frequent target (2012, 2020 PYQs). Testing precise dietary restrictions and the exact nature of the anthropogenic threat (power lines) is the next evolution.",
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 3 is correct)</b><br><br><b>Statement 1 is incorrect (Nodal Ministry Swap Trap):</b> DRAP is launched under the Swachh Bharat Mission-Urban 2.0, making it strictly an initiative of the <b>Ministry of Housing and Urban Affairs (MoHUA)</b>, not the MoEFCC.<br><b>Statement 2 is incorrect (Threshold & Geography Trap):</b> Priority is given to sites with over <b>45,000 MT</b> of legacy waste, not 1,00,000 MT. Furthermore, <b>no minimum threshold</b> applies to Union Territories and North-Eastern States.<br><b>Statement 3 is correct:</b> The core objective is to fast-track remediation to achieve 'Lakshya Zero Dumpsites' by September 2026.<br><br><i>PYQ Integration:</i> A classic governance trap where the examiner swaps the nodal ministry (similar to the 2014 PYQ on Desert Development Programme) and alters quantitative thresholds.",
     "marks": 2.0,
     "negative": 0.66
   }
