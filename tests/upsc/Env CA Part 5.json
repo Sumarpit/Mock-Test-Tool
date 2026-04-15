@@ -373,5 +373,65 @@
     "explanation": "<b>Correct Answer: Bara Shigri Glacier</b><br><br><b>Explanation:</b> The Chandra River, which joins the Bhaga to form the Chenab (Chandrabhaga) in the Lahaul and Spiti district of Himachal Pradesh, is primarily fed by the Bara Shigri Glacier.<br><br><i>PYQ Integration:</i> This is a direct extraction from the 2019 CSE PYQ which asked candidates to match glaciers to their respective rivers (Bara Shigri -> Chenab).",
     "marks": 2.0,
     "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Rare Roll Cloud",
+    "question": "<b>Consider the following statements regarding the meteorological phenomenon known as a 'Roll Cloud' (<i>volutus</i>):</b><br><br>1. It is a tube-shaped arcus cloud that remains physically attached to the leading edge of the parent cumulonimbus storm system.<br>2. Despite its dramatic rotating appearance, its rotation is strictly horizontal, meaning it does not produce tornadoes.<br>3. It is formed when cold outflows from thunderstorms push cooler air beneath warm, moist air, causing uplift and condensation.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>Statement 1 is incorrect (Structural Absolute Trap):</b> While it is an arcus cloud, a roll cloud is strictly defined by being <b>completely detached</b> from other cloud formations or the parent storm system. (A <i>shelf cloud</i> remains attached).<br><b>Statement 2 is correct:</b> The visual \"rolling\" is a solitary wave (soliton) driven by wind shear with a horizontal axis. It explicitly does not produce tornadoes, which require vertical rotation.<br><b>Statement 3 is correct:</b> The physical mechanism is exactly as described—cold downdrafts acting as a wedge under warm, moist air.<br><br><i>PYQ Integration:</i> The examiner routinely tests the exact physical mechanisms and definitions of rare atmospheric phenomena, similar to the 2019 PYQ on dewdrop formation and the 2015 PYQ on westerlies.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Rare Roll Cloud",
+    "question": "<b>Consider the following pairs comparing atmospheric cloud formations:</b><br><br><b>Formation : Defining Characteristic</b><br>1. Roll Cloud : Tube-like shape, completely detached from the storm front.<br>2. Shelf Cloud : Wedge-shaped, strictly attached to the storm front.<br>3. Tornado : Horizontal rotation, generating minor turbulence.<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two pairs (Pairs 1 and 2 are correct)</b><br><br><b>Pair 1 is correctly matched:</b> Roll clouds are distinct due to their solitary, detached, tube-like structure.<br><b>Pair 2 is correctly matched:</b> Shelf clouds are wedge-shaped and physically attached to the base of the parent thunderstorm.<br><b>Pair 3 is incorrectly matched (Property Inversion Trap):</b> Tornadoes are funnel-shaped and defined by <b>vertical</b> rotation, not horizontal, and are extremely destructive (not minor turbulence).<br><br><i>PYQ Integration:</i> Emulates the exact UPSC tabular matching format used for geographic and atmospheric features, assessing micro-differences between highly similar physical terms.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Pacific Ring of Fire",
+    "question": "<b>With reference to the 'Pacific Ring of Fire', consider the following statements:</b><br><br>1. It accounts for approximately 75% of the world's active volcanoes and over 40% of the world's geothermal energy resources.<br>2. Its tectonic activity is driven exclusively by convergent boundaries where subduction zones are present.<br>3. The region is rich in metallic minerals, but the highly acidic volcanic soils strictly inhibit the cultivation of commercial crops.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 1 is correct)</b><br><br><b>Statement 1 is correct:</b> The Circum-Pacific Belt hosts nearly 90% of global earthquakes, 75% of active volcanoes, and vast geothermal potential (>40%).<br><b>Statement 2 is incorrect (Absolute Exclusion Trap):</b> The examiner uses the word \"exclusively\". While subduction (convergent boundaries) is a major driver, the Ring of Fire also features <b>divergent boundaries</b> (e.g., East Pacific Rise) and <b>transform faults</b> (e.g., San Andreas Fault).<br><b>Statement 3 is incorrect (Agricultural Inversion Trap):</b> Volcanic soils (Andisols) are extremely <b>fertile</b>, not inhibitory, and they heavily support major agricultural crops like rice and coffee in these regions.<br><br><i>PYQ Integration:</i> The \"exclusively\" trap is a classic UPSC filter mechanism. Testing the agricultural viability of geographical zones mirrors the 2011 and 2021 PYQs on black cotton soil and basaltic origins.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Pacific Ring of Fire",
+    "question": "<b>Consider the following pairs of tectonic formations located within the Pacific Ring of Fire and their primary generating mechanisms:</b><br><br><b>Geographical Example : Plate Tectonic Mechanism</b><br>1. Taupo Volcanic Arc : Subduction Zone (Convergent Boundary)<br>2. East Pacific Rise : Transform Fault<br>3. San Andreas Fault : Divergent Boundary<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one pair (Pair 1 is correct)</b><br><br><b>Pair 1 is correctly matched:</b> The Taupo Volcanic Arc (New Zealand) is formed by the Pacific Plate subducting beneath the Australian Plate.<br><b>Pair 2 is incorrectly matched (Mechanism Swap Trap):</b> The East Pacific Rise is a <b>Divergent Boundary</b> (seafloor spreading), not a transform fault.<br><b>Pair 3 is incorrectly matched (Mechanism Swap Trap):</b> The San Andreas Fault (California) is a classic <b>Transform Fault</b> where plates slide past each other horizontally, generating powerful earthquakes.<br><br><i>PYQ Integration:</i> A direct extension of UPSC geomorphology PYQs (2013, 2014) where specific geological features are matched to their tectonic/erosional origins.",
+    "marks": 2.0,
+    "negative": 0.66
   }
 ]
