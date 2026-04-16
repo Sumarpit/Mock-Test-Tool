@@ -1,0 +1,303 @@
+[
+  {
+    "section": "Environment",
+    "topic": "Red-Crowned Roofed Turtle",
+    "question": "<b>Consider the following statements regarding the Red-Crowned Roofed Turtle:</b><br><br>1. In India, its natural habitat is strictly confined to the Brahmaputra river system.<br>2. It exhibits extreme sexual dimorphism, where the adult males are significantly larger and heavier than the females.<br>3. It receives the highest legal protection under Schedule I of the Wildlife (Protection) Act, 1972.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 3 is correct)</b><br><br><b>Statement 1 is incorrect (Habitat Exclusion Trap):</b> The natural habitat of the Red-Crowned Roofed Turtle is strictly the <b>Chambal River</b>, not the Brahmaputra.<br><b>Statement 2 is incorrect (Anatomical Inversion Trap):</b> It exhibits sexual dimorphism, but the examiner reverses the trait. The <b>males are significantly shorter</b> (about half the length) compared to the females, which can weigh up to 25 kg.<br><b>Statement 3 is correct:</b> It is Critically Endangered and protected under Schedule I.<br><br><i>PYQ Integration:</i> The examiner frequently tests sexual dimorphism and morphological anomalies (e.g., 2024 PYQ on female elephant tushes or male gharial snouts).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Red-Crowned Roofed Turtle",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The Red-Crowned Roofed Turtle is currently listed as 'Least Concern' due to a massive population explosion in Central India.<br><b>Statement-II:</b> A reintroduction program recently released 20 of these turtles into the Ganga River at the Haiderpur Wetland.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect (Status Trap):</b> The turtle is officially listed as <b>Critically Endangered</b>. Its wild population is dangerously low (fewer than 300 individuals remaining in the Chambal River).<br><b>Statement-II is correct:</b> After 30 years, 20 individuals were recently reintroduced into the Ganga at Haiderpur Wetland in Uttar Pradesh.<br><br><i>PYQ Integration:</i> Tests the exact IUCN status against recent conservation efforts, mimicking the 2020 PYQ testing the status and habitat of the Swamp Deer.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Mosura Fentoni",
+    "question": "<b>The term 'Mosura Fentoni', recently seen in scientific publications, refers to:</b>",
+    "options": [
+      "A newly discovered species of deep-sea bioluminescent jellyfish.",
+      "An extinct marine predator dating back approximately 506 million years to the Cambrian Period.",
+      "A genetically modified strain of mosquito designed to combat the Zika virus.",
+      "An invasive agricultural weed devastating the wetlands of Kerala."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: An extinct marine predator dating back approximately 506 million years to the Cambrian Period.</b><br><br><b>Explanation:</b> Mosura Fentoni is a newly identified extinct species belonging to the Radiodonta group. It lived during the Cambrian Period and was an active marine predator, measuring 1.5 to 6 cm long.<br><br><i>PYQ Integration:</i> Standard UPSC \"term in news\" question, heavily deployed for paleontology and evolutionary discoveries (e.g., 2019 PYQ on 'Denisovan').",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Mosura Fentoni",
+    "question": "<b>Consider the following statements regarding the extinct organism 'Mosura Fentoni':</b><br><br>1. It belongs to the Radiodonta group, establishing it as a distant evolutionary relative of modern arthropods like insects and spiders.<br>2. Fossil records indicate it was a massive apex predator exceeding 10 meters in length, dominating the ancient oceans.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> It is classified under the Radiodonta group, linking it to modern arthropods.<br><b>Statement 2 is incorrect (Scale/Size Trap):</b> The examiner frequently baits candidates into assuming prehistoric creatures were invariably massive. Mosura Fentoni was a <b>small</b> predator, measuring only <b>1.5 to 6 cm</b> in length.<br><br><i>PYQ Integration:</i> Evaluates evolutionary lineage, similar to the 2014 PYQ linking organisms to their correct taxonomic classes (mites, crabs, spiders).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Saola",
+    "question": "<b>The term 'Saola' was recently in the news in the context of:</b>",
+    "options": [
+      "The successful mapping of its complete genome by an international team of scientists.",
+      "Its declaration as an invasive species in the Western Ghats.",
+      "The discovery of its fossilized remains in the Deccan Traps.",
+      "Its use as a novel bio-indicator for deep-sea carbon sequestration."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: The successful mapping of its complete genome by an international team of scientists.</b><br><br><b>Explanation:</b> An international team recently successfully mapped the genome of the saola, a highly elusive and critically endangered forest-dwelling bovine (often called the 'Asian unicorn').<br><br><i>PYQ Integration:</i> Matches the format of PYQs testing major genetic and biotechnological milestones of specific species (e.g., 2017 PYQ on somatic cell nuclear transfer or genome sequencing).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Saola",
+    "question": "<b>Consider the following organisms:</b><br><br>1. Saola<br>2. Fishing Cat<br>3. Bonnet Macaque<br><br><b>According to recent scientific developments, an international research team has successfully mapped the genome of which of the above species?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Explanation:</b> The uploaded sources explicitly document that the genome of the <b>Saola</b> has been successfully mapped by an international team. The genome mapping of the Fishing Cat and Bonnet Macaque is not the subject of this recent scientific milestone.<br><br><i>PYQ Integration:</i> Tests the isolation of specific scientific achievements applied to wildlife.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Fishing Cat",
+    "question": "<b>Consider the following statements regarding the Fishing Cat:</b><br><br>1. It is a strictly diurnal predator that hunts exclusively during peak daylight hours.<br>2. Its natural habitat is characterized by arid scrublands and high-altitude rocky terrains.<br>3. Apart from fish, its diet includes frogs, crustaceans, snakes, and birds.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 3 is correct)</b><br><br><b>Statement 1 is incorrect (Circadian Trap):</b> The fishing cat is explicitly <b>nocturnal</b>, not diurnal.<br><b>Statement 2 is incorrect (Habitat Trap):</b> It is adapted to <b>wetlands, mangrove forests, river valleys, and grasslands near water bodies</b>, completely avoiding arid or high-altitude terrains.<br><b>Statement 3 is correct:</b> While it is named the fishing cat, it is an opportunistic predator that also preys on frogs, crustaceans, snakes, and birds.<br><br><i>PYQ Integration:</i> The examiner frequently tests the diurnal/nocturnal habits of specific felines and primates, exactly as seen in the 2023 PYQ on the Malabar Civet and Lion-tailed Macaque.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Fishing Cat",
+    "question": "<b>With reference to the conservation status of the Fishing Cat, consider the following statements:</b><br><br>1. It is listed as 'Vulnerable' on the IUCN Red List.<br>2. It is protected under Schedule I of the Wildlife (Protection) Act, 1972.<br>3. International commercial trade of this species is strictly regulated as it is placed in Appendix I of CITES.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 2 are correct)</b><br><br><b>Statement 1 is correct:</b> The Fishing Cat is officially listed as Vulnerable by the IUCN.<br><b>Statement 2 is correct:</b> It receives the highest domestic protection under Schedule I of the WPA, 1972.<br><b>Statement 3 is incorrect (Treaty Annexure Trap):</b> Under CITES, the Fishing Cat is placed in <b>Appendix II</b>, not Appendix I.<br><br><i>PYQ Integration:</i> The examiner routinely alters the CITES Appendix or IUCN status by one degree to test precision memory (e.g., 2020 PYQ on Musk Deer/Swamp Deer).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Bonnet Macaque",
+    "question": "<b>Consider the following statements regarding the Bonnet Macaque:</b><br><br><b>Statement-I:</b> The State Government of Kerala recently sought the Centre’s approval to initiate a birth control programme for the Bonnet Macaque.<br><b>Statement-II:</b> The Bonnet Macaque is an invasive, exotic primate species recently introduced to southern India from Southeast Asia.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> Due to severe human-wildlife conflict and overpopulation in urban/agricultural interfaces, Kerala has sought approval for a birth control programme for this macaque.<br><b>Statement-II is incorrect (Endemicity Trap):</b> The Bonnet Macaque is <b>not</b> an exotic or invasive species. It is <b>endemic to southern India</b>.<br><br><i>PYQ Integration:</i> The S1/S2 format is deployed to test state-specific environmental interventions against the actual biological origin of a species.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Bonnet Macaque",
+    "question": "<b>Which of the following physical and dietary traits best describes the Bonnet Macaque?</b>",
+    "options": [
+      "It is a strictly herbivorous primate known for its long, prehensile tail used for swinging.",
+      "It is an omnivorous primate, endemic to southern India, identified by a distinct tuft of hair resembling a cap.",
+      "It is a carnivorous, nocturnal primate completely devoid of body hair.",
+      "It is a ground-dwelling ape that uses complex stone tools to crack open nuts."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: It is an omnivorous primate, endemic to southern India, identified by a distinct tuft of hair resembling a cap.</b><br><br><b>Explanation:</b> The Bonnet Macaque is characterized by its omnivorous diet, its strict endemism to southern India, and the distinctive whorl or 'bonnet' of hair radiating outward from the center of its head.<br><br><i>PYQ Integration:</i> Tests specific morphological descriptors, akin to the 2023 PYQ differentiating macaques, orangutans, and other primates based on tool usage and dietary habits.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Begonia Narahari",
+    "question": "<b>Consider the following statements regarding 'Begonia Narahari', recently discovered by scientists:</b><br><br>1. It is a new plant species discovered in the tropical rain forests of the Andaman Islands.<br>2. It is the only Asian Begonia species to possess a unique feature of crimson-fringed petioles.<br>3. It has evolved extreme resilience, adapting to sub-zero conditions and steep mountain slopes.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>Statement 1 is incorrect (Geography Swap Trap):</b> Begonia Narahari was discovered in the extreme high-altitude regions of <b>Arunachal Pradesh</b>, not the tropical Andaman Islands.<br><b>Statement 2 is correct:</b> The crimson-fringed petioles are its defining unique taxonomic trait.<br><b>Statement 3 is correct:</b> It demonstrates remarkable resilience to sub-zero alpine conditions.<br><br><i>PYQ Integration:</i> The examiner frequently swaps the geographical location of newly discovered flora (e.g., swapping NE India with Western Ghats or Andamans), mirroring the 2016 PYQ on the 11m tall banana species.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Begonia Narahari",
+    "question": "<b>The conservation status of the newly discovered 'Begonia Narahari' on the IUCN Red List is currently categorized as:</b>",
+    "options": [
+      "Critically Endangered",
+      "Extinct in the Wild",
+      "Data Deficient",
+      "Least Concern"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Data Deficient</b><br><br><b>Explanation:</b> Because it is a newly discovered species from an isolated and extreme habitat in Arunachal Pradesh, there is currently insufficient population data to assess its extinction risk. Thus, the IUCN classifies it as 'Data Deficient'.<br><br><i>PYQ Integration:</i> Tests the exact IUCN classifications of niche species, guarding against the candidate's assumption that all newly found rare plants are automatically 'Critically Endangered'.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Zographetus mathewi (Sahyadri Spotted Flitter)",
+    "question": "<b>The term 'Zographetus mathewi', sometimes seen in the news, refers to a newly discovered species of:</b>",
+    "options": [
+      "Deep-sea crustacean",
+      "Butterfly",
+      "Epiphytic orchid",
+      "Arboreal snake"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Butterfly</b><br><br><b>Explanation:</b> Zographetus mathewi, commonly known as the Sahyadri Spotted Flitter, is a newly discovered butterfly species. It was named after entomologist George Mathew.<br><br><i>PYQ Integration:</i> A direct replication of the UPSC standard \"term in news\" pattern for newly discovered fauna (e.g., 2016 PYQ on State Butterfly/species identification).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Zographetus mathewi (Sahyadri Spotted Flitter)",
+    "question": "<b>Consider the following statements regarding the Sahyadri Spotted Flitter (<i>Zographetus mathewi</i>):</b><br><br><b>Statement-I:</b> It occupies a highly specialized ecological niche, making it extremely sensitive to habitat alterations.<br><b>Statement-II:</b> It is strictly endemic to the high-elevation, sub-alpine zones of the Western Ghats.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> The species is confined to a highly specialized ecological niche, reflecting its vulnerability.<br><b>Statement-II is incorrect (Elevation Trap):</b> The Sahyadri Spotted Flitter is endemic to the <b>low-elevation tropical forests</b> of Kerala, not the high-elevation/sub-alpine zones of the Western Ghats.<br><br><i>PYQ Integration:</i> The examiner frequently uses ecological descriptors (high vs low elevation, dry vs wet) to create false geographical limits.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Sliteye Shark",
+    "question": "<b>With reference to the 'Sliteye Shark', recently recorded by scientists, consider the following statements:</b><br><br>1. It was recorded for the first time in the Great Chagos Bank, which is the world's largest coral atoll.<br>2. It is adapted to deep oceanic trenches and completely avoids shallow coastal waters.<br>3. It possesses slit-like eyes with vertical pupils designed specifically for better low-light vision.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3 are correct)</b><br><br><b>Statement 1 is correct:</b> It was recently documented in the Great Chagos Bank.<br><b>Statement 2 is incorrect (Habitat Inversion Trap):</b> The Sliteye Shark is primarily found in <b>shallow coastal waters</b> of the Indo-West Pacific, not deep oceanic trenches.<br><b>Statement 3 is correct:</b> Its defining morphological trait is its vertical pupils, optimizing vision in low-light aquatic environments.<br><br><i>PYQ Integration:</i> Tests behavioral and habitat inversions, mirroring the 2013 and 2019 PYQs on marine mammal habits and habitats.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Sliteye Shark",
+    "question": "<b>The conservation status of the Sliteye Shark, found across the Indo-West Pacific region, is officially classified on the IUCN Red List as:</b>",
+    "options": [
+      "Extinct in the Wild",
+      "Critically Endangered",
+      "Near Threatened",
+      "Least Concern"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Near Threatened</b><br><br><b>Explanation:</b> The Sliteye Shark is categorized as 'Near Threatened' by the IUCN, reflecting emerging pressures on its coastal habitats but indicating it has not yet crossed the threshold into the vulnerable or endangered categories.<br><br><i>PYQ Integration:</i> Directly targets the candidate's recall of exact IUCN categorizations for lesser-known marine species.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Mycetia malayana",
+    "question": "<b>Consider the following statements regarding the plant species 'Mycetia malayana':</b><br><br>1. Previously known only from Southeast Asia, it was recently recorded for the first time in India at the Sepahijala Wildlife Sanctuary.<br>2. It functions as a parasitic weed that rapidly destroys native pollinator populations.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> Mycetia malayana was recently documented in Tripura's Sepahijala Wildlife Sanctuary, expanding its known range from SE Asia.<br><b>Statement 2 is incorrect (Ecological Role Inversion Trap):</b> It is not a parasitic weed. It is a perennial shrub that actively <b>supports pollinators and seed dispersers</b>, playing a crucial role in maintaining the health of the forest ecosystem.<br><br><i>PYQ Integration:</i> The examiner often tests whether a newly found species is beneficial or an invasive threat, akin to the 2018 PYQ on the destructive nature of *Prosopis juliflora*.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Mycetia malayana",
+    "question": "<b>The Sepahijala Wildlife Sanctuary, where 'Mycetia malayana' was recently discovered, falls under which of the following globally recognized biodiversity hotspots?</b>",
+    "options": [
+      "Western Ghats and Sri Lanka",
+      "Himalaya",
+      "Indo-Burma",
+      "Sundaland"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Indo-Burma</b><br><br><b>Explanation:</b> Sepahijala Wildlife Sanctuary is located in the state of Tripura. Tripura lies firmly within the <b>Indo-Burma</b> biodiversity hotspot, which is one of the world's 36 recognized hotspots characterized by exceptional species endemism and high threat levels.<br><br><i>PYQ Integration:</i> Integrates current species discovery with static geography/biodiversity hotspot mapping (2011 PYQ on Hotspot criteria).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Black Aspergilli",
+    "question": "<b>Scientists from the MACS-Agharkar Research Institute recently identified two new species of 'Black Aspergilli' in the Western Ghats. These newly discovered organisms belong to which of the following biological classifications?</b>",
+    "options": [
+      "Cyanobacteria",
+      "Fungi",
+      "Parasitic wasps",
+      "Epiphytic orchids"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Fungi</b><br><br><b>Explanation:</b> Black Aspergilli is a distinct group of fungi. The recent discovery of two new species in the Western Ghats highlights the immense and largely untapped mycological (fungal) biodiversity of the region.<br><br><i>PYQ Integration:</i> Straightforward taxonomic identification, similar to the 2022 PYQ identifying 'Gucchi' as a fungus.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Black Aspergilli",
+    "question": "<b>Consider the following statements regarding the recent discovery of 'Black Aspergilli':</b><br><br><b>Statement-I:</b> Researchers recently identified two new species of Black Aspergilli in the Nilgiri Biosphere Reserve of the Western Ghats.<br><b>Statement-II:</b> The Western Ghats is a globally recognized biodiversity hotspot that hosts a vast array of endemic and undiscovered fungal species.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> Two new species of the Black Aspergilli fungi were discovered in the Western Ghats' Nilgiri Biosphere Reserve.<br><b>Statement-II is correct:</b> The Western Ghats is indeed a global biodiversity hotspot with high endemism. However, its status as a hotspot (Statement-II) is a macro-geographical fact, not the direct scientific/methodological *explanation* for why researchers at MACS-Agharkar Institute found these specific two fungal strains at this moment in time (Statement-I).<br><br><i>PYQ Integration:</i> The S1/S2 format frequently uses a correct macro-fact in S2 that does not directly *cause* the micro-event in S1.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
+
