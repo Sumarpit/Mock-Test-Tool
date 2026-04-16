@@ -1,0 +1,302 @@
+[
+  {
+    "section": "Environment",
+    "topic": "Asiatic Lion",
+    "question": "<b>Consider the following statements regarding the Asiatic Lion:</b><br><br>1. They exhibit a social structure with significantly larger prides compared to their African counterparts.<br>2. Their diet in the Gir region is strictly restricted to wild ungulates, completely excluding domestic livestock.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Statement 1 is incorrect (Behavioral Inversion Trap):</b> Asiatic lions form strictly <b>smaller prides</b> than African lions, often with male coalitions staying separate from larger female groups.<br><b>Statement 2 is incorrect (Absolute Exclusion Trap):</b> As apex predators, their diet includes wild prey (chital, wild boar) but they also <b>occasionally prey on livestock</b> when wild prey is scarce.<br><br><i>PYQ Integration:</i> The examiner frequently tests behavioral micro-traits of flagship species, mimicking the 2020 PYQ on Indian elephants' matriarchal structure and gestation periods.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Asiatic Lion",
+    "question": "<b>With reference to the International Big Cat Alliance (IBCA) and the conservation status of big cats, consider the following statements:</b><br><br>1. The Asiatic Lion is officially categorized as 'Endangered' on the IUCN Red List.<br>2. It receives the highest level of domestic legal protection under Schedule I of the Wildlife (Protection) Act, 1972.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Status Trap):</b> According to the IBCA species data, the Lion is officially listed as <b>Vulnerable</b> on the IUCN Red List, not Endangered.<br><b>Statement 2 is correct:</b> Like the Tiger and Leopard, the Lion is placed under Schedule I of the WPA, 1972, and Appendix I of CITES.<br><br><i>PYQ Integration:</i> The examiner tests exact IUCN classifications of apex predators, as seen in the 2020 and 2012 PYQs requiring differentiation between Vulnerable, Endangered, and Critically Endangered statuses.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Snow Leopard",
+    "question": "<b>With reference to the Snow Leopard and related conservation initiatives, consider the following statements:</b><br><br>1. The Global Snow Leopard and Ecosystem Protection Programme (GSLEP) aims to secure snow leopard landscapes across exactly five Himalayan countries.<br>2. Under the '#23for23 Initiative', the snow leopard was declared the national animal of India.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Statement 1 is incorrect (Range Data Trap):</b> The GSLEP encompasses <b>12 range countries</b> across Central and South Asia (including India, China, Russia, Mongolia, etc.), not just five.<br><b>Statement 2 is incorrect (Initiative Misattribution Trap):</b> The '#23for23 Initiative' promotes the protection of snow leopards and their ecosystems, but it did <b>not</b> declare it the national animal of India (the Tiger remains the national animal).<br><br><i>PYQ Integration:</i> Tests geographic range limits and initiative objectives, similar to the 2019 PYQ testing the exact endemic range of the Asiatic Lion and Double-humped camel.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Snow Leopard",
+    "question": "<b>Consider the following statements regarding the physical and behavioral traits of the Snow Leopard (<i>Panthera uncia</i>):</b><br><br><b>Statement-I:</b> The Snow Leopard is a highly social predator that actively hunts in large packs during the peak daylight hours.<br><b>Statement-II:</b> The species is recognized as a crepuscular carnivore that is most active during dawn and dusk.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect (Behavioral Inversion Trap):</b> The Snow Leopard is strictly <b>solitary and elusive</b>, not a pack hunter, and it avoids peak daylight.<br><b>Statement-II is correct:</b> It is a crepuscular animal, meaning it is most active at dawn and dusk.<br><br><i>PYQ Integration:</i> Follows the pattern of testing specific circadian rhythms and social structures, analogous to the 2023 PYQ on nocturnal/crepuscular behavior (Macaque, Civet, Sambar).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ganges River Dolphin",
+    "question": "<b>Consider the following statements regarding the Ganges River Dolphin:</b><br><br>1. It is strictly endemic to the main channel of the Ganga River and is not found in any of its tributaries.<br>2. It acts as a top predator and an indicator species of river health.<br>3. It is officially listed as 'Endangered' on the IUCN Red List.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>Statement 1 is incorrect (Habitat Exclusion Trap):</b> The dolphin is <b>not</b> restricted to the main Ganga channel. It is found in major tributaries including the Ghagra, Kosi, Gandak, Chambal, Yamuna, and the Kulsi River in Assam/Meghalaya.<br><b>Statement 2 is correct:</b> It is a top predator and a critical indicator species of aquatic ecosystem balance.<br><b>Statement 3 is correct:</b> It is classified as Endangered (IUCN).<br><br><i>PYQ Integration:</i> The examiner routinely uses extreme words like 'strictly endemic to' to create false geographical limits, similar to the 2019 PYQ on the Irrawaddy Dolphin.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ganges River Dolphin",
+    "question": "<b>With reference to 'Project Dolphin (Phase II)', consider the following statements:</b><br><br>1. The project's action plan is strictly limited to the conservation of freshwater riverine cetaceans.<br>2. The construction of the 55 MW hydroelectric project on the Kulsi River poses a severe threat to the nesting grounds of the Ganges River Dolphin.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Scope Exclusion Trap):</b> Project Dolphin Phase II implements an action plan to strengthen the conservation of <b>both riverine and marine</b> cetaceans across India, not just freshwater ones.<br><b>Statement 2 is correct:</b> The Kulsi River (a Brahmaputra tributary) is a key nesting ground, and the approved hydroelectric project there directly threatens the dolphin population.<br><br><i>PYQ Integration:</i> Mirrors the 2014 PYQ that tested knowledge of anthropogenic threats (dams, barrages, fishing nets) to the Ganges River Dolphin.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Greater One-Horned Rhinoceros",
+    "question": "<b>With reference to the 'RhoDIS India Programme', consider the following statements:</b><br><br>1. It is implemented by the Wildlife Institute of India (WII) in collaboration with global conservation partners.<br>2. It aims to assign a unique DNA profile to each rhino to enable the forensic tracing of seized horns back to the poached animal.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>Statement 1 is correct:</b> The RhoDIS (Rhino DNA Index System) programme was launched in 2016 and is officially implemented by the WII.<br><b>Statement 2 is correct:</b> The core objective is wildlife crime investigation using advanced DNA-based forensic tools to trace seized horns to specific poached rhinos.<br><br><i>PYQ Integration:</i> The examiner frequently tests the nodal implementing agencies of wildlife tech initiatives (e.g., M-STrIPES for tigers in 2017).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Greater One-Horned Rhinoceros",
+    "question": "<b>Consider the following statements regarding the Greater One-Horned Rhinoceros:</b><br><br><b>Statement-I:</b> India is the only country in the world where the Greater One-Horned Rhinoceros is naturally found.<br><b>Statement-II:</b> The genetic analysis under RhoDIS primarily focuses on rhinos concentrated within the Kaziranga National Park.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect (Endemicity Trap):</b> The Greater One-Horned Rhinoceros is <b>not</b> exclusively found in India; it is also naturally found in Nepal and Bhutan.<br><b>Statement-II is correct:</b> The recent RhoDIS genetic analysis explicitly targets 2,573 rhino horn samples specifically from Kaziranga National Park (Assam).<br><br><i>PYQ Integration:</i> Statement-I is a direct restatement of the 2019 PYQ trap which tested if the One-horned rhinoceros is naturally found in India *only*.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Gharial",
+    "question": "<b>Consider the following pairs of Indian rivers and the natural presence of Gharial populations:</b><br><br><b>River : Presence of Gharial</b><br>1. Chambal : Yes<br>2. Mahanadi : Yes<br>3. Ramganga : Yes<br>4. Cauvery : Yes<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only three pairs (Pairs 1, 2, and 3 are correct)</b><br><br><b>Explanation:</b> The Gharial naturally inhabits deep, fast-flowing rivers including the Rapti-Narayani system (Nepal) and Indian rivers such as the <b>Girwa, Son, Ramganga, Gandak, Chambal, and Mahanadi</b>. It is completely <b>absent</b> from the Cauvery River.<br><br><i>PYQ Integration:</i> The 2017 PYQ explicitly tested the Chambal River as the natural habitat of the Gharial. The examiner expects geographic mapping of flagship species across specific river basins.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Gharial",
+    "question": "<b>With reference to the physical characteristics and conservation status of the Gharial, consider the following statements:</b><br><br>1. It is a fish-eating crocodilian possessing specialized, interlocking teeth.<br>2. The bulbous growth called a 'ghara' is found exclusively on the snout of female gharials.<br>3. It is currently listed as 'Critically Endangered' on the IUCN Red List.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3 are correct)</b><br><br><b>Statement 1 is correct:</b> The Gharial's long slender snout and interlocking teeth are evolutionary adaptations specifically for catching fish.<br><b>Statement 2 is incorrect (Gender Anatomy Trap):</b> The bulbous growth ('ghara') is an acoustic resonator and visual signal found <b>exclusively on adult males</b>, not females.<br><b>Statement 3 is correct:</b> It faces severe threats and is listed as Critically Endangered.<br><br><i>PYQ Integration:</i> Tests morphological sex differences and dietary habits, similar to the 2020 PYQ testing the matriarchal structure of elephants.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Sloth Bear",
+    "question": "<b>Consider the following statements regarding the Sloth Bear:</b><br><br>1. Unlike most bear species, the sloth bear does not hibernate during the winter.<br>2. It has a strictly carnivorous diet, preying predominantly on small mammals and reptiles.<br>3. It exhibits a unique maternal behavior of carrying its cubs on its back.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3 are correct)</b><br><br><b>Statement 1 is correct:</b> Due to its tropical range and food availability, the sloth bear does not undergo hibernation.<br><b>Statement 2 is incorrect (Dietary Trap):</b> The sloth bear is highly specialized as an <b>insect-eater</b> (myrmecophagous), feeding primarily on termites and ants using its long snout and curved claws.<br><b>Statement 3 is correct:</b> Carrying cubs on the back is a unique distinguishing trait of this species.<br><br><i>PYQ Integration:</i> The 2014 PYQ explicitly tested which animals undergo hibernation (bats, bears, rodents). Knowing exceptions within families (a bear that doesn't hibernate) is a classic UPSC target.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Sloth Bear",
+    "question": "<b>With reference to the geographic range and protection status of the Sloth Bear, consider the following statements:</b><br><br><b>Statement-I:</b> The Sloth Bear is endemic solely to the Western Ghats and Central Highlands of India.<br><b>Statement-II:</b> It is officially listed as 'Vulnerable' on the IUCN Red List and is protected under Schedule I of the Wildlife (Protection) Act, 1972.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect (Endemicity Trap):</b> The Sloth Bear is <b>not</b> endemic solely to India. It is naturally found across India, Southern Nepal, and Sri Lanka.<br><b>Statement-II is correct:</b> It holds a 'Vulnerable' status on the IUCN Red List and enjoys Schedule I protection in India.<br><br><i>PYQ Integration:</i> The 'solely/only' trap for species distribution is the examiner's favorite tool, repeatedly seen in PYQs testing species endemism.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Great Indian Bustard",
+    "question": "<b>Consider the following statements regarding the Great Indian Bustard (GIB):</b><br><br>1. It is one of the heaviest flying birds in the world and is endemic to the Indian subcontinent.<br>2. It has been officially declared as the State bird of Gujarat.<br>3. It is currently listed as 'Critically Endangered' on the IUCN Red List.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3 are correct)</b><br><br><b>Statement 1 is correct:</b> The GIB (Ardeotis nigriceps) is one of the heaviest flying birds and is endemic to the subcontinent.<br><b>Statement 2 is incorrect (State Identity Trap):</b> The GIB is strictly the State bird of <b>Rajasthan</b>, not Gujarat (though a small population exists in Kutch).<br><b>Statement 3 is correct:</b> Severe habitat loss and power line collisions have pushed it to Critically Endangered status.<br><br><i>PYQ Integration:</i> GIB is a highly repeated PYQ theme (2012, 2020), tested for its conservation status and state affiliation.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Great Indian Bustard",
+    "question": "<b>With reference to India's Desert National Park (DNP), a primary habitat of the Great Indian Bustard, consider the following statements:</b><br><br>1. It is geographically spread over two districts in the state of Rajasthan.<br>2. Under the Wildlife Protection Act, all human habitation has been strictly relocated, leaving no villages inside the Park.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> The DNP is spread across the Jaisalmer and Barmer districts of Rajasthan.<br><b>Statement 2 is incorrect (Absolute Exclusion Trap):</b> Contrary to popular belief about National Parks, the DNP contains <b>73 historically inhabited villages</b> inside its boundaries.<br><br><i>PYQ Integration:</i> This is an exact replica of the 2020 CSE PYQ trap, emphasizing that the examiner tests exceptions to general environmental rules (human habitation inside DNP).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Kharai Camel",
+    "question": "<b>What is/are unique about the 'Kharai camel', a breed found in India?</b><br><br>1. It is capable of swimming up to three to five kilometers in seawater.<br>2. It survives primarily by grazing on saline mangroves.<br>3. It lives entirely in the wild and cannot be domesticated by local populations.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statements 1 and 2 are correct:</b> The Kharai camel (native to Kutch, Gujarat) is uniquely adapted to coastal ecosystems. It swims through seawater to reach estuarine islands where it feeds on saline mangroves.<br><b>Statement 3 is incorrect (Domestication Trap):</b> It does <b>not</b> live entirely in the wild. It is heavily domesticated and reared by the local pastoralist communities for its milk and wool.<br><br><i>PYQ Integration:</i> This mirrors the exact 2016 PYQ testing the unique adaptations and domestication status of the Kharai Camel.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Kharai Camel",
+    "question": "<b>Which of the following traditional pastoralist communities is primarily associated with the rearing and sustenance of the rare Kharai camel in the Kutch region?</b>",
+    "options": [
+      "The Changpa community",
+      "The Rabari community",
+      "The Gujjar community",
+      "The Toda community"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The Rabari community</b><br><br><b>Explanation:</b> The Kharai camel is primarily reared by the Rabari pastoralist community in Kutch, Gujarat. The camels' milk and wool are crucial for supporting the Rabari livelihoods. The Changpa rear Pashmina goats in Ladakh; Gujjars are found in the Himalayas; Todas are in the Nilgiris.<br><br><i>PYQ Integration:</i> The examiner routinely links specific fauna/livestock to the indigenous communities that rear them (e.g., 2014 PYQ on Changpas and Pashmina goats).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Neelakurinji",
+    "question": "<b>Consider the following statements regarding the Neelakurinji (<i>Strobilanthes kunthiana</i>) plant:</b><br><br>1. It is a flagship species of the shola-grassland ecosystem that blooms once every 12 years.<br>2. Its geographical distribution is strictly confined to the Western Ghats, with an absolute absence in the Eastern Ghats.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> Neelakurinji is a famous shrub of the shola-grasslands, known for its mass blooming cycle every 12 years at high elevations.<br><b>Statement 2 is incorrect (Geographical Boundary Trap):</b> While primarily found in the Western Ghats (Nilgiris, Munnar), it is <b>not strictly confined</b> there. A small subpopulation exists in the Eastern Ghats (Yercaud, Shevaroy Hills).<br><br><i>PYQ Integration:</i> Tests the strict geographical bounds of flora. Absolute words like \"strictly confined\" are standard UPSC decoys.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Neelakurinji",
+    "question": "<b>With reference to the conservation status of Neelakurinji, consider the following statements:</b><br><br><b>Statement-I:</b> The species is facing a 40% habitat loss due to the expansion of commercial tea plantations and invasive species like eucalyptus.<br><b>Statement-II:</b> Due to this severe habitat loss, the governments of Tamil Nadu and Kerala have recently declared it a 'threatened species' under the Biological Diversity Act, 2002.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> The IUCN reports massive habitat destruction for Neelakurinji caused by softwood/tea plantations and invasive flora (black wattle, eucalyptus).<br><b>Statement-II is incorrect (Legal Status Trap):</b> Despite the habitat loss, the states of Tamil Nadu, Kerala, and Karnataka have explicitly <b>not proposed</b> declaring it a threatened species under the Biological Diversity Act, 2002, as per BSI submissions.<br><br><i>PYQ Integration:</i> The examiner tests the exact legal actions taken by state/central bodies under environmental acts, mirroring questions on WPA Schedule listings.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pallas's Cat",
+    "question": "<b>Consider the following statements regarding the Pallas's Cat:</b><br><br>1. It is a large, diurnal big cat species adapted to the hot and humid tropical rainforests of South Asia.<br>2. Photographic evidence of this species was recently recorded for the first time in the state of Arunachal Pradesh.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Habitat & Trait Inversion Trap):</b> The Pallas's cat is a <b>small</b>, stocky wild cat adapted to cold, high-altitude <b>steppes and grasslands</b> (3,000-5,000m) of Central Asia. It is solitary, nocturnal, and crepuscular, not diurnal.<br><b>Statement 2 is correct:</b> A WWF-India survey recently documented its first photographic evidence in Arunachal Pradesh (previously only known from Ladakh and Sikkim in India).<br><br><i>PYQ Integration:</i> The examiner frequently inverts the natural habitat and diurnal/nocturnal traits of rare fauna.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pallas's Cat",
+    "question": "<b>With reference to the Pallas's Cat, consider the following statements:</b><br><br><b>Statement-I:</b> In order to avoid larger predators like eagles and foxes, the Pallas's cat primarily hunts during dawn and dusk.<br><b>Statement-II:</b> Due to massive population declines, the species has been reclassified as 'Critically Endangered' on the IUCN Red List.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> The Pallas's cat is a crepuscular carnivore (active at dawn and dusk), a behavioral adaptation to avoid its own predators.<br><b>Statement-II is incorrect (Status Exaggeration Trap):</b> The species is currently classified as <b>Least Concern</b> on the IUCN Red List, not Critically Endangered.<br><br><i>PYQ Integration:</i> The examiner routinely exaggerates the IUCN threat level of newly discovered or elusive species to trap candidates.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
