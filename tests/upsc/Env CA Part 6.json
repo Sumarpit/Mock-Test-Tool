@@ -1,0 +1,332 @@
+[
+  {
+    "section": "Geography",
+    "topic": "Bitra Island",
+    "question": "<b>With reference to the Lakshadweep archipelago, consider the following statements regarding 'Bitra Island':</b><br><br>1. It is the southernmost island of the Lakshadweep group, located dangerously close to the Maldives.<br>2. It is the smallest inhabited island of the archipelago, possessing extremely limited freshwater sources.<br>3. The island has been recently acquired by the Ministry of Defence to establish a permanent naval base.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>Statement 1 is incorrect (Location Swap Trap):</b> Bitra Island is strictly part of the <b>northern cluster</b> of the Lakshadweep islands, located close to Agatti. Minicoy is the southernmost island.<br><b>Statement 2 is correct:</b> It is the smallest inhabited island (0.105 sq km) with sparse vegetation and limited freshwater.<br><b>Statement 3 is incorrect (Status Trap):</b> The Lakshadweep administration is currently <b>evaluating a proposal</b> for its acquisition for defence purposes; it has not been acquired or established as a permanent naval base yet.<br><br><i>PYQ Integration:</i> The examiner routinely tests the exact micro-geography of strategic islands, mirroring the 2014 PYQ on the Ten Degree Channel and the 2018 PYQ on Barren Island's exact distance from Great Nicobar.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Bitra Island",
+    "question": "<b>Consider the following pairs of Indian Islands and their defining geographical traits:</b><br><br><b>Island : Defining Trait</b><br>1. Baratang Island : Presence of India's only active mud volcano<br>2. Bitra Island : Smallest inhabited island of the Lakshadweep archipelago<br>3. Barren Island : Only active stratovolcano in the Indian subcontinent<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three pairs</b><br><br><b>Pair 1 is correctly matched:</b> Baratang Island (Andaman & Nicobar) hosts India's only known mud volcano.<br><b>Pair 2 is correctly matched:</b> Bitra is the smallest inhabited island of Lakshadweep.<br><b>Pair 3 is correctly matched:</b> Barren Island is India's only active volcano.<br><br><i>PYQ Integration:</i> Matches the format of the 2018 PYQ which heavily tested Barren Island. The examiner is now bringing lesser-known islands like Baratang and Bitra into the mix.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Lotus Blooms in Kashmir’s Wular Lake",
+    "question": "<b>Consider the following statements regarding Wular Lake:</b><br><br>1. It is a high-altitude brackish water lake located in the Ladakh region.<br>2. The lake is geographically bounded by the Harmukh mountains.<br>3. The edible lotus stems extracted from this lake, known locally as 'Nadru', hold significant culinary and economic importance.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>Statement 1 is incorrect (Salinity & Location Trap):</b> Wular Lake is strictly the <b>largest freshwater lake</b> in India, located in the Bandipora district of <b>Kashmir</b>, not Ladakh. (Pangong Tso is the brackish lake in Ladakh).<br><b>Statement 2 is correct:</b> It is surrounded by the scenic Harmukh mountains.<br><b>Statement 3 is correct:</b> Lotus stems ('Nadru') are a crucial part of the local ecology and economy, recently returning after three decades due to conservation efforts.<br><br><i>PYQ Integration:</i> The examiner frequently tests the salinity and surrounding topography of major lakes, mirroring the 2010 PYQ matching Wular Lake to the Jhelum river.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Lotus Blooms in Kashmir’s Wular Lake",
+    "question": "<b>In the context of ecological restoration, the resurgence of lotus blooms in Wular Lake after nearly three decades was primarily facilitated by the:</b>",
+    "options": [
+      "Introduction of exotic genetically modified lotus species by the Botanical Survey of India.",
+      "Eradication of the invasive Prosopis juliflora plant from the lake's catchment area.",
+      "Dedicated desilting and conservation interventions by the Wular Conservation and Management Authority.",
+      "A sudden tectonic shift that increased the geothermal temperature of the lake bed."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Dedicated desilting and conservation interventions by the Wular Conservation and Management Authority.</b><br><br><b>Explanation:</b> The return of the lotuses is strictly attributed to the efforts of the Wular Conservation and Management Authority (WUCMA), which worked to restore the lake's ecology. Exotics or tectonic shifts are examiner-planted distractors.<br><br><i>PYQ Integration:</i> Tests the exact mechanism of ecological recovery, similar to the 2018 PYQ on the ecological threat posed by *Prosopis juliflora*.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Role of Melting Ice and Volcanic Eruption",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The rapid melting of glaciers due to global warming significantly increases the frequency and intensity of volcanic eruptions.<br><b>Statement-II:</b> As massive ice sheets melt, the lithospheric pressure on the Earth's crust drastically decreases, allowing mantle rocks to undergo decompression melting.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> Research (Goldschmidt Conference 2025) confirms ice melt leads to more volcanic eruptions.<br><b>Statement-II is correct and explains Statement-I:</b> The physical mechanism is strictly <b>decompression melting</b>. When heavy ice melts, the pressure on the crust decreases, lowering the melting point of underlying mantle rocks, causing them to turn into magma and erupt.<br><br><i>PYQ Integration:</i> The S1/S2 format is heavily used by the examiner to test cause-and-effect in geomorphology and climatology.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Role of Melting Ice and Volcanic Eruption",
+    "question": "<b>With reference to the climatic feedback loops associated with continuous volcanic activity, consider the following statements:</b><br><br>1. Volcanic eruptions inject large volumes of sulfur dioxide into the atmosphere, creating aerosols that cause a temporary cooling of the Earth's surface.<br>2. Continuous volcanic activity over time releases significant amounts of carbon dioxide and methane, which ultimately accelerates global ice melt.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>Statement 1 is correct:</b> Sulfur dioxide forms sulfuric acid aerosols which reflect solar radiation, causing immediate but temporary cooling (volcanic winter).<br><b>Statement 2 is correct:</b> Over the long term, continuous eruptions release potent GHGs (CO2, CH4) that trap heat, fueling global warming and further accelerating ice melt—creating a self-reinforcing cycle.<br><br><i>PYQ Integration:</i> This tests the dual (and seemingly contradictory) short-term vs long-term climatic impacts of aerosols and GHGs, similar to the 2019 PYQ on sulfate aerosol injection into the stratosphere.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Maitri-2: India's 4th Research Station in Antarctica",
+    "question": "<b>Consider the following pairs of Indian polar research stations and their geographical locations:</b><br><br><b>Station : Location</b><br>1. Dakshin Gangotri : Queen Maud Land, Antarctica<br>2. Maitri-2 : Schirmacher Oasis, East Antarctica<br>3. Bharati : Larsemann Hills, East Antarctica<br>4. Himadri : Svalbard, Arctic<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: All four pairs</b><br><br><b>Explanation:</b> All pairs are strictly accurate based on the records of the National Centre for Polar and Ocean Research (NCPOR).<br>- Dakshin Gangotri (1983) was in Queen Maud Land (now decommissioned).<br>- Maitri-2 (approved 2025) will be built in the Schirmacher Oasis close to the existing Maitri station.<br>- Bharati (2012) is located in the Larsemann Hills.<br>- Himadri is strictly India's Arctic station located in Svalbard.<br><br><i>PYQ Integration:</i> The examiner tested the exact location of the 'IndARC' observatory in 2015. Mapping exact polar territories is a highly predictable 2026 trap.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Maitri-2: India's 4th Research Station in Antarctica",
+    "question": "<b>With reference to 'Maitri-2', which recently received in-principle approval from the Government of India, consider the following statements:</b><br><br>1. It will be India's first permanent research station to be established in the Arctic region.<br>2. It will be equipped with automated systems capable of remote data transmission even when the station is completely unstaffed during the harsh winter.<br>3. It is designed to be powered exclusively by nuclear micro-reactors to survive the polar darkness.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>Statement 1 is incorrect (Pole Swap Trap):</b> Maitri-2 is strictly India's 4th research station in <b>Antarctica</b>, not the Arctic.<br><b>Statement 2 is correct:</b> A key feature is its automated systems allowing continuous remote data transmission even without staff.<br><b>Statement 3 is incorrect (Energy Trap):</b> It will rely on <b>renewable energy sources</b> (solar power and strong Antarctic wind energy), not nuclear micro-reactors.<br><br><i>PYQ Integration:</i> The examiner frequently swaps Arctic for Antarctic (and vice versa) to trap candidates reading in a hurry.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Super Typhoon",
+    "question": "<b>Consider the following statements regarding the classification and mechanics of a 'Super Typhoon':</b><br><br><b>Statement-I:</b> A tropical cyclone is officially classified as a 'Super Typhoon' when its maximum sustained winds exceed 240 km/h.<br><b>Statement-II:</b> Super Typhoons only form when there is high vertical wind shear in the upper atmosphere, which rapidly ventilates the heat of the storm.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> The strict meteorological definition of a Super Typhoon is sustained winds exceeding 240 km/h (over 130 knots).<br><b>Statement-II is incorrect (Physical Absolute Inversion):</b> Tropical cyclones and Super Typhoons strictly require <b>low vertical wind shear</b> to form and intensify. High wind shear disrupts the storm structure and prevents it from organizing.<br><br><i>PYQ Integration:</i> The examiner heavily tests the strict atmospheric prerequisites for cyclones, mirroring the 2015 PYQ on why cyclones do not form in the South Atlantic.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Super Typhoon",
+    "question": "<b>Which of the following are the strict prerequisites for the formation and intensification of a tropical cyclone (Typhoon)?</b><br><br>1. Sea surface temperatures greater than 26.5°C.<br>2. The presence of the Coriolis force.<br>3. High vertical wind shear.<br>4. Pre-existing low-level atmospheric disturbance.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 2 and 4 only</b><br><br><b>Explanation:</b> <br>1 is correct: Warm ocean water (>26.5°C) provides the latent heat energy.<br>2 is correct: Coriolis force is absolutely necessary to create the cyclonic spin (which is why they don't form at the equator).<br>3 is incorrect: <b>Low</b> vertical wind shear is required. High wind shear rips the storm apart.<br>4 is correct: A pre-existing low-level disturbance (like a tropical wave) is necessary to trigger the system.<br><br><i>PYQ Integration:</i> Direct evaluation of geographical absolutes, mirroring the 2020 PYQ on jet streams and cyclone eye temperatures.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "The Axial Seamount",
+    "question": "<b>With reference to the 'Axial Seamount', recently in the news, consider the following statements:</b><br><br>1. It is a highly active submarine volcano located atop the Juan de Fuca Ridge in the Pacific Ocean.<br>2. It hosts the New Millennium Observatory (NeMO), the world’s first permanent underwater volcanic observatory.<br>3. Seamounts are fundamentally active tectonic plates colliding to form deep oceanic trenches.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 2 are correct)</b><br><br><b>Statement 1 is correct:</b> The Axial Seamount is located about 480 km west of Oregon in the Pacific Ocean at the intersection of a geological hotspot and a mid-ocean ridge.<br><b>Statement 2 is correct:</b> It hosts the NeMO observatory for long-term monitoring.<br><b>Statement 3 is incorrect (Definitional Trap):</b> Seamounts are strictly <b>underwater mountains</b> (usually extinct or active volcanoes), not colliding tectonic plates or trenches.<br><br><i>PYQ Integration:</i> The examiner routinely tests the exact definition and location of new geological/scientific discoveries (e.g., 2015 PYQ on 'IndARC').",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "The Axial Seamount",
+    "question": "<b>The scientific exploration of seamounts, such as the Axial Seamount, holds immense value for the field of 'astrobiology' primarily because:</b>",
+    "options": [
+      "They are the only places on Earth where meteorites remain perfectly preserved without degradation.",
+      "Their hydrothermal vent systems offer insights into life on early Earth and possible life on other planetary bodies with subsurface oceans.",
+      "They emit high-frequency radio waves that interfere with deep space telescopic communications.",
+      "They are remnants of ancient alien structures submerged during the Earth's formation."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Their hydrothermal vent systems offer insights into life on early Earth and possible life on other planetary bodies with subsurface oceans.</b><br><br><b>Explanation:</b> Seamounts often feature hydrothermal vents that support unique chemosynthetic ecosystems. Studying how life thrives in these extreme, dark, high-pressure environments provides astrobiologists with models for how life might exist on celestial bodies like Europa or Enceladus.<br><br><i>PYQ Integration:</i> The examiner tests the applied scientific purpose of geographical features, similar to the 2012 PYQ on why scientists study anti-matter.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Arabian Sea Mini Warm Pool",
+    "question": "<b>Consider the following statements regarding the 'Arabian Sea Mini Warm Pool (MWP)':</b><br><br><b>Statement-I:</b> The Arabian Sea MWP acts as a natural balancing system that helps the Indian Summer Monsoon regain strength after disruptions caused by El Niño.<br><b>Statement-II:</b> The MWP is a region of unusually cold sea surface water that forms every year in the north-western Arabian Sea during the winter months.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> Recent studies show the MWP acts as a silent stabilizer, helping the monsoon recover from previous El Niño disruptions.<br><b>Statement-II is incorrect (Geographical & Thermal Inversion Trap):</b> The MWP is strictly a region of <b>unusually warm</b> water (SST > 30°C) that forms in the <b>southeastern Arabian Sea (near Kerala)</b> during the <b>pre-monsoon</b> months (April-May), not cold water in the winter.<br><br><i>PYQ Integration:</i> The examiner frequently uses S1/S2 formats to test climatological phenomena (like the Indian Ocean Dipole or El Nino Modoki tested in 2017 and 2010), heavily relying on temperature and location swaps.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Arabian Sea Mini Warm Pool",
+    "question": "<b>The Arabian Sea Mini Warm Pool forms primarily during which of the following periods?</b>",
+    "options": [
+      "During the peak of the Northeast Monsoon (December-January)",
+      "Immediately following the withdrawal of the Southwest Monsoon (October)",
+      "Just before the onset of the Indian Summer Monsoon (April-May)",
+      "During the exact peak of an El Niño Southern Oscillation (ENSO) event"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Just before the onset of the Indian Summer Monsoon (April-May)</b><br><br><b>Explanation:</b> The Arabian Sea Mini Warm Pool forms every year in April–May, just before the onset of the Indian Summer Monsoon. The SST in this area often exceeds 30°C, making it the warmest region in the Arabian Sea during the pre-monsoon months.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Mud Volcano",
+    "question": "<b>Consider the following statements regarding 'Mud Volcanoes':</b><br><br>1. Unlike ordinary magmatic volcanoes, mud volcanoes erupt a mixture of mud, water, and gases, strictly devoid of molten rock.<br>2. They are frequently associated with subduction zones and the presence of underground petroleum or natural gas reserves.<br>3. India's only known active mud volcano is located in the Gulf of Kutch in Gujarat.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 2 are correct)</b><br><br><b>Statement 1 is correct:</b> Mud volcanoes do not erupt magma. They erupt a slurry of depressurized water, clay, and gases.<br><b>Statement 2 is correct:</b> They form when pressurized water mixes with mineral-rich clay, often driven upward by tectonic activity or hydrocarbon gases (methane), making them indicators of petroleum reserves.<br><b>Statement 3 is incorrect (Location Swap Trap):</b> India's only known mud volcano is strictly located on <b>Baratang Island</b> in the Andaman and Nicobar Islands, not in Gujarat.<br><br><i>PYQ Integration:</i> The examiner maps rare geological anomalies to specific Indian states, mirroring the 2018 PYQ that tested the location of the Barren Island volcano.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Mud Volcano",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The eruption of a mud volcano is primarily driven by the accumulation of pressurized hydrocarbon gases like methane underground.<br><b>Statement-II:</b> Mud volcanoes are essentially ordinary stratovolcanoes that have entered a dormant, cooling phase.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> The upward propulsion in mud volcanoes is largely driven by depressurized hydrocarbon gases (especially methane) pushing the mud/water slurry to the surface.<br><b>Statement-II is incorrect (Definitional Trap):</b> Mud volcanoes are <b>not</b> magmatic volcanoes (stratovolcanoes or shield volcanoes) in a dormant phase. They are a completely different geological feature driven by pressurized gas and water, not magma.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "South Atlantic Anomaly",
+    "question": "<b>With reference to the 'South Atlantic Anomaly (SAA)', consider the following statements:</b><br><br>1. It is a geographical region where the Earth's inner Van Allen radiation belt dips closest to the Earth's surface.<br>2. The magnetic field in this region is unusually strong, completely repelling all solar radiation.<br>3. Spacecraft and satellites passing through this anomaly are exposed to significantly higher levels of damaging radiation.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3 are correct)</b><br><br><b>Statement 1 is correct:</b> The SAA is an area over South America and the South Atlantic Ocean where the Van Allen radiation belt dips down to an altitude of 200 km.<br><b>Statement 2 is incorrect (Physical Inversion Trap):</b> The magnetic field in the SAA is strictly <b>weaker</b> than normal, allowing charged particles to penetrate lower into the atmosphere, not repelling them.<br><b>Statement 3 is correct:</b> Due to the weaker magnetic shielding, satellites experience higher radiation, which can cause technological glitches.<br><br><i>PYQ Integration:</i> The examiner tests the exact physical mechanisms of Earth's magnetic/atmospheric anomalies, similar to the 2011 PYQ on the Antarctic ozone hole.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "South Atlantic Anomaly",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Recent observational data indicates that the South Atlantic Anomaly is expanding westward and weakening in overall intensity.<br><b>Statement-II:</b> The expansion of the South Atlantic Anomaly is projected to cause widespread disruption to terrestrial biological life on the Earth's surface within the next decade.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> NASA data from 2015-2020 confirms the SAA is expanding westward, weakening, and even splitting into two cells.<br><b>Statement-II is incorrect (Catastrophic Exaggeration Trap):</b> While the SAA affects low-Earth orbit satellites (causing tech glitches), scientists confirm it causes <b>no major impacts</b> on the surface of the Earth and is not a threat to biological life. The changes are within normal geological variation.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Aravalli Hills",
+    "question": "<b>Consider the following pairs comparing the Aravalli Range with the Himalayan Range:</b><br><br><b>Feature : Aravalli Range : Himalayan Range</b><br>1. Origin : Pre-Cambrian : Tertiary<br>2. Geological Stability : Unstable (Seismic) : Stable<br>3. Mountain Type : Residual Fold : Young Fold<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two pairs (Pairs 1 and 3 are correct)</b><br><br><b>Pair 1 is correctly matched:</b> The Aravallis are amongst the oldest (Pre-Cambrian), while the Himalayas are the youngest (Tertiary).<br><b>Pair 2 is incorrectly matched (Inversion Trap):</b> The Aravallis are geologically <b>stable</b>, whereas the young Himalayas are geologically <b>unstable and highly seismic</b>.<br><b>Pair 3 is correctly matched:</b> Aravallis are residual (relict) fold mountains; Himalayas are young fold mountains.<br><br><i>PYQ Integration:</i> Standard tabular matching used by the examiner to test comparative geomorphology, similar to the 2012 PYQ testing evidences of the Himalayas being young fold mountains.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Aravalli Hills",
+    "question": "<b>With reference to the Aravalli Mountain Range, consider the following statements:</b><br><br>1. It spans exclusively across the states of Rajasthan and Gujarat.<br>2. It serves as the source for several major peninsular rivers including the Godavari and the Narmada.<br>3. The Aravalli Green Wall Project aims to create a 5 km-wide buffer zone around the range to combat desertification.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 3 is correct)</b><br><br><b>Statement 1 is incorrect (Exclusive Boundary Trap):</b> The Aravallis span across <b>Gujarat, Rajasthan, Haryana, and the National Capital Territory of Delhi</b>, not exclusively Rajasthan and Gujarat.<br><b>Statement 2 is incorrect (River Origin Trap):</b> The Aravallis give rise to the <b>Luni, Sabarmati, Banas, and Sahibi</b> rivers. The Narmada originates in Amarkantak, and the Godavari in Trimbakeshwar.<br><b>Statement 3 is correct:</b> The Aravalli Green Wall Project is an ambitious plan across 3 states and Delhi to combat land degradation.<br><br><i>PYQ Integration:</i> Testing river origins against specific hill ranges is a classic UPSC trap (e.g., 2013 PYQ on Narmada/Tapti origins).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Goniopora Corals",
+    "question": "<b>Recent reports from the University of Sydney indicate a massive 75% wipeout of Goniopora coral colonies at the One Tree Reef. This ecological disaster was primarily attributed to the combined impact of:</b>",
+    "options": [
+      "Ocean acidification and destructive deep-sea trawling practices.",
+      "Record-breaking heat stress and an aggressive outbreak of Black Band Disease (BBD).",
+      "Invasive crown-of-thorns starfish and major oil spills.",
+      "Submarine volcanic eruptions and subsequent tsunami waves."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Record-breaking heat stress and an aggressive outbreak of Black Band Disease (BBD).</b><br><br><b>Explanation:</b> The specific destruction of Goniopora corals at One Tree Reef (part of the Great Barrier Reef system) was documented to be caused by a lethal combination of climate-induced record-breaking heat stress and the rapid spread of Black Band Disease (BBD), an aggressive microbial pathogen that kills coral tissue.<br><br><i>PYQ Integration:</i> The examiner tests the specific pathogenic and climatic causes of current ecological events, moving beyond generic terms like 'coral bleaching'.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Goniopora Corals",
+    "question": "<b>Consider the following statements regarding coral diseases and mortality:</b><br><br><b>Statement-I:</b> Black Band Disease (BBD) can cause rapid mortality in coral colonies like Goniopora.<br><b>Statement-II:</b> BBD is caused exclusively by coral bleaching, where the coral expels its symbiotic zooxanthellae due to cold water temperatures.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> BBD is an aggressive disease causing rapid tissue loss and mortality in corals.<br><b>Statement-II is incorrect (Causality & Definition Trap):</b> Black Band Disease is <b>not</b> the same as coral bleaching. BBD is caused by a consortium of pathogenic microbes (cyanobacteria, bacteria). Additionally, coral bleaching is most commonly triggered by <b>heat stress (warm water)</b>, not cold water.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
