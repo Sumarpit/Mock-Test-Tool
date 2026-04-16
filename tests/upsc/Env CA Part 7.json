@@ -1,0 +1,452 @@
+[
+  {
+    "section": "Science and Technology",
+    "topic": "Germanium",
+    "question": "<b>With reference to 'Germanium', a critical mineral for semiconductors, consider the following statements:</b><br><br>1. It is found abundantly in its pure form in the Earth's crust and is primarily mined directly from primary ores.<br>2. It possesses a unique property of being transparent to infrared light, making it crucial for military-grade infrared lenses.<br>3. The Geological Survey of India (GSI) has recently discovered the world's largest viable reserves of Germanium in the Aravalli belt.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>Statement 1 is incorrect (Absolute Trap):</b> Germanium is strictly <b>not found in its pure form</b>. It is obtained exclusively as a byproduct of zinc and copper mining or extracted from coal fly ash.<br><b>Statement 2 is correct:</b> It is transparent to infrared light, making it critical for defense guidance systems and thermal imaging.<br><b>Statement 3 is incorrect (Data Inversion Trap):</b> India completely lacks significant deposits and relies heavily on imports (primarily from China). The GSI has <b>not</b> identified any viable reserves in India.<br><br><i>PYQ Integration:</i> The examiner frequently tests the domestic availability of critical minerals, mirroring the 2022 PYQ on Monazite and Rare Earth Elements.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Germanium",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> China currently accounts for over 60% to 90% of the global production of Germanium.<br><b>Statement-II:</b> The Ministry of Mines in India has officially classified Germanium as a critical mineral due to its indispensable role in defense and renewable energy technologies.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> China is the dominant global producer of Germanium.<br><b>Statement-II is correct:</b> The Ministry of Mines has officially classified it as a critical mineral. However, India classifying it as critical (Statement-II) is not the geological/economic <i>reason</i> why China dominates its global production (Statement-I).<br><br><i>PYQ Integration:</i> Uses the classic S1/S2 format to test geopolitical supply chain dominance versus domestic policy classifications.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Geotubing Technology",
+    "question": "<b>A recent study highlighting the application of 'Geotube' technology in the Indian Exclusive Economic Zone (EEZ) was conducted by which of the following institutions?</b>",
+    "options": [
+      "National Institute of Oceanography (NIO)",
+      "National Institute of Ocean Technology (NIOT)",
+      "Geological Survey of India (GSI)",
+      "Indian National Centre for Ocean Information Services (INCOIS)"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: National Institute of Ocean Technology (NIOT)</b><br><br><b>Explanation:</b> A study by scientists from the National Institute of Ocean Technology (NIOT) explored the application of geotube technology concerning the harvesting of non-living and living resources in the Indian EEZ.<br><br><i>PYQ Integration:</i> The examiner frequently tests the exact nodal research institutions behind emerging marine and geological technologies.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Geotubing Technology",
+    "question": "<b>Consider the following statements regarding the Indian Exclusive Economic Zone (EEZ):</b><br><br>1. The total area of the Indian EEZ is approximately equal to two-thirds of the land area of India.<br>2. Within the EEZ, India holds sovereign rights for the purpose of exploring and harvesting both living and non-living resources.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>Statement 1 is correct:</b> As noted in the context of recent NIOT studies on geotubing, the Indian EEZ covers an area roughly equivalent to two-thirds of India's terrestrial landmass.<br><b>Statement 2 is correct:</b> Under UNCLOS, a coastal state has sovereign rights in its EEZ specifically for exploring and exploiting, conserving, and managing natural resources, whether living or non-living.<br><br><i>PYQ Integration:</i> Evaluates UNCLOS jurisdictional limits and geographical scale, akin to the 2022 PYQ on territorial waters and EEZ limits.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "EnviStats India 2025",
+    "question": "<b>With reference to the 'EnviStats India 2025' report, consider the following statements:</b><br><br>1. It is an annual publication strictly compiled by the Ministry of Environment, Forest and Climate Change (MoEFCC).<br>2. It is structured according to the UN Framework for the Development of Environment Statistics (FDES) 2013.<br>3. According to the 2025 report, India's inland fish production has witnessed a decline over the last decade due to severe wetland degradation.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>Statement 1 is incorrect (Nodal Ministry Swap Trap):</b> EnviStats India is strictly published by the National Statistics Office (NSO) under the <b>Ministry of Statistics & Programme Implementation (MoSPI)</b>, not the MoEFCC.<br><b>Statement 2 is correct:</b> It aligns with the UN FDES 2013 framework covering six core components.<br><b>Statement 3 is incorrect (Data Trend Trap):</b> The report explicitly notes that inland fish production <b>increased</b> significantly from 61.36 lakh tonnes (2013-14) to 139.07 lakh tonnes (2023-24).<br><br><i>PYQ Integration:</i> The examiner routinely swaps nodal ministries (MoEFCC vs MoSPI) and tests broad decadal trends (increasing vs decreasing) in agriculture and environment.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "EnviStats India 2025",
+    "question": "<b>Which of the following is NOT one of the six core components covered under the UN Framework for the Development of Environment Statistics (FDES) 2013, as utilized in EnviStats India?</b>",
+    "options": [
+      "Environmental Conditions & Quality",
+      "Extreme Events & Disasters",
+      "Human Settlements & Environmental Health",
+      "Extraterrestrial Atmospheric Phenomena"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Extraterrestrial Atmospheric Phenomena</b><br><br><b>Explanation:</b> The six core components of FDES 2013 are: 1) Environmental Conditions & Quality, 2) Environmental Resources & Their Use, 3) Residuals (waste/pollution), 4) Extreme Events & Disasters, 5) Human Settlements & Environmental Health, and 6) Environmental Protection, Management & Engagement. Extraterrestrial phenomena are entirely excluded.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Thirstwave",
+    "question": "<b>Consider the following statements regarding the meteorological phenomenon termed as 'Thirstwaves':</b><br><br><b>Statement-I:</b> Thirstwaves are strictly identical to heatwaves, driven solely by anomalous spikes in ambient air temperature.<br><b>Statement-II:</b> Thirstwaves are characterized by an extended period of high atmospheric evaporative demand, incorporating factors like humidity, wind, and solar radiation alongside temperature.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect (Definitional Inversion Trap):</b> Thirstwaves are <b>not</b> identical to heatwaves. While heatwaves are primarily driven by high temperatures, thirstwaves are a more comprehensive measure of atmospheric 'thirst'.<br><b>Statement-II is correct:</b> Thirstwaves describe extended periods of high atmospheric evaporative demand, factoring in humidity, wind, and solar radiation, causing the air to aggressively draw moisture from the surface.<br><br><i>PYQ Integration:</i> The examiner frequently tests the precise physical definitions of emerging climatological terms (e.g., 2024 PYQ on 'Bow Echoes' and 'Polar Vortex').",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Thirstwave",
+    "question": "<b>The concept of 'Thirstwaves', which describes an atmosphere with exceptionally high evaporative demand, was recently coined by which of the following researchers?</b>",
+    "options": [
+      "Meetpal Kukal and Mike Hobbins",
+      "Madhav Gadgil and K. Kasturirangan",
+      "M.S. Swaminathan and Norman Borlaug",
+      "Syukuro Manabe and Klaus Hasselmann"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Meetpal Kukal and Mike Hobbins</b><br><br><b>Explanation:</b> The term 'thirstwaves' was recently coined by researchers Meetpal Kukal and Mike Hobbins to describe extended periods of high atmospheric thirst or evaporative demand, distinct from traditional heatwaves.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Disaster Risk Reduction (DRR) Financing",
+    "question": "<b>The Global Assessment Report (GAR) 2025, titled \"Resilience Pays: Financing and Investing for Our Future\", was recently released by which of the following organizations?</b>",
+    "options": [
+      "United Nations Environment Programme (UNEP)",
+      "World Economic Forum (WEF)",
+      "United Nations Office for Disaster Risk Reduction (UNDRR)",
+      "International Monetary Fund (IMF)"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: United Nations Office for Disaster Risk Reduction (UNDRR)</b><br><br><b>Explanation:</b> The Global Assessment Report (GAR) is the flagship report of the UNDRR. The 2025 edition focuses specifically on Disaster Risk Reduction (DRR) financing.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Disaster Risk Reduction (DRR) Financing",
+    "question": "<b>Consider the following statements regarding Disaster Risk Reduction (DRR):</b><br><br>1. DRR financing is strictly limited to post-disaster humanitarian relief and reconstruction efforts.<br>2. The UNDRR's GAR 2025 emphasizes proactive financing and investment in resilience to mitigate future disaster impacts.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Absolute Limit Trap):</b> DRR financing is explicitly designed to shift focus <b>away</b> from just post-disaster relief towards <i>pre-disaster</i> mitigation, preparedness, and resilience building.<br><b>Statement 2 is correct:</b> The GAR 2025 (\"Resilience Pays\") advocates for proactive investments to prevent hazards from becoming full-scale disasters.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Revised Guidelines on National Bioenergy Programme",
+    "question": "<b>Consider the following pairs of sub-schemes under the National Bioenergy Programme and their primary focus:</b><br><br><b>Sub-Scheme : Primary Focus</b><br>1. Waste to Energy Programme : Generating BioCNG and syngas from urban and industrial waste.<br>2. Biomass Programme : Establishing biomass cogeneration projects exclusively utilizing sugarcane bagasse.<br>3. Biogas Programme : Promoting family and medium-sized biogas plants in rural areas for clean cooking fuel.<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two pairs (Pairs 1 and 3 are correct)</b><br><br><b>Pair 1 is correctly matched:</b> The Waste to Energy Programme focuses on biogas, BioCNG, power, or syngas from urban, industrial, and agricultural waste.<br><b>Pair 2 is incorrectly matched (Explicit Exclusion Trap):</b> The Biomass Programme explicitly <b>excludes bagasse</b> for its biomass cogeneration projects.<br><b>Pair 3 is correctly matched:</b> The Biogas Programme targets family-sized plants for rural sanitation and cooking fuel.<br><br><i>PYQ Integration:</i> The examiner ruthlessly tests the explicit exclusions within government schemes (e.g., matching the 2018 PYQ trap on National Food Security Act coverage).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Revised Guidelines on National Bioenergy Programme",
+    "question": "<b>With reference to the National Bioenergy Programme, consider the following statements:</b><br><br>1. It aims to foster rural incomes and support decentralized energy systems.<br>2. It completely prohibits the use of agricultural waste, reserving it strictly for organic composting.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> The programme mitigates rural pollution (like crop residue burning) while fostering rural incomes through decentralized energy.<br><b>Statement 2 is incorrect:</b> The Waste to Energy sub-programme explicitly <b>encourages</b> the use of agricultural waste to generate power, BioCNG, or syngas, offering an alternative to crop burning.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "State Energy Efficiency Index (SEEI)",
+    "question": "<b>With reference to the State Energy Efficiency Index (SEEI) 2024, consider the following statements:</b><br><br>1. It is released by the NITI Aayog in collaboration with the World Bank.<br>2. The 2024 edition newly integrates the profiling of MSME clusters and incentives for electric vehicle (EV) adoption into its assessment framework.<br>3. States scoring above 60% are categorized as 'Front Runners'.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>Statement 1 is incorrect (Nodal Agency Swap Trap):</b> The SEEI is strictly released by the <b>Bureau of Energy Efficiency (BEE)</b> under the Ministry of Power, in collaboration with the Alliance for an Energy Efficient Economy (AEEE), not NITI Aayog.<br><b>Statement 2 is correct:</b> New features in 2024 include ESCO models, building star-ratings, MSME cluster profiling, PAT expansion, and EV incentives.<br><b>Statement 3 is correct:</b> The four categories are Front Runners (>60%), Achievers (50-60%), Contenders (30-50%), and Aspirants (<30%).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "State Energy Efficiency Index (SEEI)",
+    "question": "<b>The State Energy Efficiency Index evaluates state performance across several major demand sectors. Which of the following is NOT one of the primary sectors evaluated under this index?</b>",
+    "options": [
+      "Electricity Distribution Companies (DISCOMs)",
+      "Municipal Services",
+      "Aviation and Aerospace Manufacturing",
+      "Agriculture"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Aviation and Aerospace Manufacturing</b><br><br><b>Explanation:</b> The SEEI uses 66 indicators across seven major demand sectors: Buildings, Industry, Transport, Agriculture, Municipal Services, Electricity Distribution Companies (DISCOMs), and Cross-sector Initiatives. Aviation manufacturing is not a primary sector evaluated.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Global Reporting Initiative",
+    "question": "<b>Which one of the following best describes the 'Global Reporting Initiative (GRI)', often seen in the news?</b>",
+    "options": [
+      "It is a specialized agency of the United Nations mandating financial audits for multinational banks.",
+      "It is a global best practice framework used by organizations for sustainability reporting on economic, environmental, and social impacts.",
+      "It is an intergovernmental treaty enforcing binding carbon emission caps on developing nations.",
+      "It is a sovereign wealth fund established by the European Union to finance green infrastructure in Africa."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: It is a global best practice framework used by organizations for sustainability reporting on economic, environmental, and social impacts.</b><br><br><b>Explanation:</b> The GRI is an independent, international, non-profit organization that provides the world's most widely used framework for sustainability reporting. It is registered in the Netherlands.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Global Reporting Initiative",
+    "question": "<b>Consider the following statements regarding the Global Reporting Initiative (GRI) framework:</b><br><br>1. The GRI framework strictly legally binds all G20 countries to submit annual carbon emission reports to the UNFCCC.<br>2. The framework is organized into three core components: Universal Standards, Sector Standards, and Topic Standards.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect (Binding Treaty Trap):</b> The GRI is a <b>non-profit foundation</b> providing a voluntary sustainability reporting framework for businesses and organizations. It is not a legally binding intergovernmental treaty, nor does it enforce submissions to the UNFCCC.<br><b>Statement 2 is correct:</b> The GRI framework is structurally divided into Universal Standards, Sector Standards, and Topic Standards.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Graded Response Action Plan (GRAP)",
+    "question": "<b>Consider the following pairs regarding the Graded Response Action Plan (GRAP) and the corresponding Air Quality Index (AQI) categories:</b><br><br><b>GRAP Stage : AQI Level</b><br>1. Stage 1 : AQI Poor (201-300)<br>2. Stage 3 : AQI Severe (401-450)<br>3. Stage 4 : AQI Severe+ (451 and above)<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three pairs</b><br><br><b>Explanation:</b> GRAP categorization is strictly defined as:<br>- Stage 1 (Poor): AQI 201-300<br>- Stage 2 (Very Poor): AQI 301-400<br>- Stage 3 (Severe): AQI 401-450<br>- Stage 4 (Severe+): AQI > 450<br>All three pairs are perfectly matched.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Graded Response Action Plan (GRAP)",
+    "question": "<b>With reference to the Commission for Air Quality Management (CAQM), consider the following statements:</b><br><br>1. It is an executive body created through a simple cabinet resolution to advise the Delhi Government.<br>2. Its jurisdictional mandate extends to Punjab, Haryana, Rajasthan, and Uttar Pradesh to combat air pollution in the NCR.<br>3. Its composition strictly excludes representation from non-governmental organizations (NGOs) and the Indian Space Research Organisation (ISRO).<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>Statement 1 is incorrect (Statutory Body Trap):</b> The CAQM is a <b>statutory body</b> established under the Commission for Air Quality Management in NCR and Adjoining Areas Act, 2021, not a mere executive body.<br><b>Statement 2 is correct:</b> Its jurisdiction covers the NCR and adjoining areas in Punjab, Haryana, Rajasthan, and UP, particularly addressing issues like stubble burning.<br><b>Statement 3 is incorrect:</b> The CAQM explicitly includes <b>three members from NGOs</b> and technical members from <b>ISRO</b>, CPCB, and NITI Aayog.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Tobacco Generational Ban",
+    "question": "<b>Which one of the following countries recently became the first in the world to introduce a 'Generational Tobacco Ban', permanently prohibiting the sale of cigarettes to individuals born after a fixed cutoff date?</b>",
+    "options": [
+      "New Zealand",
+      "Australia",
+      "Maldives",
+      "Bhutan"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Maldives</b><br><br><b>Explanation:</b> The Maldives has become the first country to formally introduce and enforce a generational ban on tobacco. (New Zealand had proposed a similar law but subsequently repealed it before full implementation).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Tobacco Generational Ban",
+    "question": "<b>Consider the following statements regarding the 'Generational Tobacco Ban' policy:</b><br><br><b>Statement-I:</b> It seeks to eradicate tobacco consumption by permanently prohibiting the sale of tobacco products to anyone born after a specified year.<br><b>Statement-II:</b> It mandates the immediate closure and demolition of all existing tobacco manufacturing facilities within the country.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> A Generational Tobacco Ban phases out tobacco by ensuring that younger generations (born after a cutoff date) can never legally purchase tobacco products.<br><b>Statement-II is incorrect:</b> The policy targets the <b>sale</b> to specific age cohorts rather than the immediate blanket closure of all manufacturing units, allowing older generations to still purchase during the transition phase.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "National One Health Mission",
+    "question": "<b>With reference to the National One Health Mission (NOHM), consider the following statements:</b><br><br>1. It operates under the guidance of the Indian Council of Medical Research (ICMR) and is steered by the Office of the Principal Scientific Adviser.<br>2. It focuses exclusively on human pandemic preparedness, leaving environmental and animal health to the Ministry of Agriculture.<br>3. The National Institute of Virology (NIV), Pune, has been designated as its Central Anchor Institution.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 1 is correct)</b><br><br><b>Statement 1 is correct:</b> NOHM is steered by the Office of the PSA with ICMR guidance.<br><b>Statement 2 is incorrect (Exclusive Focus Trap):</b> The very definition of 'One Health' is the <b>integrated and holistic</b> approach addressing human, animal, and environmental health together, not in silos.<br><b>Statement 3 is incorrect (Institution Swap Trap):</b> The Central Anchor Institution for the NOHM is the <b>National Institute of One Health, Nagpur</b>, not NIV Pune.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "National One Health Mission",
+    "question": "<b>The Executive Committee governing the National One Health Mission (NOHM) is chaired by the:</b>",
+    "options": [
+      "Prime Minister of India",
+      "Principal Scientific Adviser (PSA) to the Government of India",
+      "Union Minister of Health and Family Welfare",
+      "Director General of the Indian Council of Medical Research (ICMR)"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Union Minister of Health and Family Welfare</b><br><br><b>Explanation:</b> The Governance Structure of the NOHM dictates that its Executive Committee is chaired by the Union Minister of Health and Family Welfare, with the Principal Scientific Adviser (PSA) serving as the co-chair.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Policy on Geothermal Energy 2025",
+    "question": "<b>Consider the following pairs of priority geothermal sites identified in India and their respective locations:</b><br><br><b>Geothermal Site : State/UT</b><br>1. Puga : Ladakh<br>2. Tattapani : Chhattisgarh<br>3. Dirang : Arunachal Pradesh<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three pairs</b><br><br><b>Explanation:</b> Under the National Policy on Geothermal Energy 2025, the Geological Survey of India (GSI) has identified several priority sites for exploration and drilling. Puga is in Ladakh, Tattapani is in Chhattisgarh, and Dirang is in Arunachal Pradesh. All three pairs are correct.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Policy on Geothermal Energy 2025",
+    "question": "<b>With reference to India's National Policy on Geothermal Energy 2025, consider the following statements:</b><br><br>1. The Ministry of Coal acts as the nodal ministry for implementing this policy.<br>2. To protect domestic energy security, Foreign Direct Investment (FDI) is strictly capped at 49% for all geothermal projects.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Statement 1 is incorrect (Nodal Ministry Swap Trap):</b> The <b>Ministry of New and Renewable Energy (MNRE)</b> is the nodal ministry for geothermal energy, not the Ministry of Coal.<br><b>Statement 2 is incorrect (FDI Absolute Trap):</b> The policy explicitly permits <b>100% Foreign Direct Investment (FDI)</b> to attract global technology and capital for costly geothermal drilling operations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Grey Rhino Event",
+    "question": "<b>Consider the following statements regarding risk management terminology in disaster studies:</b><br><br><b>Statement-I:</b> The Wayanad Landslides were classified as a 'Grey Rhino Event' because they occurred in a highly documented landslide-prone zone with repeated prior warnings.<br><b>Statement-II:</b> A 'Grey Rhino Event' refers exclusively to a highly improbable, completely unpredictable catastrophe that takes society by total surprise.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> The 'Sliding Earth, Scattered Lives' study classified the Wayanad landslides as a Grey Rhino event because the region had clear, accumulating evidence of severe landslide risks which were insufficiently mitigated.<br><b>Statement-II is incorrect (Definitional Swap Trap):</b> The definition provided in S2 describes a <b>'Black Swan'</b> event. A <b>'Grey Rhino'</b> event is a highly probable, high-impact threat that is obvious and foreseeable, but is often ignored or overlooked by authorities.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Grey Rhino Event",
+    "question": "<b>In the context of systemic disruptions and ecological disasters, a 'Grey Rhino Event' is fundamentally characterized by:</b>",
+    "options": [
+      "Low probability and low impact.",
+      "High probability and high impact, preceded by clear warning signs.",
+      "Zero probability of occurrence outside of active war zones.",
+      "High impact but complete unpredictability (zero warning signs)."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: High probability and high impact, preceded by clear warning signs.</b><br><br><b>Explanation:</b> A Grey Rhino event refers to a highly probable, high-impact systemic disruption that is often overlooked despite clear, accumulating warning signs. This contrasts with a Black Swan event, which is unpredictable.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Early Warnings for All (EW4ALL)",
+    "question": "<b>In the context of the global 'Early Warnings for All' initiative, the 'Preparedness and Response' pillar, which aims to strengthen community readiness to act on warnings, is globally led by which organization?</b>",
+    "options": [
+      "World Health Organization (WHO)",
+      "International Federation of Red Cross and Red Crescent Societies (IFRC)",
+      "United Nations Security Council (UNSC)",
+      "World Meteorological Organization (WMO)"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: International Federation of Red Cross and Red Crescent Societies (IFRC)</b><br><br><b>Explanation:</b> Under the Early Warnings framework, the 'Preparedness and Response' pillar is led by the IFRC to ensure that local communities, especially in remote areas, are ready to act swiftly when warnings are issued.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Early Warnings for All (EW4ALL)",
+    "question": "<b>Consider the following statements regarding the focus of global early warning preparedness systems:</b><br><br><b>Statement-I:</b> The primary objective of modern early warning systems is to restrict alert notifications exclusively to urban metropolitan centers to protect critical financial infrastructure.<br><b>Statement-II:</b> The IFRC-led preparedness strategy emphasizes strengthening readiness to act on warnings for all people, explicitly including those residing in remote and marginalized areas.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect (Exclusionary Trap):</b> The explicit goal of 'Early Warnings for All' is universal coverage, completely rejecting the idea of restricting warnings exclusively to urban centers.<br><b>Statement-II is correct:</b> The IFRC leads the preparedness and response pillar to ensure that *all* people, especially those in remote areas, receive and can act upon disaster warnings.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "Kuttanad Wetland Agricultural System",
+    "question": "<b>Recent soil tests in the Kuttanad wetland agricultural system, known as the \"rice bowl of Kerala\", have revealed a severe threat to crop health primarily due to dangerously high concentrations of:</b>",
+    "options": [
+      "Uranium",
+      "Aluminium",
+      "Lead",
+      "Arsenic"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Aluminium</b><br><br><b>Explanation:</b> Soil tests in the Kuttanad paddy fields have reported dangerously high aluminium concentrations. This aluminium becomes chemically mobilized in the soil, posing a serious risk to crop productivity and health.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "Kuttanad Wetland Agricultural System",
+    "question": "<b>Consider the following statements regarding the heavy metal toxicity observed in the Kuttanad paddy fields:</b><br><br><b>Statement-I:</b> The high concentration of aluminium in Kuttanad soils is entirely the result of external industrial pollutants being dumped into the wetlands by nearby factories.<br><b>Statement-II:</b> The aluminium in these fields is naturally present but becomes chemically mobilized due to specific biochemical and acidic conditions in the soil.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect:</b> The aluminium in Kuttanad is <b>not</b> \"introduced\" as an external industrial pollutant.<br><b>Statement-II is correct:</b> It becomes chemically mobilized from the native soil due to changes in soil chemistry (often linked to acidity/pH fluctuations in the unique wetland system), causing toxicity to the rice crops.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
