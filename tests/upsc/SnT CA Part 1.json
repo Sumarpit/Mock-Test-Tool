@@ -1,0 +1,362 @@
+[
+  {
+    "section": "Science and Technology",
+    "topic": "EOS 09 Satellite",
+    "question": "<b>Consider the following statements regarding the EOS-09 satellite and the RISAT series:</b><br><br>1. EOS-09 is exclusively designed for civilian applications such as flood mapping and crop health assessment.<br>2. The RISAT series satellites utilize Synthetic Aperture Radar (SAR), which relies on optical sensors to capture high-resolution imagery.<br>3. RISAT-2 series satellites employ X-band SAR to provide very high-resolution imagery for border surveillance.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 3 is correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> The examiner trap here is the extreme word 'exclusively'. EOS-09 is a <i>dual-use</i> satellite designed for both military (detecting infiltration) and civilian (flood mapping) purposes.<br><b>Statement 2 is incorrect:</b> A classic conceptual trap. Synthetic Aperture Radar (SAR) does NOT rely on optical sensors (which require sunlight); it sends radio/microwave signals to the Earth, enabling all-weather, day-and-night observation.<br><b>Statement 3 is correct:</b> RISAT-2 series uses X-band SAR for very high-resolution imagery, launched in response to the 2008 Mumbai attacks.<br><br><b>PYQ Reverse-Engineering:</b> UPSC frequently tests the functional differences between optical and radar imaging satellites (e.g., 2015 IRS satellite application question).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "EOS 09 Satellite",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Synthetic Aperture Radar (SAR) satellites like the RISAT series can capture images during the day and night and through dense cloud cover.<br><b>Statement-II:</b> SAR simulates a large antenna by combining multiple small radar observations as the satellite moves, enabling it to penetrate atmospheric barriers using optical wavelengths.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct, but Statement-II is incorrect</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> SAR technology allows for all-weather, day-and-night observation, successfully capturing images through clouds, smoke, or rain.<br><b>Statement-II is incorrect:</b> While it correctly defines how the 'synthetic' aperture is created (combining multiple radar observations), the fatal trap lies at the end of the sentence: it uses <i>microwave/radio signals</i>, NOT <i>optical wavelengths</i>. Optical sensors rely on sunlight and cannot penetrate clouds.<br><br><b>PYQ Reverse-Engineering:</b> This mirrors the Statement-I/Statement-II pattern seen heavily in 2023 and 2024 Prelims, punishing partial knowledge.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "China’s Tianwen-2 Mission",
+    "question": "<b>Consider the following statements regarding recent asteroid and comet exploration missions:</b><br><br>1. China's Tianwen-2 mission aims to collect and return samples from a near-Earth asteroid that is suspected to be a fragment of the Moon.<br>2. The OSIRIS-REx mission, which successfully returned samples from asteroid Bennu, was a joint venture between NASA and the European Space Agency (ESA).<br>3. Tianwen-2 is exclusively designed for asteroid sample return and will conclude its mission by 2027.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> Tianwen-2 aims to collect samples from the near-Earth asteroid 469219 Kamo'oalewa, a possible fragment of the Moon.<br><b>Statement 2 is incorrect:</b> Distractor engineering utilizing similar-sounding space agencies. OSIRIS-REx was a NASA (USA) mission, not a joint venture with ESA.<br><b>Statement 3 is incorrect:</b> The extreme word trap ('exclusively... conclude'). Tianwen-2 is a dual-target mission; after returning asteroid samples by 2027, it will proceed to orbit and study Comet 311P by 2035.<br><br><b>PYQ Reverse-Engineering:</b> Space mission matching (Agency to Mission/Target) is a high-frequency microtheme (e.g., Cassini, Messenger, Voyager in 2014 PYQ).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "China’s Tianwen-2 Mission",
+    "question": "<b>Consider the following pairs regarding global asteroid sample-return missions:</b><br><br><b>Mission : Space Agency</b><br>1. Hayabusa 2 : JAXA<br>2. OSIRIS-REx : NASA<br>3. Tianwen-3 : CNSA<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three pairs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is correctly matched:</b> Hayabusa 2 is a mission by JAXA (Japan) that returned samples from asteroid Ryugu in 2020.<br><b>Pair 2 is correctly matched:</b> OSIRIS-REx is a NASA (USA) mission that returned rocks and dust from asteroid Bennu in 2023.<br><b>Pair 3 is correctly matched:</b> Tianwen-3 is a planned mission by CNSA (China) aiming for Mars sample-return by 2028.<br><br><b>PYQ Reverse-Engineering:</b> The 'How many pairs' format prevents elimination. Solidified in 2023/2024, it demands absolute factual certainty regarding international space programs.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Global Space Exploration Conference (GLEX) 2025",
+    "question": "<b>Consider the following statements regarding the Global Space Exploration Conference (GLEX) 2025:</b><br><br>1. It was held in New Delhi, marking the first time India hosted this conference.<br>2. It was organized exclusively by the Indian Space Research Organisation (ISRO) under the theme “Reaching New Worlds”.<br>3. On the sidelines of the conference, ISRO signed a Joint Statement of Intent on Human Space Exploration with NASA.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 1 is correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> GLEX 2025 was held in New Delhi for the first time.<br><b>Statement 2 is incorrect:</b> Trap of extreme phrasing ('exclusively'). It was jointly organized by the International Astronautical Federation (IAF), ISRO (as host), and the Astronautical Society of India (ASI) (as co-host).<br><b>Statement 3 is incorrect:</b> The agreement was signed between ISRO and the European Space Agency (ESA), not NASA. Interchanging international agencies is a classic UPSC trick.<br><br><b>PYQ Reverse-Engineering:</b> Tests awareness of recent high-profile summits hosted in India and exact partner organizations, akin to questions on UN or WTO summits.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Global Space Exploration Conference (GLEX) 2025",
+    "question": "<b>Which of the following organizations partnered to jointly organize the Global Space Exploration Conference (GLEX) 2025 in New Delhi?</b><br><br>1. International Astronautical Federation (IAF)<br>2. Indian Space Research Organisation (ISRO)<br>3. Astronautical Society of India (ASI)<br>4. European Space Agency (ESA)<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The conference was jointly organized by the International Astronautical Federation (IAF), with ISRO as the host and the Astronautical Society of India (ASI) as the co-host. ESA is a distractor here; while ISRO and ESA signed a Joint Statement of Intent on Human Space Exploration on the sidelines of the conference, ESA was not an organizer.<br><br><b>PYQ Reverse-Engineering:</b> Listing multiple bodies and asking which ones co-hosted or founded an initiative is a standard template (e.g., Global Environment Facility, PAGE, etc.).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Axiom 4: India’s Leap to ISS",
+    "question": "<b>Consider the following statements regarding the Axiom-4 (Ax-4) mission:</b><br><br>1. It is a joint intergovernmental spaceflight funded entirely by NASA and ISRO to the International Space Station (ISS).<br>2. Shubhanshu Shukla, who flew on the Ax-4 mission, is the first Indian citizen ever to travel to space.<br>3. The mission's scientific studies include assessing blood-sugar variations in microgravity for insulin-dependent conditions.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> The examiner trap here is 'intergovernmental'. Ax-4 is a <i>private crewed spaceflight</i> operated by Axiom Space in partnership with SpaceX and NASA, not entirely funded/operated by ISRO/NASA.<br><b>Statement 2 is incorrect:</b> Static-current confusion trap. Shubhanshu Shukla is the <i>second</i> Indian in space; Rakesh Sharma was the first in 1984.<br><b>Statement 3 is correct:</b> Experiments onboard include studying diabetes (blood-sugar variations in microgravity).<br><br><b>PYQ Reverse-Engineering:</b> UPSC blends historical static facts (Rakesh Sharma) with current affairs (Ax-4) to test comprehensive awareness.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Axiom 4: India’s Leap to ISS",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> India's participation in the Axiom-4 mission is strategically aligned with its commitments under the Artemis Accords.<br><b>Statement-II:</b> The Artemis Accords are a legally binding multilateral treaty establishing a military coalition for lunar exploration.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct, but Statement-II is incorrect</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> India's participation in Ax-4 is significant in the context of the Artemis Accords, which India signed in 2023, committing to peaceful lunar exploration.<br><b>Statement-II is incorrect:</b> The classic institutional nature trap. The Artemis Accords are a <i>non-binding</i> set of principles designed to guide civil space exploration and foster <i>peaceful</i> cooperation, not a legally binding military coalition.<br><br><b>PYQ Reverse-Engineering:</b> Questions on international agreements frequently test whether they are 'legally binding' or focus on 'military vs civilian' use (e.g., 2018 NSG and IAEA protocols).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Voyager Tardigrades Experiment",
+    "question": "<b>Consider the following statements regarding Tardigrades:</b><br><br>1. They are microscopic animals capable of surviving extreme ionizing radiation, extreme temperatures, and the vacuum of space.<br>2. The 'Voyager Tardigrades experiment' is being conducted aboard the Chandrayaan-4 mission to assess lunar dust impact.<br>3. Tardigrades possess a unique survival mechanism called 'cryptobiosis', where they expel almost all their body water to halt metabolism.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3 are correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> Tardigrades (water bears) are known for their resilience to extreme environments, including radiation, deep sea, and the vacuum of space.<br><b>Statement 2 is incorrect:</b> Current affairs location trap. The experiment is being conducted by astronauts on the Axiom-4 (Ax-4) mission to the International Space Station, not Chandrayaan-4.<br><b>Statement 3 is correct:</b> Cryptobiosis is their primary survival mechanism, essentially halting their metabolism by expelling body water.<br><br><b>PYQ Reverse-Engineering:</b> UPSC loves asking about unique biological mechanisms of species (e.g., hibernation, symbiotic relationships, 2014 & 2021 PYQs).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Voyager Tardigrades Experiment",
+    "question": "<b>What is the primary scientific objective of studying 'Tardigrades' in space missions like Axiom-4?</b>",
+    "options": [
+      "To utilize them as a self-replicating biological fuel source for deep space propulsion.",
+      "To serve as biological models for developing radiation protection and preventing muscle loss in astronauts.",
+      "To evaluate their potential in terraforming the Martian atmosphere by breaking down toxic perchlorates.",
+      "To study their ability to synthesize water from the lunar regolith in microgravity environments."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: To serve as biological models for developing radiation protection and preventing muscle loss in astronauts.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The Voyager Tardigrades experiment on Ax-4 uses tardigrades as models for astronaut protection against radiation and muscle loss, helping to understand survival mechanisms in extreme conditions. Options A, C, and D are fabricated science-fiction distractors designed to sound plausible to an unprepared candidate.<br><br><b>PYQ Reverse-Engineering:</b> Single-line conceptual questions testing the 'why' behind major scientific experiments are frequent (e.g., LIGO experiment, PRATUSH telescope).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Small Satellite Launch Vehicle (SSLV)",
+    "question": "<b>Consider the following statements regarding the Small Satellite Launch Vehicle (SSLV):</b><br><br>1. Hindustan Aeronautics Limited (HAL) is set to manufacture the SSLV independently following a technology transfer from ISRO.<br>2. The technology transfer to a public sector undertaking contradicts the space sector reforms of 2020, which restricted rocket manufacturing exclusively to private startups.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> HAL is set to manufacture the SSLV independently, marking a major step after two years of ISRO collaboration and technology transfer.<br><b>Statement 2 is incorrect:</b> The examiner trap here relies on misinterpreting the 2020 reforms. The technology transfer to HAL actually <i>aligns</i> with the space sector reforms initiated in 2020, which aimed to commercialize space activities and involve both private and public industrial participation, not restrict it 'exclusively' to private startups.<br><br><b>PYQ Reverse-Engineering:</b> Tests understanding of the nuances of government policy. Extreme words like 'restricted exclusively' are prime markers for incorrect statements.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Small Satellite Launch Vehicle (SSLV)",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The technology for manufacturing the Small Satellite Launch Vehicle (SSLV) has been transferred to Hindustan Aeronautics Limited (HAL) for independent production.<br><b>Statement-II:</b> ISRO has completely halted the development and launch of all its indigenous rockets to focus exclusively on planetary exploration and human spaceflight.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct, but Statement-II is incorrect</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> HAL is taking over independent manufacturing of the SSLV following tech transfer from ISRO.<br><b>Statement-II is incorrect:</b> This is a logical extremity trap. ISRO has not halted the development of its rockets (e.g., LVM3, PSLV are still actively used and upgraded). The transfer is part of commercialization reforms to free up ISRO's resources, not a complete halt on ISRO's launch capabilities.<br><br><b>PYQ Reverse-Engineering:</b> Tests the candidate's ability to filter out exaggerated rationales for genuine government actions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Vera C. Rubin Observatory (VRO)",
+    "question": "<b>Consider the following statements regarding the Vera C. Rubin Observatory (VRO):</b><br><br>1. It is located in the Andes Mountains of northern Chile to minimize atmospheric interference.<br>2. It is solely funded and operated by the European Space Agency (ESA) to conduct the Legacy Survey of Space and Time.<br>3. The observatory utilizes the world's largest digital camera to conduct a comprehensive 10-year survey of the southern sky.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3 are correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> VRO is located at 8,684 feet on Cerro Pachón in the Andes Mountains of northern Chile.<br><b>Statement 2 is incorrect:</b> Funding trap. It is a joint initiative of the U.S. National Science Foundation (NSF) and the U.S. Department of Energy (DOE), not the European Space Agency (ESA).<br><b>Statement 3 is correct:</b> It houses the 3.2-gigapixel LSST Camera, the largest digital camera ever built for astronomy, for a 10-year survey of the southern sky.<br><br><b>PYQ Reverse-Engineering:</b> UPSC often asks about the location and funding agencies of mega-science projects (e.g., INO, ITER, eLISA).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Vera C. Rubin Observatory (VRO)",
+    "question": "<b>Consider the following pairs regarding major scientific observatories and their locations:</b><br><br><b>Observatory/Detector : Location</b><br>1. Vera C. Rubin Observatory : Chile<br>2. IceCube Particle Detector : South Pole<br>3. PRATUSH Telescope : Lunar orbit<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three pairs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is correctly matched:</b> Vera C. Rubin Observatory is located on Cerro Pachón in Chile.<br><b>Pair 2 is correctly matched:</b> IceCube is the world's largest neutrino detector buried deep in the ice at the South Pole.<br><b>Pair 3 is correctly matched:</b> PRATUSH is a proposed lunar-orbit radiometer mission (funded by ISRO) to study the early Universe.<br><br><b>PYQ Reverse-Engineering:</b> Matching cutting-edge science facilities with their unique geographical or spatial locations is a recurring theme (e.g., IceCube in 2015, eLISA in 2017).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "GOSAT-GW Satellite",
+    "question": "<b>Consider the following statements regarding the GOSAT-GW Satellite:</b><br><br>1. It was launched by the Indian Space Research Organisation (ISRO) to exclusively monitor water cycle dynamics in the Indian Ocean region.<br>2. One of its primary objectives is to verify national inventories of anthropogenic greenhouse gas emissions.<br>3. It is designed to detect large emission sources, such as megacities and power plants, to support global climate policy.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> Agency and jurisdiction trap. The GOSAT-GW (Global Observing Satellite for Greenhouse gases and Water Cycle) was successfully launched by <i>Japan</i> from the Tanegashima Space Centre, not ISRO.<br><b>Statement 2 is correct:</b> It verifies national inventories of anthropogenic (human-caused) greenhouse gas emissions.<br><b>Statement 3 is correct:</b> It detects large emission sources like megacities and power plants to support climate mitigation.<br><br><b>PYQ Reverse-Engineering:</b> UPSC frequently swaps the launching country/agency for international environmental satellites.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "GOSAT-GW Satellite",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The GOSAT-GW satellite can assist global climate mitigation efforts by monitoring large emission sources such as megacities and power plants.<br><b>Statement-II:</b> It is equipped to verify national inventories of naturally occurring (non-anthropogenic) greenhouse gases exclusively.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct, but Statement-II is incorrect</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> GOSAT-GW detects large emission sources like megacities to support climate policy.<br><b>Statement-II is incorrect:</b> The trap is 'naturally occurring... exclusively'. The satellite is specifically designed to verify national inventories of <i>anthropogenic</i> (human-caused) GHG emissions, not just naturally occurring ones.<br><br><b>PYQ Reverse-Engineering:</b> A classic Statement I/II format where the second statement flips a crucial scientific detail (anthropogenic vs non-anthropogenic).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Asteroid Terrestrial-Impact Last Alert System (ATLAS)",
+    "question": "<b>Consider the following statements regarding the Asteroid Terrestrial-Impact Last Alert System (ATLAS):</b><br><br>1. It is an early warning system consisting of a network of space-based telescopes orbiting the Earth.<br>2. It was responsible for discovering the interstellar comet 3I/ATLAS, which is only the third interstellar object ever detected.<br>3. ATLAS was developed by the University of Hawaii and is funded by NASA.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> Location trap. ATLAS consists of four <i>ground-based</i> telescopes (Two in Hawaii, One in Chile, One in South Africa), not space-based telescopes.<br><b>Statement 2 is correct:</b> It discovered the comet 3I/ATLAS, which is the third interstellar object ever detected (after 'Oumuamua and Borisov).<br><b>Statement 3 is correct:</b> It was developed by the University of Hawaii and funded by NASA.<br><br><b>PYQ Reverse-Engineering:</b> Questions about ground-based vs space-based observatories are very common (e.g., Astrosat, James Webb, INO).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Asteroid Terrestrial-Impact Last Alert System (ATLAS)",
+    "question": "<b>Consider the following pairs regarding interstellar objects detected by scientists:</b><br><br><b>Interstellar Object : Discovery Status</b><br>1. 1I/ʻOumuamua : First interstellar object detected<br>2. 2I/Borisov : Second interstellar object detected<br>3. 3I/ATLAS : Third interstellar object detected<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three pairs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is correctly matched:</b> 1I/ʻOumuamua (2017) was the first interstellar object detected.<br><b>Pair 2 is correctly matched:</b> 2I/Borisov (2019) was the second.<br><b>Pair 3 is correctly matched:</b> 3I/ATLAS, discovered by the ATLAS telescope in Chile, is the third.<br><br><b>PYQ Reverse-Engineering:</b> The sequence of major astronomical discoveries is often tested to gauge depth of current affairs knowledge.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "TRACERS",
+    "question": "<b>Consider the following statements regarding the TRACERS mission:</b><br><br>1. It is a joint mission between NASA and ISRO to study the impact of space debris in Low Earth Orbit.<br>2. The mission utilizes twin identical satellites to study magnetic reconnection in Earth's polar cusps.<br>3. Magnetic reconnection occurs when solar wind collides with Earth's magnetic field, releasing huge amounts of energy that can disrupt GPS signals.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> Agency and objective trap. TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) is a NASA-funded mission developed primarily by the University of Iowa, not a joint ISRO mission. It studies magnetic reconnection, not space debris.<br><b>Statement 2 is correct:</b> It uses twin satellites orbiting through polar cusps to study magnetic reconnection.<br><b>Statement 3 is correct:</b> Magnetic reconnection from solar wind collision releases energy that produces auroras and can disrupt satellites, GPS, and power grids.<br><br><b>PYQ Reverse-Engineering:</b> Similar to the 2022 PYQ on solar flares, this tests the effects of space weather on Earth's infrastructure.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "TRACERS",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Magnetic reconnection in Earth's magnetic field can lead to the disruption of satellite communications, GPS signals, and power grids.<br><b>Statement-II:</b> Magnetic reconnection accelerates particles to high speeds, producing intense radiation bursts when solar wind collides with Earth's magnetic field.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> Magnetic reconnection disrupts satellites, GPS, and power grids.<br><b>Statement-II is correct and explains Statement-I:</b> The disruption happens *because* the collision of solar wind with Earth's magnetic field causes the field lines to break and reconnect, releasing huge energy and intense radiation bursts that interfere with technology.<br><br><b>PYQ Reverse-Engineering:</b> Tests the cause-and-effect relationship in physical phenomena, directly mimicking the 2022 question on solar storms.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "INVICTUS Programme",
+    "question": "<b>Consider the following statements regarding the INVICTUS Programme:</b><br><br>1. It is a collaborative initiative between the European Space Agency (ESA) and the UK-based Frazer-Nash.<br>2. It focuses on developing hypersonic technologies for single-use, vertical-takeoff space launch vehicles.<br>3. The programme aims to validate a hydrogen-fueled precooled air-breathing propulsion system.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3 are correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> INVICTUS is an ESA and UK-based Frazer-Nash research programme.<br><b>Statement 2 is incorrect:</b> Functional trap. It focuses on hypersonic technologies for *future reusable vehicles* capable of *horizontal* takeoff and landing, not single-use vertical-takeoff.<br><b>Statement 3 is correct:</b> It validates a hydrogen-fueled precooled air-breathing propulsion system for horizontal take-off.<br><br><b>PYQ Reverse-Engineering:</b> Details of propulsion and launch systems (e.g., solid vs liquid, reusable vs expendable) are frequent targets (e.g., 2018 PSLV vs GSLV question).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "INVICTUS Programme",
+    "question": "<b>The 'INVICTUS' research programme, recently in the news, is primarily focused on:</b>",
+    "options": [
+      "Developing drone-based quantum key distribution systems for defense communication.",
+      "Validating hypersonic technologies for reusable vehicles capable of horizontal takeoff and landing.",
+      "Establishing a permanent human settlement on the Moon's South Pole.",
+      "Mapping the 3D structures of star-forming regions in the Milky Way."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Validating hypersonic technologies for reusable vehicles capable of horizontal takeoff and landing.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The INVICTUS programme, initiated by ESA and Frazer-Nash, focuses on developing hypersonic technologies for future reusable vehicles capable of horizontal takeoff and landing, validating a hydrogen-fueled precooled air-breathing propulsion system. The distractors refer to other current events: drone QKD (Indian Navy), Lunar base (Artemis/LUPEX), and 3D star mapping (Gaia Telescope).<br><br><b>PYQ Reverse-Engineering:</b> Single-line matching of a project name to its core objective (e.g., Project Loon, eLISA, Greased Lightning-10 in 2016/2017).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "NISAR: NASA-ISRO Synthetic Aperture Radar Mission",
+    "question": "<b>Consider the following statements regarding the NISAR mission:</b><br><br>1. It is the first global imaging mission to provide fully polarimetric and interferometric radar data.<br>2. The mission relies exclusively on optical sensors, limiting its ability to capture images during cloudy weather.<br>3. The S-band radar and the GSLV-F16 launch vehicle were contributed by NASA, while ISRO provided the L-band radar.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> NISAR is the first global imaging mission providing fully polarimetric and interferometric radar data for tracking surface changes.<br><b>Statement 2 is incorrect:</b> The trap here is 'optical sensors'. NISAR uses microwave radars (Synthetic Aperture Radar) which can capture images day and night, and even through clouds, smoke, or rain.<br><b>Statement 3 is incorrect:</b> Contribution swap trap. NASA contributed the L-band radar, while ISRO contributed the S-band radar, spacecraft bus, and GSLV launch vehicle.<br><br><b>PYQ Reverse-Engineering:</b> Swapping technical contributions between partnering nations/agencies is a hallmark of UPSC difficulty scaling.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "NISAR: NASA-ISRO Synthetic Aperture Radar Mission",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Synthetic Aperture Radar (SAR) systems like NISAR can achieve high-resolution imaging from space without requiring a massive, kilometers-long physical antenna.<br><b>Statement-II:</b> SAR simulates a large antenna by combining multiple small radar observations as the satellite moves along its orbit.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II explains Statement-I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> Normally, high resolution with radar requires an impractically large antenna (e.g., 4 km long), but SAR achieves this without the physical bulk.<br><b>Statement-II is correct and explains Statement-I:</b> The reason it achieves this is by combining multiple small radar observations as the satellite moves, creating a 'synthetic' large antenna computationally.<br><br><b>PYQ Reverse-Engineering:</b> Tests the fundamental 'how' of a technology, similar to past questions on Fuel Cells or OLEDs.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
