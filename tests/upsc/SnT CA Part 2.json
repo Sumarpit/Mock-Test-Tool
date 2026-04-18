@@ -1,0 +1,452 @@
+[
+  {
+    "section": "Science and Technology",
+    "topic": "Human Outer Planet Exploration (HOPE) Station",
+    "question": "<b>Consider the following statements regarding the Human Outer Planet Exploration (HOPE) Station:</b><br><br>1. It is a space-based orbital outpost developed independently by ISRO to replace the International Space Station by 2035.<br>2. It is located in the Tso Kar valley of Ladakh to replicate Mars-like conditions such as low atmospheric pressure and high UV radiation.<br>3. It is strictly a Utility Module for robotic operations and lacks a Habitat Module for human crew living.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect:</b> The trap lies in the location and agency. HOPE is an <i>analogue research facility on Earth</i>, not a space-based orbital outpost. Furthermore, it is a collaboration between a private startup (Protoplanet) and ISRO, not developed independently.</li><li><b>Statement 2 is correct:</b> Tso Kar valley (14,500 ft) offers Mars-like conditions (High UV, extreme cold, saline permafrost).</li><li><b>Statement 3 is incorrect:</b> Extreme phrasing trap ('strictly... lacks'). It is designed as <i>both</i> a Habitat Module for crew living and a Utility Module.</li></ul><br><b>PYQ Reverse-Engineering:</b> UPSC frequently tests the location and objective of extreme-environment research stations (e.g., 2015 PYQ on 'IndARC' Arctic observatory or 2022 PYQ on Polar Code).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Human Outer Planet Exploration (HOPE) Station",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The Tso Kar valley in Ladakh was selected as the site for India's first analogue space research station (HOPE).<br><b>Statement-II:</b> The Tso Kar valley provides an environment devoid of UV radiation and atmospheric pressure, perfectly mimicking the vacuum of deep space.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> Tso Kar valley is indeed the site for the HOPE station.<br><b>Statement-II is incorrect:</b> Factual inversion trap. The valley provides <i>High</i> UV radiation and <i>Low</i> (but not devoid of) atmospheric pressure. It mimics planetary surfaces (like Mars), not the absolute vacuum of deep space.<br><br><b>PYQ Reverse-Engineering:</b> Mirrors the assertion-reason format heavily utilized in 2023-2024 Prelims to test exact geographical/scientific causality.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "LVM3 Launch Vehicle",
+    "question": "<b>Consider the following statements regarding the Launch Vehicle Mark-3 (LVM3):</b><br><br>1. It is configured as a three-stage vehicle utilizing two liquid strap-on motors and a solid core stage.<br>2. Its cryogenic upper stage is powered by the indigenously developed CE-20 engine.<br>3. It has a payload capacity of approximately 8 tonnes to the Geosynchronous Transfer Orbit (GTO).<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "2 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect:</b> Propellant swap trap. LVM3 uses two <i>solid</i> strap-on motors (S200) and a <i>liquid</i> core stage (L110).</li><li><b>Statement 2 is correct:</b> The C25 upper stage uses the indigenous CE-20 cryogenic engine (liquid oxygen + liquid hydrogen).</li><li><b>Statement 3 is incorrect:</b> Payload capacity trap. It can carry ~4 tonnes to GTO and ~8 tonnes to Low Earth Orbit (LEO).</li></ul><br><b>PYQ Reverse-Engineering:</b> Directly modeled on the 2018 PYQ comparing PSLV (solid/liquid stages) and GSLV Mk III capabilities.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "LVM3 Launch Vehicle",
+    "question": "<b>Consider the following pairs regarding the stages of the LVM3 launch vehicle:</b><br><br><b>Stage : Propellant Used</b><br>1. S200 Boosters : Solid fuel (HTPB)<br>2. L110 Core Stage : Liquid Oxygen and Liquid Hydrogen<br>3. C25 Upper Stage : Liquid fuel (UDMH + oxidizer)<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one pair</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is correct:</b> S200 uses solid HTPB.<br><b>Pair 2 is incorrect:</b> The L110 uses liquid fuel (UDMH + oxidizer), not cryogenic fuels.<br><b>Pair 3 is incorrect:</b> The C25 is the cryogenic stage using Liquid Oxygen + Liquid Hydrogen. The examiner swapped the propellants of stages 2 and 3.<br><br><b>PYQ Reverse-Engineering:</b> Tests granular technical knowledge of India's flagship space assets, punishing superficial reading, similar to past questions on Agni-IV fuel stages (2014 PYQ).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Leap-1 Mission",
+    "question": "<b>With reference to the LEAP-1 Mission, consider the following statements:</b><br><br>1. It is a commercial satellite mission launched by NewSpace India Limited (NSIL) to monitor maritime borders.<br>2. It carries the Nexus-01 payload, which possesses the capability to retrain machine learning models in orbit.<br>3. The mission relies entirely on Russian satellite bus platforms due to technology transfer agreements.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect:</b> Agency trap. LEAP-1 is the first commercial satellite mission of <i>Dhruva Space</i> (an Indian space-tech startup), not NSIL.</li><li><b>Statement 2 is correct:</b> Nexus-01 is an AI payload with onboard processing capable of retraining ML models in orbit.</li><li><b>Statement 3 is incorrect:</b> Extreme word ('entirely') + Factual error. It is built on Dhruva's <i>indigenous</i> P-30 platform, with international collaboration from Australia and the US, not Russia.</li></ul><br><b>PYQ Reverse-Engineering:</b> Tests awareness of the rising private space sector in India (IN-SPACe/Startups), a trending theme in recent years.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Leap-1 Mission",
+    "question": "<b>Which of the following best describes the 'Esper OTR-2', recently seen in the news in the context of the Leap-1 mission?</b>",
+    "options": [
+      "An indigenous semi-cryogenic engine developed by Dhruva Space.",
+      "A hyperspectral imaging payload designed for high-quality Earth observation.",
+      "A space-debris tracking radar system mounted on the PSLV.",
+      "An AI-based autonomous navigation module for lunar rovers."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: A hyperspectral imaging payload designed for high-quality Earth observation.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The Esper OTR-2 is a specific payload onboard the LEAP-1 mission. The distractors are plausible-sounding space technologies (engines, debris tracking, lunar navigation) designed to trap candidates who only read headlines.<br><br><b>PYQ Reverse-Engineering:</b> Mirrors the 2016 'Greased Lightning-10' or 2015 'IndARC' single-line conceptual questions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Orbiting Carbon Observatories (OCO) Program",
+    "question": "<b>Consider the following statements regarding the Orbiting Carbon Observatories (OCO) program:</b><br><br>1. It is a flagship initiative of the United Nations Environment Programme (UNEP) to monitor greenhouse gases.<br>2. Data from the OCO program has identified the Amazon rainforest as a net CO2 emitter.<br>3. The OCO-3 instrument is an independent satellite placed in a Geostationary orbit for continuous monitoring.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect:</b> Agency trap. OCO is a <i>NASA</i> program, not UNEP.</li><li><b>Statement 2 is correct:</b> A major finding of the OCO program was identifying the Amazon rainforest as a net CO2 emitter (and boreal forests as sinks).</li><li><b>Statement 3 is incorrect:</b> Deployment trap. OCO-3 is not an independent satellite; it was <i>mounted on the International Space Station (ISS)</i> in 2019.</li></ul><br><b>PYQ Reverse-Engineering:</b> Cross-disciplinary trap combining Environment (carbon sinks) with Space Tech. Fits the pattern of questions on environmental monitoring satellites (e.g., GOSAT).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Orbiting Carbon Observatories (OCO) Program",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The Orbiting Carbon Observatories (OCO) program aids in global food security analysis.<br><b>Statement-II:</b> OCO instruments create high-resolution maps of plant photosynthesis, which help in tracking droughts and predicting food shortages.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> OCO data is utilized for food security analysis.<br><b>Statement-II is correct and explains Statement-I:</b> By tracking Solar-Induced Fluorescence (SIF), OCO maps plant growth and vegetation health, allowing scientists to track droughts and predict resultant famines.<br><br><b>PYQ Reverse-Engineering:</b> Tests the practical applications of space technology on socio-economic issues, a favorite UPSC theme (e.g., 2015 IRS satellites application PYQ).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "LUPEX Mission",
+    "question": "<b>Consider the following statements regarding the Lunar Polar Exploration (LUPEX) mission:</b><br><br>1. It is a joint interplanetary mission exclusively between ISRO and the European Space Agency (ESA).<br>2. Under the mission architecture, ISRO will provide the lunar rover while its partner agency provides the lander.<br>3. The PRATHIMA payload on board the mission is designed to detect and quantify water-ice in permanently shadowed regions.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 3 is correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect:</b> Partner agency trap. LUPEX (Chandrayaan-5) is a joint mission between ISRO and <i>JAXA</i> (Japan), not ESA.</li><li><b>Statement 2 is incorrect:</b> Hardware swap trap. ISRO is providing the <i>lander</i>, while JAXA is providing the <i>rover</i> and the H3 launch vehicle.</li><li><b>Statement 3 is correct:</b> PRATHIMA is an Indian payload designed to detect water-ice.</li></ul><br><b>PYQ Reverse-Engineering:</b> Identifying exact roles in joint international missions is a standard UPSC filter (e.g., 2024 TRACERS or NISAR roles).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "LUPEX Mission",
+    "question": "<b>Consider the following pairs of proposed Indian payloads for the LUPEX mission and their objectives:</b><br><br><b>Payload : Objective</b><br>1. PRATHIMA : Detection and quantification of water-ice<br>2. LEDEX : Study of charged lunar dust behavior<br><br><b>Which of the pairs given above is/are correctly matched?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Both pairs are correctly matched as per the LUPEX mission parameters. PRATHIMA detects water-ice, and LEDEX studies charged lunar dust. The trap here relies on the obscurity of specific payload names, punishing aspirants who do not read technical sub-components of major missions.<br><br><b>PYQ Reverse-Engineering:</b> Matches the depth of the 2018 'Belle II / CRISPR-Cas9' matching question.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Bluebird Satellite",
+    "question": "<b>With reference to the 'BlueBird Satellite' block-2 recently in the news, consider the following statements:</b><br><br>1. It is a next-generation military reconnaissance satellite developed entirely by ISRO.<br>2. It aims to eliminate the need for ground towers by providing direct broadband connectivity from space to ordinary smartphones.<br>3. It will be positioned in a Geostationary Orbit (GEO) to minimize latency issues during voice calls.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect:</b> Developer trap. While launched by ISRO (heaviest commercial payload at ~6000kg), it is developed by <i>AST SpaceMobile, a U.S.-based company</i>, not ISRO.</li><li><b>Statement 2 is correct:</b> It enables direct satellite-to-smartphone 4G/5G connectivity, bypassing ground stations.</li><li><b>Statement 3 is incorrect:</b> Orbit trap. It operates in <i>Low Earth Orbit (LEO)</i> (approx. 520 km), specifically because GEO has very high latency (600ms+) unsuitable for modern broadband.</li></ul><br><b>PYQ Reverse-Engineering:</b> Tests the LEO vs GEO concepts heavily featured in recent space tech debates (e.g., Starlink, 2018 IRNSS PYQ).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Bluebird Satellite",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The BlueBird Block-2 satellite is placed in a Low Earth Orbit (LEO) rather than a Geostationary Orbit (GEO).<br><b>Statement-II:</b> LEO satellites offer significantly lower latency compared to GEO satellites, making them suitable for interactive applications and direct-to-mobile broadband.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> BlueBird operates in LEO (~520 km).<br><b>Statement-II is correct and explains Statement-I:</b> GEO satellites (~35,786 km) suffer from high latency (delay) due to the vast distance signals must travel. LEO solves this, offering fibre-like latency (20-50ms) essential for the satellite's direct-to-smartphone broadband goal.<br><br><b>PYQ Reverse-Engineering:</b> Foundational conceptual test on satellite orbits and their telecom applications.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Mira Stars",
+    "question": "<b>With reference to 'Mira Stars', recently seen in the news in the context of astronomical observations by the Inter-University Centre for Astronomy and Astrophysics (IUCAA), consider the following statements:</b><br><br>1. They are a class of hyper-velocity black holes escaping the Milky Way.<br>2. They represent a phase of stellar evolution characterized by rapid, uncontrolled nuclear fission.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Information not found in uploaded sources</b> regarding the specific characteristics of Mira Stars, as the source text was truncated ('MIRA STARS Context: Scientists from Inter-University Centre for Astronomy and Astrophysics (IUCAA) have recently made the...'). However, based strictly on the provided text, statements 1 and 2 are fabricated distractors designed to test the candidate's susceptibility to complex astronomical jargon.<br><br><b>PYQ Reverse-Engineering:</b> Modeled on the 2023 'Cepheids / Pulsars / Nebulae' terminology matching question.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Mira Stars",
+    "question": "<b>The term 'Mira Stars' recently appeared in the news in the context of research conducted by which of the following institutions?</b>",
+    "options": [
+      "European Space Agency (ESA)",
+      "Inter-University Centre for Astronomy and Astrophysics (IUCAA)",
+      "National Aeronautics and Space Administration (NASA)",
+      "Bhabha Atomic Research Centre (BARC)"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Inter-University Centre for Astronomy and Astrophysics (IUCAA)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>As per the limited source text provided, the discovery related to Mira Stars was made by scientists from the Inter-University Centre for Astronomy and Astrophysics (IUCAA). <b>Information not found in uploaded sources</b> to build deeper scientific distractors for this specific topic.<br><br><b>PYQ Reverse-Engineering:</b> Factual institutional attribution question.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Solar Orbiter Mission",
+    "question": "<b>With reference to the 'Solar Orbiter Mission', consider the following statements:</b><br><br>1. It is the primary payload of the Aditya-L1 Mission developed by the Indian Institute of Astrophysics.<br>2. It aims to capture physical samples of Solar Energetic Electrons (SEEs) from the Sun's corona and return them to Earth.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Information not found in uploaded sources</b> regarding the 'Solar Orbiter Mission'. The distractors are built using adjacent source data (Aditya-L1's VELC payload and Solar Energetic Electrons).<br><b>Statement 1 is incorrect:</b> The primary payload of Aditya-L1 is the Visible Emission Line Coronagraph (VELC), not the Solar Orbiter Mission.<br><b>Statement 2 is incorrect:</b> No current mission returns physical samples from the Sun's corona.<br><br><b>PYQ Reverse-Engineering:</b> Tests ability to separate distinct but related space missions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Solar Orbiter Mission",
+    "question": "<b>Which of the following missions is primarily associated with the study of Coronal Mass Ejections (CMEs) and Solar Energetic Electrons (SEEs) as per the provided context?</b>",
+    "options": [
+      "Solar Orbiter Mission",
+      "Aditya-L1",
+      "ESCAPADE Mission",
+      "LUPEX Mission"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Aditya-L1</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Information not found in uploaded sources</b> regarding the 'Solar Orbiter Mission'. According to the text, it is the Aditya-L1 mission (using the VELC payload) that studies parameters of Coronal Mass Ejections (CMEs) and Solar Energetic Electrons (SEEs). The 'Solar Orbiter Mission' acts as a distractor here.<br><br><b>PYQ Reverse-Engineering:</b> Single-line elimination based on exact mission objectives.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "PRATYUSH Telescope",
+    "question": "<b>Consider the following statements regarding the PRATUSH Telescope:</b><br><br>1. It is a ground-based radio telescope located in the Tso Kar valley of Ladakh.<br>2. Its primary objective is to detect 21-cm hydrogen signals from the Cosmic Dawn and the Epoch of Reionization.<br>3. It utilizes a commercial off-the-shelf Single-Board Computer based on the Raspberry Pi for its master controller.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect:</b> Location/Type trap. PRATUSH is a proposed <i>lunar-orbit radiometer</i>, not a ground-based telescope in Ladakh (Ladakh is the site for the HOPE analogue station).</li><li><b>Statement 2 is correct:</b> It aims to probe the reionization of the Universe using 21-cm hydrogen signals.</li><li><b>Statement 3 is correct:</b> It incorporates a compact payload with a Single-Board Computer (Raspberry Pi) and FPGA.</li></ul><br><b>PYQ Reverse-Engineering:</b> Echoes the 2017 PYQ on eLISA and the 2015 PYQ on IceCube, testing exact locations and core objectives of mega-science observatories.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "PRATYUSH Telescope",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The PRATUSH Telescope is designed to operate in an orbit on the far side of the Moon.<br><b>Statement-II:</b> The far side of the Moon provides a radio-quiet environment shielded from Earth's radio interference and ionospheric distortion.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> PRATUSH is a lunar-orbit radiometer specifically designed to observe from the lunar far side.<br><b>Statement-II is correct and explains Statement-I:</b> The Earth produces immense radio noise. The Moon acts as a physical shield blocking this noise, creating a 'radio-quiet' zone necessary to detect extremely faint 21-cm hydrogen signals from the early universe.<br><br><b>PYQ Reverse-Engineering:</b> Evaluates the 'why' behind specific astronomical positioning choices.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "NE-SPARKS Programme",
+    "question": "<b>With reference to the NE-SPARKS Programme, consider the following statements:</b><br><br>1. It is a 100% Centrally Sponsored Scheme funded exclusively by the Ministry of Development of North Eastern Region (MDoNER).<br>2. It aims to spark interest in STEM fields by providing students from North Eastern states with exposure visits to ISRO centres.<br>3. Under this initiative, students are trained in building commercial small-satellite launch vehicles.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect:</b> Funding ratio trap. It is jointly funded by MDoNER and the respective state governments in a 60:40 ratio, not 100% centrally funded.</li><li><b>Statement 2 is correct:</b> It exposes students to ISRO tech (Chandrayaan, Aditya-L1) to spark STEM interest.</li><li><b>Statement 3 is incorrect:</b> Exaggeration trap. It is an <i>awareness and exposure</i> program, not a highly advanced aerospace engineering training program for school students to build rockets.</li></ul><br><b>PYQ Reverse-Engineering:</b> Tests the standard governance template: Nodal Ministry + Funding Pattern + Core Objective.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "NE-SPARKS Programme",
+    "question": "<b>Which of the following entities are the primary collaborating partners for the implementation of the NE-SPARKS Programme?</b>",
+    "options": [
+      "NITI Aayog and the Department of Science and Technology (DST)",
+      "Ministry of Development of North Eastern Region (MDoNER), NESAC-ISRO, and NE State Governments",
+      "Ministry of Education and the All India Council for Technical Education (AICTE)",
+      "Indian National Space Promotion and Authorisation Centre (IN-SPACe) and private ed-tech startups"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Ministry of Development of North Eastern Region (MDoNER), NESAC-ISRO, and NE State Governments</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>NE-SPARKS is implemented by MDoNER in collaboration with NESAC-ISRO and 8 NE state governments. Distractors use related but incorrect nodal agencies (IN-SPACe, AICTE) to confuse the candidate regarding educational space initiatives.<br><br><b>PYQ Reverse-Engineering:</b> Institutional linkage question, mirroring 2017 PYQ on 'National Career Service' nodal ministries.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "AstroSat",
+    "question": "<b>Consider the following statements regarding 'AstroSat':</b><br><br>1. It is positioned in a sun-synchronous orbit at an altitude of 1.5 million kilometres to study the Sun's corona.<br>2. It enables the simultaneous multi-wavelength observation of various astronomical objects with a single satellite.<br>3. The Soft X-ray Telescope (SXT) and Ultra Violet Imaging Telescope (UVIT) are among its primary scientific payloads.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect:</b> Orbit and Objective trap. AstroSat is in a 650 km Low Earth Orbit (LEO), not at 1.5 million km (which is the L1 point for Aditya-L1). It studies celestial sources, not just the Sun's corona.</li><li><b>Statement 2 is correct:</b> Unique feature: simultaneous multi-wavelength observations (X-ray, UV, optical).</li><li><b>Statement 3 is correct:</b> UVIT, SXT, LAXPC, CZTI, and SSM are its instruments.</li></ul><br><b>PYQ Reverse-Engineering:</b> Directly updates the 2016 AstroSat PYQ, which also laid a trap regarding its exact orbital altitude (1650 km vs 650 km).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "AstroSat",
+    "question": "<b>Which of the following scientific instruments is NOT a payload onboard India's AstroSat mission?</b>",
+    "options": [
+      "Large Area X-ray Proportional Counter (LAXPC)",
+      "Scanning Sky Monitor (SSM)",
+      "Visible Emission Line Coronagraph (VELC)",
+      "Cadmium-Zinc-Telluride Imager (CZTI)"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Visible Emission Line Coronagraph (VELC)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>VELC is the primary payload of the <b>Aditya-L1</b> solar mission, not AstroSat. LAXPC, SSM, and CZTI are valid AstroSat instruments designed for X-ray and UV observations.<br><br><b>PYQ Reverse-Engineering:</b> Payload matching is a standard difficulty-multiplier in space tech questions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Gaia Telescope 3D Map",
+    "question": "<b>With reference to the Gaia Telescope, consider the following statements:</b><br><br>1. It was launched by NASA to investigate the cosmic microwave background radiation.<br>2. It orbits the Sun at the second Lagrange point (L2), located approximately 1.5 million kilometres from Earth.<br>3. It utilizes an onboard spectrometer to determine the chemical composition and motion of stars.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect:</b> Agency and Objective trap. Gaia was launched by the <i>European Space Agency (ESA)</i>, not NASA, to map the Milky Way galaxy's stars (astrometry), not the cosmic microwave background.</li><li><b>Statement 2 is correct:</b> Like the James Webb Space Telescope, it orbits the Sun at the L2 point.</li><li><b>Statement 3 is correct:</b> Its instruments include an astrometer, photometer, and spectrometer.</li></ul><br><b>PYQ Reverse-Engineering:</b> Tests orbital positioning (L2 point) and specific space agency attributions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Gaia Telescope 3D Map",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The recent 3D map created using data from the Gaia Telescope maps star-forming regions within the Milky Way.<br><b>Statement-II:</b> The Gaia Telescope relies solely on terrestrial optical observatories stationed in the Andes to gather its astrometric data.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> The recent 3D map shows stellar nurseries within 4,000 light-years.<br><b>Statement-II is incorrect:</b> Location trap. Gaia is a <i>space observatory</i> located 1.5 million km away at L2, not a terrestrial observatory in the Andes (which describes the Vera C. Rubin Observatory).<br><br><b>PYQ Reverse-Engineering:</b> Tests the distinction between space-based vs ground-based observatories.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "AONEUM-04",
+    "question": "<b>Consider the following statements regarding 'AONEUM-04', recently seen in the news:</b><br><br>1. It is an indigenous antibiotic nebulization suspension.<br>2. It was developed for the targeted treatment of severe tuberculosis in infants.<br>3. Its development was supported by the Technology Development Board (TDB) under the Department of Science and Technology (DST).<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3 are correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is correct:</b> AONEUM-04 is an indigenous antibiotic nebulization suspension.</li><li><b>Statement 2 is incorrect:</b> Disease trap. It is designed for the treatment of <i>pneumonia</i>, not tuberculosis.</li><li><b>Statement 3 is correct:</b> It was supported by the TDB under DST and developed by Aodh Lifesciences.</li></ul><br><b>PYQ Reverse-Engineering:</b> Tests awareness of specific indigenous medical tech developments and their exact target diseases.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "AONEUM-04",
+    "question": "<b>The term 'AONEUM-04' sometimes mentioned in the media is related to:</b>",
+    "options": [
+      "A next-generation mRNA vaccine against Dengue virus.",
+      "An indigenous antibiotic nebulization suspension for pneumonia.",
+      "A new variety of genetically modified pest-resistant cotton.",
+      "An Artificial Intelligence framework for medical diagnostics."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: An indigenous antibiotic nebulization suspension for pneumonia.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>AONEUM-04 is a medical development for pneumonia. The distractors are plausible biotech/health-tech buzzwords (mRNA vaccines, AI diagnostics) designed to catch candidates guessing based on the alphanumeric name.<br><br><b>PYQ Reverse-Engineering:</b> Standard single-line 'term in news' format (e.g., 2019 PYQ on 'Cas9 protein').",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "SpaceX's Starship Completes Critical Test Flight",
+    "question": "<b>Consider the following statements regarding the SpaceX 'Starship':</b><br><br>1. It is a single-stage-to-orbit launch vehicle.<br>2. It is a fully reusable heavy-lift vehicle designed to reach destinations like the Moon and Mars.<br>3. During its recent test flight, the Super Heavy booster splashed down in the Indian Ocean.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect:</b> Architecture trap. It is a <i>two-stage</i> vehicle (Super Heavy booster + Starship spacecraft), not single-stage.</li><li><b>Statement 2 is correct:</b> It is fully reusable and designed for deep space payloads.</li><li><b>Statement 3 is incorrect:</b> Geography trap. The Super Heavy booster splashed in the <i>Gulf of Mexico</i>, while the Starship spacecraft reached the <i>Indian Ocean</i>.</li></ul><br><b>PYQ Reverse-Engineering:</b> Tests specific geographical and architectural details of major global space achievements.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "SpaceX's Starship Completes Critical Test Flight",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Starship is currently classified as the largest rocket ever flown in space history.<br><b>Statement-II:</b> Starship stands at approximately 120 metres in height, surpassing NASA's historic Apollo-era launch vehicles.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> It is the largest and most powerful rocket ever flown.<br><b>Statement-II is correct and explains Statement-I:</b> Its immense height (120 metres) and thrust capabilities make it larger than the Saturn V rockets used during the Apollo missions.<br><br><b>PYQ Reverse-Engineering:</b> Verifies fundamental facts about record-breaking technological hardware.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Extreme Nuclear Transients (ENTS)",
+    "question": "<b>Consider the following statements regarding 'Extreme Nuclear Transients (ENTS)':</b><br><br>1. They represent brief, highly energetic bursts of radiation emitted during the collision of two black holes.<br>2. They were first confirmed by the Gaia Telescope in 2024.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Information not found in uploaded sources.</b> The text provided does not contain data regarding 'Extreme Nuclear Transients (ENTS)'. The options provided are distractors mimicking adjacent space technology concepts.<br><br><b>PYQ Reverse-Engineering:</b> N/A due to lack of source material.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Extreme Nuclear Transients (ENTS)",
+    "question": "<b>The phenomenon of 'Extreme Nuclear Transients (ENTS)' is best described as:</b>",
+    "options": [
+      "A type of hypothetical cosmic explosion combining traits of a supernova and a kilonova.",
+      "The rapid magnetic reconnection events in the Earth's upper atmosphere.",
+      "Sudden spikes in solar wind radiation disrupting low-earth orbit satellites.",
+      "A phenomenon not explicitly detailed in the provided source material."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: A phenomenon not explicitly detailed in the provided source material.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Information not found in uploaded sources.</b> Option A refers to a 'Superkilonova', Option B refers to Magnetic Reconnection studied by TRACERS, and Option C refers to Solar Energetic Electrons (SEEs). The topic ENTS is entirely absent from the provided text.<br><br><b>PYQ Reverse-Engineering:</b> N/A due to lack of source material.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]

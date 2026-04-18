@@ -239,6 +239,8 @@
 ,
 {"name": "SnT CA Part 1", "filename": "SnT CA Part 1.json", "path": "tests/upsc/SnT CA Part 1.json"}
 ,
+{"name": "SnT CA Part 2", "filename": "SnT CA Part 2.json", "path": "tests/upsc/SnT CA Part 2.json"}
+,
 {"name": "center state relations 20q", "filename": "center state relations 20q.json", "path": "tests/upsc/center state relations 20q.json"}
 ,
 {"name": "con stitutional bodies", "filename": "con stitutional bodies.json", "path": "tests/upsc/con stitutional bodies.json"}
