@@ -1,0 +1,107 @@
+[
+  {
+    "section": "Ancient History",
+    "topic": "Indus Valley Civilization - Agriculture",
+    "question": "<b>In context to Ancient India, consider the following crops:</b><br><br>1. Wheat<br>2. Barley<br>3. Sesame<br>4. Maize<br><br><b>Which of the above-mentioned crops are well known to be cultivated by the people of the Indus Valley Civilization?</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>The 'Columbian Exchange' Trap (Statement 4):</b> The examiner tests chronological awareness of flora. Maize (corn) is a New World crop introduced to India by European powers (Portuguese) much later in the 16th/17th century. It was absolutely unknown to the Harappans.</li><li><b>Core Cultivation (Statements 1, 2 & 3):</b> Wheat and barley were the foundational staple crops of IVC. Evidence of sesame, mustard, and cotton is also well-documented at various Harappan sites.</li></ul><br><b>Current Affairs Integration (PT365):</b><br><ul><li><b>Padta Bet Excavation (Gujarat):</b> Recent excavations have revealed early Harappan settlements demonstrating advanced exploitation of local flora and fauna. Continually map newly excavated sites to their agricultural evidence.</li></ul><br><b>PYQ Reverse-Engineering:</b><br><ul><li>UPSC regularly tests the introduction of specific crops. E.g., 2025 PYQ explicitly asked about Papaya, Pineapple, and Guava being introduced by the Portuguese. Applying this temporal elimination logic to 'Maize' immediately yields the correct answer.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Ancient History",
+    "topic": "Indus Valley Civilization - Epigraphy",
+    "question": "<b>With reference to the Harappan Civilization, consider the following statements:</b><br><br>1. The Harappan script was mostly written from left to right.<br>2. Harappan people mostly wrote long inscriptions, making them difficult to decipher.<br>3. The Harappan script was alphabetical where each sign stands for a vowel or a consonant.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "2 only",
+      "1 and 3 only",
+      "1 only",
+      "None of the above"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: None of the above</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Directional Trap (Statement 1):</b> Harappan script was predominantly written from <b>right to left</b> (evidenced by wider spacing on the right and cramping on the left). Occasionally, <i>boustrophedon</i> (alternating directions) was used.</li><li><b>Length Trap (Statement 2):</b> Inscriptions are notoriously <b>short</b>. The average length is 5 signs, and the longest known inscription is only 26 signs. This brevity is a primary reason it remains undeciphered.</li><li><b>Linguistic Taxonomy Trap (Statement 3):</b> The script is <b>pictographic/logographic</b>, containing between 375 to 400 signs. It is explicitly <i>not</i> alphabetical.</li></ul><br><b>PYQ Reverse-Engineering:</b><br><ul><li>UPSC frequently tests ancient scripts (e.g., 2021 PYQ on Brahmi/Kharosthi decipherment, 2024 PYQ on Siddhamatrika). Recognizing the fundamental characteristics of the IVC script (undeciphered, pictographic, right-to-left) is a baseline requirement for elimination.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Ancient History",
+    "topic": "Indus Valley Civilization - Material Culture",
+    "question": "<b>With reference to Seals produced during Indus Valley Civilization, consider the following statements:</b><br><br>1. The seals were made using materials such as steatite, chert, copper and terracotta.<br>2. The seals are engraved in a pictographic script.<br>3. The purpose of producing seals was mainly commercial.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Material Composition (Statement 1):</b> While steatite (soapstone) is the most famous and common material, seals were also made from agate, chert, copper, faience, and terracotta. Do not fall for the assumption that they were <i>exclusively</i> steatite.</li><li><b>Script Nature (Statement 2):</b> Correct. The script engraved on the seals is pictographic and remains undeciphered.</li><li><b>The 'Mainly' Trap (Statement 3):</b> Ordinarily, extreme or definitive words like 'mainly' are traps. However, historically, the <i>primary</i> function of Harappan seals was commercial (used to stamp clay tags on trade goods for authentication). Amulet/religious use was secondary.</li></ul><br><b>PYQ Reverse-Engineering:</b><br><ul><li>Material culture and its specific uses are tier-1 UPSC topics. Similar to the 2025 PYQ focusing precisely on the material of the 'Dancing Girl' (bronze, not terracotta or copper), examiners expect granular knowledge of artifact composition and primary utility.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Ancient History",
+    "topic": "Indus Valley Civilization - Geography and Sites",
+    "question": "<b>In context to the Indus Valley Civilization, consider the following information:</b><br><br><b>Archaeological Site : Located on the Banks of River : Well Known for</b><br>1. Kalibangan : Ghaggar river : Furrows of ploughed fields<br>2. Dholavira : Bhogava river : Advanced water management system<br>3. Mohenjodaro : Indus river : Dancing girl sculpture made of bronze<br>4. Rakhigarhi : Ravi river : Bead-making workshops<br><br><b>In how many of the above rows is the given information correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Row 1 (Correct):</b> Kalibangan (Rajasthan) is on the Ghaggar river; famous for fire altars and ploughed fields.</li><li><b>Row 2 (Incorrect - River Trap):</b> Dholavira is located on the <b>Luni</b> river in the Rann of Kutch. The <i>Bhogava</i> river is associated with Lothal.</li><li><b>Row 3 (Correct):</b> Mohenjodaro is on the Indus river; famous for the Bronze Dancing Girl and Great Bath.</li><li><b>Row 4 (Incorrect - River Trap):</b> Rakhigarhi is on the Ghaggar-Hakra system (Haryana), not the Ravi river. Harappa is located on the Ravi river. Bead-making is primarily associated with Chanhudaro and Lothal.</li></ul><br><b>Current Affairs Integration (PT365):</b><br><ul><li>Dholavira recently received the UNESCO World Heritage tag (India's 40th site). Rakhigarhi is currently undergoing massive ASI excavation to develop a national museum.</li></ul><br><b>PYQ Reverse-Engineering:</b><br><ul><li>UPSC 2021 PYQ explicitly tested Dholavira's water harvesting system. The 'How many pairs' format punishes partial knowledge by swapping the associated rivers of adjacent prominent sites.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Ancient History",
+    "topic": "Indus Valley Civilization - Trade and Industry",
+    "question": "<b>From which one of the following factory sites were limestone and chert blades mass produced and sent to various Harappan settlements in Sindh?</b>",
+    "options": [
+      "Sukkur and Rohri Hills",
+      "Khetri in Rajasthan",
+      "Chagai Hills",
+      "Hills of Baluchistan"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Sukkur and Rohri Hills</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Option A (Correct):</b> The Sukkur and Rohri Hills in Sindh (Pakistan) were major quarrying and manufacturing hubs for limestone and chert blades, which were then distributed across the Harappan civilization.</li><li><b>Option B (Trap):</b> Khetri (Rajasthan) is famous for its <b>Copper</b> mines. The Harappans sourced copper from here (and Oman), not chert blades.</li><li><b>Option D (Trap):</b> The Hills of Baluchistan (e.g., Mehrgarh) are famous for early Neolithic farming transitions, not mass industrial blade production for the mature Harappan phase.</li></ul><br><b>PYQ Reverse-Engineering:</b><br><ul><li>Tests knowledge of Harappan supply chains and raw material sourcing. Matches the rigor of the 2019 PYQ identifying non-Harappan sites (Sohgaura).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Ancient History",
+    "topic": "Indus Valley Civilization - Comparative History",
+    "question": "<b>With reference to the difference between the culture of Rigvedic Aryans and Indus Valley people, consider the following statements:</b><br><br>1. Rigvedic Aryans used the coat of mail and helmet in warfare, whereas the people of the Indus Valley Civilization did not leave any evidence of using them.<br>2. Rigvedic Aryans knew gold, silver, and copper, whereas Indus Valley people knew only copper and iron.<br>3. Rigvedic Aryans had domesticated the horse, whereas there is no evidence of Indus Valley people having been aware of this animal.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 (Correct):</b> Rigveda explicitly mentions offensive/defensive armor (varman). IVC sites yield virtually no evidence of sophisticated weaponry or armor, suggesting a relatively peaceful or differently organized society.</li><li><b>Statement 2 (Incorrect - The Iron Trap):</b> The examiner trap relies on reversing technological timelines. The Harappans <b>did not know Iron</b> (they were a Bronze Age civilization). Rigvedic Aryans later acquired iron (Shyama Ayas).</li><li><b>Statement 3 (Correct):</b> The horse was central to Aryan mobility and culture (Ashvamedha). Evidence for the horse in IVC is highly contested and practically non-existent in core Harappan iconography (seals).</li></ul><br><b>PYQ Reverse-Engineering:</b><br><ul><li>Directly sourced from the 2017 UPSC Prelims. UPSC loves testing the technological boundaries between overlapping or sequential historical eras (e.g., Chalcolithic vs. Bronze Age vs. Iron Age).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Ancient History",
+    "topic": "Indus Valley Civilization - Society and Religion",
+    "question": "<b>Which of the following characterizes/characterize the people of Indus Civilization?</b><br><br>1. They possessed great palaces and temples.<br>2. They worshipped both male and female deities.<br>3. They employed horse-drawn chariots in warfare.<br><br><b>Select the correct statement/statements using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1, 2 and 3",
+      "None of the statements given above is correct"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 (Incorrect - Architectural Trap):</b> While IVC possessed advanced civic engineering (Great Bath, granaries, grid streets), there is <b>zero archaeological evidence</b> of grand palaces or temples, unlike contemporary Mesopotamia or Egypt.</li><li><b>Statement 2 (Correct):</b> Evidence of female deities (Mother Goddess terracotta figurines) and male deities (Pashupati seal) confirms dual worship.</li><li><b>Statement 3 (Incorrect - Temporal Trap):</b> Horse-drawn chariots are a hallmark of the incoming Vedic Aryans, not the Harappans.</li></ul><br><b>PYQ Reverse-Engineering:</b><br><ul><li>Directly sourced from 2013 UPSC Prelims. A classic elimination question focusing on 'absent features' (temples/horses) which are the most common distractor variables used by UPSC for IVC questions.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
