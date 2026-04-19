@@ -1,0 +1,422 @@
+[
+  {
+    "section": "Science and Technology",
+    "topic": "Quasi-Moon/Mini Moon",
+    "question": "<b>Consider the following statements regarding celestial bodies classified as 'Quasi-Moons' and 'Mini-Moons':</b><br><br>1. Quasi-moons are temporarily captured by Earth's gravity and remain gravitationally bound to it for decades.<br>2. Mini-moons, such as 2024 PT5, follow a Sun-centered (heliocentric) orbit but appear to orbit Earth due to a synchronized orbital pattern.<br>3. The asteroid 469219 Kamoʻoalewa is a quasi-satellite of Earth and is the target of China's upcoming Tianwen-2 sample-return mission.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 3 is correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect (Reverse Logic Trap):</b> The examiner has swapped the definitions. Quasi-moons (like Kamoʻoalewa) are <i>not</i> gravitationally bound to Earth; they orbit the Sun but stay close to Earth due to gravitational resonance.</li><li><b>Statement 2 is incorrect (Definition Swap):</b> Mini-moons are the ones temporarily captured by Earth's gravity (gravitationally bound) and usually last only months to a few years. Quasi-moons follow the heliocentric orbit.</li><li><b>Statement 3 is correct:</b> Kamoʻoalewa is a quasi-satellite and the designated target for China's Tianwen-2 mission (2027),.</li></ul><br><b>PYQ Reverse-Engineering:</b> UPSC loves testing the fundamental astronomical differences between similar-sounding phenomena (e.g., Asteroids vs. Comets in 2011 PYQ). Mixing up their orbital mechanics is a classic trap.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Quasi-Moon/Mini Moon",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> A quasi-moon appears to orbit the Earth from the perspective of an observer on the ground, even though it is not a true satellite.<br><b>Statement-II:</b> Quasi-moons are trapped within the Earth's Roche limit, making them permanently gravitationally bound to the Earth-Moon system.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct, but Statement-II is incorrect</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> Quasi-moons appear to orbit Earth because their heliocentric (Sun-centered) orbit is closely synchronized with Earth's orbit.<br><b>Statement-II is incorrect:</b> A deep conceptual trap. Quasi-moons are explicitly <i>not</i> gravitationally bound to Earth. They are bound to the Sun. Mini-moons are the ones temporarily bound to Earth.<br><br><b>PYQ Reverse-Engineering:</b> Assertion-Reason formats testing the underlying physical mechanisms of space events are common (e.g., 2024 PRATUSH Telescope reasoning).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Crew Escape System",
+    "question": "<b>With reference to the Crew Escape System (CES) used in modern human spaceflight, consider the following statements:</b><br><br>1. It utilizes high-thrust solid rocket motors to rapidly separate the crew module from the launch vehicle in case of a critical anomaly.<br>2. The 'Puller Type' escape system pushes the crew module away from the launch vehicle from below, as utilized in SpaceX's Falcon 9.<br>3. ISRO's Gaganyaan mission employs a 'Pusher Type' escape system identical to the one used in the Apollo Saturn V rockets.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is correct:</b> The CES is an emergency mechanism that uses high-thrust solid rocket motors to pull/push the crew module to a safe distance within seconds,.</li><li><b>Statement 2 is incorrect (Functional Trap):</b> The examiner swapped the mechanisms. A 'Puller Type' system <i>pulls</i> the module from above. SpaceX's Falcon 9 uses a 'Pusher Type' system.</li><li><b>Statement 3 is incorrect (Fact Swap):</b> ISRO's Gaganyaan, along with Soyuz and Saturn V, uses a 'Puller Type' system, not a Pusher Type.</li></ul><br><b>PYQ Reverse-Engineering:</b> UPSC frequently tests specific technical configurations of flagship ISRO missions against global counterparts (e.g., PSLV vs GSLV configurations).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Crew Escape System",
+    "question": "<b>Consider the following pairs regarding Crew Escape Systems (CES) and their respective launch vehicles:</b><br><br><b>Launch Vehicle : Type of Crew Escape System</b><br>1. ISRO Gaganyaan : Puller Type<br>2. SpaceX Falcon 9 : Pusher Type<br>3. Saturn V : Puller Type<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three pairs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is correct:</b> Gaganyaan uses a Puller Type system.<br><b>Pair 2 is correct:</b> SpaceX Falcon 9 utilizes a Pusher Type system.<br><b>Pair 3 is correct:</b> The historic Saturn V rocket used a Puller Type escape system.<br><br><b>PYQ Reverse-Engineering:</b> The \"How many pairs\" format strictly demands exact factual retention. Matching mission hardware to international space agencies is a high-frequency trend.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Cassini Spacecraft",
+    "question": "<b>Consider the following statements regarding the Cassini Spacecraft mission:</b><br><br>1. It was a joint mission between ISRO and NASA designed to map the surface of Venus.<br>2. Data from the spacecraft revealed that Enceladus possesses hydrothermal vents and a mineral-rich subsurface ocean.<br>3. It was the first spacecraft to successfully return physical samples of extraterrestrial water back to Earth.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect (Agency & Target Trap):</b> Cassini was a NASA mission dedicated to exploring the Saturnian system, not a joint ISRO-NASA mission to Venus.</li><li><b>Statement 2 is correct:</b> Reanalysis of Cassini data showed Enceladus (Saturn's moon) has hydrothermal vents and a subsurface ocean, suggesting conditions favorable for microbial life.</li><li><b>Statement 3 is incorrect (Extreme Phrasing/Fact Trap):</b> Cassini did not return physical samples to Earth; it was an orbiter/probe mission.</li></ul><br><b>PYQ Reverse-Engineering:</b> Spacecraft-to-Planet matching is a recurring PYQ pattern (e.g., 2014 PYQ on Cassini-Huygens, Messenger, and Voyager).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Cassini Spacecraft",
+    "question": "<b>Which one of the following celestial bodies, recently highlighted for possessing hydrothermal vents and a mineral-rich subsurface ocean capable of supporting microbial life, was primarily studied by the Cassini spacecraft?</b>",
+    "options": [
+      "Europa",
+      "Titan",
+      "Enceladus",
+      "Ganymede"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Enceladus</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Data from NASA's Cassini spacecraft indicated that Enceladus, one of Saturn's moons, possesses a subsurface ocean and hydrothermal vents. Europa and Ganymede are moons of Jupiter (studied by Galileo/Juno), and Titan is another moon of Saturn but is known for methane lakes, not the specific hydrothermal vent data mentioned in the recent Cassini reanalysis,.<br><br><b>PYQ Reverse-Engineering:</b> Directly mirrors single-line fact-based questions like the 2015 PYQ on the 'Goldilocks Zone'.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Interstellar Mapping and Acceleration Probe (IMAP)",
+    "question": "<b>Consider the following statements regarding the Interstellar Mapping and Acceleration Probe (IMAP):</b><br><br>1. It is a mission designed to study the boundary of the heliosphere where the Sun's influence meets interstellar space.<br>2. It is positioned at the Sun-Earth Lagrange Point 2 (L2) to avoid interference from solar radiation.<br>3. The mission aims to understand how solar particles are energized and how the heliosphere protects Earth from cosmic radiation.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is correct:</b> IMAP is a NASA mission meant to study the heliosphere's boundary.</li><li><b>Statement 2 is incorrect (Orbital Location Trap):</b> IMAP is positioned at the Sun-Earth <i>Lagrange Point 1 (L1)</i>, not L2. L1 allows it to observe the solar wind before it interacts with Earth. L2 is used by telescopes like James Webb that need to look away from the Sun.</li><li><b>Statement 3 is correct:</b> Its core objective is to study solar particle energization and cosmic radiation protection.</li></ul><br><b>PYQ Reverse-Engineering:</b> Tests specific Lagrangian points (L1 vs L2), similar to how UPSC previously tested the orbits of Astrosat and IRNSS.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Interstellar Mapping and Acceleration Probe (IMAP)",
+    "question": "<b>Consider the following pairs regarding space observatories/probes and their designated orbital positions:</b><br><br><b>Mission : Orbital Position</b><br>1. James Webb Space Telescope (JWST) : Lagrange Point 1 (L1)<br>2. Interstellar Mapping and Acceleration Probe (IMAP) : Lagrange Point 1 (L1)<br>3. Aditya-L1 : Lagrange Point 2 (L2)<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one pair (Pair 2 is correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is incorrect:</b> JWST is positioned at Lagrange Point 2 (L2), approximately 1.5 million km away, facing away from the Sun.<br><b>Pair 2 is correct:</b> IMAP is positioned at Lagrange Point 1 (L1) to intercept solar wind.<br><b>Pair 3 is incorrect:</b> Aditya-L1, as the name implies, is stationed at Lagrange Point 1 (L1).<br><br><b>PYQ Reverse-Engineering:</b> Pair-based matching of satellite/observatory orbits is a core UPSC science theme.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Phosphine",
+    "question": "<b>With reference to Phosphine (PH3), consider the following statements:</b><br><br>1. On Earth, it is exclusively produced through high-temperature and high-pressure chemical reactions without any biological involvement.<br>2. It is utilized in the semiconductor manufacturing industry and as an ingredient in flame retardants.<br>3. It acts as a fumigant pesticide for protecting stored agricultural grains.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect (Static-Current Mix Trap):</b> The examiner swapped planetary conditions. On Earth, phosphine is present through <i>biological processes</i> (and industrial synthesis),. It is on gas giants like Jupiter and Saturn where it forms via <i>high-temperature chemical reactions</i>, not biology.</li><li><b>Statement 2 is correct:</b> Phosphine is used in semiconductor manufacturing and flame retardants.</li><li><b>Statement 3 is correct:</b> It is widely used as a fumigant pesticide for stored grains.</li></ul><br><b>PYQ Reverse-Engineering:</b> Tests the application of chemicals (like the 2019 PYQ on carbofuran/phorate) and astrobiological significance.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Phosphine",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The detection of Phosphine gas in the atmospheres of Jupiter and Saturn is considered definitive proof of biological life on these planets.<br><b>Statement-II:</b> In the extreme environments of Jupiter and Saturn, Phosphine forms through high-temperature chemical reactions rather than biological processes.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect, but Statement-II is correct</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is incorrect:</b> The presence of phosphine on gas giants does <i>not</i> indicate life because the extreme conditions allow for its abiotic creation.<br><b>Statement-II is correct:</b> On Jupiter and Saturn, phosphine forms abiotically through high-temperature chemical reactions.<br><br><b>PYQ Reverse-Engineering:</b> Statement I/II format perfectly tests whether candidates understand the nuances of biosignatures vs. abiotic chemical reactions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Visible Emission Line Coronagraph",
+    "question": "<b>Consider the following statements regarding the Visible Emission Line Coronagraph (VELC):</b><br><br>1. It is the primary scientific payload of the Aditya-L1 Mission, developed by the Indian Institute of Astrophysics (IIA).<br>2. It is designed to physically capture and return samples of Solar Energetic Electrons (SEEs) from the Sun's corona.<br>3. It estimates key parameters of Coronal Mass Ejections (CMEs) which can cause severe space weather disturbances.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is correct:</b> VELC is the primary payload of Aditya-L1, designed by IIA.</li><li><b>Statement 2 is incorrect (Extreme Fact Trap):</b> No current mission physically captures and returns samples from the Sun's corona to Earth. VELC is an optical instrument that <i>observes and estimates</i> parameters.</li><li><b>Statement 3 is correct:</b> VELC helps estimate parameters of CMEs, which generate SEEs and cause space weather disturbances.</li></ul><br><b>PYQ Reverse-Engineering:</b> Payload function testing. Ensures the candidate knows that VELC is an observational instrument, not a sample-return mechanism.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Visible Emission Line Coronagraph",
+    "question": "<b>The term 'Solar Energetic Electrons (SEEs)' is frequently discussed in the context of the Visible Emission Line Coronagraph payload. Which of the following best describes the origin of these SEEs?</b>",
+    "options": [
+      "They are generated exclusively by the decay of radioactive isotopes in the Earth's upper ionosphere.",
+      "They originate solely from the steady and continuous flow of standard solar wind during the solar minimum.",
+      "They are high-energy particles accelerated by the Sun during impulsive Solar Flares and gradual Coronal Mass Ejections.",
+      "They are interstellar cosmic rays that are trapped and magnified by the Earth's magnetic field."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: They are high-energy particles accelerated by the Sun during impulsive Solar Flares and gradual Coronal Mass Ejections.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>SEEs are high-energy electrons accelerated by the Sun, originating from two major events: Solar flares (impulsive bursts) and Coronal Mass Ejections (gradual/sustained flows). Options A and D are distractors dealing with Earth's atmosphere/magnetic field. Option B uses extreme words ('solely', 'steady') to trap candidates unaware of the explosive nature of SEEs.<br><br><b>PYQ Reverse-Engineering:</b> Matches the single-line conceptual definition format seen in questions concerning 'Solar Flares' and 'Space Weather'.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Starlink Signs Deal with Maharashtra",
+    "question": "<b>Consider the following statements regarding Satellite-based Internet services:</b><br><br>1. They primarily rely on extensive ground-based fiber-optic infrastructure to transmit data directly to end-users.<br>2. Low Earth Orbit (LEO) constellations provide significantly lower latency compared to traditional Geostationary (GEO) satellites.<br>3. Starlink and Project Kuiper are examples of mega-constellations operating in Geostationary Orbit (GEO).<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect (Definition Trap):</b> Satellite internet explicitly does <i>not</i> depend on ground-based cables/fiber to transmit data to the end-user; it uses satellites in orbit.</li><li><b>Statement 2 is correct:</b> LEO satellites (~500-2000 km) provide very low latency (20-50ms) compared to GEO satellites (~35,786 km, 600ms+) because the signal travels a shorter distance,.</li><li><b>Statement 3 is incorrect (Orbit Swap Trap):</b> Starlink, OneWeb, and Project Kuiper operate in <i>Low Earth Orbit (LEO)</i>, not GEO.</li></ul><br><b>PYQ Reverse-Engineering:</b> Satellite orbits (LEO vs GEO) and their practical applications are high-yield areas (e.g., IRNSS orbit types in 2018).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Starlink Signs Deal with Maharashtra",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Geostationary Orbit (GEO) satellites are highly suitable for modern, interactive internet applications like real-time gaming and video conferencing.<br><b>Statement-II:</b> GEO satellites orbit at an altitude of approximately 35,786 km, resulting in high latency of around 600 milliseconds or more.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect, but Statement-II is correct</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is incorrect:</b> Because of their high latency, GEO satellites are <i>less suitable</i> for modern interactive applications compared to LEO satellites.<br><b>Statement-II is correct:</b> GEO satellites operate at ~35,786 km, which fundamentally causes the high latency (600ms+).<br><br><b>PYQ Reverse-Engineering:</b> The Assertion-Reason format tests the candidate's understanding of how physical distance in space directly impacts technological feasibility on Earth.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "ESCAPADE Mission",
+    "question": "<b>With reference to the ESCAPADE Mission, consider the following statements:</b><br><br>1. It is a joint mission between NASA and ISRO to study the atmospheric escape of Venus.<br>2. The mission utilises a “launch-and-loiter” strategy, where the spacecraft park near Earth’s L2 region before proceeding to their destination.<br>3. It was launched aboard the New Glenn 2 launch vehicle developed by Blue Origin.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect (Agency & Target Trap):</b> It is a NASA-led mission (not joint with ISRO) aimed at <i>Mars</i>, not Venus,.</li><li><b>Statement 2 is correct:</b> The mission parks twin spacecraft at Earth's L2 region waiting for favorable planetary alignment before heading to Mars.</li><li><b>Statement 3 is correct:</b> It launched on Blue Origin’s New Glenn 2 vehicle,.</li></ul><br><b>PYQ Reverse-Engineering:</b> Swapping planetary targets (Mars vs Venus) and partnering agencies is the standard method UPSC uses to create distractor options.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "ESCAPADE Mission",
+    "question": "<b>The primary objective of the twin orbiters, 'Blue and Gold', under the ESCAPADE mission is to:</b>",
+    "options": [
+      "Collect and return soil samples from the Jezero crater on Mars.",
+      "Investigate how solar wind interacts with Mars' magnetic environment driving atmospheric escape.",
+      "Deploy a constellation of miniature rovers to map sub-surface water-ice on the Moon.",
+      "Provide real-time broadband internet connectivity to future human settlements on Mars."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Investigate how solar wind interacts with Mars' magnetic environment driving atmospheric escape.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) features twin orbiters designed specifically to study Mars's hybrid magnetosphere and solar-wind-driven atmospheric escape,. Option A refers to the goals of Perseverance/Mars Sample Return. Option C refers to Lunar exploration (like LUPEX). Option D is a fabricated distractor mixing satellite internet with Mars missions.<br><br><b>PYQ Reverse-Engineering:</b> Single-line objective matching questions are prevalent for specific, newly launched space missions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Sentinel-6B Satellite",
+    "question": "<b>Consider the following statements regarding the Copernicus Sentinel-6B satellite:</b><br><br>1. It is a dedicated mission to monitor global greenhouse gas emissions and verify national anthropogenic carbon inventories.<br>2. It is equipped with a highly accurate radar altimeter to measure the height of the ocean surface.<br>3. It is a collaborative mission involving NASA, NOAA, the European Space Agency (ESA), and EUMETSAT.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect (Payload/Objective Swap):</b> This describes the Japanese GOSAT-GW satellite. Sentinel-6B is an <i>ocean-monitoring</i> satellite.</li><li><b>Statement 2 is correct:</b> It uses a radar altimeter to measure ocean surface height to within a centimeter.</li><li><b>Statement 3 is correct:</b> It is a joint US-European mission involving NASA, NOAA, ESA, and EUMETSAT.</li></ul><br><b>PYQ Reverse-Engineering:</b> Mixing up the objectives of different satellites (Oceanography vs Atmospheric observation) tests if the candidate relies on guesswork.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Sentinel-6B Satellite",
+    "question": "<b>Consider the following pairs of recently launched satellites and their primary monitoring objectives:</b><br><br><b>Satellite : Primary Objective</b><br>1. Sentinel-6B : Ocean surface height<br>2. GOSAT-GW : Greenhouse gas emissions<br>3. NISAR : Earth surface deformation<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three pairs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is correct:</b> Sentinel-6B is an ocean-monitoring satellite using a radar altimeter.<br><b>Pair 2 is correct:</b> GOSAT-GW (Japan) monitors greenhouse gases and the water cycle.<br><b>Pair 3 is correct:</b> NISAR (NASA-ISRO) uses synthetic aperture radar to track natural and human-made changes on land and ice, including ground deformation,.<br><br><b>PYQ Reverse-Engineering:</b> Multi-pair matching questions punish students who have read only one piece of current affairs, requiring holistic retention of global space missions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Young Stellar Objects",
+    "question": "<b>With reference to recent astronomical discoveries regarding star-forming regions and stellar evolution, consider the following statements:</b><br><br>1. The Alaknanda Galaxy, discovered using the James Webb Space Telescope, is a massive spiral galaxy from the early universe.<br>2. Spiral galaxies typically feature central bulges composed of young, luminous stars and spiral arms filled with older, dimmer stars.<br>3. The Gaia Telescope was positioned at Lagrange Point 2 (L2) to create a precise 3D map of star-forming regions within the Milky Way.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is correct:</b> Alaknanda is a massive spiral galaxy from when the universe was only 1.5 billion years old, discovered by NCRA-TIFR using JWST data.</li><li><b>Statement 2 is incorrect (Reverse Logic Trap):</b> In spiral galaxies, the central bulge contains <i>older, dimmer</i> stars, while the spiral arms are rich in gas and dust, hosting <i>young, luminous</i> stars (stellar nurseries).</li><li><b>Statement 3 is correct:</b> Gaia mapped star-forming regions (stellar nurseries) operating from L2,.</li></ul><br><b>PYQ Reverse-Engineering:</b> Tests fundamental astrophysical concepts (anatomy of a galaxy) mixed with cutting-edge discoveries, demanding deep conceptual clarity.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Young Stellar Objects",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The spiral arms of galaxies like Alaknanda and the Milky Way burn brightly but contain stars with relatively short lifespans compared to those in the central bulge.<br><b>Statement-II:</b> The spiral arms are rich in gas and dust, serving as stellar nurseries for the continuous formation of massive, young, and luminous stars.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II explains Statement-I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> Stars in spiral arms are bright but have short lifespans.<br><b>Statement-II is correct and explains Statement-I:</b> The reason they burn brightly and die quickly is because these regions are stellar nurseries (rich in gas/dust) that constantly form massive, young, luminous stars which consume their fuel much faster than the older stars residing in the central bulge.<br><br><b>PYQ Reverse-Engineering:</b> Integrates static physics (stellar lifespans vs mass) with current affairs (Alaknanda discovery) in the newly favored Assertion-Reason format.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Vikram-I Rocket",
+    "question": "<b>Consider the following statements regarding the Vikram-I rocket:</b><br><br>1. It is a commercial orbital rocket developed entirely by Hindustan Aeronautics Limited (HAL).<br>2. It incorporates 3D-printed engines that significantly reduce both the weight and production time of the launch vehicle.<br>3. It is designed as a single-stage-to-orbit vehicle utilising only liquid propulsion systems.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2 is correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect (Agency Trap):</b> Vikram-I is developed by <i>Skyroot Aerospace</i>, a private space company, not HAL.</li><li><b>Statement 2 is correct:</b> It features 3D-printed engines, reducing weight by 50% and production time by 80%.</li><li><b>Statement 3 is incorrect (Architecture Trap):</b> It is a <i>four-stage</i> rocket. The first three stages use solid-fuel, and the upper stage uses hypergolic liquid fuel, not a single-stage liquid vehicle,.</li></ul><br><b>PYQ Reverse-Engineering:</b> Tests specific technical characteristics of private space vehicles. The shift towards Indian private space sector (Skyroot, Agnikul) is a prime area for upcoming prelims.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Vikram-I Rocket",
+    "question": "<b>The Vikram-I rocket, designed by Skyroot Aerospace, utilizes a combination of solid-fuel stages and a hypergolic liquid upper stage. What is the primary technical advantage of utilizing a hypergolic liquid upper stage in such launch vehicles?</b>",
+    "options": [
+      "To provide the massive initial thrust required to overcome Earth's lower atmospheric drag.",
+      "To enable precise orbital insertion and make minor trajectory adjustments in space.",
+      "To completely eliminate the emission of greenhouse gases during the launch sequence.",
+      "To allow the upper stage to safely splash down in the ocean for complete reusability."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: To enable precise orbital insertion and make minor trajectory adjustments in space.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Solid fuels are great for raw initial thrust (Option A), but they cannot be easily throttled or restarted. Liquid upper stages (like the hypergolic one on Vikram-I) allow the engine to be ignited, stopped, and restarted in a vacuum, which is essential for placing satellites into precise orbits (SSO/LEO) and making trajectory adjustments.<br><br><b>PYQ Reverse-Engineering:</b> Tests the functional difference between solid and liquid rocket propellants, highly reminiscent of the 2018 PYQ comparing PSLV and GSLV stages.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Solaras S-2",
+    "question": "<b>With reference to the Solaras S-2 mission, consider the following statements:</b><br><br>1. It is an indigenous nano-satellite developed by a Bengaluru-based startup for technology demonstration.<br>2. It was launched aboard ISRO's Small Satellite Launch Vehicle (SSLV) from Sriharikota.<br>3. The satellite features a beacon transmitting on amateur frequencies and includes an FM repeater module.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is correct:</b> Solaras S-2 is a nano-satellite developed by the startup Grahaa Space.</li><li><b>Statement 2 is incorrect (Launch Vehicle/Location Trap):</b> It is scheduled to launch aboard the <i>Hanbit-Nano</i> launch vehicle (South Korea) from the Alcântara Space Center in <i>Brazil</i>, not ISRO's SSLV.</li><li><b>Statement 3 is correct:</b> It includes an amateur frequency beacon and an FM repeater module.</li></ul><br><b>PYQ Reverse-Engineering:</b> Catching the foreign launch of Indian payloads is a common distractor (e.g., GSAT-20 launching on SpaceX Falcon 9 vs domestic rockets).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Solaras S-2",
+    "question": "<b>Consider the following pairs regarding recent satellite missions and their respective launch vehicles:</b><br><br><b>Satellite/Mission : Launch Vehicle</b><br>1. Solaras S-2 : Hanbit-Nano<br>2. ESCAPADE : New Glenn 2<br>3. BlueBird Block-2 : LVM-3<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three pairs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is correct:</b> Solaras S-2 is launching on South Korea's Hanbit-Nano rocket.<br><b>Pair 2 is correct:</b> NASA's ESCAPADE mission launched on Blue Origin's New Glenn 2.<br><b>Pair 3 is correct:</b> The commercial communications satellite BlueBird Block-2 (6,100 kg) was launched by ISRO's LVM-3 [1636, Infographic data].<br><br><b>PYQ Reverse-Engineering:</b> 'How many pairs' format tracking international and private space industry collaborations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "GSAT-7R Satellite (CMS 03)",
+    "question": "<b>Consider the following statements regarding the GSAT-7R (CMS-03) satellite:</b><br><br>1. It is a multi-band military communication satellite exclusively developed for the Indian Navy.<br>2. It was launched aboard the PSLV-C61 rocket to provide secure telecom coverage across the Indian Ocean region.<br>3. It features advanced transponders operating solely in the Ku-band to prevent signal jamming.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is correct:</b> GSAT-7R is a military communication satellite designed for the Indian Navy to replace the GSAT-7 \"Rukmini\".</li><li><b>Statement 2 is incorrect (Launch Vehicle Trap):</b> Given its massive weight (~4,400 kg), it was launched using India's heaviest rocket, the <i>LVM3-M5 (Bahubali)</i>, not the much lighter PSLV.</li><li><b>Statement 3 is incorrect (Extreme Word Trap):</b> It does not operate 'solely' in Ku-band. It features advanced <i>multi-band</i> transponders including UHF, S-band, C-band, and Ku-band.</li></ul><br><b>PYQ Reverse-Engineering:</b> Tests specific knowledge of India's strategic space assets, confusing PSLV/GSLV payload limits and single vs multi-band utility.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "GSAT-7R Satellite (CMS 03)",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The GSAT-7R (CMS-03) satellite was launched aboard the LVM3-M5 rocket rather than the Polar Satellite Launch Vehicle (PSLV).<br><b>Statement-II:</b> The PSLV is designed primarily for launching lighter satellites into Low Earth Orbit and lacks the payload capacity to place a 4,400 kg satellite into a Geosynchronous Transfer Orbit.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II explains Statement-I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> GSAT-7R, weighing about 4,400 kg, was launched by LVM3-M5.<br><b>Statement-II is correct and explains Statement-I:</b> The PSLV can only carry around 1.4 to 1.7 tonnes to GTO. The LVM3 (formerly GSLV Mk-III) was specifically developed to lift heavy 4-tonne class satellites to GTO, which explains why LVM3 was chosen for GSAT-7R,.<br><br><b>PYQ Reverse-Engineering:</b> Matches the 2018 PYQ evaluating the functional differences and capacities between PSLV and GSLV/LVM3 vehicles.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Perseverance Rover",
+    "question": "<b>With reference to NASA’s Perseverance rover, consider the following statements:</b><br><br>1. It is the first robotic rover to successfully return collected physical samples from the Martian surface back to Earth.<br>2. It successfully deployed the Ingenuity helicopter, demonstrating the first powered flight in the Martian atmosphere.<br>3. It recorded electrical activity in the Martian atmosphere for the first time.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3 are correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><ul><li><b>Statement 1 is incorrect (Chronological Trap):</b> Perseverance is drilling and <i>caching</i> soil samples in tubes, but it has not returned them to Earth. A future joint NASA-ESA Mars Sample Return mission is planned to retrieve them,.</li><li><b>Statement 2 is correct:</b> It carried and deployed the Ingenuity helicopter, achieving the first powered flight on another planet,.</li><li><b>Statement 3 is correct:</b> It recently detected electrical activity in the Martian atmosphere for the first time.</li></ul><br><b>PYQ Reverse-Engineering:</b> UPSC often adds futuristic goals (sample return) to current missions to trap candidates who conflate ongoing operations with future phases.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science and Technology",
+    "topic": "Perseverance Rover",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The Perseverance rover was specifically targeted to land in a former Martian river delta.<br><b>Statement-II:</b> River deltas are believed to be ideal environments for preserving organic molecules and potential biosignatures of ancient microbial life.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II explains Statement-I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> Perseverance is the first rover to land in a former Martian river delta (Jezero Crater).<br><b>Statement-II is correct and explains Statement-I:</b> The primary scientific goal of Perseverance is astrobiology, specifically the search for signs of ancient microbial life. On Earth, river deltas preserve organic material excellently, which makes a Martian delta the most logical target for the rover's mission.<br><br><b>PYQ Reverse-Engineering:</b> Evaluates the scientific rationale ('the why') behind major astronomical decisions, mimicking UPSC's focus on deep conceptual clarity rather than just rote facts.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
