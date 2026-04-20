@@ -1,0 +1,272 @@
+[
+  {
+    "section": "Science & Technology",
+    "topic": "Alaknanda Spiral Galaxy",
+    "question": "<b>Consider the following statements regarding the recently discovered 'Alaknanda' galaxy:</b><br><br>1. It is a massive spiral galaxy discovered using India's AstroSat observatory.<br>2. It existed when the universe was only about 10% of its present age.<br>3. It is characterized as a \"dead\" galaxy with no ongoing star formation.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The Alaknanda galaxy was discovered by Indian researchers using NASA's <b>James Webb Space Telescope (JWST)</b>, not AstroSat. <i>(Examiner Trap: Swapping the observatory to exploit the Indian name context.)</i><br><b>Statement 2 is correct:</b> It existed when the universe was only 1.5 billion years old, which is about 10% of its present age. This challenges current models of galaxy formation.<br><b>Statement 3 is incorrect:</b> It is a highly active star-forming galaxy, producing new stars at a rate of nearly 60 solar masses per year, far from being a \"dead\" galaxy.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Alaknanda Spiral Galaxy",
+    "question": "<b>Consider the following pairs regarding the 'Alaknanda' celestial body recently seen in the news:</b><br><br><b>Characteristic : Description</b><br>1. Shape : Elliptical galaxy<br>2. Distance : About 12 billion light-years away<br>3. Telescope used : James Webb Space Telescope<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is incorrectly matched:</b> Alaknanda is a <b>Spiral galaxy</b>, not elliptical. It has two well-defined spiral arms wrapped around a bright central bulge.<br><b>Pair 2 is correctly matched:</b> It is located approximately 12 billion light-years away.<br><b>Pair 3 is correctly matched:</b> It was discovered using data from NASA's James Webb Space Telescope (JWST).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "AviSpray-10c",
+    "question": "<b>Consider the following statements regarding 'AviSpray-10c':</b><br><br>1. It is a fixed-wing Unmanned Aerial Vehicle (UAV) designed exclusively for military surveillance in border areas.<br>2. It features terrain-following radar and collision-avoidance systems suitable for Indian farming conditions.<br>3. It was developed indigenously by the Defence Research and Development Organisation (DRDO).<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> AviSpray-10c is an ultra-compact <b>agricultural spraying drone</b> built on a hexacopter design, not a fixed-wing military UAV.<br><b>Statement 2 is correct:</b> It includes terrain-following radar and collision-avoidance features to handle Indian farming conditions like heat, dust, and humidity.<br><b>Statement 3 is incorrect:</b> It was launched by a Chennai-based deep-tech drone company, AvironiX Drones, not DRDO. <i>(Examiner Trap: Attributing indigenous deep-tech to DRDO/ISRO is a classic static-current confusion tactic.)</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "AviSpray-10c",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> AviSpray-10c is considered an ultra-compact agricultural drone capable of precision spraying over large areas per battery charge.<br><b>Statement-II:</b> It utilizes a single-rotor helicopter design to maximize payload capacity and battery life.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II does not explain Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> AviSpray-10c is a backpack-sized, ultra-compact agricultural drone that covers around 5 acres per battery with precision spraying.<br><b>Statement-II is incorrect:</b> It is built on a <b>hexacopter</b> design (six rotors), not a single-rotor helicopter design. <i>(Examiner Trap: Testing technical specifications of emerging technologies.)</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Cosmic Filament",
+    "question": "<b>Consider the following statements regarding 'Cosmic Filaments':</b><br><br>1. They represent the largest known structures in the universe, forming the backbone of the cosmic web.<br>2. They consist entirely of luminous galaxies and are devoid of dark matter.<br>3. They surround vast empty regions in space called cosmic voids.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Statement 1 is correct:</b> Cosmic filaments are the largest known structures, forming thread-like networks that create the backbone of the cosmic web.<br><b>Statement 2 is incorrect:</b> They are <b>not</b> devoid of dark matter. They form thread-like networks of galaxies, gas, and <b>dark matter</b>. <i>(Examiner Trap: Extreme phrasing 'entirely devoid' is usually a red flag.)</i><br><b>Statement 3 is correct:</b> They connect galaxy clusters and surround vast empty regions called cosmic voids.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Cosmic Filament",
+    "question": "<b>Which one of the following best describes a \"Cosmic Filament\" recently reported by researchers?</b>",
+    "options": [
+      "A massive explosion resulting from the merger of two neutron stars.",
+      "A thread-like network of galaxies, gas, and dark matter that connects galaxy clusters.",
+      "An extremely dense region inside a black hole's event horizon.",
+      "A stream of charged particles ejected from the Sun's corona during a mass ejection."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: A thread-like network of galaxies, gas, and dark matter that connects galaxy clusters.</b><br><br>Cosmic filaments represent the largest known structures in the universe, forming thread-like networks of galaxies, gas, and dark matter that create the backbone of the cosmic web. They connect galaxy clusters and surround vast empty regions called cosmic voids.<br>Option A describes a Kilonova. Option C describes a singularity. Option D describes solar wind/CME.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Geminid Meteor Shower",
+    "question": "<b>Consider the following statements regarding the Geminid Meteor Shower:</b><br><br>1. Unlike most meteor showers, it originates from debris left by an asteroid rather than a comet.<br>2. The meteor shower is exclusively visible from the Northern Hemisphere.<br>3. The radiant point of this meteor shower lies in the constellation Gemini.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Statement 1 is correct:</b> The Geminid meteor shower originates from debris left by the <b>asteroid 3200 Phaethon</b>, unlike most showers which are tied to comets.<br><b>Statement 2 is incorrect:</b> The Geminids are visible <b>globally</b>, not exclusively from the Northern Hemisphere. <i>(Examiner Trap: Geographic exclusivity 'exclusively visible'.)</i><br><b>Statement 3 is correct:</b> The radiant point (the point in the sky from which the meteors appear to originate) lies in the constellation Gemini.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Geminid Meteor Shower",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The Geminid meteor shower is one of the few reliable meteor displays not tied to a comet.<br><b>Statement-II:</b> The Geminids originate from the debris left by the asteroid 3200 Phaethon.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> Most meteor showers occur when Earth passes through the trail of debris left by a comet. The Geminids are a unique exception.<br><b>Statement-II is correct and explains Statement-I:</b> The reason it is not tied to a comet is precisely because its source is a rocky asteroid, 3200 Phaethon.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Antariksh Prayogshala (Space Labs)",
+    "question": "<b>With reference to the 'Antariksh Prayogshala' (Space Labs) initiative, consider the following statements:</b><br><br>1. It is an initiative launched by the Ministry of Education to build space observatories in all secondary schools in India.<br>2. Under this initiative, the funding is fully borne by ISRO to support Non-Governmental Entities (NGEs).<br>3. It aims to create state-of-the-art space laboratories for hands-on space technology training in academic institutions.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>Statement 1 is incorrect:</b> It is an initiative rolled out by <b>IN-SPACe</b> (under the Department of Space), not the Ministry of Education, and targets select academic institutions (up to 7, one per geographic zone), not all secondary schools.<br><b>Statement 2 is incorrect:</b> The funding is <b>not fully borne</b> by ISRO. IN-SPACe supports up to <b>75%</b> of the cost, capped at ₹5 crore per institution. <i>(Examiner Trap: Absolute financial terms like 'fully borne'.)</i><br><b>Statement 3 is correct:</b> Its objective is to set up space laboratories in academic institutions for hands-on space technology training.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Antariksh Prayogshala (Space Labs)",
+    "question": "<b>Consider the following pairs regarding India's space ecosystem:</b><br><br><b>Initiative/Body : Description</b><br>1. Antariksh Prayogshala : Fully funded by the Ministry of Science and Technology to build satellite launch pads<br>2. IN-SPACe : Single-window nodal agency to promote private sector participation in space activities<br>3. RESPOND Basket : ISRO's program to align academic research with its ongoing and future mission needs<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is incorrectly matched:</b> Antariksh Prayogshala is initiated by IN-SPACe for setting up space labs in academic institutions (funded up to 75%), not for building launch pads by the Ministry of Science and Tech.<br><b>Pair 2 is correctly matched:</b> IN-SPACe acts as India's single-window nodal agency under the Department of Space to promote and authorize private sector (NGEs) activities.<br><b>Pair 3 is correctly matched:</b> RESPOND Basket is an ISRO initiative inviting academia and R&D institutions to contribute through targeted research aligned with mission requirements.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Micrometeoroids and Orbital Debris",
+    "question": "<b>Consider the following statements regarding Micrometeoroids and Orbital Debris (MMOD):</b><br><br>1. Micrometeoroids are primarily human-made objects in Earth's orbit that no longer serve any functional purpose.<br>2. Orbital debris is mainly concentrated in the Low Earth Orbit (LEO) region.<br>3. The Kessler Syndrome refers to a theoretical scenario where the density of space debris triggers a cascading chain of collisions.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Micrometeoroids are <b>natural</b> particles of rock or metal of extraterrestrial origin (mainly from the asteroid belt or comets). Space Junk/Orbital Debris is human-made. <i>(Examiner Trap: Swapping definitions of adjacent concepts.)</i><br><b>Statement 2 is correct:</b> Orbital debris is highly concentrated in Low Earth Orbit (LEO), around 200–2,000 km altitude.<br><b>Statement 3 is correct:</b> The Kessler Syndrome is a phenomenon where the amount of junk in orbit reaches a point where it creates a runaway chain reaction of collisions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Micrometeoroids and Orbital Debris",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The Kessler Syndrome poses a major threat to satellites and astronauts operating in Low Earth Orbit.<br><b>Statement-II:</b> Micrometeoroids originating from the asteroid belt continually collide with defunct satellites, creating an exponential increase in artificial space junk.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> Kessler Syndrome is a severe threat to LEO operations due to the cascading effect of debris collisions.<br><b>Statement-II is incorrect:</b> The Kessler Syndrome is driven by collisions between <b>human-made orbital debris</b> (e.g., defunct satellites, rocket stages), not primarily by micrometeoroids from the asteroid belt.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Mars Atmosphere and Volatile Evolution (MAVEN) Mission",
+    "question": "<b>With reference to the Mars Atmosphere and Volatile Evolution (MAVEN) Mission, consider the following statements:</b><br><br>1. It is a joint mission between NASA and ISRO to study the Martian crust and core.<br>2. It is the first mission devoted exclusively to understanding the Martian upper atmosphere.<br>3. Data from the mission confirmed that Mars lost the majority of its early atmosphere to space.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> MAVEN is a <b>NASA</b> mission, not a joint mission with ISRO. Furthermore, its objective is to study the upper atmosphere, not the crust or core. <i>(Examiner Trap: Falsely adding ISRO to international missions.)</i><br><b>Statement 2 is correct:</b> It is the first mission devoted exclusively to understanding the Martian upper atmosphere and how the planet lost its atmosphere over billions of years.<br><b>Statement 3 is correct:</b> A key finding of MAVEN is that Mars lost about 2/3 of its early atmosphere to space.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Mars Atmosphere and Volatile Evolution (MAVEN) Mission",
+    "question": "<b>Consider the following pairs of Spacecraft and their primary target/purpose:</b><br><br>1. MAVEN : Studying the Martian upper atmosphere<br>2. Cassini : First spacecraft to orbit Saturn<br>3. OSIRIS-REx : Returned samples from asteroid Bennu<br>4. Tianwen-2 : Planned Mars sample-return mission<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only three</b><br><br><b>Pair 1 is correctly matched:</b> NASA's MAVEN studies the Martian upper atmosphere.<br><b>Pair 2 is correctly matched:</b> NASA/ESA's Cassini was the first spacecraft to orbit Saturn.<br><b>Pair 3 is correctly matched:</b> NASA's OSIRIS-REx successfully returned rocks and dust from the asteroid Bennu.<br><b>Pair 4 is incorrectly matched:</b> China's Tianwen-2 is designed to explore the near-Earth asteroid Kamo’oalewa and a comet. It is <i>Tianwen-3</i> that is the planned Mars sample-return mission.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Superkilnova",
+    "question": "<b>With reference to the newly observed 'Superkilonova', consider the following statements:</b><br><br>1. It is a cosmic event triggered exclusively by the collision of two supermassive black holes.<br>2. The event leads to the creation of heavy elements such as gold and silver.<br>3. It can be detected on Earth in the form of gravitational wave signals.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> A Superkilonova is NOT triggered by black holes. It is a cosmic explosion where a supernova blows up a massive star into two neutron stars, which then merge to produce a kilonova.<br><b>Statement 2 is correct:</b> Like kilonovas, a superkilonova can create heavy elements such as gold and silver.<br><b>Statement 3 is correct:</b> It emits gravitational waves, which is how it was observed (e.g., event AT2025ulz detected by LIGO/Virgo).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Superkilnova",
+    "question": "<b>Which of the following best describes the chronological sequence of events leading to a \"Superkilonova\"?</b>",
+    "options": [
+      "Merger of two black holes \u2192 Supernova explosion \u2192 Formation of a neutron star",
+      "Supernova explosion of a massive star \u2192 Formation of two neutron stars \u2192 Merger of the neutron stars",
+      "Collision of a neutron star and a white dwarf \u2192 Kilonova \u2192 Supernova",
+      "Gradual collapse of a red giant \u2192 Black hole formation \u2192 Kilonova"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Supernova explosion of a massive star \u2192 Formation of two neutron stars \u2192 Merger of the neutron stars</b><br><br>A superkilonova is a hypothetical (now observed) type of cosmic explosion combining traits of a supernova and a kilonova. The process begins with a supernova that blows up a massive star into two neutron stars, which then merge to produce a kilonova. This sequence creates heavy elements and emits gravitational waves.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "RESPOND Basket 2025",
+    "question": "<b>Consider the following statements regarding the 'RESPOND Basket 2025':</b><br><br>1. It is an initiative by the Reserve Bank of India to align academic research with financial technologies.<br>2. It is open to faculty members and scientists from recognized Indian academic institutions and autonomous R&D organizations.<br>3. The research problem statements include focus areas like Quantum computing and Advanced satellite communication systems.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> The RESPOND Basket is released by <b>ISRO</b>, not the RBI. It aligns academic R&D with ISRO's space mission requirements. <i>(Examiner Trap: Acronym confusion. RESPOND sounds like a generic government outreach program.)</i><br><b>Statement 2 is correct:</b> It invites faculty members and scientists from recognized academic institutions and autonomous R&D organizations to apply via the I-GRASP portal.<br><b>Statement 3 is correct:</b> Focus areas include Quantum computing, Launch vehicles, Remote sensing, and Advanced satellite communication systems.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "RESPOND Basket 2025",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The RESPOND Basket 2025 initiative explicitly excludes Non-Resident Indians (NRIs) and postgraduate students from applying.<br><b>Statement-II:</b> The primary objective of the RESPOND Basket is to build indigenous research capabilities strictly within recognized Indian academic institutions and autonomous R&D organizations.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> According to ISRO's guidelines for the RESPOND program, interns, postgraduate students, and NRIs are ineligible. Only Indian nationals studying/working in recognized institutions may apply.<br><b>Statement-II is correct and explains Statement-I:</b> The restriction to Indian nationals in domestic institutions is because the program's core goal is to foster and strengthen the indigenous academic research ecosystem for India's strategic space missions (like Gaganyaan, Bharatiya Antariksh Station).",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
