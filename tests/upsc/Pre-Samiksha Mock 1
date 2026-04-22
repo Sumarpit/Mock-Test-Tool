@@ -1,0 +1,1502 @@
+[
+  {
+    "section": "Environment",
+    "topic": "Biodiversity in Mountain Ecosystems",
+    "question": "<b>Which of the following factors may contribute to higher biodiversity in mountain ranges when compared to plain regions?</b><br><br>I. Compression of a wide range of ecosystems in a relatively short distance<br>II. Creation of new habitats by geological processes like uplift<br>III. Presence of unique resources<br>IV. More sunlight per unit area<br><br><b>Choose the correct answer from the codes provided below:</b>",
+    "options": [
+      "I and II only",
+      "I, II and III only",
+      "II, III and IV only",
+      "III and IV only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: I, II and III only</b><br><br><b>Statements I, II, and III are correct:</b> Mountains boast diverse landscapes with varied terrain, elevation, and microclimates, fostering speciation. Geological uplifts create 'cradles' for new species, and unique resources like volcanic soils aid specialization.<br><b>Statement IV is incorrect:</b> Peaks may receive stronger UV and intense radiation, but this hampers rather than enhances biodiversity. Plains generally receive more consistent, usable sunlight.<br><br><b>Examiner Trap:</b> Equating 'more sunlight' (which can mean harsh UV at altitudes) with 'better biodiversity' is a classic reverse logic trap.<br><b>PYQ Linkage:</b> UPSC tested the ecological niches of Eastern vs Western Himalayas and their biodiversity factors in 2014.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Conservation of Marine Mammals",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Arctic seal species like the hooded seal and bearded seal have seen a worsening of their conservation status under the IUCN Red list.<br><b>Statement-II:</b> All the seal species are found in the polar region, and the polar region is losing ice due to global warming.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but statement-II is incorrect",
+      "Statement-I is incorrect but statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> The Arctic is warming four times faster than the global average. Consequently, the hooded seal (VU to EN) and bearded seal (LC to NT) have seen their IUCN status worsen due to sea ice habitat loss.<br><b>Statement-II is incorrect:</b> <b>Not all</b> seal species live in polar regions. For example, Hawaiian seals are tropical, and Mediterranean monk seals are found in temperate zones.<br><br><b>Examiner Trap:</b> The extreme word 'All' in Statement II is a classic distractor.<br><b>PYQ Linkage:</b> Testing the geographic distribution of marine mammals (e.g., Dugongs, Manatees) was seen in Prelims 2015.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Biodiversity Heritage Sites (BHS)",
+    "question": "<b>Consider the following pairs of Biodiversity Heritage Sites (BHS) and their locations:</b><br><br>1. Arittapatti : Tamil Nadu<br>2. Ameenpur Lake : Telangana<br>3. Borjuli Wild Rice site : Assam<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><b>Pair 1 is correctly matched:</b> Arittapatti in Madurai is Tamil Nadu's first BHS, known for raptor species and megalithic structures.<br><b>Pair 2 is correctly matched:</b> Ameenpur Lake (Telangana) is the first water body recognized as a BHS.<br><b>Pair 3 is correctly matched:</b> Borjuli Wild Rice site (Assam) protects <i>Oryza rufipogon</i>, the progenitor of cultivated rice.<br><br><b>Examiner Trap:</b> Candidates often overlook newly added state-specific BHS and confuse them with Ramsar sites.<br><b>PYQ Linkage:</b> Matching protected areas with their states/rivers is a recurring theme (e.g., 2020 Prelims).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Endemic Species of India",
+    "question": "<b>Consider the following species of shrews found in India:</b><br><br>I. Andaman White-toothed Shrew<br>II. Jenkin's Andaman Spiny Shrew<br>III. Nicobar White-tailed Shrew<br>IV. Narcondam Shrew<br><br><b>Which of the species mentioned above are classified as 'Critically Endangered' by the IUCN Red List?</b>",
+    "options": [
+      "I, II, and III only",
+      "II, and IV only",
+      "I, III, and IV only",
+      "I, II, III, and IV"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I, II, and III only</b><br><br>The Andaman White-toothed shrew, Jenkins’ Andaman Spiny shrew, and Nicobar White-tailed shrew are all listed as Critically Endangered (CR) due to their restricted endemic habitats.<br>The <b>Narcondam Shrew</b> is listed as <b>Data Deficient</b>. Discovered in 2020, it is endemic to Narcondam Island.<br><br><b>Examiner Trap:</b> Grouping a newly discovered, Data Deficient species with established CR species to exploit gaps in current affairs knowledge.<br><b>PYQ Linkage:</b> Identifying IUCN status of endemic fauna of Andaman & Nicobar (e.g., Narcondam Hornbill) was tested previously.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Protected Areas",
+    "question": "<b>Consider the following statements about Sundarban Tiger Reserve:</b><br><br>I. It is the largest tiger reserve in India.<br>II. Pygmy Hog, the world's smallest pig, is the flagship species found here.<br>III. Sundarban is an UNESCO World Heritage Site and a Ramsar site.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one</b><br><br><b>Statement I is incorrect:</b> Sundarban is the <b>2nd largest</b> tiger reserve in India after its recent expansion. Nagarjunasagar-Srisailam TR remains the largest.<br><b>Statement II is incorrect:</b> Pygmy Hog is the flagship species of the Terai grassland in <b>Manas National Park</b>, not Sundarbans.<br><b>Statement III is correct:</b> It was declared a UNESCO World Heritage Site in 1987 and a Ramsar Site in 2019.<br><br><b>Examiner Trap:</b> Exploiting the 'superlative' trap (largest vs 2nd largest) and geographical misplacement of flagship species.<br><b>PYQ Linkage:</b> India's largest tiger reserve was a direct PYQ in 2020.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Plant Ecology",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Masting is a phenomenon in monocarpic plants to overwhelm seed predators.<br><b>Statement-II:</b> It ensures that enough seeds survive the predators to germinate.<br><b>Statement-III:</b> Kurinji species are known to show masting.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement-II and Statement-III are correct and both of them explain Statement-I",
+      "Both Statement-II and Statement-III are correct but only one of them explains Statement-I",
+      "Only one of Statement-II and Statement-III is correct and that explains Statement-I",
+      "Neither Statement-II nor Statement-III is correct"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Both Statement-II and Statement-III are correct but only one of them explains Statement-I</b><br><br><b>Statement I is correct:</b> Masting is the synchronized production of massive seed crops by monocarpic plants.<br><b>Statement II is correct and explains Statement I:</b> The evolutionary advantage of masting is to exhaust local predator populations so surviving seeds can germinate.<br><b>Statement III is correct but does not explain Statement I:</b> Kurinji (and bamboo) show masting, but giving an example does not logically explain the mechanism of the phenomenon.<br><br><b>Examiner Trap:</b> Assessing logical dependency. An example (Kurinji) is factual but does not provide the 'reason' for the phenomenon.<br><b>PYQ Linkage:</b> Plant behavior and survival mechanisms were tested in 2021 (e.g., leaf modifications).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Eminent Personalities in Ecology",
+    "question": "<b>Who among the following is widely considered the \"Father of Ecology in India\"?</b>",
+    "options": [
+      "Salim Ali",
+      "Madhav Gadgil",
+      "Ramdeo Misra",
+      "M.S. Swaminathan"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Ramdeo Misra</b><br><br>Ramdeo Misra established teaching and research in ecology at the Department of Botany of the BHU. He formulated the first postgraduate course in ecology in India. His efforts led to the establishment of the National Committee for Environmental Planning and Coordination (1972), paving the way for the MoEFCC.<br><br><b>Examiner Trap:</b> Using highly recognizable names like Salim Ali (Ornithology) and M.S. Swaminathan (Agriculture) to distract candidates who are unsure of the specific title.<br><b>PYQ Linkage:</b> Personalities associated with environmental movements (e.g., Navdanya, Chipko) are periodically tested.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Principles",
+    "question": "<b>Consider the following statements regarding the fundamental principles of ecology and ecosystem interactions:</b><br><br>I. A species' \"realized niche\" is always larger than its \"fundamental niche\" because it includes the presence of competition from other species.<br>II. The population density of certain species is often much greater in an ecotone than in the adjacent ecosystems, a phenomenon known as the edge effect.<br>III. In the context of population interactions, \"Amensalism\" refers to a relationship where one species benefits while the other is harmed.<br>IV. Conformers are organisms that lack the ability to regulate their internal body temperature and instead rely on their environment to dictate it.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (II and IV)</b><br><br><b>Statement I is incorrect:</b> A \"realized niche\" is the actual space an organism occupies due to competition, and it is always <b>smaller</b> than or equal to the fundamental niche. (Reverse logic trap).<br><b>Statement II is correct:</b> This correctly defines an ecotone and the edge effect.<br><b>Statement III is incorrect:</b> Amensalism is when one is harmed and the other is <b>unaffected</b> (-, 0). Benefit/Harm (+, -) is predation or parasitism.<br><b>Statement IV is correct:</b> Conformers cannot maintain homeostasis physiologically.<br><br><b>Examiner Trap:</b> Swapping standard definitions (Amensalism vs Parasitism) and reversing size relationships (Realized vs Fundamental niche).<br><b>PYQ Linkage:</b> \"Ecological Niche\" was asked directly in 2013.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Macroeconomics: Goods Classification",
+    "question": "<b>Consider the following statements about the classification of goods in macroeconomics:</b><br><br>I. Final goods are always consumption goods.<br>II. Any expenditure on final goods is considered consumption expenditure.<br>III. Only final goods (and not intermediate goods) are included in the estimation of national product or national income.<br>IV. A shirt purchased by a retailer from the wholesaler for resale is a final good.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement III)</b><br><br><b>Statement I is incorrect:</b> Final goods can be consumption goods OR capital goods (like a machine bought by a firm).<br><b>Statement II is incorrect:</b> Expenditure on final capital goods by producers is Investment Expenditure, not consumption.<br><b>Statement III is correct:</b> To avoid double counting, only final goods are included in GDP/National Income calculations.<br><b>Statement IV is incorrect:</b> A shirt purchased for <b>resale</b> is an intermediate good because value is yet to be added.<br><br><b>Examiner Trap:</b> The extreme word \"always\" in Statement I. Confusing the end-user (retailer vs consumer) in Statement IV.<br><b>PYQ Linkage:</b> Conceptual clarity on GDP calculation components and capital goods was tested in 2021.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Union Budget Trends",
+    "question": "<b>Consider the following statements about the fiscal situation of the Government of India:</b><br><br>I. Capital expenditure as a % of total expenditure of the Union Government has consistently increased over the last five years.<br>II. As per the Union Budget for FY27, the subsidy expenditure is estimated to be higher than the expenditure on interest payments by the Union Government.<br>III. As per the Budget for FY27, the Union government's expenditure on pension is estimated to be higher than that on salaries.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement III)</b><br><br><b>Statement I is incorrect:</b> Capital expenditure as a % has NOT consistently increased (e.g., FY26 RE saw a dip to 22.1% from 22.6% in FY25).<br><b>Statement II is incorrect:</b> Interest payments (over ₹14 lakh crore) dwarf subsidy expenditure (₹4.55 lakh crore).<br><b>Statement III is correct:</b> Pension expenditure (₹2.96 lakh crore) is higher than salary expenditure (₹1.66 lakh crore).<br><br><b>Examiner Trap:</b> The word \"consistently\" is almost always a trap in macroeconomic trends. Comparing massive mandatory payments (interest) with discretionary ones (subsidies).<br><b>PYQ Linkage:</b> Budgetary trends (Tax-to-GDP, Fiscal deficit trends) were asked in 2017 and 2020.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Budgeting Concepts",
+    "question": "<b>With reference to the concept of deficit and budgeting in India, consider the following statements:</b><br><br>I. Effective Revenue Deficit is calculated by subtracting Grants in Aid for the creation of capital assets from the Revenue Deficit.<br>II. Zero-based budgeting (ZBB) relies on a conventional aggregate approach where every department automatically carries forward its previous year's budget.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I only</b><br><br><b>Statement I is correct:</b> ERD is the difference between Revenue Deficit and Grants given to states for creating capital assets (introduced in 2010-11).<br><b>Statement II is incorrect:</b> ZBB is the exact <i>opposite</i> of the conventional aggregate approach. It starts from a \"zero base,\" requiring every scheme/department to re-justify its existence and funding through cost-benefit analysis, rather than automatically carrying forward past budgets.<br><br><b>Examiner Trap:</b> Reversing the definition of ZBB to describe conventional budgeting.<br><b>PYQ Linkage:</b> Types of deficits (FRBM Act) and their components are staple UPSC questions (e.g., 2015).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Theories and Curves",
+    "question": "<b>Consider the following pairs:</b><br><br>1. Engel's Law : The percentage of income spent on food decreases as income rises.<br>2. Cantillon Effect : Changes in the money supply affect the prices of goods and distribution of purchasing power differently across sectors over time.<br>3. Liquidity Trap : A situation where a continuous increase in money supply and lower interest rates fail to stimulate investment.<br>4. V-shaped recovery : A gradual, long-term recovery in economic conditions after a crash.<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only three (1, 2, and 3)</b><br><br><b>Pair 1 is correct:</b> Engel's Law posits that as income rises, the proportion of income spent on food falls.<br><b>Pair 2 is correct:</b> Cantillon Effect explains how newly injected fiat money benefits early recipients before prices rise for everyone else.<br><b>Pair 3 is correct:</b> Liquidity trap occurs when low interest rates fail to spur investment due to economic pessimism.<br><b>Pair 4 is incorrect:</b> A V-shaped recovery is a <b>quick</b>, sharp recovery, not a \"gradual, long-term\" one (which describes a U-shape or L-shape).<br><br><b>Examiner Trap:</b> Mismatching the geometric shape of the recovery with its temporal description.<br><b>PYQ Linkage:</b> Post-pandemic economic recoveries (V-shape) and Philips curve concepts have been tested recently.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Corporate Taxation",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Union Budget 2026-27 has reduced Minimum Alternate Tax (MAT) rates from 15% to 14% on book profit.<br><b>Statement-II:</b> The reduction in MAT rates will make the new tax regime with 22% income tax rates for the corporate sector more attractive.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement I and Statement-II are correct and Statement II explains Statement-I",
+      "Both Statement I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement I is correct, but Statement II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement I is correct, but Statement II is incorrect</b><br><br><b>Statement I is correct:</b> The budget reduced MAT from 15% to 14% on book profit.<br><b>Statement II is incorrect:</b> MAT is <b>not applicable</b> to the new concessional tax regime. Therefore, simply reducing MAT actually makes the <i>old</i> regime more attractive (since MAT acts as a floor tax there). The Budget countered this by removing the MAT credit carry-forward, effectively making the new regime more attractive by penalizing long-term MAT payers.<br><br><b>Examiner Trap:</b> Assuming that a tax cut (MAT) uniformly benefits the \"new\" regime when structurally they are mutually exclusive options.<br><b>PYQ Linkage:</b> MAT and its applicability were tested in 2015.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Taxation Policy Changes",
+    "question": "<b>Consider the following statements regarding the taxation changes coming into force from April 1, 2026:</b><br><br>I. Any amount received by shareholders as a result of the buyback of shares will be treated as Capital gains rather than being treated as deemed dividends.<br>II. Capital gains exemption on the maturity redemption of Sovereign Gold Bonds will be applicable to all investors, including those who purchased the bonds from the secondary market.<br><br><b>Which of the above statements is/are correct?</b>",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I only</b><br><br><b>Statement I is correct:</b> Under the new budget rules, buyback proceeds are taxed in the hands of shareholders as capital gains, eliminating the 'deemed dividend' / buyback tax at the company level.<br><b>Statement II is incorrect:</b> Exemption from capital gains tax on SGB redemption applies <b>only</b> to original subscribers (primary market). Those buying from the secondary market do not get this exemption.<br><br><b>Examiner Trap:</b> Generalizing a tax exemption (\"all investors\") which is strictly limited to initial subscribers.<br><b>PYQ Linkage:</b> SGB scheme features were directly asked in 2016.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "India's Foreign Trade",
+    "question": "<b>Consider the following statements:</b><br><br>I. India’s share in global merchandize exports has remained stagnant at 1% in the last two decades.<br>II. India has continued to perform among the worst countries in the Global South in terms of diversification in trade partnerships.<br>III. India’s total exports (both goods and services) surpassed $1 trillion in 2024-25 for the first time in history.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: None</b><br><br><b>Statement I is incorrect:</b> India's share in global merchandise exports has nearly doubled from 1% to 1.8% over the last two decades.<br><b>Statement II is incorrect:</b> According to UNCTAD, India ranks <b>third best</b> among Global South countries in trade partnership diversity (after China and UAE).<br><b>Statement III is incorrect:</b> Total exports reached a record <b>$825.3 billion</b> in 2024-25. The target to hit $1 trillion is set for 2030.<br><br><b>Examiner Trap:</b> Using pessimistic absolutes (\"stagnant\", \"worst\") which contradict positive Economic Survey data, and inflating current data to match future targets ($1 trillion).<br><b>PYQ Linkage:</b> India's export share and top trading partners are frequent themes (e.g., 2023).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Agriculture: Pulses",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Mission for Atmanirbharta in Pulses aims to increase domestic pulse production to 50 million tonnes by 2030-31.<br><b>Statement-II:</b> India is currently the world's largest importer of pulses.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement I and Statement II are correct, and Statement II explains Statement I",
+      "Both Statement I and Statement II are correct, but Statement II does not explain Statement I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect, but Statement-II is correct</b><br><br><b>Statement I is incorrect:</b> The Mission aims to scale production to <b>35 million tonnes</b> (from current ~25 MT) by 2030-31, not 50 million.<br><b>Statement II is correct:</b> Despite being the largest producer and consumer, India remains the world's largest importer (14% of global imports) due to massive domestic demand.<br><br><b>Examiner Trap:</b> Overstating government targets to make them sound plausible. Paradox of being the largest producer but still the largest importer.<br><b>PYQ Linkage:</b> Pulse production trends and trade status were tested in 2020.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Indus Valley Civilization",
+    "question": "<b>Lothal, an important archaeological site of the Harappan Civilization known for its dockyard, is situated on the banks of which one of the following rivers?</b>",
+    "options": [
+      "Sabarmati",
+      "Bhogava",
+      "Narmada",
+      "Tapi"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Bhogava</b><br><br>Lothal is situated on the banks of the Bhogava River, a tributary of the Sabarmati, which connects to the Gulf of Khambhat. Its riverine location facilitated overseas trade with regions like Mesopotamia.<br><br><b>Examiner Trap:</b> Sabarmati is a major river in Gujarat, but Lothal specifically sits on its tributary, the Bhogava.<br><b>PYQ Linkage:</b> Harappan sites and their associated rivers/features are highly tested (e.g., Dholavira in 2021).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Ashokan Inscriptions",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Inscription Site : Present Location</b><br>I. Udegolam : Karnataka<br>II. Nittur : Andhra Pradesh<br>III. Maski : Karnataka<br>IV. Gurjara : Madhya Pradesh<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only three (I, III, and IV)</b><br><br><b>Pair I is correct:</b> Udegolam is in Karnataka.<br><b>Pair II is incorrect:</b> Nittur is located in Bellary district, <b>Karnataka</b>, not Andhra Pradesh.<br><b>Pair III is correct:</b> Maski is in Karnataka (explicitly mentions the name \"Ashoka\").<br><b>Pair IV is correct:</b> Gurjara is in Datia district, Madhya Pradesh.<br><br><b>Examiner Trap:</b> Misattributing a South Indian site (Nittur) to a neighboring state (AP instead of Karnataka).<br><b>PYQ Linkage:</b> Ashokan edicts and their locations are frequent PYQs (e.g., Dhauli, Erragudi in 2022).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Early Medieval South India",
+    "question": "<b>With reference to the Pallava–Chalukya conflicts in early medieval South India, consider the following statements:</b><br><br>I. The Pallava ruler Narasimhavarman I assumed the title ‘Vatapikonda’ after defeating the Chalukya king Pulakesin-II and capturing Vatapi.<br>II. The Chalukya ruler Vikramaditya II assumed the title ‘Kanchikonda’ after invading the Pallava territory and capturing Kanchipuram.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both I and II</b><br><br><b>Statement I is correct:</b> Narasimhavarman I defeated Pulakesin II in 642 CE, capturing the Chalukya capital Vatapi and taking the title 'Vatapikonda'.<br><b>Statement II is correct:</b> Later, Chalukya ruler Vikramaditya II retaliated, capturing the Pallava capital Kanchipuram and adopting the title 'Kanchikonda'.<br><br><b>Examiner Trap:</b> Swapping the titles or the kings involved in these reciprocal conquests.<br><b>PYQ Linkage:</b> Dynastic titles and architectural contributions of Pallavas/Chalukyas are standard themes.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Mughal Administration",
+    "question": "<b>Consider the following statements with reference to the system of jagirs during the Mughal period:</b><br><br>I. Tankha jagirs were given to zamindars in their homelands.<br>II. Inam jagirs involved no obligation of service and were independent of rank.<br>III. Watan jagirs were given to officials in lieu of pay.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I only",
+      "II and III only",
+      "II only",
+      "I, II and III"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: II only</b><br><br><b>Statement I is incorrect:</b> Tankha jagirs were given to <i>mansabdars/officials</i> in lieu of cash salaries, not to zamindars in their homelands.<br><b>Statement II is correct:</b> Inam jagirs were revenue-free grants (gifts/charity) requiring no military/administrative service.<br><b>Statement III is incorrect:</b> Watan jagirs were hereditary lands recognized by the state, held by local chiefs/zamindars in their homelands, not given to officials in lieu of pay.<br><br><b>Examiner Trap:</b> Swapping the definitions of Tankha and Watan jagirs.<br><b>PYQ Linkage:</b> Difference between Jagirdar and Zamindar was asked in 2019.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Sangam Literature",
+    "question": "<b>Consider the following saying taken from the literary work often referred to as the ‘Fifth Veda of the Tamil land’:</b><br><br>“Valour, honour, the tradition of dignified behaviour and credibility are the four qualities that are the reflections of an army of any country”<br><br><b>Which among the following literary works is referred to here?</b>",
+    "options": [
+      "Silappatikaram",
+      "Manimekalai",
+      "Thirukkural",
+      "Valayapathi"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Thirukkural</b><br><br>The Thirukkural, authored by Thiruvalluvar, is deeply revered for its ethical and philosophical verses and is known as the \"Tamil Veda\". The quoted couplet (Kural 771) describes the qualities of an army.<br><br><b>Examiner Trap:</b> Providing names of the famous Five Great Epics of Tamil Literature (like Silappatikaram) to distract from the didactic text Thirukkural.<br><b>PYQ Linkage:</b> Sangam literature themes (e.g., Tolkappiyam, Silappatikaram) are frequently asked.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Indian National Movement",
+    "question": "<b>With reference to Subhas Chandra Bose, consider the following statements:</b><br><br>I. He established the Provisional Government of Azad Hind.<br>II. He renamed Andaman and Nicobar Islands as Shaheed Dweep and Swaraj Dweep respectively.<br>III. He led the initial formation of the Indian National Army in 1942.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and III only",
+      "II only",
+      "I, II and III",
+      "I and II only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: I and II only</b><br><br><b>Statement I is correct:</b> Bose established the Provisional Government in 1943 in Singapore.<br><b>Statement II is correct:</b> Upon gaining control from the Japanese, he renamed the islands Shaheed and Swaraj.<br><b>Statement III is incorrect:</b> The INA was <i>initially</i> formed by Captain Mohan Singh in 1942. Bose revitalized and took command of it later in 1943.<br><br><b>Examiner Trap:</b> Attributing the founding/initial formation of the INA to SC Bose rather than Mohan Singh.<br><b>PYQ Linkage:</b> SC Bose and INA formation have been tested multiple times.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Constitutional Developments",
+    "question": "<b>With reference to the Government of India Act, 1935, which of the following statements is NOT correct?</b>",
+    "options": [
+      "It provided for an All-India Federation of provinces and princely states.",
+      "It introduced provincial autonomy by abolishing dyarchy in provinces.",
+      "It established responsible government at the Centre.",
+      "It provided for the establishment of a Federal Court."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: It established responsible government at the Centre.</b><br><br>The GoI Act 1935 proposed dyarchy at the Centre (which never materialized) but retained immense discretionary powers with the Governor-General (defence, external affairs). It did <b>not</b> establish a responsible government at the Centre.<br>It did provide for an All-India Federation, provincial autonomy, and a Federal Court (established in 1937).<br><br><b>Examiner Trap:</b> Confusing provincial autonomy (which was granted) with central responsibility (which was denied).<br><b>PYQ Linkage:</b> Key features of the 1919 and 1935 Acts are standard questions (e.g., dyarchy).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Peasant Movements",
+    "question": "<b>Arrange the following peasant movements in chronological order:</b><br><br>I. Champaran Satyagraha<br>II. Bardoli Satyagraha<br>III. Pabna Uprising<br>IV. Tebhaga Movement<br><br><b>Select the correct answer using the code below:</b>",
+    "options": [
+      "I → II → III → IV",
+      "III → I → IV → II",
+      "I → III → II → IV",
+      "III → I → II → IV"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: III → I → II → IV</b><br><br>1. <b>Pabna Uprising:</b> 1873-76 (against oppressive zamindari in Bengal)<br>2. <b>Champaran Satyagraha:</b> 1917 (Gandhi's first satyagraha, against tinkathia system)<br>3. <b>Bardoli Satyagraha:</b> 1928 (led by Vallabhbhai Patel against land revenue hikes)<br>4. <b>Tebhaga Movement:</b> 1946-47 (sharecroppers in Bengal demanding 2/3rd crop share).<br><br><b>Examiner Trap:</b> Placing well-known Gandhian movements before 19th-century agrarian revolts.<br><b>PYQ Linkage:</b> Chronology of modern history events is heavily tested.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Principles",
+    "question": "<b>Consider the following provisions under the Constitution of India:</b><br><br>I. Judges of the High Courts are appointed by the Executive Head of the Union.<br>II. The judiciary exercises the power of judicial review over legislative actions.<br>III. Parliament is prohibited from discussing the judicial conduct of a Supreme Court judge under any circumstances.<br><br><b>Which of the above provisions reflect the “Principle of Checks and Balances” in the Indian polity?</b>",
+    "options": [
+      "I and II only",
+      "II only",
+      "II and III only",
+      "I, II and III"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I and II only</b><br><br><b>Statements I and II are correct reflections:</b> Executive appointment of judges (with consultation) and judicial review over the legislature are active mechanisms where one branch limits the other (Checks and Balances).<br><b>Statement III is incorrect:</b> Parliament is restricted from discussing judges' conduct <i>except</i> during an impeachment motion. Furthermore, this restriction ensures <b>Separation of Powers/Judicial Independence</b>, rather than Checks and Balances.<br><br><b>Examiner Trap:</b> Using the extreme phrase \"under any circumstances\" (ignores impeachment) and confusing Separation of Powers with Checks and Balances.<br><b>PYQ Linkage:</b> Constitutionalism and limits on state power (2020, 2021).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Anti-Defection Law",
+    "question": "<b>With reference to the Anti-Defection provisions under the Tenth Schedule, which of the following situations does NOT lead to the disqualification of a member of the legislature?</b>",
+    "options": [
+      "A member voluntarily giving up the membership of the political party on whose ticket he or she was elected.",
+      "An independent member joining a political party after being elected to the House.",
+      "A nominated member joining a political party after six months of taking his or her seat in the House.",
+      "A merger of a political party with another party supported by not less than two-thirds of the members of its legislature party."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: A merger of a political party... supported by not less than two-thirds...</b><br><br>Under the Tenth Schedule, a merger supported by 2/3rds of the legislature party members exempts them from disqualification. Voluntarily giving up membership, independents joining a party, and nominated members joining <i>after</i> 6 months all attract disqualification.<br><br><b>Examiner Trap:</b> Testing the exact time window for nominated members (6 months) and the fraction for merger (2/3rds).<br><b>PYQ Linkage:</b> Anti-defection scenarios were tested in 2014 and 2022.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights vs DPSP",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Laws enacted by the State to give effect to the Directive Principle under Article 39(b) cannot be declared void on the ground that they are inconsistent with the right to equality under Article 14.<br><b>Statement-II:</b> The Directive Principles of State Policy are fundamental in the governance of the country and are intended to promote social and economic democracy in India.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I.",
+      "Statement-I is correct but Statement-II is incorrect.",
+      "Statement-I is incorrect but Statement-II is correct."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.</b><br><br><b>Statement I is correct:</b> Article 31C explicitly protects laws implementing Articles 39(b) and (c) from being challenged under Articles 14 and 19.<br><b>Statement II is correct and explains I:</b> Because DPSPs aim to establish socio-economic democracy and are fundamental in governance, the Constitution (via 25th Amendment) elevated specific socialist principles over individual equality rights to allow resource redistribution.<br><br><b>Examiner Trap:</b> Assessing the philosophical relationship between Part III and Part IV.<br><b>PYQ Linkage:</b> The relationship between DPSP and FRs (Article 31C) is a highly tested core concept.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Writs",
+    "question": "<b>Consider the following statements with reference to the writ of Quo Warranto:</b><br><br>I. It can be issued against a person holding either a public office or a private office.<br>II. It can be filed by any member of the public, whether any right of such person has been infringed or not.<br>III. The writ requires the office-holder to explain the legal authority under which he or she occupies that office.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and III only",
+      "I only",
+      "II and III only",
+      "I, II and III"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: II and III only</b><br><br><b>Statement I is incorrect:</b> Quo Warranto is issued <b>only</b> for substantive public offices, not private offices.<br><b>Statement II is correct:</b> Unlike other writs, it can be sought by any interested person, not necessarily the aggrieved party (Locus Standi is relaxed).<br><b>Statement III is correct:</b> It literally means \"by what authority\" and questions the legality of a claim to a public office.<br><br><b>Examiner Trap:</b> Expanding the scope of the writ to private bodies, confusing it with Habeas Corpus or Mandamus.<br><b>PYQ Linkage:</b> Detailed applications of writs (Mandamus, Quo Warranto) were asked in 2022.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Executive and Legislature",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Even after the dissolution of the Lok Sabha, the Council of Ministers does not immediately cease to exist and continues to remain in office.<br><b>Statement-II:</b> The President of India is required to exercise executive authority based on the aid and advice of the Council of Ministers.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I.",
+      "Statement-I is correct but Statement-II is incorrect.",
+      "Statement-I is incorrect but Statement-II is correct."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.</b><br><br><b>Statement I is correct:</b> The CoM remains in office during the interim period (caretaker government) after Lok Sabha dissolution.<br><b>Statement II is correct and explains I:</b> Under Article 74(1), the President <i>must</i> have a CoM to aid and advise him. He cannot exercise executive power without them. Thus, the CoM must survive the dissolution to fulfill this constitutional mandate.<br><br><b>Examiner Trap:</b> Assuming dissolution of the lower house automatically strips the Prime Minister of office instantly.<br><b>PYQ Linkage:</b> Role of CoM post-dissolution was previously tested.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Preamble Concepts",
+    "question": "<b>Which of the following statements is NOT correct with reference to the meaning of the term ‘Republic’ as mentioned in the Preamble of the Indian Constitution?</b>",
+    "options": [
+      "The head of the State neither comes into office through succession nor enjoys a hereditary position.",
+      "The head of the State is always elected directly for a fixed term of five years.",
+      "Political Sovereignty is vested in the people and not in a single individual.",
+      "All public offices are open to every citizen without any discrimination."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The head of the State is always elected directly for a fixed term of five years.</b><br><br>The term \"Republic\" simply means the head of state is elected (directly or <b>indirectly</b>). In India, the President is <b>indirectly</b> elected. It does not mandate direct elections.<br>The other options correctly describe features of a republic: absence of monarchy, popular sovereignty, and open access to public offices.<br><br><b>Examiner Trap:</b> Sneaking the word \"directly\" into an otherwise plausible-sounding definition.<br><b>PYQ Linkage:</b> The meaning of terms in the Preamble (Liberty, Equality, Republic) is a favorite UPSC area (e.g., 2017, 2021).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Criminal Justice System",
+    "question": "<b>Match the following types of bail under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 with their correct description:</b><br><br><b>Type of Bail</b><br>P. Regular Bail<br>Q. Anticipatory Bail<br>R. Interim Bail<br>S. Statutory (Default) Bail<br><br><b>Description</b><br>I. Temporary bail granted pending final orders on a bail application.<br>II. Bail granted when a person under arrest is released after furnishing a bond.<br>III. Bail granted in anticipation of arrest for a non-bailable offence.<br>IV. Bail granted when the police fail to complete the investigation within the prescribed time limit.<br><br><b>Select the correct answer using the options given below:</b>",
+    "options": [
+      "P-II, Q-III, R-I, S-IV",
+      "P-II, Q-I, R-III, S-IV",
+      "P-IV, Q-III, R-II, S-I",
+      "P-III, Q-IV, R-I, S-II"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: P-II, Q-III, R-I, S-IV</b><br><br>Regular (II): After arrest.<br>Anticipatory (III): Pre-arrest protection.<br>Interim (I): Temporary relief pending a final hearing.<br>Statutory/Default (IV): Granted if police fail to file a chargesheet in time.<br><br><b>Examiner Trap:</b> Mixing up Interim (temporary measure) with Default bail (right acquired due to police delay).<br><b>PYQ Linkage:</b> Rights of the accused and parole/furlough rules were tested in 2021.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "State Executive: Governor",
+    "question": "<b>Consider the following statements regarding the office of the Governor in an Indian State:</b><br><br>I. The Constitution provides that a Governor should not belong to the State to which he or she is appointed.<br>II. The salary and allowances of a Governor are determined by the State Legislature.<br>III. The Governor does not enjoy a fixed tenure and holds office at the pleasure of the President.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and II only",
+      "III only",
+      "II and III only",
+      "I, II and III"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: III only</b><br><br><b>Statement I is incorrect:</b> Appointing a non-native as Governor is a <b>convention</b>, not a Constitutional provision.<br><b>Statement II is incorrect:</b> The Governor's emoluments are determined by <b>Parliament</b>, not the State Legislature.<br><b>Statement III is correct:</b> Though nominally a 5-year term, the Governor holds office purely at the pleasure of the President and can be removed without cause.<br><br><b>Examiner Trap:</b> Conflating political conventions with explicit Constitutional text. Mixing up Parliament's vs State Legislature's financial powers.<br><b>PYQ Linkage:</b> The Governor's discretionary powers and appointment rules are frequently tested (e.g., 2018, 2019).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Technologies",
+    "question": "<b>With reference to Web 3.0 and Blockchain Technology, consider the following statements:</b><br><br>I. Web 3.0 runs on decentralized technologies like blockchain, allowing users to control their own data and own stakes in platforms.<br>II. The Decentralized Autonomous Organization (DAO) principle implies that a central authority is strictly required to authenticate or validate all transactions.<br>III. Blockchain is a distributed database used to maintain a continuously growing list of transaction records, called blocks, which are permanent and unalterable.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II, and III"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: I and III only</b><br><br><b>Statement I is correct:</b> Web 3.0 is built on decentralization, enabling users to own their data without tech monopolies.<br><b>Statement II is incorrect:</b> A DAO specifically functions <b>without</b> a central authority; smart contracts on the blockchain execute transactions autonomously.<br><b>Statement III is correct:</b> A blockchain is a distributed, immutable ledger of blocks.<br><br><b>Examiner Trap:</b> Reversing the definition of DAO to suggest centralization.<br><b>PYQ Linkage:</b> Web 3.0 and Blockchain were direct questions in Prelims 2022 and 2020.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Defence Technology",
+    "question": "<b>Consider the following statements regarding the BrahMos missile:</b><br><br>I. It is a supersonic cruise missile developed as a joint venture between India and Russia.<br>II. India's entry into the Missile Technology Control Regime (MTCR) enabled the development of an extended range (ER) variant capable of 450 kms.<br>III. It uses a solid fuel ducted ramjet (SFDR) system, allowing it to fly at hypersonic speeds of Mach 8 in its current operational Mk-I variant.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II, and III"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I and II only</b><br><br><b>Statement I is correct:</b> It is a joint venture between DRDO and Russia's NPOM.<br><b>Statement II is correct:</b> Joining MTCR removed the 300km restriction, allowing the ER variant.<br><b>Statement III is incorrect:</b> The current operational BrahMos is <b>supersonic</b> (Mach 2.8). The hypersonic variant (BrahMos-II, Mach 8) is still under development.<br><br><b>Examiner Trap:</b> Conflating the capabilities of future variants (BrahMos-II) with current operational ones.<br><b>PYQ Linkage:</b> Cruise vs Ballistic missiles (e.g., Agni vs Brahmos) was tested in 2023.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Nuclear Liability and Regulations",
+    "question": "<b>Consider the following statements about the Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Act, 2025:</b><br><br>I. Private companies, including those incorporated outside India, can easily obtain licenses to own and operate nuclear plants.<br>II. The Act introduces a tiered structure for operator liability for nuclear damages based on the power capacity of the plant.<br>III. The Act removes the operator's right to recourse on the ground of the supply of defective equipment or material.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II, and III"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: II and III only</b><br><br><b>Statement I is incorrect:</b> The Act allows private companies to obtain licenses, <b>except</b> companies incorporated outside India.<br><b>Statement II is correct:</b> It structures liability based on plant capacity (e.g., ₹100 cr for small plants, ₹3,000 cr for large ones).<br><b>Statement III is correct:</b> It crucially removes the right to recourse against suppliers for defective equipment, aligning with international norms to attract foreign suppliers.<br><br><b>Examiner Trap:</b> Assuming foreign FDI/incorporation is fully permitted in strategic nuclear operations.<br><b>PYQ Linkage:</b> Nuclear liability and supplier clauses are core strategic issues for India.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Biotechnology: Vaccines",
+    "question": "<b>Consider the following statements about mRNA vaccines:</b><br><br>I. They deliver nucleic acid directly to the recipient, using the body's own machinery to produce the target viral proteins.<br>II. A major safety advantage is that the delivered mRNA cannot integrate into the host's genome.<br>III. They are produced without the need for large-scale cell cultures.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II, and III"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: I, II, and III</b><br><br><b>Statement I is correct:</b> The mRNA instructs ribosomes to synthesize the viral antigen (like the spike protein).<br><b>Statement II is correct:</b> mRNA operates in the cytoplasm and cannot enter the nucleus or integrate into DNA.<br><b>Statement III is correct:</b> Unlike viral vector or inactivated vaccines, mRNA vaccines are synthesized chemically, avoiding the need for biological cell cultures.<br><br><b>Examiner Trap:</b> A common misconception is that mRNA can alter human DNA.<br><b>PYQ Linkage:</b> Recombinant vector vaccines and mRNA technology were heavily tested in 2021 and 2022.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Astrophysics",
+    "question": "<b>Consider the following statements regarding the formation and features of black holes:</b><br><br>I. A neutron star collapses further into a black hole if its mass is more than about 3 solar masses.<br>II. The boundary of a black hole, from which nothing can escape, is called the singularity.<br>III. Black holes can be detected by analysing the X-rays emitted when they pull matter off the surface of a nearby visible star.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II, and III"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: I and III only</b><br><br><b>Statement I is correct:</b> The Tolman-Oppenheimer-Volkoff limit implies neutron stars above ~3 solar masses will collapse into black holes.<br><b>Statement II is incorrect:</b> The boundary from which nothing escapes is the <b>Event Horizon</b>. The <i>singularity</i> is the point of infinite density at the center.<br><b>Statement III is correct:</b> Accretion disks around black holes emit high-energy X-rays as matter heats up while spiraling in.<br><br><b>Examiner Trap:</b> Swapping the definitions of \"Event Horizon\" and \"Singularity\".<br><b>PYQ Linkage:</b> Gravitational waves, pulsars, and event horizons have been in PYQs (e.g., 2017, 2019).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Defence Aviation",
+    "question": "<b>Consider the following pairs of defence equipment and their descriptions:</b><br><br>I. LCA Tejas Mk-1A : Indigenous 4.5 generation single-engine fighter jet<br>II. HAL Prachand : Twin-engine Light Combat Helicopter (LCH)<br>III. MH-60R Seahawk : Anti-submarine multirole maritime helicopter<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><b>Pair I is correct:</b> Tejas Mk-1A features an AESA radar, BVR capabilities, and is a 4.5-gen fighter.<br><b>Pair II is correct:</b> Prachand is India's indigenous twin-engine LCH.<br><b>Pair III is correct:</b> MH-60R Seahawk (Romeo) is a US-origin naval helicopter for anti-submarine warfare (ASW).<br><br><b>Examiner Trap:</b> Conflating single-engine vs twin-engine specs or indigenous vs imported status.<br><b>PYQ Linkage:</b> Identifying specific defence hardware (e.g., THAAD, S-400) is a recurring UPSC format.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Nuclear Physics",
+    "question": "<b>Which of the following statements about India's nuclear energy programs is/are correct?</b><br><br>I. In a nuclear fission reaction, energy is released due to a mass defect that is converted into energy according to Einstein's equation.<br>II. ITER (International Thermonuclear Experimental Reactor) aims to harness the energy of nuclear fission.<br>III. India's proposed Steady-State-Superconducting Tokamak – Bharat (SST-Bharat) is envisaged as a pure nuclear fusion reactor.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "I only",
+      "I and II only",
+      "II and III only",
+      "I, II, and III"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I only</b><br><br><b>Statement I is correct:</b> Mass defect in fission/fusion converts to energy ($E=mc^2$).<br><b>Statement II is incorrect:</b> ITER is a <b>fusion</b> research project, not fission.<br><b>Statement III is incorrect:</b> SST-Bharat is envisaged as a <b>fusion-fission hybrid</b> reactor, not a pure fusion reactor.<br><br><b>Examiner Trap:</b> Reversing fission and fusion, and misrepresenting the hybrid nature of India's indigenous Tokamak.<br><b>PYQ Linkage:</b> ITER and Tokamak mechanisms were asked in 2019.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Health and Nutrition",
+    "question": "<b>Consider the following statements regarding trans fats:</b><br><br>I. Artificial trans fats are created by heating liquid vegetable oils in the presence of hydrogen gas and a catalyst.<br>II. Trans fats increase the levels of 'good' HDL cholesterol and decrease 'bad' LDL cholesterol.<br>III. The WHO initiative 'REPLACE' aims to provide guidance to eliminate industrially produced trans fats from the global food supply.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II, and III"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: I and III only</b><br><br><b>Statement I is correct:</b> Partial hydrogenation uses heat, hydrogen, and a nickel catalyst to turn oils into solids.<br><b>Statement II is incorrect:</b> Trans fats do the opposite; they <b>decrease</b> good HDL and <b>increase</b> bad LDL cholesterol.<br><b>Statement III is correct:</b> REPLACE is a WHO initiative to eliminate trans fats globally.<br><br><b>Examiner Trap:</b> Reversing the biological impact of trans fats on cholesterol types.<br><b>PYQ Linkage:</b> Hydrogenation of oils and trans fat harm were tested in 2011 and 2013.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Geomorphology",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Placer gold deposits are found along the coast of Ghana despite the absence of any nearby primary gold-bearing rocks.<br><b>Statement-II:</b> According to the Continental Drift hypothesis, Africa and South America were once joined together as parts of the supercontinent Pangaea.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I.",
+      "Statement-I is correct but Statement-II is incorrect.",
+      "Statement-I is incorrect but Statement-II is correct."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.</b><br><br><b>Statement I is correct:</b> Ghana has placer gold but no primary source rocks nearby.<br><b>Statement II is correct and explains I:</b> The gold-bearing veins are actually found in Brazil. Because Africa and South America were once joined (Continental Drift), the weathering of Brazilian rocks deposited gold in what is now coastal Ghana before the continents separated.<br><br><b>Examiner Trap:</b> Testing the empirical evidence used by Wegener to prove Continental drift.<br><b>PYQ Linkage:</b> Conceptual understanding of continental drift and plate tectonics.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Coastal Geomorphology of India",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The Western Coastal Plains provide favourable natural conditions for the development of ports and harbours.<br><b>Statement-II:</b> The Western Coastal Plains are well-developed depositional plains representing an emergent coast.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I.",
+      "Statement-I is correct but Statement-II is incorrect.",
+      "Statement-I is incorrect but Statement-II is correct."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect.</b><br><br><b>Statement I is correct:</b> The indented and submerged nature of the Western coast creates natural harbours (e.g., Mumbai, Mormugao).<br><b>Statement II is incorrect:</b> The Western Coastal Plains are <b>submerged/erosional</b> coasts, not emergent/depositional. The <i>Eastern</i> Coastal Plains are emergent and depositional (broad river deltas).<br><br><b>Examiner Trap:</b> Swapping the geographic properties of the Eastern and Western coasts.<br><b>PYQ Linkage:</b> Characteristics of Eastern vs Western coasts are a fundamental NCERT concept.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Sectors of Economy",
+    "question": "<b>‘A particular sector of the economy deals with the generation, reorganization, and interpretation of both new and existing ideas. It is commonly associated with ‘gold-collar’ professionals, including top executives and decision-makers working in fields such as government, scientific research, higher education, non-profit organizations, and the media.’</b><br><br><b>Which of the following sectors is best described in the above passage?</b>",
+    "options": [
+      "Quaternary Sector",
+      "Quinary Sector",
+      "Secondary Sector",
+      "Tertiary Sector"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Quinary Sector</b><br><br>The Quinary sector represents the highest levels of decision-making in a society or economy (gold-collar). The Quaternary sector involves knowledge-based research and IT (white-collar).<br><br><b>Examiner Trap:</b> Confusing Quaternary (knowledge/research) with Quinary (top-level decision making and ideas generation).<br><b>PYQ Linkage:</b> Economic sectors and their definitions from NCERTs.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Geomorphology: Landforms",
+    "question": "<b>Cliffs, Caves, Arches and Stacks are the landscape features of which one of the following agents of erosion?</b>",
+    "options": [
+      "Wave",
+      "Wind",
+      "River",
+      "Glacier"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Wave</b><br><br>These are sequential features of coastal erosion. Waves erode a headland to form caves; caves break through to form arches; arches collapse to leave isolated stacks.<br><br><b>Examiner Trap:</b> Simple factual recall; candidates might confuse wind erosion (yardangs/zeugen) with wave erosion.<br><b>PYQ Linkage:</b> Agents of erosion and their specific landforms.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatology",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The capacity of air to hold water vapour increases with rising temperatures.<br><b>Statement-II:</b> The amount of water vapour present in the atmosphere is generally highest over equatorial oceans and decreases towards higher latitudes and continental interiors.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I.",
+      "Statement-I is correct but Statement-II is incorrect.",
+      "Statement-I is incorrect but Statement-II is correct."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I.</b><br><br><b>Statement I is correct:</b> Warmer air has higher kinetic energy, increasing its moisture-holding capacity.<br><b>Statement II is correct:</b> Absolute humidity is highest over warm equatorial oceans due to intense evaporation.<br><b>Why II doesn't explain I:</b> Statement I is a thermodynamic principle of air. Statement II is a geographic observation of water availability. Geography doesn't explain the physics of air.<br><br><b>Examiner Trap:</b> Assuming correlation implies a direct explanatory relationship.<br><b>PYQ Linkage:</b> Climatology fundamentals like humidity and dew point.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Oceanography",
+    "question": "<b>With reference to the vertical distribution of temperature in oceans, why is a well-defined thermocline generally absent in high-latitude Polar Regions?</b>",
+    "options": [
+      "High precipitation reduces surface salinity and stabilizes the water column.",
+      "Rapid evaporation maintains uniform salinity conditions.",
+      "High concentration of dissolved salts increases density uniformly.",
+      "There is little difference between surface and deep-water temperatures."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: There is little difference between surface and deep-water temperatures.</b><br><br>A thermocline is a layer of rapid temperature drop. In polar regions, surface waters are already near freezing, matching the temperature of deep ocean waters. Therefore, the water column is uniform in temperature, and no distinct thermocline forms.<br><br><b>Examiner Trap:</b> Using complex distractors involving salinity and evaporation to obscure the simple temperature gradient reality.<br><b>PYQ Linkage:</b> Ocean temperature distribution and stratification.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Infrastructure: Major Ports",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Port : State</b><br>I. Kandla : Gujarat<br>II. Ennore : Andhra Pradesh<br>III. Kochi : Kerala<br>IV. Paradeep : West Bengal<br><br><b>Which of the pairs given above are correctly matched?</b>",
+    "options": [
+      "II and III only",
+      "II and IV only",
+      "I and IV only",
+      "I and III only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: I and III only</b><br><br><b>Pair I is correct:</b> Kandla (Deendayal Port) is in Gujarat.<br><b>Pair II is incorrect:</b> Ennore (Kamarajar Port) is in <b>Tamil Nadu</b>.<br><b>Pair III is correct:</b> Kochi is in Kerala.<br><b>Pair IV is incorrect:</b> Paradeep is in <b>Odisha</b>.<br><br><b>Examiner Trap:</b> Placing major East Coast ports in the wrong neighboring state.<br><b>PYQ Linkage:</b> Matching ports to states or their specific characteristics is a common geography question type.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Geophysics",
+    "question": "<b>Consider the following statements with reference to the South Atlantic Anomaly (SAA):</b><br><br>I. It refers to a region over the South Atlantic Ocean where the Earth’s magnetic field is relatively weaker than in surrounding areas.<br>II. It is caused by the tilt of the Earth’s magnetic axis along with the movement of molten metals within the planet’s outer core.<br>III. Satellites passing through this region are less exposed to harmful solar particles compared to other regions of near-Earth space.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and II only",
+      "I only",
+      "II and III only",
+      "I, II and III"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I and II only</b><br><br><b>Statement I is correct:</b> SAA is an area of weak magnetic intensity.<br><b>Statement II is correct:</b> It results from outer core dynamics and the magnetic axis tilt.<br><b>Statement III is incorrect:</b> Because the magnetic shield is <b>weaker</b>, satellites are <b>more</b> exposed to harmful solar particles/radiation, requiring them to power down instruments.<br><br><b>Examiner Trap:</b> Reversing the consequence of a weak magnetic field (less exposure instead of more).<br><b>PYQ Linkage:</b> Earth's magnetic field and its reversals.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "United Nations Organs",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement–I:</b> The UN General Assembly can recommend collective measures for maintaining international peace and security.<br><b>Statement–II:</b> Under Chapter VII of the UN Charter, the UN General Assembly possesses enforcement powers similar to the UN Security Council.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct, but Statement-II is incorrect</b><br><br><b>Statement I is correct:</b> Under \"Uniting for Peace\" (1950), the UNGA can recommend collective measures if the UNSC is deadlocked.<br><b>Statement II is incorrect:</b> The UNGA's resolutions are non-binding. Only the UNSC has binding enforcement powers (sanctions, military force) under Chapter VII.<br><br><b>Examiner Trap:</b> Equating the powers of the UNGA with the UNSC regarding international security interventions.<br><b>PYQ Linkage:</b> The mandate and powers of UN organs (e.g., UNGA) were tested in 2022.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "World Geography: Mapping",
+    "question": "<b>Consider the following places:</b><br><br>I. Greenland<br>II. Iceland<br>III. Svalbard<br>IV. Alaska<br><br><b>Which of the above are located within the Arctic Circle?</b>",
+    "options": [
+      "I and II only",
+      "I, III and IV only",
+      "II, III and IV only",
+      "I, II, III, and IV"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: I, II, III, and IV</b><br><br>Greenland, Svalbard (Norway), and Northern Alaska all cross the Arctic Circle. While the main landmass of Iceland is just south of it, its small northern offshore island of Grímsey lies exactly on/within the Arctic Circle.<br><br><b>Examiner Trap:</b> Iceland is often mistakenly thought to be entirely outside the Arctic Circle.<br><b>PYQ Linkage:</b> Nations bordering specific latitudes or water bodies (Arctic Council members).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "UN Security Council Resolutions",
+    "question": "<b>UN Security Council Resolution 1373, often mentioned in the context of counterterrorism, was adopted:</b>",
+    "options": [
+      "To establish the International Criminal Court",
+      "To authorize military intervention against terrorist organizations",
+      "To impose binding counter-terrorism obligations on all UN Member States",
+      "To create the UN Counter-Terrorism Committee Executive Directorate"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: To impose binding counter-terrorism obligations on all UN Member States</b><br><br>Adopted post-9/11 under Chapter VII of the UN Charter, Resolution 1373 mandates all member states to prevent terrorist financing and deny safe havens.<br><br><i>Examiner Trap:</i> Option D is a chronological trap. The resolution created the Counter-Terrorism Committee (CTC), but the Executive Directorate (CTED) was established later in 2004.<br><br><i>PYQ Linkage:</i> UPSC frequently tests the exact mandates of UN resolutions and bodies (e.g., IAEA safeguards, UNCLOS).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Refugee Conventions and UNHCR",
+    "question": "<b>Consider the following statements:</b><br><br>1. The definition of refugee under the 1951 Refugee Convention includes persons who leave their country due to fear of persecution, but excludes those affected by armed conflict.<br>2. India is a signatory to the 1951 Refugee Convention and its 1967 Protocol.<br>3. The United Nations High Commissioner for Refugees (UNHCR) is an office within the UN system that works to protect refugees and assist in their repatriation, resettlement or integration.<br>4. In India, refugee protection is governed by a dedicated national refugee law enacted specifically for this purpose.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "3 only",
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 3 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><ul><li><b>Statement 1 is incorrect:</b> The 1951 definition has expanded in practice to include individuals fleeing armed conflicts and generalized violence.</li><li><b>Statement 2 is incorrect:</b> India is NOT a signatory to the 1951 Convention or the 1967 Protocol.</li><li><b>Statement 3 is correct:</b> UNHCR facilitates voluntary repatriation, local integration, and third-country resettlement.</li><li><b>Statement 4 is incorrect:</b> India lacks a dedicated refugee law; refugees are governed under general provisions like the Foreigners Act, 1946.</li></ul><br><i>Examiner Trap:</i> Assuming India signed the 1951 convention due to its large refugee population is a common pitfall.<br><i>PYQ Linkage:</i> Tests on India's signatory status to international treaties (e.g., Refugee Convention, NPT, CTBT).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "World Trade Organization (WTO)",
+    "question": "<b>Consider the following statements regarding the World Trade Organization (WTO):</b><br><br>1. The World Trade Organization was established under the Marrakesh Agreement as a successor to the General Agreement on Tariffs and Trade (GATT).<br>2. Since its establishment, global trade in goods has expanded significantly, accompanied by a reduction in average tariff levels among member countries.<br>3. The World Trade Organization currently regulates more than 90% of global trade flows among its members.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><ul><li><b>Statement 1 is correct:</b> WTO was formed in 1995 under the Marrakesh Agreement, replacing GATT.</li><li><b>Statement 2 is correct:</b> Global trade has nearly quadrupled and average tariffs have declined since WTO's inception.</li><li><b>Statement 3 is correct:</b> WTO framework covers ~98% of global trade flows.</li></ul><br><i>Examiner Trap:</i> Aspirants might doubt the 90%+ figure due to rising protectionism, but formally, WTO rules still govern the vast majority of member trade.<br><i>PYQ Linkage:</i> Recurring theme: WTO agreements (TRIPS, TRIMs, Agriculture) and their structural origins.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Energy Flow and Food Chains",
+    "question": "<b>With reference to energy flow, food chains, and biomes in an ecosystem, consider the following statements:</b><br><br>1. In terrestrial ecosystems, a much larger fraction of energy flows through the grazing food chain than through the detritus food chain.<br>2. The pyramid of biomass is inverted in aquatic ecosystems because producers (phytoplankton) are microscopic and do not have much weight compared to the consumers.<br>3. Biomagnification refers to the tendency of a pollutant to increase in concentration as it moves from a lower to a higher trophic level in a food chain.<br>4. The soil in Tropical Rain Forests is typically deep and nutrient-rich, whereas the soil in Temperate Grasslands is heavily leached and limits seed germination.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3)</b><br><br><ul><li><b>Statement 1 is incorrect:</b> In terrestrial ecosystems, energy primarily flows through the <i>detritus</i> food chain, not grazing.</li><li><b>Statement 2 is correct:</b> Aquatic biomass pyramids are inverted (phytoplankton mass < zooplankton/fish mass).</li><li><b>Statement 3 is correct:</b> Biomagnification increases pollutant concentration up the trophic levels.</li><li><b>Statement 4 is incorrect:</b> Tropical rainforest soil is heavily leached and nutrient-poor; temperate grassland soil is deep and nutrient-rich. (Characteristics swapped).</li></ul><br><i>Examiner Trap:</i> Reversing the characteristics of biomes or food chains.<br><i>PYQ Linkage:</i> Direct overlap with 2010-2015 PYQs on ecological pyramids and biomagnification.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Nutrient Cycling and Succession",
+    "question": "<b>Consider the following statements encompassing nutrient cycling, succession, and adaptations in ecosystems:</b><br><br>1. While the Carbon and Nitrogen cycles are classified as gaseous cycles with the atmosphere as their primary reservoir, the Phosphorus and Sulphur cycles are sedimentary cycles with the earth's crust as their reservoir.<br>2. Secondary ecological succession is a faster process than primary succession because it starts on a well-developed soil that has already formed at the site.<br>3. A \"Minor Community\" is a large, self-sustaining community that depends only on the sun's energy and is independent of inputs from adjacent communities.<br>4. Deep-sea organisms use small organic molecules called \"piezolytes\" to prevent their cellular proteins and membranes from being crushed by immense oceanic pressure.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1, 2, and 4 only",
+      "1, 3, and 4 only",
+      "2 and 3 only",
+      "1, 2, 3, and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2, and 4 only</b><br><br><ul><li><b>Statement 1 is correct:</b> Carbon/Nitrogen are gaseous; Phosphorus/Sulphur are sedimentary.</li><li><b>Statement 2 is correct:</b> Secondary succession occurs on pre-existing soil, making it faster than primary succession (bare rock).</li><li><b>Statement 3 is incorrect:</b> This defines a <i>Major</i> Community. Minor communities depend on adjacent inputs.</li><li><b>Statement 4 is correct:</b> Piezolytes prevent cellular crushing under extreme hydrostatic pressure.</li></ul><br><i>Examiner Trap:</i> Interchanging definitions of Major vs. Minor communities.<br><i>PYQ Linkage:</i> Biogeochemical cycles (Phosphorus cycle tested directly in 2021).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "REDD+ Initiative",
+    "question": "<b>Consider the following statements about REDD+ initiative:</b><br><br>1. It is an initiative under UNFCCC to incentivize developing countries to protect their forests from deforestation and degradation.<br>2. Warsaw Framework finalized in COP-19 of UNFCCC, 2013 is associated with REDD+.<br>3. India hasn't yet prepared its REDD+ strategy and is thus not able to get the benefit under the initiative.<br><br><b>Which of the above statements is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><ul><li><b>Statement 1 is correct:</b> REDD+ incentivizes developing countries for results-based emission reductions via forest protection.</li><li><b>Statement 2 is correct:</b> The Warsaw Framework on REDD+ was finalized at COP-19 (2013).</li><li><b>Statement 3 is incorrect:</b> India prepared and released its National REDD+ Strategy in 2018.</li></ul><br><i>Examiner Trap:</i> Claiming India lacks policy frameworks to exploit a \"not yet prepared\" narrative.<br><i>PYQ Linkage:</i> REDD+ objectives and UNFCCC alignment are frequent Prelims themes (e.g., 2016).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Biological Classification",
+    "question": "<b>Consider the following statements:</b><br><br>1. The Spirulina comes under the category of Monera Kingdom.<br>2. A protist is any eukaryotic organism that is not an animal, plant, or fungus.<br>3. Plasmodium falciparum, which causes malaria, falls under the Protista Kingdom.<br>4. The fungi don’t possess the capacity to be multicellular.<br><br><b>Which of the above given statement(s) is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><ul><li><b>Statement 1 is correct:</b> Spirulina is a cyanobacterium (blue-green algae), falling under the prokaryotic Monera kingdom.</li><li><b>Statement 2 is correct:</b> Protista is a kingdom of eukaryotic organisms distinct from plants, animals, and fungi.</li><li><b>Statement 3 is correct:</b> Plasmodium (malaria parasite) is a unicellular eukaryotic protozoan (Protista).</li><li><b>Statement 4 is incorrect:</b> Fungi (e.g., mushrooms) possess the capacity to be multicellular.</li></ul><br><i>Examiner Trap:</i> Spirulina is often confused with Eukaryotic algae (Plantae) due to its photosynthetic nature.<br><i>PYQ Linkage:</i> Cyanobacteria and biological classifications test fundamental NCERT biology.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Biodiversity Management Committee (BMC)",
+    "question": "<b>Consider the following statements about Biodiversity Management Committee (BMC):</b><br><br>1. As per Biological Diversity Act, 2002, every local body of the state shall constitute a Biodiversity Management Committee (BMC).<br>2. The main function of BMC is to prepare People's Biodiversity Register.<br>3. It is also responsible for the management of biodiversity heritage sites, including heritage trees.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only One",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><ul><li><b>Statement 1 is correct:</b> Mandated under Section 41(1) of the Biological Diversity Act, 2002 for every local body.</li><li><b>Statement 2 is correct:</b> Core function is documenting local resources/traditional knowledge via the People's Biodiversity Register (PBR).</li><li><b>Statement 3 is correct:</b> BMCs manage Biodiversity Heritage Sites, heritage trees, and sacred groves.</li></ul><br><i>Examiner Trap:</i> Assuming BMCs only exist at the State/National level rather than local body level.<br><i>PYQ Linkage:</i> Environmental governance structures (e.g., NBA, SBB, BMC) mapped from the 2002 Act.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ramsar Sites",
+    "question": "<b>The \"Chhari-Dhand Wetland\", added to the Ramsar list in 2026, is a seasonal saline wetland situated at the edge of the Banni Grassland in which state?</b>",
+    "options": [
+      "Rajasthan",
+      "Punjab",
+      "Gujarat",
+      "Haryana"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Gujarat</b><br><br>Chhari Dhand Wetland Conservation Reserve is situated on the edge of the Banni Grassland and the marshy salt flats of the Rann of Kutch in Kutch district, Gujarat. It was designated a Ramsar site in February 2026.<br><br><i>Examiner Trap:</i> Proximity to arid regions might tempt candidates to guess Rajasthan.<br><i>PYQ Linkage:</i> Identification of new Ramsar sites and their geographic locations is a staple map-based question.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "UNCCD and Land Degradation",
+    "question": "<b>Under the United Nations Convention to Combat Desertification (UNCCD) COP16 in Riyadh, the \"Business for Land (B4L)\" initiative was launched primarily to:</b>",
+    "options": [
+      "Ban all commercial agriculture in areas prone to desertification by 2030",
+      "Advocate for policies that foster a business environment conducive to sustainable land management and support sustainable finance solutions for land restoration",
+      "Completely transfer land ownership from indigenous communities to corporate entities for large-scale afforestation",
+      "Establish a unified global carbon tax on corporations responsible for land degradation"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Advocate for policies that foster a business environment conducive to sustainable land management...</b><br><br>B4L is an initiative by UNCCD to engage the private sector in sustainable land and water management to restore 1.5 billion hectares by 2030. Its pillars include Business Operations, Finance, and Advocacy.<br><br><i>Examiner Trap:</i> Extreme statements like \"Ban all commercial agriculture\" or \"Completely transfer land ownership\" are typical distractors.<br><i>PYQ Linkage:</i> Conceptual understanding of international environmental initiatives (e.g., LDN, Bonn Challenge).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Agriculture Output in India",
+    "question": "<b>Consider the following statements with reference to India's agricultural output in 2024-25:</b><br><br>1. Wheat is the most produced food grain in the country.<br>2. The production of pulses has consistently declined over the past decade because of low profitability and productivity.<br>3. Maize production is much higher than the production of the rest of the nutri/coarse cereals.<br>4. Total food grains production in 2024-25 was lower than the total food grains production in 2023-24.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 3)</b><br><br><ul><li><b>Statement 1 is incorrect:</b> Rice (150 MT) is the most produced food grain, not wheat (117.94 MT).</li><li><b>Statement 2 is incorrect:</b> Pulse production increased by ~50% over the last decade (from 18 MT to ~26 MT).</li><li><b>Statement 3 is correct:</b> Maize (~45 MT) production significantly exceeds other millets/nutri-cereals (~18.59 MT).</li><li><b>Statement 4 is incorrect:</b> Total food grain production in 2024-25 (357.73 MT) was <i>higher</i> than 2023-24 (332 MT).</li></ul><br><i>Examiner Trap:</i> The word \"consistently declined\" in Statement 2 is a classic extreme trend trap.<br><i>PYQ Linkage:</i> Macro trends in Indian agriculture are heavily tested (e.g., Rice vs Wheat area/production).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Horticulture in India",
+    "question": "<b>Consider the following statements about horticulture production in India:</b><br><br>1. India's total horticulture production by weight is higher than total food grain production by weight.<br>2. India produces more fruits than vegetables.<br>3. India is the largest producer of fruits and vegetables in the world.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 1)</b><br><br><ul><li><b>Statement 1 is correct:</b> Horticulture production (~362 MT) exceeds total food grain production (~357 MT).</li><li><b>Statement 2 is incorrect:</b> Vegetable production (~219 MT) is nearly double that of fruits (~114 MT).</li><li><b>Statement 3 is incorrect:</b> China is the largest producer; India is second.</li></ul><br><i>Examiner Trap:</i> Conflating India's ranking. While India is #1 in specific items (like dry onions/bananas/mangoes), it is #2 overall.<br><i>PYQ Linkage:</i> Sectoral composition tests (e.g., comparing horticulture vs food grains volume).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Amendment (GST)",
+    "question": "<b>With reference to the 101st Constitutional Amendment Act which introduced the Goods and Services Tax (GST), consider the following statements:</b><br><br>1. Article 246A provides that both the Parliament and State legislatures have concurrent powers to make laws with respect to GST.<br>2. The State Legislatures retain exclusive power to legislate on GST in cases of inter-state trade or commerce.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><ul><li><b>Statement 1 is correct:</b> Article 246A grants simultaneous (concurrent) power to Parliament and State Legislatures to enact laws regarding GST.</li><li><b>Statement 2 is incorrect:</b> Parliament (not State Legislatures) retains exclusive power over GST concerning <i>inter-state</i> trade or commerce (IGST).</li></ul><br><i>Examiner Trap:</i> Blurring jurisdictional limits between CGST, SGST, and IGST.<br><i>PYQ Linkage:</i> Taxation powers and federal structure anomalies.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "External Commercial Borrowings (ECB)",
+    "question": "<b>Consider the following statements with respect to External Commercial Borrowing (ECB) system in India:</b><br><br>1. Foreign Currency Convertible Bonds (FCCB) and Foreign Currency Exchangeable Bonds (FCEB) are instruments under External Commercial Borrowing Mechanisms.<br>2. FCCB and FCEB are debt instruments issued in foreign currency.<br>3. FCCBs can be converted into equity shares of the issuing company.<br>4. FCEBs allow the bondholders to exchange the bond for shares of the issuing company.<br><br><b>Which of the above statements is/are correct?</b>",
+    "options": [
+      "2 only",
+      "1 and 3 only",
+      "1, 2, and 4 only",
+      "1, 2, and 3 only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, and 3 only</b><br><br><ul><li><b>Statements 1 & 2 are correct:</b> Both are foreign currency debt instruments falling under ECB regulations.</li><li><b>Statement 3 is correct:</b> FCCBs convert into equity of the <i>issuing</i> company.</li><li><b>Statement 4 is incorrect:</b> FCEBs exchange into equity shares of <i>another</i> company (an offered company), not the issuing company.</li></ul><br><i>Examiner Trap:</i> Subtle definition swap between Convertible (Issuing company) and Exchangeable (Offered company).<br><i>PYQ Linkage:</i> Capital account convertibility and debt instruments (FDI vs FPI vs ECB).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "NPS vs Unified Pension Scheme (UPS)",
+    "question": "<b>Consider the following statements comparing the National Pension System (NPS) and the newly launched Unified Pension Scheme (UPS):</b><br><br>1. Under the NPS, the final pension amount depends entirely on market returns (Defined Contribution).<br>2. The UPS assures retirees of a pension equal to 50% of their average basic pay drawn in the last 12 months, provided they have a minimum qualifying service of 25 years.<br>3. Under the UPS, the government's contribution has been increased to 18.5% of the employee's basic salary and Dearness Allowance.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2, and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, and 3</b><br><br><ul><li><b>Statement 1 is correct:</b> NPS is a defined contribution model subject to market volatility.</li><li><b>Statement 2 is correct:</b> UPS guarantees 50% of the last 12 months' average basic pay for ≥25 years of service.</li><li><b>Statement 3 is correct:</b> The employer (government) contribution is bumped from 14% to 18.5% under UPS.</li></ul><br><i>Examiner Trap:</i> Testing current affair nuances of the newly introduced UPS specifications against NPS.<br><i>PYQ Linkage:</i> Statutory bodies/Schemes (e.g., NPS eligibility criteria tested in 2017).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Priority Sector Lending (PSL)",
+    "question": "<b>Consider the following statements regarding Priority Sector Lending (PSL) norms in India:</b><br><br>1. Domestic commercial banks are required to allocate 40% of their Adjusted Net Bank Credit (ANBC) to priority sectors.<br>2. The Reserve Bank of India recently lowered the PSL targets for Small Finance Banks (SFBs) to 60% of ANBC to provide them with greater operational flexibility.<br>3. To address regional disparities, a higher weight of 125% is assigned to incremental priority sector credit in districts where the per capita PSL flow is comparatively lower.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2, and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, and 3</b><br><br><ul><li><b>Statement 1 is correct:</b> Target for domestic scheduled commercial banks is 40% of ANBC.</li><li><b>Statement 2 is correct:</b> PSL target for SFBs was recently reduced to 60% from the previous 75%.</li><li><b>Statement 3 is correct:</b> Incremental credit in lower-flow districts (< Rs 9000/capita) carries a 125% weight to spur regional parity.</li></ul><br><i>Examiner Trap:</i> Quoting outdated limits for SFBs or confusing regional weightage metrics.<br><i>PYQ Linkage:</i> PSL categories and targets are recurring RBI-related questions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Consumer Price Index (CPI-IW)",
+    "question": "<b>With reference to the Consumer Price Index for Industrial Workers (CPI-IW), consider the following statements:</b><br><br>1. It is released by the Central Statistics Office (CSO) to measure the impact of price rise on the cost of living for working-class families.<br>2. Its base year was recently revised from 2001 to 2016 to better capture the latest consumption patterns.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><ul><li><b>Statement 1 is incorrect:</b> CPI-IW is compiled and released by the <b>Labour Bureau</b> (Ministry of Labour & Employment), not the CSO.</li><li><b>Statement 2 is correct:</b> The base year was updated from 2001 to 2016 to reflect modern consumption patterns.</li></ul><br><i>Examiner Trap:</i> Nodal agency confusion (CSO vs Labour Bureau).<br><i>PYQ Linkage:</i> CPI vs WPI and their respective publishing authorities (2015, 2020).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Prehistoric Sites",
+    "question": "<b>The archaeological sites of “Utnur, Sanganakallu, Tekkalkota, Piklihal, Budihal, and Kupgal” are best known for which of the following?</b>",
+    "options": [
+      "Copper Hoards",
+      "Chariot Burials",
+      "Painted Grey Ware (PGW)",
+      "Ashmounds"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Ashmounds</b><br><br>These sites represent the South Indian Neolithic (Neo-Chalcolithic phase) between 3000–1200 BCE, famously characterized by \"Ashmounds\"—large accumulations of burnt cattle dung and organic material tied to pastoral rituals.<br><br><i>Examiner Trap:</i> Confusing South Indian neolithic markers with Chalcolithic Copper Hoards (North India) or PGW (Iron Age).<br><i>PYQ Linkage:</i> Identifying distinct cultural markers of prehistoric sites (e.g., Burzahom pit dwellings).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "World Heritage Sites",
+    "question": "<b>Recently, the “Maratha Military Landscapes of India” have been inscribed on the UNESCO World Heritage List. Which of the following forts form part of this landscape?</b><br><br>1. Raigad Fort<br>2. Sindhudurg Fort<br>3. Gingee Fort<br>4. Chittorgarh Fort<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br>The Maratha Military Landscapes includes 12 forts (Salher, Shivneri, Raigad, Sindhudurg, etc.) primarily in Maharashtra, plus <b>Gingee Fort in Tamil Nadu</b>.<br><br><i>Examiner Trap:</i> Chittorgarh is a Rajput hill fort in Rajasthan, not part of the Maratha network. Gingee is a geographic trap as it lies in Tamil Nadu but is indeed a Maratha fort.<br><i>PYQ Linkage:</i> UNESCO World Heritage site components.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Jain Philosophy",
+    "question": "<b>In Jain philosophy, the term ‘Pudgala’ refers to:</b>",
+    "options": [
+      "The pure and liberated state of the soul",
+      "The doctrine of non-absolutism",
+      "Subtle material substance, including karmic matter",
+      "The highest state of omniscience"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Subtle material substance, including karmic matter</b><br><br>In Jain metaphysics, 'Pudgala' denotes matter, one of the six fundamental substances (dravya). It includes both gross physical matter and subtle karmic matter that binds the soul (jiva).<br><br><i>Examiner Trap:</i> Confusing pudgala with Anekantavada (non-absolutism) or Kaivalya (omniscience).<br><i>PYQ Linkage:</i> Core Jain/Buddhist terminology (e.g., Sthanakvasi, Parivrajaka).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Ancient Texts",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Text : Associated Theme</b><br>1. Surya Siddhanta : Astronomical Calculations<br>2. Nitisara : Grammar of Sanskrit Language<br>3. Brihad Samhita : Political Administration<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Pair 1)</b><br><br><ul><li><b>Pair 1 is correct:</b> Surya Siddhanta is a foundational text on Indian astronomy.</li><li><b>Pair 2 is incorrect:</b> Kamandaka's Nitisara is a treatise on statecraft/politics, not grammar.</li><li><b>Pair 3 is incorrect:</b> Varahamihira's Brihad Samhita is an encyclopedia covering astrology, astronomy, architecture, etc., not focused on political administration.</li></ul><br><i>Examiner Trap:</i> Swapping the subject matter of well-known Sanskrit texts.<br><i>PYQ Linkage:</i> Match the following books and authors/themes (2020-2022).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Ancient Scholars",
+    "question": "<b>Which one of the following ancient Indian scholars is associated with a text that lays down geometrical rules for the construction of Vedic fire altars and contains an early statement of the theorem later known as the Pythagorean theorem?</b>",
+    "options": [
+      "Chanakya",
+      "Panini",
+      "Baudhayana",
+      "Gautama"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Baudhayana</b><br><br>Baudhayana authored the Baudhayana Shulba Sutra (c. 800 BCE), a text detailing the geometrical principles for constructing sacrificial fire altars. It includes an early statement of the Pythagorean theorem and an approximation of the square root of 2.<br><br><i>Examiner Trap:</i> Distractors like Panini (grammar) and Chanakya (statecraft).<br><i>PYQ Linkage:</i> Contributions of ancient Indian scholars (e.g., Aryabhata, Brahmagupta).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Colonial Administration",
+    "question": "<b>Consider the following statements:</b><br><br>1. From 1772, a new system of justice was established where each district was to have both civil and criminal courts.<br>2. Maulvis and Hindu pandits interpreted Indian laws for the European district collectors.<br>3. While the civil courts were presided over by Qazi, criminal courts were brought under the supervision of collectors.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><ul><li><b>Statement 1 is correct:</b> Warren Hastings (1772) instituted Diwani Adalat (civil) and Faujdari Adalat (criminal) in each district.</li><li><b>Statement 2 is correct:</b> Local laws were interpreted by Pandits and Maulvis for European collectors.</li><li><b>Statement 3 is incorrect:</b> Civil courts were presided over by <i>European collectors</i>, whereas criminal courts were administered by Qazis and Muftis under the general supervision of the collectors.</li></ul><br><i>Examiner Trap:</i> Reversing the roles of the Collector vs. Qazi.<br><i>PYQ Linkage:</i> Judicial and administrative reforms under Hastings and Cornwallis.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Freedom Struggle Personalities",
+    "question": "<b>What is Sir Chettur Sankaran Nair known for in the context of India’s freedom struggle?</b>",
+    "options": [
+      "Leading the Non-Cooperation Movement in Madras",
+      "Supporting the provisions of the Rowlatt Act",
+      "Resigning from the Viceroy’s Executive Council in protest against colonial policies",
+      "Advocating complete independence from the beginning of his political career"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Resigning from the Viceroy’s Executive Council in protest against colonial policies</b><br><br>Sir Chettur Sankaran Nair resigned from the Viceroy's Executive Council in protest against the Jallianwala Bagh massacre (1919) and the imposition of martial law in Punjab.<br><br><i>Examiner Trap:</i> Confusing his actions with leaders of mass movements like NCM.<br><i>PYQ Linkage:</i> Actions of leaders post-Jallianwala Bagh (e.g., Tagore returning knighthood).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights",
+    "question": "<b>Which one of the following provisions of the Constitution of India safeguards a woman’s autonomy in making decisions related to her reproductive choices?</b>",
+    "options": [
+      "Article 15",
+      "Article 19",
+      "Article 21",
+      "Article 23"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Article 21</b><br><br>In <i>Suchita Srivastava v. Chandigarh Administration (2009)</i> and <i>K.S. Puttaswamy (2017)</i>, the Supreme Court held that reproductive choices and bodily autonomy are intrinsic to personal liberty and privacy guaranteed under Article 21.<br><br><i>Examiner Trap:</i> Thinking it relates to Article 15 (non-discrimination on grounds of sex).<br><i>PYQ Linkage:</i> UPSC regularly tests implicit rights within Article 21 (e.g., Right to Marry - 2019, Right to Privacy - 2018).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies",
+    "question": "<b>Consider the following statements with reference to the National Commission for Backward Castes (NCBC):</b><br><br>1. The Commission was accorded constitutional status at the time of its formation.<br>2. NCBC can review OBC lists for central government services but cannot recommend changes to state OBC lists in any case.<br>3. While conducting inquiries into matters within its jurisdiction, the Commission enjoys powers equivalent to those of a civil court.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><ul><li><b>Statement 1 is incorrect:</b> NCBC was formed as a <i>statutory</i> body in 1993 and elevated to constitutional status via the 102nd Amendment in 2018.</li><li><b>Statement 2 is incorrect:</b> Post the 105th Amendment (2021), states maintain their own OBC lists. However, NCBC can still advise or examine state lists if requested.</li><li><b>Statement 3 is correct:</b> Under Article 338B(4), it has the powers of a civil court to summon witnesses and mandate documents.</li></ul><br><i>Examiner Trap:</i> Absolute phrasing \"cannot recommend... in any case\".<br><i>PYQ Linkage:</i> Powers of Constitutional Commissions (NCST, NCSC, NCBC).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Removal Procedures",
+    "question": "<b>Consider the following statements:</b><br><br>1. The Chief Election Commissioner as well as other Election Commissioners can be removed on grounds similar to those applicable to a Judge of the Supreme Court.<br>2. The members of a Joint State Public Service Commission are appointed and can be removed by the Governor of the concerned State.<br>3. The Comptroller and Auditor General (CAG) of India is appointed by the President of India and can be removed on the grounds of proved misbehaviour or incapacity.<br><br><b>How many of the above statements is/are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 3)</b><br><br><ul><li><b>Statement 1 is incorrect:</b> Only the CEC enjoys removal protection similar to an SC Judge. Other ECs are removed on the recommendation of the CEC.</li><li><b>Statement 2 is incorrect:</b> JSPSC members are appointed and removed by the <i>President</i>, not the Governor.</li><li><b>Statement 3 is correct:</b> The CAG is appointed by the President and removed in a manner similar to an SC Judge (proved misbehaviour/incapacity).</li></ul><br><i>Examiner Trap:</i> Equating CEC security of tenure with other ECs.<br><i>PYQ Linkage:</i> Removal processes of Constitutional authorities.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Schedules of the Constitution",
+    "question": "<b>Which of the following statements best describes the 'Sixth Schedule' of the Indian Constitution?</b>",
+    "options": [
+      "It applies to scheduled areas in 10 states and provides for Tribes Advisory Councils.",
+      "It applies to tribal areas in Assam, Meghalaya, Tripura and Mizoram, providing for Autonomous District Councils (ADCs).",
+      "It applies to all states having more than 25% tribal population and establishes Gram Sabhas.",
+      "It applies only to North-Eastern states, and the provisions of the PESA Act, 1996 are only applicable to these areas."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: It applies to tribal areas in Assam, Meghalaya, Tripura and Mizoram...</b><br><br>The Sixth Schedule (Article 244(2)) provides for Autonomous District Councils in Assam, Meghalaya, Tripura, and Mizoram.<br><br><i>Examiner Trap:</i> Option A describes the Fifth Schedule. Option D incorrectly applies PESA to the Sixth Schedule (PESA applies to Fifth Schedule areas).<br><i>PYQ Linkage:</i> Fifth and Sixth Schedule differences have been asked over 5 times.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Philosophy",
+    "question": "<b>Which of the following does NOT align with the objectives of socialism as envisaged in the constitutional philosophy of India?</b>",
+    "options": [
+      "Establishing an egalitarian social order governed by the rule of law.",
+      "Reducing disparities in income and ensuring a dignified standard of living for workers.",
+      "Creating a political and economic framework that guarantees social, economic, and political justice.",
+      "Ensuring complete public ownership of all means of production to achieve equality in society."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Ensuring complete public ownership of all means of production...</b><br><br>Indian socialism is a \"democratic socialism,\" which promotes a mixed economy where public and private sectors co-exist. Complete public ownership characterizes Marxist/State socialism.<br><br><i>Examiner Trap:</i> Equating theoretical Marxist socialism with the Indian interpretation as defined by the Supreme Court.<br><i>PYQ Linkage:</i> Ideological underpinnings of the Preamble.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Electoral Processes",
+    "question": "<b>Consider the following statements with reference to the ‘Special Intensive Revision (SIR)’ of electoral rolls in India:</b><br><br>1. It is a process initiated by the Election Commission of India (ECI) to ensure the fidelity of the Electoral Roll before a General Election or Legislative Assembly election.<br>2. It involves house-to-house verification conducted by Booth Level Officers to ensure that all eligible citizens are included in the electoral rolls.<br>3. The exercise has been conducted continuously every year since the first general election in 1951.<br>4. The final publication of the Electoral Roll after a Special Intensive Revision must be completed at least six months prior to the expiry of the term of the House.<br><br><b>How many of the above statements is/are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 2)</b><br><br><ul><li><b>Statement 1 is correct:</b> SIR ensures fidelity and accuracy of the electoral roll.</li><li><b>Statement 2 is correct:</b> BLOs conduct house-to-house verification.</li><li><b>Statement 3 is incorrect:</b> It is not an annual exercise. The ECI uses \"Summary Revisions\" annually; SIR is rare (done ~8 times since 1951).</li><li><b>Statement 4 is incorrect:</b> There is no rigid 6-month statutory requirement for its completion before a term expires.</li></ul><br><i>Examiner Trap:</i> Imposing a rigid timeframe (6 months) which doesn't exist in statute.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judicial Concepts",
+    "question": "<b>The ‘Doctrine of Party Autonomy’ is primarily associated with which of the following legal processes?</b>",
+    "options": [
+      "Criminal investigation",
+      "Civil litigation",
+      "Arbitration",
+      "Election disputes"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Arbitration</b><br><br>The Doctrine of Party Autonomy is the bedrock of alternative dispute resolution (ADR), allowing disputing parties to choose applicable law, venue, procedures, and arbitrators.<br><br><i>Examiner Trap:</i> Civil litigation is rigid and statutory, not autonomous.<br><i>PYQ Linkage:</i> Tests of legal terminology appearing in the news.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Quantum Technology",
+    "question": "<b>Which fundamental principle guarantees the security of Quantum Key Distribution (QKD) against eavesdropping?</b>",
+    "options": [
+      "Pauli Exclusion Principle",
+      "Heisenberg’s Uncertainty Principle",
+      "Principle of Superposition",
+      "Quantum Entanglement"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Heisenberg’s Uncertainty Principle</b><br><br>QKD security relies on Heisenberg's Uncertainty Principle, which states that measuring a quantum system disturbs it. An eavesdropper attempting to intercept the key alters its state, alerting the communicating parties.<br><br><i>Examiner Trap:</i> Entanglement is used in quantum systems, but the *detection* of eavesdropping specifically relies on the Uncertainty Principle.<br><i>PYQ Linkage:</i> Emerging tech principles (e.g., Qubits in 2022).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Biological Processes",
+    "question": "<b>Yeast produces alcohol and muscle cells accumulate lactic acid through which of the following processes?</b>",
+    "options": [
+      "Aerobic respiration",
+      "Anaerobic respiration",
+      "Photosynthesis",
+      "Oxidative phosphorylation"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Anaerobic respiration</b><br><br>Both involve fermentation (anaerobic respiration). Yeast conducts alcoholic fermentation, while oxygen-starved muscles conduct lactic acid fermentation.<br><br><i>Examiner Trap:</i> Mixing up fermentation variants. <br><i>PYQ Linkage:</i> Basic NCERT biology application.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Medical Imaging",
+    "question": "<b>Consider the following statements about comparison of Magnetic Resonance Imaging (MRI) Scans and X-Rays Scans:</b><br><br>1. MRI Scans are more suited for scanning soft tissues whereas X-Rays are useful for bone fracture detection.<br>2. MRI Scans don't pose radiation threats as they don't use ionizing radiations like X-Rays.<br>3. MRI Scan machines are more sophisticated and thus expensive when compared to X-Ray Scans.<br>4. MRI Scans depend on the ferromagnetism of iron ions in the human body whereas X-rays don't depend on that.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only three (Statements 1, 2, and 3)</b><br><br><ul><li><b>Statement 1 is correct:</b> MRIs detail soft tissues; X-Rays are for dense structures (bones).</li><li><b>Statement 2 is correct:</b> MRIs use magnetic fields/radio waves, not ionizing radiation.</li><li><b>Statement 3 is correct:</b> MRI technology is vastly more expensive.</li><li><b>Statement 4 is incorrect:</b> MRIs rely on the magnetic properties of <b>hydrogen protons</b> (abundant in fat/water), not iron ions.</li></ul><br><i>Examiner Trap:</i> Believing the magnet in MRI targets iron in blood.<br><i>PYQ Linkage:</i> Technologies in daily life (e.g., RFID, NFC).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics Principles",
+    "question": "<b>Consider the following statements regarding Albert Einstein's Theory of Relativity:</b><br><br>1. According to the Special Theory of Relativity, the laws of physics are the same for all observers in uniform motion, and the speed of light in a vacuum is constant for all such observers.<br>2. The General Theory of Relativity describes gravity not as a force, but as a curvature of spacetime caused by the presence of mass and energy.<br>3. The accurate operation of Global Positioning System (GPS) satellites requires incorporating corrections based on both Special and General Theories of Relativity.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><ul><li><b>Statement 1 is correct:</b> Special relativity establishes the constancy of the speed of light.</li><li><b>Statement 2 is correct:</b> General relativity conceptualizes gravity as curved spacetime.</li><li><b>Statement 3 is correct:</b> GPS needs corrections for both satellite velocity (Special) and lower gravity orbit (General) to prevent massive location errors.</li></ul><br><i>Examiner Trap:</i> Assuming theoretical physics doesn't apply to practical tech like GPS.<br><i>PYQ Linkage:</i> Gravitational waves and General Relativity (2017).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics and Therapeutics",
+    "question": "<b>Consider the following statements:</b><br><br>1. RNA molecules are less stable than DNA.<br>2. Some viruses use RNA as their genetic material.<br>3. mRNA vaccines are considered safer than traditional vaccines.<br>4. RNA interference technique can be used to treat genetic disorders by silencing faulty genes.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 4 only",
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br><ul><li><b>Statement 1 is correct:</b> RNA's ribose sugar has a reactive 2'-OH group, making it prone to degradation compared to DNA.</li><li><b>Statement 2 is correct:</b> Viruses like HIV and SARS-CoV-2 use RNA.</li><li><b>Statement 3 is correct:</b> mRNA vaccines carry no risk of infection as they use non-replicating transcripts.</li><li><b>Statement 4 is correct:</b> RNAi silences specific mRNA, treating genetic disorders.</li></ul><br><i>Examiner Trap:</i> Treating all genetic material as DNA exclusively.<br><i>PYQ Linkage:</i> RNA interference was asked in 2019.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Solar System",
+    "question": "<b>What is the difference between asteroids and comets?</b><br><br>1. Asteroids are small rocky planetoids, while comets are formed of frozen gases held together by rocky and metallic material.<br>2. Asteroids are found mostly between the orbits of Jupiter and Mars, while comets are found mostly between Mercury and Venus.<br>3. Comets show a perceptible glowing tail, while asteroids do not.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><ul><li><b>Statement 1 is correct:</b> Asteroids are rocky; comets are icy \"dirty snowballs\".</li><li><b>Statement 2 is incorrect:</b> Comets originate in the outer solar system (Kuiper Belt/Oort Cloud), not between Mercury and Venus.</li><li><b>Statement 3 is correct:</b> Solar heat sublimates comet ice, forming a coma/tail. Asteroids lack volatile ice to form tails.</li></ul><br><i>Examiner Trap:</i> Placing comets in the inner solar system.<br><i>PYQ Linkage:</i> Direct repeat/variant of previous UPSC question on Asteroids vs Comets.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Microbiology",
+    "question": "<b>Consider the following statements:</b><br><br>1. Some viruses can infect bacteria.<br>2. Some bacteria can infect viruses.<br>3. All viruses can infect both plants and animals.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><ul><li><b>Statement 1 is correct:</b> Viruses that infect bacteria are called bacteriophages.</li><li><b>Statement 2 is incorrect:</b> Bacteria cannot infect viruses. Viruses are non-cellular.</li><li><b>Statement 3 is incorrect:</b> Viruses are usually highly host-specific (plant viruses rarely infect animals).</li></ul><br><i>Examiner Trap:</i> Extreme word \"All\" in Statement 3. <br><i>PYQ Linkage:</i> Tests basic understanding of pathogen structures.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Earth's Rotation",
+    "question": "<b>If the Earth were to stop rotating suddenly, which of the following would NOT be the most likely consequence?</b>",
+    "options": [
+      "One hemisphere would experience extreme heating for six months.",
+      "The Coriolis Effect would cease to exist.",
+      "The thermal equilibrium of the Earth would remain unaffected.",
+      "Life on Earth would become extremely challenging due to extreme temperature variations."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: The thermal equilibrium of the Earth would remain unaffected.</b><br><br>If rotation stopped, thermal equilibrium would be entirely disrupted. One side would bake in continuous sunlight while the other froze, destroying the current heat-distribution balance.<br><br><i>Examiner Trap:</i> Double negatives in the question prompt (\"NOT be likely\").",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatology",
+    "question": "<b>Consider the following statements with reference to the Tropical Cyclone:</b><br><br>1. It is a rapidly rotating storm system with a low-pressure center.<br>2. It can originate over both land and sea.<br>3. The eye of a tropical cyclone is the region of the lowest surface pressure and warmest temperatures.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><ul><li><b>Statement 1 is correct:</b> Tropical cyclones are low-pressure rotating systems.</li><li><b>Statement 2 is incorrect:</b> They originate <b>only</b> over warm ocean waters (>26.5°C). Landfalls cut off their moisture supply, causing dissipation.</li><li><b>Statement 3 is correct:</b> The eye is the lowest pressure point and is characterized by sinking, warming air.</li></ul><br><i>Examiner Trap:</i> Conflating origin points of tornadoes (land) with tropical cyclones (sea).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Agriculture and Soils",
+    "question": "<b>‘Under a government soil reclamation programme in north-western India, several agricultural fields were found to have developed alkaline soil conditions, which were reducing crop productivity. Experts concluded that the problem had arisen due to a commonly used irrigation practice that led to excessive accumulation of salts in the upper soil layer. Farmers were advised to apply gypsum to restore soil health.’<br><br>Which one of the following irrigation methods is most likely responsible for this problem?</b>",
+    "options": [
+      "Sprinkler irrigation",
+      "Drip irrigation",
+      "Furrow irrigation",
+      "Flood irrigation"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Flood irrigation</b><br><br>Flood irrigation (common in paddy) causes water stagnation, raising the water table. Capillary action brings subsurface salts upward. Upon evaporation, salts form an alkaline crust. Gypsum reduces this alkalinity.<br><br><i>Examiner Trap:</i> Drip and sprinkler reduce salinization; flood irrigation drives it.<br><i>PYQ Linkage:</i> Soil salinity problems associated with the Green Revolution.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Meteorological Phenomena",
+    "question": "<b>The term 'Bow Echoes', recently seen in the news, is most closely related to which of the following?</b>",
+    "options": [
+      "A deep-sea sonar technique for mapping the ocean floor.",
+      "A characteristic radar signature of severe thunderstorms and strong winds.",
+      "A method of detecting gravitational waves in the upper atmosphere.",
+      "A migration pattern observed in cetaceans due to ocean darkening."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: A characteristic radar signature of severe thunderstorms and strong winds.</b><br><br>Bow Echoes refer to a radar pattern where a line of thunderstorms bends outward (like an archer's bow) due to powerful rear-inflow jets. They indicate severe straight-line winds and squalls.<br><br><i>Examiner Trap:</i> The word \"echo\" might lead aspirants to guess sonar/marine applications.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Indian Physical Geography",
+    "question": "<b>With reference to the physical divisions of India, the ‘Rajmahal–Garo Gap,’ which separates the Meghalaya Plateau from the main Peninsular Plateau, is believed to have been formed by which of the following?</b>",
+    "options": [
+      "Aeolian erosion",
+      "Glacial carving",
+      "Down-faulting of the landmass",
+      "Volcanic activity"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Down-faulting of the landmass</b><br><br>The Meghalaya plateau was originally contiguous with the Peninsular plateau. Tectonic movement caused the intervening land (Rajmahal-Garo gap) to sink (down-faulting). It was later filled by alluvial deposits from the Ganga and Brahmaputra.<br><br><i>Examiner Trap:</i> Assuming river erosion alone created the gap.<br><i>PYQ Linkage:</i> Geomorphological origins of the Meghalaya plateau.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Mineral Resources",
+    "question": "<b>Consider the following mining regions:</b><br><br>1. Kudremukh<br>2. Bellary<br>3. Singrauli<br>4. Bailadila<br>5. Malanjkhand<br>6. Mayurbhanj<br><br><b>Which of the above regions are related to commercial Iron ore mining?</b>",
+    "options": [
+      "1, 2, 3 and 5 only",
+      "1, 2, 4 and 6 only",
+      "2, 3, 4 and 5 only",
+      "1, 4, 5 and 6 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 2, 4 and 6 only</b><br><br><ul><li>Kudremukh (Karnataka), Bellary (Karnataka), Bailadila (Chhattisgarh), and Mayurbhanj (Odisha) are major iron ore centers.</li><li>Singrauli (MP/UP) is known for <b>Coal</b>.</li><li>Malanjkhand (MP) is known for <b>Copper</b>.</li></ul><br><i>Examiner Trap:</i> Mixing major coal and copper hubs with iron ore to test elimination skills.<br><i>PYQ Linkage:</i> Resource geography locations (frequently tested).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Mountain Passes",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Pass : Connects</b><br>1. Jelep La : Sikkim with Tibet<br>2. Zoji La : Arunachal Pradesh with Tibet<br>3. Bum La : Jammu & Kashmir and Ladakh<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Pair 1)</b><br><br><ul><li><b>Pair 1 is correct:</b> Jelep La connects Sikkim with the Chumbi Valley in Tibet.</li><li><b>Pair 2 is incorrect:</b> Zoji La is in Ladakh, connecting Srinagar to Leh.</li><li><b>Pair 3 is incorrect:</b> Bum La is in Arunachal Pradesh, connecting Tawang to Tibet.</li></ul><br><i>Examiner Trap:</i> Cross-matching Zoji La and Bum La locations.<br><i>PYQ Linkage:</i> Pass locations are a perennial Prelims topic.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "India's Memberships",
+    "question": "<b>Currently, India is a member of how many of the following organisations?</b><br><br>1. Shanghai Cooperation Organisation (SCO)<br>2. United Nations Security Council (UNSC) as a non-permanent member<br>3. Nuclear Suppliers Group (NSG)<br>4. G20<br>5. South Asian Association for Regional Cooperation (SAARC)<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All five"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only three (SCO, G20, SAARC)</b><br><br><ul><li>India is a member of SCO, G20, and SAARC.</li><li>India is NOT currently a non-permanent member of the UNSC (last term was 2021-2022).</li><li>India is NOT a member of the NSG (membership blocked by China).</li></ul><br><i>Examiner Trap:</i> Assuming current UNSC tenure or NSG membership due to diplomatic pushes.<br><i>PYQ Linkage:</i> Organization memberships (e.g., MTCR vs NSG).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "International Borders",
+    "question": "<b>Consider the following states:</b><br><br>1. Assam<br>2. West Bengal<br>3. Sikkim<br>4. Mizoram<br>5. Manipur<br>6. Tripura<br><br><b>How many of the above Indian states share a land border with Bangladesh?</b>",
+    "options": [
+      "Only three",
+      "Only four",
+      "Only five",
+      "All six"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only four (Assam, West Bengal, Mizoram, Tripura)</b><br><br>India shares a 4,096 km border with Bangladesh across 5 states: West Bengal, Assam, Meghalaya, Tripura, and Mizoram. Sikkim and Manipur do not border Bangladesh.<br><br><i>Examiner Trap:</i> Inserting Manipur and Sikkim to test exact map recall.<br><i>PYQ Linkage:</i> Bordering states (e.g., states bordering Myanmar/Bhutan).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Middle East Geopolitics",
+    "question": "<b>Consider the following countries:</b><br><br>1. Israel<br>2. Egypt<br>3. Syria<br>4. Lebanon<br><br><b>How many of the above countries share a boundary with the Golan Heights?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only three (Israel, Syria, Lebanon)</b><br><br>The Golan Heights is a rocky plateau situated in southwestern Syria, bordered by Israel, Lebanon, and Jordan. Egypt does not border the Golan Heights (it borders southern Israel/Gaza).<br><br><i>Examiner Trap:</i> Placing Egypt in northern conflict zones.<br><i>PYQ Linkage:</i> Direct PYQ variant (Golan Heights location).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Map Locations in News",
+    "question": "<b>Consider the following regions:</b><br><br>1. Rakhine<br>2. Yangon<br>3. Kachin<br>4. Chechnya<br><br><b>Which of the above regions are located in Myanmar?</b>",
+    "options": [
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 3 only",
+      "3 and 4 only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br>Rakhine (coastal state, Rohingya crisis), Yangon (former capital), and Kachin (northern state, KIO insurgency) are in Myanmar. Chechnya is a region in the Russian Federation.<br><br><i>Examiner Trap:</i> Mixing global conflict zones to test regional awareness.<br><i>PYQ Linkage:</i> Regions in news (e.g., Tigray, Donbas).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Global Conflict Zones",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Region : Reason in News</b><br>1. Sahel : Military coups and jihadist insurgency<br>2. Tigray : Post-conflict humanitarian concerns<br>3. Cabo Delgado : Lithium mining expansion<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Pairs 1 and 2)</b><br><br><ul><li><b>Pair 1 is correct:</b> Sahel (Mali, Niger, Burkina Faso) is plagued by coups and jihadists.</li><li><b>Pair 2 is correct:</b> Tigray (Ethiopia) is recovering from a devastating war resulting in a humanitarian crisis.</li><li><b>Pair 3 is incorrect:</b> Cabo Delgado (Mozambique) is in the news due to Islamist extremist insurgency (ISIS-linked), not lithium mining.</li></ul><br><i>Examiner Trap:</i> Attributing a security/insurgency crisis to economic expansion (lithium).<br><i>PYQ Linkage:</i> Regions often in news and reasons (e.g., 2022/2023 papers).",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
