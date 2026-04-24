@@ -1,0 +1,332 @@
+[
+  {
+    "section": "Science & Technology",
+    "topic": "Methandienone Long-Term Metabolite",
+    "question": "<b>Consider the following statements regarding 'Methandienone Long-Term Metabolite (LTM)' recently developed in India:</b><br><br>1. It is a naturally occurring plant-based steroid used to enhance athletic performance.<br>2. It serves as a highly purified Reference Material (RM) to detect the long-term presence of a banned anabolic steroid.<br>3. The National Dope Testing Laboratory (NDTL), which collaborated in its development, is India's only human sports dope testing facility accredited by WADA.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Methandienone LTM is NOT a performance-enhancing plant steroid. It is a synthetic, high-purity Reference Material (RM) developed to catch doping violations. <i>(Examiner Trap: Twisting the nature of the substance to confuse aspirants between the 'dope' itself and the 'testing material'.)</i><br><b>Statement 2 is correct:</b> It allows detection of Methandienone (a WADA-banned anabolic steroid) months or even years after use.<br><b>Statement 3 is correct:</b> NDTL, New Delhi, is indeed India's only facility for human sports dope testing accredited by both NABL and WADA (since 2008).<br><br><i>PYQ Linkage: UPSC frequently tests specific technologies and their regulatory bodies (e.g., FSSAI, WADA regulations).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Methandienone Long-Term Metabolite",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The development of the Methandienone Long-Term Metabolite (LTM) significantly strengthens anti-doping testing capabilities in sports.<br><b>Statement-II:</b> It prevents the biological integration of anabolic steroids into the athlete's muscle tissues during competitive events.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> The indigenous development of Methandienone LTM acts as a crucial Reference Material that strengthens anti-doping mechanisms.<br><b>Statement-II is incorrect:</b> It does NOT prevent steroids from integrating into muscles. It is an analytical testing standard used in laboratories to <i>detect</i> the presence of the steroid's metabolite long after the athlete has consumed it. <i>(Examiner Trap: Confusing a diagnostic laboratory tool with a therapeutic/preventive drug).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "mRNA Vaccines",
+    "question": "<b>With reference to mRNA vaccine technology, consider the following statements:</b><br><br>1. They function by integrating messenger RNA into the host cell's DNA to provide lifelong immunity.<br>2. They elicit both an antibody and a T-cell immune response against the targeted pathogen.<br>3. Enteromix is an oncolytic vaccine formulated using mRNA technology to selectively destroy malignant cancer cells.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> mRNA does NOT integrate into the host's DNA (genome). It functions in the cytoplasm to direct protein synthesis and breaks down naturally afterward. <i>(Examiner Trap: A classic UPSC biological concept trap testing the central dogma of molecular biology).</i><br><b>Statement 2 is correct:</b> A major advantage of mRNA vaccines is that they elicit strong immune responses, including both antibody and T-cell immunity.<br><b>Statement 3 is correct:</b> Enteromix is an oncolytic vaccine developed using personalized mRNA technology for targeted cancer therapy, destroying malignant cells while activating anti-tumor immunity.<br><br><i>PYQ Linkage: UPSC Prelims 2022 directly asked about the platform of Covishield and Covaxin vs. mRNA technology.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "mRNA Vaccines",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> mRNA vaccines generally eliminate the risk of causing the disease they are intended to prevent.<br><b>Statement-II:</b> mRNA vaccines utilize an attenuated (weakened) live virus to trigger an immune response without causing full-blown illness.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> mRNA vaccines enhance safety by eliminating the risk of causing the disease.<br><b>Statement-II is incorrect:</b> mRNA vaccines do NOT use a live or attenuated virus. Instead, they use a tiny piece of genetic material (messenger RNA) to instruct cells to produce a harmless piece of a viral protein (antigen), which triggers the immune response. Attenuated live viruses are used in traditional vaccines like the OPV or MMR. <i>(Examiner Trap: Mixing up the mechanisms of different vaccine platforms).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "P-47 Protein",
+    "question": "<b>In the context of recent molecular biology discoveries, consider the following statements regarding the 'P-47 Protein':</b><br><br>1. It has been identified as a \"mechanical chaperone\" that stabilizes proteins under mechanical stress.<br>2. It exacerbates protein misfolding, leading directly to the onset of severe neurodegenerative disorders.<br>3. It facilitates the extraction of proteins from the endoplasmic reticulum (ER) into the cytoplasm.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Statement 1 is correct:</b> A recent study by SNBNCBS demonstrated that P-47 acts as a mechanical chaperone, directly stabilizing proteins under mechanical stress.<br><b>Statement 2 is incorrect:</b> P-47 does NOT exacerbate misfolding; rather, it <i>reduces</i> protein misfolding and improves protein translocation. Because of this, it is viewed as a <i>potential therapeutic target</i> for treating neurodegenerative disorders, not the cause of them. <i>(Examiner Trap: Reversing the biological function from 'cure/prevent' to 'cause').</i><br><b>Statement 3 is correct:</b> It enhances the extraction of proteins from the endoplasmic reticulum (ER) into the cytoplasm.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "P-47 Protein",
+    "question": "<b>Which one of the following best describes the primary significance of the 'P-47 Protein', recently seen in the news?</b>",
+    "options": [
+      "It is a newly synthesized viral vector used in personalized cancer mRNA vaccines.",
+      "It is an autonomous, force-dependent chaperone protein that helps prevent cellular protein misfolding.",
+      "It is a fungal enzyme responsible for developing multidrug resistance in Candida species.",
+      "It is a biomarker used exclusively to detect the long-term presence of anabolic steroids in athletes."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: It is an autonomous, force-dependent chaperone protein that helps prevent cellular protein misfolding.</b><br><br>The P-47 protein is a cofactor protein associated with p97, which regulates protein movement and degradation. Recent discoveries established it as a \"mechanical chaperone\" capable of autonomously stabilizing proteins under stress, reducing misfolding. This makes it a target for treating neurodegenerative disorders and cardiomyopathies.<br><i>(Examiner Trap: The other options use highly specific recent current affairs (Enteromix, Candida tropicalis, Methandienone) to distract candidates who only superficially scan headlines.)</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Duchenne Muscular Dystrophy",
+    "question": "<b>Consider the following statements regarding 'Duchenne Muscular Dystrophy (DMD)':</b><br><br>1. It is an autosomal dominant genetic disorder that affects both males and females equally.<br>2. It is characterized by the absence of dystrophin, a protein vital for protecting muscle fibres.<br>3. Exon-skipping drugs and gene therapy are among the emerging multidisciplinary treatments for this disease.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> DMD is an <b>X-linked recessive</b> disorder, not autosomal dominant. Because it is X-linked recessive, it predominantly affects boys (1 in 3,500–5,000 births), while girls are usually asymptomatic carriers. <i>(Examiner Trap: UPSC heavily tests the modes of inheritance for genetic diseases - e.g., Mitochondrial diseases in 2021).</i><br><b>Statement 2 is correct:</b> It is caused by a mutation leading to the absence of the protein dystrophin, resulting in progressive muscle degeneration.<br><b>Statement 3 is correct:</b> While there is no cure, modern treatments include steroids, exon-skipping drugs, and gene therapy.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Duchenne Muscular Dystrophy",
+    "question": "<b>Consider the following pairs of Diseases and their primary underlying cause:</b><br><br>1. Duchenne Muscular Dystrophy : Absence of dystrophin protein<br>2. Sarcoidosis : Mutation in the PIK3CA gene<br>3. Haemophilia : Deficiency of specific blood clotting factors<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is correctly matched:</b> Duchenne Muscular Dystrophy is caused by the absence of the dystrophin protein.<br><b>Pair 2 is incorrectly matched:</b> Sarcoidosis has an unknown exact cause but is an inflammatory disease involving granulomas (clumps of immune cells). A mutation in the PIK3CA gene is the cause of CLOVES Syndrome.<br><b>Pair 3 is correctly matched:</b> Haemophilia is an inherited bleeding disorder caused by a deficiency in blood clotting proteins.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "WHO Model Lists of Essential Medicines",
+    "question": "<b>With reference to the 'WHO Model Lists of Essential Medicines (EML)', consider the following statements:</b><br><br>1. It is a legally binding framework mandating all UN member states to provide the listed medicines free of cost to their citizens.<br>2. The list is updated annually by the World Health Assembly to include emerging treatments.<br>3. It serves as a guide for countries to develop their own national essential medicines lists to ensure access to safe and affordable healthcare.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "3 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>Statement 1 is incorrect:</b> The EML is a <i>guide</i>, not a legally binding treaty. It does not mandate free provision of medicines. <i>(Examiner Trap: Using extreme terminology like \"legally binding mandating\" for advisory UN/WHO frameworks).</i><br><b>Statement 2 is incorrect:</b> The list is updated every <b>two years</b> (not annually) by the WHO Expert Committee on the Selection and Use of Essential Medicines (not the World Health Assembly directly).<br><b>Statement 3 is correct:</b> Over 150 countries use the WHO Model List as the foundation for their own national essential medicines lists.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "WHO Model Lists of Essential Medicines",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The WHO Model Lists of Essential Medicines are frequently updated to include modern therapies for diseases like cancer and diabetes.<br><b>Statement-II:</b> Tanzania was the first country in the world to create a national essential medicines list, predating the WHO's global Model List.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> The WHO recently updated the EML to add new treatments for several cancers, diabetes, and obesity.<br><b>Statement-II is correct:</b> Tanzania did create the first national essential medicines list in 1970, before the WHO published the first global Model List in 1977. However, Statement II is a historical fact and does not logically <i>explain</i> why the WHO currently updates the list to include modern therapies (which is done to ensure access to emerging safe and effective medicines).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Clopidogrel",
+    "question": "<b>Consider the following statements regarding 'Clopidogrel', frequently mentioned in medical news:</b><br><br>1. It is a broad-spectrum antibiotic recently added to the WHO Model List of Essential Medicines.<br>2. It functions by preventing the formation of blood clots in the cardiovascular system.<br>3. It is clinically utilized to treat peripheral artery disease and prevent strokes.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> Clopidogrel is an <b>antiplatelet drug</b>, not an antibiotic. <i>(Examiner Trap: Exploiting the complex-sounding pharmaceutical name to confuse candidates regarding its therapeutic class).</i><br><b>Statement 2 is correct:</b> It is a crucial antiplatelet drug that prevents blood clots, and doctors increasingly consider it more effective than aspirin for the long-term prevention of heart attacks.<br><b>Statement 3 is correct:</b> It is used to prevent heart attacks, strokes, and to treat peripheral artery disease.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Clopidogrel",
+    "question": "<b>Consider the following pairs of Pharmaceutical Drugs and their Primary Use:</b><br><br>1. Clopidogrel : Antiplatelet medication to prevent blood clots<br>2. Nafithromycin : Immunosuppressant for autoimmune diseases<br>3. Lenacapavir : Antiretroviral medicine for HIV prevention<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is correctly matched:</b> Clopidogrel is an antiplatelet drug used for preventing cardiovascular events.<br><b>Pair 2 is incorrectly matched:</b> Nafithromycin is India's first indigenously discovered <b>antibiotic</b> for treating multidrug-resistant bacterial pneumonia, not an immunosuppressant.<br><b>Pair 3 is correctly matched:</b> Lenacapavir is a recently FDA-approved antiretroviral medicine used as Pre-Exposure Prophylaxis (PrEP) for HIV prevention.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Sarcoidosis",
+    "question": "<b>With reference to 'Sarcoidosis', consider the following statements:</b><br><br>1. It is a highly contagious bacterial infection that primarily targets the human respiratory system.<br>2. It is characterized by the formation of granulomas, which are clumps of immune cells, in various organs.<br>3. Severe or persistent cases of the disease are typically managed using immunosuppressive treatments like corticosteroids.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Sarcoidosis is a <b>non-communicable</b> inflammatory disease, not a contagious bacterial infection. <i>(Examiner Trap: Conflating it with infectious respiratory diseases like Tuberculosis because it commonly affects the lungs).</i><br><b>Statement 2 is correct:</b> The hallmark of sarcoidosis is the immune system overreacting and forming granulomas (clumps of immune cells) in organs, most commonly the lungs and lymph nodes.<br><b>Statement 3 is correct:</b> While there is no definitive cure and many cases resolve on their own, severe cases require immunosuppressive treatment, particularly corticosteroids.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Sarcoidosis",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> In patients suffering from Sarcoidosis, the immune system remains completely compromised and fails to react to external environmental pathogens.<br><b>Statement-II:</b> Sarcoidosis is an inflammatory disease triggered when the immune system overreacts, forming clumps of immune cells called granulomas.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect:</b> In Sarcoidosis, the immune system is NOT compromised or under-active (like in HIV/AIDS); rather, it <b>overreacts</b> to environmental triggers. <i>(Examiner Trap: Testing the fundamental pathological mechanism of the disease: overactive vs. suppressed immune response).</i><br><b>Statement-II is correct:</b> The disease is characterized by an overreactive immune system forming granulomas in organs such as the lungs, lymph nodes, skin, and eyes.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Centre for Cellular and Molecular Biology (CCMB)",
+    "question": "<b>Consider the following statements regarding the Centre for Cellular and Molecular Biology (CCMB):</b><br><br>1. It is a premier national laboratory functioning under the administrative control of the Ministry of Health and Family Welfare.<br>2. It has been designated as a Centre of Excellence by the Global Molecular and Cell Biology Network of UNESCO.<br>3. Scientists at the CCMB recently discovered the mechanism by which white blood cells adapt their internal skeletons to combat pathogens.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> CCMB is a national laboratory that functions under the <b>Council of Scientific and Industrial Research (CSIR)</b>, which falls under the <b>Ministry of Science & Technology</b>, not the Ministry of Health and Family Welfare. <i>(Examiner Trap: Associating a biological/health-focused institution with the Health Ministry is a standard UPSC static-current confusion trap).</i><br><b>Statement 2 is correct:</b> It has indeed been designated as a Centre of Excellence by UNESCO's Global Molecular and Cell Biology Network.<br><b>Statement 3 is correct:</b> Recent research from CCMB revealed how white blood cells adapt their internal cytoskeletons to fight pathogens.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Centre for Cellular and Molecular Biology (CCMB)",
+    "question": "<b>Which of the following National Research Institutes in India operates directly under the Council of Scientific and Industrial Research (CSIR)?</b><br><br>1. Centre for Cellular and Molecular Biology (CCMB)<br>2. National Dope Testing Laboratory (NDTL)<br>3. Institute of Genomics and Integrative Biology (IGIB)<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Option 1 is correct:</b> The Centre for Cellular and Molecular Biology (CCMB) is a premier CSIR laboratory based in Hyderabad.<br><b>Option 2 is incorrect:</b> The National Dope Testing Laboratory (NDTL) operates under the <b>Ministry of Youth Affairs and Sports</b>, not CSIR.<br><b>Option 3 is correct:</b> The Institute of Genomics and Integrative Biology (IGIB) is also a major CSIR laboratory (which recently launched the Phenome India National Biobank).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Ion Chromatography",
+    "question": "<b>With reference to 'Ion Chromatography (IC)', consider the following statements:</b><br><br>1. It is a highly sensitive analytical technique that can detect ions at parts-per-billion (ppb) levels.<br>2. It is equally effective in analyzing both ionic species and non-ionic neutral molecules in water quality testing.<br>3. In anion exchange chromatography, the process is used to detect negatively charged ions such as fluorides and nitrates.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Statement 1 is correct:</b> IC is a powerful technique used to separate and quantify ions, capable of detecting trace elements at parts-per-billion (ppb) levels.<br><b>Statement 2 is incorrect:</b> A primary limitation of Ion Chromatography is its <b>inability or limited capability to analyze non-ionic species</b> or molecules that do not interact effectively with the ion-exchange resins. <i>(Examiner Trap: Using extreme phasing \"equally effective\" to mask a fundamental limitation of the technology).</i><br><b>Statement 3 is correct:</b> Anion exchange chromatography detects negatively charged ions (like F⁻, NO₃⁻), while cation exchange detects positively charged ions (like Na⁺, K⁺).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Ion Chromatography",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Ion Chromatography is widely utilized in identifying trace organic acids and specific pollutants during water quality testing.<br><b>Statement-II:</b> Ion Chromatography relies on the interaction between charged particles in a sample and pre-packed ion-exchange resins to separate different ions.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> The technique is highly sensitive and widely used in environmental applications, such as water quality testing and protein isolation.<br><b>Statement-II is correct and explains Statement-I:</b> The underlying mechanism that allows IC to detect these specific trace elements and pollutants is the precise separation of ions based on their charge interactions with the ion-exchange resin column.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Nightmare Bacteria",
+    "question": "<b>In the context of public health, the term 'Nightmare Bacteria' frequently refers to:</b><br><br>1. Genetically modified bacteria developed to consume oil spills but which have escaped into the marine ecosystem.<br>2. Carbapenem-resistant Enterobacteriaceae (CRE) that carry the NDM gene.<br>3. Pathogens whose spread has been heavily exacerbated by the excessive use of antibiotics in human healthcare and livestock farming.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> \"Nightmare bacteria\" does not refer to escaped genetically modified oil-eating microbes. It refers to naturally evolving, highly drug-resistant bacterial strains (like E. coli and Klebsiella pneumoniae). <i>(Examiner Trap: Creating a sci-fi sounding distractor to match the dramatic term \"Nightmare\").</i><br><b>Statement 2 is correct:</b> The CDC refers to Carbapenem-resistant Enterobacteriaceae (CRE) as nightmare bacteria. The NDM (New Delhi Metallo-beta-lactamase-1) gene allows them to produce an enzyme resistant to last-resort antibiotics.<br><b>Statement 3 is correct:</b> Their rapid spread is directly driven by antimicrobial resistance (AMR), fueled by the overuse of antibiotics in humans and livestock farming.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Nightmare Bacteria",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Infections caused by 'nightmare bacteria' carrying the NDM gene are extremely difficult to treat with conventional medicine.<br><b>Statement-II:</b> The NDM-1 enzyme neutralizes a broad range of beta-lactam antibiotics, including last-resort carbapenems.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> These Carbapenem-resistant Enterobacteriaceae (CRE) infections are spreading faster post-pandemic and are notorious for being untreatable by standard drug regimens.<br><b>Statement-II is correct and explains Statement-I:</b> The root cause of this untreatability is the NDM (New Delhi Metallo-beta-lactamase-1) gene, which codes for an enzyme that literally breaks down and neutralizes beta-lactam antibiotics (including carbapenems, which are usually reserved for the most severe infections).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Aflatoxin",
+    "question": "<b>Consider the following statements regarding 'Aflatoxins':</b><br><br>1. They are synthetic food preservatives that have been recently banned by the Food Safety and Standards Authority of India (FSSAI).<br>2. They are produced by specific species of fungi that commonly contaminate crops such as groundnuts, maize, and tree nuts.<br>3. Chronic exposure to aflatoxins in humans is known to be genotoxic and carcinogenic.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Aflatoxins are <b>NOT</b> synthetic chemical preservatives. They are naturally occurring <b>mycotoxins</b> produced by biological organisms (fungi). <i>(Examiner Trap: Confusing naturally occurring food toxins with banned synthetic industrial dyes/chemicals like Auramine O or Diethylene Glycol).</i><br><b>Statement 2 is correct:</b> They are produced by the fungi <i>Aspergillus flavus</i> and <i>Aspergillus parasiticus</i>, which frequently contaminate crops like groundnuts (recently causing trade issues with Indonesia), maize, and rice.<br><b>Statement 3 is correct:</b> Aflatoxins pose severe health risks, as they are documented genotoxins (damaging DNA) and carcinogens (causing cancer, particularly liver cancer).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Aflatoxin",
+    "question": "<b>Consider the following pairs of toxic substances and their common primary source/nature:</b><br><br>1. Aflatoxins : Naturally produced mycotoxins from fungal crop contamination<br>2. N-Nitrosodimethylamine (NDMA) : Volatile organic compound formed by reactions in acidic conditions<br>3. Bisphenol A (BPA) : Natural degradation product of plant cellulose<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is correctly matched:</b> Aflatoxins are mycotoxins produced by <i>Aspergillus</i> fungi on crops like groundnuts.<br><b>Pair 2 is correctly matched:</b> NDMA is a volatile organic compound that can form when secondary or tertiary amines react with nitrite ions in acidic environments, and is found as a contaminant in drugs like Ranitidine.<br><b>Pair 3 is incorrectly matched:</b> Bisphenol A (BPA) is an endocrine-disrupting <b>synthetic chemical</b> used in the manufacture of polycarbonate plastics and epoxy resins, not a natural plant degradation product. <i>(Examiner Trap: Mixing up synthetic plastics with natural organic materials like Microcrystalline Cellulose).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
