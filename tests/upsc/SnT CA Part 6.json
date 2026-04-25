@@ -1,0 +1,332 @@
+[
+  {
+    "section": "Science & Technology",
+    "topic": "Infectious Bovine Rhinotracheitis",
+    "question": "<b>Consider the following statements regarding Infectious Bovine Rhinotracheitis (IBR) and its recently developed vaccine, Raksha-IBR:</b><br><br>1. IBR is a highly contagious bacterial disease that primarily affects the lower respiratory tract of cattle.<br>2. The Raksha-IBR vaccine is India’s first indigenously developed DIVA marker vaccine.<br>3. A DIVA marker vaccine allows veterinarians to successfully differentiate between animals that are naturally infected and those that are vaccinated.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> IBR is a <b>viral</b> disease caused by bovine herpesvirus type 1 (BoHV-1), and it primarily causes inflammation of the <b>upper</b> respiratory tract, not the lower. <i>(Examiner Trap: Conflating viral and bacterial pathogens is a classic UPSC distractor.)</i><br><b>Statement 2 is correct:</b> Raksha-IBR is India’s first indigenously developed glycoprotein E (gE)–deleted DIVA marker vaccine.<br><b>Statement 3 is correct:</b> DIVA stands for 'Differentiating Infected from Vaccinated Animals', which is crucial for disease surveillance and eradication programs.<br><br><i>PYQ Linkage: UPSC frequently tests animal diseases and immunization programs (e.g., Foot and Mouth Disease, Bird Flu).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Infectious Bovine Rhinotracheitis",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Infectious Bovine Rhinotracheitis (IBR) is easily transmissible to humans through the consumption of unpasteurized milk from infected cattle.<br><b>Statement-II:</b> IBR is transmitted mainly by direct contact and spreads rapidly among animals in close proximity.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect:</b> IBR is not mentioned as a zoonotic disease transmissible to humans via milk. It strictly affects cattle (upper respiratory and reproductive systems). <i>(Examiner Trap: Assuming all high-profile cattle diseases are zoonotic threats.)</i><br><b>Statement-II is correct:</b> The virus (BoHV-1) spreads rapidly among cattle through direct contact.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "National Biofoundry Network",
+    "question": "<b>With reference to the 'National Biofoundry Network' launched in India, consider the following statements:</b><br><br>1. It is an automated facility that designs and optimises engineered organisms using tools such as DNA synthesis and gene editing.<br>2. It was launched as a core component of the BioE3 Policy, which is administered by the Ministry of Environment, Forest and Climate Change.<br>3. The primary goal of the network is to act as a bridge between research labs and industry by scaling up proof-of-concept projects into market-ready biomanufacturing solutions.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Statement 1 is correct:</b> A Biofoundry is highly automated and integrates biomanufacturing with high-tech tools like DNA synthesis.<br><b>Statement 2 is incorrect:</b> The BioE3 Policy (Biotechnology for Economy, Environment and Employment) is driven by the <b>Department of Biotechnology (DBT)</b> under the <b>Ministry of Science & Technology</b>, not the Ministry of Environment. <i>(Examiner Trap: Exploiting the word \"Environment\" in the policy's acronym to set up a nodal ministry trap.)</i><br><b>Statement 3 is correct:</b> It scales up innovations to bridge the gap between lab research and industrial application.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "National Biofoundry Network",
+    "question": "<b>Which one of the following is the primary objective of establishing “Moolankur” under the BioE3 Policy?</b>",
+    "options": [
+      "To eradicate invasive alien plant species across India's protected forests.",
+      "To act as Bio-Artificial Intelligence (AI) and Biomanufacturing Hubs to augment research and translation.",
+      "To provide direct unconditional cash transfers to farmers adopting biotechnology.",
+      "To completely replace the cultivation of traditional food crops with genetically modified variants by 2030."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: To act as Bio-Artificial Intelligence (AI) and Biomanufacturing Hubs to augment research and translation.</b><br><br>Under the BioE3 Policy, \"Moolankur\" refers to Bio-Enablers, which are essentially Bio-AI Hubs and Biofoundry/Biomanufacturing Hubs established across the country to accelerate the shift from biotech innovation to scalable technology. <i>(Examiner Trap: The other options leverage extreme words like \"completely replace\" or unrelated current affairs buzzwords like \"direct cash transfers\".)</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Syphilis",
+    "question": "<b>Consider the following statements regarding Syphilis:</b><br><br>1. It is a viral sexually transmitted infection that cannot be cured once it progresses to advanced stages.<br>2. Congenital syphilis, transmitted from mother to child, is globally recognized as the second leading cause of stillbirths.<br>3. It can be effectively treated and cured in its early stages using Penicillin.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Syphilis is a <b>bacterial</b> infection caused by <i>Treponema pallidum</i>, not a virus, and it is curable. <i>(Examiner Trap: Swapping bacterial for viral makes an infection sound incurable like HIV.)</i><br><b>Statement 2 is correct:</b> Congenital syphilis is highly dangerous and is the second leading cause of stillbirths globally (next only to malaria in some regions).<br><b>Statement 3 is correct:</b> Penicillin is the definitive and highly effective cure for syphilis, particularly in its early stages.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Syphilis",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Public health authorities emphasize that Syphilis cannot spread through casual contact such as sharing toilets, utensils, or swimming pools.<br><b>Statement-II:</b> The pathogen responsible for Syphilis, <i>Treponema pallidum</i>, is a defective retrovirus that requires direct blood-to-blood transmission to survive outside the human body.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> Syphilis is transmitted via direct sexual contact or mother-to-child; it does not spread through casual environmental contact.<br><b>Statement-II is incorrect:</b> <i>Treponema pallidum</i> is a <b>bacterium</b>, not a defective retrovirus (like Hepatitis D or HIV). <i>(Examiner Trap: Creating a highly scientific-sounding but factually wrong explanation.)</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "1st Ever Gene Edited (GE) Rice Varieties",
+    "question": "<b>With reference to DRR Dhan 100 and Pusa DST Rice 1, recently cleared for cultivation in India, consider the following statements:</b><br><br>1. They are transgenic varieties developed by inserting genes from a soil bacterium to confer pest resistance.<br>2. They were developed using Site-Directed Nuclease (SDN-1 and SDN-2) CRISPR-Cas9 techniques.<br>3. Under Indian regulatory frameworks, these varieties are exempt from the stringent assessments applied to Genetically Modified (GM) crops because no foreign DNA was introduced.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> They are <b>non-transgenic</b> Gene-Edited (GE) crops, not GM crops. No foreign genes were introduced. (This contrasts with Bt Cotton).<br><b>Statement 2 is correct:</b> They were developed by ICAR using advanced CRISPR-Cas9 (SDN-1 and SDN-2) techniques.<br><b>Statement 3 is correct:</b> In March 2022, India relaxed its biosafety rules, allowing SDN-1 and SDN-2 techniques (which do not insert external DNA) to be treated differently from transgenic GM crops, exempting them from the strict GEAC clearance process required for transgenic crops.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "1st Ever Gene Edited (GE) Rice Varieties",
+    "question": "<b>Consider the following pairs comparing Recombinant DNA (r-DNA) technology and Gene Editing (like CRISPR-Cas9):</b><br><br><b>Parameter : Recombinant DNA Technology : Gene Editing</b><br>1. Nature of change : Always involves inserting foreign DNA : May edit endogenous DNA without adding foreign genes<br>2. Precision : Highly targeted to a precise location : Random integration of genes<br>3. India's Regulatory Status : Strictly regulated by GEAC : Relaxed rules for SDN-1 & SDN-2 categories<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is correctly matched:</b> r-DNA technology creates transgenic organisms by inserting foreign DNA, whereas Gene Editing (SDN-1/2) modifies the existing genome.<br><b>Pair 2 is incorrectly matched:</b> The descriptions are reversed. Gene Editing is highly precise (uses guide RNA), whereas traditional r-DNA technology involves random integration (less precise).<br><b>Pair 3 is correctly matched:</b> GM crops (r-DNA) are strictly regulated by GEAC, while SDN-1/SDN-2 gene-edited crops face relaxed regulations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "India’s 1st Gene-Edited Sheep",
+    "question": "<b>Consider the following statements regarding the creation of India’s first gene-edited sheep:</b><br><br>1. It was developed by disrupting the myostatin gene, which naturally regulates and restricts muscle growth.<br>2. The gene editing involved introducing a foreign gene from the European Texel breed to make the Indian sheep transgenic.<br>3. The resulting Kashmir Merino lamb exhibited an enhanced muscle mass of approximately 30%.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Statement 1 is correct:</b> The breakthrough achieved by SKUAST involved disrupting the myostatin gene. Myostatin acts as a natural brake on muscle growth.<br><b>Statement 2 is incorrect:</b> The process did <b>not</b> involve the introduction of any foreign gene. Therefore, the resultant breed is classified as <b>non-transgenic</b>. <i>(Examiner Trap: The Texel breed naturally has this mutation, but scientists didn't insert Texel DNA; they just edited the Indian sheep's own DNA to mimic it.)</i><br><b>Statement 3 is correct:</b> The genetic modification resulted in a 30% increase in muscle mass.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "India’s 1st Gene-Edited Sheep",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The recently developed gene-edited Kashmir Merino lamb is officially classified as a non-transgenic animal.<br><b>Statement-II:</b> The genetic modification process did not involve the introduction or integration of any foreign genetic material into the sheep's genome.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> The sheep is indeed classified as non-transgenic.<br><b>Statement-II is correct and explains Statement-I:</b> The definition of a transgenic organism is one that contains genetic material into which DNA from an unrelated organism has been artificially introduced. Because the scientists merely disrupted an existing endogenous gene (myostatin) without adding foreign DNA, the sheep is non-transgenic.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Gene Therapy for Haemophilia",
+    "question": "<b>With reference to Haemophilia and its emerging gene therapy treatments in India, consider the following statements:</b><br><br>1. Haemophilia is an X-linked recessive disorder that predominantly affects females, while males typically remain asymptomatic carriers.<br>2. The disease is characterized by a deficiency in specific blood clotting proteins produced in the liver.<br>3. India’s first human trial for Haemophilia gene therapy utilizes a lentivirus vector to genetically engineer the patient’s hematopoietic stem cells.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Haemophilia is an X-linked recessive disorder, which means it predominantly affects <b>males</b> (who have only one X chromosome). Females (XX) are usually asymptomatic carriers. <i>(Examiner Trap: Reversing the gender-specific impact of X-linked genetic disorders is a standard UPSC biology trap.)</i><br><b>Statement 2 is correct:</b> It causes blood to not clot properly due to deficient clotting proteins (Factor VIII or IX), which are normally produced in the liver.<br><b>Statement 3 is correct:</b> Researchers at CMC Vellore and inSTEM developed the world's first lentivirus-based gene therapy, engineering hematopoietic stem cells to produce clotting proteins.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Gene Therapy for Haemophilia",
+    "question": "<b>Which one of the following correctly describes the fundamental mechanism of the indigenously developed gene therapy for Haemophilia?</b>",
+    "options": [
+      "It directly modifies the liver cells of the patient using CRISPR-Cas9 to stimulate the overproduction of Vitamin K.",
+      "It engineers the patient's hematopoietic stem cells to produce white blood cells capable of synthesizing clotting proteins.",
+      "It involves regular intravenous infusion of lab-grown blood plasma to temporarily restore platelet count.",
+      "It introduces an artificial bacterial plasmid that blocks the mutant HTT gene from breaking down muscle fibers."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: It engineers the patient's hematopoietic stem cells to produce white blood cells capable of synthesizing clotting proteins.</b><br><br>In this novel gene therapy, a patient’s hematopoietic stem cells (blood-related stem cells) are genetically engineered using a lentivirus vector. These cells then produce white blood cells capable of producing the missing blood-clotting proteins, bypassing the defective liver mechanisms. <i>(Option D refers to Huntington's Disease; Option C refers to standard non-gene therapeutic management).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "World’s 1st Gene-Editing Therapy to Cure CPS1 Deficiency",
+    "question": "<b>Consider the following statements regarding Carbamoyl Phosphate Synthetase I (CPS-1) deficiency:</b><br><br>1. It is a rare autosomal recessive metabolic disorder of the urea cycle.<br>2. The deficiency leads to a toxic buildup of ammonia in the blood, which can cause severe brain swelling and coma.<br>3. Recently, the world's first successful treatment for this disease was achieved using an mRNA vaccine platform.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> CPS-1 deficiency is a rare autosomal recessive disorder affecting the urea cycle.<br><b>Statement 2 is correct:</b> Because the urea cycle is disrupted, it causes hyperammonemia (toxic ammonia buildup), which is highly fatal in early infancy.<br><b>Statement 3 is incorrect:</b> The world's first successful gene-editing therapy for this was achieved using <b>CRISPR-based gene-editing</b>, not an mRNA vaccine platform. <i>(Examiner Trap: Swapping trending biotech platforms, e.g., mRNA vs CRISPR, is a high-level distractor.)</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "World’s 1st Gene-Editing Therapy to Cure CPS1 Deficiency",
+    "question": "<b>Consider the following pairs of Genetic/Metabolic Disorders and their primary physiological manifestation:</b><br><br><b>Disorder : Manifestation</b><br>1. CPS-1 Deficiency : Hyperammonemia due to urea cycle failure<br>2. Bloom Syndrome : Impaired DNA repair causing high cancer risk<br>3. Haemophilia : Accumulation of abnormal huntingtin protein in brain cells<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is correctly matched:</b> CPS-1 deficiency impairs the urea cycle, leading to toxic ammonia buildup.<br><b>Pair 2 is correctly matched:</b> Bloom Syndrome is an autosomal recessive disorder causing mutations in the BLM gene, impairing DNA repair and increasing cancer risk.<br><b>Pair 3 is incorrectly matched:</b> Haemophilia is a bleeding disorder caused by the lack of blood clotting proteins. The accumulation of abnormal huntingtin protein in the brain is the cause of <b>Huntington's Disease</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Global Animal Health Report",
+    "question": "<b>With reference to the first comprehensive Global Animal Health Report, consider the following statements:</b><br><br>1. It was published by the World Organisation for Animal Health (WOAH), which operates as a specialized agency of the United Nations Environment Programme (UNEP).<br>2. The report highlights that nearly half of the infectious animal diseases spreading into new regions possess zoonotic potential.<br>3. It predicts that Antimicrobial Resistance (AMR) in livestock could cause massive global economic losses and endanger food security by 2050.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> The WOAH (formerly OIE) is an independent intergovernmental organization founded in 1924, not a specialized agency of UNEP. It is, however, recognized by the WTO as the standard-setting body for animal health. <i>(Examiner Trap: Incorrectly assigning independent international bodies as UN agencies).</i><br><b>Statement 2 is correct:</b> 47% of diseases spreading to new regions have zoonotic potential (can transmit to humans).<br><b>Statement 3 is correct:</b> AMR is highlighted as a massive threat that could cause a $100 trillion loss by 2050.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Global Animal Health Report",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The World Organisation for Animal Health (WOAH) runs the World Animal Health Information System (WAHIS) to transparently track disease outbreaks globally.<br><b>Statement-II:</b> The WOAH has recently been granted the exclusive authority by the WTO to enforce mandatory trade embargoes on countries experiencing zoonotic outbreaks.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> WOAH manages the WAHIS platform to track global animal disease outbreaks and share transparent data.<br><b>Statement-II is incorrect:</b> WOAH is a standard-setting body recognized by the WTO, but it does <b>not</b> have enforcement or sanctioning authority to impose mandatory trade embargoes. It only provides scientific guidelines and standards for safe trade.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Trachoma",
+    "question": "<b>Consider the following statements regarding Trachoma, recently in the news:</b><br><br>1. It is a highly contagious viral infection that leads to the permanent clouding of the cornea.<br>2. India recently became the first Southeast Asian country to receive the WHO Certificate of Elimination of Trachoma.<br>3. The WHO recommends the 'SAFE' strategy for its elimination, which includes Surgery, Antibiotics, Facial cleanliness, and Environmental improvement.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>Statement 1 is incorrect:</b> Trachoma is a preventable <b>bacterial</b> eye infection caused by <i>Chlamydia trachomatis</i>, not a viral infection. <i>(Examiner Trap: The bacterial/viral distractor is used repeatedly by UPSC in disease questions.)</i><br><b>Statement 2 is incorrect:</b> India is the <b>third</b> Southeast Asian country to eliminate it, following Nepal and Myanmar.<br><b>Statement 3 is correct:</b> The SAFE strategy (Surgery, Antibiotics, Facial cleanliness, Environmental improvement) is the core WHO approach that helped India eliminate the disease.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Trachoma",
+    "question": "<b>Which of the following diseases, recently targeted for elimination globally by the WHO, is primarily caused by the bacterium <i>Chlamydia trachomatis</i> and thrives in areas lacking clean water and sanitation?</b>",
+    "options": [
+      "Rubella",
+      "Lyme Disease",
+      "Trachoma",
+      "Syphilis"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Trachoma</b><br><br>Trachoma is the world's leading infectious cause of blindness, caused by the bacterium <i>Chlamydia trachomatis</i>. It spreads in areas with poor sanitation and water scarcity. Rubella is a viral disease; Lyme disease is caused by <i>Borrelia burgdorferi</i> (transmitted by ticks); Syphilis is caused by <i>Treponema pallidum</i>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Nipah Virus",
+    "question": "<b>With reference to the Nipah Virus (NiV), consider the following statements:</b><br><br>1. The primary natural reservoir of the virus is the Aedes mosquito.<br>2. Human-to-human transmission of the Nipah virus has been well-documented in previous outbreaks.<br>3. Severe cases are characterized by neurological symptoms such as encephalitis and coma.<br>4. A widely available single-dose vaccine has been successfully deployed in endemic pockets of South Asia.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3)</b><br><br><b>Statement 1 is incorrect:</b> The primary reservoir of Nipah is fruit bats of the genus <i>Pteropus</i> (flying foxes), not mosquitoes. <i>(Examiner Trap: Aedes mosquitoes cause Dengue/Zika, substituting vectors is a common trap.)</i><br><b>Statement 2 is correct:</b> Person-to-person transmission has been recorded (often through contact with infected patients' fluids).<br><b>Statement 3 is correct:</b> It causes severe acute respiratory distress and fatal neurological issues like encephalitis.<br><b>Statement 4 is incorrect:</b> There are currently <b>no specific drugs or vaccines</b> available for Nipah; treatment relies on intensive supportive care.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Nipah Virus",
+    "question": "<b>Consider the following pairs of Zoonotic Diseases and their primary vectors/reservoirs:</b><br><br><b>Disease : Primary Reservoir/Vector</b><br>1. Nipah Virus : Fruit Bats<br>2. Lyme Disease : Black-legged Ticks<br>3. African Swine Fever : Infected rodents<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is correctly matched:</b> Fruit bats (flying foxes) are the natural carriers of the Nipah virus.<br><b>Pair 2 is correctly matched:</b> Lyme disease is transmitted through the bite of infected black-legged ticks (deer ticks).<br><b>Pair 3 is incorrectly matched:</b> African Swine Fever affects domestic and wild pigs and is spread via direct contact, contaminated objects, or certain tick vectors (Ornithodoros), but <b>not</b> primarily by rodents. Rodents are the vector for diseases like Encephalomyocarditis Virus (EMCV).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Nanozymes to Treat Excessive Blood Clotting",
+    "question": "<b>Consider the following statements regarding “Nanozymes”, recently seen in medical research:</b><br><br>1. They are biologically extracted enzymes derived from deep-sea marine bacteria.<br>2. They are nano-biomaterial-based synthetic enzymes designed to mimic the action of natural enzymes in the human body.<br>3. A novel nanozyme developed from vanadium pentoxide nanoparticles has shown efficacy in neutralizing oxidative stress and reducing abnormal blood clotting.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Nanozymes are <b>artificial, synthetic</b> enzymes made from nanomaterials (metals, nucleic acids), not biological extracts from marine bacteria. <i>(Examiner Trap: Creating a plausible but false biological origin for a synthetic nanotechnology.)</i><br><b>Statement 2 is correct:</b> They are synthetic entities sized 1–100 nm that replicate natural enzyme functions.<br><b>Statement 3 is correct:</b> IISc researchers developed a vanadium pentoxide ($V_2O_5$) nanozyme that mitigates reactive oxygen species (ROS) and limits excessive blood clotting (thrombosis).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Nanozymes to Treat Excessive Blood Clotting",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The application of Vanadium pentoxide nanozymes can potentially prevent severe medical complications such as ischemic strokes and pulmonary thromboembolism.<br><b>Statement-II:</b> Nanozymes actively target and neutralize Reactive Oxygen Species (ROS), thereby alleviating the oxidative stress that triggers abnormal blood clotting.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> Excessive blood clotting (thrombosis) causes severe complications like ischemic stroke and pulmonary thromboembolism. Nanozymes are being developed to treat this.<br><b>Statement-II is correct and explains Statement-I:</b> The underlying biological mechanism that makes these nanozymes effective against thrombosis is their ability to neutralize Reactive Oxygen Species (ROS). By eliminating this oxidative stress, they stop the cascade that leads to pathological blood clot formation.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
