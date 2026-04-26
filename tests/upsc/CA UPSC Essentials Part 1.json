@@ -1,0 +1,197 @@
+[
+  {
+    "section": "Geography",
+    "topic": "Oort Cloud",
+    "question": "<b>With reference to the 'Oort Cloud', often mentioned in space exploration news, consider the following statements:</b><br><br>1. It is a theoretical, giant spherical shell of icy space debris that surrounds our entire solar system.<br>2. It is considered to be the primary source region for short-period comets that orbit the Sun in less than 200 years.<br>3. The outer edge of the Oort Cloud defines the cosmographical boundary of the Solar System and the limits of the Sun's gravitational dominance.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3)</b><br><br><b>Statement 1 is correct:</b> The Oort Cloud is a predicted collection of icy objects farther away than everything else in the solar system.<br><b>Statement 2 is incorrect:</b> The Oort Cloud is the source of <b>long-period comets</b> (taking thousands of years to orbit). <b>Short-period comets</b> (like Halley's Comet) originate from the closer <b>Kuiper Belt</b>. <i>(Examiner Trap: Swapping the origins of short-period and long-period comets is a classic geography/astronomy trap.)</i><br><b>Statement 3 is correct:</b> It represents the absolute edge of the Sun's gravitational influence.<br><br><i>PYQ Linkage: Kuiper belt and origin of comets/asteroids was tested conceptually in Prelims 2018.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Oort Cloud",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Objects within the Oort Cloud are largely composed of water ice, ammonia, and methane.<br><b>Statement-II:</b> The Oort cloud receives intense solar radiation, preventing the formation of rocky or metallic asteroids within its boundary.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> Given its extreme distance from the Sun, Oort cloud objects are predominantly icy volatiles (water, ammonia, methane).<br><b>Statement-II is incorrect:</b> The Oort cloud is so distant that it receives almost <b>zero solar radiation</b>. Furthermore, the lack of rocky asteroids is due to the solar system's formation dynamics (heavy elements stayed closer to the Sun), not because radiation \"prevents\" their formation. <i>(Examiner Trap: Creating a scientifically inverse justification).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Solar Storms",
+    "question": "<b>With reference to Solar Storms and Coronal Mass Ejections (CMEs), consider the following statements:</b><br><br>1. They are massive bursts of solar plasma and magnetic fields released from the Sun's corona into space.<br>2. Severe geomagnetic storms caused by CMEs can heat the Earth's upper atmosphere, causing it to expand and increase drag on low-Earth orbit satellites.<br>3. The frequency of these storms is completely random and remains unaffected by the standard 11-year solar cycle.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> CMEs involve the massive release of plasma and magnetic fields from the Sun.<br><b>Statement 2 is correct:</b> Geomagnetic storms heat the thermosphere, causing it to expand. This increases atmospheric drag on satellites in Low Earth Orbit (LEO), which can cause them to de-orbit prematurely.<br><b>Statement 3 is incorrect:</b> The frequency of solar storms is highly predictable and tightly linked to the 11-year solar cycle, peaking during the 'Solar Maximum'. <i>(Examiner Trap: Using absolute words like 'completely random' to negate a well-established astronomical pattern).</i><br><br><i>PYQ Linkage: The impact of solar flares on Earth was directly tested in UPSC Prelims 2022.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "State Election Commission",
+    "question": "<b>Consider the following statements regarding the State Election Commission (SEC) in India:</b><br><br>1. The State Election Commissioner is appointed by the Governor of the state.<br>2. The conditions of service and tenure of office of the State Election Commissioner cannot be varied to his disadvantage after his appointment.<br>3. The SEC functions under the direct administrative control and supervision of the Election Commission of India (ECI) to ensure uniformity in elections.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 2)</b><br><br><b>Statement 1 is correct:</b> Article 243K states that the State Election Commissioner is appointed by the Governor.<br><b>Statement 2 is correct:</b> To ensure independence, their conditions of service cannot be varied to their disadvantage after appointment, and they can only be removed in a manner similar to a High Court judge.<br><b>Statement 3 is incorrect:</b> The SEC is an <b>independent constitutional body</b>. It is NOT subordinate to, nor does it function under the administrative control of the ECI. The ECI handles national/state legislature elections, while the SEC handles Panchayats/Municipalities. <i>(Examiner Trap: The hierarchical trap—assuming state bodies are subordinate to national equivalents).</i><br><br><i>PYQ Linkage: The jurisdiction and independence of the SEC are recurring themes (e.g., 2017).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "State Election Commission",
+    "question": "<b>Which one of the following correctly describes the removal process of a State Election Commissioner in India?</b>",
+    "options": [
+      "He can be removed by the Governor on the advice of the State Council of Ministers.",
+      "He can be removed by the President of India on the recommendation of the Chief Election Commissioner.",
+      "He can only be removed in the same manner and on the same grounds as a Judge of a High Court.",
+      "He can be removed by a simple majority resolution passed by both houses of the State Legislature."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: He can only be removed in the same manner and on the same grounds as a Judge of a High Court.</b><br><br>Article 243K(2) of the Constitution guarantees security of tenure to the State Election Commissioner to ensure free and fair local elections. He can only be removed from his office in like manner and on the like grounds as a Judge of a High Court (i.e., by the President after an impeachment motion passed by special majority in Parliament).<br><i>(Examiner Trap: Options A and B test the confusion between appointing authority (Governor) and removal authority (President/Parliament).)</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliamentary Committees",
+    "question": "<b>With reference to Parliamentary Committees in India, consider the following statements:</b><br><br>1. A Minister is strictly barred from being elected as a member of the Public Accounts Committee (PAC) or the Estimates Committee.<br>2. The proceedings of all Parliamentary Committees are legally required to be open to the public and the press to uphold democratic transparency.<br>3. The Chairperson of the Public Accounts Committee is invariably appointed from the ruling party by the Speaker of the Lok Sabha.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> To maintain executive accountability, a Minister cannot be a member of the Financial Committees (PAC, Estimates, CoPU).<br><b>Statement 2 is incorrect:</b> The proceedings of Parliamentary Committees are generally <b>confidential/in-camera</b> and are NOT open to the public or press unless specifically permitted. <i>(Examiner Trap: Imposing the modern ideal of \"democratic transparency\" onto rigid procedural rules).</i><br><b>Statement 3 is incorrect:</b> By convention (since 1967), the Chairperson of the PAC is appointed from the <b>Opposition</b>, not the ruling party.<br><br><i>PYQ Linkage: The composition and chairmanship of the PAC were tested in Prelims 2013 and 2014.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Kakori Conspiracy",
+    "question": "<b>Consider the following freedom fighters:</b><br><br>1. Jogesh Chandra Chatterjee<br>2. Rajendra Nath Lahiri<br>3. Ram Prasad Bismil<br>4. Surya Sen<br><br><b>How many of the above revolutionaries were directly associated with the Kakori Train Action (1925)?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only three (1, 2, and 3)</b><br><br>Jogesh Chandra Chatterjee, Rajendra Nath Lahiri, and Ram Prasad Bismil were key members of the Hindustan Republican Association (HRA) and were directly involved in the Kakori Train Action (1925).<br>Surya Sen was associated with the <b>Chittagong Armoury Raid (1930)</b> in Bengal and was not part of the HRA's Kakori operation in the United Provinces.<br><br><i>Examiner Trap: Mixing revolutionaries from the Bengal cluster (Surya Sen) with the UP/Punjab cluster (HRA) to test exact historical mapping.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Prominent Historical Figures",
+    "question": "<b>Mahatma Gandhi famously referred to which of the following leaders as “the author of nationalism” and “the Father of the Nation” in his early writings?</b>",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "Dadabhai Naoroji",
+      "Gopal Krishna Gokhale",
+      "Surendranath Banerjee"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Dadabhai Naoroji</b><br><br>Mahatma Gandhi held Dadabhai Naoroji in immense reverence, calling him the \"Father of the Nation\" and the \"author of nationalism\" for his pioneering work in the Indian freedom struggle and his Drain of Wealth theory which laid the economic foundation of Indian nationalism.<br><br><i>Examiner Trap: Aspirants generally associate \"Father of the Nation\" exclusively with Gandhi himself, or might guess Gokhale since he was Gandhi's political guru.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Women in Freedom Struggle",
+    "question": "<b>Consider the following statements regarding Pritilata Waddedar:</b><br><br>1. She was a prominent revolutionary nationalist who worked closely with Surya Sen in the Indian Republican Army.<br>2. She successfully led a targeted armed assault on the Pahartali European Club, which had a discriminatory signboard.<br>3. Following her capture during the Non-Cooperation Movement, she became the first woman to be hanged by the British Empire.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> Pritilata Waddedar was a highly educated revolutionary who joined Surya Sen's group in Bengal.<br><b>Statement 2 is correct:</b> In 1932, she led an attack on the Pahartali European Club in Chittagong, which bore the notorious sign \"Dogs and Indians not allowed\".<br><b>Statement 3 is incorrect:</b> She was not captured or hanged; to avoid arrest after the successful club attack, she consumed cyanide and attained martyrdom. Furthermore, the event occurred in 1932 (Civil Disobedience era), not during the Non-Cooperation Movement (1920-22).<br><br><i>PYQ Linkage: The roles of women revolutionaries (e.g., Bina Das, Kalpana Datta) are a staple in UPSC Prelims.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Ancient Indian Texts",
+    "question": "<b>In the context of the cultural history of ancient India, the term 'Agamas' primarily refers to:</b>",
+    "options": [
+      "Secular administrative manuals detailing the land revenue systems of the Chola Empire.",
+      "A collection of Jain canonical texts detailing the teachings and sermons of Lord Mahavira.",
+      "Buddhist philosophical treatises focusing on monastic discipline and epistemology.",
+      "Rigid rules governing the performance of early Vedic fire sacrifices."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: A collection of Jain canonical texts detailing the teachings and sermons of Lord Mahavira.</b><br><br>The 'Agamas' are the original texts of Jainism based on the discourses of the Tirthankaras, particularly Lord Mahavira. They were orally compiled by his disciples (Gandharas) and form the bedrock of Svetambara Jain philosophy. (Note: The term Agama is also used in Hinduism for texts detailing temple construction and rituals, but in standard UPSC MCQ paradigms, it is the primary canonical identifier for Jainism compared to options C and D which describe the Vinaya Pitaka and Shrauta Sutras).<br><br><i>PYQ Linkage: Literary terms mapping to their religion/philosophy (e.g., Sthanakvasi, Parivrajaka) appear every alternate year.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Rani Abbakka",
+    "question": "<b>Consider the following statements regarding Rani Abbakka Chowta, recently commemorated in historical initiatives:</b><br><br>1. She belonged to the Chowta dynasty who ruled over parts of coastal Karnataka (Tulu Nadu).<br>2. She is celebrated in Indian history for her fierce and successful naval resistance against the Dutch East India Company.<br>3. She was a prominent leader of the 1857 Sepoy Mutiny in South India.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> Rani Abbakka Chowta was the Queen of Ullal (near Mangalore) belonging to the Chowta dynasty.<br><b>Statement 2 is incorrect:</b> Her legendary resistance in the 16th century was against the <b>Portuguese</b>, not the Dutch. <i>(Examiner Trap: Swapping colonial powers is a frequent trick to test precise historical timelines).</i><br><b>Statement 3 is incorrect:</b> She ruled in the <b>16th century (1525–1570s)</b>, centuries before the 1857 Mutiny. The prominent 1857 leaders in the south were completely different.<br><br><i>PYQ Linkage: Obscure regional rulers who resisted colonial powers are increasingly tested.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Folk Dances of India",
+    "question": "<b>Consider the following pairs of traditional Folk Dances and their associated States/Communities:</b><br><br><b>Dance Form : State/Community</b><br>1. Bagurumba : Bodo community of Assam<br>2. Kalbelia : Desert tribes of Rajasthan<br>3. Tarangamel : Indigenous tribes of Nagaland<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Pairs 1 and 2)</b><br><br><b>Pair 1 is correctly matched:</b> Bagurumba is a vibrant traditional folk dance of the Bodo community in Assam, often called the \"butterfly dance\".<br><b>Pair 2 is correctly matched:</b> Kalbelia is a sensuous folk dance performed by the snake-charming Kalbelia tribe of Rajasthan.<br><b>Pair 3 is incorrectly matched:</b> Tarangamel is a vibrant folk dance of <b>Goa</b> (performed during Dussehra and Holi), not Nagaland.<br><br><i>Examiner Trap: Inserting a lesser-known dance from a completely different geographic region (Goa vs North-East).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Current Affairs",
+    "topic": "Ramon Magsaysay Award",
+    "question": "<b>Consider the following statements regarding the Ramon Magsaysay Award, often termed Asia’s equivalent to the Nobel Prize:</b><br><br>1. It is funded and administered directly by the Government of the Philippines as an instrument of its foreign policy.<br>2. It was established to honor the memory of a former Philippine President who died in an air crash.<br>3. Vinoba Bhave was the first Indian to receive this prestigious award.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> The award is <b>not</b> government-administered. It is administered by the independent Ramon Magsaysay Award Foundation, created with the backing of the Rockefeller Brothers Fund. <i>(Examiner Trap: Attributing international private foundation awards to national governments).</i><br><b>Statement 2 is correct:</b> It was established in 1957 in memory of Ramon Magsaysay, the 3rd President of the Philippines, who died in a plane crash.<br><b>Statement 3 is correct:</b> Acharya Vinoba Bhave was the inaugural recipient of the award for Community Leadership in 1958.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
