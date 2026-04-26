@@ -1,0 +1,242 @@
+[
+  {
+    "section": "Polity & Governance",
+    "topic": "Central Pay Commission",
+    "question": "<b>With reference to the Central Pay Commission (CPC), consider the following statements:</b><br><br>1. It is a statutory body constituted under the Finance Commission (Miscellaneous Provisions) Act, 1951.<br>2. Its recommendations regarding the salary structure of central government employees are advisory and not legally binding on the government.<br>3. State governments are constitutionally mandated to implement the CPC's recommendations for their respective state employees to maintain parity.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2)</b><br><br><b>Statement 1 is incorrect:</b> The CPC is <b>not</b> a statutory or constitutional body. It is an ad-hoc executive body set up periodically (usually every 10 years) by the Government of India via a resolution.<br><b>Statement 2 is correct:</b> The government can accept, modify, or reject the CPC's recommendations; they are purely advisory.<br><b>Statement 3 is incorrect:</b> State governments are not constitutionally mandated to follow the CPC. They have their own State Pay Commissions, though they often use the CPC as a benchmark.<br><br><i>Examiner Trap: Attributing statutory/constitutional backing to an ad-hoc executive body is a classic UPSC trap.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity & Governance",
+    "topic": "Central Pay Commission",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Unlike the Central Pay Commission, the Finance Commission is a constitutionally mandated body.<br><b>Statement-II:</b> The Finance Commission is constituted under Article 280 of the Constitution to recommend the distribution of tax revenues between the Union and the States.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> The Central Pay Commission is established by an executive resolution, while the Finance Commission is a constitutional body.<br><b>Statement-II is correct:</b> Article 280 governs the Finance Commission and its role in tax devolution. However, Statement-II merely states the function of the Finance Commission; it does not <i>explain</i> why the Pay Commission lacks constitutional status.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Quick Commerce",
+    "question": "<b>With reference to the emerging 'Quick Commerce' (Q-commerce) sector in India, consider the following statements:</b><br><br>1. It relies on a network of decentralized micro-fulfillment centers, commonly referred to as 'dark stores', located in high-demand urban areas.<br>2. Q-commerce platforms primarily focus on delivering small quantities of essential goods within a 10 to 30-minute window.<br>3. Under India's current Foreign Direct Investment (FDI) rules, 100% FDI is permitted in the inventory-based model of Q-commerce.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> Q-commerce utilizes 'dark stores'—small local warehouses not open to the public—to enable ultra-fast delivery.<br><b>Statement 2 is correct:</b> The defining feature of Q-commerce is rapid delivery (usually under 30 minutes) of micro-quantities.<br><b>Statement 3 is incorrect:</b> India's FDI rules strictly <b>prohibit</b> FDI in the inventory-based model of e-commerce (where the platform owns the goods). 100% FDI is only allowed in the <b>marketplace model</b> (where the platform acts merely as a facilitator).<br><br><i>Examiner Trap: Integrating rigid economic regulatory frameworks (FDI rules) into questions about trending tech/startup concepts.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Quick Commerce",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Quick Commerce companies incur significantly higher last-mile delivery costs per order compared to traditional e-commerce giants.<br><b>Statement-II:</b> Quick Commerce models dispatch multiple small-ticket orders instantaneously rather than consolidating deliveries along optimized, dense routes over several days.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> The unit economics of Q-commerce are strained by high last-mile costs.<br><b>Statement-II is correct and explains Statement-I:</b> Traditional e-commerce lowers costs by batching dozens of orders onto a single truck for an optimized daily route. Q-commerce dispatches a rider immediately for just one or two small items, drastically inflating the per-order delivery cost.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Open Market Operations (OMOs)",
+    "question": "<b>With reference to Open Market Operations (OMOs) conducted by the Reserve Bank of India (RBI), consider the following statements:</b><br><br>1. They involve the outright purchase or sale of government securities to influence the liquidity in the banking system.<br>2. When the RBI purchases government securities, it absorbs excess liquidity from the market, thereby curbing inflation.<br>3. 'Operation Twist' is a specialized OMO where the RBI simultaneously buys long-term securities and sells short-term securities.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3)</b><br><br><b>Statement 1 is correct:</b> OMO is a quantitative monetary policy tool involving G-Sec trades.<br><b>Statement 2 is incorrect:</b> When the RBI <b>purchases</b> securities, it pays banks with cash, thereby <b>injecting</b> liquidity into the system (which can stimulate growth but fuel inflation). To absorb liquidity/curb inflation, the RBI <b>sells</b> securities. <i>(Examiner Trap: Reversing the fundamental macroeconomic cause-and-effect).</i><br><b>Statement 3 is correct:</b> Operation Twist aims to lower long-term yields (by buying long-term bonds) to spur investment while keeping short-term rates stable.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Open Market Operations (OMOs)",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> To control a rising inflationary trend, the Reserve Bank of India will likely execute massive Open Market sales of government bonds.<br><b>Statement-II:</b> Selling government bonds drains rupee reserves from commercial banks, thereby reducing the money multiplier and overall credit creation.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> OMO sales are a standard contractionary monetary policy response to high inflation.<br><b>Statement-II is correct and explains Statement-I:</b> When the RBI sells bonds, banks use their cash reserves to buy them. This drains liquidity, restricts banks' ability to lend (lowering credit creation), and curtails money supply, which helps cool down demand-pull inflation.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Central Counterparties (CCPs)",
+    "question": "<b>Which of the following are the primary functions of Central Counterparties (CCPs) in the financial markets?</b><br><br>1. Acting as a buyer to every seller and a seller to every buyer to guarantee trade settlement.<br>2. Formulating the broader macro-prudential regulations for scheduled commercial banks.<br>3. Mitigating counterparty credit risk through the collection of margins from trading members.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Statement 1 is correct:</b> A CCP stands between parties in a trade (Novation), acting as the counterparty to both sides to guarantee the contract.<br><b>Statement 2 is incorrect:</b> Formulating macro-prudential regulations is the mandate of the <b>Reserve Bank of India (RBI)</b>, not a CCP.<br><b>Statement 3 is correct:</b> CCPs eliminate counterparty credit risk (the risk that one party defaults) by demanding upfront collateral (margins) and maintaining a default fund.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Central Counterparties (CCPs)",
+    "question": "<b>Consider the following statements regarding the Clearing Corporation of India Limited (CCIL):</b><br><br>1. It is a recognized Central Counterparty (CCP) under the regulatory jurisdiction of the Reserve Bank of India.<br>2. It was established primarily to manage the settlement of transactions in government securities and foreign exchange.<br>3. As a CCP, it inherently assumes and completely eliminates market price fluctuation risks for foreign portfolio investors.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 2)</b><br><br><b>Statement 1 is correct:</b> CCIL is a designated CCP regulated by the RBI.<br><b>Statement 2 is correct:</b> It provides guaranteed clearing and settlement for G-Secs, forex, and money market instruments.<br><b>Statement 3 is incorrect:</b> A CCP eliminates <b>counterparty risk</b> (default risk), but it does <b>NOT eliminate market risk</b> (the risk of asset prices rising or falling). Investors still bear the market price fluctuation risks. <i>(Examiner Trap: Confusing market risk with default/counterparty risk).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Pralay Missile",
+    "question": "<b>With reference to the indigenously developed 'Pralay' Missile, consider the following statements:</b><br><br>1. It is a long-range intercontinental ballistic missile (ICBM) capable of carrying nuclear payloads.<br>2. It is a quasi-ballistic missile designed to perform mid-air maneuvers, making it highly difficult for anti-missile systems to intercept.<br>3. It utilizes a solid-propellant rocket motor and has an operational range of 150 to 500 kilometers.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Pralay is a <b>short-range tactical</b> surface-to-surface missile (150-500 km), not an ICBM (like Agni-V).<br><b>Statement 2 is correct:</b> Its key feature is its 'quasi-ballistic' nature; unlike traditional ballistic missiles that follow a predictable parabolic arc, Pralay follows a depressed trajectory and can maneuver mid-flight to evade BMDs (Ballistic Missile Defenses).<br><b>Statement 3 is correct:</b> It is powered by a solid propellant and is designed for conventional (non-nuclear) tactical battlefield use.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Pralay Missile",
+    "question": "<b>Consider the following pairs comparing Indian missile systems:</b><br><br><b>Missile : Primary Classification</b><br>1. BrahMos : Supersonic Cruise Missile<br>2. Pralay : Quasi-Ballistic Tactical Missile<br>3. Astra : Surface-to-Surface Anti-Tank Missile<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is correctly matched:</b> BrahMos is a ramjet supersonic cruise missile.<br><b>Pair 2 is correctly matched:</b> Pralay is a solid-fueled tactical quasi-ballistic missile.<br><b>Pair 3 is incorrectly matched:</b> Astra is India's indigenous <b>Beyond Visual Range (BVR) Air-to-Air Missile</b>, not a surface-to-surface anti-tank missile (like the Nag missile).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "MIRV Technology",
+    "question": "<b>Consider the following statements regarding Multiple Independently Targetable Re-entry Vehicle (MIRV) technology:</b><br><br>1. It allows a single ballistic missile to deliver multiple warheads to distinct, independent geographic targets.<br>2. The technology requires all warheads to be released simultaneously to strike a single heavily fortified target.<br>3. India's recent 'Mission Divyastra' marked the first successful flight test of the Agni-V missile integrated with MIRV capability.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Statement 1 is correct:</b> MIRV allows a single missile to carry a payload of several warheads, each capable of being aimed at a different target.<br><b>Statement 2 is incorrect:</b> The warheads are carried on a 'bus' and are released <b>sequentially</b> at different stages of the flight path to hit <b>independent</b> targets, not simultaneously at one target.<br><b>Statement 3 is correct:</b> Mission Divyastra (2024) successfully demonstrated MIRV technology on the Agni-V platform.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "MIRV Technology",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The integration of MIRV technology makes an adversary's Ballistic Missile Defense (BMD) shield highly vulnerable and less effective.<br><b>Statement-II:</b> A MIRVed missile can deploy multiple live warheads mixed with decoys, overwhelming the interceptor capacity of standard defense systems.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> MIRVs are a force multiplier that heavily strain enemy defense networks.<br><b>Statement-II is correct and explains Statement-I:</b> Because a single incoming missile splits into multiple independent warheads and decoys outside the atmosphere, a BMD system would have to track and launch interceptors at dozens of targets simultaneously, easily exhausting its magazines.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Regenerative Medicine",
+    "question": "<b>With reference to 'Regenerative Medicine', consider the following statements:</b><br><br>1. It aims to develop clinical therapies that engineer or regenerate human cells, tissues, or organs to restore normal biological function.<br>2. Induced Pluripotent Stem Cells (iPSCs) are fundamentally unsuited for regenerative medicine because they trigger severe immune rejection in all patients.<br>3. CAR-T cell therapy, which genetically engineers a patient's own immune cells to fight cancer, is an advanced application of regenerative and cellular medicine.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3)</b><br><br><b>Statement 1 is correct:</b> This is the core definition of the field (repairing/replacing damaged tissues).<br><b>Statement 2 is incorrect:</b> iPSCs are highly suitable precisely because they are generated from adult cells (like skin), bypassing embryonic ethical issues, and can be derived from the patient's own body, thereby <b>avoiding</b> immune rejection. <i>(Examiner Trap: Reversing the primary medical advantage of a technology).</i><br><b>Statement 3 is correct:</b> Modifying a patient's own T-cells (CAR-T) is a premier cellular therapy.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Regenerative Medicine",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Autologous stem cell transplants carry a significantly lower risk of Graft-versus-Host Disease (GvHD) compared to allogeneic transplants.<br><b>Statement-II:</b> Autologous transplants utilize stem cells harvested directly from the patient's own body, ensuring perfect histocompatibility.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> GvHD (immune rejection where transplanted cells attack the body) is rare in autologous transplants but a major risk in allogeneic (donor) transplants.<br><b>Statement-II is correct and explains Statement-I:</b> Because autologous cells are the patient's own, the immune system recognizes them as \"self,\" resulting in no biological rejection.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Nebula",
+    "question": "<b>Consider the following statements regarding a 'Nebula' in astronomy:</b><br><br>1. It is a vast cloud of dust, hydrogen, helium, and other ionized gases present in the interstellar medium.<br>2. While some nebulae are remnants of dead or dying stars, others are primordial regions where active star formation occurs.<br>3. Emission nebulae do not emit their own light but shine entirely by reflecting the light of adjacent stars.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> Nebulae are giant interstellar clouds of dust and gas.<br><b>Statement 2 is correct:</b> They can form from supernova remnants (e.g., Crab Nebula) or act as stellar nurseries (e.g., Orion Nebula).<br><b>Statement 3 is incorrect:</b> <b>Emission nebulae</b> emit their own light because the gases within them are ionized by intense radiation from nearby hot stars. It is <b>Reflection nebulae</b> that merely reflect the light of adjacent stars.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Nebula",
+    "question": "<b>Consider the following pairs of astronomical formations and their primary characteristics:</b><br><br>1. Planetary Nebula : An expanding shell of glowing gas ejected by red giant stars late in their lives.<br>2. Dark Nebula : Dense interstellar clouds that obscure visible light from objects positioned behind them.<br>3. Emission Nebula : Clouds of ionized gas emitting light of various colors, often acting as stellar nurseries.<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><b>Pair 1 is correctly matched:</b> A planetary nebula is formed when a dying red giant expels its outer layers (e.g., the Ring Nebula).<br><b>Pair 2 is correctly matched:</b> Dark nebulae (like the Horsehead Nebula) are so dense with dust that they block the light from background stars.<br><b>Pair 3 is correctly matched:</b> Emission nebulae contain ionized gases that glow and are typically sites of active star formation.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
