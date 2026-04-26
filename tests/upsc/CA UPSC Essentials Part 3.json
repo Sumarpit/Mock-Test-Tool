@@ -1,0 +1,137 @@
+[
+  {
+    "section": "International Relations",
+    "topic": "Ethnic Groups in News",
+    "question": "<b>Consider the following statements regarding a prominent ethnic group frequently in the news:</b><br><br>1. They are an indigenous ethnic group native to a mountainous region spanning across multiple countries in Western Asia.<br>2. They are widely considered to be the largest stateless nation in the world today.<br><br><b>The above-mentioned statements refer to which of the following?</b>",
+    "options": [
+      "Kurds",
+      "Baloch",
+      "Uighurs",
+      "Rohingya"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Kurds</b><br><br>As indicated in the source document, the statements describe the Kurds. They are a predominantly Sunni Muslim ethnic group spanning adjacent parts of Turkey, Iran, Iraq, and Syria, making them the world's largest stateless nation.<br><br><i>Examiner Trap:</i> The Baloch are also an ethnic group seeking autonomy across borders (Pakistan, Iran, Afghanistan), but the distinguishing \"largest stateless nation\" identifier specifically belongs to the Kurds.<br><i>PYQ Linkage:</i> UPSC frequently tests matching ethnic communities with their geographical regions (e.g., Madhesis, Rohingya, Kurds).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Borders",
+    "question": "<b>The Durand Line is the historical demarcation of the international border primarily between which of the following countries?</b>",
+    "options": [
+      "India and Afghanistan",
+      "Afghanistan and Iran",
+      "Afghanistan and Pakistan",
+      "Pakistan and Iran"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Afghanistan and Pakistan</b><br><br>According to the source, the Durand Line demarcates the international border between Afghanistan and Pakistan. It was established in 1893.<br><br><i>Examiner Trap:</i> Aspirants often confuse this with the McMahon Line (India-China) or the Radcliffe Line (India-Pakistan). Furthermore, while India technically claims a short border with Afghanistan via Pakistan-Occupied Kashmir (PoK), the Durand Line as a primary, heavily contested geopolitical boundary today lies between Kabul and Islamabad.<br><i>PYQ Linkage:</i> Border agreements and geographical delimitations are staple map-based questions in UPSC Prelims.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Disputed Territories",
+    "question": "<b>The “Scarborough Shoal”, a disputed territory frequently in the news, is primarily contested between:</b>",
+    "options": [
+      "China and the Philippines",
+      "China and Japan",
+      "Japan and South Korea",
+      "Vietnam and Malaysia"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: China and the Philippines</b><br><br>The Scarborough Shoal is a highly contested territory in the South China Sea, primarily between China and the Philippines, leading to frequent maritime standoffs.<br><br><i>Examiner Trap:</i> The South China Sea and East China Sea have multiple overlapping claims. The Senkaku Islands are disputed between China and Japan, while the Paracel Islands involve Vietnam. The Scarborough Shoal specifically involves the Philippines.<br><i>PYQ Linkage:</i> Islands in the South China Sea and East China Sea have been consistently tested in past years.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Places in News",
+    "question": "<b>The place 'Rafah', frequently in the news recently, is best described as:</b>",
+    "options": [
+      "A critical border crossing and city between the Gaza Strip and Egypt.",
+      "A disputed maritime boundary between Israel and Lebanon.",
+      "A strategic port city controlled by Houthi rebels in Yemen.",
+      "A refugee camp situated entirely within the West Bank."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: A critical border crossing and city between the Gaza Strip and Egypt.</b><br><br>Rafah is a city in the southern Gaza Strip and serves as the sole crossing point between Egypt and the Gaza Strip that is not directly controlled by Israel.<br><br><i>Examiner Trap:</i> Placing Rafah in the West Bank or confusing it with northern Israeli borders (like the Blue Line with Lebanon).<br><i>PYQ Linkage:</i> UPSC frequently tests Middle Eastern geography and conflict zones (e.g., Golan Heights, Aleppo, Gaza Strip).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment & Culture",
+    "topic": "International Initiatives",
+    "question": "<b>The ‘Local and Indigenous Knowledge Systems (LINKS) programme’ is a prominent global initiative of which of the following organizations?</b>",
+    "options": [
+      "United Nations Environment Programme (UNEP)",
+      "World Wide Fund for Nature (WWF)",
+      "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+      "Food and Agriculture Organization (FAO)"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: UNESCO</b><br><br>As per the source document, the LINKS programme is an initiative of UNESCO. It promotes local and indigenous knowledge and advocates for its inclusion in global climate and biodiversity governance.<br><br><i>Examiner Trap:</i> Because the programme deals with environmental knowledge and indigenous systems, aspirants naturally gravitate toward environmental bodies like UNEP or IUCN. However, it strictly falls under the cultural and scientific mandate of UNESCO.<br><i>PYQ Linkage:</i> Initiatives of global bodies like UNESCO, UNEP, and FAO are high-yield areas (e.g., Man and the Biosphere Programme, Globally Important Agricultural Heritage Systems).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography & IR",
+    "topic": "Places in News",
+    "question": "<b>The Republic of Somaliland, an unrecognised de facto sovereign state frequently in the news, is located in:</b>",
+    "options": [
+      "The Sahel Region",
+      "The Horn of Africa",
+      "The Gulf of Guinea",
+      "The Central Asian Steppes"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The Horn of Africa</b><br><br>Somaliland is located in the Horn of Africa. It declared autonomy from Somalia but remains internationally unrecognized despite functioning as a de facto state.<br><br><i>Examiner Trap:</i> Confusing the geopolitical hotspots of Africa. The Sahel region (Mali, Niger, Burkina Faso) has seen recent military coups, while the Horn of Africa (Somalia, Djibouti, Ethiopia, Eritrea) deals with piracy, Red Sea access, and breakaway states.<br><i>PYQ Linkage:</i> Horn of Africa countries and regional conflicts have been tested directly in map-based questions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Defence & IR",
+    "topic": "Humanitarian Assistance",
+    "question": "<b>India recently rolled out ‘Operation Sagar Bandhu’, which involved transporting vital assistance via the Indian Navy’s aircraft carrier INS Vikrant and the frontline ship INS Udaigiri to which of the following countries?</b>",
+    "options": [
+      "Mauritius",
+      "Maldives",
+      "Seychelles",
+      "Madagascar"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Mauritius</b><br><br>According to the source, Operation Sagar Bandhu involved the deployment of INS Vikrant and INS Udaigiri to deliver assistance to Mauritius.<br><br><i>Examiner Trap:</i> The Indian Ocean region has seen multiple recent operations (e.g., Vaccine Maitri, Operation SAGAR). Confusing the exact island nation (Maldives vs. Mauritius) is a standard factual trap.<br><i>PYQ Linkage:</i> Operations related to disaster relief and naval deployments in the Indian Ocean Region (IOR) are frequently asked.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Global Governance",
+    "question": "<b>The “snapback” sanctions mechanism, often mentioned in geopolitical discourse, is primarily associated with and imposed by:</b>",
+    "options": [
+      "The United States Treasury Department",
+      "The European Union Commission",
+      "The United Nations",
+      "The World Trade Organization"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: The United Nations</b><br><br>The \"snapback\" sanctions mechanism is a UN procedure (specifically under UNSC Resolution 2231) designed to rapidly restore all UN sanctions against Iran if it violates the Joint Comprehensive Plan of Action (JCPOA).<br><br><i>Examiner Trap:</i> Aspirants might assume the US imposes snapback sanctions unilaterally since the US frequently uses unilateral financial sanctions (like CAATSA) and withdrew from the JCPOA. However, the \"snapback\" framework is explicitly a United Nations mechanism.<br><i>PYQ Linkage:</i> International agreements and the role of the IAEA/UNSC regarding nuclear deals have been tested (e.g., Prelims 2018).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Indian Geography",
+    "question": "<b>The Indira Point, representing the southernmost tip of the Indian territory, is geographically located in which of the following?</b>",
+    "options": [
+      "South Andaman",
+      "Little Andaman",
+      "Great Nicobar",
+      "Car Nicobar"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Great Nicobar</b><br><br>Indira Point is located at the southernmost tip of the Great Nicobar Island in the Andaman and Nicobar archipelago.<br><br><i>Examiner Trap:</i> Knowing it is in the Andaman & Nicobar Islands is insufficient; UPSC tests the exact island. Confusing Little Andaman with Great Nicobar is a classic map-based elimination trap.<br><i>PYQ Linkage:</i> Island groups and their specific geographical markers (like the 10 Degree Channel separating Andaman and Nicobar, or Barren Island's location) are perennial favorites.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
