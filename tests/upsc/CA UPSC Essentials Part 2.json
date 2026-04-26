@@ -1,0 +1,77 @@
+[
+  {
+    "section": "Environment",
+    "topic": "Galaxy Frogs",
+    "question": "<b>Galaxy frogs are one of the rarest and most dazzling amphibians in the world that live exclusively under:</b>",
+    "options": [
+      "The dense canopy of the Amazon Rainforest",
+      "The specific microhabitats of the Western Ghats in India",
+      "The geothermal vents of the active volcanoes in Iceland",
+      "The permafrost regions of the Siberian tundra"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The specific microhabitats of the Western Ghats in India</b><br><br>The Galaxy Frog (<i>Melanobatrachus indicus</i>) is an extremely rare, endangered species of frog endemic to the Western Ghats of India. It is known for its distinct black body dotted with blue-white spots, resembling a starry night.<br><br><i>(Examiner Trap: The exotic name 'Galaxy' might lead candidates to guess exotic locations like the Amazon or extreme environments).</i><br><br><i>*Note: Information not found in uploaded sources. The options and detailed explanation are provided from outside the given sources due to severe text corruption ( characters) in the uploaded document for Question 64. Please independently verify this information.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography & Environment",
+    "topic": "Kugaaruk River Discoloration",
+    "question": "<b>A tributary of the Kugaaruk River in northern Alaska recently turned orange due to:</b>",
+    "options": [
+      "The sudden bloom of toxic red algae triggered by unprecedented ocean warming.",
+      "The thawing of permafrost releasing iron and toxic metals into the waterways.",
+      "An industrial chemical spill from a newly commissioned upstream lithium mine.",
+      "The seasonal mass migration and spawning of sockeye salmon."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The thawing of permafrost releasing iron and toxic metals into the waterways.</b><br><br>As the Arctic rapidly warms, thawing permafrost exposes minerals to oxygen. This causes a chemical 'rusting' effect that turns pristine rivers like the Kugaaruk orange, significantly increasing water acidity and heavy metal toxicity.<br><br><i>(Examiner Trap: Conflating freshwater river discoloration with marine 'red tide' algal blooms or industrial pollution).</i><br><br><i>*Note: Information not found in uploaded sources. The options and detailed explanation are provided from outside the given sources due to severe text corruption ( characters) in the uploaded document for Question 68. Please independently verify this information.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Tokenisation",
+    "question": "<b>With reference to 'tokenisation' in digital payments, consider the following statements:</b><br><br>1. It refers to the replacement of actual card details with a unique alternate code called the 'token'.<br>2. Under RBI guidelines, merchants and payment gateways are strictly prohibited from storing actual customer card data.<br>3. A single token generated for a card can be used universally across all merchant platforms and Point of Sale (PoS) devices.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 2)</b><br><br><b>Statement 1 is correct:</b> Tokenisation replaces sensitive card details (like the 16-digit card number and CVV) with a unique algorithmic token.<br><b>Statement 2 is correct:</b> The RBI's Card-on-File (CoF) tokenisation mandate strictly prohibits merchants, payment aggregators, and acquiring banks from storing actual card data.<br><b>Statement 3 is incorrect:</b> A token is uniquely linked to a specific combination of the card, the token requestor (the specific merchant app), and the device. It <b>cannot</b> be used universally across different merchants.<br><br><i>(Examiner Trap: Assuming a 'token' functions exactly like a universal credit card number).</i><br><br><i>*Note: Information not found in uploaded sources. The options and detailed explanation are provided from outside the given sources due to severe text corruption ( characters) in the uploaded document for Question 96. Please independently verify this information.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Bactrian Camels",
+    "question": "<b>With reference to the Bactrian camels, consider the following statements:</b><br><br>1. They are native to the cold-desert regions of Central Asia and are characterized by having two humps.<br>2. In India, they are exclusively found in the Nubra Valley of Ladakh.<br>3. The entire species is currently categorized as 'Critically Endangered' under the IUCN Red List due to habitat loss.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 2)</b><br><br><b>Statement 1 is correct:</b> Unlike the single-humped Dromedary camel, Bactrian camels have two humps and are well-adapted to the extreme cold of Central Asian deserts.<br><b>Statement 2 is correct:</b> In India, the double-humped Bactrian camel is a prominent feature found only in the Nubra Valley (Ladakh).<br><b>Statement 3 is incorrect:</b> The <i>wild</i> Bactrian camel (Camelus ferus) is Critically Endangered. However, the <i>domesticated</i> Bactrian camel (Camelus bactrianus), which includes the populations found in Ladakh, is widely populated and not listed as critically endangered.<br><br><i>(Examiner Trap: Conflating the conservation status of wild versus domesticated sub-species).</i><br><br><i>*Note: Information not found in uploaded sources. The options and detailed explanation are provided from outside the given sources due to severe text corruption ( characters) in the uploaded document for Question 56. Please independently verify this information.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "System Notice",
+    "topic": "Source Text Corruption",
+    "question": "<b>Information not found in uploaded sources.</b><br><br>The uploaded document 'UPSC-Essentials-April-13-2026.pdf' contains severe text corruption (represented by '' characters) for questions 51 through 200. Can the full quota of 50 questions be extracted directly from this source?",
+    "options": [
+      "Yes, the text is perfectly readable and all 50 questions can be extracted.",
+      "No, the text is heavily corrupted with unrecognized characters, making bulk extraction impossible.",
+      "Yes, the answers are visible, so the questions can be accurately guessed.",
+      "No, the document is completely blank."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: No, the text is heavily corrupted with unrecognized characters, making bulk extraction impossible.</b><br><br><b>Information not found in uploaded sources.</b> Due to severe OCR/text extraction issues in the provided document, the exact statements, options, and explanations for questions 51-100 are missing (replaced entirely by '' symbols). The four questions provided above were manually reconstructed using external knowledge based on the few legible question stems. I cannot hallucinate the remaining 46 questions without violating strict source fidelity. Please upload a clear text document for full extraction.",
+    "marks": 0.0,
+    "negative": 0.0
+  }
+]
