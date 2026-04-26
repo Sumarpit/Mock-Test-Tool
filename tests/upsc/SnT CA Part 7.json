@@ -1,0 +1,332 @@
+[
+  {
+    "section": "Science & Technology",
+    "topic": "DNA Fingerprinting",
+    "question": "<b>Consider the following statements regarding DNA Fingerprinting:</b><br><br>1. It relies on analysing specific variations in DNA that are identical among all members of the same biological family.<br>2. It was recently utilised to successfully identify victims of a major aviation disaster.<br>3. It can only be performed using blood samples and cannot utilise hair or skin cells.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> DNA fingerprinting focuses on specific variations in DNA that differ among individuals, <b>even within the same family</b>. It is not identical among family members (except identical twins). <i>(Examiner Trap: The concept of familial DNA implies similarity, but the specific markers used in fingerprinting are chosen precisely because they differentiate individuals, not aggregate them.)</i><br><b>Statement 2 is correct:</b> As per recent events, DNA profiling was conducted to identify the victims of the Air India crash.<br><b>Statement 3 is incorrect:</b> DNA can be extracted from various biological samples, including hair follicles, skin cells, saliva, and semen, not just blood.<br><br><i>PYQ Linkage: Applications of DNA barcoding and fingerprinting are frequently tested (e.g., Prelims 2022 Q on DNA Barcoding).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "DNA Fingerprinting",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> DNA fingerprinting is highly reliable for identifying individuals in mass casualty events where physical identification is impossible.<br><b>Statement-II:</b> The technique relies on mapping the entire genomic sequence of an individual to match it against a national database.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> DNA fingerprinting/profiling is a standard protocol for disaster victim identification (like the Air India crash).<br><b>Statement-II is incorrect:</b> DNA fingerprinting does <b>not</b> require mapping the <i>entire</i> genomic sequence (Whole Genome Sequencing). It relies on analysing specific short, repetitive variations in DNA (like VNTRs/STRs) that are unique to an individual. <i>(Examiner Trap: Conflating DNA fingerprinting with Whole Genome Sequencing).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity & Governance",
+    "topic": "Drug Patenting in India",
+    "question": "<b>With reference to the drug patenting regime in India, consider the following statements:</b><br><br>1. Under the Indian Patents Act, 1970, pharmaceutical products were completely ineligible for any form of patent until the year 2005.<br>2. Section 3(d) of the Indian Patents Act prohibits the \"evergreening\" of patents by denying patents for minor modifications that do not show significant therapeutic improvement.<br>3. A recent judicial ruling allowed an Indian company to manufacture and export a patented drug, but restricted its domestic sale.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> Until 2005, India did not grant <i>product</i> patents for pharmaceuticals, but it <b>did allow process patents</b>. This allowed Indian generic companies to reverse-engineer drugs using different manufacturing processes. Product patents were introduced in 2005 to comply with TRIPS. <i>(Examiner Trap: The absolute phrasing \"completely ineligible for any form of patent\" ignores the critical distinction between process and product patents).</i><br><b>Statement 2 is correct:</b> Section 3(d) specifically prevents evergreening by ensuring minor structural tweaks without therapeutic enhancement cannot be patented.<br><b>Statement 3 is correct:</b> The Delhi HC allowed Dr. Reddy Labs to manufacture and export the patented drug Semaglutide, but barred domestic sales.<br><br><i>PYQ Linkage: Indian Patent Act nuances, particularly Section 3(d) and Compulsory Licensing, have been tested multiple times (e.g., 2019).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Drug Patenting in India",
+    "question": "<b>In the context of Intellectual Property Rights (IPR) in India's pharmaceutical sector, the term \"Compulsory Licensing\" refers to:</b>",
+    "options": [
+      "The mandatory requirement for a foreign company to partner with an Indian firm to manufacture drugs locally.",
+      "The mechanism allowing governments or authorized third parties to produce patented drugs without the patent holder’s consent to ensure public access.",
+      "The automatic extension of a patent's lifespan if the drug is deemed essential by the World Health Organization.",
+      "The legal doctrine permitting the resale or import of a patented drug once it has been legally sold anywhere in the world."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The mechanism allowing governments or authorized third parties to produce patented drugs without the patent holder’s consent...</b><br><br>Compulsory Licensing allows the government to permit third parties to produce or sell patented drugs without the patent holder’s consent, especially during public health emergencies or when the drug is unaffordable. Option D defines the \"Exhaustion of Patent Rights / Parallel Imports\".<br><br><i>(Examiner Trap: Distractor D is a real IPR concept but matches the wrong term. Distractor A plays on FDI rules.)</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Spot-scanning Proton Arc Therapy (SpArc)",
+    "question": "<b>Consider the following statements regarding Spot-scanning Proton Arc Therapy (SPArc):</b><br><br>1. It is a radiation technique that utilizes X-ray photons to target malignant tumors.<br>2. It minimizes radiation exposure to surrounding healthy tissues compared to traditional therapies because proton beams stop precisely at the tumor site.<br>3. In 'Dynamic SPArc', the beam angles and energy are pre-programmed and delivered rigidly one step at a time.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> SPArc is an advanced form of <b>proton therapy</b>, which uses heavy protons, not X-ray photons (used in traditional radiation). <i>(Examiner Trap: Conflating proton therapy with standard photon/X-ray radiation).</i><br><b>Statement 2 is correct:</b> The core advantage of proton therapy is the \"Bragg Peak\" effect—protons release their energy precisely at the tumor depth and stop, sparing healthy tissue behind it.<br><b>Statement 3 is incorrect:</b> The description given applies to <i>Step-and-shoot SPArc</i>. In <b>Dynamic SPArc</b>, beam angles and energy are calculated in real-time during treatment, providing the highest precision. <i>(Examiner Trap: Swapping definitions of subtypes).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Spot-scanning Proton Arc Therapy (SpArc)",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Spot-scanning Proton Arc Therapy (SPArc) is considered highly advantageous for treating pediatric cancers or tumors located near critical organs like the brain or spine.<br><b>Statement-II:</b> Proton beams deliver a continuous dose of radiation along their entire entry and exit path, ensuring comprehensive irradiation of the affected area.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> SPArc is highly advantageous for critical areas because it minimizes collateral damage to healthy tissues.<br><b>Statement-II is incorrect:</b> Proton beams do <b>not</b> deliver a continuous dose along their entire path. Unlike X-rays (which have an exit dose), protons stop precisely at the tumor site (the Bragg Peak), which is exactly why they spare healthy tissues. <i>(Examiner Trap: Reversing the fundamental physics principle of why the technology is effective).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Kerala’s Rapid Diagnostic Test for Brain-Eating Amoeba",
+    "question": "<b>Recently, Kerala developed a rapid diagnostic test to detect strains of the 'brain-eating amoeba'. Which of the following diseases is caused by this pathogen?</b>",
+    "options": [
+      "Primary Amoebic Meningoencephalitis (PAM)",
+      "Human African Trypanosomiasis",
+      "Lewy Body Dementia",
+      "Japanese Encephalitis"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Primary Amoebic Meningoencephalitis (PAM)</b><br><br>The brain-eating amoeba (typically <i>Naegleria fowleri</i>) causes Primary Amoebic Meningoencephalitis (PAM), a rare but nearly always fatal infection of the brain. The molecular diagnostic test developed by Kerala State Public Health Lab aims to detect different strains of this amoeba to reduce meningoencephalitis mortality.<br><i>(Trypanosomiasis is Sleeping Sickness; Japanese Encephalitis is viral; Lewy Body Dementia is a neurodegenerative disease).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Kerala’s Rapid Diagnostic Test for Brain-Eating Amoeba",
+    "question": "<b>Consider the following statements regarding the pathogen commonly known as the 'brain-eating amoeba':</b><br><br>1. It is a multi-cellular parasite that primarily resides in cold, highly salinated ocean waters.<br>2. The infection typically occurs when contaminated water enters the body through the nose, allowing the pathogen to travel to the brain.<br>3. It can be easily transmitted from an infected person to a healthy person through aerosol droplets.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The amoeba is a <b>single-celled</b> (unicellular) organism that thrives in <b>warm freshwater</b> environments (lakes, hot springs, poorly maintained pools), not cold, salty oceans.<br><b>Statement 2 is correct:</b> Infection occurs when water containing the amoeba goes up the nose; the amoeba then travels up the olfactory nerve to the brain.<br><b>Statement 3 is incorrect:</b> The disease (PAM) is <b>not</b> contagious and cannot spread from person to person via aerosol droplets. <i>(Examiner Trap: Imposing standard viral transmission characteristics on a unique amoebic infection).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Candida Tropicalis",
+    "question": "<b>With reference to <i>Candida tropicalis</i>, recently highlighted in the WHO Fungal Priority Pathogens List, consider the following statements:</b><br><br>1. It is a highly multi-drug-resistant bacterium responsible for hospital-acquired infections.<br>2. It exhibits 'ploidy plasticity', allowing it to shape-shift between a yeast form and a filamentous hyphal form.<br>3. Its ability to transition into a filamentous form is a critical mechanism for its invasion into human tissues.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3)</b><br><br><b>Statement 1 is incorrect:</b> <i>Candida tropicalis</i> is a <b>fungus</b> (yeast), not a bacterium. <i>(Examiner Trap: A standard UPSC biology trap—swapping taxa like fungi/bacteria/virus).</i><br><b>Statement 2 is correct:</b> It demonstrates ploidy plasticity, meaning it can switch its chromosomal makeup and physical shape between yeast and filamentous (hyphal) forms.<br><b>Statement 3 is correct:</b> This shape-shifting ability (hyphal formation) allows the pathogen to efficiently penetrate and invade host tissues.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Candida Tropicalis",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The World Health Organization (WHO) has recognized <i>Candida tropicalis</i> as a priority pathogen requiring the urgent development of new diagnostic tools.<br><b>Statement-II:</b> <i>Candida tropicalis</i> has developed high multi-drug resistance against the current arsenal of antifungal medications.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> <i>C. tropicalis</i> is included in the WHO's 2022 Fungal Priority Pathogens List, which calls for new drugs and diagnostics.<br><b>Statement-II is correct and explains Statement-I:</b> The primary reason it is listed as a priority pathogen is precisely due to its high level of multi-drug resistance, making current treatments ineffective and necessitating urgent R&D.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "HIV Prevention Drug Approved",
+    "question": "<b>In the context of the recent US FDA approval of 'Lenacapavir', consider the following statements regarding HIV Pre-Exposure Prophylaxis (PrEP):</b><br><br>1. PrEP is a highly effective antiretroviral treatment designed to cure individuals who are already living with HIV/AIDS.<br>2. Lenacapavir acts as a long-acting injectable medicine used to prevent the contraction of HIV in high-risk individuals.<br>3. According to the WHO, the dapivirine vaginal ring is also an approved method of delivering PrEP.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> PrEP (Pre-Exposure Prophylaxis) is a <b>preventive</b> medication taken by people who are <b>HIV-negative</b> to prevent getting the virus. It is NOT a cure for those already infected. <i>(Examiner Trap: Confusing preventive prophylaxis with a therapeutic cure).</i><br><b>Statement 2 is correct:</b> Lenacapavir is a newly FDA-approved long-acting injectable antiretroviral used specifically for HIV prevention.<br><b>Statement 3 is correct:</b> WHO recommends multiple PrEP delivery methods, including oral pills, the dapivirine vaginal ring, and long-acting injectables like cabotegravir.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "HIV Prevention Drug Approved",
+    "question": "<b>Consider the following pairs of medical interventions and their primary target disease:</b><br><br><b>Intervention : Target Disease</b><br>1. Lenacapavir : Human Immunodeficiency Virus (HIV)<br>2. NexCAR19 : B-cell Lymphoma and Leukaemia<br>3. AdFalciVax : Dengue Fever<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is correctly matched:</b> Lenacapavir is a PrEP drug for HIV prevention.<br><b>Pair 2 is correctly matched:</b> NexCAR19 is India's first indigenously developed CAR-T cell therapy, targeting B-cell cancers (leukaemia and lymphoma).<br><b>Pair 3 is incorrectly matched:</b> AdFalciVax is an indigenous vaccine candidate targeting <b>Malaria</b> (specifically <i>Plasmodium falciparum</i>), not Dengue. The indigenous Dengue vaccine candidate is <i>DengiAll</i>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Japonica Rice",
+    "question": "<b>With reference to the recent agricultural biotechnology development involving 'Japonica Rice', consider the following statements:</b><br><br>1. Japonica rice is naturally adapted to be cultivated in tropical, high-temperature regions near the equator.<br>2. Researchers in India utilised CRISPR-Cas9 technology to improve phosphate uptake and transport in the Japonica variety.<br>3. In the CRISPR-Cas9 system, the 'Cas9' acts as a guide RNA that locates the target DNA sequence, while 'CRISPR' acts as the molecular scissors.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> Japonica rice is typically grown in <b>cooler</b> regions (e.g., Japan, Korea, northern China), whereas <i>Indica</i> rice is adapted to tropical, warmer regions. <i>(Examiner Trap: Swapping the climatic adaptations of the two primary rice subspecies).</i><br><b>Statement 2 is correct:</b> Researchers at NIPGR (Delhi) successfully used CRISPR-Cas9 to enhance phosphate uptake in Japonica rice.<br><b>Statement 3 is incorrect:</b> The roles are reversed. <b>Cas9</b> is the enzyme (molecular scissors) that cuts the DNA, while a synthesized piece of RNA (<b>guide RNA</b>) locates the target sequence. <i>(Examiner Trap: Reversing the functions of the two components of the CRISPR-Cas9 system, a classic UPSC PYQ pattern).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Japonica Rice",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> In the CRISPR-Cas9 gene-editing technique, scientists can insert or delete genes by leveraging the cell's natural DNA repair mechanism.<br><b>Statement-II:</b> The Cas9 protein functions as a molecular biosensor that detects the presence of viral pathogens in the host cell.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> Once the DNA is cut by the Cas9 enzyme, the cell’s natural repair process kicks in, which scientists manipulate to insert, delete, or modify specific traits.<br><b>Statement-II is incorrect:</b> Cas9 is <b>not</b> a biosensor for viral pathogens; it is a molecular endonuclease enzyme (molecular scissors) used to cut targeted DNA strands. <i>(Examiner Trap: This specific distractor was literally used in UPSC Prelims 2019 Q17 regarding Cas9).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Microcrystalline Cellulose (MCC)",
+    "question": "<b>Consider the following statements regarding Microcrystalline Cellulose (MCC):</b><br><br>1. It is a synthetic polymer derived entirely from petrochemicals and crude oil refining.<br>2. It is extensively utilised in the pharmaceutical industry as an inactive excipient or bulking agent in tablet manufacturing.<br>3. It poses severe industrial hazards as it forms a highly combustible fine powder that can trigger explosions.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3)</b><br><br><b>Statement 1 is incorrect:</b> MCC is a naturally derived substance; it is a refined <b>wood pulp</b> (plant cellulose), not a synthetic petrochemical polymer. <i>(Examiner Trap: Mischaracterizing the biological/natural origin of an industrial chemical).</i><br><b>Statement 2 is correct:</b> Its primary commercial use is in the pharmaceutical industry as an inactive excipient, binder, and bulking agent for vitamin supplements and medicine tablets.<br><b>Statement 3 is correct:</b> A recent lethal accident at Sigachi Industries highlighted the danger of MCC, as it is a highly combustible fine powder capable of causing massive dust explosions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Microcrystalline Cellulose (MCC)",
+    "question": "<b>Consider the following pairs of industrial materials/chemicals and their primary source/nature:</b><br><br><b>Material : Source/Nature</b><br>1. Microcrystalline Cellulose : Refined wood pulp<br>2. Bisphenol A (BPA) : Component of polycarbonate plastics<br>3. Ammonium Nitrate : Biodegradable organic fertilizer<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is correctly matched:</b> MCC is derived from refined wood pulp.<br><b>Pair 2 is correctly matched:</b> BPA is a structural component heavily used in manufacturing polycarbonate plastics and epoxy resins.<br><b>Pair 3 is incorrectly matched:</b> Ammonium Nitrate ($NH_4NO_3$) is a synthetic, highly explosive inorganic chemical compound. While used as a fertilizer, classifying it merely as a \"biodegradable organic\" material ignores its volatile, explosive nature (linked to the Delhi explosion/Beirut blast).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Endocrine-Disrupting Chemicals (EDCs)",
+    "question": "<b>With reference to Endocrine-Disrupting Chemicals (EDCs), consider the following statements:</b><br><br>1. They primarily disrupt the human body's nervous system by degrading the myelin sheath of neurons.<br>2. They can mimic or block the body's natural hormones, leading to reproductive issues and hormone-related cancers.<br>3. Common sources of EDCs include everyday consumer products like plastic containers, cosmetics, and flame retardants.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> EDCs interfere with the <b>endocrine (hormonal) system</b>, not primarily the nervous system's myelin sheath (which is associated with diseases like Multiple Sclerosis).<br><b>Statement 2 is correct:</b> Their mechanism of action involves mimicking, blocking, or altering the natural levels of hormones, causing conditions like PCOS, early puberty, and thyroid dysfunction.<br><b>Statement 3 is correct:</b> They are pervasive in plastics (BPA, phthalates), cosmetics (parabens), pesticides, and toys.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Endocrine-Disrupting Chemicals (EDCs)",
+    "question": "<b>Consider the following pairs of common Endocrine-Disrupting Chemicals (EDCs) and their primary consumer product sources:</b><br><br><b>Chemical : Common Source</b><br>1. Bisphenol A (BPA) : Plastic food containers and water bottles<br>2. Parabens : Cosmetics and personal care products<br>3. Phthalates : Agricultural pesticides and herbicides<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is correctly matched:</b> BPA is famously used in polycarbonate plastics and epoxy resin linings of food/beverage cans.<br><b>Pair 2 is correctly matched:</b> Parabens are widely used as preservatives in cosmetics and personal care products.<br><b>Pair 3 is incorrectly matched:</b> Phthalates are primarily used as <b>plasticizers</b> to make plastics (like PVC) more durable and flexible (found in toys, vinyl flooring, packaging), not primarily as agricultural pesticides.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "DengiAll",
+    "question": "<b>Consider the following statements regarding the 'DengiAll' vaccine candidate recently seen in the news:</b><br><br>1. It is India's first indigenously developed tetravalent dengue vaccine.<br>2. The term 'tetravalent' indicates that the vaccine requires a schedule of four distinct doses over a year to be effective.<br>3. The dengue virus is transmitted primarily by the Anopheles mosquito.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> DengiAll is India's first indigenous tetravalent dengue vaccine, currently in Phase III clinical trials.<br><b>Statement 2 is incorrect:</b> The term \"tetravalent\" refers to the vaccine's ability to protect against <b>all four serotypes</b> (strains) of the dengue virus simultaneously. DengiAll is actually designed as a <b>single-dose</b> vaccine. <i>(Examiner Trap: Exploiting the prefix \"tetra-\" to confuse the number of pathogen strains with the number of doses).</i><br><b>Statement 3 is incorrect:</b> Dengue is transmitted primarily by the <b>Aedes aegypti</b> mosquito, not Anopheles (which transmits Malaria).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "DengiAll",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The development of a 'tetravalent' vaccine is considered crucial for effectively combating the dengue fever epidemic.<br><b>Statement-II:</b> Infection with one serotype of the dengue virus provides lifelong immunity against all other serotypes, eliminating the need for booster shots.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> A tetravalent vaccine (like DengiAll) is necessary because there are four distinct serotypes of the virus circulating.<br><b>Statement-II is incorrect:</b> Infection with one dengue serotype provides lifelong immunity <b>only to that specific serotype</b>. Subsequent infection by a different serotype actually increases the risk of severe, life-threatening complications (Antibody-dependent enhancement). This is why a vaccine must be tetravalent to protect against all four simultaneously.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Terbium (Tb)",
+    "question": "<b>With reference to 'Terbium (Tb)', a chemical element recently highlighted in indigenous sensor research, consider the following statements:</b><br><br>1. It is a highly radioactive synthetic element used exclusively in nuclear fission reactors.<br>2. It is a Rare Earth Metal crucial for producing green phosphors used in flat-screen TVs and LEDs.<br>3. It is extremely scarce and its global supply chain is heavily monopolised by a few countries.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3)</b><br><br><b>Statement 1 is incorrect:</b> Terbium is a naturally occurring <b>Rare Earth Element (Lanthanide)</b>, not a synthetic radioactive actinide used for nuclear fission. <i>(Examiner Trap: Overstating the hazardous/radioactive nature of obscure-sounding elements).</i><br><b>Statement 2 is correct:</b> Terbium is heavily used in solid-state devices, flat screens, and LEDs because it forms essential green phosphors.<br><b>Statement 3 is correct:</b> Like many rare earths, it is extremely scarce globally, heavily controlled by a few nations (like China), and difficult to extract from electronic waste.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Terbium (Tb)",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The recycling and extraction of Terbium from discarded electronic waste (e-waste) is exceptionally difficult.<br><b>Statement-II:</b> Terbium belongs to the group of Rare Earth Elements, which exhibit very similar physical and chemical properties, making their separation highly complex.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> The scientific community faces major hurdles in recovering Terbium from e-waste due to its low concentration and extraction difficulty (which is why IISc developed a specific glowing paper sensor just to detect it).<br><b>Statement-II is correct and explains Statement-I:</b> Terbium is a lanthanide. The entire Lanthanide series (Rare Earth Elements) have nearly identical atomic radii and chemical reactivity. Because they behave so similarly, chemically separating them from one another during the recycling process is notoriously difficult and energy-intensive.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
