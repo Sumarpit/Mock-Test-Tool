@@ -109,6 +109,14 @@
 ,
 {"name": "1773-1947", "filename": "1773-1947.json", "path": "tests/upsc/1773-1947.json"}
 ,
+{"name": "CA UPSC Essentials Part 1", "filename": "CA UPSC Essentials Part 1.json", "path": "tests/upsc/CA UPSC Essentials Part 1.json"}
+,
+{"name": "CA UPSC Essentials Part 2", "filename": "CA UPSC Essentials Part 2.json", "path": "tests/upsc/CA UPSC Essentials Part 2.json"}
+,
+{"name": "CA UPSC Essentials Part 3", "filename": "CA UPSC Essentials Part 3.json", "path": "tests/upsc/CA UPSC Essentials Part 3.json"}
+,
+{"name": "CA UPSC Essentials Part 4", "filename": "CA UPSC Essentials Part 4.json", "path": "tests/upsc/CA UPSC Essentials Part 4.json"}
+,
 {"name": "Current Affairs Polity Constitution", "filename": "Current Affairs Polity Constitution.json", "path": "tests/upsc/Current Affairs Polity Constitution.json"}
 ,
 {"name": "Env CA Part 2", "filename": "Env CA Part 2.json", "path": "tests/upsc/Env CA Part 2.json"}
@@ -250,6 +258,8 @@
 {"name": "SnT CA Part 6", "filename": "SnT CA Part 6.json", "path": "tests/upsc/SnT CA Part 6.json"}
 ,
 {"name": "SnT CA Part 7", "filename": "SnT CA Part 7.json", "path": "tests/upsc/SnT CA Part 7.json"}
+,
+{"name": "SnT CA Part 8", "filename": "SnT CA Part 8.json", "path": "tests/upsc/SnT CA Part 8.json"}
 ,
 {"name": "center state relations 20q", "filename": "center state relations 20q.json", "path": "tests/upsc/center state relations 20q.json"}
 ,

@@ -1,0 +1,365 @@
+[
+  {
+    "section": "Science & Technology",
+    "topic": "BHARAT Initiative",
+    "question": "<b>With reference to the BHARAT (Biomarkers of Healthy Aging, Resilience, Adversity, and Transitions) Initiative, consider the following statements:</b><br><br>1. It is a flagship program launched by the Ministry of Health and Family Welfare to provide free geriatric care in rural India.<br>2. It aims to establish a reference baseline for healthy aging in the Indian population, challenging Western medical benchmarks.<br>3. The initiative utilizes Artificial Intelligence and Machine Learning to detect subtle biological signals indicating early health risks.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3)</b><br><br><b>Statement 1 is incorrect:</b> The BHARAT Initiative is a large-scale research project launched by the <b>Indian Institute of Science (IISc), Bengaluru</b>, not a healthcare delivery scheme by the Ministry of Health.<br><b>Statement 2 is correct:</b> It seeks to map physiological, molecular, and environmental indicators of aging in Indians, challenging Western benchmarks (like Vitamin B12 or cholesterol levels) that often misclassify Indian health profiles.<br><b>Statement 3 is correct:</b> AI and ML are integral to the project for integrating complex datasets and predicting the effectiveness of interventions.<br><br><b>Examiner Trap:</b> Attributing a premier scientific institute's deep-tech research project to a broad government welfare ministry.<br><b>PYQ Linkage:</b> Identifying the nodal agency or originating institution of major scientific initiatives is a frequent UPSC pattern (e.g., questions on INCOIS, CSIR).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "BHARAT Initiative",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Under the BHARAT Initiative, scientists aim to rely strictly on observable socioeconomic factors rather than biological markers to define the aging process.<br><b>Statement-II:</b> Biomarkers are measurable physical, chemical, or biological characteristics that indicate the state of health or disease in the body.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect:</b> The BHARAT Initiative specifically focuses on mapping <b>physiological, molecular (genomic, proteomic), and environmental biomarkers</b> to define healthy aging, rather than strictly relying on socioeconomic factors.<br><b>Statement-II is correct:</b> According to the WHO, a biomarker is any measurement reflecting an interaction between a biological system and a potential hazard, serving as a crucial tool for diagnosing diseases and developing new drugs.<br><br><b>Examiner Trap:</b> Creating a false dichotomy between biological markers and socioeconomic status to test the fundamental definition of the initiative.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture & Technology",
+    "topic": "Agricultural Monitoring and Event Detection (AMED) API",
+    "question": "<b>Consider the following statements regarding the Agricultural Monitoring and Event Detection (AMED) API:</b><br><br>1. It is a closed-source, proprietary platform developed exclusively for the Ministry of Agriculture to monitor national crop yields.<br>2. It leverages Artificial Intelligence to detect crop types, field sizes, and major agricultural events like sowing and harvesting in near real-time.<br>3. The agricultural data provided by the API is updated annually to align perfectly with the Kharif and Rabi cropping seasons.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> AMED API is an <b>open-source</b> application programming interface developed by <b>Google</b> (built on its ALU Foundation), not a closed-source government platform.<br><b>Statement 2 is correct:</b> It uses AI for field-level crop data, identifying crop types, sizes, and monitoring events like sowing/harvesting.<br><b>Statement 3 is incorrect:</b> The data is highly dynamic and is refreshed <b>every two weeks</b>, not annually, ensuring accurate and up-to-date insights.<br><br><b>Examiner Trap:</b> Mixing private tech giants' open-source tools with government ministries, and exaggerating the data refresh timeline (annually vs bi-weekly).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture & Technology",
+    "topic": "Agricultural Monitoring and Event Detection (AMED) API",
+    "question": "<b>A recently launched technological tool relies on advanced Artificial Intelligence to detect crop types, field sizes, and sowing events while providing historical data up to three years. This tool is built upon the Agricultural Landscape Understanding (ALU) foundation to strengthen India's agricultural ecosystem.</b><br><br><b>Which of the following is best described in the passage given above?</b>",
+    "options": [
+      "Bhuvan-Agri Portal",
+      "Kisan Suvidha App",
+      "AMED API",
+      "AGRISNET"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: AMED API</b><br><br>The passage accurately describes Google's recently launched AMED (Agricultural Monitoring and Event Detection) API. It expands on the ALU (Agricultural Landscape Understanding) API to offer field-level crop data and near real-time monitoring tools.<br><br><b>Examiner Trap:</b> Using similar-sounding government agricultural portals (Bhuvan-Agri, AGRISNET) to distract from a private tech initiative.<br><b>PYQ Linkage:</b> Identifying specific digital platforms and their unique features from paragraph descriptions (e.g., questions on SWAYAM, Vidyali Yojana).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Cysteine",
+    "question": "<b>With reference to 'Cysteine', an amino acid recently in the news for its role in metabolism, consider the following statements:</b><br><br>1. It is an essential amino acid that the human body cannot synthesize and must strictly be obtained through diet.<br>2. It is a sulfur-containing amino acid that plays a vital role in forming glutathione, a major antioxidant in the body.<br>3. Recent studies have shown that a deficiency or removal of cysteine from the diet leads to accelerated and uncontrollable weight gain.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2)</b><br><br><b>Statement 1 is incorrect:</b> Cysteine is a <b>non-essential</b> amino acid, meaning the body can produce it even if it is not obtained directly from food.<br><b>Statement 2 is correct:</b> It contains sulfur, is abundant in beta-keratin, and is crucial for producing glutathione (a major antioxidant) and taurine.<br><b>Statement 3 is incorrect:</b> Researchers found that removing cysteine from the diet of mice led to a rapid <b>30% loss</b> in body weight within a week, not weight gain.<br><br><b>Examiner Trap:</b> Swapping \"essential\" with \"non-essential\" and reversing the physiological outcome of its deficiency (weight loss vs weight gain).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Cysteine",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Cysteine plays a critical role in cellular detoxification and protecting human cells from oxidative damage.<br><b>Statement-II:</b> Cysteine is a fundamental building block in the synthesis of glutathione, which acts as one of the body's primary antioxidants.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> Cysteine aids in removing harmful substances and supports immune health through antioxidant defense.<br><b>Statement-II is correct and explains Statement-I:</b> The primary mechanism by which cysteine provides this oxidative protection and detoxification is through its role as a necessary precursor to glutathione, the body's master antioxidant.<br><br><b>PYQ Linkage:</b> Analyzing the biochemical roles of specific nutrients or compounds (e.g., trans fats, vitamins, antioxidants) in the human body.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Coartem Baby",
+    "question": "<b>Consider the following statements regarding Malaria and its recently developed treatments:</b><br><br>1. Coartem Baby is the world's first approved malaria treatment specifically formulated for infants weighing under 4.5 kg.<br>2. The Coartem Baby treatment was developed indigenously by the Indian Council of Medical Research (ICMR).<br>3. AdFalciVax, a new Indian malaria vaccine candidate, specifically targets Plasmodium vivax, the deadliest strain of the malaria parasite.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> Coartem Baby (Riamet Baby) is the first approved treatment for infants under 4.5 kg and easily dissolves in breast milk.<br><b>Statement 2 is incorrect:</b> It was approved by <b>Swiss authorities</b> and developed by <b>Novartis</b> in collaboration with the Medicines for Malaria Venture (MMV), not the ICMR.<br><b>Statement 3 is incorrect:</b> AdFalciVax specifically targets <b>Plasmodium falciparum</b> (the deadliest strain globally). While <i>P. vivax</i> is more common in India, the vaccine is <i>not</i> effective against it.<br><br><b>Examiner Trap:</b> Mixing domestic indigenous achievements (AdFalciVax) with international ones (Coartem Baby), and swapping the malaria strains (falciparum vs vivax).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Coartem Baby",
+    "question": "<b>Consider the following pairs regarding Malaria interventions and pathogens:</b><br><br><b>Term : Associated Feature</b><br>1. Plasmodium falciparum : The deadliest species of the malaria-causing parasite globally.<br>2. AdFalciVax : Produced using safe food-grade bacteria Lactococcus lactis.<br>3. Coartem Baby : Formulated to dissolve easily in breast milk for newborn administration.<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><b>Pair 1 is correctly matched:</b> <i>Plasmodium falciparum</i> is the deadliest malaria parasite, responsible for the vast majority of global malaria deaths.<br><b>Pair 2 is correctly matched:</b> AdFalciVax is India's chimeric recombinant vaccine candidate produced using <i>Lactococcus lactis</i>, a safe dairy fermentation bacterium.<br><b>Pair 3 is correctly matched:</b> Coartem Baby is specifically designed to dissolve easily, even in breast milk, making it safe for infants under 4.5 kg.<br><br><b>PYQ Linkage:</b> Matching diseases/vaccines with their specific characteristics or causative agents.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Chronic Venous Insufficiency (CVI)",
+    "question": "<b>With reference to Chronic Venous Insufficiency (CVI), consider the following statements:</b><br><br>1. It is a cardiovascular condition where the arteries fail to efficiently pump oxygenated blood from the heart to the lower extremities.<br>2. It occurs when the one-way valves inside the vessels become weak or damaged, causing blood to pool in the lower legs.<br>3. Deep Vein Thrombosis (DVT), a condition involving blood clots in deep veins, is a known risk factor for developing CVI.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3)</b><br><br><b>Statement 1 is incorrect:</b> CVI is a condition affecting the <b>veins</b> (which return deoxygenated blood <i>to</i> the heart), not the <b>arteries</b> (which pump oxygenated blood <i>away</i> from the heart).<br><b>Statement 2 is correct:</b> The core pathology of CVI is the weakening of one-way valves in the leg veins, causing blood to pool.<br><b>Statement 3 is correct:</b> DVT damages these valves, making it a primary risk factor for developing CVI, along with obesity, pregnancy, and prolonged standing.<br><br><b>Examiner Trap:</b> Exploiting basic human anatomy (arteries vs. veins) to create a highly plausible-sounding but fundamentally flawed statement.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Chronic Venous Insufficiency (CVI)",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Patients suffering from Chronic Venous Insufficiency (CVI) are strongly advised against engaging in physical exercises like walking or cycling.<br><b>Statement-II:</b> In CVI, strenuous physical movement exacerbates the pooling of blood in the lower legs and further damages the weakened venous valves.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct",
+      "Both Statement-I and Statement-II are incorrect"
+    ],
+    "answer": 4,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are incorrect</b><br><br><b>Statement-I is incorrect:</b> First-line care for CVI actively <b>encourages</b> regular exercise, such as walking or cycling.<br><b>Statement-II is incorrect:</b> Strenuous physical movement like walking does not exacerbate the condition; rather, the contraction of calf muscles acts as a \"second heart,\" helping to pump the pooled blood upward against gravity and improving circulation.<br><br><b>Examiner Trap:</b> Reverse logic. Assuming that because a condition causes swelling and fatigue in the legs, exercise must be harmful.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Health",
+    "topic": "WHO Launches “3 by 35” Initiative",
+    "question": "<b>With reference to the \"3 by 35\" initiative recently launched by the World Health Organization (WHO), consider the following statements:</b><br><br>1. It is a global campaign aimed at eradicating three major communicable diseases—Tuberculosis, Malaria, and HIV—by the year 2035.<br>2. The initiative advocates for the imposition of health taxes to increase the prices of targeted unhealthy consumer products by at least 50 percent.<br>3. The revenue generated from these health taxes is exclusively mandated to fund the global administrative operations of the WHO.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The \"3 by 35\" initiative targets three <b>unhealthy products</b> (tobacco, alcohol, and sugary drinks), not communicable diseases. Its goal is to combat non-communicable diseases (NCDs) like obesity and diabetes.<br><b>Statement 2 is correct:</b> The core strategy is to increase the prices of these three products by at least 50% through health taxes by 2035.<br><b>Statement 3 is incorrect:</b> The revenue is meant to support <b>sustainable health financing for individual countries</b> and fund public health initiatives, not to fund the WHO's own administrative operations.<br><br><b>Examiner Trap:</b> Using the number \"3\" to trigger associations with the \"Big 3\" infectious diseases (HIV, TB, Malaria), a common global health trope.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Health",
+    "topic": "WHO Launches “3 by 35” Initiative",
+    "question": "<b>Which one of the following best describes the primary objective of the \"3 by 35\" initiative recently launched by the World Health Organization (WHO)?</b>",
+    "options": [
+      "To reduce global maternal and infant mortality rates to less than 3 per 100,000 live births by the year 2035.",
+      "To increase the prices of tobacco, alcohol, and sugary drinks through health taxes to curb non-communicable diseases.",
+      "To completely phase out the industrial use of three highly toxic trans-fats from the global food supply chain.",
+      "To eliminate three neglected tropical diseases—Leprosy, Trachoma, and Yaws—across all Southeast Asian countries."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: To increase the prices of tobacco, alcohol, and sugary drinks through health taxes to curb non-communicable diseases.</b><br><br>The WHO's \"3 by 35\" initiative specifically targets tobacco, alcohol, and sugary drinks. It advocates increasing their prices by at least 50% through health taxation by 2035. This is deemed a highly cost-effective policy tool for reducing the prevalence of non-communicable diseases (NCDs) like heart disease and diabetes.<br><br><b>PYQ Linkage:</b> Identifying the core aim of newly launched global environmental or health initiatives (e.g., Momentum for Change, Agenda 21).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment & Science",
+    "topic": "N-Nitrosodimethylamine (NDMA)",
+    "question": "<b>Consider the following statements regarding N-Nitrosodimethylamine (NDMA):</b><br><br>1. It is a highly stable inorganic compound that accumulates in the stratosphere and contributes significantly to ozone depletion.<br>2. It is classified as a probable human carcinogen and has recently been detected as an impurity in commonly used antacid medications.<br>3. NDMA exhibits high persistence in the environment because it is completely resistant to degradation by sunlight.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2)</b><br><br><b>Statement 1 is incorrect:</b> NDMA is a <b>volatile organic compound (VOC)</b>, not an inorganic ozone-depleting substance. It is a byproduct of industrial processes, water chlorination, and chemical reactions.<br><b>Statement 2 is correct:</b> The DCGI recently instructed regulators to monitor its presence in Ranitidine (an antacid). It is a probable human carcinogen.<br><b>Statement 3 is incorrect:</b> NDMA actually <b>breaks down when exposed to sunlight</b>, which reduces its persistence in the natural environment.<br><br><b>Examiner Trap:</b> Grouping a toxic medical impurity with classic environmental pollutants (like CFCs) and reversing its degradation properties.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment & Science",
+    "topic": "N-Nitrosodimethylamine (NDMA)",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Human exposure to N-Nitrosodimethylamine (NDMA) is strictly limited to the consumption of synthetic pharmaceutical drugs like ranitidine.<br><b>Statement-II:</b> NDMA is purely an artificial byproduct of modern pharmaceutical manufacturing and cannot form naturally in the environment or the human stomach.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct",
+      "Both Statement-I and Statement-II are incorrect"
+    ],
+    "answer": 4,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are incorrect</b><br><br><b>Statement-I is incorrect:</b> Exposure to NDMA is not strictly limited to drugs. It is found in small amounts in cured meats, beer, fish, cheese, vegetables, and contaminated drinking water.<br><b>Statement-II is incorrect:</b> NDMA can form naturally in the environment and may also develop inside the human stomach when certain food or water chemicals (secondary amines and nitrite ions) react in acidic conditions.<br><br><b>Examiner Trap:</b> Using extreme words like \"strictly limited\" and \"purely artificial\" to restrict a ubiquitous chemical byproduct to a single recent news event (the ranitidine recall).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Phenome India National Biobank",
+    "question": "<b>With reference to the 'Phenome India National Biobank', consider the following statements:</b><br><br>1. It is an initiative under the Indian Council of Medical Research (ICMR) exclusively designed to map the genetic diversity of isolated tribal populations.<br>2. A \"phenome\" represents the complete set of observable characteristics in a living organism, shaped by both its genetic makeup and environmental influences.<br>3. The project aims to collect longitudinal genomic, lifestyle, and clinical data to support early disease diagnosis and AI-based targeted therapies.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> It is launched by the <b>Council of Scientific and Industrial Research (CSIR)</b> under the PI-CheCK cohort, not ICMR. Furthermore, it aims to collect data from 10,000 participants across India to track general health patterns and chronic diseases, not exclusively isolated tribal populations.<br><b>Statement 2 is correct:</b> A phenotype/phenome includes visible traits (appearance, development) shaped by the genotype and the environment.<br><b>Statement 3 is correct:</b> By generating high-resolution biological and lifestyle data, the biobank will enable AI-based diagnostics and gene-guided treatments for complex diseases like diabetes and cancer.<br><br><b>Examiner Trap:</b> Confusing the nodal agency (CSIR vs ICMR) and artificially narrowing the scope of a nationwide health cohort.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Phenome India National Biobank",
+    "question": "<b>Which one of the following best describes the primary objective of the \"Phenome India–CSIR Health Cohort Knowledgebase (PI-CheCK)\"?</b>",
+    "options": [
+      "To eradicate vector-borne diseases like malaria and dengue by genetically modifying mosquito populations across India.",
+      "To conduct a long-term, data-rich study tracking the health patterns, genomic data, and risk factors of individuals over several years.",
+      "To establish a nationwide registry exclusively for monitoring the spread and mutation of the SARS-CoV-2 virus.",
+      "To digitally map the underground medicinal plant resources and traditional ayurvedic knowledge of the Himalayan region."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: To conduct a long-term, data-rich study tracking the health patterns, genomic data, and risk factors of individuals over several years.</b><br><br>The Phenome India Project (PI-CheCK) launched by CSIR in 2023 is a longitudinal study designed to collect comprehensive genomic, lifestyle, and clinical data from participants across India. It aims to build a database to support research on complex diseases, early diagnosis, and targeted therapies.<br><br><b>PYQ Linkage:</b> Identifying the core mandate of newly established national scientific registries or biobanks (e.g., questions on DNA technology, genome mapping).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Lyme Disease",
+    "question": "<b>Consider the following statements regarding Lyme disease:</b><br><br>1. It is a severe viral infection transmitted to humans through the bite of infected Aedes mosquitoes.<br>2. The disease has been completely eradicated in Asia and is now strictly endemic only to the dense forests of North America.<br>3. It is caused by the bacterium Borrelia burgdorferi.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>Statement 1 is incorrect:</b> Lyme disease is a <b>bacterial</b> infection, not viral. It is transmitted by <b>black-legged ticks (deer ticks)</b>, not Aedes mosquitoes.<br><b>Statement 2 is incorrect:</b> It is not eradicated in Asia. The tick species capable of transmitting the disease are found in India, mainly in the Himalayan region where forested and grassy habitats are common.<br><b>Statement 3 is correct:</b> The causative agent is the bacterium <i>Borrelia burgdorferi</i>.<br><br><b>Examiner Trap:</b> The classic UPSC trap of swapping the pathogen type (viral vs bacterial) and the vector (mosquito vs tick).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Lyme Disease",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Cases of Lyme disease are highly unlikely to be reported from the high-altitude regions of India.<br><b>Statement-II:</b> The black-legged ticks that act as vectors for the Borrelia burgdorferi bacterium cannot survive in the forested and grassy habitats of the Himalayas.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct",
+      "Both Statement-I and Statement-II are incorrect"
+    ],
+    "answer": 4,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are incorrect</b><br><br><b>Statement-I is incorrect:</b> Lyme disease cases can occur in India. The vectors (ticks) are present in the country, particularly in specific ecological niches.<br><b>Statement-II is incorrect:</b> The black-legged ticks capable of transmitting Lyme disease are actually found in India, <b>mainly in the Himalayan region</b> where forested and grassy habitats provide a suitable environment for them.<br><br><b>Examiner Trap:</b> Using geographical assumptions (high-altitude cold vs tropical disease) to mislead candidates about the habitat of disease vectors.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Liver Cirrhosis",
+    "question": "<b>With reference to Liver Cirrhosis and recent therapeutic research, consider the following statements:</b><br><br>1. Liver cirrhosis is a fully reversible condition where early-stage scarring can be cured permanently using modern immunosuppressive drugs.<br>2. A recent Indian therapeutic approach utilizes Vascular Endothelial Growth Factor-C (VEGF-C) delivered via nanocarriers to improve lymphatic drainage in the liver.<br>3. Advanced stages of the disease often lead to ascites, which is the accumulation of fluid in the abdominal cavity due to portal hypertension.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3)</b><br><br><b>Statement 1 is incorrect:</b> The scarring caused by liver cirrhosis is <b>irreversible</b>. While disease progression can be slowed through lifestyle changes and medication, a liver transplant remains the only definitive cure.<br><b>Statement 2 is correct:</b> Scientists from ILBS and NIPER have identified a new therapeutic approach using VEGF-C through nanocarriers to improve lymphatic drainage and reduce portal pressure.<br><b>Statement 3 is correct:</b> Scarring distorts blood vessels, leading to portal hypertension, which causes severe complications like ascites (fluid buildup).<br><br><b>Examiner Trap:</b> Falsely asserting that severe late-stage tissue scarring (cirrhosis) is easily reversible with drugs.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Liver Cirrhosis",
+    "question": "<b>Consider the following pairs of medical terms associated with liver diseases and their descriptions:</b><br><br><b>Term : Description</b><br>1. Ascites : Accumulation of fluid in the abdominal cavity due to poor lymph drainage.<br>2. VEGF-C : A therapeutic agent used in nanocarriers to improve lymphatic drainage.<br>3. NASH : An autoimmune disorder causing the rapid enlargement of the liver.<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Pairs 1 and 2)</b><br><br><b>Pair 1 is correctly matched:</b> Ascites is the buildup of fluid in the abdomen, a common complication of liver cirrhosis and portal hypertension.<br><b>Pair 2 is correctly matched:</b> Vascular Endothelial Growth Factor-C (VEGF-C) is being researched as a therapeutic option to reduce ascites by improving lymphatic drainage.<br><b>Pair 3 is incorrectly matched:</b> NASH stands for <b>Non-Alcoholic Steatohepatitis</b>, which is a form of liver inflammation caused by a buildup of fat in the liver, not strictly an autoimmune disorder.<br><br><b>PYQ Linkage:</b> Medical terminology and matching diseases/conditions with their root causes or symptoms.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "CLOVES Syndrome",
+    "question": "<b>With reference to 'CLOVES Syndrome', consider the following statements:</b><br><br>1. It is an extremely rare genetic disorder caused by mutations in the PIK3CA gene.<br>2. It is a highly contagious disease currently spreading rapidly across tropical countries.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> CLOVES Syndrome is a rare congenital disorder linked to somatic mutations in the PIK3CA gene.<br><b>Statement 2 is incorrect:</b> It is a genetic, non-contagious syndrome. Fewer than 200 cases have been reported worldwide, making it exceptionally rare rather than a rapidly spreading infectious disease.<br><br><b>Examiner Trap:</b> Capitalizing on the word \"Syndrome\" to trick candidates into thinking it's a newly emerging infectious tropical epidemic.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "CLOVES Syndrome",
+    "question": "<b>Which of the following genetic markers is closely associated with the occurrence of the rare congenital disorder known as CLOVES Syndrome?</b>",
+    "options": [
+      "BRCA1 gene",
+      "HTT gene",
+      "PIK3CA gene",
+      "NDM-1 gene"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: PIK3CA gene</b><br><br>Researchers believe that CLOVES Syndrome is caused by mutations in the PIK3CA gene. <br><i>(BRCA1 is associated with breast cancer; HTT is associated with Huntington's Disease; NDM-1 is an enzyme gene granting antibiotic resistance to 'nightmare bacteria'.)</i><br><br><b>PYQ Linkage:</b> Identifying the genetic or molecular basis of diseases recently in the news.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Hepatitis D",
+    "question": "<b>With reference to Hepatitis D, recently reclassified by the WHO as carcinogenic, consider the following statements:</b><br><br>1. It is considered the most severe form of viral hepatitis as it leads to rapid liver damage and a higher risk of liver cancer.<br>2. The Hepatitis D virus is a defective virus that can only replicate in individuals who are already infected with the Hepatitis C virus.<br>3. A person can effectively be protected against Hepatitis D by receiving the Hepatitis B vaccine.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 1 and 3)</b><br><br><b>Statement 1 is correct:</b> HDV is the most severe form of viral hepatitis, leading to rapid cirrhosis, liver failure, and liver cancer.<br><b>Statement 2 is incorrect:</b> HDV is a defective virus, but it requires the <b>Hepatitis B virus (HBV)</b> to survive and replicate, not Hepatitis C.<br><b>Statement 3 is correct:</b> Because HDV absolutely requires HBV to cause an infection, the Hepatitis B vaccine perfectly prevents Hepatitis D infections as well.<br><br><b>Examiner Trap:</b> Mixing the dependencies of different hepatitis strains (swapping Hep B for Hep C).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Hepatitis D",
+    "question": "<b>Consider the following pairs of Hepatitis viral strains and their primary transmission characteristics:</b><br><br><b>Strain : Characteristic</b><br>1. Hepatitis C : Spreads mainly through sharing needles and unsafe blood transfusions.<br>2. Hepatitis D : A defective virus that requires the Hepatitis B virus to survive.<br>3. Hepatitis E : Transmitted primarily through contaminated water and poor sanitation.<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><b>Pair 1 is correctly matched:</b> HCV is mainly spread through blood-to-blood contact (needles, transfusions).<br><b>Pair 2 is correctly matched:</b> HDV is unique as a defective satellite virus that can only propagate in the presence of the Hepatitis B virus.<br><b>Pair 3 is correctly matched:</b> HEV (like Hepatitis A) is primarily transmitted via the fecal-oral route, usually through contaminated drinking water.<br><br><b>PYQ Linkage:</b> Modes of transmission of various Hepatitis strains were tested directly by UPSC in 2019.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
