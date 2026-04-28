@@ -1,0 +1,392 @@
+[
+  {
+    "section": "Science & Technology",
+    "topic": "CATCH Grant Program",
+    "question": "<b>With reference to the recently launched Cancer AI & Technology Challenge (CATCH) Grant Program, consider the following statements:</b><br><br>1. It is a joint initiative co-funded by IndiaAI and the National Medical Commission to subsidize chemotherapy for BPL patients.<br>2. The program aims to deploy Artificial Intelligence solutions specifically for cancer screening, diagnostics, and clinical decision support.<br>3. Under its eligibility criteria, startups and private hospitals are strictly prohibited from applying, restricting the grant only to premier government research institutes.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one</b><br><br><b>Statement 1 is incorrect:</b> The CATCH Grant Program is a collaboration between the <b>IndiaAI Independent Business Division (IBD)</b> and the <b>National Cancer Grid (NCG)</b>, not the National Medical Commission. Its focus is on technology, not direct patient subsidies.<br><b>Statement 2 is correct:</b> It supports AI solutions for cancer screening, diagnostics, patient engagement, and operational efficiency.<br><b>Statement 3 is incorrect:</b> The program explicitly encourages applications from startups, health-tech companies, academic institutions, and <b>both public and private hospitals</b>. <i>(Examiner Trap: Assuming government grants are exclusively for government entities is a common distractor.)</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "CATCH Grant Program",
+    "question": "<b>Consider the following statements regarding the implementation framework of the CATCH Grant Program:</b><br><br><b>Statement-I:</b> The program strongly encourages joint applications integrating both Clinical Leads and Technical Leads.<br><b>Statement-II:</b> Successful deployment of AI in healthcare requires both clinical validation from hospitals and technological expertise from developers.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> The CATCH grant guidelines explicitly encourage joint applications from Clinical Leads (hospitals/clinicians) and Technical Leads (technology developers).<br><b>Statement-II is correct and explains Statement-I:</b> The emphasis of the program is on responsible AI, clinical validation, and deployment readiness, which inherently necessitates a synergy between medical practitioners and tech innovators.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Human African Trypanosomiasis",
+    "question": "<b>With reference to Human African Trypanosomiasis (Sleeping Sickness), consider the following statements:</b><br><br>1. It is a highly fatal viral disease transmitted to humans through the bite of infected Aedes mosquitoes.<br>2. The disease is caused by a pathogen that exhibits two distinct forms, with <i>T.b. rhodesiense</i> causing a rapidly progressing acute infection.<br>3. The World Health Organization recently certified Kenya as having successfully eliminated this disease.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3)</b><br><br><b>Statement 1 is incorrect:</b> It is a <b>parasitic</b> disease, not viral, caused by protozoan parasites of the genus <i>Trypanosoma</i>. Furthermore, it is transmitted by infected <b>tsetse flies</b>, not Aedes mosquitoes. <i>(Examiner Trap: A classic UPSC biology distractor—swapping the pathogen kingdom and vector).</i><br><b>Statement 2 is correct:</b> <i>T.b. rhodesiense</i> (East/Southern Africa) causes an acute, rapidly progressing illness, while <i>T.b. gambiense</i> (West/Central Africa) causes a chronic, slow-progressing form.<br><b>Statement 3 is correct:</b> WHO recently certified Kenya as having eliminated human African trypanosomiasis.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Human African Trypanosomiasis",
+    "question": "<b>Consider the following pairs of neglected tropical diseases and their primary geographic endemicity:</b><br><br><b>Disease : Primary Endemic Region</b><br>1. Human African Trypanosomiasis : Sub-Saharan Africa<br>2. Chagas Disease : Latin America<br>3. Trachoma : Polar Regions<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is correctly matched:</b> Human African Trypanosomiasis (Sleeping Sickness) is endemic to sub-Saharan Africa, where the tsetse fly vector is found.<br><b>Pair 2 is correctly matched:</b> Chagas disease (American trypanosomiasis) is primarily endemic to Latin America (though global spread is occurring via migration).<br><b>Pair 3 is incorrectly matched:</b> Trachoma is a bacterial eye infection leading to blindness that thrives in areas lacking clean water and sanitation, most notably in <b>Africa, parts of Asia, and the Middle East</b>, completely unassociated with Polar Regions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Pneumococcal Disease",
+    "question": "<b>Consider the following statements regarding Pneumococcal Disease:</b><br><br>1. It is caused by <i>Streptococcus pneumoniae</i>, an encapsulated bacterium with approximately 90 known serotypes.<br>2. The disease exclusively manifests as invasive respiratory infections such as severe pneumonia and acute bronchitis.<br>3. Rising antimicrobial resistance has rendered traditional antibiotic treatments increasingly ineffective against this pathogen.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Statement 1 is correct:</b> Pneumococcal disease is caused by the encapsulated bacterium <i>Streptococcus pneumoniae</i>.<br><b>Statement 2 is incorrect:</b> The disease has both <b>invasive</b> forms (pneumonia, meningitis, bacteremia, sepsis) and <b>non-invasive</b> forms (otitis media, sinusitis, bronchitis). <i>(Examiner Trap: Using the extreme word 'exclusively' to artificially narrow the clinical scope of a broad disease spectrum).</i><br><b>Statement 3 is correct:</b> Antimicrobial resistance is rising quickly, which makes vaccination (like the newly introduced PCV20) critical.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Pneumococcal Disease",
+    "question": "<b>Which of the following demographic groups are formally classified as 'High-Risk' for contracting severe Pneumococcal Disease?</b><br><br>1. Children under 2 years of age<br>2. Adults above 65 years of age<br>3. Immunocompromised individuals<br>4. Habitual tobacco smokers<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 3 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br>All the listed groups are considered high-risk for pneumococcal disease. The extremes of age (children <2 years, adults >65 years) have weaker immune responses. Immunocompromised persons are naturally susceptible. Habitual smokers are at elevated risk due to damaged respiratory mucosal defenses.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Escherichia coli (E. coli)",
+    "question": "<b>With reference to <i>Escherichia coli</i> (E. coli), recently seen in biotechnology research, consider the following statements:</b><br><br>1. It is a rod-shaped bacterium that acts exclusively as an aggressive pathogen in the human intestinal tract.<br>2. The Shiga toxin-producing E. coli (STEC) strain is a major cause of severe foodborne illness outbreaks.<br>3. Scientists have successfully genetically engineered E. coli bacteria to function as self-powered chemical sensors interfacing with electronics.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3)</b><br><br><b>Statement 1 is incorrect:</b> Most strains of E. coli are <b>harmless or even beneficial</b> to humans (aiding in digestion and vitamin K production). Only specific strains act as pathogens. <i>(Examiner Trap: Exploiting the negative public perception of E. coli by using the extreme word 'exclusively').</i><br><b>Statement 2 is correct:</b> The STEC strain is notorious for causing severe, sometimes life-threatening foodborne illnesses.<br><b>Statement 3 is correct:</b> A recent study demonstrated that E. coli can be genetically engineered into self-powered chemical sensors capable of interfacing with electronic systems.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Escherichia coli (E. coli)",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Standard medical protocol requires the immediate administration of broad-spectrum antibiotics to treat all routine E. coli gastrointestinal infections.<br><b>Statement-II:</b> Most standard E. coli infections are self-limiting and resolve without direct pharmaceutical intervention, provided proper hydration is maintained.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect:</b> Antibiotics are generally <b>not</b> recommended for routine E. coli intestinal infections (especially STEC strains), as they can increase the risk of severe complications like Hemolytic Uremic Syndrome (HUS).<br><b>Statement-II is correct:</b> Most E. coli infections are indeed self-limiting, and the primary medical advice is supportive care, primarily maintaining proper hydration.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Lewy Body Dementia (LBD)",
+    "question": "<b>With reference to Lewy Body Dementia (LBD), consider the following statements:</b><br><br>1. It is the most common form of progressive dementia globally, surpassing Alzheimer's disease.<br>2. The disease is caused by the abnormal accumulation of alpha-synuclein protein deposits in nerve cells.<br>3. Patients frequently exhibit Parkinson-like features such as muscle rigidity, tremors, and slowed movement.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> LBD is the <b>second</b> most common form of progressive dementia after Alzheimer's disease, not the first. <i>(Examiner Trap: Falsely elevating the rank of a lesser-known disease to test factual precision).</i><br><b>Statement 2 is correct:</b> The pathological hallmark of LBD is the presence of Lewy bodies, which are abnormal clumps of the alpha-synuclein protein.<br><b>Statement 3 is correct:</b> Because LBD affects regions of the brain involved in movement (often overlapping with Parkinson's Disease Dementia), patients commonly show Parkinsonian features like rigidity and tremors.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Lewy Body Dementia (LBD)",
+    "question": "<b>Consider the following pairs of neurodegenerative disorders and their primary associated physiological features:</b><br><br><b>Disorder : Physiological Feature</b><br>1. Lewy Body Dementia : Abnormal alpha-synuclein protein deposits<br>2. Huntington's Disease : Mutation in the HTT gene affecting the basal ganglia<br>3. Primary Amoebic Meningoencephalitis : Autoimmune degradation of the myelin sheath<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is correctly matched:</b> LBD is caused by alpha-synuclein protein deposits (Lewy bodies).<br><b>Pair 2 is correctly matched:</b> Huntington's disease involves an HTT gene mutation causing abnormal huntingtin protein, damaging the basal ganglia.<br><b>Pair 3 is incorrectly matched:</b> Primary Amoebic Meningoencephalitis (PAM) is an <b>infectious</b> disease caused by the <i>Naegleria fowleri</i> amoeba destroying brain tissue. Autoimmune degradation of the myelin sheath describes <b>Multiple Sclerosis (MS)</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Bioactive Peptides (BAPs)",
+    "question": "<b>Consider the following statements regarding Bioactive Peptides (BAPs):</b><br><br>1. They are extensive, highly complex molecular chains typically consisting of over 500 amino acids.<br>2. Within their parent proteins, these peptide sequences usually remain biologically inactive until released by enzymatic processes.<br>3. They are exclusively synthesized in advanced chemical laboratories and do not occur naturally in food products.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 2)</b><br><br><b>Statement 1 is incorrect:</b> Peptides are <b>short</b> chains of amino acids (typically less than 100 amino acids). Chains longer and more complex than this are classified as proteins.<br><b>Statement 2 is correct:</b> A key characteristic of BAPs is that they are latent/inactive while encased within the larger parent protein structure and only exhibit physiological activity once cleaved or released.<br><b>Statement 3 is incorrect:</b> They are abundant <b>naturally</b> in plant and animal sources such as milk, cheese, fermented foods, eggs, and soybeans. <i>(Examiner Trap: Overstating the 'synthetic' nature of a biological compound).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Bioactive Peptides (BAPs)",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Bioactive Peptides present in fermented foods have emerged as a potential tool for tailoring personalized nutrition strategies for India's diverse population.<br><b>Statement-II:</b> Bioactive Peptides act as biological regulators that can prevent microbial spoilage in foods and support the cardiovascular and immune systems.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> A recent study on population-specific responses to fermented foods highlighted that BAPs have varying health effects across groups, aiding personalized nutrition.<br><b>Statement-II is correct:</b> BAPs indeed act as biologically active regulators supporting various bodily systems and preventing food spoilage. However, Statement-II merely lists the general functions of BAPs; it does not explain <i>why</i> they are suitable for \"population-specific personalized nutrition\" (which relies on genetic and microbiome diversity among different groups).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Huntington's Disease",
+    "question": "<b>With reference to Huntington's disease, recently seen in the news regarding the National Policy for Rare Diseases, consider the following statements:</b><br><br>1. It is inherited in an autosomal recessive pattern, meaning both parents must pass on the defective gene for the child to develop the disease.<br>2. It causes the progressive degeneration of neurons primarily in the basal ganglia and cortex of the brain.<br>3. The mutation occurs in the HTT gene, resulting in the production of an abnormal protein.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Huntington's disease is an <b>autosomal dominant</b> disorder. This means inheriting just one copy of the mutated gene from an affected parent gives a child a 50% chance of developing the disease. <i>(Examiner Trap: Reversing dominant and recessive inheritance patterns).</i><br><b>Statement 2 is correct:</b> It severely damages the basal ganglia (which controls movement) and the cortex (which controls thinking and memory).<br><b>Statement 3 is correct:</b> The disease is caused by a mutation in the HTT gene, which provides instructions for making the huntingtin protein.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Huntington's Disease",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> If an individual inherits a single mutated copy of the HTT gene from one parent, they have a 50% statistical probability of eventually developing Huntington's disease.<br><b>Statement-II:</b> Huntington's disease follows an autosomal dominant pattern of genetic inheritance.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> A hallmark of the disease's transmission is that a child with an affected parent has a 50% chance of inheriting the mutated gene and developing the illness.<br><b>Statement-II is correct and explains Statement-I:</b> Because the disorder is autosomal dominant, only one copy of the defective gene is necessary to cause the disease, perfectly explaining the 50% inheritance odds outlined in Statement-I.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Rubella",
+    "question": "<b>Consider the following statements regarding Rubella (German Measles):</b><br><br>1. It is caused by a highly contagious DNA virus that produces symptoms significantly more severe than standard measles.<br>2. Infection during pregnancy is particularly dangerous as it can lead to Congenital Rubella Syndrome (CRS), causing lifelong disabilities in the fetus.<br>3. It can be effectively prevented through the administration of the combined Measles-Mumps-Rubella (MMR) vaccine.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3)</b><br><br><b>Statement 1 is incorrect:</b> Rubella is caused by an <b>RNA virus</b>, not a DNA virus. Furthermore, it is generally <b>milder and less infectious</b> than standard measles. <i>(Examiner Trap: Reversing clinical severity and genomic structures of related viral pathogens).</i><br><b>Statement 2 is correct:</b> The primary public health threat of Rubella is Congenital Rubella Syndrome (CRS), which causes severe birth defects like heart issues and deafness if the mother is infected during pregnancy.<br><b>Statement 3 is correct:</b> The MMR vaccine provides safe, long-lasting protection.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Rubella",
+    "question": "<b>Consider the following pairs of infectious diseases and their primary modes of transmission:</b><br><br><b>Disease : Primary Transmission Route</b><br>1. Rubella : Respiratory droplets from coughing or sneezing<br>2. Hepatitis E : Unsafe blood transfusions and shared needles<br>3. Trachoma : Direct contact with eye secretions and via flies<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Pair 1 is correctly matched:</b> Rubella virus spreads efficiently via respiratory droplets when an infected person coughs or sneezes.<br><b>Pair 2 is incorrectly matched:</b> Hepatitis E is primarily transmitted via the <b>fecal-oral route</b> (contaminated drinking water), whereas unsafe blood transfusions are the primary vector for Hepatitis C. <i>(Cross-topic integration based on previously tested Hepatitis concepts).</i><br><b>Pair 3 is correctly matched:</b> Trachoma spreads through direct contact with ocular/nasal secretions, contaminated items, and eye-seeking flies.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment & Science",
+    "topic": "Glanders",
+    "question": "<b>With reference to Glanders, a disease targeted by a recently issued National Action Plan, consider the following statements:</b><br><br>1. It is a highly fatal viral disease that predominantly decimates commercial poultry flocks.<br>2. It is caused by a Gram-negative bacterium and has significant zoonotic potential, making it dangerous to humans handling infected animals.<br>3. The current global standard for disease control in livestock relies on annual mass vaccination drives since the pathogen is highly drug-resistant.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> Glanders is a <b>bacterial</b> disease (not viral) that primarily affects <b>equines</b> (horses, donkeys, mules), not poultry. <i>(Examiner Trap: Swapping disease targets—equine vs avian—is a common distractor).</i><br><b>Statement 2 is correct:</b> It is caused by the Gram-negative bacterium <i>Burkholderia mallei</i>. It is zoonotic and can cause fatal infections in humans (veterinarians, horse handlers).<br><b>Statement 3 is incorrect:</b> There is <b>no vaccine or effective treatment for animals</b>. Control strictly relies on surveillance, quarantine, and the compulsory <b>culling</b> of infected animals.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment & Science",
+    "topic": "Glanders",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Under the legal framework of the Prevention and Control of Infectious and Contagious Diseases in Animals Act, 2009, authorities mandate the culling of equines infected with Glanders.<br><b>Statement-II:</b> No effective veterinary vaccine or clinical treatment currently exists to cure Glanders in animals, and surviving carrier animals pose a severe zoonotic threat.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> Glanders is a notifiable disease in India, and the protocol requires the immediate culling and safe disposal of infected animals.<br><b>Statement-II is correct and explains Statement-I:</b> Culling is the legally mandated approach precisely because there is no vaccine or viable treatment, and the disease is a highly dangerous zoonosis (capable of transferring to humans with a 40-95% mortality rate).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Bloom Syndrome",
+    "question": "<b>With reference to 'Bloom Syndrome', an exceptionally rare genetic disorder, consider the following statements:</b><br><br>1. It is an autosomal dominant condition, meaning it is inherited when only one parent carries the mutated gene.<br>2. It occurs due to mutations in the BLM gene, which critically impairs the body's ability to maintain and repair DNA structures.<br>3. Patients with this syndrome exhibit an extraordinarily high risk of developing various cancers, often before reaching the age of 40.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3)</b><br><br><b>Statement 1 is incorrect:</b> Bloom Syndrome is an <b>autosomal recessive</b> genetic disorder. It only occurs when a child inherits two faulty copies of the BLM gene—one from each parent. <i>(Examiner Trap: Autosomal dominant vs. recessive inheritance mechanics).</i><br><b>Statement 2 is correct:</b> The BLM gene codes for a protein essential for DNA structure maintenance; its mutation directly impairs DNA repair mechanisms.<br><b>Statement 3 is correct:</b> The inability to repair DNA leads to extreme genomic instability, making patients 150-300 times more likely to develop cancer at a very young age.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Bloom Syndrome",
+    "question": "<b>Consider the following pairs of Genetic Disorders and their primary inheritance patterns:</b><br><br><b>Disorder : Inheritance Pattern</b><br>1. Bloom Syndrome : Autosomal recessive<br>2. Huntington's Disease : Autosomal dominant<br>3. Duchenne Muscular Dystrophy : X-linked recessive<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><b>Pair 1 is correctly matched:</b> Bloom Syndrome requires two mutated copies of the BLM gene (autosomal recessive).<br><b>Pair 2 is correctly matched:</b> Huntington's disease requires only one mutated copy of the HTT gene to cause the disorder (autosomal dominant).<br><b>Pair 3 is correctly matched:</b> Duchenne Muscular Dystrophy primarily affects boys because it is passed down through a mutation on the X chromosome (X-linked recessive).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment & Science",
+    "topic": "Diatoms",
+    "question": "<b>Consider the following statements regarding 'Diatoms', a new species of which was recently discovered in the Eastern Ghats:</b><br><br>1. They are multicellular marine plants that exclusively thrive in the highly saline environment of deep ocean trenches.<br>2. They possess unique, intricate cell walls composed primarily of transparent silica (glass).<br>3. They play a foundational role in aquatic food chains and are responsible for generating up to 50% of the Earth's global oxygen.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Diatoms are <b>single-celled (unicellular)</b> microalgae. Furthermore, they are highly adaptable and thrive not just in oceans, but in freshwater lakes, rivers, and even moist soils. <i>(Examiner Trap: Imposing limiting extreme constraints like 'multicellular' and 'exclusively saline').</i><br><b>Statement 2 is correct:</b> Their defining feature is their highly ornate cell wall made of hydrated silicon dioxide (silica), essentially living in glass houses.<br><b>Statement 3 is correct:</b> Through massive-scale photosynthesis, diatoms produce 20-50% of global oxygen and serve as the base of aquatic food webs.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment & Science",
+    "topic": "Diatoms",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The sudden mass mortality of diatom populations in global aquatic ecosystems would drastically reduce atmospheric oxygen levels and exacerbate climate change.<br><b>Statement-II:</b> Diatoms function as highly efficient photosynthetic microalgae, absorbing massive quantities of dissolved CO₂ to produce organic matter and oxygen.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> A collapse in diatom populations would have catastrophic cascading effects on the global carbon cycle and atmospheric oxygen concentrations.<br><b>Statement-II is correct and explains Statement-I:</b> Diatoms account for 20-50% of the Earth's total oxygen production. Because they are voracious photosynthesizers that sequester CO₂ and emit oxygen, their ecological function directly justifies why their loss would trigger the collapse described in Statement-I.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Hand Foot and Mouth Disease (HFMD)",
+    "question": "<b>With reference to Hand, Foot, and Mouth Disease (HFMD), recently witnessing a surge in cases across the national capital, consider the following statements:</b><br><br>1. It is a zoonotic infection transmitted to humans primarily through direct contact with livestock suffering from Foot-and-Mouth Disease.<br>2. The disease is predominantly caused by enteroviruses, particularly Coxsackievirus A16.<br>3. It is a highly contagious illness characterized by fever, painful mouth sores, and blister-like rashes on the extremities.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (Statements 2 and 3)</b><br><br><b>Statement 1 is incorrect:</b> Human HFMD is <b>not</b> related to the Foot-and-Mouth Disease that affects animals (like cattle and pigs). They are caused by completely different virus families, and HFMD is not a zoonotic disease caught from livestock. <i>(Examiner Trap: The nominal similarity between the human and animal diseases is a classic medical distractor).</i><br><b>Statement 2 is correct:</b> HFMD is primarily caused by enteroviruses, most commonly Coxsackievirus A16.<br><b>Statement 3 is correct:</b> It is highly contagious (spreading via daycare/school settings) and presents with the classic triad of fever, mouth sores, and skin rashes.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Hand Foot and Mouth Disease (HFMD)",
+    "question": "<b>Consider the following notable diseases frequently observed in public health tracking:</b><br><br>1. Hand, Foot, and Mouth Disease (HFMD)<br>2. Rubella<br>3. Trachoma<br>4. Syphilis<br><br><b>How many of the diseases listed above are caused by viral pathogens?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two (1 and 2)</b><br><br>1. <b>HFMD</b> is caused by <b>viruses</b> (Coxsackievirus and other enteroviruses).<br>2. <b>Rubella</b> is caused by the Rubella <b>virus</b> (an RNA virus).<br>3. <b>Trachoma</b> is caused by a <b>bacterium</b> (<i>Chlamydia trachomatis</i>).<br>4. <b>Syphilis</b> is caused by a <b>bacterium</b> (<i>Treponema pallidum</i>).<br>Therefore, exactly two of the listed diseases are viral in origin.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Primary Amoebic Meningoencephalitis (PAM)",
+    "question": "<b>Consider the following statements regarding Primary Amoebic Meningoencephalitis (PAM):</b><br><br>1. It is caused by <i>Naegleria fowleri</i>, a free-living amoeba that naturally thrives in cold, highly salinated ocean environments.<br>2. The pathogen typically enters the human body through the nasal cavity during activities like swimming and subsequently invades brain tissue.<br>3. PAM is a highly contagious disease that spreads rapidly from person to person through coughing and respiratory droplets.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The \"brain-eating amoeba\" (<i>Naegleria fowleri</i>) thrives in <b>warm freshwater</b> and soil (lakes, rivers, hot springs, poorly chlorinated pools), not in cold, highly salinated ocean waters.<br><b>Statement 2 is correct:</b> Infection occurs when contaminated water is forced up the nose; the amoeba then travels up the olfactory nerve to destroy brain tissue.<br><b>Statement 3 is incorrect:</b> PAM is <b>not</b> contagious. It cannot spread from person to person via aerosol droplets, nor can it be contracted by simply drinking contaminated water. <i>(Examiner Trap: Imposing standard viral transmission characteristics on a rare environmental pathogen).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Primary Amoebic Meningoencephalitis (PAM)",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Contracting Primary Amoebic Meningoencephalitis (PAM) by orally ingesting (drinking) contaminated freshwater is considered virtually impossible.<br><b>Statement-II:</b> The <i>Naegleria fowleri</i> amoeba strictly initiates neurological infection by traveling up the olfactory nerve after water is forcibly drawn into the nasal cavity.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> You cannot get infected with PAM from swallowing water contaminated with <i>Naegleria fowleri</i>. The stomach acid destroys the organism.<br><b>Statement-II is correct and explains Statement-I:</b> The anatomical pathway of the infection dictates the mode of transmission. The amoeba must make physical contact with the olfactory mucosa inside the nose to travel up the olfactory nerve directly into the brain. Thus, water must go *up the nose* for an infection to occur.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
