@@ -247,6 +247,8 @@
 ,
 {"name": "SnT CA Part 1", "filename": "SnT CA Part 1.json", "path": "tests/upsc/SnT CA Part 1.json"}
 ,
+{"name": "SnT CA Part 10", "filename": "SnT CA Part 10.json", "path": "tests/upsc/SnT CA Part 10.json"}
+,
 {"name": "SnT CA Part 2", "filename": "SnT CA Part 2.json", "path": "tests/upsc/SnT CA Part 2.json"}
 ,
 {"name": "SnT CA Part 3", "filename": "SnT CA Part 3.json", "path": "tests/upsc/SnT CA Part 3.json"}

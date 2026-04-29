@@ -1,0 +1,332 @@
+[
+  {
+    "section": "Governance",
+    "topic": "SHRESTH Initiative",
+    "question": "<b>Consider the following statements regarding the State Health Regulatory Excellence Index (SHRESTH):</b><br><br>1. It is a national initiative launched by NITI Aayog to benchmark the health infrastructure of aspirational districts.<br>2. It evaluates states under two broad classifications: Manufacturing States and Primarily Distribution States.<br>3. It utilizes data-driven indices to measure performance across themes such as Human Resources, Infrastructure, and Surveillance Activities.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> SHRESTH is proposed by the Central Drugs Standard Control Organization (CDSCO) under the Union Health Ministry, not NITI Aayog. Its goal is to benchmark and strengthen state drug regulatory systems, not general health infrastructure in aspirational districts.<br><b>Statement 2 is correct:</b> The index has separate parameters: 27 indices for Manufacturing States and 23 indices for Primarily Distribution States.<br><b>Statement 3 is correct:</b> It uses a transparent, data-driven framework across five key themes: Human Resources, Infrastructure, Licensing Activities, Surveillance Activities, and Responsiveness.<br><br><i>PYQ Alignment: UPSC frequently tests the nodal ministry and exact objectives of new indices (e.g., Ease of Doing Business sub-indices in 2019).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "SHRESTH Initiative",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The SHRESTH Initiative applies a uniform set of 50 evaluation indices to all States and Union Territories irrespective of their pharmaceutical industrial capacity.<br><b>Statement-II:</b> The initiative aims to drive improvements in the performance of state drug regulatory authorities through a transparent, data-driven framework.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II does not explain Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect:</b> The framework is not uniform for all. It distinctly provides 27 indices for Manufacturing States and 23 indices for Primarily Distribution States.<br><b>Statement-II is correct:</b> The core objective of SHRESTH, launched by the Union Health Ministry and CDSCO, is to benchmark and strengthen state drug regulatory systems using a data-driven approach.<br><br><i>PYQ Alignment: Statement-I vs Statement-II format is heavily favored in recent UPSC prelims (e.g., 2023-2024) to test nuanced exceptions in policy frameworks.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Rabies",
+    "question": "<b>Consider the following statements regarding Rabies:</b><br><br>1. The rabies virus can infect any warm-blooded creature, including birds and mammals.<br>2. Once clinical symptoms appear, the disease is almost 100% fatal with survival being extremely rare.<br>3. Wild mammals such as bats, raccoons, and foxes are major natural transmitters of the virus.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Rabies is a viral disease that can infect any <i>mammal</i>, but birds, reptiles, amphibians, and fish cannot contract or spread rabies.<br><b>Statement 2 is correct:</b> Rabies is almost 100% fatal once symptoms appear. However, it is preventable if Post-Exposure Prophylaxis (PEP) is administered immediately.<br><b>Statement 3 is correct:</b> While dogs cause most human cases, wild mammals (especially bats, raccoons, and foxes) are major natural transmitters.<br><br><i>PYQ Alignment: UPSC often tests the biological vectors and host range of diseases (e.g., Hepatitis transmission in 2019, Nipah in 2024).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Rabies",
+    "question": "<b>Consider the following classes of animals:</b><br><br>1. Reptiles<br>2. Avian species (Birds)<br>3. Amphibians<br>4. Bovines (Cattle)<br><br><b>How many of the above can act as carriers and transmitters of the Rabies virus?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one</b><br><br>Only mammals can contract and carry the rabies virus. Among the given options, only <b>Bovines (Cattle)</b> are mammals. Birds, reptiles, and amphibians cannot contract or spread rabies.<br><br><i>PYQ Alignment: The \"How many of the above\" pattern strictly follows the 2023-2024 UPSC style, testing exact boundaries of scientific classifications.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "New World screwworm myiasis",
+    "question": "<b>With reference to the 'New World screwworm', recently seen in the news, consider the following statements:</b><br><br>1. It is a flesh-eating parasitic infection caused by a type of blowfly endemic to Southeast Asia.<br>2. The female flies lay eggs exclusively in the open wounds or natural entry points of warm-blooded animals.<br>3. The larvae of the fly use sharp mouth hooks to burrow into living tissue, causing a fatal condition known as myiasis.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> The New World screwworm (<i>Cochliomyia hominivorax</i>) is a blue-grey blowfly commonly found in <b>South America and the Caribbean</b>, not Southeast Asia.<br><b>Statement 2 is correct:</b> Female flies are attracted to open wounds or natural entry points (like nasal cavities) in warm-blooded animals and humans to lay eggs.<br><b>Statement 3 is correct:</b> The hatched larvae (maggots) use sharp mouth hooks to burrow into and feed on living tissue, causing severe myiasis which can be fatal if untreated.<br><br><i>PYQ Alignment: UPSC frequently tests newly emerged or globally tracked zoonotic/parasitic diseases, confusing their geographical origin.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "New World screwworm myiasis",
+    "question": "<b>The term 'Cochliomyia hominivorax', recently mentioned in the media in the context of human infections, refers to:</b>",
+    "options": [
+      "A multidrug-resistant bacterium spreading in hospital ICUs.",
+      "A flesh-eating fly larva that causes severe tissue infestation.",
+      "A zoonotic virus transmitted by fruit bats.",
+      "An invasive agricultural pest destroying corn crops."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: A flesh-eating fly larva that causes severe tissue infestation.</b><br><br><i>Cochliomyia hominivorax</i> translates to \"man-eater.\" It is the scientific name for the New World screwworm, whose larvae (maggots) burrow into living flesh (myiasis) of warm-blooded animals and humans.<br><br><i>PYQ Alignment: Direct terminology identification questions are a staple in UPSC (e.g., 'Denisovan' in 2019, 'ACE2' in 2021).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "SPARK-4.0 Initiative",
+    "question": "<b>Consider the following statements regarding the SPARK-4.0 Initiative:</b><br><br>1. It is a flagship program launched by the Ministry of Education to promote STEM research across all central universities.<br>2. Only undergraduate students enrolled in the Bachelor of Ayurvedic Medicine and Surgery (BAMS) program are eligible.<br>3. Selected students are provided a stipend upon successful completion of their short-term independent research projects.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> SPARK (Studentship Program for Ayurveda Research Ken) is launched by the Central Council for Research in Ayurvedic Sciences (CCRAS) under the <b>Ministry of Ayush</b>, not the Ministry of Education. It focuses purely on Ayurveda, not general STEM.<br><b>Statement 2 is correct:</b> The program is exclusively for undergraduate students (1st to 4th year) enrolled in BAMS at NCISM-recognized colleges. Interns, postgraduates, and NRIs are ineligible.<br><b>Statement 3 is correct:</b> Selected students receive a total stipend of \u20b950,000 (released after successful completion of research and report approval).<br><br><i>PYQ Alignment: UPSC often creates distractors by swapping the nodal ministry and broadening the targeted beneficiary group (e.g., PMKVY scheme question in 2018).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "SPARK-4.0 Initiative",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The SPARK-4.0 initiative provides financial support and stipends to Ayurveda interns and postgraduate scholars for independent research.<br><b>Statement-II:</b> The program aims to nurture scientific curiosity and analytical thinking exclusively at the undergraduate level before final examinations.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II does not explain Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect:</b> The SPARK initiative explicitly makes interns, postgraduate students, and NRIs ineligible for the scheme.<br><b>Statement-II is correct:</b> The program is strictly targeted at undergraduate Ayurveda students (1st to 4th year, before final examinations) to foster early research aptitude.<br><br><i>PYQ Alignment: A classic UPSC Statement I and II trap where the first statement sounds plausible but contradicts the core eligibility criteria defined in the second statement.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "False Smut Disease",
+    "question": "<b>With reference to the 'False Smut Disease' affecting paddy crops, consider the following statements:</b><br><br>1. It completely replaces the rice kernel with black fungal spores, resulting in 100% crop loss in affected plants.<br>2. The application of excessive nitrogenous fertilizers increases the crop's vulnerability to this disease.<br>3. Alternate Wetting and Drying (AWD) irrigation is a recommended practice to minimize its spread.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> Unlike true smut diseases, <i>Ustilaginoidea virens</i> (the fungus causing False Smut) does <b>not</b> replace the entire kernel with black spores. Instead, it forms distinctive greenish-black, velvety spore balls emerging from individual grains. It causes 7\u201325% yield loss (up to 75% in severe cases, but not 100% replacement).<br><b>Statement 2 is correct:</b> Excessive use of nitrogen fertilizer creates favorable conditions for the fungus.<br><b>Statement 3 is correct:</b> AWD (Alternate Wetting and Drying) irrigation minimizes the continuous high humidity needed for the disease to spread.<br><br><i>PYQ Alignment: Tests specific agricultural pathology and agronomic practices, matching the depth of the 2020 question on sugarcane cultivation.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "False Smut Disease",
+    "question": "<b>Which of the following environmental and agronomic conditions strongly favor the outbreak of 'False Smut Disease' in rice?</b><br><br>1. Ambient temperatures consistently above 40\u00b0C<br>2. High relative humidity above 85%<br>3. Persistent rainfall during the flowering stage<br>4. Poor field drainage<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2, 3 and 4 only</b><br><br><b>Option 1 is incorrect:</b> The disease thrives in warm temperatures of <b>25\u201335\u00b0C</b>, not extreme heat above 40\u00b0C.<br><b>Options 2, 3, and 4 are correct:</b> Favorable conditions include high humidity (>85%), persistent rainfall (especially during/after flowering), and poor field drainage (which maintains high local humidity).<br><br><i>PYQ Alignment: UPSC often tests the exact climatic parameters required for specific crop diseases or ecological phenomena.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Trichloroethylene (TCE)",
+    "question": "<b>Consider the following statements regarding Trichloroethylene (TCE):</b><br><br>1. It is a naturally occurring organic compound primarily released through volcanic degassing.<br>2. Long-term outdoor exposure to TCE has been clinically associated with a higher risk of developing Parkinson\u2019s disease.<br>3. In India, its industrial use has been completely banned under the Hazardous Waste Management Rules.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> TCE is a <b>man-made</b>, nonflammable liquid used as an industrial solvent. It does not occur naturally.<br><b>Statement 2 is correct:</b> Recent studies strongly associate long-term exposure to TCE with an increased risk of Parkinson's disease.<br><b>Statement 3 is incorrect:</b> India does <b>not</b> have a specific, outright ban on TCE. It is regulated under the Environment (Protection) Act, 1986, but it is still used in various industries.<br><br><i>PYQ Alignment: Tests knowledge of chemical pollutants, their sources, and their regulatory status in India (similar to the 2021 question on Triclosan or Bisphenol A).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Trichloroethylene (TCE)",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Trichloroethylene (TCE) is considered a major and persistent contaminant of groundwater and indoor air environments.<br><b>Statement-II:</b> TCE is highly mobile in soil and highly volatile, allowing it to easily evaporate into the air through a process known as vapour intrusion.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II does not explain Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II explains Statement-I</b><br><br><b>Statement-I is correct:</b> TCE is a widespread environmental contaminant affecting groundwater and indoor air quality near industrial sites.<br><b>Statement-II is correct and explains Statement-I:</b> Because TCE is highly mobile in soil, it rapidly reaches groundwater. Its high volatility means it readily evaporates from contaminated soil and groundwater into the indoor air of overlying buildings (vapour intrusion).<br><br><i>PYQ Alignment: Logical reasoning regarding the physical properties of pollutants and their environmental impact.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Chemistry",
+    "topic": "Mono Ethylene Glycol (MEG)",
+    "question": "<b>With reference to Mono Ethylene Glycol (MEG), consider the following statements:</b><br><br>1. It is a primary raw material used in the manufacturing of polyethylene terephthalate (PET) plastics and polyester fibers.<br>2. It is considered a Generally Recognized As Safe (GRAS) food additive and is widely used as a sweetener in pediatric syrups.<br>3. China currently holds the position of the world's largest consumer of MEG.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is correct:</b> MEG is a critical commodity used to manufacture polyester fibers, films, and PET plastics.<br><b>Statement 2 is incorrect:</b> MEG is <b>highly toxic</b> when ingested and can harm the central nervous system, heart, and kidneys. It is absolutely not a safe food additive or sweetener.<br><b>Statement 3 is correct:</b> Globally, the polyester and PET sectors rely heavily on MEG, with China being the largest consumer.<br><br><i>PYQ Alignment: UPSC tests industrial chemicals, their applications, and their health hazards (e.g., 2014 question on Brominated flame retardants).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Chemistry",
+    "topic": "Mono Ethylene Glycol (MEG)",
+    "question": "<b>Consider the following industrial and commercial applications:</b><br><br>1. Production of antifreeze and engine coolants<br>2. Use as a moisture-retaining agent (humectant) in the paper and adhesive industry<br>3. Manufacture of artificial smoke<br><br><b>How many of the above utilize Mono Ethylene Glycol (MEG)?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br>MEG is a highly versatile chemical. It is widely used in antifreeze, coolants, and de-icing solutions (Application 1). It acts as a humectant and solvent in textiles, paper, adhesives, and paints (Application 2). It is also utilized in the manufacture of tobacco products and artificial smoke (Application 3).<br><br><i>PYQ Alignment: \"How many of the above\" application-based questions are standard in Science & Tech (e.g., 2020 question on Carbon Nanotubes).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Health",
+    "topic": "Diethylene Glycol (DEG)",
+    "question": "<b>With reference to Diethylene Glycol (DEG), recently in the news, consider the following statements:</b><br><br>1. It is an approved pharmaceutical excipient used globally to improve the shelf life of cough syrups.<br>2. Ingestion of DEG disrupts kidney function and can rapidly progress to anuria and acute renal failure.<br>3. Its toxicity profile is considered lower than that of Monoethylene Glycol (MEG).<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "2 and 3 only",
+      "1 and 3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> DEG is a highly toxic industrial chemical and an illegal contaminant in medicines. It is <b>not</b> an approved pharmaceutical excipient (unscrupulous manufacturers use it as a cheap substitute for safe solvents like propylene glycol).<br><b>Statement 2 is correct:</b> Once ingested, DEG is metabolized into harmful compounds causing severe kidney damage, anuria (inability to produce urine), and death.<br><b>Statement 3 is incorrect:</b> DEG has a <b>higher</b> toxicity than MEG, although industrial exposure to MEG is higher due to its widespread use in plastics.<br><br><i>PYQ Alignment: Focus on chemical contaminants causing public health crises, similar to questions on heavy metals or food adulterants.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Health",
+    "topic": "Diethylene Glycol (DEG)",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Diethylene Glycol (DEG) is frequently detected as a deadly contaminant in pediatric cough syrups.<br><b>Statement-II:</b> DEG is a sweet-tasting, hygroscopic liquid used legitimately in antifreeze and resins, which unscrupulous manufacturers substitute for safe pharmaceutical solvents.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II does not explain Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II explains Statement-I</b><br><br><b>Statement-I is correct:</b> There have been several tragic incidents (e.g., in Madhya Pradesh and internationally) where children died after consuming syrups contaminated with DEG.<br><b>Statement-II is correct and explains Statement-I:</b> DEG has a sweet taste and hygroscopic nature, similar to safe pharmaceutical humectants like propylene glycol or glycerin. Because it is cheaper (used industrially in antifreeze and plastics), corrupt manufacturers substitute it into medicines, leading to the contamination events noted in Statement-I.<br><br><i>PYQ Alignment: Statement reasoning linking the chemical properties/economic rationale to a public health crisis.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Online National Drugs licensing system (ONDLS) Portal",
+    "question": "<b>Consider the following statements regarding the Online National Drugs Licensing System (ONDLS) Portal:</b><br><br>1. It has been developed by the National Informatics Centre (NIC) in collaboration with the World Health Organization (WHO).<br>2. It serves as a unified digital platform for issuing Certificates of Pharmaceutical Product (COPP) and WHO-GMP certifications.<br>3. Despite its nationwide rollout, no state drug authority has fully met the required Corrective and Preventive Action (CAPA) standards.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> The ONDLS portal was developed by the <b>Centre for Development of Advanced Computing (C-DAC)</b> in collaboration with the CDSCO and State/UT Drug Authorities, not the NIC and WHO.<br><b>Statement 2 is correct:</b> It is designed to be a single-window framework that issues key certificates such as COPP, GMP, and WHO-GMP.<br><b>Statement 3 is correct:</b> According to the Union Health Ministry, while 18 state drug authorities have adopted it, none have fully met the required CAPA standards.<br><br><i>PYQ Alignment: Evaluates the technical agency behind e-governance platforms and operational realities, matching UPSC's governance questions.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Online National Drugs licensing system (ONDLS) Portal",
+    "question": "<b>In the context of the pharmaceutical regulatory framework in India, what does 'Schedule M', which is verified through the ONDLS portal, relate to?</b>",
+    "options": [
+      "Price capping guidelines for essential life-saving drugs.",
+      "Mandatory Good Manufacturing Practices (GMP) for drug production.",
+      "Regulations concerning the import of active pharmaceutical ingredients (APIs).",
+      "Protocols for conducting phase-III clinical trials for recombinant vaccines."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Mandatory Good Manufacturing Practices (GMP) for drug production.</b><br><br>Schedule M is a schedule to the Drugs and Cosmetics Rules, 1945. It prescribes the mandatory Good Manufacturing Practices (GMP) that manufacturers must adhere to in order to hold licenses to produce drugs in India. The ONDLS portal manages the issuance of these GMP certificates.<br><br><i>PYQ Alignment: Direct testing of legal schedules/rules in the news (similar to queries on Schedule VI of the Wildlife Protection Act).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Biology",
+    "topic": "Crohn's Disease",
+    "question": "<b>Consider the following statements regarding Crohn\u2019s Disease:</b><br><br>1. It is a highly contagious viral infection that targets the mucosal lining of the stomach.<br>2. The inflammation in Crohn's disease typically penetrates deep into the intestinal wall.<br>3. Recent clinical studies indicate that diets rich in ultra-processed foods (UPFs) can aggravate the condition and trigger flare-ups.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Crohn's Disease is a form of <b>Chronic Inflammatory Bowel Disease (IBD)</b>. It is an auto-immune/inflammatory condition, not a contagious viral infection.<br><b>Statement 2 is correct:</b> The pathology of Crohn's involves inflammation that penetrates deep into the intestinal wall, often affecting the small intestine, though it can impact any part of the digestive tract.<br><b>Statement 3 is correct:</b> New studies show that UPFs aggravate gut inflammation and increase the likelihood of flare-ups in patients.<br><br><i>PYQ Alignment: Tests pathology and epidemiology of diseases in the news, demanding clarity on whether the disease is infectious or systemic.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Biology",
+    "topic": "Crohn's Disease",
+    "question": "<b>Consider the following characteristics:</b><br><br>1. Penetration of inflammation deep into the layers of the intestinal wall.<br>2. Peak incidence of diagnosis occurs in young adults between 20 and 29 years of age.<br>3. Strong pathological association with disturbances in the gut microbiome.<br><br><b>How many of the above characteristics describe Crohn's Disease?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br>All three points correctly describe Crohn's Disease. The inflammation penetrates deep into the intestinal wall (Characteristic 1). It is most frequently diagnosed in young adults, especially in their 20s (Characteristic 2). The exact cause is unknown, but it is heavily associated with genetic predisposition, abnormal immune responses, and disturbances in the gut microbiome (Characteristic 3).<br><br><i>PYQ Alignment: Multi-characteristic identification is a standard UPSC format to thoroughly test a candidate's holistic understanding of a medical condition.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Zombie Deer Disease",
+    "question": "<b>With reference to 'Chronic Wasting Disease (CWD)', recently dubbed in the media as 'Zombie Deer Disease', consider the following statements:</b><br><br>1. It is a fatal bacterial infection transmitted to cervids exclusively through the bite of infected ticks.<br>2. The infectious agent responsible for this disease is highly resistant to traditional sterilization methods, including heat and radiation.<br>3. The disease causes misfolding of normal brain proteins resulting in severe neurodegeneration.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> CWD is a <b>prion disorder</b>, not a bacterial infection. It spreads through body fluids (saliva, urine, feces), contaminated soil, water, and lures, not via ticks.<br><b>Statement 2 is correct:</b> Prions are notoriously difficult to destroy and are highly resistant to heat, radiation, and common disinfectants.<br><b>Statement 3 is correct:</b> Prions cause normal brain proteins to misfold, leading to severe brain degeneration, drastic weight loss, and abnormal \"zombie-like\" behavior.<br><br><i>PYQ Alignment: Distinguishing between viral/bacterial pathogens and prions is a classic UPSC trap (e.g., questions on diseases and their causative agents).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Zombie Deer Disease",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Health authorities worldwide classify Chronic Wasting Disease (CWD) as a confirmed pandemic threat to the human population.<br><b>Statement-II:</b> CWD spreads rapidly among animal populations such as deer and elk through contaminated environmental mediums like soil and water.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II does not explain Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>Statement-I is incorrect:</b> While scientists cannot completely rule out cross-species transmission, there have been <b>no confirmed cases</b> of CWD in humans so far. It is not currently classified as a confirmed human pandemic threat.<br><b>Statement-II is correct:</b> CWD is highly contagious among cervids and spreads efficiently through saliva, urine, feces, and environmental contamination (soil, water, vegetation).<br><br><i>PYQ Alignment: Tests the candidate's ability to separate media sensationalism (\"Zombie disease pandemic\") from scientific fact (no human transmission documented).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
