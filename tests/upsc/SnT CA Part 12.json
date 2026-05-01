@@ -1,0 +1,287 @@
+[
+  {
+    "section": "Science & Technology",
+    "topic": "Auramine O",
+    "question": "<b>Consider the following statements regarding 'Auramine O', recently seen in the news:</b><br><br>1. It is a synthetic chemical dye officially permitted by the FSSAI as a yellow food colourant for traditional Indian sweets.<br>2. It is predominantly used in the textile, leather, and paper industries.<br>3. It is classified as a possible carcinogen and causes severe liver and kidney damage upon prolonged ingestion.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> Auramine O is <b>banned</b> for food use in India by FSSAI. It is a non-permitted colour that unscrupulous manufacturers illegally use to mimic saffron or turmeric in sweets and snacks.<br><b>Statement 2 is correct:</b> It is a bright yellow synthetic industrial dye legitimately used in textiles, leather, paper, and inks.<br><b>Statement 3 is correct:</b> It is mutagenic, toxic to the liver and kidneys, and is classified by the IARC as a possible carcinogen (Group 2B).<br><br><b>Examiner's Trap:</b> The frequent detection of this dye in food items leads candidates to incorrectly assume it is a regulated but overused food additive. It is strictly prohibited.<br><b>PYQ Alignment:</b> UPSC frequently tests controversial/toxic chemicals found in daily use items (e.g., Brominated flame retardants in 2014, Lead in lipsticks in 2017).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "UNESCO- Global Ethics Framework on Neurotechnology",
+    "question": "<b>With reference to the recently issued 'Global Ethics Framework on Neurotechnology' by UNESCO, consider the following statements:</b><br><br>1. It is a legally binding international treaty that mandates punitive sanctions against tech corporations violating neural data privacy.<br>2. It aims to establish essential safeguards to protect mental privacy, autonomy, and personal dignity against the misuse of brain-computer interfaces.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> It is the world’s first global <b>normative framework</b> on the ethics of neurotechnology. It provides guidelines and essential safeguards, but it is <b>not a legally binding treaty</b> with punitive sanctions.<br><b>Statement 2 is correct:</b> The core objective is to balance innovation with human rights by protecting the human brain and brain-related data (mental privacy, freedom of thought) from the misuse of neurotechnologies like AI-driven brain-computer interfaces (BCIs).<br><br><b>Examiner's Trap:</b> Confusing a 'normative framework' (which sets standards and guidelines) with a 'legally binding treaty' is a classic UPSC International Relations trap.<br><b>PYQ Alignment:</b> Evaluates knowledge of global conventions and declarations concerning emerging technologies (e.g., Beijing Declaration in 2015, Global Alliance for Climate-Smart Agriculture in 2018).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "National Action Plan on Antimicrobial Resistance 2.0",
+    "question": "<b>Consider the following statements regarding the National Action Plan on Antimicrobial Resistance (NAP-AMR 2.0) for 2025–2029:</b><br><br>1. Its implementation is exclusively restricted to the Ministry of Health and Family Welfare without involving other government departments.<br>2. It mandates the systematic surveillance of antibiotic residues and resistant pathogens in the environment.<br>3. It introduces an Enforceable Accountability Model linking specific budgets to time-bound action plans.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> NAP-AMR 2.0 strictly follows a <b>“whole-of-government”</b> approach and a One Health framework, involving more than 20 ministries and departments, not just the Health Ministry.<br><b>Statement 2 is correct:</b> For the first time, it mandates systematic surveillance of antibiotic residues and resistant pathogens in the environment (water, soil, etc.).<br><b>Statement 3 is correct:</b> It introduces an Enforceable Accountability Model, under which participating ministries must prepare specific, time-bound, and budget-linked action plans.<br><br><b>Examiner's Trap:</b> The word \"exclusively\" in statement 1 is an extreme phrasing trap. AMR spans human, animal, and environmental health (One Health), making exclusive single-ministry control impossible.<br><b>PYQ Alignment:</b> Tests the exact operational framework and nodal multi-sectoral linkages of national health policies.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Alprazolam",
+    "question": "<b>With reference to 'Alprazolam', recently seen in the news in the context of clandestine drug manufacturing, consider the following statements:</b><br><br>1. It is a powerful central nervous system stimulant primarily used to treat narcolepsy and ADHD.<br>2. It functions by enhancing the effects of the GABA neurotransmitter in the brain, inducing a calming effect.<br>3. It is classified as a psychotropic substance and its unauthorized production is strictly regulated under the Narcotic Drugs and Psychotropic Substances (NDPS) Act, 1985.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Alprazolam is a benzodiazepine tranquilizer acting as a <b>central nervous system (CNS) depressant</b>, not a stimulant. It is used to treat anxiety and panic disorders.<br><b>Statement 2 is correct:</b> It works by enhancing the effects of GABA (gamma-aminobutyric acid), which reduces abnormal excitement in the brain.<br><b>Statement 3 is correct:</b> Because of its potential for abuse and dependence, it is a regulated psychotropic substance under the NDPS Act, 1985.<br><br><b>Examiner's Trap:</b> Swapping the pharmacological action of a drug (stimulant vs depressant) is a standard method to catch candidates relying on rote memorization without conceptual clarity.<br><b>PYQ Alignment:</b> Questions on the regulation and classification of drugs and narcotics are increasingly common due to public health crises.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Biology",
+    "topic": "Melanin",
+    "question": "<b>Consider the following statements regarding the biological pigment 'Melanin':</b><br><br>1. Higher concentrations of melanin in the skin significantly increase the body's efficiency in synthesizing Vitamin D from sunlight.<br>2. Neuromelanin is a specific type of melanin found in the human brain, formed from the oxidation of dopamine.<br>3. The genetic condition Albinism is characterized by the complete or near-complete absence of melanin production.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> Higher melanin levels act as a natural sunscreen, <b>absorbing</b> UV radiation and <b>reducing</b> the amount that penetrates the skin, which actually <i>decreases</i> the skin's ability to synthesize Vitamin D compared to lighter skin.<br><b>Statement 2 is correct:</b> Neuromelanin is found in the brain and is formed from the oxidation of neurotransmitters like dopamine and noradrenaline.<br><b>Statement 3 is correct:</b> Albinism is a genetic condition marked by little or no melanin production.<br><br><b>Examiner's Trap:</b> The inverse physiological relationship between UV protection (melanin) and Vitamin D synthesis is counter-intuitive for many students.<br><b>PYQ Alignment:</b> Evaluates foundational human physiology, similar to PYQs on T-cells/B-cells (2022) and Hepatitis variations (2019).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "BIRSA-101",
+    "question": "<b>With reference to 'BIRSA-101', recently launched in India, consider the following statements:</b><br><br>1. It is an indigenous mRNA vaccine designed to provide lifelong immunity against the Zika virus.<br>2. It utilizes CRISPR-Cas9 gene-editing technology to correct the defective HBB gene.<br>3. It is administered as a one-time therapeutic infusion to treat Sickle Cell Disease.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> BIRSA-101 is <b>not a vaccine</b> for a viral disease. It is India’s first indigenously developed CRISPR-based <b>gene therapy</b> for treating Sickle Cell Disease (SCD).<br><b>Statement 2 is correct:</b> It works by editing and correcting the defective HBB gene responsible for the abnormal, sickle-shaped red blood cells.<br><b>Statement 3 is correct:</b> Developed by CSIR-IGIB, it is designed as a single-infusion, one-time treatment rather than lifelong medical therapy.<br><br><b>Examiner's Trap:</b> The nomenclature \"101\" often mimics vaccine trial names, baiting candidates to mistake a sophisticated gene therapy for a traditional vaccine.<br><b>PYQ Alignment:</b> Tests precise applications of CRISPR-Cas9 technology (e.g., Cas9 protein definition in 2019).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "NEXCAR19",
+    "question": "<b>Consider the following statements regarding 'NexCAR19', India’s first indigenously developed CAR-T cell therapy:</b><br><br>1. It specifically targets the CD19 protein found on cancerous B-cells in patients with leukemia and lymphoma.<br>2. The therapy involves extracting a patient's own B-cells, genetically modifying them, and reinfusing them to attack cancerous T-cells.<br>3. A major known side effect of this therapy is Cytokine Release Syndrome (CRS).<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Statement 1 is correct:</b> NexCAR19 is designed to treat relapsed or refractory B-cell cancers by targeting the CD19 protein.<br><b>Statement 2 is incorrect:</b> The core mechanism of CAR-T therapy involves extracting the patient’s <b>T-cells</b> (not B-cells), engineering them to express Chimeric Antigen Receptors (CARs), and reinfusing them to hunt down the cancerous B-cells. Statement 2 inverses this relationship.<br><b>Statement 3 is correct:</b> A well-documented, potentially severe side effect of CAR-T cell therapy is Cytokine Release Syndrome (CRS), alongside neurotoxicity.<br><br><b>Examiner's Trap:</b> Intentionally swapping the roles of T-cells (the attackers) and B-cells (the cancer targets) tests deep biological comprehension.<br><b>PYQ Alignment:</b> Lines up with immunology questions testing the specific functions of T-cells and B-cells (2022).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Health & Medicine",
+    "topic": "GLP1 Medicines",
+    "question": "<b>Consider the following statements regarding 'GLP-1 receptor agonists', recently seeing widespread global deployment:</b><br><br>1. They primarily suppress insulin secretion to manage episodes of severe hypoglycemia.<br>2. They mimic the action of a naturally occurring incretin hormone released by the human intestine after meals.<br>3. Drugs such as Semaglutide and Tirzepatide belong to this class and are utilized for managing Type 2 diabetes and obesity.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> GLP-1 medicines <b>enhance</b> (not suppress) glucose-dependent insulin secretion and suppress glucagon to manage <b>hyperglycemia</b> (high blood sugar), not hypoglycemia.<br><b>Statement 2 is correct:</b> They imitate glucagon-like peptide-1 (GLP-1), a natural incretin hormone produced in the gut that slows digestion and regulates appetite.<br><b>Statement 3 is correct:</b> Semaglutide (Ozempic, Wegovy) and Tirzepatide are prominent examples of GLP-1 drugs revolutionizing obesity and Type 2 diabetes treatment.<br><br><b>Examiner's Trap:</b> Confusing the mechanism of action—insulin suppression vs enhancement—in metabolic pharmacology.<br><b>PYQ Alignment:</b> Matches UPSC's habit of testing mechanisms of globally impactful pharmaceutical developments (e.g., mRNA vaccines, ACE2 receptors).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Biology",
+    "topic": "Norovirus",
+    "question": "<b>With reference to the 'Norovirus', consider the following statements:</b><br><br>1. It is a tick-borne pathogen predominantly spreading in heavily forested temperate regions.<br>2. It causes severe inflammation of the stomach and intestines resulting in acute gastroenteritis.<br>3. The World Health Organization has authorized a specific, highly effective antiviral drug protocol for its immediate cure.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> Norovirus (the \"winter vomiting disease\") is not tick-borne. It spreads primarily through the <b>fecal-oral route</b>, via contaminated food, water, or direct person-to-person contact.<br><b>Statement 2 is correct:</b> The virus causes severe gastroenteritis, marked by vomiting, diarrhea, and stomach cramps.<br><b>Statement 3 is incorrect:</b> There is <b>no specific antiviral treatment</b> or vaccine currently available for Norovirus; management is purely supportive (hydration).<br><br><b>Examiner's Trap:</b> Attributing tick-borne vectors (like Lyme disease) and assuming all high-profile viruses have specific WHO antiviral protocols.<br><b>PYQ Alignment:</b> Tests transmission vectors and available treatments of recurring viral diseases (e.g., Zika in 2017, Hepatitis in 2019).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Centre for Chronic Disease Control (CCDC)",
+    "question": "<b>In the context of India's health research ecosystem, consider the following statements regarding the Centre for Chronic Disease Control (CCDC):</b><br><br>1. It is a statutory body established directly under the Ministry of Health and Family Welfare.<br>2. It focuses on capacity building and translational research primarily concerning cardio-metabolic diseases and nutrition.<br>3. It is registered under the Foreign Contribution (Regulation) Act, allowing it to receive foreign funds with government approval.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> CCDC is an <b>independent, not-for-profit</b> biomedical research organization registered as a society under the Societies Registration Act, 1860. It is not a statutory body under the government.<br><b>Statement 2 is correct:</b> Its core mandate is to reduce the burden of chronic non-communicable diseases (NCDs), particularly cardio-metabolic diseases and nutrition research.<br><b>Statement 3 is correct:</b> It complies with the FCRA, permitting it to engage in globally funded health research.<br><br><b>Examiner's Trap:</b> Assuming that any prominent national-level research center must be a statutory government body. <br><b>PYQ Alignment:</b> Tests knowledge of organizational frameworks of prominent research and governance bodies (e.g., FSSAI, Animal Welfare Board).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Bluetongue Virus (BTV)",
+    "question": "<b>Consider the following statements about the 'Bluetongue Virus (BTV)', recently detected in Northern Ireland:</b><br><br>1. It is a highly contagious zoonotic disease that frequently jumps from infected livestock to humans.<br>2. The primary transmission vector for this virus is the bite of infected Culicoides midges.<br>3. It is a severe haemorrhagic disease that predominantly affects domestic and wild ruminants, especially sheep.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> BTV is an infectious but <b>non-contagious</b> illness among animals, and it is <b>not zoonotic</b> (it does not infect humans, and meat/milk remain safe).<br><b>Statement 2 is correct:</b> It is transmitted through the bites of specific insect vectors, namely Culicoides midges.<br><b>Statement 3 is correct:</b> It is a severe haemorrhagic disease affecting ruminants (sheep, cattle, deer, goats), often causing a cyanotic (blue) tongue in sheep.<br><br><b>Examiner's Trap:</b> The term \"virus\" and its presence in news leads aspirants to assume it is zoonotic or contagious by contact, distinguishing vector-borne non-zoonotic diseases is crucial.<br><b>PYQ Alignment:</b> Parallels questions testing specific transmission routes of viral diseases affecting wildlife and agriculture (e.g., African Swine Fever, H1N1).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Fluoride",
+    "question": "<b>With reference to fluoride contamination in groundwater in India, consider the following statements:</b><br><br>1. The Bureau of Indian Standards (BIS) prescribes the acceptable limit of fluoride in drinking water as 5.0 mg/L.<br>2. A low level of fluoride intake is considered beneficial as it helps prevent dental caries.<br>3. Excessive long-term accumulation of fluoride primarily results in severe liver cirrhosis and acute renal failure.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The BIS acceptable limit for fluoride in drinking water is <b>1.0 mg/L</b> (with a maximum permissible limit of 1.5 mg/L in the absence of alternatives), not 5.0 mg/L.<br><b>Statement 2 is correct:</b> Trace amounts of fluoride are essential nutrients; low levels (around 1 mg/L) prevent tooth decay (dental caries).<br><b>Statement 3 is incorrect:</b> Around 99% of body fluoride is stored in bones and teeth. Excessive intake leads to <b>dental and skeletal fluorosis</b> (crippling bone deformities), not primarily liver cirrhosis.<br><br><b>Examiner's Trap:</b> Candidates might overestimate the BIS safe limits or confuse fluorosis pathologies with heavy metal poisoning (like lead or arsenic affecting the liver/kidneys).<br><b>PYQ Alignment:</b> Tests parameters of drinking water pollutants (similar to the 2013 PYQ on pollutants like Arsenic, Fluoride, and Uranium).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Biology",
+    "topic": "Hemorrhagic Septicemia (HS)",
+    "question": "<b>Consider the following statements regarding 'Hemorrhagic Septicemia', recently reported as a cause of mortality among zoo animals:</b><br><br>1. It is a highly fatal viral disease that primarily targets the central nervous system of cattle and buffaloes.<br>2. The disease spreads rapidly via inhalation or ingestion of contaminated feed and water, especially during humid and waterlogged conditions.<br>3. It is recognized as a zoonotic disease, posing a high mortality risk to zookeepers and dairy farmers.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one</b><br><br><b>Statement 1 is incorrect:</b> Hemorrhagic Septicemia (HS) is an acute <b>bacterial</b> disease (caused by Pasteurella multocida), not a viral disease.<br><b>Statement 2 is correct:</b> The bacteria spread via inhalation or ingestion. Outbreaks are notorious for occurring during rainy, humid, and waterlogged conditions.<br><b>Statement 3 is incorrect:</b> There are <b>no documented human infections</b> from HS; it is not considered a zoonotic threat to farmers or zookeepers.<br><br><b>Examiner's Trap:</b> Identifying the causative agent (bacteria vs virus) and whether the disease is zoonotic are classic UPSC filters.<br><b>PYQ Alignment:</b> Tests disease etiology and human-animal transmission interfaces (like Nipah or Swine flu).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "Nitrofurans",
+    "question": "<b>In the context of the food and agriculture industry, what are 'Nitrofurans'?</b>",
+    "options": [
+      "Naturally occurring enzymes used to accelerate the fermentation of dairy products.",
+      "A class of broad-spectrum synthetic antimicrobial drugs banned in food-producing animals due to their carcinogenic nature.",
+      "Bio-pesticides derived from botanical extracts to control the locust population.",
+      "Preservatives specifically approved by FSSAI for extending the shelf life of exported seafood."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: A class of broad-spectrum synthetic antimicrobial drugs banned in food-producing animals due to their carcinogenic nature.</b><br><br><b>Explanation:</b> Nitrofurans are synthetic antimicrobial drugs. While they were historically used in livestock and aquaculture (and nitrofurantoin is still used in humans for UTIs), they are globally banned for use in food-producing animals because they leave toxic, potentially cancer-causing residues in products like eggs and meat.<br><br><b>Examiner's Trap:</b> Presenting toxic banned substances as \"approved preservatives\" or \"natural bio-pesticides\" tests the candidate's grasp of current food safety enforcement drives by FSSAI.<br><b>PYQ Alignment:</b> Matches UPSC's vocabulary-based questions on chemical residues in agriculture/food (e.g., Carbofuran, Phorate in 2019).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "GlowCas9 Protein",
+    "question": "<b>Consider the following statements regarding the 'GlowCas9' protein developed by Indian scientists:</b><br><br>1. It integrates a split nano-luciferase enzyme to enable the real-time visualization of gene editing within living cells.<br>2. Unlike the standard Cas9 protein, GlowCas9 degrades rapidly at elevated temperatures, limiting its use exclusively to cold-storage environments.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>Statement 1 is correct:</b> GlowCas9 is a bioluminescent version of the CRISPR-Cas9 protein. When active inside the cell, luciferase fragments rejoin and emit light, signaling active gene editing without invasive testing.<br><b>Statement 2 is incorrect:</b> GlowCas9 actually exhibits <b>high thermal stability</b>, maintaining its structure and activity at elevated temperatures much better than standard Cas9, supporting its deployment in gene therapy delivery.<br><br><b>Examiner's Trap:</b> The examiner inverses the physical property (high vs low thermal stability) of the innovation. <br><b>PYQ Alignment:</b> Tests advancements in CRISPR technology (similar to Cas9 question in 2019).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Biology",
+    "topic": "Autophagy",
+    "question": "<b>Consider the following statements regarding 'Autophagy':</b><br><br>1. It is an intracellular degradation process that recycles damaged cellular components to generate energy and building blocks.<br>2. In the early stages of cancer, it acts universally as a tumour promoter by shielding malignant cells from the host immune system.<br>3. Disruption or impairment of the autophagy mechanism is heavily linked to the accumulation of damaged proteins in neurodegenerative disorders like Alzheimer’s.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is correct:</b> Autophagy (\"self-eating\") is a vital cellular self-cleaning and recycling mechanism that clears out damaged organelles and proteins, maintaining cellular homeostasis.<br><b>Statement 2 is incorrect:</b> In the early stages of cancer, autophagy actually acts as a <b>tumour suppressor</b> by maintaining genome integrity and clearing out toxins. It is only in later stages that some established cancers hijack it for their own survival.<br><b>Statement 3 is correct:</b> Impaired autophagy fails to clear toxic protein aggregates (like amyloid plaques), driving neurodegenerative diseases such as Alzheimer’s, Parkinson’s, and Huntington’s.<br><br><b>Examiner's Trap:</b> Simplifying the dual role of autophagy in cancer by labeling it exclusively a \"tumour promoter\" ignores its crucial protective early-stage function.<br><b>PYQ Alignment:</b> Deep conceptual testing of cellular biology mechanisms and associated human diseases.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "Dieback Disease",
+    "question": "<b>With reference to 'Dieback Disease', which frequently causes massive mortality in Neem trees, consider the following statements:</b><br><br>1. It is caused by a soil-borne virus that exclusively attacks the taproot system of the tree.<br>2. The disease is characterized by the progressive drying and withering of twigs and branches, starting from the tips downward.<br>3. The spread and severity of the disease are highly exacerbated during warm and moist rainy conditions.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Dieback is a <b>fungal</b> disease (caused mainly by <i>Phomopsis azadirachtae</i>), not a viral one. While it can spread via soil and roots, it manifests primarily in the canopy (twigs/branches), not exclusively the taproot.<br><b>Statement 2 is correct:</b> As the name implies, \"dieback\" causes the progressive drying and death of the plant's branches starting from the outer tips.<br><b>Statement 3 is correct:</b> The fungal pathogen thrives and spreads most aggressively in warm, humid, and rainy conditions.<br><br><b>Examiner's Trap:</b> Misidentifying a prominent fungal agricultural disease as a viral root pathogen.<br><b>PYQ Alignment:</b> Tests plant pathology and ecological conditions favoring crop/tree diseases (similar to agricultural pest/disease PYQs).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Health & Medicine",
+    "topic": "Candida Auris",
+    "question": "<b>Consider the following statements regarding 'Candida auris':</b><br><br>1. It is an emerging fungal pathogen predominantly causing severe bloodstream infections in healthcare settings.<br>2. It is highly susceptible to all conventional over-the-counter antifungal creams, making it easily treatable.<br>3. It was first identified in Japan and has since spread globally due to its multidrug-resistant nature.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is correct:</b> <i>C. auris</i> is an emerging, deadly fungal pathogen known for causing invasive healthcare-associated infections, particularly entering the bloodstream.<br><b>Statement 2 is incorrect:</b> <i>C. auris</i> is notorious precisely because it is <b>multidrug-resistant</b>. It does not respond to common antifungal drugs; resistant strains often require complex combination therapy (like Echinocandins).<br><b>Statement 3 is correct:</b> It was first isolated in Japan in 2009 and has spread globally, causing outbreaks in hospitals.<br><br><b>Examiner's Trap:</b> Framing a multidrug-resistant \"superbug\" as easily treatable with OTC creams to test awareness of the global AMR (Antimicrobial Resistance) crisis.<br><b>PYQ Alignment:</b> Aligns with the trend of testing emerging multidrug-resistant microbial pathogens.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Health & Medicine",
+    "topic": "Buccal Mucosa Cancer (BMC)",
+    "question": "<b>Consider the following statements regarding Buccal Mucosa Cancer (BMC):</b><br><br>1. It is a type of oral cancer that originates in the inner lining of the cheeks.<br>2. It predominantly affects squamous cells and is the most common oral cancer in the Indian subcontinent.<br>3. The consumption of alcohol is protective against BMC as it neutralizes the carcinogenic effects of tobacco.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> The buccal mucosa is the inner lining of the cheeks, where this cancer originates.<br><b>Statement 2 is correct:</b> BMC is primarily a Squamous Cell Carcinoma (SCC) and is highly prevalent in India due to widespread tobacco and betel nut chewing.<br><b>Statement 3 is incorrect:</b> Alcohol consumption is a major <b>risk factor</b> for BMC, not a protective agent. Even small amounts of alcohol significantly increase the risk, especially when combined with tobacco.<br><br><b>Examiner's Trap:</b> Presenting alcohol as a sterilizing/protective agent against oral cancer contradicts epidemiological data linking alcohol to cellular mutations.<br><b>PYQ Alignment:</b> Tests public health knowledge regarding lifestyle-induced non-communicable diseases.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
