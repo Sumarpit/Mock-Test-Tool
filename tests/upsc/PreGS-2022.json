@@ -1,0 +1,1502 @@
+[
+  {
+    "section": "Geography",
+    "topic": "Climatology",
+    "question": "<b>In the northern hemisphere, the longest day of the year normally occurs in the:</b>",
+    "options": [
+      "First half of the month of June",
+      "Second half of the month of June",
+      "First half of the month of July",
+      "Second half of the month of July"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Second half of the month of June</b><br><br>On 21st June (Summer Solstice), the Northern Hemisphere experiences summer with the longest day and shortest night, while the Southern Hemisphere has winter, with longer nights and shorter days. This falls in the second half of June.<br><br><i>Examiner's Trap:</i> The UPSC examiner avoids the exact date (21st June) and instead tests the candidate's confidence by dividing the month into halves, discouraging rote memorization.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecosystem and Ecology",
+    "question": "<b>The “Miyawaki method” is well known for the:</b>",
+    "options": [
+      "Promotion of commercial farming in arid and semi-arid areas",
+      "Development of gardens using genetically modified flora",
+      "Creation of mini forests in urban areas",
+      "Harvesting wind energy on coastal areas and on sea surfaces"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Creation of mini forests in urban areas</b><br><br>The Miyawaki method involves planting 2–4 trees per square meter, creating self-sustaining mini forests in 2–3 years, mostly in urban areas. It aims to restore indigenous ecosystems rapidly.<br><br><i>PYQ Alignment:</i> Direct terminology identification questions are a staple in UPSC Prelims (e.g., 'Biorock technology' or 'Aerial metagenomics').",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Legislature",
+    "question": "<b>With reference to anti-defection law in India, consider the following statements:</b><br><br>1. The law specifies that a nominated legislator cannot join any political party within six months of being appointed to the House.<br>2. The law does not provide any time-frame within which the presiding officer has to decide a defection case.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The Tenth Schedule states that a nominated member is disqualified if they join a political party <b>after</b> six months from taking their seat. They are allowed to join a party <i>within</i> the first six months.<br><b>Statement 2 is correct:</b> The Speaker/Chairman decides disqualification under the Tenth Schedule, and their decision is final. However, the law does not specify any time-frame for the presiding officer to decide a defection case.<br><br><i>Examiner's Trap:</i> Changing \"after six months\" to \"within six months\" is a classic reverse-logic trap targeting superficial reading.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Sangam Age",
+    "question": "<b>Which one of the following statements about Sangam literature in ancient South India is correct?</b>",
+    "options": [
+      "Sangam poems are devoid of any reference to material culture.",
+      "The social classification of Varna was known to Sangam poets.",
+      "Sangam poems have no reference to warrior ethics.",
+      "Sangam literature refers to magical forces as irrational."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The social classification of Varna was known to Sangam poets.</b><br><br><b>Option (b) is correct:</b> The varna system was not strictly practiced, but it was known to them (Tolkappiyam refers to 4 castes).<br><b>Option (a) and (c) are incorrect:</b> Sangam Literature has abundant references to material culture, war tactics, and warrior ethics.<br><b>Option (d) is incorrect:</b> Sangam literature does not refer to magical forces as irrational; phenomena like <i>Aṇaṅku</i> (sacred power) were supposed to inhabit various objects and determine social associations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Monetary Policy",
+    "question": "<b>With reference to the Indian economy, consider the following statements:</b><br><br>1. If the inflation is too high, the Reserve Bank of India (RBI) is likely to buy government securities.<br>2. If the rupee is rapidly depreciating, RBI is likely to sell dollars in the market.<br>3. If interest rates in the USA or European Union were to fall, that is likely to induce RBI to buy dollars.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> If inflation is too high, RBI needs to absorb excess liquidity. Buying government securities injects money into the economy, worsening inflation. The RBI would <b>sell</b> securities instead.<br><b>Statement 2 is correct:</b> To soften the rupee's fall during rapid depreciation, the RBI sells dollars from its forex reserves to increase dollar supply.<br><b>Statement 3 is correct:</b> Falling interest rates in the US/EU prompt foreign investors to move capital to India for better returns. To prevent the rupee from over-appreciating due to this dollar influx, the RBI buys dollars.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Protected Area Network",
+    "question": "<b>“If rainforests and tropical forests are the lungs of the Earth, then surely wetlands function as its kidneys.” Which one of the following functions of wetlands best reflects the above statement?</b>",
+    "options": [
+      "The water cycle in wetlands involves surface runoff, subsoil percolation and evaporation.",
+      "Algae form the nutrient base upon which fish, crustaceans, molluscs, birds, reptiles and mammals thrive.",
+      "Wetlands play a vital role in maintaining sedimentation balance and soil stabilization.",
+      "Aquatic plants absorb heavy metals and excess nutrients."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Aquatic plants absorb heavy metals and excess nutrients.</b><br><br>Kidneys function as filters in the human body, removing toxins and waste. Similarly, wetlands act as natural filters. Aquatic plants like <i>Hydrilla verticillata</i> and water hyacinth can absorb and accumulate heavy metals and excess nutrients from water, making them effective for removing toxic materials from aquatic ecosystems.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Places in news",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Region often mentioned in the news : Country</b><br>1. Anatolia : Turkey<br>2. Amhara : Ethiopia<br>3. Cabo Delgado : Spain<br>4. Catalonia : Italy<br><br><b>How many pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two pairs</b><br><br><b>Pair 1 is correctly matched:</b> Anatolia is the large peninsula that constitutes the Asian portion of Turkey.<br><b>Pair 2 is correctly matched:</b> Amhara is a regional state in Ethiopia, frequently in the news due to conflict.<br><b>Pair 3 is incorrectly matched:</b> Cabo Delgado is a province in <b>Mozambique</b>, not Spain.<br><b>Pair 4 is incorrectly matched:</b> Catalonia is an autonomous region in <b>Spain</b>, not Italy.<br><br><i>PYQ Alignment:</i> Cross-matching international conflict zones to incorrect European nations is a standard mapping trap.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Drainage System of India",
+    "question": "<b>Gandikota canyon of South India was created by which one of the following rivers?</b>",
+    "options": [
+      "Cauvery",
+      "Manjira",
+      "Pennar",
+      "Tungabhadra"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Pennar</b><br><br>Gandikota Canyon, often referred to as the Grand Canyon of India, is a spectacular gorge located in the Kadapa district of Andhra Pradesh. It was carved by the <b>Pennar River</b> as it cuts through the Erramala hills.<br><br><i>Examiner's Trap:</i> Familiarity with South Indian geography is tested; many guess Cauvery due to its prominence, missing the Pennar river's geological impact.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Legislature",
+    "question": "<b>Consider the following statements:</b><br><br>1. A bill amending the Constitution requires a prior recommendation of the President of India.<br>2. When a Constitution Amendment Bill is presented to the President of India, it is obligatory for the President of India to give his/her assent.<br>3. A Constitution Amendment Bill must be passed by both the Lok Sabha and the Rajya Sabha by a special majority and there is no provision for joint sitting.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Constitutional Amendment Bills (under Article 368) can be introduced without the prior recommendation of the President.<br><b>Statement 2 is correct:</b> The 24th Constitutional Amendment Act of 1971 made it obligatory for the President to give his assent to a Constitutional Amendment Bill.<br><b>Statement 3 is correct:</b> There is no provision for a joint sitting in case of a deadlock over a Constitutional Amendment Bill. It must be passed by both Houses separately by a special majority.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Protected Area Network",
+    "question": "<b>“Biorock technology” is talked about in which one of the following situations?</b>",
+    "options": [
+      "Restoration of damaged coral reefs",
+      "Development of building materials using plant residues",
+      "Identification of areas for exploration/extraction of shale gas",
+      "Providing salt licks for wild animals in forests/protected areas"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Restoration of damaged coral reefs</b><br><br>Biorock technology (also known as mineral accretion technology) involves applying a low-voltage electrical current through seawater. This causes dissolved minerals to crystallize on structures, forming a white limestone coating that provides an excellent substrate for the rapid restoration of damaged coral reefs.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Site of Ashoka’s major rock edicts : Location in the State of</b><br>1. Dhauli : Odisha<br>2. Erragudi : Andhra Pradesh<br>3. Jaugada : Madhya Pradesh<br>4. Kalsi : Karnataka<br><br><b>How many pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two pairs</b><br><br><b>Pair 1 is correctly matched:</b> Dhauli is located in Odisha.<br><b>Pair 2 is correctly matched:</b> Erragudi is located in Andhra Pradesh.<br><b>Pair 3 is incorrectly matched:</b> Jaugada is located in <b>Odisha</b>, not Madhya Pradesh.<br><b>Pair 4 is incorrectly matched:</b> Kalsi is located in <b>Uttarakhand</b>, not Karnataka.<br><br><i>PYQ Alignment:</i> The \"How many pairs\" format strictly targets eliminating guesswork by demanding exact geographical knowledge of Ashokan edicts.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Biodiversity",
+    "question": "<b>Certain species of which one of the following organisms are well known as cultivators of fungi?</b>",
+    "options": [
+      "Ant",
+      "Cockroach",
+      "Crab",
+      "Spider"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Ant</b><br><br>Attine ants (leafcutter ants), comprising over 200 species, are well known as cultivators of fungi. They cut foliage and bring it to their colonies to cultivate mutualistic fungal gardens, which serve as their primary food source.<br><br><i>PYQ Alignment:</i> UPSC frequently tests behavioral biology and symbiosis of insects and animals (e.g., Waggle dance of bees).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Places in news",
+    "question": "<b>The term “Levant” often heard in the news roughly corresponds to which of the following regions?</b>",
+    "options": [
+      "Region along the eastern Mediterranean shores",
+      "Region along North African shores stretching from Egypt to Morocco",
+      "Region along Persian Gulf and Horn of Africa",
+      "The entire coastal areas of Mediterranean Sea"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Region along the eastern Mediterranean shores</b><br><br>The Levant is a historical geographical term referring to a large area in the Eastern Mediterranean region of Western Asia. It roughly corresponds to modern-day Syria, Lebanon, Israel, Palestine, Jordan, and Cyprus.<br><br><i>Examiner's Trap:</i> Confusing it with the \"Maghreb\" (North Africa) or the entire Mediterranean basin.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Mughal Empire",
+    "question": "<b>“Yogavasistha” was translated into Persian by Nizamuddin Panipati during the reign of:</b>",
+    "options": [
+      "Akbar",
+      "Humayun",
+      "Shahjahan",
+      "Aurangzeb"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Akbar</b><br><br>YogaVasistha was translated into Persian multiple times throughout the Mughal Dynasty. Nizam al-Din Panipati completed one of these translations, known as the <i>Jug-Basisht</i>, in the late sixteenth century AD under the command of Emperor Akbar.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecosystem and Ecology",
+    "question": "<b>Which of the following are nitrogen-fixing plants?</b><br><br>1. Alfalfa<br>2. Amaranth<br>3. Chickpea<br>4. Clover<br>5. Purslane (Kulfa)<br>6. Spinach<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 3 and 4 only",
+      "1, 3, 5 and 6 only",
+      "2, 4, 5 and 6 only",
+      "1, 2, 4, 5 and 6"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 3 and 4 only</b><br><br>Leguminous plants have a symbiotic relationship with <i>Rhizobium</i> bacteria to fix atmospheric nitrogen. <br><b>Alfalfa (1), Chickpea (3), and Clover (4)</b> are leguminous nitrogen-fixing plants.<br>Amaranth (2), Purslane (5), and Spinach (6) are non-leguminous and do not possess nitrogen-fixing mechanisms.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Drainage System of India",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Reservoirs : States</b><br>1. Ghataprabha : Telangana<br>2. Gandhi Sagar : Madhya Pradesh<br>3. Indira Sagar : Andhra Pradesh<br>4. Maithon : Chhattisgarh<br><br><b>How many pairs given above are not correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only three pairs</b><br><br>The question asks how many pairs are <b>NOT</b> correctly matched.<br><b>Pair 1 is incorrect:</b> Ghataprabha reservoir is in <b>Karnataka</b>, not Telangana.<br><b>Pair 2 is correct:</b> Gandhi Sagar is on the Chambal River in Madhya Pradesh.<br><b>Pair 3 is incorrect:</b> Indira Sagar is on the Narmada River in <b>Madhya Pradesh</b>, not Andhra Pradesh.<br><b>Pair 4 is incorrect:</b> Maithon Dam is on the Barakar River in <b>Jharkhand</b>, not Chhattisgarh.<br>Exactly three pairs are incorrectly matched.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Pollution",
+    "question": "<b>In the context of WHO Air Quality Guidelines, consider the following statements:</b><br><br>1. The 24-hour mean of PM₂.₅ should not exceed 15 µg/m³ and annual mean of PM₂.₅ should not exceed 5 µg/m³.<br>2. In a year, the highest levels of ozone pollution occur during the periods of inclement weather.<br>3. PM₁₀ can penetrate the lung barrier and enter the bloodstream.<br>4. Excessive ozone in the air can trigger asthma.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1, 3 and 4",
+      "1 and 4 only",
+      "2, 3 and 4",
+      "1 and 2 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 4 only</b><br><br><b>Statement 1 is correct:</b> The updated WHO guidelines (2021) recommend that the annual average for PM₂.₅ should not exceed 5 µg/m³, and the 24-hour mean should not exceed 15 µg/m³.<br><b>Statement 2 is incorrect:</b> Ozone levels actually peak during sunny, warm afternoons (photochemical reaction), not during inclement (cloudy/rainy) weather.<br><b>Statement 3 is incorrect:</b> It is PM₂.₅ (fine particles), not PM₁₀, that is small enough to penetrate the lung barrier and enter the bloodstream.<br><b>Statement 4 is correct:</b> Excessive ozone exposure can trigger asthma and other respiratory conditions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Places in news",
+    "question": "<b>Which one of the following lakes of West Africa has become dry and turned into a desert?</b>",
+    "options": [
+      "Lake Victoria",
+      "Lake Faguibine",
+      "Lake Oguta",
+      "Lake Volta"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Lake Faguibine</b><br><br>Lake Faguibine in Mali (West Africa) was once one of the largest lakes in West Africa and highly fertile due to Niger River floods. It dried up after the severe droughts of the 1970s and 1980s, turning the area into a desert.<br><br><i>Examiner's Trap:</i> Lake Victoria is not in West Africa; Lake Volta is a large man-made reservoir in Ghana that is not dry.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Provincial Kingdoms in Medieval India",
+    "question": "<b>Consider the following pairs:</b><br><br><b>King : Dynasty</b><br>1. Nannuka : Chandela<br>2. Jayashakti : Paramara<br>3. Nagabhata II : Gurjara-Pratihara<br>4. Bhoja : Rashtrakuta<br><br><b>How many pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two pairs</b><br><br><b>Pair 1 is correctly matched:</b> Nannuka was the founder of the Chandela dynasty.<br><b>Pair 2 is incorrectly matched:</b> Jayashakti belonged to the <b>Chandela</b> dynasty, not Paramara.<br><b>Pair 3 is correctly matched:</b> Nagabhata II was an emperor of the Gurjara-Pratihara dynasty.<br><b>Pair 4 is incorrectly matched:</b> Bhoja (Mihira Bhoja) was a prominent ruler of the Gurjara-Pratihara dynasty, and Raja Bhoja was a ruler of the <b>Paramara</b> dynasty, but not Rashtrakuta.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Modern India",
+    "question": "<b>With reference to Indian history, consider the following statements:</b><br><br>1. The Dutch established their factories/warehouses on the east coast on lands granted to them by the Gajapati rulers.<br>2. Alfonso de Albuquerque captured Goa from the Bijapur Sultanate.<br>3. The English East India Company established a factory at Madras on a plot of land leased from a representative of the Vijayanagara empire.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> The Gajapati rule ended around the mid-16th century (1541), while the Dutch set up their first factory at Masulipatnam much later, in 1605. They did not receive grants from Gajapati rulers.<br><b>Statement 2 is correct:</b> Alfonso de Albuquerque captured Goa from the Adil Shahi dynasty of the Bijapur Sultanate in 1510.<br><b>Statement 3 is correct:</b> The English obtained the lease for Madraspatnam in 1639 from Darmala Venkatadri Nayak, a representative/chieftain under the declining Vijayanagara empire.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatology",
+    "question": "<b>Consider the following statements:</b><br><br>1. High clouds primarily reflect solar radiation and cool the surface of the Earth.<br>2. Low clouds have a high absorption of infrared radiation emanating from the Earth’s surface and thus cause a warming effect.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Statement 1 is incorrect:</b> High clouds are thin, largely transparent to incoming solar radiation (they don't reflect much), but they efficiently trap outgoing longwave (infrared) heat, thereby <b>warming</b> the Earth.<br><b>Statement 2 is incorrect:</b> Low clouds are thick and excellent reflectors of incoming sunlight. While they do absorb some infrared, their primary effect is reflecting solar radiation back into space, thereby <b>cooling</b> the Earth.<br><br><i>Examiner's Trap:</i> The properties and effects of high and low clouds are completely reversed in the statements.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Independence to Partition",
+    "question": "<b>With reference to the proposals of Cripps Mission, consider the following statements:</b><br><br>1. The Constituent Assembly would have members nominated by the Provincial Assemblies as well as the Princely States.<br>2. Any Province, which is not prepared to accept the new Constitution would have the right to sign a separate agreement with Britain regarding its future status.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The Cripps Mission proposed a Constituent Assembly whose members were to be <b>partly elected</b> by the provincial assemblies through proportional representation and partly <b>nominated</b> by the Princely states. They were not exclusively nominated.<br><b>Statement 2 is correct:</b> The proposal explicitly gave any province unwilling to join the Indian Union the right to have a separate constitution and form a separate union.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "The Earth and the Universe",
+    "question": "<b>If a major solar storm (solar flare) reaches the Earth, which of the following are the possible effects on the Earth?</b><br><br>1. GPS and navigation systems could fail.<br>2. Tsunamis could occur at equatorial regions.<br>3. Power grids could be damaged.<br>4. Intense auroras could occur over much of the Earth.<br>5. Forest fires could take place over much of the planet.<br>6. Orbits of the satellites could be disturbed.<br>7. Shortwave radio communication of the aircraft flying over polar regions could be interrupted.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2, 4 and 5 only",
+      "2, 3, 5, 6 and 7 only",
+      "1, 3, 4, 6 and 7 only",
+      "1, 2, 3, 4, 5, 6 and 7"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 3, 4, 6 and 7 only</b><br><br>Solar flares and Coronal Mass Ejections (CMEs) release intense radiation and charged particles.<br><b>Points 1, 3, 6, and 7 are correct:</b> These particles interact with Earth's magnetic field and ionosphere, disrupting radio communications, GPS, damaging satellites, and overloading power grids with geomagnetically induced currents.<br><b>Point 4 is correct:</b> They cause intense auroras visible far from the poles.<br><b>Points 2 and 5 are incorrect:</b> Solar storms do <b>not</b> cause terrestrial geological events like tsunamis, nor do they generate enough direct heat on the Earth's surface to ignite forest fires.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Mauryan and Post-Mauryan Age",
+    "question": "<b>According to Kautilya’s Arthashastra, which of the following are correct?</b><br><br>1. A person could be a slave as a result of a judicial punishment.<br>2. If a female slave bore her master a son, she was legally free.<br>3. If a son born to a female slave was fathered by her master, the son was entitled to the legal status of the master’s son.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> According to Kautilya, enslavement primarily occurred through self-sale during famine, or as prisoners of war, rather than strictly judicial punishment.<br><b>Statement 2 is correct:</b> Kautilya’s Arthashastra mentions that if a female slave bore her master a son, she was to be considered legally free.<br><b>Statement 3 is correct:</b> A son born to a female slave and fathered by her master was legally recognized as the master’s legitimate son and entitled to inheritance.<br><i>Note: Certain academic debates suggest all three might be considered depending on the translation, but official UPSC key aligns with 2 and 3.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Physiography of India",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Peak : Mountains</b><br>1. Namcha Barwa : Garhwal Himalaya<br>2. Nanda Devi : Kumaon Himalaya<br>3. Nokrek : Sikkim Himalaya<br><br><b>Which of the pairs given above is/are correctly matched?</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Pair 1 is incorrect:</b> Namcha Barwa is located in the extreme eastern section of the Himalayas, near the border of Arunachal Pradesh and Tibet (Assam Himalayas), not in the Garhwal Himalayas.<br><b>Pair 2 is correct:</b> Nanda Devi is the highest peak in the Kumaon Himalayas (Uttarakhand).<br><b>Pair 3 is incorrect:</b> Nokrek is the highest peak of the Garo Hills in the Meghalaya Plateau, not in the Sikkim Himalayas.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Modern India",
+    "question": "<b>Consider the following freedom fighters:</b><br><br>1. Barindra Kumar Ghosh<br>2. Jogesh Chandra Chatterjee<br>3. Rash Behari Bose<br><br><b>Who of the above was/were actively associated with the Ghadar Party?</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br>Barindra Kumar Ghosh and Jogesh Chandra Chatterjee were associated with the Anushilan Samiti. Rash Behari Bose was actively associated with the Ghadar Party.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Pollution",
+    "question": "<b>With reference to polyethylene terephthalate, the use of which is so widespread in our daily lives, consider the following statements:</b><br><br>1. Its fibres can be blended with wool and cotton fibres to reinforce their properties.<br>2. Containers made of it can be used to store any alcoholic beverage.<br>3. Bottles made of it can be recycled into other products.<br>4. Articles made of it can be easily disposed of by incineration without causing greenhouse gas emissions.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 3",
+      "2 and 4",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 3</b><br><br>PET is made from modified ethylene glycol and purified terephthalic acid; its fibers can blend with wool and cotton. PET containers are not recommended for alcoholic beverage storage. PET is a recyclable plastic. Its incineration emits greenhouse gases like CO₂.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Legislature",
+    "question": "<b>Which of the following is/are the exclusive power(s) of Lok Sabha?</b><br><br>1. To ratify the declaration of Emergency<br>2. To pass a motion of no-confidence against the Council of Ministers<br>3. To impeach the President of India<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br>Statement 1 is incorrect: Proclamations of Emergency must be laid before both Houses of Parliament. Statement 2 is correct: Article 75(3) makes the Council of Ministers collectively responsible only to the Lok Sabha. Statement 3 is incorrect: Impeachment can be initiated in either House.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "World Map",
+    "question": "<b>Consider the following countries:</b><br><br>1. Azerbaijan<br>2. Kyrgyzstan<br>3. Tajikistan<br>4. Turkmenistan<br>5. Uzbekistan<br><br><b>Which of the above have borders with Afghanistan?</b>",
+    "options": [
+      "1, 2 and 5 only",
+      "1, 2, 3 and 4 only",
+      "3, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 3, 4 and 5 only</b><br><br>Afghanistan shares borders with Iran, Pakistan, Turkmenistan, Tajikistan, Uzbekistan, China and India. Azerbaijan and Kyrgyzstan do not border Afghanistan.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Groups",
+    "question": "<b>With reference to the United Nations Convention on the Law of Sea, consider the following statements:</b><br><br>1. A coastal state has the right to establish the breadth of its territorial sea up to a limit not exceeding 12 nautical miles, measured from baseline determined in accordance with the convention.<br>2. Ships of all states, whether coastal or land-locked, enjoy the right of innocent passage through the territorial sea.<br>3. The Exclusive Economic Zone shall not extend beyond 200 nautical miles from the baseline from which the breadth of the territorial sea is measured.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br>All statements are correct. Coastal states have sovereignty over the territorial sea (up to 12 nautical miles); foreign vessels get innocent passage (Article 17). The EEZ extends up to 200 nautical miles from the baseline.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Indian Philosophy",
+    "question": "<b>With reference to Indian history, consider the following pairs :</b><br><br><b>Historical person : Known as</b><br>1. Aryadeva : Jaina scholar<br>2. Dignaga : Buddhist scholar<br>3. Nathamuni : Vaishnava scholar<br><br><b>How many pairs given above are correctly matched?</b>",
+    "options": [
+      "None of the pairs",
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only two pairs</b><br><br>Aryadeva was a Buddhist scholar (not Jaina) and author of Catuhsataka. Dignaga was a Buddhist scholar and founder of Indian logic. Nathamuni was a Vaishnava theologian.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>With reference to India, consider the following statements:</b><br><br>1. Government law officers and legal firms are recognised as advocates, but corporate lawyers and patent attorneys are excluded from recognition as advocates.<br>2. Bar Councils have the power to lay down the rules relating to legal education and recognition of law colleges.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br>Statement 1 is not correct: Only advocates enrolled with a State Bar Council are recognized to practice law. Statement 2 is correct: The Bar Council of India inspects law colleges and universities as part of its statutory function to promote legal education and set standards.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Medieval India",
+    "question": "<b>In medieval India, the term “Fanam” referred to:</b>",
+    "options": [
+      "Clothing",
+      "Coins",
+      "Ornaments",
+      "Weapons"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Coins</b><br><br>During the Vijayanagar Empire, Fanams were small denomination coins widely used in South India, especially in regions like Travancore, and the term still means “money” in Malayalam.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies",
+    "question": "<b>Consider the following statements:</b><br><br>1. Attorney General of India and Solicitor General of India are the only officers of the Government who are allowed to participate in the meetings of the Parliament of India.<br>2. According to the Constitution of India, the Attorney General of India submits his resignation when the Government which appointed him resigns.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br>Statement 1 is incorrect: Article 88 grants the Attorney General the right to speak and take part in Parliament, but not the Solicitor General. Statement 2 is incorrect: The Attorney General holds office at the pleasure of the President; there is no constitutional mandate that he must resign when the government resigns.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Groups",
+    "question": "<b>With reference to the “G20 Common Framework”, consider the following statements:</b><br><br>1. It is an initiative endorsed by the G20 together with the Paris Club.<br>2. It is an initiative to support Low Income Countries with unsustainable debt.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br>The Common Framework for Debt Treatments beyond the DSSI is an agreement endorsed by the G20 and Paris Club countries. It supports low-income countries offering debt deferral or restructuring to ease financing pressures.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Pollution",
+    "question": "<b>Among the following crops, which one is the most important anthropogenic source of both methane and nitrous oxide?</b>",
+    "options": [
+      "Cotton",
+      "Rice",
+      "Sugarcane",
+      "Wheat"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Rice</b><br><br>Rice cultivation significantly contributes to greenhouse gas emissions, particularly methane (CH₄) and nitrous oxide (N₂O).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Architecture and Sculpture",
+    "question": "<b>The Prime Minister recently inaugurated the new Circuit House near Somnath Temple at Veraval. Which of the following statements are correct regarding Somnath Temple?</b><br><br>1. Somnath Temple is one of the Jyotirlinga shrines.<br>2. A description of the Somnath Temple was given by Al-Biruni.<br>3. Pran Pratishtha of Somnath Temple (installation of the present-day temple) was done by President S. Radhakrishnan.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br>The Somnath Temple in Gujarat is one of the twelve Jyotirlingas and was praised by Al-Biruni. The Pran-Pratistha was performed by Dr. Rajendra Prasad in 1951, not S. Radhakrishnan. Hence, Statement 3 is incorrect.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Biodiversity",
+    "question": "<b>With reference to “Gucchi” sometimes mentioned in the news, consider the following statements:</b><br><br>1. It is a fungus.<br>2. It grows in some Himalayan forest areas.<br>3. It is commercially cultivated in the Himalayan foothills of north-eastern India.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "3 only",
+      "1 and 2",
+      "2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 2</b><br><br>Gucchi mushroom is a highly prized edible fungus (Statement 1). It grows in conifer forests across temperate regions, and the foothills in Himachal Pradesh, Uttaranchal, and Jammu and Kashmir (Statement 2). It cannot be cultivated commercially (Statement 3 is incorrect).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Legislature",
+    "question": "<b>With reference to Deputy Speaker of Lok Sabha, consider the following statements:</b><br><br>1. As per the Rules of Procedure and Conduct of Business in Lok Sabha, the election of Deputy Speaker shall be held on such date as the Speaker may fix.<br>2. There is a mandatory provision that the election of a candidate as Deputy Speaker of Lok Sabha shall be from either the principal opposition party or the ruling party.<br>3. The Deputy Speaker has the same power as of the Speaker when presiding over the sitting of the House and no appeal lies against his rulings.<br>4. The well established parliamentary practice regarding the appointment of Deputy Speaker is that the motion is moved by the Speaker and duly seconded by the Prime Minister.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 3",
+      "3 and 4 only",
+      "2 and 4 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br>Statement 1 is correct. Statement 2 is incorrect; there is no mandatory provision, it is only a convention. Statement 3 is correct. Statement 4 is incorrect; the motion is not moved by the Speaker.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Biodiversity",
+    "question": "<b>Which of the following is not a bird?</b>",
+    "options": [
+      "Golden Mahseer",
+      "Indian Nightjar",
+      "Spoonbill",
+      "White Ibis"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Golden Mahseer</b><br><br>Golden Mahseer is a species of cyprinid fish, not a bird; the others (Indian Nightjar, Spoonbill, White Ibis) are birds.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Executive",
+    "question": "<b>Consider the following statements:</b><br><br>1. The Constitution of India classifies the ministers into four ranks viz. Cabinet Minister, Minister of State with Independent Charge, Minister of State and Deputy Minister.<br>2. The total number of ministers in the Union Government, including the Prime Minister, shall not exceed 15 percent of the total number of members in the Lok Sabha.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br>Statement 1 is incorrect: The Constitution does not classify ministers into these specific ranks. Statement 2 is correct: Article 75(1A) (inserted by the 91st Amendment) limits the Council of Ministers to 15% of the Lok Sabha's total membership.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Groups",
+    "question": "<b>With reference to the “United Nations Credentials Committee”, consider the following statements:</b><br><br>1. It is a committee set up by the UN Security Council and works under its supervision.<br>2. It traditionally meets in March, June and September every year.<br>3. It assesses the credentials of all UN members before submitting a report to the General Assembly for approval.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "3 only",
+      "1 and 3",
+      "2 and 3",
+      "1 and 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br>Statement 1 is incorrect: It is appointed by the UN General Assembly, not the Security Council. Statement 2 is incorrect: It is appointed at the beginning of each regular session of the General Assembly. Statement 3 is correct: It assesses credentials and reports to the General Assembly.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>With reference to the writs issued by the Courts in India, consider the following statements:</b><br><br>1. Mandamus will not lie against a private organisation unless it is entrusted with a public duty.<br>2. Mandamus will not lie against a Company even though it may be a Government Company.<br>3. Any public minded person can be a petitioner to move the Court to obtain the writ of Quo Warranto.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br>Statement 1 is correct: Mandamus is directed at public duties. Statement 2 is incorrect: Mandamus CAN lie against a Government Company. Statement 3 is correct: Quo Warranto can be sought by any public-minded person, not necessarily the aggrieved person.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Pollution",
+    "question": "<b>Consider the following:</b><br><br>1. Carbon monoxide<br>2. Nitrogen oxide<br>3. Ozone<br>4. Sulphur dioxide<br><br><b>Excess of which of the above in the environment is/are cause(s) of acid rain?</b>",
+    "options": [
+      "1, 2 and 3",
+      "2 and 4 only",
+      "4 only",
+      "1, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 4 only</b><br><br>Acid rain forms when sulphur dioxide (SO₂) and nitrogen oxides (NOₓ) from burning fossil fuels react with atmospheric water.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Groups",
+    "question": "<b>Consider the following:</b><br><br>1. Asian Infrastructure Investment Bank<br>2. Missile Technology Control Regime<br>3. Shanghai Cooperation Organisation<br><br><b>India is a member of which of the above?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br>India joined the Asian Infrastructure Investment Bank (AIIB) as a founding member, the MTCR in 2016, and became a full member of the Shanghai Cooperation Organisation (SCO) in 2017.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Modern India",
+    "question": "<b>In the Government of India Act 1919, the functions of Provincial Government were divided into “Reserved” and “Transferred” subjects. Which of the following were treated as “Reserved” subjects?</b><br><br>1. Administration of Justice<br>2. Local Self-Government<br>3. Land Revenue<br>4. Police<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 3 and 4",
+      "1, 2 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 3 and 4</b><br><br>Justice, police, land revenue, and irrigation were among the reserved subjects under the category of law and order. Local self-government, education, public health, agriculture, etc. were transferred subjects.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Medieval India",
+    "question": "<b>With reference to Indian history, consider the following statements:</b><br><br>1. The first Mongol invasion of India happened during the reign of Jalal-ud-din Khalji.<br>2. During the reign of Ala-ud-din Khalji, one Mongol assault marched up to Delhi and besieged the city.<br>3. Muhammad-bin-Tughlaq temporarily lost portions of north-west of his kingdom to Mongols.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br>Statement 1 is incorrect: The first Mongol invasion took place in the reign of Sultan Shams-ud-din Iltutmish.<br>Statement 2 is correct: The Mongols besieged the city during the reign of Alauddin Khalji.<br>Statement 3 is incorrect: Mongols did not annex the North-West part of the kingdom of Muhammad-bin-Tughlaq.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Groups",
+    "question": "<b>With reference to the United Nations General Assembly, consider the following statements:</b><br><br>1. The UN General Assembly can grant observer status to the non-member States.<br>2. Inter-governmental organisations can seek observer status in the UN General Assembly.<br>3. Permanent Observers in the UN General Assembly can maintain missions at the UN headquarters.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br>The UN General Assembly grants observer status to non-member states (like the Holy See) and intergovernmental organizations. Permanent Observers can maintain missions at the UN headquarters.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>Consider the following statements:</b><br><br>1. Pursuant to the report of H.N. Sanyal Committee, the Contempt of Courts Act, 1971 was passed.<br>2. The Constitution of India empowers the Supreme Court and the High Courts to punish for contempt of themselves.<br>3. The Constitution of India defines Civil Contempt and Criminal Contempt.<br>4. In India, the Parliament is vested with the powers to make laws on Contempt of Court.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4",
+      "3 and 4 only",
+      "3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 2 and 4</b><br><br>Statement 1 is correct: The Sanyal Committee (1963) led to the Contempt of Courts Act, 1971. Statement 2 is correct: Articles 129 and 215 grant this power. Statement 3 is incorrect: The Constitution does not define civil and criminal contempt (the 1971 Act does). Statement 4 is correct: Parliament has the power to make laws on this subject.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Indian Philosophy",
+    "question": "<b>The world’s second tallest statue in sitting pose of Ramanuja was inaugurated by the Prime Minister of India at Hyderabad recently. Which one of the following statements correctly represents the teachings of Ramanuja?</b>",
+    "options": [
+      "The best means of salvation was devotion.",
+      "Vedas are eternal, self-existent and wholly authoritative.",
+      "Logical arguments were essential means for the highest bliss.",
+      "Salvation was to be obtained through meditation."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: The best means of salvation was devotion.</b><br><br>Ramanuja tried to assimilate bhakti to the tradition of Vedas. He argued that in order to attain salvation, the grace of God was more important than knowledge about him, and the path of prapatti or total reliance or surrender to God was open to all.",
+    "marks": 2.0,
+    "negative": 0.66
+  },  
+  {
+    "section": "Polity",
+    "topic": "Fifth Schedule and Tribal Rights",
+    "question": "<b>If a particular area is brought under the Fifth Schedule of the Constitution of India, which one of the following statements best reflects the consequence of it?</b>",
+    "options": [
+      "This would prevent the transfer of land of tribal people to non-tribal people.",
+      "This would create a local self-governing body in that area.",
+      "This would convert that area into a Union Territory.",
+      "The State having such areas would be declared a Special Category State."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: This would prevent the transfer of land of tribal people to non-tribal people.</b><br><br><b>Constitutional Provisions:</b><br><ul><li><b>Fifth Schedule:</b> Grants special administrative protections to Scheduled Areas to preserve tribal autonomy and prevent economic exploitation.</li><li><b>Judicial Precedent:</b> In the <i>Samatha vs. State of Andhra Pradesh (1997)</i> case, the Supreme Court explicitly ruled that mining leases to non-tribals in Scheduled Areas violate land transfer regulations.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Extreme Phrasing:</b> Options claiming the creation of a 'Union Territory' or 'Special Category State' are highly extreme and jurisdictionally inaccurate.</li><li><b>Concept Confusion:</b> Autonomous self-governing bodies (like District Councils) are a hallmark of the <b>Sixth Schedule</b> (AMTM states), not the Fifth Schedule.</li></ul><b>PYQ Alignment:</b><br><ul><li>UPSC repeatedly tests the strict jurisdictional differences between the Fifth and Sixth Schedules (e.g., PESA Act in 2013, tribal land rights in 2019).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Monetary Policy & Inflation",
+    "question": "<b>In India, which one of the following is responsible for maintaining price stability by controlling inflation?</b>",
+    "options": [
+      "Department of Consumer Affairs",
+      "Expenditure Management Commission",
+      "Financial Stability and Development Council",
+      "Reserve Bank of India"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Reserve Bank of India</b><br><br><b>Institutional Mandate:</b><br><ul><li><b>Reserve Bank of India (RBI):</b> Tasked with ensuring monetary stability and managing currency. Under the amended RBI Act, 1934, it is legally mandated to maintain price stability through the Monetary Policy Committee (MPC).</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Nodal Agency Confusion:</b> The <i>Department of Consumer Affairs</i> monitors prices of essential commodities but lacks macroeconomic tools (like repo rates) to control inflation.</li><li><b>Financial Stability and Development Council (FSDC):</b> An apex body under the Ministry of Finance for macroeconomic supervision, but it does not execute day-to-day inflation control.</li></ul><b>PYQ Alignment:</b><br><ul><li>UPSC heavily tests the roles of key financial institutions and the specific mandate of the RBI's MPC (e.g., 2017 MPC composition question).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Bond Market Instruments",
+    "question": "<b>With reference to the Indian economy, what are the advantages of “Inflation-Indexed Bonds (IIBs)”?</b><br><br>1. Government can reduce the coupon rates on its borrowing by way of IIBs.<br>2. IIBs provide protection to the investors from uncertainty regarding inflation.<br>3. The interest received as well as capital gains on IIBs are not taxable.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Core Mechanics of IIBs:</b><br><ul><li><b>Statement 1 is correct:</b> Because the principal is indexed to inflation, investors are willing to accept a lower fixed coupon rate, saving borrowing costs for the Government.</li><li><b>Statement 2 is correct:</b> IIBs shield investors against inflation by adjusting the principal amount in line with an inflation index (like WPI/CPI).</li><li><b>Statement 3 is incorrect:</b> There is no special tax exemption for IIBs. Extant tax provisions apply to both interest payments and capital gains.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Extreme Phrasing / Exceptions:</b> The word \"not taxable\" is a classic trap. Very few sovereign instruments are completely tax-free; always suspect absolute tax exemptions unless explicitly tied to specific tax-free bonds.</li></ul><b>PYQ Alignment:</b><br><ul><li>UPSC tests the functional utility of specific debt instruments (e.g., Masala Bonds in 2016, Gold Bonds in 2016).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Bond Market Instruments",
+    "question": "<b>With reference to Convertible Bonds, consider the following statements:</b><br><br>1. As there is an option to exchange the bond for equity, Convertible Bonds pay a lower rate of interest.<br>2. The option to convert to equity affords the bondholder a degree of indexation to rising consumer prices.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>Concept Analysis:</b><br><ul><li><b>Statement 1 is correct:</b> A convertible bond offers the investor an embedded call option to convert debt into equity. To offset this valuable benefit, issuers offer a lower coupon (interest) rate compared to non-convertible debt.</li><li><b>Statement 2 is correct:</b> Equity prices generally rise with corporate earnings, which typically scale with inflation. Therefore, the ability to convert to equity acts as an indirect hedge (indexation) against rising consumer prices.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Reverse Logic Trap:</b> Candidates may assume \"more features = higher interest rate,\" but in finance, an equity upside offsets the risk premium, lowering the interest yield.</li></ul><b>PYQ Alignment:</b><br><ul><li>Tests fundamental macro-financial concepts of debt and equity dynamics, similar to the 2021 question on Foreign Currency Convertible Bonds.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Blockchain and Digital Assets",
+    "question": "<b>With reference to Non-Fungible Tokens (NFTs), consider the following statements:</b><br><br>1. They enable the digital representation of physical assets.<br>2. They are unique cryptographic tokens that exist on a blockchain.<br>3. They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>NFT Characteristics:</b><br><ul><li><b>Statement 1 is correct:</b> NFTs can tokenize real-world tangible assets (like art or real estate), making buying, selling, and trading them more efficient.</li><li><b>Statement 2 is correct:</b> They rely on blockchain technology to establish verified, unalterable proof of ownership and uniqueness.</li><li><b>Statement 3 is incorrect:</b> The core defining feature of an NFT is that it is <i>Non-Fungible</i> (not mutually interchangeable). They cannot be exchanged at equivalency like fiat currency or Bitcoin, hence cannot serve as a standard medium of exchange.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Definitional Trap:</b> Statement 3 describes a \"Fungible\" token. The examiner relies on the candidate failing to decode the literal acronym \"Non-Fungible.\"</li></ul><b>PYQ Alignment:</b><br><ul><li>UPSC heavily tests emerging tech definitions (e.g., Blockchain in 2020, Bitcoins in 2016).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Public Finance & Debt",
+    "question": "<b>With reference to the Indian economy, consider the following statements:</b><br><br>1. A share of the household financial savings goes towards government borrowings.<br>2. Dated securities issued at market-related rates in auctions form a large component of internal debt.<br><br><b>Which of the above statements is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>Macroeconomic Linkages:</b><br><ul><li><b>Statement 1 is correct:</b> Household savings are mobilized by banks, insurance companies, and provident funds, which are legally mandated (via SLR, etc.) to invest heavily in government securities (G-Secs), funding the fiscal deficit.</li><li><b>Statement 2 is correct:</b> The bulk of the Government of India's internal debt consists of dated securities (long-term bonds) issued via RBI auctions at market-clearing rates.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Conceptual Disconnect:</b> Aspirants might fail to connect retail bank deposits (household savings) to wholesale sovereign debt markets.</li></ul><b>PYQ Alignment:</b><br><ul><li>Consistently tests components of public debt and monetary transmission (e.g., FRBM and debt liabilities in 2018).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Corporate Finance",
+    "question": "<b>With reference to the expenditure made by an organization or a company, which of the following statements is/are correct?</b><br><br>1. Acquiring new technology is capital expenditure.<br>2. Debt financing is considered capital expenditure, while equity financing is considered revenue expenditure.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>Accounting Classification (per UPSC official key logic):</b><br><ul><li><b>Statement 1 is correct:</b> Purchasing or upgrading long-term assets like new technology, software, or machinery generates future economic benefits and is classified as Capital Expenditure (CapEx).</li><li><b>Statement 2 is correct:</b> In the context of capital structuring, long-term debt financing is recognized under capital expenditure frameworks due to long-term asset creation, whereas short-term equity financing activities/dividends map under revenue dynamics. <i>(Note: This interpretation strictly follows the official UPSC 2022 key rationale, despite traditional accounting debates).</i></li></ul><b>Examiner's Trap:</b><br><ul><li><b>Terminology Blur:</b> Confusing CapEx (asset creation) with OpEx/RevEx (day-to-day operations).</li></ul><b>PYQ Alignment:</b><br><ul><li>Budgetary/corporate classifications of Revenue vs. Capital are recurrent (e.g., Non-Plan expenditure in 2014, Capital budget components in 2016).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Currency and Exchange Rates",
+    "question": "<b>With reference to the Indian economy, consider the following statements:</b><br><br>1. An increase in Nominal Effective Exchange Rate (NEER) indicates the appreciation of rupee.<br>2. An increase in the Real Effective Exchange Rate (REER) indicates an improvement in trade competitiveness.<br>3. An increasing trend in domestic inflation relative to inflation in other countries is likely to cause an increasing divergence between NEER and REER.<br><br><b>Which of the above statements are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>Exchange Rate Dynamics:</b><br><ul><li><b>Statement 1 is correct:</b> NEER is a weighted average of bilateral exchange rates. An increase indicates that the domestic currency (Rupee) is appreciating against a basket of foreign currencies.</li><li><b>Statement 2 is incorrect:</b> REER is the NEER adjusted for inflation differentials. An <i>increase</i> in REER means exports become relatively more expensive and imports cheaper, indicating a <b>loss</b> (not improvement) in trade competitiveness.</li><li><b>Statement 3 is correct:</b> Since REER = NEER \u00d7 (Domestic Price Index / Foreign Price Index), higher domestic inflation mathematically widens the divergence between the two metrics.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Reverse Logic:</b> Assuming \"increase in metric = improvement in competitiveness.\" For REER, an increase harms export competitiveness.</li></ul><b>PYQ Alignment:</b><br><ul><li>Tests applied macroeconomics concerning currency devaluation/appreciation (e.g., Devaluation effects in 2021).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Global Macroeconomics",
+    "question": "<b>Consider the following statements:</b><br><br>1. Tight monetary policy of the US Federal Reserve could lead to capital flight.<br>2. Capital flight may increase the interest cost of firms with existing External Commercial Borrowings (ECBs).<br>3. Devaluation of domestic currency decreases the currency risk associated with ECBs.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Global Financial Linkages:</b><br><ul><li><b>Statement 1 is correct:</b> \"Tightening\" means the US Fed raises interest rates. Higher US yields attract global capital, causing Foreign Portfolio Investors (FPIs) to pull money out of emerging markets (capital flight).</li><li><b>Statement 2 is correct:</b> Capital flight leads to domestic currency depreciation. Firms that borrowed in foreign currency (ECBs) now need more domestic currency to service the same debt, effectively increasing their interest costs.</li><li><b>Statement 3 is incorrect:</b> Devaluation <b>increases</b> (does not decrease) the currency risk and repayment burden for unhedged ECBs.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Directional Trap:</b> Confusing the impact of domestic devaluation on foreign-denominated debt.</li></ul><b>PYQ Alignment:</b><br><ul><li>Evaluates the impact of US Fed actions and global financial crises on India (e.g., 2020 question on financial crisis immunity).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Financial Regulatory Bodies",
+    "question": "<b>Consider the following statements:</b><br><br>1. In India, credit rating agencies are regulated by the Reserve Bank of India.<br>2. The rating agency popularly known as ICRA is a public limited company.<br>3. Brickwork Ratings is an Indian credit rating agency.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Regulatory Fact-Check:</b><br><ul><li><b>Statement 1 is incorrect:</b> Credit Rating Agencies (CRAs) in India (like CRISIL, ICRA, CARE) are regulated by the <b>Securities and Exchange Board of India (SEBI)</b> under the CRA Regulations, 1999, not the RBI.</li><li><b>Statement 2 is correct:</b> ICRA Limited is a public limited company, originally set up with support from Moody's.</li><li><b>Statement 3 is correct:</b> Brickwork Ratings is an indigenous Indian credit rating agency recognized by SEBI and RBI.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Jurisdictional Overreach:</b> Assuming RBI regulates all financial intermediaries. SEBI handles capital markets and rating entities.</li></ul><b>PYQ Alignment:</b><br><ul><li>UPSC frequently tests the exact regulatory body overseeing specific sectors (e.g., FMC merger, PNGRB jurisdiction).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Macroeconomic Sectors",
+    "question": "<b>Which of the following activities constitute a real sector in the economy?</b><br><br>1. Farmers harvesting their crops<br>2. Textile mills converting raw cotton into fabrics<br>3. A commercial bank lending money to a trading company<br>4. A corporate body issuing Rupee Denominated Bonds overseas<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Sector Classification:</b><br><ul><li><b>Real Sector:</b> Deals with the actual production of goods and non-financial services (e.g., agriculture, manufacturing). Farmers harvesting (1) and mills weaving fabric (2) directly generate physical output.</li><li><b>Financial Sector:</b> Deals with the flow of money, lending, and securities. Commercial lending (3) and issuing offshore bonds (4) fall entirely within the financial or nominal economy.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Categorization Error:</b> Treating monetary support activities (banking) as actual physical production.</li></ul><b>PYQ Alignment:</b><br><ul><li>Tests foundational definitions of National Income accounting and sector boundaries.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "Agronomic Practices",
+    "question": "<b>“System of Rice Intensification” of cultivation, in which alternate wetting and drying of rice fields is practised, results in:</b><br><br>1. Reduced seed requirement<br>2. Reduced methane production<br>3. Reduced electricity consumption<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>System of Rice Intensification (SRI) Benefits:</b><br><ul><li><b>Statement 1 is correct:</b> SRI emphasizes planting younger, single seedlings with much wider spacing, drastically reducing the overall seed requirement.</li><li><b>Statement 2 is correct:</b> Continuous flooding causes anaerobic decomposition, releasing methane. SRI relies on alternate wetting and drying, minimizing anaerobic conditions and cutting methane emissions.</li><li><b>Statement 3 is correct:</b> Because the fields are not kept continuously flooded, the need for groundwater pumping is minimized, saving significant electricity.</li></ul><b>Examiner's Trap:</b><br><ul><li>None, but requires interdisciplinary linkage between agriculture (seeds), environment (methane), and energy (electricity).</li></ul><b>PYQ Alignment:</b><br><ul><li>Consistent with UPSC's focus on climate-smart and resource-efficient agriculture (e.g., Zero Tillage in 2020, Conservation Agriculture in 2018).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Taxation and Corporate Law",
+    "question": "<b>Which one of the following situations best reflects “Indirect Transfers” often talked about in the media recently with reference to India?</b>",
+    "options": [
+      "An Indian company investing in a foreign enterprise and paying taxes to the foreign country on the profits arising out of its investment",
+      "A foreign company investing in India and paying taxes to the country of its base on the profits arising out of its investment",
+      "An Indian company purchases tangible assets in a foreign country and sells such assets after their value increases and transfers the proceeds to India",
+      "A foreign company transfers shares and such shares derive their substantial value from assets located in India"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: A foreign company transfers shares and such shares derive their substantial value from assets located in India</b><br><br><b>Concept of Indirect Transfer:</b><br><ul><li><b>Definition:</b> It refers to situations where foreign entities own shares in an offshore holding company, but the underlying assets that give those shares value are located in India. When the foreign shares are sold/transferred, the value inherently transfers Indian assets.</li><li><b>Context:</b> The Income Tax Act was retroactively amended to tax such transactions, famously spotlighted in the Vodafone and Cairn Energy tax disputes.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Direct vs Indirect:</b> Options A, B, and C describe direct foreign investments or direct asset sales. Option D accurately captures the 'indirect' nature via offshore share routing.</li></ul><b>PYQ Alignment:</b><br><ul><li>Tests highly debated contemporary economic/legal terms appearing in financial news (e.g., Base Erosion and Profit Shifting in 2016).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Vaccine Technology",
+    "question": "<b>In the context of vaccines manufactured to prevent COVID-19 pandemic, consider the following statements:</b><br><br>1. The Serum Institute of India produced COVID-19 vaccine named Covishield using mRNA platform.<br>2. Sputnik V vaccine is manufactured using a vector based platform.<br>3. COVAXIN is an inactivated pathogen based vaccine.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Vaccine Platforms:</b><br><ul><li><b>Statement 1 is incorrect:</b> Covishield (Oxford/AstraZeneca) utilizes a <b>viral vector</b> platform (using a weakened chimpanzee adenovirus), not an mRNA platform. (Pfizer and Moderna are mRNA).</li><li><b>Statement 2 is correct:</b> Sputnik V uses a recombinant human adenovirus vector platform.</li><li><b>Statement 3 is correct:</b> COVAXIN (by Bharat Biotech) uses a traditional <b>inactivated</b> (killed) pathogen platform to trigger an immune response without causing the disease.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Terminology Swap:</b> Deliberately mismatching the vaccine brand with its underlying biotechnology framework.</li></ul><b>PYQ Alignment:</b><br><ul><li>Direct testing of cutting-edge biopharmaceutical developments (e.g., Recombinant Vector Vaccines in 2021).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Human Physiology and Immunology",
+    "question": "<b>Which one of the following statements best describes the role of B cells and T cells in the human body?</b>",
+    "options": [
+      "They protect the body from environmental allergens.",
+      "They alleviate the body’s pain and inflammation.",
+      "They act as immunosuppressants in the body.",
+      "They protect the body from diseases caused by pathogens."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: They protect the body from diseases caused by pathogens.</b><br><br><b>Immune System Basics:</b><br><ul><li><b>B cells and T cells:</b> These are highly specialized white blood cells (lymphocytes) that form the core of the <b>adaptive immune system</b>.</li><li><b>Function:</b> B cells produce antibodies that neutralize invading pathogens (viruses, bacteria). T cells destroy infected cells and coordinate the overall immune response.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Plausible Distractors:</b> All options describe medical functions (pain relief, immunosuppression, allergen protection), but lymphocytes specifically target and destroy pathogenic threats.</li></ul><b>PYQ Alignment:</b><br><ul><li>Foundational human biology and disease response questions are common (e.g., ACE2 receptor in 2021).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Biotechnology Applications",
+    "question": "<b>Consider the following statements:</b><br><br><b>DNA Barcoding can be a tool to:</b><br>1. assess the age of a plant or animal.<br>2. distinguish among species that look alike.<br>3. identify undesirable animal or plant materials in processed foods.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "3 only",
+      "1 and 2",
+      "2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 2 and 3</b><br><br><b>DNA Barcoding Capabilities:</b><br><ul><li><b>Statement 1 is incorrect:</b> DNA sequences do not change over the lifespan of an organism. Therefore, DNA barcoding cannot assess the physical age of a plant or animal (techniques like Carbon-14 dating or dendrochronology are used for age).</li><li><b>Statement 2 is correct:</b> It uses a short, standardized sequence of DNA to rapidly and accurately identify species, distinguishing morphologically identical (cryptic) species.</li><li><b>Statement 3 is correct:</b> It is highly effective in food safety testing to detect adulteration, mislabeling, or contamination in processed foods.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Overestimation of Tech:</b> Assuming genetic tools can solve non-genetic parameters like chronological age.</li></ul><b>PYQ Alignment:</b><br><ul><li>Matches the trend of testing specific applications of emerging biotechnology (e.g., Cas9 protein applications in 2019).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Microbiology",
+    "question": "<b>Consider the following statements:</b><br><br>1. Biofilms can form on medical implants within human tissues.<br>2. Biofilms can form on food and food processing surfaces.<br>3. Biofilms can exhibit antibiotic resistance.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>Biofilm Characteristics:</b><br><ul><li><b>Statement 1 is correct:</b> Biofilms are tightly packed communities of microbes. They notoriously colonize foreign medical devices (catheters, pacemakers, joint implants) inside the body.</li><li><b>Statement 2 is correct:</b> They readily form on industrial surfaces, including food processing equipment, posing significant sanitization challenges.</li><li><b>Statement 3 is correct:</b> The protective extracellular matrix of a biofilm shields the bacteria, making them highly resistant to both the host immune system and clinical antibiotics.</li></ul><b>Examiner's Trap:</b><br><ul><li>None of the statements restrict the scope with extreme words (like \"only\"), making the broad biological adaptability of biofilms all correct.</li></ul><b>PYQ Alignment:</b><br><ul><li>Tests microbial resistance and public health hazards (e.g., Antimicrobial resistance causes in 2019).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Defence and Space Technology",
+    "question": "<b>Which one of the following statements best reflects the idea behind the “Fractional Orbital Bombardment System” often talked about in the media?</b>",
+    "options": [
+      "A hypersonic missile is launched into space to counter the asteroid approaching the Earth and explode it in space.",
+      "A spacecraft lands on another planet after making several orbital motions.",
+      "A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth.",
+      "A spacecraft moves along a comet with the same speed and places a probe on its surface."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth.</b><br><br><b>Concept Definition:</b><br><ul><li><b>FOBS:</b> Originally developed by the Soviet Union, it involves launching a nuclear warhead into Low Earth Orbit (LEO). Instead of following a predictable ballistic trajectory, the weapon stays in orbit for a fraction of a revolution and then decelerates to drop onto its target. This evades traditional early-warning radar systems.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Sci-Fi Distractors:</b> Options involving asteroid defense (DART mission) or comet probes (Rosetta mission) test the candidate's ability to separate real geopolitics from space exploration.</li></ul><b>PYQ Alignment:</b><br><ul><li>Direct terminology identification from current defense/space affairs (e.g., THAAD in 2018).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Communication Technology",
+    "question": "<b>Consider the following communication technologies:</b><br><br>1. Closed-circuit Television<br>2. Radio Frequency Identification<br>3. Wireless Local Area Network<br><br><b>Which of the above are considered Short-Range devices/technologies?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>Technology Classification:</b><br><ul><li><b>Closed-circuit Television (CCTV):</b> Uses direct wired or highly localized wireless signals (short-range) to transmit video to a specific, limited set of monitors.</li><li><b>Radio Frequency Identification (RFID):</b> Uses electromagnetic fields to automatically identify and track tags attached to objects, operating strictly over very short distances.</li><li><b>Wireless Local Area Network (WLAN):</b> Links two or more devices using wireless distribution methods within a limited area such as a home, school, or office building.</li></ul><b>Examiner's Trap:</b><br><ul><li>Candidates might overthink CCTV as \"wired\" rather than short-range wireless, but in spectrum and geographical deployment terms, all three operate strictly locally without wide-area cellular networks.</li></ul><b>PYQ Alignment:</b><br><ul><li>Categorization of IT and telecom standards (e.g., NFC technology in 2015, Li-Fi in 2016).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Internet and IT",
+    "question": "<b>With reference to Web 3.0, consider the following statements:</b><br><br>1. Web 3.0 technology enables people to control their own data.<br>2. In the Web 3.0 world, there can be blockchain based social networks.<br>3. Web 3.0 is operated by users collectively rather than a corporation.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>Web 3.0 Core Principles:</b><br><ul><li><b>Statement 1 is correct:</b> Unlike Web 2.0 (where centralized tech giants hoard data), Web 3.0 is built on decentralization, granting users sovereign control and ownership of their digital data.</li><li><b>Statement 2 is correct:</b> It leverages Distributed Ledger Technology (DLT) like blockchain, allowing for the creation of decentralized applications (dApps) and social networks without a central authority.</li><li><b>Statement 3 is correct:</b> Governance in Web 3.0 is managed by communities and users collectively (often via tokens and DAOs) rather than monolithic corporations.</li></ul><b>Examiner's Trap:</b><br><ul><li>None of the statements restrict the potential of this emerging tech. The broad, positive capabilities of decentralized tech are accurately described.</li></ul><b>PYQ Alignment:</b><br><ul><li>Follows the trend of testing defining characteristics of internet evolutions (e.g., Internet of Things in 2018).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Internet and IT",
+    "question": "<b>With reference to “Software as a Service (SaaS)”, consider the following statements:</b><br><br>1. SaaS buyers can customise the user interface and can change data fields.<br>2. SaaS users can access their data through their mobile devices.<br>3. Outlook, Hotmail and Yahoo! Mail are forms of SaaS.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>SaaS Characteristics:</b><br><ul><li><b>Statement 1 is correct:</b> While the core infrastructure is managed by the provider, SaaS platforms (like Salesforce or web portals) allow users extensive customization of the UI, dashboards, and data input fields.</li><li><b>Statement 2 is correct:</b> As software hosted in the cloud, SaaS applications are inherently accessible via internet browsers across multiple devices, including smartphones.</li><li><b>Statement 3 is correct:</b> Web-based email services managed entirely by third-party providers (Outlook, Yahoo Mail) are classic, everyday examples of SaaS.</li></ul><b>Examiner's Trap:</b><br><ul><li>Assuming cloud-hosted software offers absolutely no user-end customization (Trap in Statement 1).</li></ul><b>PYQ Alignment:</b><br><ul><li>Basic digital literacy and computing models (similar to questions on digital signatures or cloud functions).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Technologies",
+    "question": "<b>Which one of the following is the context in which the term “qubit” is mentioned?</b>",
+    "options": [
+      "Cloud Services",
+      "Quantum Computing",
+      "Visible Light Communication Technologies",
+      "Wireless Communication Technologies"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Quantum Computing</b><br><br><b>Concept Definition:</b><br><ul><li>A <b>qubit</b> (quantum bit) is the fundamental unit of quantum information in <b>Quantum Computing</b>. While a classical bit can only be in a state of 0 or 1, a qubit can exist in a superposition of both states simultaneously, allowing quantum computers to perform complex calculations exponentially faster than classical computers.</li></ul><b>Examiner's Trap:</b><br><ul><li>Direct definition test. The prefix 'qu' might confuse those who haven't read basic science tech news.</li></ul><b>PYQ Alignment:</b><br><ul><li>Direct terminology association is a hallmark of UPSC S&T (e.g., Cas9 = gene editing, Denisovan = early human).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Digital India Infrastructure",
+    "question": "<b>Consider the following:</b><br><br>1. Aarogya Setu<br>2. CoWIN<br>3. DigiLocker<br>4. DIKSHA<br><br><b>Which of the above are built on top of open-source digital platforms?</b>",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br><b>Digital Infrastructure Fact-Check:</b><br><ul><li><b>Open-Source Policy:</b> The Government of India's policy on Open Application Programming Interfaces (APIs) and open-source software mandates that digital public goods be built transparently and interoperably.</li><li><b>Applications:</b> Aarogya Setu (COVID tracing), CoWIN (vaccination network), DigiLocker (document storage), and DIKSHA (National Digital Infrastructure for Teachers) are all scalable digital public goods built on open-source frameworks.</li></ul><b>Examiner's Trap:</b><br><ul><li>Aspirants might assume government-run health or education databases use closed, proprietary security software, but India's core digital public infrastructure strategy relies heavily on open-source APIs (like India Stack).</li></ul><b>PYQ Alignment:</b><br><ul><li>Evaluates e-governance infrastructure (e.g., Aadhaar APIs question in 2018).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Treaties and Agreements",
+    "question": "<b>Which one of the following statements best describes the ‘Polar Code’?</b>",
+    "options": [
+      "It is the international code of safety for ships operating in polar waters.",
+      "It is the agreement of the countries around the North Pole regarding the demarcation of their territories in the polar region.",
+      "It is a set of norms to be followed by the countries whose scientists undertake research studies in the North Pole and South Pole.",
+      "It is a trade and security agreement of the member countries of the Arctic Council."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: It is the international code of safety for ships operating in polar waters.</b><br><br><b>Treaty Details:</b><br><ul><li>The <b>Polar Code</b> is a binding international framework adopted by the International Maritime Organization (IMO).</li><li>It covers the design, construction, equipment, operational, training, search and rescue, and environmental protection matters relevant to ships operating in the harsh, ice-infested waters surrounding the North and South poles.</li></ul><b>Examiner's Trap:</b><br><ul><li><b>Plausible Geopolitics:</b> Options B and D sound highly plausible given recent geopolitical tensions over Arctic resources and the Arctic Council, tricking candidates into ignoring the maritime/shipping nature of the code.</li></ul><b>PYQ Alignment:</b><br><ul><li>Definitions of international protocols and codes (e.g., Base Erosion and Profit Shifting in 2016).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Places in news",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Country : Important reason for being in the news recently</b><br>1. Chad : Setting up of permanent military base by China<br>2. Guinea : Suspension of Constitution and Government by military<br>3. Lebanon : Severe and prolonged economic depression<br>4. Tunisia : Suspension of Parliament by President<br><br><b>How many pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only three pairs</b><br><br><b>Fact-Check of Global Events (2021-22):</b><br><ul><li><b>Pair 1 is incorrectly matched:</b> China's first and only recognized overseas permanent military base is in <b>Djibouti</b> (Horn of Africa), not Chad.</li><li><b>Pair 2 is correctly matched:</b> In September 2021, Guinea suffered a military coup that ousted the president and suspended the constitution.</li><li><b>Pair 3 is correctly matched:</b> Lebanon has been undergoing one of the most severe, prolonged economic and currency depressions in modern history following systemic political failure and the 2020 Beirut port explosion.</li><li><b>Pair 4 is correctly matched:</b> In 2021, Tunisia's President invoked emergency powers to dismiss the government and freeze parliament, leading to a constitutional crisis.</li></ul><b>Examiner's Trap:</b><br><ul><li>Swapping African nations in geopolitical events (China's base in Djibouti vs Chad) is a classic mapping/news trap.</li></ul><b>PYQ Alignment:</b><br><ul><li>The \"How many pairs\" format strictly targets eliminating guesswork in the “Places in News” mapping questions.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Global Economic Linkages",
+    "question": "<b>Consider the following statements:</b><br><br>1. Vietnam has been one of the fastest growing economies in the world in the recent years.<br>2. Vietnam is led by a multi-party political system.<br>3. Vietnam's economic growth is linked to its integration with global supply chains and focus on exports.<br>4. For a long time Vietnam's low labour costs and stable exchange rates have attracted global manufacturers.<br>5. Vietnam has the most productive e-service sector in the Indo-Pacific region.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "2 and 4",
+      "3 and 5",
+      "1, 3 and 4",
+      "1 and 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 3 and 4</b><br><br><b>Statement 1, 3, and 4 are correct:</b> Vietnam is currently one of the fastest-growing economies globally, primarily driven by strong integration with global supply chains, an export-oriented strategy, and a highly competitive low-cost labour force.<br><b>Statement 2 is incorrect:</b> Vietnam is not a multi-party democracy. It is a socialist republic with a one-party system led by the Communist Party of Vietnam.<br><b>Statement 5 is incorrect:</b> While its digital economy is growing, it does not have the \"most productive e-service sector\" in the Indo-Pacific (countries like Singapore and Japan rank much higher).<br><br><b>Examiner's Trap:</b> Mixing economic realities (high growth) with political/digital absolutes (multi-party, highest e-service productivity). The extreme phrasing in statement 5 is a classic red flag.<br><br><b>PYQ Alignment:</b> Tests awareness of shifting global supply chains (China-plus-one strategy) and macroeconomic comparisons.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Microbiology and Human Health",
+    "question": "<b>Consider the following statements in respect of probiotics:</b><br><br>1. Probiotics are made of both bacteria and yeast.<br>2. The organisms in probiotics are found in foods we ingest but they do not naturally occur in our gut.<br>3. Probiotics help in the digestion of milk sugars.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 3",
+      "2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3</b><br><br><b>Statement 1 is correct:</b> Probiotics are live microorganisms, primarily encompassing strains of beneficial bacteria (like <i>Lactobacillus</i>) and yeast (like <i>Saccharomyces boulardii</i>).<br><b>Statement 2 is incorrect:</b> The beneficial microbes found in probiotics <b>do</b> naturally occur and reside within the human gastrointestinal tract (the gut microbiome).<br><b>Statement 3 is correct:</b> Probiotic bacteria like <i>Lactobacillus</i> produce the enzyme lactase, which directly aids in the breakdown and digestion of milk sugars (lactose).<br><br><b>Examiner's Trap:</b> Statement 2 creates a false dichotomy between exogenous food sources and endogenous gut flora. If it benefits the gut, it often already mimics or supplements natural gut populations.<br><br><b>PYQ Alignment:</b> Similar to past questions exploring microbial applications in everyday life and human health (e.g., gut microbiome, viral infections).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Statutory and Regulatory Bodies",
+    "question": "<b>With reference to the \"Tea Board\" in India, consider the following statements:</b><br><br>1. The Tea Board is a statutory body.<br>2. It is a regulatory body attached to the Ministry of Agriculture and Farmers Welfare.<br>3. The Tea Board's Head Office is situated in Bengaluru.<br>4. The Board has overseas offices at Dubai and Moscow.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 3",
+      "2 and 4",
+      "3 and 4",
+      "1 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1 and 4</b><br><br><b>Statement 1 is correct:</b> The Tea Board was established as a statutory body under the Tea Act, 1953.<br><b>Statement 2 is incorrect:</b> It functions under the <b>Ministry of Commerce and Industry</b>, not the Ministry of Agriculture.<br><b>Statement 3 is incorrect:</b> The Head Office is located in <b>Kolkata</b> (Bengal), not Bengaluru (which is the hub for the Coffee Board).<br><b>Statement 4 is correct:</b> It promotes Indian tea exports and maintains overseas offices in London, Dubai, and Moscow.<br><br><b>Examiner's Trap:</b> Deliberately associating a plantation crop board with the Ministry of Agriculture instead of Commerce, and swapping the geographic headquarters of commodity boards (Tea -> Kolkata, Coffee -> Bengaluru).<br><br><b>PYQ Alignment:</b> Institutional framework testing, heavily relying on nodal ministries and HQ locations (e.g., FSSAI, Animal Welfare Board).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Industrial Regulation",
+    "question": "<b>In India, what is the role of the Coal Controller's Organization (CCO)?</b><br><br>1. CCO is the major source of Coal Statistics in Government of India.<br>2. It monitors progress of development of Captive Coal/Lignite blocks.<br>3. It hears any objection to the Government's notification relating to acquisition of coal-bearing areas.<br>4. It ensures that coal mining companies deliver the coal to end users in the prescribed time.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3",
+      "3 and 4 only",
+      "1 and 2 only",
+      "1, 2 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>Statements 1, 2, and 3 are correct:</b> The CCO (under the Ministry of Coal) is the statistical authority for coal, monitors captive blocks, and is the competent authority to hear objections under the Coal Bearing Areas (Acquisition and Development) Act, 1957.<br><b>Statement 4 is incorrect:</b> Ensuring logistics and timely delivery of coal to end-users (like power plants) is a commercial and logistical function managed by coal companies (e.g., Coal India Ltd) and Indian Railways, not a regulatory mandate of the CCO.<br><br><b>Examiner's Trap:</b> Statement 4 sounds like a plausible bureaucratic oversight function but represents a gross overreach of the CCO's statutory mandate into commercial operations.<br><br><b>PYQ Alignment:</b> Tests exact mandates of obscure but critical government agencies governing natural resources.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Places in News",
+    "question": "<b>Which one of the following statements best reflects the issue with Senkaku Islands, sometimes mentioned in the news?</b>",
+    "options": [
+      "It is generally believed that they are artificial islands made by a country around the South China Sea.",
+      "China and Japan engage in maritime disputes over these islands in the East China Sea.",
+      "A permanent American military base has been set up there to help Taiwan to increase its defence capabilities.",
+      "Though the International Court of Justice declared them as no man's land, some South-East Asian countries claim them."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: China and Japan engage in maritime disputes over these islands in the East China Sea.</b><br><br><b>Context:</b> The Senkaku Islands (known as Diaoyu Islands in China) are a group of uninhabited islands in the <b>East China Sea</b>. They are administered by Japan but heavily claimed by China (and Taiwan).<br><b>Examiner's Trap:</b> Option A describes the Spratly/Paracel islands dispute in the <i>South China Sea</i>, a very common geographical mix-up designed to catch candidates who conflate all Chinese maritime disputes.<br><br><b>PYQ Alignment:</b> Follows the strict \"Places in News\" format where geopolitical hotspots are tested for exact regional locations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Mineral Resources",
+    "question": "<b>With reference to India, consider the following statements:</b><br><br>1. Monazite is a source of rare earths.<br>2. Monazite contains thorium.<br>3. Monazite occurs naturally in the entire Indian coastal sands in India.<br>4. In India, Government bodies only can process or export monazite.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 2 and 4 only</b><br><br><b>Statements 1 and 2 are correct:</b> Monazite is a reddish-brown phosphate mineral that is a primary ore for rare earth elements (like cerium and lanthanum) and contains significant amounts of radioactive Thorium.<br><b>Statement 3 is incorrect:</b> The absolute word \"entire\" is the trap. Monazite occurs in specific rich pockets (like Kerala, Tamil Nadu, Odisha, Andhra Pradesh), not the <i>entire</i> Indian coastal sand stretch.<br><b>Statement 4 is correct:</b> Because it contains radioactive thorium, it is a \"prescribed substance\" under the Atomic Energy Act. Only PSU bodies like Indian Rare Earths Limited (IREL) are permitted to process and export it.<br><br><b>Examiner's Trap:</b> The extreme phrasing \"entire Indian coastal sands\" is clinically false. Identifying this instantly eliminates options A and D.<br><br><b>PYQ Alignment:</b> Focus on strategic minerals and atomic energy regulations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Climate Change Treaties",
+    "question": "<b>\"Climate Action Tracker\" which monitors the emission reduction pledges of different countries is a:</b>",
+    "options": [
+      "Database created by coalition of research organisations",
+      "Wing of \"International Panel of Climate Change\"",
+      "Committee under \"United Nations Framework Convention on Climate Change\"",
+      "Agency promoted and financed by United Nations Environment Programme and World Bank"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Database created by coalition of research organisations</b><br><br><b>Context:</b> The Climate Action Tracker (CAT) is an independent scientific analysis produced by two research organizations (Climate Analytics and NewClimate Institute) tracking climate action since 2009 against the globally agreed aim of holding warming well below 2\u00b0C.<br><b>Examiner's Trap:</b> The distractors heavily leverage major UN bodies (IPCC, UNFCCC, UNEP) to exploit a candidate's assumption that any global tracking mechanism must be an official UN organ.<br><br><b>PYQ Alignment:</b> Tests knowledge of non-state actors and independent bodies in global environmental governance (similar to BirdLife International or TRAFFIC).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Nanotechnology",
+    "question": "<b>Consider the following statements:</b><br><br>1. Other than those made by humans, nanoparticles do not exist in nature.<br>2. Nanoparticles of some metallic oxides are used in the manufacture of some cosmetics.<br>3. Nanoparticles of some commercial products which enter the environment are unsafe for humans.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "3 only",
+      "1 and 2",
+      "2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 2 and 3</b><br><br><b>Statement 1 is incorrect:</b> Nanoparticles absolutely exist in nature without human intervention (e.g., volcanic ash, sea spray, smoke from forest fires, and certain biological molecules).<br><b>Statement 2 is correct:</b> Metallic oxide nanoparticles (like Titanium dioxide and Zinc oxide) are extensively used in sunscreens and cosmetics to block UV rays without leaving a white residue.<br><b>Statement 3 is correct:</b> Engineered nanoparticles released into the environment can penetrate biological barriers (like the blood-brain barrier) and cause heavy metal toxicity or oxidative stress in humans.<br><br><b>Examiner's Trap:</b> Statement 1 exploits the misconception that \"nano\" strictly implies high-tech human engineering.<br><br><b>PYQ Alignment:</b> General science application and associated environmental/health hazards.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "International Monetary Institutions",
+    "question": "<b>\"Rapid Financing Instrument\" and \"Rapid Credit Facility\" are related to the provisions of lending by which one of the following?</b>",
+    "options": [
+      "Asian Development Bank",
+      "International Monetary Fund",
+      "United Nations Environment Programme Finance Initiative",
+      "World Bank"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: International Monetary Fund</b><br><br><b>Context:</b> The Rapid Financing Instrument (RFI) and Rapid Credit Facility (RCF) provide prompt, low-conditionality financial assistance to <b>IMF</b> member countries facing urgent balance of payments needs (e.g., from natural disasters, conflicts, or commodity price shocks).<br><b>Examiner's Trap:</b> Confusing IMF lending facilities (aimed at balance of payments) with World Bank development facilities.<br><br><b>PYQ Alignment:</b> UPSC frequently tests specific windows/funds of the IMF and World Bank (e.g., Extended Fund Facility, Gold Tranche).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Wildlife Protection Laws",
+    "question": "<b>With reference to Indian laws about wildlife protection, consider the following statements:</b><br><br>1. Wild animals are the sole property of the government.<br>2. When a wild animal is declared protected, such animal is entitled for equal protection whether it is found in protected areas or outside.<br>3. Apprehension of a protected wild animal becoming a danger to human life is sufficient ground for its capture or killing.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The Bombay High Court and Supreme Court have clarified that while wild animals hunted legally/illegally or found dead become the property of the government, free-roaming wild animals cannot be categorized as the \"sole property\" of the government in an absolute, liability-inducing sense.<br><b>Statement 2 is correct:</b> The Wildlife (Protection) Act, 1972 extends protection to listed species regardless of their geographical location (inside or outside a National Park).<br><b>Statement 3 is incorrect:</b> Mere \"apprehension\" is not sufficient. The Chief Wildlife Warden must be <b>satisfied</b> with evidence that the animal has become dangerous to human life, and even then, capture/tranquilization is prioritized over killing.<br><br><b>Examiner's Trap:</b> Statement 3 uses subjective phrasing (\"apprehension\") to bypass stringent legal protocols defined in the WPA.<br><br><b>PYQ Alignment:</b> Deep legal nuances of environmental laws (WPA, EPA, FRA).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Sustainable Development",
+    "question": "<b>Which one of the following best describes the term \"greenwashing\"?</b>",
+    "options": [
+      "Conveying a false impression that a company's products are eco-friendly and environmentally sound",
+      "Non-inclusion of ecological/environmental costs in the Annual Financial Statements of a country",
+      "Ignoring the disastrous ecological consequences while undertaking infrastructure development",
+      "Making mandatory provisions for environmental costs in a government project/programme"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Conveying a false impression that a company's products are eco-friendly and environmentally sound</b><br><br><b>Concept:</b> \"Greenwashing\" is a deceptive marketing spin used to persuade the public that an organization's products, aims, and policies are environmentally friendly, when in reality they are not or their core business is heavily polluting.<br><b>Examiner's Trap:</b> Option B describes \"Green Accounting,\" a completely different economic concept. Options C and D are plausible-sounding environmental management terms.<br><br><b>PYQ Alignment:</b> Tests definitions of emerging environmental/economic terminology.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Employment & Labour",
+    "question": "<b>In India, which one of the following compiles information on industrial disputes, closures, retrenchments and lay-offs in factories employing workers?</b>",
+    "options": [
+      "Central Statistics Office",
+      "Department for Promotion of Industry and Internal Trade",
+      "Labour Bureau",
+      "National Technical Manpower Information System"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Labour Bureau</b><br><br><b>Institutional Mandate:</b> The Labour Bureau, an attached office under the Ministry of Labour and Employment, is responsible for the collection, compilation, and publication of labour statistics, including the CPI for Industrial Workers (CPI-IW) and data on industrial disputes, closures, and lay-offs.<br><b>Examiner's Trap:</b> Aspirants might select CSO (now NSO) as the default data collection agency for all national statistics, or DPIIT since it deals with industries.<br><br><b>PYQ Alignment:</b> Nodal agency mapping for specific economic indices/data (e.g., who publishes WPI vs CPI).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "FDI and E-commerce",
+    "question": "<b>With reference to foreign-owned e-commerce firms operating in India, which of the following statements is/are correct?</b><br><br>1. They can sell their own goods in addition to offering their platforms as market-places.<br>2. The degree to which they can own big sellers on their platforms is limited.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>FDI Rules in E-commerce:</b><br><b>Statement 1 is incorrect:</b> Foreign-owned e-commerce firms (like Amazon or Flipkart) operating under the FDI policy are restricted to a <b>pure marketplace model</b>. They are legally prohibited from holding inventory and selling their own proprietary goods directly to consumers.<br><b>Statement 2 is correct:</b> To prevent monopolistic practices, FDI guidelines state that an e-commerce marketplace entity will not permit more than 25% of the sales value on its platform from a single vendor or its group companies. Their equity ownership in major sellers is heavily regulated.<br><br><b>Examiner's Trap:</b> Testing the strict boundary between the 'marketplace model' (allowed) and the 'inventory model' (prohibited).<br><br><b>PYQ Alignment:</b> Applied economic policy regarding FDI restrictions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Digital Health Infrastructure",
+    "question": "<b>With reference to Ayushman Bharat Digital Mission, consider the following statements:</b><br><br>1. Private and public hospitals must adopt it.<br>2. As it aims to achieve universal health coverage, every citizen of India should be part of it ultimately.<br>3. It has seamless portability across the country.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>Statement 1 is incorrect:</b> Participation in the Ayushman Bharat Digital Mission (ABDM) is entirely <b>voluntary</b> for both citizens and healthcare facilities (public and private). There is no mandatory adoption.<br><b>Statement 2 is incorrect:</b> Creating an Ayushman Bharat Health Account (ABHA) is voluntary. Citizens are not forced to be a part of it, invalidating the \"every citizen should be part of it ultimately\" mandate.<br><b>Statement 3 is correct:</b> A core technical design feature of ABDM is seamless data portability across the country, allowing patients to share health records with any verified doctor via their ABHA ID.<br><br><b>Examiner's Trap:</b> Using absolute words like \"must adopt\" and \"every citizen\" to exaggerate a voluntary digital initiative.<br><br><b>PYQ Alignment:</b> Testing the mandatory vs voluntary nature of massive government schemes.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Groups",
+    "question": "<b>Consider the following countries:</b><br><br>1. Armenia<br>2. Azerbaijan<br>3. Croatia<br>4. Romania<br>5. Uzbekistan<br><br><b>Which of the above are members of the Organization of Turkic States?</b>",
+    "options": [
+      "1, 2 and 4 only",
+      "1 and 3 only",
+      "2 and 5 only",
+      "3, 4 and 5 only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 2 and 5 only</b><br><br><b>Context:</b> The Organization of Turkic States (formerly Turkic Council) is an intergovernmental organization comprising countries with Turkic populations. <br><b>Members:</b> Azerbaijan, Kazakhstan, Kyrgyzstan, Turkey, and Uzbekistan (joined in 2019). <br>Armenia, Croatia, and Romania are not members (they lack significant Turkic ethnographic dominance).<br><br><b>Examiner's Trap:</b> Armenia is deliberately included because of its geopolitical conflict with Azerbaijan, tricking candidates into grouping them together.<br><br><b>PYQ Alignment:</b> Testing membership of niche, non-Western international organizations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Wetlands Mapping",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Wetland/Lake : Location</b><br>1. Hokera Wetland : Punjab<br>2. Renuka Wetland : Himachal Pradesh<br>3. Rudrasagar Lake : Tripura<br>4. Sasthamkotta Lake : Tamil Nadu<br><br><b>How many pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two pairs</b><br><br><b>Pair 1 is incorrectly matched:</b> Hokera (Hokersar) Wetland is located in <b>Jammu & Kashmir</b>, not Punjab.<br><b>Pair 2 is correctly matched:</b> Renuka Wetland is the smallest Ramsar site in India, located in Himachal Pradesh.<br><b>Pair 3 is correctly matched:</b> Rudrasagar Lake is in Tripura.<br><b>Pair 4 is incorrectly matched:</b> Sasthamkotta Lake is the largest freshwater lake in <b>Kerala</b>, not Tamil Nadu.<br><br><b>Examiner's Trap:</b> The \"How many pairs\" format requires absolute certainty. Swapping adjacent states (Kerala/TN, J&K/Punjab) is the standard geographical distractor.<br><br><b>PYQ Alignment:</b> Consistent mapping of Ramsar sites and critical wetlands.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Renewable Energy Infrastructure",
+    "question": "<b>Consider the following statements:</b><br><br>1. Gujarat has the largest solar park in India.<br>2. Kerala has a fully solar powered International Airport.<br>3. Goa has the largest floating solar photovoltaic project in India.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The Bhadla Solar Park, which is the largest solar park in India (and the world by capacity), is located in <b>Rajasthan</b>, not Gujarat.<br><b>Statement 2 is correct:</b> Cochin International Airport (CIAL) in Kerala is the world's first fully solar-powered airport.<br><b>Statement 3 is incorrect:</b> The largest floating solar PV project in India (as of 2022) was commissioned by NTPC at Ramagundam in <b>Telangana</b>, not Goa.<br><br><b>Examiner's Trap:</b> Misattributing flagship infrastructure projects to incorrect coastal or heavily industrialized states.<br><br><b>PYQ Alignment:</b> Mapping of strategic energy assets and state-level milestones.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Ancient Literature",
+    "question": "<b>With reference to Indian history, consider the following texts:</b><br><br>1. Nettipakarana<br>2. Parishishtaparvan<br>3. Avadanashataka<br>4. Trishashtilakshana Mahapurana<br><br><b>Which of the above are Jaina texts?</b>",
+    "options": [
+      "1, 2 and 3",
+      "2 and 4 only",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 4 only</b><br><br><b>Text Identification:</b><br><b>1. Nettipakarana:</b> A Buddhist scripture, often included in the Pali Canon of Theravada Buddhism.<br><b>2. Parishishtaparvan:</b> A 12th-century Sanskrit <i>Jaina</i> text (Mahakavya) by Hemachandra detailing early Jain teachers.<br><b>3. Avadanashataka:</b> A collection of 100 <i>Buddhist</i> legends/stories.<br><b>4. Trishashtilakshana Mahapurana:</b> A major <i>Jaina</i> text (often just called Mahapurana) composed by Jinasena and Gunabhadra.<br><br><b>Examiner's Trap:</b> Mixing obscure Buddhist and Jaina texts to defeat basic elimination strategies.<br><br><b>PYQ Alignment:</b> Hardcore ancient literature mapping, increasingly common to filter candidates.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Places in News",
+    "question": "<b>Consider the following statements:</b><br><br>1. Bidibidi is a large refugee settlement in north-western Kenya.<br>2. Some people who fled from South Sudan civil war live in Bidibidi.<br>3. Some people who fled from civil war in Somalia live in Dadaab refugee complex in Kenya.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 2 and 3</b><br><br><b>Statement 1 is incorrect:</b> Bidibidi is a massive refugee settlement located in <b>Uganda</b>, not Kenya.<br><b>Statement 2 is correct:</b> Bidibidi became one of the largest refugee camps globally specifically by hosting refugees fleeing the violent civil war in South Sudan.<br><b>Statement 3 is correct:</b> The Dadaab refugee complex is located in Kenya and predominantly houses refugees fleeing the decades-long conflict in Somalia.<br><br><b>Examiner's Trap:</b> Shifting a highly recognizable African refugee camp (Bidibidi) into a neighboring country (Kenya) that already hosts another famous camp (Dadaab).<br><br><b>PYQ Alignment:</b> Tests humanitarian crises geography.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Regulatory Bodies",
+    "question": "<b>Which one of the following has been constituted under the Environment (Protection) Act, 1986?</b>",
+    "options": [
+      "Central Water Commission",
+      "Central Ground Water Board",
+      "Central Ground Water Authority",
+      "National Water Development Agency"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Central Ground Water Authority</b><br><br><b>Statutory Backing:</b> The Central Ground Water Authority (CGWA) was specifically constituted under sub-section (3) of Section 3 of the <b>Environment (Protection) Act, 1986</b> for the purposes of regulation and control of groundwater development and management in the country.<br><b>Examiner's Trap:</b> Confusing the Central Ground Water <i>Board</i> (a subordinate office under the Ministry of Jal Shakti) with the Central Ground Water <i>Authority</i> (the regulatory body created under the EPA).<br><br><b>PYQ Alignment:</b> Identifying the exact parent legislation of prominent environmental/water bodies (e.g., Animal Welfare Board, NGRBA).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "International Initiatives",
+    "question": "<b>Consider the following statements:</b><br><br>1. \"The Climate Group\" is an international non-profit organization that drives climate action by building large networks and runs them.<br>2. The International Energy Agency in partnership with the Climate Group launched a global initiative \"EP100\".<br>3. EP100 brings together leading companies committed to driving innovation in energy efficiency and increasing competitiveness while delivering on emission reduction goals.<br>4. Some Indian companies are members of EP100.<br>5. The International Energy Agency is the Secretariat to the \"Under2 Coalition\".<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1, 2, 4 and 5",
+      "1, 3 and 4 only",
+      "2, 3 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 3 and 4 only</b><br><br><b>Statement 1 is correct:</b> The Climate Group is a recognized international non-profit focusing on climate action networks.<br><b>Statement 2 is incorrect:</b> The EP100 initiative was launched by The Climate Group in partnership with the <b>Alliance to Save Energy</b>, not the International Energy Agency (IEA).<br><b>Statement 3 is correct:</b> EP100 specifically targets corporate commitments to doubling energy productivity.<br><b>Statement 4 is correct:</b> Major Indian corporations (like Mahindra & Mahindra) are signatories to EP100.<br><b>Statement 5 is incorrect:</b> The <b>Climate Group</b> serves as the Secretariat to the Under2 Coalition (a global community of state and regional governments), not the IEA.<br><br><b>Examiner's Trap:</b> Injecting the IEA into multiple collaborative climate initiatives where it doesn't belong.<br><br><b>PYQ Alignment:</b> In-depth checking of obscure but critical corporate/global environmental coalitions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Regulatory Bodies",
+    "question": "<b>With reference to the 'Banks Board Bureau (BBB)', which of the following statements are correct?</b><br><br>1. The Governor of RBI is the Chairman of BBB.<br>2. BBB recommends for the selection of heads for Public Sector Banks.<br>3. BBB helps the Public Sector Banks in developing strategies and capital raising plans.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> The Chairman of the BBB (now reconstituted as the Financial Services Institutions Bureau, FSIB) is appointed by the Central Government and comprises expert members. It is <b>not</b> chaired by the RBI Governor.<br><b>Statement 2 is correct:</b> Its primary mandate (arising from the P.J. Nayak Committee) is to recommend candidates for top executive roles (MDs, CEOs) in PSBs and financial institutions.<br><b>Statement 3 is correct:</b> Beyond appointments, it advises banks on innovative strategies, governance, and capital raising plans.<br><br><b>Examiner's Trap:</b> Assuming that any high-level banking oversight body must be chaired by the RBI Governor.<br><br><b>PYQ Alignment:</b> Tests the mandate of financial sector reform institutions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "Crop Distribution",
+    "question": "<b>Consider the following States:</b><br><br>1. Andhra Pradesh<br>2. Kerala<br>3. Himachal Pradesh<br>4. Tripura<br><br><b>How many of the above are generally known as tea-producing States?</b>",
+    "options": [
+      "Only one State",
+      "Only two States",
+      "Only three States",
+      "All four States"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: All four States</b><br><br>While Assam and West Bengal are the dominant producers, tea is commercially cultivated in many other states due to varying microclimates.<br><b>Kerala</b> (e.g., Munnar) is a major southern producer.<br><b>Himachal Pradesh</b> (Kangra Valley) produces distinctive geographic indication (GI) tea.<br><b>Tripura</b> is one of the significant tea-producing states in the Northeast.<br><b>Andhra Pradesh</b> also has limited tea cultivation in suitable hill tracts.<br>The Tea Board of India officially recognizes tea production in all four states.<br><br><b>Examiner's Trap:</b> Candidates often eliminate non-traditional states like Andhra Pradesh and Himachal Pradesh, forgetting that \"tea-producing\" doesn't strictly mean \"top 3 producer.\"<br><br><b>PYQ Alignment:</b> Tests deeper geographic distribution of cash crops beyond the obvious primary states.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Public Health Alliances",
+    "question": "<b>Consider the following statements:</b><br><br>1. The India Sanitation Coalition is a platform to promote sustainable sanitation and is funded by the Government of India and the World Health Organization.<br>2. The National Institute of Urban Affairs is an apex body of the Ministry of Housing and Urban Affairs in Government of India and provides innovative solutions to address the challenges of Urban India.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>Statement 1 is incorrect:</b> The India Sanitation Coalition (ISC) is a multi-stakeholder platform launched at FICCI. It is <b>not</b> jointly funded by the Government of India and the WHO.<br><b>Statement 2 is incorrect:</b> The National Institute of Urban Affairs (NIUA) is an autonomous national think tank and research institute on urban planning. It is <b>not</b> a statutory or executive \"apex body\" of the Ministry of Housing and Urban Affairs (despite working closely with it).<br><br><b>Examiner's Trap:</b> Elevating NGOs/think-tanks into official government apex bodies or inventing prestigious UN funding (WHO) for local coalitions.<br><br><b>PYQ Alignment:</b> Rigorous scrutiny of organizational structures and funding lines.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Physics",
+    "topic": "Fundamental Concepts",
+    "question": "<b>Which one of the following is a reason why astronomical distances are measured in light-years?</b>",
+    "options": [
+      "Distances among stellar bodies do not change",
+      "Gravity of stellar bodies does not change.",
+      "Light always travels in a straight line.",
+      "Speed of light is always same."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Speed of light is always same.</b><br><br><b>Concept:</b> A light-year is the distance light travels in a vacuum in one Julian year. The fundamental reason it serves as a reliable cosmic yardstick is that the speed of light in a vacuum is a universal constant ($c \\approx 3 \\times 10^8$ m/s), meaning it never fluctuates regardless of the observer's frame of reference.<br><b>Examiner's Trap:</b> Options A and B are factually wrong (the universe is expanding, distances and gravities change). Option C is wrong because light bends around massive objects (gravitational lensing).<br><br><b>PYQ Alignment:</b> Testing fundamental conceptual clarity in basic science.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
