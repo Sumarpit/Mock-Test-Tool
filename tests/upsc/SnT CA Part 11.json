@@ -1,0 +1,272 @@
+[
+  {
+    "section": "Science & Technology",
+    "topic": "Calcium Carbide",
+    "question": "<b>Consider the following statements regarding Calcium Carbide (CaC₂):</b><br><br>1. It is legally permitted in India as an artificial fruit-ripening agent if used below a prescribed threshold.<br>2. It is produced by heating lime and coke at extremely high temperatures in an electric arc furnace.<br>3. Accidental ingestion or exposure to fruits ripened with it poses health risks primarily due to arsenic and phosphorus residues.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> The use of Calcium Carbide for fruit ripening is <b>completely banned</b> in India under the Prevention of Food Adulteration Rules, 1955, and the Food Safety and Standards Regulations, 2011. There is no permissible threshold for this use.<br><b>Statement 2 is correct:</b> CaC₂ is manufactured by heating lime and coke at extreme temperatures (2000–2100°C) in an electric arc furnace.<br><b>Statement 3 is correct:</b> Fruits ripened with calcium carbide retain toxic residues of arsenic and phosphorus, posing severe health hazards.<br><br><b>Examiner's Trap:</b> The examiner plays on the exception trap (\"if used below a threshold\") to test absolute regulatory bans.<br><b>PYQ Alignment:</b> UPSC frequently tests the presence of toxic elements in daily life (e.g., Lead in lipsticks, Brominated flame retardants in 2014, Monosodium glutamate in 2017).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Fibromyalgia",
+    "question": "<b>With reference to 'Fibromyalgia', recently seen in the news, consider the following statements:</b><br><br>1. It is an acute viral infection that primarily targets the muscular and skeletal systems of young children.<br>2. It is characterized by widespread muscle pain, fatigue, and cognitive difficulties often referred to as 'fibro fog'.<br>3. It can be definitively diagnosed through a specific blood biomarker test authorized by the WHO.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> Fibromyalgia is a chronic (long-term) non-communicable health condition, not an acute viral infection. Its risk is higher in women over the age of 40.<br><b>Statement 2 is correct:</b> The condition is characterized by chronic widespread body pain, tiredness, poor sleep, and cognitive issues known as \"fibro fog\".<br><b>Statement 3 is incorrect:</b> There is <b>no specific test</b> (blood or imaging) for Fibromyalgia; diagnosis is entirely clinical and based on patient symptoms.<br><br><b>Examiner's Trap:</b> Asserting the existence of a definitive diagnostic test is a common trap for syndromic or poorly understood conditions.<br><b>PYQ Alignment:</b> Questions on the pathology and diagnosis of diseases in the news are a staple (e.g., Hepatitis transmission in 2019, diseases testing in 2020).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Sinapic Acid",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Sinapic acid, a naturally occurring phenolic compound found in spices and citrus fruits, has shown strong potential in treating diabetic wounds like foot ulcers.<br><b>Statement-II:</b> Sinapic acid significantly accelerates wound healing by activating the SIRT1 pathway, which supports tissue repair and reduces inflammation.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>Statement-I is correct:</b> Researchers at Nagaland University identified sinapic acid (found in spices, citrus, cereals) as a promising agent to speed up wound healing in diabetic conditions.<br><b>Statement-II is correct and explains Statement-I:</b> The mechanism of action is the activation of the SIRT1 pathway, which directly addresses the impaired circulation and inflammation typical in diabetic foot ulcers, explaining its therapeutic potential.<br><br><b>Examiner's Trap:</b> Statement-I/II formats require precise understanding of the biological mechanism. If the pathway or the source were swapped, the relation would break.<br><b>PYQ Alignment:</b> Matches UPSC's trend of testing specific phytochemicals/biomarkers and their medical applications (e.g., ACE2 receptor in 2021).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Nafithromycin",
+    "question": "<b>With reference to 'Nafithromycin', recently introduced in India, consider the following statements:</b><br><br>1. It is India's first indigenously discovered antibiotic designed to combat multidrug-resistant bacterial infections.<br>2. It belongs to the novel lactone ketolide class and requires a prolonged intravenous treatment regimen of at least 14 days.<br>3. It is primarily targeted against community-acquired bacterial pneumonia caused by pathogens like Streptococcus pneumoniae.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is correct:</b> Nafithromycin (Miqnaf) is India's first indigenous antibiotic, developed by Wockhardt with BIRAC's support, to fight Antimicrobial Resistance (AMR).<br><b>Statement 2 is incorrect:</b> While it belongs to the lactone ketolide class, it is an <b>oral</b> antibiotic that requires only a short <b>three-day</b> treatment regimen, not 14 days intravenously.<br><b>Statement 3 is correct:</b> Its primary target is community-acquired bacterial pneumonia (CABP).<br><br><b>Examiner's Trap:</b> The route of administration and dosage duration are deliberately altered. Examiners use 'prolonged intravenous' to make a new drug sound more complex than it is.<br><b>PYQ Alignment:</b> Tests drug resistance and specific pharmacological developments, similar to the 2019 question on multidrug resistance in microbial pathogens.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Rhodamine B",
+    "question": "<b>Consider the following statements regarding 'Rhodamine B':</b><br><br>1. It is a synthetic chemical dye that is officially approved by the FSSAI as a food colorant for use in sweets and snacks.<br>2. It exhibits intense pink-red fluorescence and is widely used in the textile, paper, and leather industries.<br>3. Prolonged exposure to this compound is linked to DNA damage and an increased risk of cancer.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Rhodamine B is <b>strictly banned</b> for food use in India by FSSAI. It is a non-permitted colour that is illegally used to mimic saffron or turmeric in unorganised sector snacks.<br><b>Statement 2 is correct:</b> It is an industrial dye belonging to the xanthene group, known for its pink-red fluorescence.<br><b>Statement 3 is correct:</b> It is mutagenic, causes oxidative stress, and is classified by IARC as a possible carcinogen (Group 2B).<br><br><b>Examiner's Trap:</b> Because it is frequently detected in food, candidates might assume it is an approved additive that is being overused. It is entirely prohibited.<br><b>PYQ Alignment:</b> Reflects the 2017 PYQ on controversial chemicals in everyday items (e.g., Lead in Lipstick, BVO in soft drinks).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "CRYODIL",
+    "question": "<b>The term 'CRYODIL', recently mentioned in scientific developments by the ICAR, refers to:</b>",
+    "options": [
+      "A genetically engineered crop variety resistant to extreme frost.",
+      "An egg yolk-free semen extender developed for the cryopreservation of buffalo semen.",
+      "A liquid carbon coolant utilized in next-generation nuclear reactors.",
+      "A synthetic hydrogel used for targeted drug delivery in cold-storage environments."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: An egg yolk-free semen extender developed for the cryopreservation of buffalo semen.</b><br><br><b>Explanation:</b> CRYODIL is a ready-to-use semen extender developed by the National Institute of Animal Nutrition and Physiology (NIANP), Bengaluru. Crucially, it is egg yolk-free, which reduces biosecurity and contamination risks associated with animal-origin components, while offering an 18-month shelf life.<br><br><b>Examiner's Trap:</b> The prefix 'Cryo' leads candidates to guess options related to cold environments like frost-resistant crops or reactor coolants.<br><b>PYQ Alignment:</b> Direct terminology-based questions are common in S&T (e.g., 'Cas9 protein' in 2019, 'ACE2' in 2021).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "MAHA MedTech Mission",
+    "question": "<b>Consider the following statements regarding the 'MAHA-Medtech Mission':</b><br><br>1. It is a joint initiative exclusively funded and executed by the Ministry of Health and Family Welfare to import advanced medical robots.<br>2. It provides institutional support mechanisms like 'Patent Mitra' for intellectual property protection and 'MedTech Mitra' for regulatory guidance.<br>3. It focuses heavily on indigenous innovation in medical devices with priority areas including Tuberculosis, cancer, and neonatal care.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> The mission is a partnership between the Anusandhan National Research Foundation (ANRF), ICMR, and the Gates Foundation. Its nodal ministry is the <b>Ministry of Science and Technology</b>, not Health. Also, it aims to <b>reduce</b> import dependence by promoting <i>indigenous</i> innovation, not importing robots.<br><b>Statement 2 is correct:</b> It incorporates 'Patent Mitra' for IP and 'MedTech Mitra' for regulatory approvals.<br><b>Statement 3 is correct:</b> Priority areas include TB, cancer, neonatal care, and primary healthcare through indigenous devices.<br><br><b>Examiner's Trap:</b> Swapping the nodal ministry from Science & Tech to Health is a classic UPSC trap. Additionally, 'exclusively' and 'import' contradict the self-reliance (Aatmanirbhar) objective.<br><b>PYQ Alignment:</b> Institutional mandates and nodal ministries are repeatedly targeted (e.g., FSSAI nodal ministry in 2018).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Global Virus Network (GVN)",
+    "question": "<b>With reference to the 'Global Virus Network (GVN)', consider the following statements:</b><br><br>1. It is a specialized intergovernmental agency functioning under the aegis of the World Health Organization (WHO).<br>2. It serves as an international coalition of leading medical virologists focusing on pandemic preparedness and viral threats.<br>3. Its headquarters are located in Geneva, Switzerland, alongside major global health organizations.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>Statement 1 is incorrect:</b> The GVN is a <b>non-profit, voluntary consortium</b> of leading virology laboratories and scientists. It is not an intergovernmental agency nor is it under the WHO.<br><b>Statement 2 is correct:</b> Its mission is to prevent and respond to viral threats and enhance pandemic preparedness through collaboration.<br><b>Statement 3 is incorrect:</b> The headquarters of the GVN is located in <b>Baltimore, United States</b>, not Geneva.<br><br><b>Examiner's Trap:</b> Assuming that a 'Global' health network must automatically be a UN/WHO body headquartered in Geneva is a common cognitive bias.<br><b>PYQ Alignment:</b> Reminiscent of the 2016 question on 'Doctors Without Borders', testing the nature (NGO vs UN agency) of international bodies.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Oral Cholera Vaccine -Shanchol",
+    "question": "<b>Consider the following statements regarding 'Shanchol', an oral cholera vaccine:</b><br><br>1. It is a live-attenuated vaccine that provides lifelong immunity against all known strains of Vibrio cholerae with a single dose.<br>2. It induces local immunity in the gastrointestinal tract by stimulating IgA antibody responses.<br>3. It is administered without the need for buffer solutions or additional water.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Shanchol is a <b>killed, bivalent (O1 and O139) whole-cell</b> oral vaccine, not live-attenuated. Furthermore, it is administered in <b>two doses</b> (14 days apart), not a single dose.<br><b>Statement 2 is correct:</b> It stimulates IgA antibodies in the gut to provide localized immunity against the bacteria.<br><b>Statement 3 is correct:</b> A major logistical advantage of Shanchol is that it is ready-to-use and does not require buffer solutions or extra water.<br><br><b>Examiner's Trap:</b> Confusing live-attenuated vs killed vaccines and dosage regimens. Cholera vaccines are primarily killed whole-cell.<br><b>PYQ Alignment:</b> Matches UPSC's focus on vaccine technology platforms (e.g., 2022 question on mRNA, viral vector, and inactivated vaccines).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Biomedical Research Career Programme (BRCP) Phase 3",
+    "question": "<b>With reference to the 'Biomedical Research Career Programme (BRCP)', consider the following statements:</b><br><br>1. It is a flagship initiative launched exclusively by the NITI Aayog to reverse the brain drain of doctors from India.<br>2. It is implemented through a special purpose vehicle in partnership with the Wellcome Trust, UK.<br>3. Phase III of the programme aims to expand research activities into Tier-2 and Tier-3 institutions.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> The BRCP is a flagship Indo-UK initiative launched by the <b>Department of Biotechnology (DBT)</b>, under the Ministry of Science & Technology, not NITI Aayog.<br><b>Statement 2 is correct:</b> It operates via the DBT/Wellcome Trust India Alliance, a special purpose vehicle jointly implemented with the Wellcome Trust, UK.<br><b>Statement 3 is correct:</b> Phase III (approved for 2025-26 to 2030-31) explicitly aims to reduce regional disparities by expanding into Tier-2 and Tier-3 institutions and pushing ~30% of collaborative programs to Technology Readiness Level (TRL) 4.<br><br><b>Examiner's Trap:</b> Misattributing high-profile scientific capacity building programs to NITI Aayog instead of the specific nodal department (DBT).<br><b>PYQ Alignment:</b> Questions on exact nodal ministries and bilateral partnerships of flagship schemes (e.g., National Nutrition Mission in 2017).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Leprosy",
+    "question": "<b>Consider the following statements regarding 'Leprosy (Hansen’s Disease)':</b><br><br>1. It is a chronic viral infection that spreads rapidly through casual contact such as shaking hands.<br>2. India achieved the elimination of leprosy as a public health problem at the national level in 2005.<br>3. It is completely curable with Multi-Drug Therapy (MDT), and infectivity stops once the treatment begins.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>Statement 1 is incorrect:</b> Leprosy is caused by <b>bacteria</b> (Mycobacterium leprae and M. lepromatosis), not a virus. It requires <b>prolonged close contact</b> with an untreated patient to spread via droplets; it does not spread through casual contact like shaking hands.<br><b>Statement 2 is correct:</b> India achieved elimination as a public health problem (less than 1 case per 10,000 population) at the national level in December 2005.<br><b>Statement 3 is correct:</b> It is curable using MDT (dapsone, rifampicin, and clofazimine), and patients cease to be infectious soon after starting the therapy.<br><br><b>Examiner's Trap:</b> The term 'viral infection' and 'rapid casual spread' prey on general fears of infectious diseases, contrasting with leprosy's actual slow, bacterial nature.<br><b>PYQ Alignment:</b> Testing fundamental disease characteristics (pathogen type, transmission vector) as seen in questions on Hepatitis (2019) and H1N1 (2016).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Encephalomyocarditis Virus",
+    "question": "<b>Consider the following statements regarding the 'Encephalomyocarditis Virus (EMCV)':</b><br><br>1. It is a zoonotic virus that relies primarily on mosquitoes as its natural vector for transmission.<br>2. It causes fatal diseases in a wide range of mammals, including elephants and pigs.<br>3. While it can infect humans, such infections are extremely rare and generally asymptomatic.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>Statement 1 is incorrect:</b> EMCV is a <b>rodent-borne</b> virus, not mosquito-borne. It spreads when animals consume food or water contaminated with infected rodent urine or feces.<br><b>Statement 2 is correct:</b> It causes myocarditis and encephalitis in pigs, non-human primates, and elephants (recently causing a fatality at the National Zoological Park).<br><b>Statement 3 is correct:</b> It is zoonotic, but human infections are exceptionally rare and usually present without symptoms.<br><br><b>Examiner's Trap:</b> Associating a 'zoonotic virus' automatically with mosquito or tick vectors, ignoring rodent-borne pathways.<br><b>PYQ Alignment:</b> UPSC extensively tests the vectors of emerging viral diseases (e.g., Zika transmission in 2017, Nipah).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Melatonin",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Exposure to bright artificial light during nighttime suppresses the natural production of melatonin in the human body.<br><b>Statement-II:</b> Melatonin is a hormone secreted by the pineal gland that promotes wakefulness and alertness during daylight hours.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>Statement-I is correct:</b> Light exposure suppresses the production of melatonin, which is why darkness is required to stimulate its release for sleep.<br><b>Statement-II is incorrect:</b> Melatonin is indeed secreted by the pineal gland, but its function is to <b>induce sleep and slow body activity</b>, not to promote wakefulness. Wakefulness is promoted when melatonin is suppressed.<br><br><b>Examiner's Trap:</b> Statement II flips the physiological function of the hormone. Aspirants reading hastily might just associate melatonin with 'sleep-wake cycle' and mark it correct.<br><b>PYQ Alignment:</b> Understanding of basic human physiology and hormones (e.g., Role of B and T cells in 2022).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Batten Disease",
+    "question": "<b>Which one of the following best describes the pathology of 'Batten Disease', recently in the news?</b>",
+    "options": [
+      "An autoimmune disorder where the body's white blood cells attack the myelin sheath of spinal nerves.",
+      "A fatal genetic condition causing the buildup of waste material in brain cells, leading to severe neurodegeneration.",
+      "A mosquito-borne viral infection that causes microcephaly in newborns.",
+      "An accumulation of heavy metals in the liver due to a defective copper-transporting gene."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: A fatal genetic condition causing the buildup of waste material in brain cells, leading to severe neurodegeneration.</b><br><br><b>Explanation:</b> Batten disease is a group of rare, fatal, inherited disorders of the nervous system caused by mutations in CLN genes. It causes waste material to build up in cells (particularly brain cells), leading to progressive vision loss, seizures, cognitive decline, and loss of motor skills. There is currently no cure.<br><br><b>Examiner's Trap:</b> The options describe other real conditions: Multiple Sclerosis (Option A), Zika (Option C), and Wilson's disease (Option D).<br><b>PYQ Alignment:</b> Matches UPSC's pattern of defining a specific medical or technical term in the news (e.g., 'Denisovan' in 2019, 'ACE2' in 2021).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Ricin",
+    "question": "<b>Consider the following statements regarding the biological toxin 'Ricin':</b><br><br>1. It is a highly potent poison naturally derived from the seeds of the castor oil plant.<br>2. It exerts its lethal effect by blocking protein synthesis inside the body's cells.<br>3. It remains chemically active and highly toxic even when exposed to extreme temperatures above 100°C.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>Statement 1 is correct:</b> Ricin is a naturally occurring, highly toxic protein extracted from castor beans.<br><b>Statement 2 is correct:</b> Once it enters the body, ricin inhibits the ribosomes, blocking protein synthesis and causing cell death and organ failure.<br><b>Statement 3 is incorrect:</b> Ricin is <b>inactivated</b> by extreme heat. Temperatures above 80°C denature the protein, neutralizing its toxicity.<br><br><b>Examiner's Trap:</b> Assuming that chemical/biological weapons are completely indestructible by conventional means (like heat) is a common misconception.<br><b>PYQ Alignment:</b> Similar to the 2021 question on Triclosan and BPA, testing specific knowledge of toxic chemical compounds.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "African Swine Fever",
+    "question": "<b>With reference to 'African Swine Fever' (ASF), consider the following statements:</b><br><br>1. It is a highly contagious viral disease with a mortality rate approaching 100% in domestic pigs.<br>2. It is a potent zoonotic threat, frequently transmitting from pigs to humans handling the infected meat.<br>3. To control its spread, the administration of the widely available ASF live-attenuated vaccine is globally mandated.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one</b><br><br><b>Statement 1 is correct:</b> ASF is a devastating viral disease affecting domestic and wild pigs, with mortality in acute cases up to 100%.<br><b>Statement 2 is incorrect:</b> ASF is <b>not zoonotic</b>; it does not infect humans, though it causes massive economic disruption.<br><b>Statement 3 is incorrect:</b> There is <b>no approved vaccine</b> or specific treatment for African Swine Fever. Outbreaks are managed strictly through culling and biosecurity measures.<br><br><b>Examiner's Trap:</b> Mixing 'Swine Flu' (H1N1, which is zoonotic and has a vaccine) with 'African Swine Fever' (which is not zoonotic and has no vaccine).<br><b>PYQ Alignment:</b> Distinguishing between human and animal viral transmission patterns (e.g., H1N1 question in 2015/2016).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Pharmacogenomics",
+    "question": "<b>The emerging field of 'Pharmacogenomics' is best described by which one of the following statements?</b>",
+    "options": [
+      "The genetic modification of crops to produce naturally occurring pharmaceutical compounds within their leaves.",
+      "The study of how an individual's unique genetic makeup influences their body's response to medications.",
+      "The use of viral vectors to introduce functional genes into patients suffering from hereditary metabolic disorders.",
+      "The large-scale mapping of plant genomes to identify active ingredients used in traditional Ayurvedic medicine."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The study of how an individual's unique genetic makeup influences their body's response to medications.</b><br><br><b>Explanation:</b> Pharmacogenomics sits at the intersection of pharmacology and genomics. It aims to replace the \"one-size-fits-all\" drug prescription model with precision medicine, where treatments (like cancer drugs or blood thinners) are tailored to a patient's specific genetic profile, reducing adverse effects and increasing efficacy.<br><br><b>Examiner's Trap:</b> The distractors mimic other real biotech fields: Biopharming (Option A), Gene Therapy (Option C), and Bioprospecting (Option D).<br><b>PYQ Alignment:</b> Direct definitions of cutting-edge biotech concepts (e.g., 'Transcriptome' in 2016, 'Aerial metagenomics' in 2023).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Governance",
+    "topic": "Indian Pharmacopoeia Commission (IPC)",
+    "question": "<b>Consider the following statements regarding the 'Indian Pharmacopoeia Commission (IPC)':</b><br><br>1. It is a statutory body established directly under the Drugs and Cosmetics Act, 1940.<br>2. It functions under the administrative control of the Ministry of Chemicals and Fertilizers.<br>3. It publishes the National Formulary of India to promote the rational use of generic medicines.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>Statement 1 is incorrect:</b> The IPC is an <b>autonomous body</b> (registered as a society under the Societies Registration Act, 1860), not a statutory body created directly by the Drugs and Cosmetics Act.<br><b>Statement 2 is incorrect:</b> It functions under the <b>Ministry of Health and Family Welfare</b>, not the Ministry of Chemicals and Fertilizers (which controls the Department of Pharmaceuticals).<br><b>Statement 3 is correct:</b> The IPC is responsible for setting drug standards, publishing the Indian Pharmacopoeia (IP), and producing the National Formulary of India.<br><br><b>Examiner's Trap:</b> Misidentifying the ministry for pharma-related bodies. While the pricing (NPPA) falls under Chemicals and Fertilizers, the quality standards (CDSCO, IPC) fall under Health.<br><b>PYQ Alignment:</b> Identifying exact structural classifications (statutory vs autonomous) and nodal ministries (e.g., FSSAI in 2018).",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
