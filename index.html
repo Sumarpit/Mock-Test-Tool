@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
     <title>Exam Mock Tool</title>
+    <!-- PDF Generation Library -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
     <link rel="manifest" href="manifest.json">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📘</text></svg>">
@@ -125,11 +126,11 @@
         .elim-btn:hover { background: #ffebee; color: #e74c3c; border-color: #e74c3c; }
         .elim-btn.elim-active { background: #e74c3c; color: white; border-color: #e74c3c; }
 
-        #drawing-canvas { position: absolute; top: 0; left: 0; z-index: 100; touch-action: none; pointer-events: none; }
-        
+        /* Stamp Tools */
         .annot-toolbar { background: white; padding: 3px; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); display: flex; gap: 5px; border: 1px solid #ddd; }
         .tool-btn { width: 32px; height: 32px; border-radius: 4px; border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 1.1rem; background: #f5f5f5; transition: 0.2s; }
         .tool-btn.active { background: var(--accent); color: white; }
+        .stamp-icon { position: absolute; font-size: 1.5rem; pointer-events: none; transform: translate(-50%, -50%); z-index: 50; user-select: none; }
 
         .pane-sidebar { width: 300px; background: #fff; display: flex; flex-direction: column; transition: width 0.3s ease; border-left: 1px solid #ccc; }
         .pane-sidebar.collapsed { width: 0 !important; min-width: 0 !important; flex-basis: 0 !important; padding: 0 !important; border: none !important; overflow: hidden !important; }
@@ -341,7 +342,6 @@
         </div>
 
         <div class="pane-question" id="touch-area">
-            <canvas id="drawing-canvas"></canvas>
 
             <div class="q-header-box">
                 <div class="q-meta">
@@ -349,9 +349,9 @@
                     <span>Q. <span id="q-num">1</span></span>
                 </div>
                 <div class="annot-toolbar">
-                    <button class="tool-btn active" id="tool-pen" onclick="setTool('pen')" title="Pen">🖊️</button>
-                    <button class="tool-btn" id="tool-high" onclick="setTool('highlighter')" title="Highlighter">🖍️</button>
-                    <button class="tool-btn" onclick="clearCanvas()" title="Clear">🧹</button>
+                    <button class="tool-btn" id="tool-tick" onclick="setStampTool('tick')" title="Tick (Statement Correct)">✅</button>
+                    <button class="tool-btn" id="tool-cross" onclick="setStampTool('cross')" title="Cross (Statement Wrong)">❌</button>
+                    <button class="tool-btn" onclick="clearStamps()" title="Clear Stamps">🧹</button>
                 </div>
             </div>
             
@@ -413,7 +413,6 @@
                     <button class="split-btn-main" onclick="downloadReport('md')">💾 Save Report (MD)</button>
                     <button class="split-btn-arrow" onclick="toggleReportMenu(event)">▼</button>
                     <div class="dropdown-menu" id="report-menu">
-                        <div class="dropdown-item" onclick="downloadReport('md')">Markdown <span>(.md)</span></div>
                         <div class="dropdown-item" onclick="downloadReport('html')">HTML <span>(.html)</span></div>
                         <div class="dropdown-item" onclick="downloadReport('pdf')">PDF <span>(.pdf)</span></div>
                         <div class="dropdown-item" onclick="downloadCSV()">CSV Data <span>(.csv)</span></div>
@@ -429,6 +428,7 @@
             <div class="score-card"><h2 id="r-skip">0</h2><small>Skipped</small></div>
         </div>
         
+        <!-- ADVANCED METRICS -->
         <div class="adv-metrics-row" id="adv-metrics-row"></div>
 
         <div class="analysis-section">
@@ -482,7 +482,6 @@
 </div>
 
 <script src="config.js"></script>
-<script src="extensions.js"></script>
 
 <script>
     const BASE_KEY = 'sebi_v40_'; 
@@ -492,7 +491,8 @@
     let library = {}, cloudList = [], activeFile = '', questions = [], currIdx = 0;
     // Advanced Diagnostic Variables
     let responses = {}, confidence = {}, visited = {}, eliminated = {};
-    let firstChoice = {}, traps = {}; 
+    let firstChoice = {}, traps = {}, stamps = {}; 
+    let currentStampTool = null;
     let timer, seconds = 0, qTimers = {}, lastQTime = 0;
     let isMultiMode = false, selectedFiles = new Set();
     let isReviewMode = false, reviewSet = [];
@@ -525,6 +525,7 @@
             loadFromGitHubAPI(); 
             loadHistory(); 
             checkResume();
+            initStampPad();
             
             await loadWisdomData();
             
@@ -796,9 +797,6 @@
         sb.classList.toggle('collapsed');
         if (sb.classList.contains('collapsed')) { handle.innerText = '◀'; } 
         else { handle.innerText = '▶'; }
-        if (typeof resizeAndLoadCanvas === 'function' && typeof currIdx !== 'undefined') {
-            setTimeout(() => resizeAndLoadCanvas(currIdx), 300); 
-        }
     }
 
     function openSidebar() {
@@ -809,6 +807,99 @@
     function closeSidebar() {
         document.getElementById('pane-sidebar').classList.remove('open');
         document.getElementById('overlay').classList.remove('active');
+    }
+
+    // --- STAMP PAD LOGIC ---
+    window.setStampTool = function(tool) {
+        if (currentStampTool === tool) {
+            currentStampTool = null; 
+            document.getElementById('touch-area').style.cursor = 'default';
+            document.querySelectorAll('.tool-btn').forEach(b => b.classList.remove('active'));
+        } else {
+            currentStampTool = tool;
+            document.querySelectorAll('.tool-btn').forEach(b => b.classList.remove('active'));
+            if(tool === 'tick') document.getElementById('tool-tick').classList.add('active');
+            if(tool === 'cross') document.getElementById('tool-cross').classList.add('active');
+            document.getElementById('touch-area').style.cursor = 'crosshair';
+        }
+    };
+
+    window.clearStamps = function() {
+        if(typeof currIdx !== 'undefined') {
+            stamps[currIdx] = [];
+            renderStamps();
+            saveState();
+        }
+    };
+
+    function initStampPad() {
+        const container = document.getElementById('touch-area');
+        if (!container) return;
+
+        let startX = 0, startY = 0;
+        let isValidInteraction = false;
+
+        container.addEventListener('pointerdown', (e) => {
+            isValidInteraction = true;
+            startX = e.clientX;
+            startY = e.clientY;
+        });
+
+        container.addEventListener('pointerup', (e) => {
+            if (!isValidInteraction) return;
+
+            const endX = e.clientX;
+            const endY = e.clientY;
+            const diffX = startX - endX;
+            const diffY = startY - endY;
+
+            // Swipe Detection
+            if (Math.abs(diffX) > 80 && Math.abs(diffY) < 60) {
+                if (diffX > 0) { if (typeof nextQ === 'function') nextQ(); } 
+                else { if (typeof prevQ === 'function') prevQ(); }
+            } 
+            // Tap/Click Detection for Stamps
+            else if (Math.abs(diffX) < 10 && Math.abs(diffY) < 10) {
+                if (currentStampTool && !isReviewMode) {
+                    const target = e.target;
+                    const tag = target.tagName.toLowerCase();
+                    const isInteractive = ['button', 'input', 'textarea', 'select'].includes(tag) || 
+                                          target.closest('.opt-label') || 
+                                          target.closest('.elim-btn') ||
+                                          target.closest('.c-btn') ||
+                                          target.closest('.annot-toolbar') ||
+                                          target.closest('.q-header-box') ||
+                                          target.closest('.sidebar-handle');
+                    
+                    if (!isInteractive) {
+                        const rect = container.getBoundingClientRect();
+                        const x = e.clientX - rect.left + container.scrollLeft;
+                        const y = e.clientY - rect.top + container.scrollTop;
+                        
+                        if (!stamps[currIdx]) stamps[currIdx] = [];
+                        stamps[currIdx].push({ type: currentStampTool, x, y });
+                        renderStamps();
+                        saveState();
+                    }
+                }
+            }
+            isValidInteraction = false; 
+        });
+    }
+
+    function renderStamps() {
+        document.querySelectorAll('.stamp-icon').forEach(el => el.remove());
+        if (typeof currIdx === 'undefined' || !stamps[currIdx]) return;
+        
+        const touchArea = document.getElementById('touch-area');
+        stamps[currIdx].forEach(stamp => {
+            const el = document.createElement('div');
+            el.className = 'stamp-icon';
+            el.innerText = stamp.type === 'tick' ? '✅' : '❌';
+            el.style.left = stamp.x + 'px';
+            el.style.top = stamp.y + 'px';
+            touchArea.appendChild(el);
+        });
     }
 
     function startExam() {
@@ -832,7 +923,7 @@
         }
 
         responses = {}; confidence = {}; visited = {}; eliminated = {}; 
-        firstChoice = {}; traps = {};
+        firstChoice = {}; traps = {}; stamps = {};
         qTimers = {}; currIdx = 0; lastQTime = 0;
         
         const h = parseInt(document.getElementById('hInput').value)||0;
@@ -850,31 +941,21 @@
         const hdr = document.getElementById('main-header');
         const tmr = document.getElementById('timer');
         const annotToolbar = document.querySelector('.annot-toolbar');
-        const drawingCanvas = document.getElementById('drawing-canvas');
 
         if(isReviewMode) { 
             hdr.classList.add('review-mode'); 
             tmr.classList.add('review-timer'); 
-            
             if (annotToolbar) annotToolbar.style.display = 'none';
-            if (drawingCanvas) drawingCanvas.style.display = 'none';
         } 
         else { 
             hdr.classList.remove('review-mode'); 
             tmr.classList.remove('review-timer'); 
-            
             if (annotToolbar && !document.body.classList.contains('tcs-mode')) {
                 annotToolbar.style.display = 'flex';
             }
-            if (drawingCanvas) drawingCanvas.style.display = 'block';
         }
 
         questions.forEach((_,i) => visited[i]=false);
-        
-        if(typeof EXAM_HOOKS !== 'undefined' && EXAM_HOOKS.onExamStart) {
-            EXAM_HOOKS.onExamStart(currentProfile);
-        }
-
         startTimer(); loadQ(0); saveState();
     }
 
@@ -1019,12 +1100,9 @@
         const nextBtn = document.getElementById('next-btn');
         if(i === questions.length-1) { nextBtn.innerText = "Submit Test"; nextBtn.style.background = "#e67e22"; }
         else { nextBtn.innerText = "Save & Next"; nextBtn.style.background = "#2962ff"; }
-        
-        if(typeof EXAM_HOOKS !== 'undefined' && EXAM_HOOKS.onQuestionLoad) {
-            EXAM_HOOKS.onQuestionLoad(currentProfile, q, i);
-        }
 
         renderPalette();
+        renderStamps();
         saveState();
     }
 
@@ -1034,6 +1112,7 @@
         delete responses[currIdx]; 
         delete confidence[currIdx]; 
         eliminated[currIdx] = []; 
+        stamps[currIdx] = []; // Clear stamps as well
         loadQ(currIdx); 
         saveState(); 
     }
@@ -1074,7 +1153,7 @@
     function saveState() {
         localStorage.setItem(BASE_KEY+'resume_'+currentProfile, JSON.stringify({ 
             library, activeFile, questions, responses, confidence, eliminated, 
-            firstChoice, traps,
+            firstChoice, traps, stamps,
             visited, currIdx, seconds, isReviewMode, qTimers, lastQTime 
         }));
     }
@@ -1099,6 +1178,7 @@
         eliminated = d.eliminated || {}; 
         firstChoice = d.firstChoice || {};
         traps = d.traps || {};
+        stamps = d.stamps || {};
         visited = d.visited;
         currIdx = d.currIdx; seconds = d.seconds; isReviewMode = d.isReviewMode;
         qTimers = d.qTimers || {}; lastQTime = Date.now();
@@ -1257,11 +1337,11 @@
 
             const ans = responses[i];
             const conf = confidence[i] || 'None';
-            let status = 'Skipped', cls = 'skip', uAns = 'Skipped';
+            let status = 'Skipped', cls = 'skip';
 
             if(ans !== undefined) {
-                if(ans === q.answer) { status='Correct'; cls='correct'; uAns=q.options[ans]; }
-                else { status='Wrong'; cls='wrong'; uAns=q.options[ans]; }
+                if(ans === q.answer) { status='Correct'; cls='correct'; }
+                else { status='Wrong'; cls='wrong'; }
             }
 
             // Generating Feature 1: The Autopsy View
@@ -1441,10 +1521,7 @@
             if (!activeFile.includes("(Review)")) {
                 activeFile += " (Review)"; 
             }
-            responses={}; confidence={}; visited={}; eliminated={}; firstChoice={}; traps={}; currIdx=0; seconds=0; qTimers={};
-            if (typeof window.resetAllDrawings === 'function') {
-                window.resetAllDrawings();
-            }
+            responses={}; confidence={}; visited={}; eliminated={}; firstChoice={}; traps={}; stamps={}; currIdx=0; seconds=0; qTimers={};
             initExamUI();
         }
     }
@@ -1453,10 +1530,7 @@
         if(!library[n]) { alert("Missing file"); return; }
         if(!confirm("Retake?")) return;
         isReviewMode=false; questions=prepareQuestions(library[n]); activeFile=n;
-        seconds=d; responses={}; confidence={}; visited={}; eliminated={}; firstChoice={}; traps={}; qTimers={}; currIdx=0;
-        if (typeof window.resetAllDrawings === 'function') {
-            window.resetAllDrawings();
-        }
+        seconds=d; responses={}; confidence={}; visited={}; eliminated={}; firstChoice={}; traps={}; stamps={}; qTimers={}; currIdx=0;
         localStorage.removeItem(BASE_KEY+'resume_'+currentProfile);
         initExamUI();
     }
@@ -1601,7 +1675,6 @@
         const skip = document.getElementById('r-skip').innerText;
         const testName = activeFile ? activeFile.replace(/\.json$/i, '') : "Mock Test";
 
-        // Calculate Aggregate Diagnostic Metrics
         let fatalCount = 0;
         let fiftyTotal = 0;
         let fiftyCorrect = 0;
