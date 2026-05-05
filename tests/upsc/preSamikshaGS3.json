@@ -850,7 +850,7 @@
       "Neither Statement II nor Statement III is correct"
     ],
     "answer": 2,
-    "explanation": "<b>Correct Answer: Only one of the Statements II and III is correct and that explains Statement I</b><br><br><ul><li><b>Fact Check:</b> Statement II is correct and scientifically explains Statement I (overcoming the Coulomb barrier requires massive thermal kinetic energy).</li><li><b>Statement III is incorrect:</b> Achieving a stable, continuous, self-sustaining fusion reaction (like in Tokamaks) remains one of the hardest engineering challenges on Earth; it is not "easily sustained".</li></ul>",
+    "explanation": "<b>Correct Answer: Only one of the Statements II and III is correct and that explains Statement I</b><br><br><ul><li><b>Fact Check:</b> Statement II is correct and scientifically explains Statement I (overcoming the Coulomb barrier requires massive thermal kinetic energy).</li><li><b>Statement III is incorrect:</b> Achieving a stable, continuous, self-sustaining fusion reaction (like in Tokamaks) remains one of the hardest engineering challenges on Earth; it is not easily sustained.</li></ul>",
     "marks": 2.0,
     "negative": 0.66
   },
