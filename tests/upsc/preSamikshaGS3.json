@@ -1,0 +1,1202 @@
+[
+  {
+    "section": "Environment",
+    "topic": "Biodiversity & Ecology",
+    "question": "<b>Consider the following statements:</b><br><br>I. Biodiversity increases continuously with altitude and is highest at mountain summits due to minimal human interference.<br>II. Most medicinal plants used in modern pharmaceutical industries are predominantly found in temperate regions.<br>III. Mountain ecosystems often exhibit higher levels of endemism compared to adjacent plains.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "II and III only",
+      "I and II only",
+      "III only",
+      "I, II and III"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: III only</b><br><br><ul><li><b>Statement I is not correct:</b> Biodiversity does not keep increasing with altitude. It is usually highest at mid-altitudes, not at mountain tops. At higher altitudes, conditions become harsh (low temperature, less oxygen), so fewer species can survive. Therefore, biodiversity declines towards mountain summits.</li><li><b>Statement II is not correct:</b> Most medicinal plants used in modern medicine are not mainly from temperate regions. They are largely found in tropical regions, which have much higher biodiversity. Tropical forests are rich in plants with medicinal properties.</li><li><b>Statement III is correct:</b> Mountain regions often have high endemism, meaning many species are found only in that specific area. This happens because mountains are isolated and have varied climates, which leads to the development of unique species.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Wildlife & Habitats",
+    "question": "<b>A mountaineer traversing the Himalayan region observes wildlife adapted to high altitude. Which of the following species is/are most likely to be seen?</b><br><br>I. Himalayan Yak<br>II. Asian Black Bear<br>III. Sloth Bear<br>IV. Chiru<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "I, II and IV only",
+      "I and III only",
+      "II and III only",
+      "I, II, III and IV"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I, II and IV only</b><br><br><ul><li><b>Statement I is correct:</b> The Himalayan Yak is a typical high-altitude species, found in the alpine and cold desert regions of the Himalayas. It is well adapted to low oxygen (high haemoglobin capacity) and extreme cold.</li><li><b>Statement II is correct:</b> The Asian Black Bear is found in the Himalayan region, especially in temperate forests and sub-alpine zones. It is commonly associated with Himalayan mountainous habitats.</li><li><b>Statement III is not correct:</b> The Sloth Bear is not adapted to high altitudes. It is mainly found in tropical forests, dry deciduous forests, and grasslands of central and southern India.</li><li><b>Statement IV is correct:</b> Chiru is a high-altitude specialist species, found in the Tibetan Plateau and trans-Himalayan regions. It survives in cold, arid conditions and sparse vegetation zones.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Wetlands of India",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Wetland : State</b><br>I. Siliserh Lake : Rajasthan<br>II. Khecheopalri Wetland : Sikkim<br>III. Shekha Jheel : Madhya Pradesh<br>IV. Patna Bird Sanctuary : Uttar Pradesh<br>V. Chari-Dhand Wetland : Maharashtra<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only two pairs",
+      "Only three pairs",
+      "Only four pairs",
+      "All five pairs"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only three pairs</b><br><br><ul><li><b>Pair I is correctly matched:</b> Siliserh Lake is located in the Alwar district of Rajasthan and lies in the buffer region of the Sariska Tiger Reserve.</li><li><b>Pair II is correctly matched:</b> Khecheopalri Wetland is situated in the West Sikkim district and is the first Ramsar site of the state.</li><li><b>Pair III is not correctly matched:</b> Shekha Jheel is not located in Madhya Pradesh; rather, it is situated in Aligarh district of Uttar Pradesh.</li><li><b>Pair IV is correctly matched:</b> Patna Bird Sanctuary is located in Etah district of Uttar Pradesh.</li><li><b>Pair V is not correctly matched:</b> Chari-Dhand Wetland is not located in Maharashtra but in the Kutch district of Gujarat.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Climate Change Impact",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement I:</b> Premature melting of sea ice leads to high mortality among emperor penguin chicks.<br><b>Statement II:</b> Penguin chicks lack waterproof feathers and cannot survive in open water.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I</b><br><br><ul><li><b>Statement I is correct:</b> Premature melting of sea ice has been identified as a major cause of high mortality among emperor penguin chicks. These penguins depend on stable sea ice as a breeding platform.</li><li><b>Statement II is also correct:</b> Penguin chicks do not initially possess waterproof feathers. Their early plumage is composed of down feathers, which are not suitable for swimming.</li><li><b>Statement II correctly explains Statement I:</b> The premature melting of sea ice forces the chicks into the water before they are physiologically ready. Since they lack waterproof feathers, they are unable to survive.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Forest Definitions",
+    "question": "<b>Consider the following statements:</b><br><br>I. Forest cover includes all land having tree canopy density above 10% and an area greater than 1 hectare, irrespective of ownership and land use.<br>II. Recorded Forest Area includes only those areas notified under the Indian Forest Act, 1927.<br>III. Tree cover includes trees outside recorded forest areas and excludes patches larger than 1 hectare.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and II only",
+      "I only",
+      "II and III only",
+      "I and III only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: I and III only</b><br><br><ul><li><b>Statement I is correct:</b> Forest Cover is defined as all land parcels having a tree canopy density of more than 10 percent and an area greater than 1 hectare, irrespective of ownership, legal status, or land use.</li><li><b>Statement II is not correct:</b> Recorded Forest Area (RFA) does not include only those areas notified under the Indian Forest Act, 1927. It also includes areas recorded as forests in government and revenue records, as well as forests notified under state forest laws.</li><li><b>Statement III is correct:</b> Tree Cover refers to trees growing outside Recorded Forest Areas. It includes isolated trees, linear plantations, and small patches of trees less than 1 hectare in size. Patches larger than 1 hectare are already included under Forest Cover and hence are excluded from Tree Cover.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Carbon Sequestration",
+    "question": "<b>Consider the following processes:</b><br><br>I. Mineral carbonation<br>II. Soil organic carbon accumulation<br>III. Ocean alkalinity enhancement<br>IV. Stratospheric aerosol injection<br><br><b>Which of the above can contribute to removal and storage of carbon dioxide from the atmosphere?</b>",
+    "options": [
+      "I, II and IV only",
+      "I, III and IV only",
+      "II, III and IV only",
+      "I, II and III only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: I, II and III only</b><br><br><ul><li><b>Statement I is correct:</b> Mineral carbonation is a process in which carbon dioxide reacts with minerals to form stable carbonate compounds, effectively locking carbon in solid form for long periods.</li><li><b>Statement II is correct:</b> Soil organic carbon accumulation involves storing carbon in soils through plant biomass, roots, and microbial activity.</li><li><b>Statement III is correct:</b> Ocean alkalinity enhancement increases the ocean’s ability to absorb and store carbon dioxide by adding alkaline substances. This enhances the conversion of CO₂ into bicarbonates and carbonates.</li><li><b>Statement IV is not correct:</b> Stratospheric aerosol injection is a solar radiation management (SRM) technique. It involves injecting particles into the stratosphere to reflect sunlight and cool the Earth, but it does not remove or store CO₂ from the atmosphere.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Antarctica Ecology",
+    "question": "<b>Consider the following statements regarding Antarctica:</b><br><br>I. Antarctica is the coldest and driest continent on Earth, with extreme seasonal variations throughout the year.<br>II. The Antarctic Treaty permits commercial exploitation of mineral resources under international supervision.<br>III. Antarctic krill are phytoplankton that form the base of the Southern Ocean food web.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one</b><br><br><ul><li><b>Statement I is correct:</b> Antarctica is indeed the coldest and driest continent on Earth. It is often described as a polar desert, receiving very low precipitation. It experiences extreme seasonal variations.</li><li><b>Statement II is not correct:</b> The Antarctic Treaty System, along with the Protocol on Environmental Protection (Madrid Protocol, 1991), prohibits commercial exploitation of mineral resources. Mining activities are completely banned.</li><li><b>Statement III is not correct:</b> Antarctic krill are not phytoplankton. They are zooplankton (small crustaceans). They feed on phytoplankton and form a crucial link in the Southern Ocean food web.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Agriculture & Soil Conservation",
+    "question": "<b>With reference to soil conservation practices, which of the following practices involves covering the soil surface with organic or inorganic materials such as straw, leaves, or plastic in order to retain soil moisture, reduce erosion, and suppress weed growth?</b>",
+    "options": [
+      "Conservation Tillage",
+      "Terracing",
+      "Contour Ploughing",
+      "Mulching"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Mulching</b><br><br><ul><li><b>Mulching</b> is a soil conservation practice in which the soil surface is covered with organic materials like straw, dry leaves, grass clippings, or compost, or inorganic materials like plastic sheets.</li><li>This covering acts as a protective layer that reduces evaporation, thereby retaining soil moisture.</li><li>It also prevents soil erosion by protecting the soil from the direct impact of raindrops and wind, and it suppresses weed growth.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Indian Geography",
+    "question": "<b>With reference to the Tropic of Cancer in India, consider the following statements:</b><br><br>I. It passes through only eight Indian states.<br>II. It does not cross any Indian coastal state.<br>III. The total area of Indian states lying north of the Tropic of Cancer is larger than that of the states lying to its south.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and II only",
+      "II only",
+      "I and III only",
+      "III only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: I and III only</b><br><br><ul><li><b>Statement I is correct:</b> The Tropic of Cancer in India passes through a total of eight states, namely Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.</li><li><b>Statement II is not correct:</b> The Tropic of Cancer passes through the coastal states of India, particularly Gujarat and West Bengal.</li><li><b>Statement III is correct:</b> The Tropic of Cancer divides India into two latitudinal halves. The northern part of India occupies a significantly larger geographical area due to large states like Rajasthan and Uttar Pradesh.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Infrastructure",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The Dedicated Freight Corridor (DFC) is expected to significantly reduce logistics costs and improve freight efficiency in India.<br><b>Statement-II:</b> The Dedicated Freight Corridor enhances efficiency by allowing freight and passenger trains to always operate on the same tracks and by giving priority to passenger trains over freight.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I.",
+      "Statement-I is correct but Statement-II is incorrect.",
+      "Statement-I is incorrect but Statement-II is correct."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect.</b><br><br><ul><li><b>Statement-I is correct:</b> The Dedicated Freight Corridor (DFC) is a major infrastructure initiative aimed at creating exclusive railway tracks for freight trains. This leads to reduced transit time and reduction in logistics costs.</li><li><b>Statement-II is not correct:</b> The core objective of the Dedicated Freight Corridor is to ensure that freight trains operate on separate, dedicated tracks (not on the same tracks as passenger trains). This segregation eliminates delays caused by mixed usage.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Inland Waterways",
+    "question": "<b>Match the following:</b><br><br><b>National Waterway : Route</b><br>P. National Waterway No. 1 : I. Sadiya to Dhubri<br>Q. National Waterway No. 2 : II. Allahabad to Haldia<br>R. National Waterway No. 3 : III. Kollam to Kottapuram<br>S. National Waterway No. 4 : IV. Kakinada to Puducherry<br><br><b>Select the correct answer using the options given below:</b>",
+    "options": [
+      "P-II, Q-I, R-IV, S-III",
+      "P-I, Q-II, R-III, S-IV",
+      "P-II, Q-I, R-III, S-IV",
+      "P-III, Q-I, R-IV, S-II"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: P-II, Q-I, R-III, S-IV</b><br><br><ul><li><b>P-II:</b> National Waterway No. 1 (Ganga-Bhagirathi-Hugli system) connects Allahabad (Prayagraj) to Haldia.</li><li><b>Q-I:</b> National Waterway No. 2 (Brahmaputra River) stretches from Sadiya to Dhubri in Assam.</li><li><b>R-III:</b> National Waterway No. 3 (West Coast Canal) connects Kollam to Kottapuram in Kerala.</li><li><b>S-IV:</b> National Waterway No. 4 runs through parts of Andhra Pradesh, Tamil Nadu, and Puducherry, covering stretches of Godavari and Krishna rivers along with the Kakinada–Puducherry canal.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Tech",
+    "topic": "Artificial Intelligence & Robotics",
+    "question": "<b>The terms “Electric Atlas”, “Optimus Gen-3” and “Figure 03” are frequently seen in the news. They are best described as:</b>",
+    "options": [
+      "Advanced nanomaterials used in next-generation electronics",
+      "High-efficiency catalysts used in clean energy technologies",
+      "Artificial intelligence algorithms used in autonomous vehicles",
+      "Humanoid robots developed for industrial and domestic applications"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Humanoid robots developed for industrial and domestic applications</b><br><br><ul><li><b>Fact Check:</b> The terms “Electric Atlas” (Boston Dynamics), “Optimus Gen-3” (Tesla), and “Figure 03” (Figure AI) refer to advanced humanoid robots. These represent the next generation of AI-integrated humanoid robots intended to perform human-like tasks in various environments.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Intellectual Property Rights",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement I:</b> India’s patent laws are aligned with the provisions of the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS) under the World Trade Organization.<br><b>Statement II:</b> India’s patent system allows only process patents and does not permit product patents in pharmaceuticals to ensure access to affordable medicines.<br><b>Statement III:</b> The patent laws in India provide a protection period of 20 years and allow compulsory licensing under certain conditions.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement II and Statement III are correct and both explain Statement I",
+      "Both Statement II and Statement III are correct but only one explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only one of the Statements II and III is correct and that explains Statement I</b><br><br><ul><li><b>Statement I is correct:</b> India’s patent laws are aligned with the provisions of the TRIPS Agreement.</li><li><b>Statement II is not correct:</b> While prior to 2005 India allowed only process patents in pharmaceuticals, the Patents (Amendment) Act, 2005, introduced product patents in pharmaceuticals to comply with TRIPS.</li><li><b>Statement III is correct and explains Statement I:</b> India provides a protection period of 20 years (in line with TRIPS) and allows compulsory licensing under specific public health conditions, directly fulfilling its international obligations.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Tech",
+    "topic": "Space Technology",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Scramjet engines are more suitable than ramjet engines for hypersonic flight.<br><b>Statement-II:</b> In scramjet engines, combustion takes place in supersonic airflow, whereas in ramjet engines, airflow is slowed down to subsonic speeds before combustion.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I</b><br><br><ul><li><b>Statement I is correct:</b> Scramjet engines are more suitable for hypersonic flight (Mach 5 and above) because they can operate efficiently without excessive drag.</li><li><b>Statement II is correct and explains Statement I:</b> In scramjet engines, combustion occurs while the airflow remains supersonic. In ramjet engines, incoming air is decelerated to subsonic speeds, which at hypersonic speeds generates extreme heat and pressure losses, making it inefficient.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Tech",
+    "topic": "Defense Technology",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Air Defence System : Country</b><br>I. THAAD : Iran<br>II. Hongqi-19 : Japan<br>III. Iron Dome : Israel<br>IV. S-400 Triumf : Russia<br>V. Akash Missile System : India<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All five"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only three</b><br><br><ul><li><b>Pair I is not correctly matched:</b> THAAD is a U.S.-developed anti-ballistic missile defence system.</li><li><b>Pair II is not correctly matched:</b> Hongqi-19 (HQ-19) is a Chinese exo-atmospheric anti-ballistic missile system.</li><li><b>Pair III is correctly matched:</b> Iron Dome is an Israeli short-range air defence system.</li><li><b>Pair IV is correctly matched:</b> S-400 Triumf is developed by Russia.</li><li><b>Pair V is correctly matched:</b> Akash Missile System is indigenously developed by India.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Tech",
+    "topic": "Biotechnology",
+    "question": "<b>Consider the following statements:</b><br><br>I. The sequence of nucleotides in DNA can be artificially constructed without the presence of a living cell.<br>II. Entire genomes of an organism can be artificially assembled from smaller DNA fragments.<br>III. The ability to synthesize DNA implies that living organisms can be created without any pre-existing biological components.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><ul><li><b>Statement I is correct:</b> The sequence of nucleotides in DNA can be artificially constructed using modern techniques such as chemical DNA synthesis.</li><li><b>Statement II is correct:</b> Entire genomes of simple organisms have been artificially assembled from smaller DNA fragments (e.g., J. Craig Venter Institute's synthetic bacterial genome).</li><li><b>Statement III is not correct:</b> The ability to synthesize DNA does not imply life can be created without any pre-existing biological components. Synthetic DNA must be inserted into an existing cellular framework (host cell) to become functional.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliamentary Proceedings",
+    "question": "<b>Consider the following statements with reference to the Pro-tem Speaker:</b><br><br>I. The Pro-tem Speaker presides over the first sitting of the newly elected Lower House (Lok Sabha) after general elections.<br>II. The office of the Pro-tem Speaker ceases to exist after the election of the new Speaker.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both I and II</b><br><br><ul><li><b>Statement I is correct:</b> A Pro-tem Speaker is appointed to preside over the first sitting of the newly elected Lok Sabha to administer oaths to newly elected members and conduct the election of the new Speaker.</li><li><b>Statement II is correct:</b> The office is purely temporary. Once the new Speaker of the Lok Sabha is elected, the role of the Pro-tem Speaker automatically ceases to exist.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Constitutional Bodies",
+    "question": "<b>Consider the following statements with reference to the Comptroller and Auditor General (CAG) of India:</b><br><br>I. The salary of CAG is charged upon the Consolidated Fund of India.<br>II. There is no bar for CAG to join further offices either under the Government of India or the Government of any State after it has ceased to hold its office.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I only</b><br><br><ul><li><b>Statement I is correct:</b> As per Article 148, the administrative expenses of the CAG's office, including salaries and pensions, are charged upon the Consolidated Fund of India to ensure financial independence.</li><li><b>Statement II is not correct:</b> Article 148 explicitly restricts the CAG from being eligible for further office either under the Government of India or any State Government after ceasing to hold office, to prevent post-retirement inducements.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Ancient India",
+    "question": "<b>The term “Chinapatta”, mentioned in ancient Indian sources in the context of trade, refers to:</b>",
+    "options": [
+      "Chinese silk or cloth imported into India",
+      "A variety of Chinese porcelain",
+      "A type of Chinese coin used in maritime trade",
+      "A Buddhist monastic garment"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Chinese silk or cloth imported into India</b><br><br><ul><li><b>Core Concept:</b> The term Chinapatta literally means “Chinese cloth” (China + patta, meaning cloth or fabric). It refers to fine silk or textile imported from China into India through ancient trade networks.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Ancient India",
+    "question": "<b>With reference to the travels of Fa-Hien, consider the following statements:</b><br><br>I. He visited India during the reign of Chandragupta II.<br>II. He entered India through the sea route and returned via Central Asia.<br>III. His work Fu-Kyo-Ki provides valuable information about Buddhist institutions in India.<br>IV. He showed keen interest in describing the political administration of the Gupta Empire.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "I, II and III only",
+      "II and IV only",
+      "I, III and IV only",
+      "I and III only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: I and III only</b><br><br><ul><li><b>Statement I is correct:</b> Fa-Hien visited India between 399–412 CE, during the reign of Chandragupta II (Vikramaditya).</li><li><b>Statement II is not correct:</b> He arrived via the land route through Central Asia and returned to China by the sea route passing through Sri Lanka and Java.</li><li><b>Statement III is correct:</b> His travel account, Fu-Kyo-Ki, provides important details about major Buddhist pilgrimage centres, monasteries, and practices.</li><li><b>Statement IV is not correct:</b> Fa-Hien was primarily a religious pilgrim. His writings focus mainly on Buddhist institutions, not on systematic analysis of Gupta political administration.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Medieval India",
+    "question": "<b>Consider the following statements with reference to various Silsilahs (orders) in the Sufi Movement:</b><br><br>I. The Chishti Silsilah was founded by Qutubuddin Bakhtiyar Kaki.<br>II. The prominent characteristic of the Suhrawardi tradition was complete detachment from political authority.<br>III. The Naqshbandi Silsilah emphasized the strict adherence to Islamic law and did not indulge in practices like Sama (Religious music).<br>IV. The Qadiri Silsilah supported the concept of Wahdat-al-Wajud (Unity of Existence).<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><ul><li><b>Statement I is not correct:</b> The Chishti silsilah was founded by Khwaja Muinuddin Chishti in India. Qutubuddin Bakhtiyar Kaki was a disciple who established its presence in Delhi.</li><li><b>Statement II is not correct:</b> The Suhrawardi Silsilah maintained close contact with the state and accepted royal grants, unlike the Chishtis who maintained detachment from political authority.</li><li><b>Statement III is correct:</b> The Naqshbandi Silsilah emphasized strict adherence to Islamic law (Sharia) and did not indulge in Sama.</li><li><b>Statement IV is correct:</b> The Qadiri Silsilah supported the concept of 'Wahdat-al-Wajud' (unity of existence) and was known for its association with Mughal rulers.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Art & Culture",
+    "question": "<b>Consider the following statements with reference to Kathak dance:</b><br><br>I. This art form combines elements of music, drama, and storytelling.<br>II. It is the only form of classical dance associated with Hindustani music.<br>III. Performances of this dance were prohibited in the Mughal courts.<br>IV. It experienced its golden age under the patronage of Wajid Ali Shah.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only three</b><br><br><ul><li><b>Statement I is correct:</b> Kathak includes elements of music, drama and narratives to convey emotions.</li><li><b>Statement II is correct:</b> It is the only form of classical dance associated with Hindustani music, whereas others like Bharatanatyam are related to Carnatic music.</li><li><b>Statement III is not correct:</b> Kathak flourished in the Mughal courts and received significant patronage from Mughal rulers like Akbar and Jahangir.</li><li><b>Statement IV is correct:</b> Wajid Ali Shah, the last Nawab of Awadh, nurtured the Lucknow gharana of Kathak, leading to its golden age.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Medieval Indian History",
+    "question": "<b>Consider the following statements with reference to the Zabti and Dahsala systems of land revenue administration during the Mughal period:</b><br><br>I. In the Dahsala system, the data of over a period of ten years was considered for revenue assessment.<br>II. The Zabti system involved measurement of cultivated land.<br>III. The Dahsala system represented a more refined and developed form of the earlier Zabti system.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><ul><li><b>Statement I is correct:</b> The Dahsala system used a ten-year average (Dahsala = ten years) of crop yields and prices to fix land revenue demands.</li><li><b>Statement II is correct:</b> The Zabti system, organized largely by Raja Todar Mal, involved precise measurement of cultivated land using bamboo rods (jarib).</li><li><b>Statement III is correct:</b> Dahsala was an improvement over Zabti, introducing a systematic statistical approach based on ten-year averages to make revenue demand more rational and stable.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Freedom Struggle",
+    "question": "<b>Consider the following statements regarding the Quit India Movement (1942):</b><br><br>I. It was launched in response to the failure of the Cripps Mission.<br>II. It witnessed the establishment of parallel governments in some regions of India.<br>III. It was characterised by a centrally coordinated leadership throughout its course.<br>IV. Some political parties, including the Communist Party of India, did not support the movement.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "I, II and IV only",
+      "I and III only",
+      "II and III only",
+      "I, II, III and IV"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I, II and IV only</b><br><br><ul><li><b>Statement I is correct:</b> The immediate trigger for the Quit India Movement was the failure of the Cripps Mission (1942).</li><li><b>Statement II is correct:</b> The movement witnessed the emergence of parallel governments (Prati Sarkars) in places like Satara, Ballia, and Tamluk.</li><li><b>Statement III is not correct:</b> The movement lacked central coordination because top Congress leaders were arrested on 9 August 1942, making it largely leaderless and spontaneous.</li><li><b>Statement IV is correct:</b> Certain political groups like the Communist Party of India, Muslim League, and Hindu Mahasabha did not support the movement.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Modern Indian History",
+    "question": "<b>Who among the following established the Ramakrishna Mission with the objective of promoting practical Vedanta and social service?</b>",
+    "options": [
+      "Ramakrishna Paramahamsa",
+      "Swami Vivekananda",
+      "Keshab Chandra Sen",
+      "Debendranath Tagore"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Swami Vivekananda</b><br><br><ul><li><b>Fact Check:</b> The Ramakrishna Mission was founded by Swami Vivekananda in 1897, in memory of his spiritual teacher Ramakrishna Paramahamsa. Its purpose was to translate Vedantic philosophy into action through social service, education, and spiritual upliftment.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Modern Indian History",
+    "question": "<b>Consider the following statements regarding the Queen’s Proclamation of 1858:</b><br><br>I. It declared that India would henceforth be governed by the British Parliament, not the East India Company.<br>II. It assured equal legal protection and promised respect for Indian religions and customs.<br>III. It promised the gradual introduction of representative institutions in India.<br>IV. It guaranteed the abolition of discriminatory taxation policies.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><ul><li><b>Statement I is correct:</b> The Proclamation ended Company rule and brought India under the direct sovereignty of the British Crown.</li><li><b>Statement II is correct:</b> It promised equal legal treatment, protection of religion, and non-interference in social customs.</li><li><b>Statement III is not correct:</b> There was no commitment to representative government; British rule remained autocratic for decades.</li><li><b>Statement IV is not correct:</b> The proclamation made no reference to taxation, which remained regressive and extractive.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Macroeconomics",
+    "question": "<b>Which of the following sets of actions is most appropriate during an economic slowdown?</b>",
+    "options": [
+      "Increase direct taxes and reduce indirect taxes",
+      "Reduce tax rates and increase government expenditure",
+      "Increase interest rates and increase government expenditure",
+      "Increase import duties and reduce export duties"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Reduce tax rates and increase government expenditure</b><br><br><ul><li><b>Core Concept:</b> During an economic slowdown, aggregate demand in the economy falls. To counter this, the government adopts an expansionary fiscal policy, which aims to stimulate demand by reducing tax rates (increasing disposable income) and increasing government expenditure (boosting economic activity and job creation).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Monetary Concepts",
+    "question": "<b>Consider the following statements regarding different forms of money:</b><br><br>I. All legal tender money is fiat money, and all fiat money is legal tender.<br>II. Cheques and demand drafts are fiduciary money and are considered legal tender.<br>III. Bank deposits constitute legal tender as they are widely accepted for settling transactions.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: None</b><br><br><ul><li><b>Statement I is not correct:</b> While all legal tender is fiat money, all fiat money is not legal tender (e.g., demonetized notes remain fiat money but lose legal tender status).</li><li><b>Statement II is not correct:</b> Cheques and demand drafts are fiduciary money (based on trust) but they are <b>not legal tender</b>. No one is legally bound to accept a cheque as payment.</li><li><b>Statement III is not correct:</b> Bank deposits are part of broad money but are <b>not legal tender</b>, as no one is legally obligated to accept them directly in settlement of debt.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Microeconomics",
+    "question": "<b>Consider the following situations:</b><br><br>I. Price of a substitute good increases<br>II. Consumer income increases for a normal good<br>III. Price of a complementary good increases<br><br><b>Which of the above will increase demand for a product?</b>",
+    "options": [
+      "I and II only",
+      "II only",
+      "I only",
+      "I, II and III"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I and II only</b><br><br><ul><li><b>Statement I is correct:</b> If the price of a substitute good increases, consumers shift towards the given product, increasing its demand.</li><li><b>Statement II is correct:</b> If consumer income increases and the product is a normal good, people will demand more of it due to higher purchasing power.</li><li><b>Statement III is not correct:</b> If the price of a complementary good increases, it becomes costly to use both goods together. As a result, the demand for the product also decreases, not increases.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Macroeconomics",
+    "question": "<b>An increase in the Gross Domestic Product (GDP) of a country may not necessarily lead to a significant improvement in economic development due to:</b>",
+    "options": [
+      "Increase in industrial output",
+      "Decrease in exports",
+      "Low female labour force participation",
+      "High capital formation"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Low female labour force participation</b><br><br><ul><li><b>Core Concept:</b> Economic growth (GDP increase) does not automatically translate to economic development (improvement in living standards, equality, etc.). Low female labour force participation means a large portion of the population is excluded from the benefits of economic activity. Thus, even if GDP rises, it does not translate into real inclusive development.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Financial Markets",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement I:</b> Convertible bonds are issued by companies as they help reduce the immediate interest burden on the issuer.<br><b>Statement II:</b> Convertible bonds generally carry lower coupon rates compared to non-convertible bonds.<br><b>Statement III:</b> Convertible bonds give investors an option to convert debt into equity shares of the issuing company.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement II and Statement III are correct and both explain Statement I",
+      "Both Statement II and Statement III are correct but only one explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement II and Statement III are correct and both explain Statement I</b><br><br><ul><li><b>Statement I is correct:</b> Companies issue convertible bonds because they help reduce immediate interest burden.</li><li><b>Statement II is correct and explains Statement I:</b> Convertible bonds carry lower coupon rates. Investors accept lower fixed returns in exchange for the possibility of future equity conversion. This directly reduces the issuer's interest burden.</li><li><b>Statement III is correct and explains Statement I:</b> The option to convert debt into equity shares is the core feature that makes the bond attractive despite a lower interest rate, thus enabling the issuer to reduce their immediate interest burden.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Taxation",
+    "question": "<b>Consider the following goods under GST 2.0 (2025 reforms):</b><br><br>I. Ultra High Temperature (UHT) milk<br>II. Pre-packaged and labelled paneer (chena)<br>III. All types of Indian breads<br>IV. Toothpaste<br>V. Vegetable oils<br><br><b>Which of the above goods are placed under the zero (NIL) GST rate?</b>",
+    "options": [
+      "I and II only",
+      "III and V only",
+      "I, II, IV and V only",
+      "I, II and III only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: I, II and III only</b><br><br><ul><li><b>Fact Check:</b> Under the GST 2.0 reforms (2025) emphasizing “Affordable Living”, taxes on essential food items were eliminated. Goods like UHT milk, pre-packaged/labelled paneer, and all types of Indian breads were placed under the NIL (zero) GST rate. Toothpaste and vegetable oils were not completely exempted.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "External Sector",
+    "question": "<b>Which of the following situations can lead to a Current Account Surplus despite a Trade Deficit?</b>",
+    "options": [
+      "Large capital inflows",
+      "High remittances and service exports",
+      "Increase in external borrowings",
+      "Reduction in forex reserves"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: High remittances and service exports</b><br><br><ul><li><b>Core Concept:</b> The Current Account includes trade in goods (Trade Deficit/Surplus), trade in services, and transfers (like remittances). If a country has a massive trade deficit (imports > exports of goods), it can still achieve a Current Account Surplus if its net service exports and incoming remittances are large enough to mathematically offset the goods deficit.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Treaties",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement I:</b> In 2024, the United Nations General Assembly adopted a resolution to begin negotiations on a treaty for the prevention and punishment of Crimes Against Humanity.<br><b>Statement II:</b> In the absence of a dedicated international treaty on Crimes Against Humanity, states face limitations in taking coordinated legal action during large-scale international crises involving such crimes.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement–I and Statement–II are correct and Statement–II is the correct explanation for Statement–I",
+      "Both Statement–I and Statement–II are correct and Statement–II is not the correct explanation for Statement–I",
+      "Statement–I is correct but Statement–II is incorrect",
+      "Statement–I is incorrect but Statement–II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement–I and Statement–II are correct and Statement–II is the correct explanation for Statement–I</b><br><br><ul><li><b>Statement I is correct:</b> In December 2024, the UNGA adopted a resolution to initiate negotiations for a dedicated Crimes Against Humanity (CAH) treaty.</li><li><b>Statement II is correct and explains Statement I:</b> Currently, there is no standalone treaty governing CAH (unlike Genocide and War Crimes). This creates gaps in extradition, mutual legal assistance, and domestic criminalization. The need to overcome these limitations directly explains why the UNGA adopted the resolution to begin negotiations for a new treaty.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "World Geography",
+    "question": "<b>Consider the following countries:</b><br><br>I. Chad<br>II. Niger<br>III. Mali<br>IV. Sudan<br><br><b>How many of the above countries are landlocked?</b>",
+    "options": [
+      "Only two",
+      "Only three",
+      "All four",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only three</b><br><br><ul><li><b>Fact Check:</b> Among the given countries, Chad, Niger, and Mali are landlocked African nations. Sudan has a coastline along the Red Sea.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Reports and Indices",
+    "question": "<b>The ‘Global Risks Report’, recently seen in news, is published annually by which one of the following organizations?</b>",
+    "options": [
+      "International Monetary Fund",
+      "United Nations Development Programme",
+      "World Bank",
+      "World Economic Forum"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: World Economic Forum</b><br><br><ul><li><b>Fact Check:</b> The World Economic Forum (WEF) publishes the Global Risks Report annually, typically ahead of its Davos Annual Meeting in Switzerland.</li><li><b>Examiner's Trap:</b> Confusing it with the World Bank's or IMF's economic outlook reports. The Global Risks Report assesses broad risks across economic, environmental, geopolitical, societal, and technological domains.</li><li><b>PYQ Reverse-Engineering:</b> Identifying publishers of major global reports is a highly recurring theme in UPSC Prelims.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Middle East Map",
+    "question": "<b>Consider the following countries:</b><br><br>I. Oman<br>II. UAE<br>III. Iran<br>IV. Saudi Arabia<br>V. Yemen<br><br><b>How many of the above have a coastline on both the Persian Gulf and the Gulf of Oman?</b>",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All five"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only three</b><br><br><ul><li><b>Fact Check:</b> Oman (via the Musandam peninsula), UAE, and Iran share coastlines with both the Persian Gulf and the Gulf of Oman, guarding the strategic Strait of Hormuz.</li><li><b>Exceptions/Traps:</b> Saudi Arabia borders the Persian Gulf and the Red Sea, but not the Gulf of Oman. Yemen borders the Red Sea and the Gulf of Aden.</li><li><b>PYQ Reverse-Engineering:</b> Geography mapping questions heavily target the Middle East and strategic maritime chokepoints.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "Global Groupings",
+    "question": "<b>The Silver Notice system, recently launched by INTERPOL as a pilot project, primarily aims to:</b>",
+    "options": [
+      "Issue arrest warrants internationally",
+      "Share intelligence on terrorist networks",
+      "Locate and recover proceeds of crime",
+      "Facilitate extradition of criminals"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Locate and recover proceeds of crime</b><br><br><ul><li><b>Fact Check:</b> The Silver Notice is a newly introduced mechanism aimed at tracing, identifying, and recovering assets obtained through criminal activities such as fraud, corruption, drug trafficking, and environmental crimes.</li><li><b>Examiner's Trap:</b> Red Notices are for seeking the location/arrest of wanted persons (extradition). Silver Notices specifically target financial assets.</li><li><b>PYQ Reverse-Engineering:</b> Specific initiatives by international policing and financial task forces (e.g., FATF, INTERPOL).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecosystem Dynamics",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement I:</b> An ecosystem with a more complex food web is generally more resilient to disturbances.<br><b>Statement II:</b> Availability of multiple alternative energy pathways allows organisms to switch feeding relationships when one pathway is disrupted.<br><b>Statement III:</b> Complex food webs reduce competition among species by eliminating overlap in resource use.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement II and Statement III are correct and both explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only one of the Statements II and III is correct and that explains Statement I</b><br><br><ul><li><b>Fact Check:</b> Statement II is correct and structurally explains Statement I; alternative pathways buffer against the loss of a single prey species.</li><li><b>Examiner's Trap:</b> Statement III uses the extreme word \"eliminating\". Complex food webs may redistribute interactions, but they do not eliminate resource overlap or competition.</li><li><b>PYQ Reverse-Engineering:</b> Standard assertion-reasoning format evaluating core ecological stability concepts.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Protected Areas",
+    "question": "<b>Consider the following statements regarding the Cold Desert Biosphere Reserve:</b><br><br>I. It lies in the rain-shadow region of the Trans-Himalayas.<br>II. The Spiti River, a direct tributary of the Indus River, passes through the reserve.<br>III. Chandertal Wetland within the reserve is a Ramsar site.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I only",
+      "I and III only",
+      "II and III only",
+      "I, II and III"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: I and III only</b><br><br><ul><li><b>Statement I is correct:</b> Located in the Trans-Himalayan region of Himachal Pradesh, it falls in the rain-shadow zone.</li><li><b>Statement II is incorrect (Trap):</b> The Spiti River is a tributary of the <b>Sutlej River</b>, not a direct tributary of the Indus.</li><li><b>Statement III is correct:</b> Chandertal (Chandra Taal) is a designated Ramsar site within this reserve.</li><li><b>PYQ Reverse-Engineering:</b> Mapping rivers flowing through specific National Parks and Biosphere Reserves.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ozone Depletion",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Ozone Depleting Substance : Used in making</b><br>I. Chlorofluorocarbons (CFCs) : Refrigerants and aerosol propellants<br>II. Halons : Fire extinguishers<br>III. Methyl bromide : Fertilizers<br>IV. Methyl chloroform : Cleaning solvent<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only three</b><br><br><ul><li><b>Pairs I, II, and IV are correctly matched.</b> Halons are potent bromine-containing fire suppressants.</li><li><b>Pair III is incorrect (Trap):</b> Methyl bromide is widely used as an agricultural <b>fumigant/pesticide</b>, not as a fertilizer.</li><li><b>PYQ Reverse-Engineering:</b> Identifies specific industrial applications of targeted chemical pollutants.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Climate Change",
+    "question": "<b>Consider the following statements regarding climate tipping points:</b><br><br>I. Tipping points refer to gradual and reversible changes in climate systems.<br>II. Melting of the Greenland ice sheet is considered a climate tipping element.<br>III. Crossing tipping points can trigger self-reinforcing feedback loops.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and III only",
+      "II only",
+      "II and III only",
+      "I, II and III"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: II and III only</b><br><br><ul><li><b>Statement I is incorrect:</b> Tipping points are, by definition, <b>abrupt, non-linear, and often irreversible</b> transitions, not gradual ones.</li><li><b>Statements II and III are correct:</b> The Greenland ice sheet collapse is a classic tipping point that accelerates further warming (albedo effect feedback loop).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Flora and Vegetation",
+    "question": "<b>Consider the following description:</b><br><br>It is a coniferous tree native to the Himalayan region with needle-like leaves and cone-bearing structures. It has shallow roots and is often associated with soil erosion in hilly areas. Its resin-rich needles are highly flammable, while its bark has a high ignition temperature. It is also an important source of timber in India, Nepal and Pakistan.<br><br><b>The above description most appropriately refers to:</b>",
+    "options": [
+      "Deodar",
+      "Chir Pine",
+      "Blue Pine",
+      "Silver Fir"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Chir Pine</b><br><br><ul><li><b>Core Concept:</b> Chir Pine (Pinus roxburghii) is known for its shallow roots (causing erosion), highly flammable resinous needles, and fire-resistant bark.</li><li><b>Examiner's Trap:</b> Deodar is deeper-rooted, more stable, and less fire-prone due to lower resin content.</li><li><b>PYQ Reverse-Engineering:</b> Paragraph-based species/forest type identification (similar to questions on teak or mangrove profiles).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Energy and Emissions",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement I:</b> Transition from Liquefied Petroleum Gas (LPG) to Piped Natural Gas (PNG) in urban households can contribute to a reduction in local air pollution.<br><b>Statement II:</b> Combustion of natural gas produces lower carbon dioxide and negligible sulphur dioxide emissions compared to LPG.<br><b>Statement III:</b> Leakage of natural gas during extraction and transportation can contribute significantly to global warming due to the high greenhouse potential of methane.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Both Statement II and Statement III are correct but only one of them explains Statement I</b><br><br><ul><li><b>Fact Check:</b> PNG burns cleaner than LPG, producing less CO₂ and SO₂ (Statement II explains local pollution reduction in Statement I). Methane leakage (Statement III) is a severe global warming threat, but it relates to the <i>global</i> climate impact, not the <i>local</i> air pollution mentioned in Statement I.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Marine Ecosystems",
+    "question": "<b>Consider the following statements:</b><br><br>I. All corals depend on zooxanthellae for their nutrition.<br>II. Only hard corals contribute to reef formation.<br>III. Coral bleaching occurs when corals expel symbiotic algae due to stress.<br>IV. Cold-water corals are not directly dependent on sunlight for their survival.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "II, III and IV only",
+      "I and II only",
+      "I, III and IV only",
+      "II and III only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: II, III and IV only</b><br><br><ul><li><b>Statement I is incorrect (Trap):</b> The extreme word \"All\" makes this false. Deep-sea or cold-water corals do not rely on photosynthetic zooxanthellae; they capture plankton.</li><li><b>Statements II, III, and IV are correct:</b> Hard corals secrete calcium carbonate for reefs. Cold-water corals survive without sunlight.</li><li><b>PYQ Reverse-Engineering:</b> Ecological characteristics of corals and reef formation mechanics.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Earth's Interior",
+    "question": "<b>Consider the following statements with reference to Earth’s internal structure:</b><br><br>I. The thickness of the Earth’s crust is uniform beneath both continental and oceanic regions.<br>II. The mantle serves as the primary source of magma that reaches the Earth’s surface during volcanic activity.<br>III. The entire core of the Earth exists in a solid state due to extremely high pressure from the overlying layers.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I only",
+      "II only",
+      "II and III only",
+      "I, II and III"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: II only</b><br><br><ul><li><b>Statement I is incorrect:</b> Oceanic crust is much thinner (~5 km) than continental crust (~30-70 km).</li><li><b>Statement II is correct:</b> The mantle is the primary source of magma.</li><li><b>Statement III is incorrect:</b> The <b>outer core</b> is liquid (molten iron and nickel), while only the inner core is solid.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Physical Geography of India",
+    "question": "<b>Consider the following statements with reference to the physiographic features of Peninsular India:</b><br><br>I. The Western Ghats extend across six states, whereas the Eastern Ghats spread over five states.<br>II. The Western Ghats form a relatively continuous mountain chain with passes facilitating crossing, while the Eastern Ghats are fragmented and cut across by rivers.<br>III. The Western Ghats and Eastern Ghats meet at the Nilgiri Hills.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: I, II and III</b><br><br><ul><li><b>Statement I is correct:</b> Western Ghats span Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu. Eastern Ghats span Odisha, Andhra Pradesh, Telangana, Karnataka, Tamil Nadu.</li><li><b>Statement II is correct:</b> Western Ghats are continuous (crossed via Palghat, Bhor Ghat), while Eastern Ghats are highly dissected by major peninsular rivers.</li><li><b>Statement III is correct:</b> The Nilgiris act as the junction.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Himalayan Passes",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Himalayan Pass : Connecting Regions</b><br>I. Khimloga Pass : Leh and Pangong Lake<br>II. Rohtang Pass : Kullu and Lahaul valleys<br>III. Sela Pass : Srinagar and Kargil<br>IV. Umling La Pass : Uttarakhand and Nepal<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one</b><br><br><ul><li><b>Pair II is correctly matched:</b> Rohtang connects Kullu and Lahaul-Spiti.</li><li><b>Pair I is incorrect:</b> Khimloga connects Uttarakhand to Himachal Pradesh.</li><li><b>Pair III is incorrect:</b> Sela Pass is in Arunachal Pradesh (Tawang).</li><li><b>Pair IV is incorrect:</b> Umling La is in Ladakh (highest motorable pass).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Indian River Systems",
+    "question": "<b>Consider the following rivers that originate in the northern part of the Indian Peninsula and eventually join the Yamuna River. Which of the following sequences correctly represents their order from West to East?</b>",
+    "options": [
+      "Ken – Betwa – Sindh – Chambal",
+      "Betwa – Ken – Sindh – Chambal",
+      "Sindh – Ken – Betwa – Chambal",
+      "Chambal – Sindh – Betwa – Ken"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Chambal – Sindh – Betwa – Ken</b><br><br><ul><li><b>Fact Check:</b> Looking at the Yamuna's right-bank tributaries flowing from the Malwa plateau/Vindhyas, Chambal is the westernmost, followed sequentially to the east by Sindh, Betwa, and Ken.</li><li><b>PYQ Reverse-Engineering:</b> East-to-West or North-to-South arrangement of tributary rivers is a consistent UPSC pattern.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatology",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Since Independence, most drought years in India characterized by significant monsoon failure or a decline in food grain production have been associated with El Nino events of varying intensity.<br><b>Statement-II:</b> El Nino conditions weaken or reverse trade winds, leading to a shift of warm waters toward the eastern Pacific, thereby suppressing monsoon rainfall over India.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I</b><br><br><ul><li><b>Fact Check:</b> El Nino actively shifts warm water to the South American coast, weakening the Walker circulation and suppressing the Indian monsoon, directly causing historical drought years.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "Cropping Seasons",
+    "question": "<b>Consider the following crops:</b><br><br>I. Black gram<br>II. Mustard<br>III. Rice<br>IV. Groundnut<br>V. Maize<br>VI. Wheat<br><br><b>Which of the crops listed above are grown in both Kharif and Rabi seasons in India?</b>",
+    "options": [
+      "I, III, IV and V only",
+      "III and VI only",
+      "I, II, III and V only",
+      "II, IV, V and VI only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I, III, IV and V only</b><br><br><ul><li><b>Dual-Season Crops (I, III, IV, V):</b> Black gram, Rice, Groundnut, and Maize can be grown in both seasons depending on irrigation and regional climate (especially in the South).</li><li><b>Strictly Single-Season (II, VI):</b> Wheat and Mustard are strictly cool-climate Rabi winter crops.</li><li><b>Examiner's Trap:</b> Assuming Rice is exclusively Kharif.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Tech",
+    "topic": "Health & Biology",
+    "question": "<b>Consider the following statements regarding insulin resistance:</b><br><br>I. Insulin resistance refers to the reduced ability of cells to respond to insulin.<br>II. It is closely associated with abdominal fat accumulation.<br>III. It leads to decreased blood glucose levels in the body.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I only",
+      "I, II and III"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I and II only</b><br><br><ul><li><b>Statements I and II are correct:</b> Insulin resistance means cells fail to absorb glucose despite insulin presence, and visceral fat is a major driver.</li><li><b>Statement III is incorrect (Trap):</b> Because cells cannot absorb the glucose, blood sugar levels <b>increase</b> (hyperglycemia), not decrease.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Tech",
+    "topic": "Biology",
+    "question": "<b>An organism has two different types of cells — muscle cells and nerve cells — both containing identical DNA yet performing different functions. This is because:</b><br><br>I. DNA sequence changes upon maturation of a cell<br>II. Different genes are expressed in different cell types<br>III. Gene regulation occurs at multiple stages, including after transcription<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I only",
+      "I, II and III"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: II and III only</b><br><br><ul><li><b>Statement I is incorrect:</b> The DNA sequence does not fundamentally change or mutate just because a cell matures into a different tissue.</li><li><b>Statements II and III are correct:</b> Cell specialization occurs strictly through <b>differential gene expression</b> and multi-stage gene regulation (epigenetics, RNA splicing).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Tech",
+    "topic": "Communications",
+    "question": "<b>Which of the following can be achieved using Free Space Optical (FSO) communication?</b><br><br>I. Providing internet connectivity<br>II. Sharing messages over a distance<br>III. Deep Space communication<br>IV. Mapping terrain and creating 3D models<br><br><b>Select the correct answer using the codes given below:</b>",
+    "options": [
+      "I and II only",
+      "I, II and III only",
+      "II and IV only",
+      "I, II, III and IV"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: I, II and III only</b><br><br><ul><li><b>Fact Check:</b> FSO transmits voice, video, and data via light beams (lasers) through the air/vacuum. It is used for internet, data transfer, and famously tested by NASA for Deep Space Optical Communications (DSOC).</li><li><b>Examiner's Trap:</b> Statement IV describes LiDAR (Light Detection and Ranging). While both use light/lasers, FSO is for data communication, whereas LiDAR is for physical mapping.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Tech",
+    "topic": "Health & Diseases",
+    "question": "<b>Which of the following measures can help prevent rabies infection after exposure?</b><br><br>I. Immediate washing of the wound with soap and water<br>II. Vaccination after exposure but before symptoms appear<br>III. Administration of antibiotics<br><br><b>Select the correct answer using the codes given below:</b>",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I only",
+      "I, II and III"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I and II only</b><br><br><ul><li><b>Statement I is correct:</b> Mechanical washing physically reduces the viral load.</li><li><b>Statement II is correct:</b> Post-Exposure Prophylaxis (PEP) vaccination is highly effective due to the virus's long incubation period.</li><li><b>Statement III is incorrect:</b> Rabies is a <b>viral</b> infection. Antibiotics target bacteria and have absolutely zero effect on preventing the rabies virus.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Tech",
+    "topic": "Artificial Intelligence",
+    "question": "<b>In the context of artificial intelligence, the term “model distillation” refers to:</b>",
+    "options": [
+      "Reducing the size of datasets used to train AI models",
+      "Converting analog data into digital format for AI processing",
+      "Training a smaller model using the outputs of a larger pre-trained model",
+      "Improving accuracy of models by increasing computational power"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Training a smaller model using the outputs of a larger pre-trained model</b><br><br><ul><li><b>Fact Check:</b> Knowledge Distillation transfers the capabilities of a massive, compute-heavy \"teacher\" model into a smaller, efficient \"student\" model suitable for mobile or edge devices.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Tech",
+    "topic": "Nuclear Energy",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement I:</b> Nuclear fusion requires extremely high temperature conditions.<br><b>Statement II:</b> At high temperatures, nuclei gain sufficient kinetic energy to overcome electrostatic repulsion between them.<br><b>Statement III:</b> Fusion reactions can easily be sustained on Earth once ignition is achieved.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only one of the Statements II and III is correct and that explains Statement I</b><br><br><ul><li><b>Fact Check:</b> Statement II is correct and scientifically explains Statement I (overcoming the Coulomb barrier requires massive thermal kinetic energy).</li><li><b>Statement III is incorrect:</b> Achieving a stable, continuous, self-sustaining fusion reaction (like in Tokamaks) remains one of the hardest engineering challenges on Earth; it is not "easily sustained".</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Tech",
+    "topic": "Space Physics",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement I:</b> Gravitational lensing occurs because massive objects bend the path of light.<br><b>Statement II:</b> Massive objects curve space-time, and light follows this curved geometry.<br><b>Statement III:</b> Gravitational lensing requires the presence of a physical medium, such as glass, for light to bend.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only one of the Statements II and III is correct and that explains Statement I</b><br><br><ul><li><b>Fact Check:</b> Statement II is correct and explains I via Einstein's General Relativity.</li><li><b>Statement III is incorrect:</b> Light bending via gravity happens in a true vacuum entirely due to space-time geometry distortion, requiring zero physical refractive medium like glass.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Duties",
+    "question": "<b>Which of the following provisions in the Constitution of India includes the phrase “to develop scientific temper, humanism, and the spirit of inquiry and reform”?</b>",
+    "options": [
+      "Fundamental Right",
+      "Directive Principles of State Policy",
+      "Fundamental Duty",
+      "A feature introduced in the Preamble through the 42nd Amendment Act"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Fundamental Duty</b><br><br><ul><li><b>Fact Check:</b> This is explicitly outlined under Article 51A(h) of the Constitution.</li><li><b>Examiner's Trap:</b> Aspirants frequently misattribute philosophical declarations of \"reform\" or \"humanism\" to the DPSP or the Preamble.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Statutory Bodies (ED)",
+    "question": "<b>Consider the following statements with reference to the powers and functioning of the Enforcement Directorate (ED):</b><br><br>I. The agency needs approval from the respective State Government to conduct investigations within a state’s jurisdiction.<br>II. It must obtain prior sanction from the appropriate government before prosecuting public servants if the alleged offence is linked to their official duties.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: II only</b><br><br><ul><li><b>Statement I is incorrect:</b> Unlike the CBI, the ED operates under the Prevention of Money Laundering Act (PMLA) which grants it pan-India jurisdiction <b>without</b> requiring state consent.</li><li><b>Statement II is correct:</b> Procedural safeguards under CrPC Section 197 require prior sanction to prosecute public officials acting in their official capacity, a protection upheld by the Supreme Court even in ED cases.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament",
+    "question": "<b>If the offices of both the Speaker and the Deputy Speaker of the Lok Sabha fall vacant simultaneously, who performs the duties of the Speaker?</b>",
+    "options": [
+      "The senior-most member of Lok Sabha by age.",
+      "Any member from the Panel of Chairpersons nominated by the outgoing Speaker.",
+      "A member of Lok Sabha appointed by the President of India.",
+      "The Attorney General of India as an interim constitutional arrangement."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: A member of Lok Sabha appointed by the President of India.</b><br><br><ul><li><b>Fact Check:</b> The Panel of Chairpersons can only step in if the Speaker or Deputy Speaker are <i>absent</i> from a sitting. If both offices are <i>vacant</i>, the President must appoint a member to perform the duties.</li><li><b>PYQ Reverse-Engineering:</b> Difference between 'absence' and 'vacancy' of parliamentary presiding officers.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "E-Governance",
+    "question": "<b>Consider the following statements with reference to the National e-Vidhan Application (NeVA):</b><br><br>I. It is a flagship Digital India initiative under the Ministry of Electronics and Information Technology (MeitY), aimed at digitizing legislative bodies across India.<br>II. Nagaland was the first legislative assembly in India to implement this application.<br>III. It is deployed on the NIC Cloud platform known as MeghRaj and operates through a workflow-based system.<br>IV. It has successfully transformed every State and UT legislature in India into fully digital institutions.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><ul><li><b>Statements II and III are correct:</b> Nagaland was the first to adopt it, and it utilizes the MeghRaj cloud.</li><li><b>Statement I is incorrect (Nodal Ministry Trap):</b> NeVA is spearheaded by the <b>Ministry of Parliamentary Affairs</b>, not MeitY.</li><li><b>Statement IV is incorrect (Extreme Phrasing):</b> \"Successfully transformed <i>every</i> State\" is factually premature; implementation is ongoing.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Elections",
+    "question": "<b>Consider the following statements with reference to disqualification provisions under the Representation of the People Act, 1951:</b><br><br>I. A person convicted of any offence and sentenced to imprisonment for not less than two years shall be disqualified, with disqualification continuing for six years after release from prison.<br>II. Failure to lodge an account of election expenses within the prescribed time can lead to disqualification from contesting elections.<br>III. Non-disclosure of information in nomination papers does not attract disqualification if the omission is not intentional.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><ul><li><b>Statements I and II are correct:</b> Sentences ≥ 2 years attract a 6-year post-release ban. Expense defaults also cause disqualification.</li><li><b>Statement III is incorrect:</b> The Supreme Court (Resurgence India vs ECI) ruled that voters have a fundamental right to know candidate backgrounds. Omission, whether intentional or accidental, invalidates the nomination.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Ancient History",
+    "question": "<b>Match the following Harappan sites with the rivers on whose banks they are located:</b><br><br><b>Site</b><br>P. Rakhigarhi<br>Q. Mohenjo-Daro<br>R. Ropar<br>S. Dholavira<br><br><b>River</b><br>I. Indus<br>II. Luni<br>III. Ghaggar<br>IV. Sutlej<br><br><b>Select the correct answer using the options given below:</b>",
+    "options": [
+      "P-III, Q-I, R-IV, S-II",
+      "P-II, Q-I, R-III, S-IV",
+      "P-III, Q-IV, R-II, S-I",
+      "P-I, Q-II, R-IV, S-III"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: P-III, Q-I, R-IV, S-II</b><br><br><ul><li>Rakhigarhi -> Ghaggar basin (Haryana)</li><li>Mohenjo-Daro -> Indus (Sindh)</li><li>Ropar -> Sutlej (Punjab)</li><li>Dholavira -> Luni basin/Rann of Kutch (Gujarat)</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Art and Culture",
+    "question": "<b>Consider the following statements regarding the Ajanta Caves:</b><br><br>I. It has a lesser number of Vihraras than Chaityas.<br>II. It is the only surviving example of Buddhist mural painting in India, dating back to the first century BCE.<br>III. It was patronised by both Satvahanas and Vakatakas.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I only",
+      "II and III only",
+      "III only",
+      "I, II and III"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: II and III only</b><br><br><ul><li><b>Statement I is incorrect:</b> Monasteries/residential halls (Viharas) vastly outnumber prayer halls (Chaityas) at Ajanta (~25 vs 5).</li><li><b>Statements II and III are correct:</b> It preserves ancient murals and was developed under Satavahanas (Hinayana phase) and Vakatakas (Mahayana phase).</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Ancient Literature",
+    "question": "<b>Match List I with List II.</b><br><br><b>List I (Literary Work)</b><br>A. Duta Ghatotkacha<br>B. Mrichchhakatikam<br>C. Kiratarjuniyam<br>D. Ravanavadha<br><br><b>List II (Author)</b><br>I. Bhatti<br>II. Bhasa<br>III. Shudraka<br>IV. Bharavi<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "A-I, B-III, C-IV, D-II",
+      "A-I, B-IV, C-III, D-II",
+      "A-II, B-III, C-IV, D-I",
+      "A-II, B-IV, C-III, D-I"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: A-II, B-III, C-IV, D-I</b><br><br><ul><li>Duta Ghatotkacha -> Bhasa</li><li>Mrichchhakatikam -> Shudraka</li><li>Kiratarjuniyam -> Bharavi</li><li>Ravanavadha -> Bhatti</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Medieval Philosophy",
+    "question": "<b>Consider the following information:</b><br><br><b>Scholar : Philosophy : Famous Work</b><br>I. Ramanujacharya : Vishishtadvaita : Vedantasara<br>II. Madhvacharya : Dvaita Vedanta : Anu-vyakhyana<br>III. Adi Shankaracharya : Advaita Vedanta : Vivekachudamani<br>IV. Vallabhacharya : Shuddhadvaita : Sri Subodhini<br><br><b>In how many of the above rows is the given information correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: All four</b><br><br><ul><li><b>Fact Check:</b> All combinations accurately map the Bhakti/Vedanta philosophers to their respective non-dualism variations and major literary treatises.</li><li><b>PYQ Reverse-Engineering:</b> Pairing philosophers with core doctrines (Vishishtadvaita, Dvaita) is tested almost bi-annually.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Medieval History",
+    "question": "<b>Consider the following statements regarding Turkan-i-Chahalgani of the Delhi Sultanate:</b><br><br>I. It was a group of nobility created by Iltutmish.<br>II. Its members were only of Turkish origin.<br>III. All the important posts during the reign of Iltutmish were held by them.<br>IV. Jalaluddin Khalji ended their monopoly on power.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><ul><li><b>Statements I and III are correct:</b> Iltutmish built the 'Group of 40' for consolidation and exclusively gave them high positions.</li><li><b>Statement II is incorrect (Trap):</b> They were heavily Turkish, but not <i>only</i> Turkish. It included Tajiks and Qara Khitais.</li><li><b>Statement IV is incorrect:</b> <b>Balban</b> systematically destroyed their power using his 'Blood and Iron' policy, not the Khiljis.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "History",
+    "topic": "Freedom Struggle",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Personality : Role in the Indian Freedom Struggle</b><br>I. Rani Abbakka : Resistance against the Portuguese at Ullal<br>II. Rani Chennamma : Revolt against British interference in succession<br>III. Velu Nachiyar : Resistance against the British in Sivaganga<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><ul><li><b>Fact Check:</b> Rani Abbakka (Chowta dynasty) famously fought the Portuguese. Rani Chennamma led the Kittur rebellion against British annexation. Velu Nachiyar was a prominent 18th-century Tamil queen who fought the EIC.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Treaties",
+    "question": "<b>Consider the following statements with respect to United Nations Convention on the Law of the Sea (UNCLOS):</b><br><br>I. The continental shelf of a coastal state comprises the natural prolongation of its land territory up to the outer edge of the continental margin or up to 200 nautical miles from the baseline, whichever is greater.<br>II. Coastal states establish the outer limits of their continental shelf beyond 200 nautical miles on the basis of recommendations made by the Commission on the Limits of the Continental Shelf (CLCS).<br>III. The recommendations of the CLCS are binding on states even in cases involving disputes between states with opposite or adjacent coasts.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><ul><li><b>Statements I and II are correct:</b> The 200 NM baseline guarantees apply, and the CLCS dictates outer limit claims.</li><li><b>Statement III is incorrect:</b> The CLCS is a scientific/technical body. Its recommendations are <b>not binding</b> in active maritime border disputes between opposing nations.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Map Locations",
+    "question": "<b>If a person travels from India to Turkey via the shortest land route, the minimum number of countries he/she must cross, excluding origin and destination, is:</b>",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Two</b><br><br><ul><li><b>Fact Check:</b> The shortest continuous land route moves geographically straight West: India -> Pakistan -> Iran -> Turkey. Thus, excluding origin and destination, exactly two sovereign states must be crossed.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "World Rivers",
+    "question": "<b>Consider the following pairs:</b><br><br><b>River : Country through which it flows</b><br>I. Zambezi : Zambia<br>II. Amu Darya : Uzbekistan<br>III. Volga : Russia<br>IV. Danube : Germany<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: All four</b><br><br><ul><li><b>Fact Check:</b> Zambezi acts as the border for Zambia/Zimbabwe. Amu Darya supplies the Uzbek cotton fields. Volga is purely Russian. The Danube originates in Germany's Black Forest.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "International Conventions",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement I:</b> A country withdrawing from the UNFCCC is automatically deemed to have withdrawn from all its associated protocols and agreements.<br><b>Statement II:</b> Article 25 of the UNFCCC provides that a Party may withdraw only after three years from the date of entry into force of the Convention, followed by a one-year notice period.<br><b>Statement III:</b> Article 25 of the UNFCCC states that withdrawal from the Convention shall also be considered as withdrawal from any protocol thereto.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><ul><li><b>Note:</b> (Extrapolated from source material matching logic). The legal framework of UNFCCC explicitly ties protocols (like Paris) to the parent convention. Statement I & III describe the same legally operative outcome.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Geopolitics",
+    "question": "<b>The proposed Kra Canal, recently in news, is planned to pass through which of the following countries?</b>",
+    "options": [
+      "Myanmar",
+      "Malaysia",
+      "Thailand",
+      "Cambodia"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Thailand</b><br><br><ul><li><b>Fact Check:</b> The Kra Canal is proposed across the Isthmus of Kra in southern Thailand. It acts as a massive geopolitical shortcut between the Andaman Sea and the Gulf of Thailand, effectively bypassing the Strait of Malacca.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking & Payments",
+    "question": "<b>With reference to digital payment systems in India, consider the following information:</b><br><br><b>System : Key Feature : Transaction Characteristic</b><br>I. RTGS : Real-time settlement : Has an upper limit on transaction amount<br>II. NEFT : Batch-wise settlement : Minimum transaction limit of 1 lakh<br>III. UPI : Instant fund transfer : Requires IFSC-based bank details for every transaction<br><br><b>In how many of the above rows is the information correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: None</b><br><br><ul><li><b>Row I is incorrect:</b> RTGS has a minimum limit (₹2 lakh) but explicitly <b>does NOT have any upper limit</b>.</li><li><b>Row II is incorrect:</b> NEFT operates in batches but has <b>no minimum transaction limit</b>.</li><li><b>Row III is incorrect:</b> UPI requires a Virtual Payment Address (VPA) or phone number, not IFSC details.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "MSP",
+    "question": "<b>Consider the following millet crops:</b><br><br>I. Jowar<br>II. Bajra<br>III. Ragi<br>IV. Kodo<br>V. Kutki<br><br><b>Which of the above are covered under Minimum Support Price (MSP) announced by the Government of India?</b>",
+    "options": [
+      "I, II and III only",
+      "I, III and IV only",
+      "III, IV and V only",
+      "I, II, III, IV and V"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I, II and III only</b><br><br><ul><li><b>Fact Check:</b> Among the 22 mandated crops for MSP, the government covers Jowar, Bajra, and Ragi (the major millets). Minor millets like Kodo and Kutki are heavily promoted but not currently backed by central MSP price floors.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Agriculture",
+    "topic": "Crop Patterns",
+    "question": "<b>Consider the following statements regarding cotton cultivation in India:</b><br><br>I. Cotton is an indigenous crop grown as a Kharif crop in semi-arid regions of the country.<br>II. In some states, cotton can be cultivated in both Kharif and Rabi seasons.<br>III. India accounts for more than half of the world's organic cotton production.<br>IV. India has the largest area under cotton cultivation in the world.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: All four</b><br><br><ul><li><b>Fact Check:</b> Cotton is indigenous, primarily Kharif but can be sown in Rabi in frost-free states (Tamil Nadu). India dominates the globe in both absolute acreage and organic cotton production output.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking Regulation",
+    "question": "<b>Consider the following statements:</b><br><br>I. After the 2020 amendment to the Banking Regulation Act, 1949, Urban Cooperative Banks have been brought under greater regulatory control of the Reserve Bank of India.<br>II. The Reserve Bank of India can supersede the Board of Directors of a Cooperative Bank after consultation with the State Government.<br>III. Administrative matters of Cooperative Banks are now entirely controlled by the Reserve Bank of India.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><ul><li><b>Statements I and II are correct:</b> The 2020 amendment significantly expanded RBI's supervisory powers over UCBs to prevent collapses (like PMC Bank), allowing board supersession.</li><li><b>Statement III is incorrect:</b> Despite greater financial regulation, pure <b>administrative matters</b> (incorporation, management audits) remain under the jurisdiction of the Registrar of Cooperative Societies, retaining the dual-control structure.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Welfare Schemes",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement I:</b> In the NPS e-Shramik model, Platform Aggregators are not required to register with the Pension Fund Regulatory and Development Authority (PFRDA).<br><b>Statement II:</b> The regulatory compliance responsibility under the scheme lies primarily with the Point of Presence (PoP).<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I</b><br><br><ul><li><b>Fact Check:</b> The NPS e-Shramik model was engineered to avoid burdening aggregators (Uber, Zomato) with PFRDA regulations. Statement II explains this by highlighting that the intermediary PoPs take on the full regulatory compliance burden, allowing aggregators to remain outside direct regulation.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Monetary Policy",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement I:</b> Open market sale of government securities by the central bank tends to increase bond yields.<br><b>Statement II:</b> Such sales reduce liquidity in the financial system, leading to a fall in bond prices.<br><br><b>Which one of the following is correct with respect to the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I",
+      "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation of Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation of Statement-I</b><br><br><ul><li><b>Core Economics Concept:</b> Bond prices and bond yields move strictly in <b>opposite directions</b>. When the RBI executes an open market sale, it drains liquidity from the market. Lower liquidity means lower demand for bonds, forcing bond prices to drop. Consequently, the fixed coupon payout represents a higher percentage of the new (lower) price, mathematically increasing the yield.</li></ul>",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
