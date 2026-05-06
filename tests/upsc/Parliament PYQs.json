@@ -1,0 +1,302 @@
+[
+  {
+    "section": "Polity",
+    "topic": "Parliament - Procedures",
+    "question": "<b>With reference to the Parliament of India, consider the following statements:</b><br><br>1. Prorogation of a House by the President of India does not require the advice of the Council of Ministers.<br>2. Prorogation of a House is generally done after the House is adjourned sine die, but there is no bar to the President of India proroguing the House which is in session.<br>3. Dissolution of the Lok Sabha is done by the President of India who, save in exceptional circumstances, does so on the advice of the Council of Ministers.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> The President summons and prorogues the Houses <i>strictly</i> on the advice of the Prime Minister and the Council of Ministers.<br><b>Statement 2 is correct:</b> While conventionally done after adjournment sine die, the President possesses the constitutional authority to prorogue a House even while it is in session.<br><b>Statement 3 is correct:</b> Dissolution is an executive act done on the binding advice of the CoM, except when the CoM has lost its majority (exceptional circumstance).<br><br><b>PYQ Reverse-Engineering:</b> This forces you to differentiate between the President's discretionary powers and binding executive advice.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Nature of Bills",
+    "question": "<b>Which of the following statements are correct in respect of a Money Bill in the Parliament?</b><br><br>1. Article 109 mentions special procedure in respect of Money Bills.<br>2. A Money Bill shall not be introduced in the Council of States.<br>3. The Rajya Sabha can either approve the Bill or suggest changes but cannot reject it.<br>4. Amendments to a Money Bill suggested by the Rajya Sabha have to be accepted by the Lok Sabha.<br><br><b>Select the answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> Article 109 provides the special procedure, while Article 110 defines a Money Bill.<br><b>Statement 2 is correct:</b> It can only be introduced in the Lok Sabha with the President's prior recommendation.<br><b>Statement 3 is correct:</b> The Rajya Sabha has restricted powers; it can only make recommendations within 14 days.<br><b>Statement 4 is incorrect (The 'Mandatory' Trap):</b> The examiner claims Lok Sabha <i>must</i> accept the amendments. In reality, the Lok Sabha can accept or reject any or all recommendations made by the Rajya Sabha.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Procedures",
+    "question": "<b>With reference to the Indian Parliament, consider the following statements:</b><br><br>1. A bill pending in the Lok Sabha lapses on its dissolution.<br>2. A bill passed by the Lok Sabha and pending in the Rajya Sabha lapses on the dissolution of the Lok Sabha.<br>3. A bill in regard to which the President of India notified his/her intention to summon the Houses to a joint sitting lapses on the dissolution of the Lok Sabha.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statements 1 and 2 are correct:</b> As per Article 107, any bill pending in the Lok Sabha (whether originating there or transmitted to it), and any bill passed by the Lok Sabha but pending in the Rajya Sabha, absolutely lapses on dissolution.<br><b>Statement 3 is incorrect (The 'Exception' Trap):</b> If the President has already notified the intention to summon a joint sitting (under Article 108) <i>before</i> the dissolution, the bill does <b>not</b> lapse and the joint sitting can still be held.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Nature of Bills",
+    "question": "<b>With reference to Finance Bill and Money Bill in the Indian Parliament, consider the following statements:</b><br><br>1. When the Lok Sabha transmits Finance Bill to the Rajya Sabha, it can amend or reject the Bill.<br>2. When the Lok Sabha transmits Money Bill to the Rajya Sabha, it cannot amend or reject the Bill, it can only make recommendations.<br>3. In the case of disagreement between the Lok Sabha and the Rajya Sabha, there is no joint sitting for Money Bill, but a joint sitting becomes necessary for Finance Bill.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> A Finance Bill (Type I and II) is treated like an ordinary bill in the Rajya Sabha, meaning the RS can amend or reject it.<br><b>Statement 2 is correct:</b> Rajya Sabha has no power to amend or reject a Money Bill.<br><b>Statement 3 is incorrect (The Extreme Absolute Trap):</b> While it is true there is no joint sitting for a Money Bill, a joint sitting does <b>not</b> become \"necessary\" or mandatory for a Finance Bill—it is merely a provision available to the President if a deadlock occurs, not a constitutional necessity.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Committees",
+    "question": "<b>Which of the following statements about the Ethics Committee in the Lok Sabha are correct?</b><br><br>1. Initially, it was an ad-hoc Committee.<br>2. Only a Member of the Lok Sabha can make a complaint relating to unethical conduct of a member of the Lok Sabha.<br>3. This Committee cannot take up any matter which is sub-judice.<br><br><b>Select the answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> Constituted initially as an ad-hoc committee in 2000, it became a permanent standing committee later.<br><b>Statement 2 is incorrect (The 'Only' Exclusion Trap):</b> The examiner uses \"Only a Member\". In reality, <i>any person</i> can make a complaint against an MP, provided the complaint is forwarded/sponsored by a sitting member of the Lok Sabha.<br><b>Statement 3 is correct:</b> By parliamentary convention and rules, committees do not take up sub-judice matters to avoid prejudicing ongoing judicial proceedings.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Presiding Officers",
+    "question": "<b>With reference to Deputy Speaker of Lok Sabha, consider the following statements:</b><br><br>1. As per the Rules of Procedure and Conduct of Business in Lok Sabha, the election of Deputy Speaker shall be held on such date as the Speaker may fix.<br>2. There is a mandatory provision that the election of a candidate as Deputy Speaker of Lok Sabha shall be from either the principal opposition party or the ruling party.<br>3. The Deputy Speaker has the same power as of the Speaker when presiding over the sitting of the House and no appeal lies against his rulings.<br>4. The well established parliamentary practice regarding the appointment of Deputy Speaker is that the motion is moved by the Speaker and duly seconded by the Prime Minister.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 3",
+      "3 and 4 only",
+      "2 and 4 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> Rule 8 of the Rules of Procedure explicitly states the Speaker fixes the date for the Deputy Speaker's election.<br><b>Statement 2 is incorrect (The 'Mandatory' Trap):</b> It is a healthy parliamentary <i>convention</i> (since the 11th Lok Sabha) that the Deputy Speaker comes from the Opposition, but there is absolutely no <b>mandatory provision</b> in the Constitution or Rules.<br><b>Statement 3 is correct:</b> When presiding, the Deputy Speaker is completely independent and has the exact same powers as the Speaker. His rulings are final.<br><b>Statement 4 is incorrect:</b> The motion is typically moved by a member and seconded by another member, not strictly by the Speaker and PM.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Houses",
+    "question": "<b>Which of the following is/are the exclusive power(s) of Lok Sabha?</b><br><br>1. To ratify the declaration of Emergency<br>2. To pass a motion of no-confidence against the Council of Ministers<br>3. To impeach the President of India<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> The declaration of National Emergency (Article 352) must be ratified by <b>both</b> Houses of Parliament, not exclusively the Lok Sabha.<br><b>Statement 2 is correct:</b> Under Article 75(3), the Council of Ministers is collectively responsible <i>only</i> to the Lok Sabha. Hence, a No-Confidence Motion can only be passed in the Lok Sabha.<br><b>Statement 3 is incorrect:</b> The impeachment of the President (Article 61) can be initiated in <b>either</b> House of Parliament.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Schedules",
+    "question": "<b>With reference to anti-defection law in India, consider the following statements:</b><br><br>1. The law specifies that a nominated legislator cannot join any political party within six months of being appointed to the House.<br>2. The law does not provide any time-frame within which the presiding officer has to decide a defection case.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The 'Reversal' Trap):</b> The examiner has completely reversed the rule. The 10th Schedule explicitly states that a nominated member <b>can</b> join a political party <i>within</i> six months of taking their seat without being disqualified. They are disqualified if they join <i>after</i> the expiry of six months.<br><b>Statement 2 is correct:</b> A major structural flaw in the 10th Schedule is that it dictates no binding time-frame for the Speaker/Chairman to decide on defection petitions, leading to endless delays.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Amendment",
+    "question": "<b>Consider the following statements regarding a Constitution Amendment Bill:</b><br><br>1. A Bill amending the Constitution requires a prior recommendation of the President of India.<br>2. When a Constitution Amendment Bill is presented to the President of India, it is obligatory for the President of India to give his/her assent.<br>3. A Constitution Amendment Bill must be passed by both the Lok Sabha and the Rajya Sabha by a special majority and there is no provision for joint sitting.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> Unlike Money Bills or State reorganization bills, a Constitutional Amendment Bill (Article 368) does <b>not</b> require the prior recommendation of the President. It can be introduced by any minister or private member.<br><b>Statement 2 is correct:</b> The 24th Constitutional Amendment Act (1971) made it mandatory/obligatory for the President to give his assent to a Constitutional Amendment Bill.<br><b>Statement 3 is correct:</b> Article 368 strictly prohibits joint sittings for constitutional amendments. Both houses must pass it separately by a special majority.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Houses",
+    "question": "<b>Rajya Sabha has equal powers with Lok Sabha in which of the following matters?</b>",
+    "options": [
+      "The matter of creating new All India Services",
+      "Amending the Constitution",
+      "The removal of the government",
+      "Making cut motions"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Amending the Constitution</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Amending the Constitution:</b> Both Houses have absolutely equal powers. A constitutional amendment must be passed by both houses separately by a special majority.<br><b>Distractor Analysis:</b><br>- <i>Creating new All India Services (Article 312):</i> This is an <b>exclusive</b> power of the Rajya Sabha.<br>- <i>Removal of government & Cut motions:</i> These are <b>exclusive</b> powers of the Lok Sabha, as the executive is collectively responsible only to the Lower House and only the LS votes on Demands for Grants.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Nature of Bills",
+    "question": "<b>With reference to the Parliament of India, consider the following statements:</b><br><br>1. A Private Member’s Bill is a Bill presented by a Member of Parliament who is not elected but only nominated by the President of India.<br>2. Recently, a Private Member’s Bill has been passed in the Parliament of India for the first time in its history.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (Definition Trap):</b> A \"Private Member\" is defined as <b>any</b> Member of Parliament (elected or nominated) who is <b>not a Minister</b> in the government. The examiner falsely restricted it to nominated members.<br><b>Statement 2 is incorrect (Historical Fact Trap):</b> Private Member Bills have been passed before. Around 14 such bills have been passed since 1952, though the last one was passed in 1970. It is definitely not the \"first time in its history.\"",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Nature of Bills",
+    "question": "<b>Regarding a Money Bill, which of the following statements is NOT correct?</b>",
+    "options": [
+      "A Bill shall be deemed to be a Money Bill if it contains only provisions relating to imposition, abolition, remission, alteration or regulation of any tax.",
+      "A Money Bill has provisions for the custody of the Consolidated Fund of India or the Contingency Fund of India.",
+      "A Money Bill is concerned with the appropriation of money out of the Contingency Fund of India.",
+      "A Money Bill deals with the regulation of borrowing of money or giving of any guarantee by the Government of India."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: A Money Bill is concerned with the appropriation of money out of the Contingency Fund of India.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Trap:</b> Article 110 clearly defines a Money Bill. It deals with the appropriation of moneys out of the <b>Consolidated Fund of India</b>, not the Contingency Fund. The examiner swaps the two funds to test your precise reading of the Constitutional text. All other options perfectly align with the clauses of Article 110(1).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Committees",
+    "question": "<b>With reference to the Parliament of India, which of the following Parliamentary Committees scrutinizes and reports to the House whether the powers to make regulations, rules, sub-rules, by-laws etc. conferred by the constitution or delegated by the Parliament are being properly exercised by the Executive within the scope of such delegation?</b>",
+    "options": [
+      "Committee on Government Assurances",
+      "Committee on Subordinate Legislation",
+      "Rules Committee",
+      "Business Advisory Committee"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Committee on Subordinate Legislation</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Parliament delegates rule-making powers to the Executive because it lacks the time and technical expertise to frame every minor regulation. To ensure the Executive doesn't overstep this delegated authority, the <b>Committee on Subordinate Legislation</b> (comprising 15 members in each House) scrutinizes these rules and reports back to the Parliament.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Committees",
+    "question": "<b>Which one of the following is the largest Committee of the Parliament?</b>",
+    "options": [
+      "The Committee on Public Accounts",
+      "The Committee on Estimates",
+      "The Committee on Public Undertakings",
+      "The Committee on Petitions"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The Committee on Estimates</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Numbers Game Trap:</b><br>- <b>Estimates Committee:</b> 30 members (All from Lok Sabha). This is the largest.<br>- <b>Public Accounts Committee (PAC):</b> 22 members (15 LS, 7 RS).<br>- <b>Committee on Public Undertakings (CoPU):</b> 22 members (15 LS, 7 RS).<br>The examiner tests your raw numerical recall of parliamentary structures.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Committees",
+    "question": "<b>Consider the following statements: The Parliamentary Committee on Public Accounts (PAC)</b><br><br>1. consists of not more than 25 members of the Lok Sabha.<br>2. scrutinizes appropriation and finance accounts of the Government.<br>3. examines the report of the Comptroller and Auditor General of India.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (Numerical Trap):</b> The PAC consists of exactly <b>22 members</b>, out of which 15 are from the Lok Sabha and 7 from the Rajya Sabha. The examiner tests the specific number and the composition (it is a joint committee, not exclusive to the Lok Sabha).<br><b>Statements 2 and 3 are correct:</b> The core mandate of the PAC is to examine the annual audit reports of the CAG, which are laid before the Parliament by the President.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Procedures",
+    "question": "<b>Consider the following statements:</b><br><br>1. The Parliament (Prevention of Disqualification) Act, 1959 exempts several posts from disqualification on the grounds of ‘Office of Profit’.<br>2. The above-mentioned Act was amended five times.<br>3. The term ‘Office of Profit’ is well-defined in the Constitution of India.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> The Act exempts Ministers, Whips, Parliamentary Secretaries, etc., from disqualification.<br><b>Statement 2 is correct:</b> It has been amended multiple times (1960, 1992, 1993, 2006, 2013).<br><b>Statement 3 is incorrect (The Definition Trap):</b> This is a classic UPSC trap. The phrase \"Office of Profit\" is mentioned in the Constitution (Article 102), but it is <b>nowhere defined</b> in the Constitution or the Representation of the People Act, 1951. Its definition has evolved entirely through Supreme Court judgments.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Houses",
+    "question": "<b>Consider the following statements:</b><br><br>1. In the first Lok Sabha, the single largest party in the opposition was the Swatantra Party.<br>2. In the Lok Sabha, a “Leader of the Opposition” was recognised for the first time in 1969.<br>3. In the Lok Sabha, if a party does not have a minimum of 75 members, its leader cannot be recognised as the Leader of Opposition.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> In the 1951-52 first Lok Sabha, the Communist Party of India (CPI) was the single largest opposition party with 16 seats. The Swatantra Party was formed much later in 1959 by C. Rajagopalachari.<br><b>Statement 2 is correct:</b> Ram Subhag Singh (INC-O) was officially recognized as the first Leader of the Opposition in 1969.<br><b>Statement 3 is incorrect (The Quorum Trap):</b> To claim the LoP post, a party must secure at least 10% of the total seats in the House. In the Lok Sabha (543 seats), this translates to <b>55 seats</b>, not 75.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Presiding Officers",
+    "question": "<b>Consider the following statements:</b><br><br>1. The Speaker of the Legislative Assembly shall vacate his/her office if he/she ceases to be a member of the Assembly.<br>2. Whenever the Legislative Assembly is dissolved, the Speaker shall vacate his/her office immediately.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> A Speaker (both in Lok Sabha and State Assembly) must vacate the office if they cease to be a member of the House.<br><b>Statement 2 is incorrect (The Timeline Trap):</b> Article 179 for State Assemblies (and Article 94 for the Lok Sabha) explicitly provides that the Speaker shall <b>not</b> vacate their office on the dissolution of the Assembly. They continue in office until immediately before the first meeting of the newly elected Assembly.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Procedures",
+    "question": "<b>A deadlock between the Lok Sabha and the Rajya Sabha calls for a joint sitting of the Parliament during the passage of:</b><br><br>1. Ordinary Legislation<br>2. Money Bill<br>3. Constitutional Amendment Bill<br><br><b>Select the correct answer using the codes given below:</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Constitutional Mechanism Trap:</b><br>- <b>Ordinary Legislation:</b> Yes. Article 108 provides for a joint sitting to resolve deadlocks over ordinary and financial bills.<br>- <b>Money Bill:</b> No. The Lok Sabha has overriding powers; the Rajya Sabha can only delay it for 14 days.<br>- <b>Constitutional Amendment Bill:</b> No. Article 368 requires that both houses must pass the bill <i>separately</i> with a special majority. There is no provision for a joint sitting to resolve a deadlock on constitutional amendments.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Budget",
+    "question": "<b>With reference to the Union Budget, consider the following statements:</b><br><br>1. The Union Finance Minister on behalf of the Prime Minister lays the Annual Financial Statement before both the Houses of Parliament.<br>2. At the Union level, no demand for a grant can be made except on the recommendation of the President of India.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The Delegation Trap):</b> Under Article 112, the Annual Financial Statement is laid before the Houses of Parliament on behalf of the <b>President of India</b>, not the Prime Minister.<br><b>Statement 2 is correct:</b> As per Article 113(3), no demand for a grant shall be made except on the recommendation of the President.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
