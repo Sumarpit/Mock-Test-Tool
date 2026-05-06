@@ -1,0 +1,197 @@
+[
+  {
+    "section": "Polity",
+    "topic": "Parliament - Control over Executive",
+    "question": "<b>There is a Parliamentary System of Government in India because the</b>",
+    "options": [
+      "Lok Sabha is elected directly by the people",
+      "Parliament can amend the Constitution",
+      "Rajya Sabha cannot be dissolved",
+      "Council of Ministers is responsible to the Lok Sabha"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Council of Ministers is responsible to the Lok Sabha</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The defining, absolute bedrock of a Parliamentary System (as opposed to a Presidential System) is the collective responsibility of the executive to the legislature. <br><b>The Generic Fact Trap:</b> Options A, B, and C are all factually true statements regarding the Indian polity, but they do not define the *Parliamentary System*. The examiner tests whether you know the core constitutional mechanism (Article 75) that forces the government to resign if it loses the confidence of the lower house.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Motions",
+    "question": "<b>Consider the following statements regarding a No-Confidence Motion in India:</b><br><br>1. There is no mention of a No-Confidence Motion in the Constitution of India.<br>2. A motion of No-Confidence can be introduced in the Lok Sabha only.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct (The Constitutional Silence Trap):</b> Candidates naturally assume that a tool as powerful as the No-Confidence Motion must be explicitly written in the Constitution. It is not. It is merely implied by Article 75 (collective responsibility) and is explicitly detailed only in the <i>Rules of Procedure of the Lok Sabha</i> (Rule 198).<br><b>Statement 2 is correct:</b> Since the Council of Ministers is responsible only to the Lok Sabha, the motion cannot be introduced in the Rajya Sabha.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Legislative Powers",
+    "question": "<b>The Parliament can make any law for whole or any part of India for implementing international treaties</b>",
+    "options": [
+      "with the consent of all the States",
+      "with the consent of the majority of States",
+      "with the consent of the States concerned",
+      "without the consent of any State"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: without the consent of any State</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Federalism Trap:</b> Article 253 gives Parliament absolute, overriding power to make laws on <i>State List</i> subjects if it is necessary to implement international treaties, agreements, or conventions. The examiner tests if you will fall for the illusion that states have a veto power in international diplomacy.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Lapsing of Bills",
+    "question": "<b>Which of the following statements is/are correct?</b><br><br>1. A Bill pending in the Lok Sabha lapses on its prorogation.<br>2. A Bill pending in the Rajya Sabha, which has not been passed by the Lok Sabha, shall not lapse on dissolution of the Lok Sabha.<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (Prorogation vs. Dissolution Trap):</b> Prorogation merely ends a <i>session</i> of the House. It does not kill pending bills. Dissolution ends the <i>life</i> of the Lok Sabha and kills pending bills.<br><b>Statement 2 is correct:</b> Under Article 107, a bill originating in the Rajya Sabha and still pending there (not yet passed by the Lok Sabha) is immune to the dissolution of the Lok Sabha.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Joint Sitting",
+    "question": "<b>When a bill is referred to a joint sitting of both the Houses of the Parliament, it has to be passed by</b>",
+    "options": [
+      "a simple majority of members present and voting",
+      "three-fourths majority of members present and voting",
+      "two-thirds majority of the Houses",
+      "absolute majority of the Houses"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: a simple majority of members present and voting</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Article 108 regulates joint sittings. The examiner creates complex distractors (2/3rd, absolute majority) to confuse candidates who conflate joint sittings with Constitutional Amendments. A joint sitting is only for ordinary/financial bills, and it only requires a <b>simple majority</b> of the total members of both Houses present and voting. Because the Lok Sabha has more than double the members of the Rajya Sabha, its will naturally prevails.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Money Bill & Rajya Sabha",
+    "question": "<b>Consider the following statements:</b><br><br>1. The Rajya Sabha has no power either to reject or to amend a Money Bill.<br>2. The Rajya Sabha cannot vote on the Demands for Grants.<br>3. The Rajya Sabha cannot discuss the Annual Financial Statement.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statements 1 and 2 are correct:</b> Rajya Sabha can only make non-binding recommendations on a Money Bill within 14 days. Voting on Demands for Grants is the exclusive privilege of the Lok Sabha.<br><b>Statement 3 is incorrect (The 'Discussion' Trap):</b> The examiner equates 'voting' with 'discussing'. While the Rajya Sabha cannot <i>vote</i> on the budget grants, Article 112 guarantees that the Annual Financial Statement is laid before <i>both</i> Houses, and the Rajya Sabha has full rights to <i>discuss</i> it.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Special Powers of Rajya Sabha",
+    "question": "<b>Which of the following special powers have been conferred on the Rajya Sabha by the Constitution of India?</b>",
+    "options": [
+      "To change the existing territory of a State and to change the name of a State.",
+      "To pass a resolution empowering the Parliament to make laws in the State List and to create one or more All India Services.",
+      "To amend the election procedure of the President and to determine the pension of the President after his/her retirement.",
+      "To determine the functions of the Election Commission and to determine the number of Election Commissioners."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: To pass a resolution empowering the Parliament to make laws in the State List and to create one or more All India Services.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>This tests the absolute exclusive privileges of the Upper House. <br>- Under <b>Article 249</b>, the Rajya Sabha can authorize Parliament to make laws on State List subjects.<br>- Under <b>Article 312</b>, it can authorize the creation of new All-India Services. These powers belong exclusively to the Rajya Sabha to protect federalism.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Budget & Funds",
+    "question": "<b>With reference to the Union Government, consider the following statements:</b><br><br>1. The Department of Revenue is responsible for the preparation of Union Budget that is presented to the Parliament.<br>2. No amount can be withdrawn from the Consolidated Fund of India without the authorization from the Parliament of India.<br>3. All the disbursements made from Public Account also need the authorization from the Parliament of India.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (Ministry Sub-Department Trap):</b> The budget is prepared by the Department of <b>Economic Affairs</b>, not the Department of Revenue.<br><b>Statement 2 is correct:</b> Article 114 mandates an Appropriation Act for any withdrawal from the Consolidated Fund.<br><b>Statement 3 is incorrect (The Funds Exception Trap):</b> Disbursements from the <b>Public Account of India</b> (e.g., provident funds, judicial deposits) are in the nature of banking transactions and do <b>not</b> require parliamentary authorization. Executive action is sufficient.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Control over Public Finance",
+    "question": "<b>Which of the following are the methods of Parliamentary control over public finance in India?</b><br><br>1. Placing Annual Financial Statement before the Parliament.<br>2. Withdrawal of moneys from Consolidated Fund of India only after passing the Appropriation Bill.<br>3. Provisions of supplementary grants and vote-on-account.<br>4. A periodic or at least a mid-year review of programmes of the Government against macroeconomic forecasts and expenditure by a Parliamentary Budget Office.<br>5. Introducing Finance Bill in the Parliament.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2, 3 and 5 only",
+      "1, 2 and 4 only",
+      "3, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 5 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The examiner uses a \"Phantom Institution\" trap. Statements 1, 2, 3, and 5 are standard constitutional mechanisms for financial control. <br><b>Statement 4 is incorrect:</b> India does <b>not</b> have a \"Parliamentary Budget Office\" that conducts mid-year reviews (unlike the US Congressional Budget Office). The mid-year review is presented by the Finance Ministry under the FRBM Act, not an independent parliamentary office.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Fall of Government",
+    "question": "<b>When the annual Union Budget is not passed by the Lok Sabha,</b>",
+    "options": [
+      "the Budget is modified and presented again",
+      "the Budget is referred to the Rajya Sabha for suggestions",
+      "the Union Finance Minister is asked to resign",
+      "the Prime Minister submits the resignation of Council of Ministers"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: the Prime Minister submits the resignation of Council of Ministers</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Constitutional Ramification Trap:</b> The defeat of the Annual Budget in the Lok Sabha is equivalent to the passage of a No-Confidence Motion. It signals that the executive has lost the absolute majority in the House. It does not just mean the Finance Minister resigns (Option C decoy); the entire Council of Ministers, led by the PM, must resign.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Presiding Officers",
+    "question": "<b>Regarding the Office of the Lok Sabha Speaker, consider the following statements:</b><br><br>1. He/She holds the office during the pleasure of the President.<br>2. He/She need not be a member of the House at the time of his/her election but has to become a member of the House within six months from the date of his/her election.<br>3. If he/she intends to resign, the letter of his/her resignation has to be addressed to the Deputy Speaker.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (Executive vs. Legislative Trap):</b> The Speaker is elected by the Lok Sabha and removed by the Lok Sabha. He/She does <b>not</b> hold office during the pleasure of the President.<br><b>Statement 2 is incorrect (Minister vs. Speaker Trap):</b> The \"six months\" rule applies to <i>Ministers</i>. The Speaker <b>must</b> be an elected member of the Lok Sabha at the exact time of their election as Speaker.<br><b>Statement 3 is correct:</b> The Speaker resigns by writing to the Deputy Speaker, and vice versa.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Adjournment Motion",
+    "question": "<b>In the Parliament of India, the purpose of an Adjournment Motion is:</b>",
+    "options": [
+      "to allow a discussion on a definite matter of urgent public importance",
+      "to let opposition members collect information from the ministers",
+      "to allow a reduction of specific amount in demand for grant",
+      "to postpone the proceedings to check the inappropriate or violent behaviour on the part of some members"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: to allow a discussion on a definite matter of urgent public importance</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Semantic Trap:</b> The term \"adjournment\" in layman's terms means stopping or pausing proceedings (Option D). However, in parliamentary terminology, an \"Adjournment Motion\" is an extraordinary device used strictly to set aside normal business to discuss a <b>definite matter of urgent public importance</b>. It requires the support of 50 members and involves an element of censure against the government.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Parliament - Composition & Jurisdiction",
+    "question": "<b>Consider the following statements:</b><br><br>1. Union Territories are not represented in the Rajya Sabha.<br>2. It is within the purview of the Chief Election Commissioner to adjudicate election disputes.<br>3. According to the Constitution of India, the Parliament consists of the Lok Sabha and the Rajya Sabha only.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 and 3",
+      "1 and 3",
+      "None"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: None</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> Certain Union Territories with legislatures (Delhi, Puducherry, and Jammu & Kashmir) have representation in the Rajya Sabha.<br><b>Statement 2 is incorrect:</b> The adjudication of election disputes belongs to the High Courts and the Supreme Court, not the Election Commission.<br><b>Statement 3 is incorrect (The Structure Trap):</b> Article 79 clearly states that the Parliament of India consists of the <b>President</b> and the two Houses (Rajya Sabha and Lok Sabha). The President is an integral, inseparable part of Parliament.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]

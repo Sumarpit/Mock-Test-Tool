@@ -139,6 +139,8 @@
 ,
 {"name": "IVC PYQs", "filename": "IVC PYQs.json", "path": "tests/upsc/IVC PYQs.json"}
 ,
+{"name": "Parliament PYQs Part 2", "filename": "Parliament PYQs Part 2.json", "path": "tests/upsc/Parliament PYQs Part 2.json"}
+,
 {"name": "Parliament PYQs", "filename": "Parliament PYQs.json", "path": "tests/upsc/Parliament PYQs.json"}
 ,
 {"name": "Polity CoI, citizenship, oci", "filename": "Polity CoI, citizenship, oci.json", "path": "tests/upsc/Polity CoI, citizenship, oci.json"}
