@@ -1,0 +1,632 @@
+[
+  {
+    "section": "Indian Geography",
+    "topic": "Drainage System Mapping",
+    "question": "<b>With reference to the Himalayan rivers joining the Ganga downstream of Prayagraj from West to East, which one of the following sequences is correct?</b>",
+    "options": [
+      "Ghaghara – Gomati – Gandak – Kosi",
+      "Gomati – Ghaghara – Gandak – Kosi",
+      "Ghaghara – Gomati – Kosi – Gandak",
+      "Gomati – Ghaghara – Kosi – Gandak"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Gomati – Ghaghara – Gandak – Kosi</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geographic Sequence Trap:</b> The examiner tests precise spatial mapping of left-bank tributaries of the Ganga. Relying on rote memorization without visualizing the map leads to fatal errors. Gomati meets Ganga near Varanasi (West), followed by Ghaghara near Chhapra, Gandak near Hajipur, and Kosi near Bhagalpur (East).<br><br><b>PYQ Reverse-Engineering:</b> 2024 Prelims. Emphasizes strict West-to-East and North-to-South alignment of major river systems.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Waterfalls and Rivers",
+    "question": "<b>Consider the following information:</b><br><br><b>Waterfall : Region : River</b><br>1. Dhuandhar : Malwa : Narmada<br>2. Hundru : Chota Nagpur : Subarnarekha<br>3. Gersoppa : Western Ghats : Netravati<br><br><b>In how many of the above rows is the given information correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Row 1 is incorrect (Regional Trap):</b> Dhuandhar Falls is on the Narmada River, but it is located in Bhedaghat (Jabalpur), which falls under the Mahakoshal/Baghelkhand peripheral region, not the Malwa plateau.<br><b>Row 2 is correct:</b> Hundru Falls is formed by the Subarnarekha River in the Chota Nagpur Plateau (Jharkhand).<br><b>Row 3 is incorrect (River Swap):</b> Gersoppa (Jog Falls) is located in the Western Ghats but is formed by the <b>Sharavathi River</b>, not the Netravati.<br><br><b>PYQ Reverse-Engineering:</b> 2024 Prelims. The examiner fuses physical features with specific micro-regions, punishing candidates who only memorize the River-Waterfall pairs.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Lakes and Rivers Interaction",
+    "question": "<b>Consider the following statements :</b><br><br>1. Jhelum River passes through Wular Lake.<br>2. Krishna River directly feeds Kolleru Lake.<br>3. Meandering of Gandak River formed Kanwar Lake.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one (Statement 1 is correct)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> The Jhelum river flows through Srinagar and enters Wular Lake before flowing downstream.<br><b>Statement 2 is incorrect (The 'Direct' Trap):</b> Kolleru Lake is situated <i>between</i> the Krishna and Godavari deltas, but it is not directly fed by the Krishna River. It is fed by seasonal streams like Budameru.<br><b>Statement 3 is incorrect (The Tributary Swap):</b> Kanwar Lake (Bihar) is an oxbow lake formed by the meandering of the <b>Burhi Gandak</b> River, not the main Gandak River.<br><br><b>PYQ Reverse-Engineering:</b> 2023 Prelims. Tests the exact hydrological relationships between distinct water bodies.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Infrastructure Mapping",
+    "question": "<b>Consider the following pairs :</b><br><br><b>Reservoirs — States</b><br>1. Ghataprabha — Telangana<br>2. Gandhi Sagar — Madhya Pradesh<br>3. Indira Sagar — Andhra Pradesh<br>4. Maithon — Chhattisgarh<br><br><b>How many pairs given above are <u>not</u> correctly matched ?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only three pairs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>THE INSTRUCTION TRAP:</b> The question explicitly asks how many pairs are <b>NOT</b> correctly matched. Candidates instinctively count the correct pairs and mark the wrong option.<br><b>Pair 1 is incorrect:</b> Ghataprabha is in Karnataka.<br><b>Pair 2 is correct:</b> Gandhi Sagar is on the Chambal River in Madhya Pradesh.<br><b>Pair 3 is incorrect:</b> Indira Sagar is in Madhya Pradesh (on Narmada).<br><b>Pair 4 is incorrect:</b> Maithon is in Jharkhand (on Barakar river).<br>Since 3 pairs are incorrect, the answer is 'Only three pairs'.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Drainage System Mapping",
+    "question": "<b>Gandikota canyon of South India was created by which one of the following rivers ?</b>",
+    "options": [
+      "Cauvery",
+      "Manjira",
+      "Pennar",
+      "Tungabhadra"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Pennar</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Gandikota Canyon, often referred to as the Grand Canyon of India, is a spectacular gorge formed by the <b>Pennar River</b> cutting through the Erramala hills in Andhra Pradesh.<br><b>Distractor Logic:</b> Cauvery and Tungabhadra are heavily tested major rivers, serving as popular decoys for candidates guessing blindly.<br><br><b>PYQ Reverse-Engineering:</b> 2022 Prelims. Signals a shift towards specific geomorphological landforms created by peninsular rivers.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Drainage System Mapping",
+    "question": "<b>Consider the following rivers:</b><br><br>1. Brahmani<br>2. Nagavali<br>3. Subarnarekha<br>4. Vamsadhara<br><br><b>Which of the above rise from the Eastern Ghats?</b>",
+    "options": [
+      "1 and 2",
+      "2 and 4",
+      "3 and 4",
+      "1 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Origin Trap:</b> The examiner tests if you can differentiate rivers originating in the Chota Nagpur Plateau vs. the Eastern Ghats.<br><b>Rivers 1 & 3 are incorrect:</b> Brahmani and Subarnarekha both originate in the Chota Nagpur Plateau region (Jharkhand), not the Eastern Ghats.<br><b>Rivers 2 & 4 are correct:</b> Nagavali and Vamsadhara rise directly from the Eastern Ghats in Odisha and flow into Andhra Pradesh.<br><br><b>PYQ Reverse-Engineering:</b> 2021 Prelims. Eliminating the Chota Nagpur rivers instantly yields the correct answer.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Physiography Mapping",
+    "question": "<b>With reference to India, Didwana, Kuchaman, Sargol and Khatu are the names of:</b>",
+    "options": [
+      "glaciers",
+      "mangrove areas",
+      "Ramsar sites",
+      "saline lakes"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: saline lakes</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>These are all prominent <b>saline (salt) lakes</b> located in the state of Rajasthan (specifically in the Nagaur district and surrounding arid regions).<br><b>The Ramsar Trap:</b> Candidates might confuse 'Didwana' with wetland conservation sites and guess 'Ramsar sites', but they are primarily recognized geomorphologically as playas or saline lakes in the Thar desert.<br><br><b>PYQ Reverse-Engineering:</b> 2021 Prelims. Extends the mapping horizon beyond the standard Sambhar Lake.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Glaciers and Rivers Mapping",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Glacier — River</b><br>1. Bandarpunch — Yamuna<br>2. Bara Shigri — Chenab<br>3. Milam — Mandakini<br>4. Siachen — Nubra<br>5. Zemu — Manas<br><br><b>Which of the pairs given above are correctly matched?</b>",
+    "options": [
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2 and 5 only",
+      "3 and 5 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pairs 1, 2, and 4 are correct:</b> Bandarpunch is the source of the Yamuna. Bara Shigri feeds the Chandra river (which forms the Chenab). Siachen is the source of the Nubra river.<br><b>Pair 3 is incorrect (River Swap):</b> Milam Glacier (Kumaon Himalaya) is the source of the Gori Ganga, not the Mandakini (which originates from Chorabari Glacier).<br><b>Pair 5 is incorrect (River Swap):</b> Zemu Glacier (Sikkim) feeds the Teesta River, not the Manas.<br><br><b>PYQ Reverse-Engineering:</b> 2019 Prelims. Deep Himalayan hydrology matrix.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Protected Areas - Flagship Species",
+    "question": "<b>Which of the following are the most likely places to find the musk deer in its natural habitat?</b><br><br>1. Askot Wildlife Sanctuary<br>2. Gangotri National Park<br>3. Kishanpur Wildlife Sanctuary<br>4. Manas National Park<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 and 4 only",
+      "1 and 4 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The Alpine Musk Deer is a high-altitude species endemic to the Himalayas.<br><b>1 & 2 are correct:</b> Askot WLS (specifically established for Musk Deer) and Gangotri NP in Uttarakhand provide the high-altitude alpine habitat required.<br><b>3 & 4 are incorrect (Habitat Trap):</b> Kishanpur WLS (Terai region, UP) and Manas NP (Assam plains) are low-altitude tropical/sub-tropical habitats, completely unsuitable for musk deer.<br><br><b>PYQ Reverse-Engineering:</b> 2020 Prelims. Tests the ability to match species biology (high-altitude) with Protected Area geography.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Protected Areas - Endemic Species",
+    "question": "<b>Which one of the following protected areas is well-known for the conservation of a sub-species of the Indian swamp deer (Barasingha) that thrives well on hard ground and is exclusively graminivorous?</b>",
+    "options": [
+      "Kanha National Park",
+      "Manas National Park",
+      "Mudumalai Wildlife Sanctuary",
+      "Tal Chhapar Wildlife Sanctuary"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Kanha National Park</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The <b>Hard Ground Barasingha</b> (<i>Rucervus duvaucelii branderi</i>) is the state animal of Madhya Pradesh and is exclusively found in the Kanha National Park, where it was brought back from the brink of extinction.<br><b>The Sub-species Trap:</b> Other swamp deer thrive in soft, marshy terrains (like Kaziranga or Dudhwa), but the <i>hard ground</i> sub-species is an evolutionary anomaly restricted strictly to Kanha.<br><br><b>PYQ Reverse-Engineering:</b> 2020 Prelims. Conservation success stories of endemic sub-species are Tier-1 targets.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Protected Areas - Tiger Reserves",
+    "question": "<b>Among the following Tiger Reserves, which one has the largest area under \"Critical Tiger Habitat\"?</b>",
+    "options": [
+      "Corbett",
+      "Ranthambore",
+      "Nagarjunsagar-Srisailam",
+      "Sunderbans"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Nagarjunsagar-Srisailam</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Area Trap:</b> Candidates often assume Sunderbans or Corbett because of their fame or high tiger density. However, in terms of sheer geographical expanse of the \"Core/Critical Tiger Habitat\", the <b>Nagarjunsagar-Srisailam Tiger Reserve</b> (spanning across multiple districts in Andhra Pradesh and Telangana) is the largest in India, covering over 3,700 sq km.<br><br><b>PYQ Reverse-Engineering:</b> 2020 Prelims. Tests quantitative extremes (largest, smallest) of the Protected Area network.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Protected Areas - River Basins",
+    "question": "<b>Which of the following Protected Areas are located in Cauvery basin?</b><br><br>1. Nagarhole National Park<br>2. Papikonda National Park<br>3. Sathyamangalam Tiger Reserve<br>4. Wayanad Wildlife Sanctuary<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Basin Swap Trap:</b> The examiner tests your ability to overlay river basin maps onto the wildlife network.<br><b>1, 3, & 4 are correct:</b> Nagarhole (Kabini river), Wayanad (Kabini river), and Sathyamangalam (Bhavani/Moyar rivers) are all integral parts of the Nilgiri Biosphere Reserve, which falls squarely in the Cauvery River basin.<br><b>2 is incorrect:</b> Papikonda National Park is located in Andhra Pradesh and is carved by the <b>Godavari River</b>, far north of the Cauvery basin.<br><br><b>PYQ Reverse-Engineering:</b> 2020 Prelims. Hydrology combined with ecological mapping.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Protected Areas - Geography",
+    "question": "<b>With reference to India’s Desert National Park, which of the following statements are correct?</b><br><br>1. It is spread over two districts.<br>2. There is no human habitation inside the Park.<br>3. It is one of the natural habitats of Great Indian Bustard.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> It spans across the Jaisalmer and Barmer districts of Rajasthan.<br><b>Statement 2 is incorrect (The Absolute Trap):</b> The examiner uses the extreme word \"no human habitation\". In reality, there are over 70 historically inhabited villages inside the Desert National Park boundaries.<br><b>Statement 3 is correct:</b> It is the most critical stronghold for the critically endangered Great Indian Bustard.<br><br><b>PYQ Reverse-Engineering:</b> 2020 Prelims. Eliminating absolute/extreme statements regarding human presence in vast Indian protected areas.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Protected Areas - Biomes",
+    "question": "<b>Which one of the following National Parks lies completely in the temperate alpine zone?</b>",
+    "options": [
+      "Manas National Park",
+      "Namdapha National Park",
+      "Neora Valley National Park",
+      "Valley of Flowers National Park"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Valley of Flowers National Park</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Transitional Biome Trap:</b><br>- Manas is tropical/sub-tropical.<br>- Namdapha has a massive altitudinal variation, ranging from tropical evergreen at the base to alpine at the peaks.<br>- Neora Valley also transitions from sub-tropical to temperate.<br>- <b>Valley of Flowers (Uttarakhand)</b> lies entirely high up in the Zanskar range Himalayas, placing it <i>completely</i> in the temperate alpine zone.<br><br><b>PYQ Reverse-Engineering:</b> 2019 Prelims. Tests understanding of altitudinal gradients and biome boundaries.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Biosphere Reserves Mapping",
+    "question": "<b>Which of the following are in Agasthyamala Biosphere Reserve?</b>",
+    "options": [
+      "Neyyar, Peppara and Shendurney Wildlife Sanctuaries; and Kalakad Mundanthurai Tiger Reserve",
+      "Mudumalai, Sathyamangalam and Wayanad Wildlife Sanctuaries; and Silent Valley National Park",
+      "Kaundinya, Gundla Brahmeswaram and Papikonda Wildlife Sanctuaries; and Mukurthi National Park",
+      "Kawal and Sri Venkateswara Wildlife Sanctuaries; and Nagarjunasagar-Srisailam Tiger Reserve"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Neyyar, Peppara and Shendurney Wildlife Sanctuaries; and Kalakad Mundanthurai Tiger Reserve</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The examiner tests the exact internal composition of major Biosphere Reserves.<br><b>The Distractor Logic:</b> Option B lists the components of the <b>Nilgiri Biosphere Reserve</b> (Mudumalai, Wayanad, Silent Valley). Option A correctly identifies the core sanctuaries at the southern tip of the Western Ghats comprising the Agasthyamala Biosphere Reserve.<br><br><b>PYQ Reverse-Engineering:</b> 2019 Prelims. Requires micro-mapping of sanctuaries within umbrella Biosphere Reserves.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Protected Areas - Geography",
+    "question": "<b>From the ecological point of view, which one of the following assumes importance in being a good link between the Eastern Ghats and the Western Ghats?</b>",
+    "options": [
+      "Sathyamangalam Tiger Reserve",
+      "Nallamala Forest",
+      "Nagarhole National Park",
+      "Seshachalam Biosphere Reserve"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Sathyamangalam Tiger Reserve</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Sathyamangalam Tiger Reserve (Tamil Nadu) is a crucial wildlife corridor bridging the Western Ghats (Nilgiris) and the Eastern Ghats. It allows genetic exchange for mega-herbivores and tigers between the two distinct hill ranges.<br><b>Distractor Logic:</b> Nallamala and Seshachalam are entirely in the Eastern Ghats. Nagarhole is entirely in the Western Ghats.<br><br><b>PYQ Reverse-Engineering:</b> 2017 Prelims. Highlights the ecological importance of geographic \"corridors\".",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Protected Areas - Unique Ecology",
+    "question": "<b>Which of the following National Parks is unique in being a swamp with floating vegetation that supports a rich biodiversity?</b>",
+    "options": [
+      "Bhitarkanika National Park",
+      "Keibul Lamjao National Park",
+      "Keoladeo Ghana National Park",
+      "Sultanpur National Park"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Keibul Lamjao National Park</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Keibul Lamjao (Manipur) is the only floating national park in the world, characterized by unique floating masses of decomposed vegetation and soil called <b>Phumdis</b> on Loktak Lake. It is the last refuge of the Sangai (dancing deer).<br><b>Trap:</b> Bhitarkanika is a saltwater mangrove swamp, not a floating vegetation swamp.<br><br><b>PYQ Reverse-Engineering:</b> 2015 Prelims. Tier-1 ecological anomaly mapping.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "States and Boundaries",
+    "question": "<b>If you travel by road from Kohima to Kottayam, what is the minimum number of States within India through which you can travel, including the origin and the destination?</b>",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 7</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Mental Map Stress Test:</b> Kohima is in Nagaland, and Kottayam is in Kerala.<br>Minimum Route: Nagaland (1) → Assam (2) → West Bengal (3) → Odisha (4) → Andhra Pradesh (5) → Tamil Nadu (6) → Kerala (7).<br><b>The Trap:</b> Candidates often forget the narrow West Bengal \"chicken's neck\" corridor or miscalculate the Andhra/Tamil Nadu coastal transition.<br><br><b>PYQ Reverse-Engineering:</b> 2017 Prelims. A brutal test of spatial reasoning and political map visualization.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Hills and Regions Mapping",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Hills : Region</b><br>1. Cardamom Hills : Coromandel Coast<br>2. Kaimur Hills : Konkan Coast<br>3. Mahadeo Hills : Central India<br>4. Mikir Hills : North-East India<br><br><b>Which of the above pairs are correctly matched?</b>",
+    "options": [
+      "1 and 2",
+      "2 and 3",
+      "3 and 4",
+      "2 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 3 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is incorrect (Coast Swap):</b> Cardamom Hills are in Kerala, aligning with the <b>Malabar Coast</b>, not the eastern Coromandel Coast.<br><b>Pair 2 is incorrect (Coast Swap):</b> Kaimur Hills are the eastern portion of the Vindhya Range in Central India/MP, nowhere near the western Konkan Coast.<br><b>Pair 3 is correct:</b> Mahadeo Hills are part of the Satpura Range in Central India (MP).<br><b>Pair 4 is correct:</b> Mikir Hills are located south of the Kaziranga NP in Assam (North-East).<br><br><b>PYQ Reverse-Engineering:</b> 2014 Prelims. Cross-matching relief features with coastal nomenclature.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Wetlands Mapping",
+    "question": "<b>Consider the following pairs :</b><br><br><b>Wetland/Lake — Location</b><br>1. Hokera Wetland — Punjab<br>2. Renuka Wetland — Himachal Pradesh<br>3. Rudrasagar Lake — Tripura<br>4. Sasthamkotta Lake — Tamil Nadu<br><br><b>How many pairs given above are correctly matched ?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two pairs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is incorrect:</b> Hokera (Hokersar) wetland is located in the Kashmir Valley (J&K), not Punjab.<br><b>Pair 2 is correct:</b> Renuka Wetland is the smallest Ramsar site in India, located in Himachal Pradesh.<br><b>Pair 3 is correct:</b> Rudrasagar Lake is in Tripura.<br><b>Pair 4 is incorrect (Border Swap Trap):</b> Sasthamkotta Lake is the largest freshwater lake in <b>Kerala</b>, not Tamil Nadu.<br>Since only pairs 2 and 3 are correct, the answer is \"Only two pairs\".<br><br><b>PYQ Reverse-Engineering:</b> 2022 Prelims. Ramsar site mapping.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Coordinates & Alignment Mapping",
+    "question": "<b>Among the following cities, which one lies on a longitude closest to that of Delhi?</b>",
+    "options": [
+      "Bengaluru",
+      "Hyderabad",
+      "Nagpur",
+      "Pune"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Bengaluru</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Vertical Alignment Trap:</b> The examiner tests your mental map's precision on longitudinal alignment rather than just knowing state locations. Delhi is located at approximately 77.1°E longitude. If you drop a straight vertical line down the map of India, it passes almost directly through Bengaluru (77.5°E).<br><br><b>PYQ Reverse-Engineering:</b> 2018 Prelims. This spawned a whole new trend of 'alignment' questions. For 2026, calibrate your mental map for cities lying on the same latitude as well (e.g., Bhopal-Ranchi).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Coastal Mapping & Tidal Anomalies",
+    "question": "<b>At one of the places in India, if you stand on the seashore and watch the sea, you will find that the sea water recedes from the shore line a few kilometers and comes back to the shore, twice a day, and you can actually walk on the sea floor when the water recedes. This unique phenomenon is seen at:</b>",
+    "options": [
+      "Bhavnagar",
+      "Bheemunipatnam",
+      "Chandipur",
+      "Nagapattinam"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Chandipur</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Phenomenon Trap:</b> The examiner expects you to map unique geographical/oceanographic phenomena to specific locations. Chandipur beach (Odisha) is famous as the \"Hide and Seek Beach\" because its shallow seabed causes the water to recede up to 5 kilometers during low tide.<br><br><b>PYQ Reverse-Engineering:</b> 2017 Prelims. Highlights the examiner's interest in extreme geomorphological anomalies on India's coastline.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Island & Strategic Geography",
+    "question": "<b>Which of the following is geographically closest to Great Nicobar?</b>",
+    "options": [
+      "Sumatra",
+      "Borneo",
+      "Java",
+      "Sri Lanka"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Sumatra</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Strategic Proximity Trap:</b> Candidates often instinctively choose Sri Lanka because it is India's most famous maritime neighbor. However, the southernmost point of India (Indira Point in Great Nicobar) is only about 145 kilometers from the Indonesian island of <b>Sumatra</b>, across the Six Degree Channel.<br><br><b>PYQ Reverse-Engineering:</b> 2017 Prelims. Tests India's extended maritime neighborhood mapping.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Infrastructure Mapping - Water Reservoirs",
+    "question": "<b>What is common to the places known as Aliyar, Isapur and Kangsabati?</b>",
+    "options": [
+      "Recently discovered uranium deposits",
+      "Tropical rain forests",
+      "Underground cave systems",
+      "Water reservoirs"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Water reservoirs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Obscure Nomenclature Trap:</b> The examiner intentionally selects obscure minor dams instead of famous ones (like Bhakra or Hirakud). Aliyar is in Tamil Nadu, Isapur is in Maharashtra, and Kangsabati is in West Bengal. They are all major water reservoirs.<br><br><b>PYQ Reverse-Engineering:</b> 2019 Prelims. To clear 2026, you must map Tier-2 and Tier-3 irrigation and reservoir projects.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Drainage System Mapping - Cities on Rivers",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Famous place — River</b><br>1. Pandharpur — Chandrabhaga<br>2. Tiruchirappalli — Cauvery<br>3. Hampi — Malaprabha<br><br><b>Which of the pairs given above are correctly matched?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is correct:</b> The Varkari pilgrimage site Pandharpur (Maharashtra) is located on the banks of the Bhima river, which is locally known there as Chandrabhaga.<br><b>Pair 2 is correct:</b> Tiruchirappalli is famously located on the banks of the Cauvery.<br><b>Pair 3 is incorrect (The Historical Basin Trap):</b> The ruins of Hampi (Vijayanagara) are located on the banks of the <b>Tungabhadra</b> river, not the Malaprabha.<br><br><b>PYQ Reverse-Engineering:</b> 2019 Prelims. Fuses medieval history capitals with physical hydrology.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "States and Boundaries",
+    "question": "<b>Which one of the following pairs of States of India indicates the easternmost and westernmost State?</b>",
+    "options": [
+      "Assam and Rajasthan",
+      "Arunachal Pradesh and Rajasthan",
+      "Assam and Gujarat",
+      "Arunachal Pradesh and Gujarat"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Arunachal Pradesh and Gujarat</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>This is a test of absolute longitudinal extremities. The easternmost point of India is Kibithu in <b>Arunachal Pradesh</b> (approx 97°25'E), and the westernmost point is Ghuar Mota in <b>Gujarat</b> (approx 68°7'E).<br><b>The Decoy Trap:</b> Rajasthan and Assam are wide states, but they do not touch the absolute terminal coordinates of the subcontinent.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Protected Areas - Geography & Hills",
+    "question": "<b>Consider the following pairs :</b><br><br>1. Dampa Tiger Reserve : Mizoram<br>2. Gumti Wildlife Sanctuary : Sikkim<br>3. Saramati Peak : Nagaland<br><br><b>Which of the above pairs is/are correctly matched?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is correct:</b> Dampa is the largest wildlife sanctuary in Mizoram.<br><b>Pair 2 is incorrect (The NE State Swap Trap):</b> Gumti Wildlife Sanctuary is located in <b>Tripura</b>, not Sikkim. The examiner routinely swaps locations between the 8 Northeast states because candidates often group them together loosely.<br><b>Pair 3 is correct:</b> Saramati is the highest peak in Nagaland.<br><br><b>PYQ Reverse-Engineering:</b> 2014 Prelims. Strict micro-mapping of Northeast India is non-negotiable.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Protected Areas - River Networks",
+    "question": "<b>Consider the following pairs :</b><br><br><b>National Park — River flowing through the Park</b><br>1. Corbett National Park : Ganga<br>2. Kaziranga National Park : Manas<br>3. Silent Valley National Park : Kaveri<br><br><b>Which of the above pairs is/are correctly matched?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "None"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: None</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The examiner employs the \"Dominant River\" trap, assigning the largest river in the region to the park instead of the actual local river.<br><b>Pair 1 is incorrect:</b> The Ramganga and Kosi rivers flow through Jim Corbett, not the main Ganga.<br><b>Pair 2 is incorrect:</b> Kaziranga is bordered by the Brahmaputra, Diphlu, and Mora Dhansiri. The Manas river flows through Manas NP.<br><b>Pair 3 is incorrect:</b> The Kunthipuzha river (a tributary of the Bharathappuzha) flows through Silent Valley, not the Kaveri.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Protected Areas - Hills and Ranges",
+    "question": "<b>Consider the following pairs :</b><br><br>1. Nokrek Biosphere Reserve : Garo Hills<br>2. Logtak (Loktak) Lake : Barail Range<br>3. Namdapha National Park : Dafla Hills<br><br><b>Which of the above pairs is/are correctly matched?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is correct:</b> Nokrek is the highest peak of the Garo Hills in Meghalaya.<br><b>Pair 2 is incorrect:</b> Loktak Lake is situated in the central plain valley of Manipur, totally separate from the Barail Range (which is mostly in Assam).<br><b>Pair 3 is incorrect:</b> Namdapha NP is located in the Changlang district of Arunachal Pradesh near the Patkai / Mishmi Hills, far east of the Dafla Hills.<br><br><b>PYQ Reverse-Engineering:</b> 2013 Prelims. The intersection of Physical Geography (Relief) and Environment (Protected Areas).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Tiger Reserves Mapping",
+    "question": "<b>Consider the following protected areas;</b><br><br>1. Bandipur<br>2. Bhitarkanika<br>3. Manas<br>4. Sunderbans<br><br><b>Which of the above are declared Tiger Reserves?</b>",
+    "options": [
+      "1 and 2 Only",
+      "1, 3 and 4 Only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 3 and 4 Only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Anomaly Identification Trap:</b> Bhitarkanika (Odisha) is famously a sanctuary for the Saltwater Crocodile and Olive Ridley Turtles in its mangrove ecosystem. It is <b>not</b> a designated Tiger Reserve. Bandipur (Karnataka), Manas (Assam), and Sunderbans (West Bengal) are Tier-1 Tiger Reserves.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Estuaries and Protected Areas",
+    "question": "<b>Two important rivers- one with its source in Jharkhand (and known by a different name in Odisha), and another, with its source in Odisha- merge at a place only a short distance from the coast of Bay of Bengal before flowing into the sea. This is an important site of wildlife and biodiversity and a protected area. Which one of the following could be this?</b>",
+    "options": [
+      "Bhitarkanika",
+      "Chandipur-on-sea",
+      "Gopalpur-on-sea",
+      "Simlipal"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Bhitarkanika</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Paragraph-Description Trap:</b> The examiner masks the rivers (Brahmani, originating as South Koel in Jharkhand, and Baitarani in Odisha). They merge to form a massive estuarine mangrove ecosystem right before the Bay of Bengal, which constitutes the <b>Bhitarkanika National Park</b>.<br><br><b>PYQ Reverse-Engineering:</b> 2011 Prelims. Forces candidates to synthesize drainage basin geography with coastal protected areas.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Lakes Mapping",
+    "question": "<b>Which one of the following is an ‘artificial lake’?</b>",
+    "options": [
+      "Kodaikanal (Tamil Nadu)",
+      "Kolleru (Andhra Pradesh)",
+      "Nainital (Uttarakhand)",
+      "Renuka (Himachal Pradesh)"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Kodaikanal (Tamil Nadu)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Natural vs. Anthropogenic Trap:</b> Kolleru is a natural freshwater lake between Krishna-Godavari. Nainital is a natural tectonic/glacial lake. Renuka is a natural wetland. <b>Kodaikanal Lake</b> is a star-shaped, man-made (artificial) lake created in 1863 by Sir Vere Henry Levinge.<br><br><b>PYQ Reverse-Engineering:</b> 2018 Prelims. Expect to be tested on natural vs. artificial wetlands/reservoirs (like Gobind Sagar vs. Wular).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Species Habitat - Avian",
+    "question": "<b>In which of the following regions of India are you most likely to come across the ‘Great Indian Hornbill’ in its natural habitat?</b>",
+    "options": [
+      "Sand deserts of northwest India",
+      "Higher Himalayas of Jammu and Kashmir",
+      "Salt marshes of western Gujarat",
+      "Western Ghats"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Western Ghats</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The Great Indian Hornbill requires vast tracts of tall, primary tropical evergreen forests to nest and find fruit (figs). Therefore, the <b>Western Ghats</b> and the Northeast forests are its primary strongholds. It cannot survive in deserts, salt marshes, or the freezing high Himalayas.<br><br><b>PYQ Reverse-Engineering:</b> 2016 Prelims. Correlating species biology to macro-biomes.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Species Habitat - Endemic Mammals",
+    "question": "<b>In which of the following states is lion-tailed macaque found in its natural habitat?</b><br><br>1. Tamil Nadu<br>2. Kerala<br>3. Karnataka<br>4. Andhra Pradesh<br><br><b>Select the correct answer using the codes given below.</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "2 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Strict Endemism Trap:</b> The Lion-tailed Macaque is strictly endemic to the tropical rainforests (sholas) of the <b>Western Ghats</b>. The Western Ghats span Karnataka, Kerala, and Tamil Nadu. They do <i>not</i> extend into Andhra Pradesh (which is covered by the Eastern Ghats).<br><br><b>PYQ Reverse-Engineering:</b> 2013 Prelims. Use physical boundaries (Western Ghats) to eliminate political states (Andhra Pradesh).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Species and Regional Networks",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Wildlife : Naturally found in</b><br>1. Blue-finned Mahseer : Cauvery River<br>2. Irrawaddy Dolphin : Chambal River<br>3. Rusty-spotted Cat : Eastern Ghats<br><br><b>Which of the pairs given above is/are correctly matched?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is correct:</b> The Blue-finned Mahseer (the \"Tiger of the Cauvery\") is endemic to the Cauvery river basin.<br><b>Pair 2 is incorrect (The River Swap Trap):</b> Irrawaddy Dolphins are coastal/estuarine dolphins famously found in <b>Chilika Lake (Odisha)</b>. The Chambal River is famous for the Gangetic Dolphin and Gharial, not the Irrawaddy Dolphin.<br><b>Pair 3 is correct:</b> The Rusty-spotted cat (one of the smallest wild cats) is found in the Eastern Ghats and Sri Lanka.<br><br><b>PYQ Reverse-Engineering:</b> 2019 Prelims. Strict river-to-aquatic-species mapping.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Island Geomorphology",
+    "question": "<b>Consider the following statements:</b><br><br>1. The Barren Island volcano is an active volcano located in the Indian territory.<br>2. Barren Island lies about 140 km east of Great Nicobar.<br>3. The last time the Barren Island volcano erupted was in 1991 and it has remained inactive since then.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 and 3",
+      "3 only",
+      "1 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> It is the only confirmed active volcano in India (and South Asia).<br><b>Statement 2 is incorrect (The Direction/Distance Trap):</b> Barren Island is located in the Andaman Sea, about 140 km northeast of <b>Port Blair</b> (Andaman Islands), NOT Great Nicobar (which is much further south).<br><b>Statement 3 is incorrect (The Timeline Trap):</b> It erupted in 1991, but it did not remain inactive; it has erupted multiple times since, including in 2017 and 2018.<br><br><b>PYQ Reverse-Engineering:</b> 2018 Prelims. Do not trust specific distances/directions provided by the examiner without double-checking the anchor point.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Wildlife Sanctuaries - Translocation",
+    "question": "<b>Recently there was a proposal to translocate some of the lions from their natural habitat in Gujarat to which one of the following sites?</b>",
+    "options": [
+      "Corbett National Park",
+      "Kuno Palpur Wildlife Sanctuary",
+      "Mudumalai Wildlife Sanctuary",
+      "Sariska National Park"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Kuno Palpur Wildlife Sanctuary</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>To prevent the Asiatic Lion population (restricted entirely to Gir, Gujarat) from being wiped out by a single epidemic or forest fire, the Supreme Court ordered their translocation to a second home. <b>Kuno Palpur Wildlife Sanctuary in Madhya Pradesh</b> was specifically selected and prepared for this purpose.<br><br><b>PYQ Reverse-Engineering:</b> 2017 Prelims. (Note for 2026: Kuno is now famously the site for the African Cheetah introduction project as well).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Species Habitat",
+    "question": "<b>If you want to see gharials in their natural habitat, which one of the following is the best place to visit?</b>",
+    "options": [
+      "Bhitarkanika Mangroves",
+      "Chambal River",
+      "Pulicat Lake",
+      "Deepor Beel"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Chambal River</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Crocodile Sub-species Trap:</b> The examiner lists multiple famous wetlands to confuse you. <br>- Bhitarkanika is famous for the <b>Saltwater Crocodile</b>.<br>- The National Chambal Sanctuary is the absolute primary natural stronghold of the critically endangered <b>Gharial</b>.<br><br><b>PYQ Reverse-Engineering:</b> 2017 Prelims. You must map different species of crocodiles to their exact river/coastal system.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Indian Geography",
+    "topic": "Transport Network Mapping",
+    "question": "<b>Consider the following pairs:</b><br><br><b>National Highway — Cities connected</b><br>1. NH 4 : Chennai and Hyderabad<br>2. NH 6 : Mumbai and Kolkata<br>3. NH 15 : Ahmedabad and Jodhpur<br><br><b>Which of the above pairs is/are correctly matched?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3",
+      "None"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: None</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Absolute Decoy Trap:</b><br>- Old NH 4 connected Mumbai to Chennai (via Pune/Bengaluru), not Hyderabad.<br>- Old NH 6 connected Surat to Kolkata (via Raipur), not Mumbai.<br>- Old NH 15 connected Pathankot to Samakhiali (Gujarat), passing through Jodhpur, but does not connect it directly to Ahmedabad as its primary terminals.<br><i>Note for 2026: Highway numbers have been entirely rationalized (Even = N-S; Odd = E-W). The examiner will test the new nomenclature logic.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Coral Reefs Mapping",
+    "question": "<b>Which of the following have coral reefs?</b><br><br>1. Andaman and Nicobar Islands<br>2. Gulf of Kachchh<br>3. Gulf of Mannar<br>4. Sunderbans<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Turbidity/Salinity Trap:</b> Coral reefs require clear, sunlit, warm, and saline water to survive. The <b>Sunderbans</b> (option 4) is a massive river delta that discharges enormous amounts of freshwater and highly turbid (muddy) silt into the ocean. These conditions are lethal to coral polyps. Eliminating Sunderbans leaves option A.<br><br><b>PYQ Reverse-Engineering:</b> 2014 Prelims. Applies ecological survival conditions to physical map locations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Biomes & Forest Types",
+    "question": "<b>Which one of the following regions of India has a combination of mangrove forest, evergreen forest, and deciduous forest?</b>",
+    "options": [
+      "North Coastal Andhra Pradesh",
+      "South-West Bengal",
+      "Southern Saurashtra",
+      "Andaman and Nicobar Islands"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Andaman and Nicobar Islands</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The Andaman and Nicobar Islands feature an incredible diversity of coastal and inland biomes due to their equatorial location, heavy rainfall, and island geomorphology. They boast extensive Mangroves on the coasts, Tropical Evergreen forests in the wetter interior, and Moist Deciduous forests where rainfall is slightly lower.<br><b>Trap Logic:</b> Bengal has mangroves (Sunderbans) but lacks true tropical evergreen. Saurashtra is too dry for evergreen. Andhra lacks extensive evergreen cover.<br><br><b>PYQ Reverse-Engineering:</b> 2015 Prelims. Tier-1 biome overlap mapping.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment Mapping",
+    "topic": "Forest Types Mapping",
+    "question": "<b>Consider the following States:</b><br><br>1. Arunachal Pradesh<br>2. Himachal Pradesh<br>3. Mizoram<br><br><b>In which of the above States do ‘Tropical Wet Evergreen Forests’ occur?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Tropical Wet Evergreen Forests require high rainfall (>200 cm) and warm temperatures throughout the year. They are prominently found in the Western Ghats, Andaman & Nicobar, and the North-Eastern states (Arunachal Pradesh, Mizoram, Assam, Meghalaya).<br><b>The Altitude/Latitude Trap:</b> Himachal Pradesh is located at a high altitude and high latitude. It hosts Montane, Temperate, and Alpine forests, but absolutely no Tropical Wet Evergreen forests.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
