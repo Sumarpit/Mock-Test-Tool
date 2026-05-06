@@ -1,0 +1,602 @@
+[
+  {
+    "section": "Geography",
+    "topic": "Indus River System",
+    "question": "<b>Consider the following statements regarding the tributaries of the Indus River:</b><br><br>1. The Shyok River originates in the Depsang Plains and is a left-bank tributary of the Indus.<br>2. The Zaskar River flows between the Zaskar Range and the Ladakh Range before meeting the Indus.<br>3. The Gilgit River meets the Indus very near where the latter bends towards the southwest.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><ul><li><b>Statement 1 is incorrect:</b> The Shyok River is a <b>right bank</b> tributary of the Indus, not left.</li><li><b>Statement 2 is correct:</b> The Zaskar is a left bank tributary flowing between the Zaskar (S) and Ladakh (N) ranges.</li><li><b>Statement 3 is correct:</b> Gilgit is a right bank tributary meeting the Indus near its southwest bend.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Directional Swap:</b> Swapping right-bank and left-bank tributaries is a classic UPSC geographical trap.</li></ul><br><b>PYQ Alignment:</b> Tributary architecture and spatial sequencing of the Himalayan river systems (e.g., 2021 PYQ on Indus system).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Himalayan River Origins",
+    "question": "<b>Consider the following statements regarding the Chenab and Satluj rivers:</b><br><br>1. The Chenab originates near the Bara Lacha Pass as two headstreams, Chandra and Bhanga.<br>2. The united stream of Chenab flows through the Pangi Valley parallel to the Pir Panjal Range.<br>3. The Satluj River originates from the Rakas Lake in Tibet and enters India through the Rohtang Pass.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><ul><li><b>Statements 1 and 2 are correct:</b> The Chenab is formed by Chandra and Bhanga near Bara Lacha Pass and flows through the Pangi Valley.</li><li><b>Statement 3 is incorrect:</b> The Satluj enters India through the <b>Shipki La</b> pass, not Rohtang Pass.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Glacial/Pass Misdirection:</b> Swapping the entry passes of major trans-Himalayan rivers to test exact map memory.</li></ul><br><b>PYQ Alignment:</b> Origin and routing mapping. Matches 2019 PYQ pairing glaciers and rivers.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Jhelum River Hydrology",
+    "question": "<b>Consider the following statements regarding the Jhelum River:</b><br><br>1. It rises from Verinag, located at the foothill of the Pir Panjal in southeast Kashmir.<br>2. It is the main river of the Kashmir Valley and flows through the Wular Lake.<br>3. Kishanganga and Lidar are its major right-bank and left-bank tributaries respectively.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><ul><li><b>All statements are correct:</b> Jhelum rises at Verinag, flows through Wular Lake, and its tributaries include Kishanganga, Lidar, Sind, and Pohru.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>River-Lake Linkage:</b> Candidates often confuse which exact river feeds major lakes. Wular is explicitly linked to Jhelum.</li></ul><br><b>PYQ Alignment:</b> Hydrological linkages of rivers and lakes (e.g., 2023 PYQ on Jhelum/Wular).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Rivers and the Tropic of Cancer",
+    "question": "<b>Which of the following rivers cross the Tropic of Cancer?</b><br><br>1. Dhaleshwari<br>2. Kali Sindh<br>3. Parbati<br>4. Rihand<br>5. North Koel<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 4 only",
+      "2, 3 and 5 only",
+      "1, 3, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3, 4 and 5</b><br><br><ul><li><b>All rivers are correct:</b> Dhaleshwari (Mizoram), Kali Sindh (MP/Rajasthan), Parbati (MP/Rajasthan), Rihand (Chhattisgarh/UP), and North Koel (Jharkhand) all cross the Tropic of Cancer.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Latitudinal Overlay:</b> Testing spatial awareness of minor tributaries against major global latitudes.</li></ul><br><b>PYQ Alignment:</b> Tests rigorous regional map-reading and geographical coordinates.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Rivers and Protected Areas",
+    "question": "<b>Consider the following pairs:</b><br><br><b>River : Protected Area</b><br>1. Kali-Sarda : Doodhwa National Park<br>2. Burhi Gandak : Valmiki National Park<br>3. Dhansiri : Kaziranga National Park<br>4. Kabani : Wayanad Sanctuary<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: All four pairs</b><br><br><ul><li><b>All pairs are correct:</b> Kali-Sarda passes through Doodhwa. Burhi Gandak flows through Valmiki. Dhansiri flows east of Rengma/Mikir hills where Kaziranga is situated. Kabani rises near Wayanad Sanctuary.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Ecosystem Linkages:</b> Conflating National Parks with adjacent but incorrect river systems.</li></ul><br><b>PYQ Alignment:</b> Matches UPSC's standard template of linking protected areas with drainage systems (e.g., 2013 PYQ Corbett/Ganga).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Brahmaputra Tributaries",
+    "question": "<b>Which of the following are the right-bank tributaries of the Brahmaputra River?</b><br><br>1. Subansiri<br>2. Kameng<br>3. Dhansiri<br>4. Manas<br>5. Lohit<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 4 only",
+      "1, 3 and 5 only",
+      "2, 4 and 5 only",
+      "1, 2, 3 and 4 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 4 only</b><br><br><ul><li><b>Right Bank (1, 2, 4):</b> Subansiri, Kameng, and Manas join the Brahmaputra from the north (right bank).</li><li><b>Left Bank (3, 5):</b> Dhansiri and Lohit are left-bank tributaries.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Bank Reversal:</b> Mixing left and right bank tributaries of complex river systems like the Brahmaputra.</li></ul><br><b>PYQ Alignment:</b> Direct test of tributary architecture (e.g., 2016 PYQ on Brahmaputra tributaries).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Eastern Rivers",
+    "question": "<b>Consider the following statements regarding the river systems in North-East India:</b><br><br>1. The Dibang, Dihang, and Lohit rivers form a trijunction in the northeast corner of Assam.<br>2. The Barak River rises from the Barail Range near the trijunction of Assam, Manipur, and Nagaland.<br>3. The Tipaimukh Dam is constructed on the Subansiri river.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><ul><li><b>Statements 1 and 2 are correct:</b> Dibang, Dihang, and Lohit form a trijunction in Assam. Barak rises from the Barail Range.</li><li><b>Statement 3 is incorrect:</b> The Tipaimukh Dam is built on the <b>Barak River</b> in Manipur, not Subansiri.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Infrastructure Misplacement:</b> Assigning major dams to the wrong regional river.</li></ul><br><b>PYQ Alignment:</b> Hydrological infrastructure overlay.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Inland Drainage Systems",
+    "question": "<b>Consider the following rivers:</b><br><br>1. Banas<br>2. Luni<br>3. Ghagghar<br>4. Sabarmati<br><br><b>Which of the rivers given above form an inland drainage system and do not reach the sea?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><ul><li><b>Inland Drainage (1, 2, 3):</b> Banas disappears in the Little Rann. Luni disappears in the Rann of Kachchh. Ghagghar disappears in the Thar Desert.</li><li><b>Reaches Sea (4):</b> Sabarmati flows into the Gulf of Khambhat.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Regional Conflation:</b> Sabarmati flows through similar arid zones but successfully empties into the Arabian Sea.</li></ul><br><b>PYQ Alignment:</b> Categorization of river outfalls.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Hoogly Tributaries",
+    "question": "<b>Which of the following is/are tributaries of the Hoogly River?</b><br><br>1. Ajay<br>2. Damodar<br>3. Rupnarayan<br>4. Haldi<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br><ul><li><b>All are correct:</b> Ajay is the northernmost tributary. Damodar, Rupnarayan, and Haldi (southernmost tributary) all join the Hoogly River.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Obscure Tributaries:</b> While Damodar is famous, Ajay and Haldi test deeper regional mapping.</li></ul><br><b>PYQ Alignment:</b> Deltaic and lower-course tributary identification.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Chambal River System",
+    "question": "<b>Consider the following statements regarding the Chambal River and its tributaries:</b><br><br>1. The Chambal River rises from the Janapao Hills of the Vindhyas.<br>2. Banas is the most important right-bank tributary of the Chambal.<br>3. Kali Sindh and Parbati cross the Tropic of Cancer from south to north before joining the Chambal.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><ul><li><b>Statements 1 and 3 are correct:</b> Chambal rises from Janapao Hills. Kali Sindh and Parbati both cross the Tropic of Cancer.</li><li><b>Statement 2 is incorrect:</b> Banas is the most important <b>left-bank</b> tributary of the Chambal, not right-bank.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Directional Swap:</b> Swapping the bank entry of major tributaries (Banas flows from Aravalis in the NW towards Chambal in the SE, entering on the left).</li></ul><br><b>PYQ Alignment:</b> Central Indian drainage geometry.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Son River System",
+    "question": "<b>Which of the following are tributaries of the Son River?</b><br><br>1. Johilla<br>2. Gopad<br>3. Rihand<br>4. North Koel<br>5. Tons<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "3, 4 and 5 only",
+      "1, 2, 3 and 4 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4 only</b><br><br><ul><li><b>Tributaries of Son (1, 2, 3, 4):</b> Johilla, Gopad, Rihand, Kanhar, and North Koel.</li><li><b>Not a tributary (5):</b> Tons is a direct tributary of the Ganga, located between the Yamuna and the Son.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Parallel River Trap:</b> Tons flows parallel to Son but joins Ganga directly, tricking candidates into grouping it as a tributary.</li></ul><br><b>PYQ Alignment:</b> Differentiating direct basin contributors from sub-basin tributaries.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Godavari Tributaries",
+    "question": "<b>Consider the following tributaries of the Godavari River:</b><br><br>1. Pranhita<br>2. Indravati<br>3. Sileru<br>4. Manjra<br><br><b>Which of the above is/are right-bank tributaries of the Godavari?</b>",
+    "options": [
+      "4 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 4 only</b><br><br><ul><li><b>Right Bank (4):</b> Manjra is the most important right-bank tributary of the Godavari.</li><li><b>Left Bank (1, 2, 3):</b> Pranhita, Indravati, and Sileru are all left-bank tributaries.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Bank Domination:</b> Most major Godavari tributaries enter from the left (North). Manjra is the notable exception entering from the right (South).</li></ul><br><b>PYQ Alignment:</b> Focuses on the exceptions in tributary architecture.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Krishna River System",
+    "question": "<b>Consider the following statements regarding the Krishna River basin:</b><br><br>1. Bhima is the most important left-bank tributary of the Krishna.<br>2. Ghatprabha and Malprabha are right-bank tributaries flowing through Karnataka.<br>3. Muneru is the last important right-bank tributary of the Krishna.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><ul><li><b>Statements 1 and 2 are correct:</b> Bhima is the major left-bank tributary. Ghatprabha and Malprabha are right-bank tributaries in Karnataka.</li><li><b>Statement 3 is incorrect:</b> Muneru is the last important <b>left-bank</b> tributary of the Krishna, not right-bank.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Terminal Tributaries:</b> UPSC frequently tests the first and last tributaries of major peninsular rivers.</li></ul><br><b>PYQ Alignment:</b> Peninsular tributary sequencing.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Cauvery River System",
+    "question": "<b>Match the following tributaries of the Cauvery River with their bank of entry:</b><br><br><b>Tributary</b><br>1. Hemavati<br>2. Kabani<br>3. Shimsa<br>4. Moyar<br><br><b>Bank</b><br>A. Left Bank<br>B. Right Bank<br><br><b>Which of the following represents the correct matching?</b>",
+    "options": [
+      "1-A, 2-B, 3-B, 4-A",
+      "1-A, 2-B, 3-A, 4-B",
+      "1-B, 2-A, 3-B, 4-A",
+      "1-B, 2-A, 3-A, 4-B"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1-A, 2-B, 3-A, 4-B</b><br><br><ul><li><b>Left Bank (A):</b> Hemavati and Shimsa enter from the north (left).</li><li><b>Right Bank (B):</b> Kabani and Moyar enter from the south (right).</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Cauvery Complexity:</b> The Cauvery has an almost equal distribution of major left and right bank tributaries, requiring strict memorization.</li></ul><br><b>PYQ Alignment:</b> Precision mapping of southern river networks.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Western Coastal Rivers",
+    "question": "<b>Consider the following west-flowing rivers of Peninsular India:</b><br><br>1. Kumardhar<br>2. Sharavati<br>3. Kalinadi<br>4. Mandovi<br><br><b>Which of the rivers listed above flow through the state of Karnataka?</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1 and 2 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><ul><li><b>Karnataka Rivers (1, 2, 3):</b> Kumardhar (SW Karnataka), Sharavati (Shimoga), and Kalinadi (northernmost coast of Karnataka).</li><li><b>Goa River (4):</b> Mandovi (Mahadeyi) originates in Karnataka but is the lifeline and primary river of <b>Goa</b>.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Origin vs Primary Flow:</b> Mandovi originates in Belgaum (Karnataka) but is geographically and politically categorized as a Goan river.</li></ul><br><b>PYQ Alignment:</b> State-wise distribution of minor coastal rivers.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Narmada Basin",
+    "question": "<b>Consider the following statements regarding the Narmada River:</b><br><br>1. It rises from the Amarkantak Plateau and flows through a rift valley between the Vindhyas and Satpuras.<br>2. The Dhuandhar and Kapildhara falls are located on this river.<br>3. Chota Tawa is an important right-bank tributary of the Narmada.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><ul><li><b>Statements 1 and 2 are correct:</b> Narmada flows through a rift valley forming the Dhuandhar and Kapildhara falls.</li><li><b>Statement 3 is incorrect:</b> Chota Tawa rises from the Satpura Range (South) and is a <b>left-bank</b> tributary of the Narmada.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Rift Valley Geography:</b> Satpuras are south of Narmada; thus any tributary originating there must enter on the left bank.</li></ul><br><b>PYQ Alignment:</b> Geomorphological features of central Indian rivers.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "State Boundaries (Rivers)",
+    "question": "<b>Which of the following rivers form a natural boundary between two states in India?</b><br><br>1. Pranhita<br>2. Indravati<br>3. Sileru<br>4. Parbati<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br><ul><li><b>All form boundaries:</b> Pranhita (Maharashtra & AP), Indravati (Maharashtra & Chhattisgarh), Sileru (Orissa & AP), and Parbati (Madhya Pradesh & Rajasthan).</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Political Routing:</b> Most aspirants study river origins but ignore the political boundaries they define, which is a favorite UPSC overlay.</li></ul><br><b>PYQ Alignment:</b> Administrative routing of physical features.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Cities on River Banks",
+    "question": "<b>Consider the following pairs:</b><br><br><b>City : River</b><br>1. Ayodhya : Sarju<br>2. Lucknow : Gomati<br>3. Gorakhpur : Rapti<br>4. Cuttack : Mahanadi<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: All four pairs</b><br><br><ul><li><b>All pairs are correct:</b> Ayodhya is on the Sarju. Lucknow is on the Gomati. Gorakhpur is on the Rapti. Cuttack is on the Mahanadi.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Sub-basin cities:</b> Testing cities on tributaries rather than the main trunk rivers (e.g., Ganga).</li></ul><br><b>PYQ Alignment:</b> Socio-cultural overlay mapping (e.g., 2019 PYQ on Pandharpur/Chandrabhaga).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Geomorphology",
+    "question": "<b>Consider the following statements regarding the Subansiri River:</b><br><br>1. It is an important right-bank tributary of the Brahmaputra.<br>2. It physically separates the Abor Hills in the east from the Miri and Dafla Hills.<br>3. Kamla is one of its major tributaries.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><ul><li><b>All statements are correct:</b> Subansiri is a right bank tributary, defines the boundary between the Abor and Miri/Dafla hills, and its main tributary is Kamla.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Hill Intersections:</b> Testing the exact alignment of rivers as they cut through the complex topography of the North-East.</li></ul><br><b>PYQ Alignment:</b> Overlay of drainage systems with mountain ranges.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Himalayan Passes (Uttarakhand)",
+    "question": "<b>Which of the following mountain passes connect the state of Uttarakhand with Tibet?</b><br><br>1. Lipu Lekh<br>2. Mangsha Dhura<br>3. Muling La<br>4. Niti Pass<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br><ul><li><b>All passes are correct:</b> Lipu Lekh (Kailash Mansarovar route), Mangsha Dhura (Kuthi Valley), Muling La (north of Gangotri), and Niti Pass all serve as border gateways between Uttarakhand and Tibet.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Exhaustive Lists:</b> Providing a list where all options are correct often makes candidates second-guess themselves and eliminate one.</li></ul><br><b>PYQ Alignment:</b> Border post mapping and international connectivity.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "North-East Strategic Passes",
+    "question": "<b>Consider the following mountain passes:</b><br><br>1. Diphu Pass<br>2. Chaukan Pass<br>3. Pangsau Pass<br>4. Yonggyap Pass<br><br><b>Which of the passes given above connect Arunachal Pradesh with Myanmar?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><ul><li><b>Arunachal-Myanmar (1, 2, 3):</b> Diphu (tripoint with China), Chaukan, and Pangsau (Patkai Hills) connect Arunachal to Myanmar.</li><li><b>Arunachal-Tibet (4):</b> Yonggyap Pass joins Arunachal Pradesh with the Tibet region (China), not Myanmar.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Border Confusion:</b> Arunachal borders both China and Myanmar; UPSC tests exact knowledge of which pass leads where.</li></ul><br><b>PYQ Alignment:</b> Strategic border chokepoints in the North-East.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Peninsular Mountain Gaps",
+    "question": "<b>Match the following mountain gaps in Peninsular India with the regions they connect:</b><br><br><b>Gap/Pass</b><br>1. Shencottah Gap<br>2. Bhor Ghat<br>3. Thal Ghat<br>4. Pal Ghat<br><br><b>Connecting Regions</b><br>A. Mumbai and Nashik<br>B. Coimbatore and Palakkad<br>C. Madurai and Kottayam<br>D. Mumbai and Pune<br><br><b>Select the correct matching:</b>",
+    "options": [
+      "1-C, 2-D, 3-A, 4-B",
+      "1-B, 2-A, 3-D, 4-C",
+      "1-C, 2-A, 3-D, 4-B",
+      "1-B, 2-D, 3-A, 4-C"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1-C, 2-D, 3-A, 4-B</b><br><br><ul><li><b>Shencottah:</b> Madurai to Kottayam.</li><li><b>Bhor Ghat:</b> Mumbai to Pune.</li><li><b>Thal Ghat:</b> Mumbai to Nashik.</li><li><b>Pal Ghat:</b> Coimbatore to Palakkad.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Bhor vs Thal:</b> Conflating the two primary railway gradients exiting Mumbai.</li></ul><br><b>PYQ Alignment:</b> Infrastructure and transport routing through natural geography.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Central Indian Passes",
+    "question": "<b>Consider the following statements:</b><br><br>1. Asirgarh Pass is located in the Satpura Range and connects the Narmada and Tapti Valleys.<br>2. Goram Ghat is located in the Aravali Range and connects Mewar and Marwar.<br>3. Haldighati Pass is located in the Vindhya Range.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><ul><li><b>Statements 1 and 2 are correct:</b> Asirgarh (Key to the Deccan) is in the Satpuras. Goram Ghat is in the Aravalis.</li><li><b>Statement 3 is incorrect:</b> Haldighati Pass is located in the <b>Aravali Range</b>, not the Vindhyas.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Range Misattribution:</b> Shifting famous historical passes to adjacent but incorrect mountain ranges.</li></ul><br><b>PYQ Alignment:</b> Mapping historical sites to physical geography.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Kashmir & Ladakh Passes",
+    "question": "<b>Which of the following passes is known to connect the Astore Valley of Kashmir with the Deosai Plains of Ladakh?</b>",
+    "options": [
+      "Banihal Pass",
+      "Zoji La",
+      "Burzail Pass",
+      "Pensi La"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Burzail Pass</b><br><br><ul><li><b>Burzail Pass:</b> Specifically joins Astore Valley with Deosai Plains.</li><li><b>Banihal:</b> Banihal with Qazigund.</li><li><b>Zoji La:</b> Srinagar to Kargil/Leh.</li><li><b>Pensi La:</b> Kashmir valley with Kargil.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Valley Specifics:</b> Zoji La and Pensi La are common distractors for any Kashmir-Ladakh connection, requiring exact valley knowledge.</li></ul><br><b>PYQ Alignment:</b> Exact valley-to-valley connectivity.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Western Ghats Biodiversity Passes",
+    "question": "<b>Consider the following passes located in the Western Ghats:</b><br><br>1. Amba Ghat<br>2. Chorla Ghat<br>3. Malshej Ghat<br><br><b>Which of the following ecological features is correctly matched with the respective pass?</b>",
+    "options": [
+      "Amba Ghat : Rare species of wolf snake",
+      "Chorla Ghat : High concentration of flamingos",
+      "Malshej Ghat : Wide variety of birds such as quails, rails, and flamingos",
+      "None of the above"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Malshej Ghat : Wide variety of birds such as quails, rails, and flamingos</b><br><br><ul><li><b>Malshej Ghat:</b> Famous for avian diversity including flamingos.</li><li><b>Chorla Ghat:</b> Famous for the rare wolf snake (Lycodon striatus).</li><li><b>Amba Ghat:</b> Known for paragliding.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Ecological Swapping:</b> Mixing the specific biodiversity markers of adjacent local passes.</li></ul><br><b>PYQ Alignment:</b> Overlaying ecology with physical geomorphology.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Himalayan River Features",
+    "question": "<b>Consider the following statements regarding the Tista River:</b><br><br>1. It is an antecedent river that does large scale cutting during the rainy season.<br>2. Up to 1787, it was a tributary of the Ganga before a devastating flood diverted it eastward to join the Brahmaputra.<br>3. The Rangit river is its largest tributary, forming a boundary between Sikkim and West Bengal.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><ul><li><b>All statements are correct:</b> Tista is an antecedent river, historically shifted from the Ganga to the Brahmaputra basin in 1787, and Rangit is its major tributary defining the Sikkim-WB border.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Historical Hydrology:</b> Testing knowledge of tectonic/flood-induced historical river course alterations.</li></ul><br><b>PYQ Alignment:</b> Deep-dive river basin characteristics.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Peninsular River Bifurcations",
+    "question": "<b>Which of the following rivers bifurcates the Rayalseema region into two almost equal parts and passes through the Velikonda Range?</b>",
+    "options": [
+      "Tungabhadra",
+      "Penneru",
+      "Palar",
+      "Ponnaiyar"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Penneru</b><br><br><ul><li><b>Penneru:</b> Rises in Tumkur (Karnataka), bifurcates Rayalseema, separates Palkonda from Nallamalla, and cuts through Velikonda before reaching Nellore.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Range Intersections:</b> Using highly specific Eastern Ghats hill ranges (Velikonda, Palkonda) to identify the river.</li></ul><br><b>PYQ Alignment:</b> Identifying rivers via descriptive geographic paragraphs.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Waterfalls and Rivers",
+    "question": "<b>Match the following waterfalls with their respective rivers:</b><br><br><b>Waterfall</b><br>1. Dudma Falls<br>2. Gokak Falls<br>3. Dudhasagar Falls<br>4. Jog Falls<br><br><b>River</b><br>A. Mandovi<br>B. Sharavati<br>C. Ghatprabha<br>D. Sileru<br><br><b>Select the correct matching:</b>",
+    "options": [
+      "1-D, 2-C, 3-A, 4-B",
+      "1-C, 2-D, 3-B, 4-A",
+      "1-D, 2-C, 3-B, 4-A",
+      "1-C, 2-D, 3-A, 4-B"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1-D, 2-C, 3-A, 4-B</b><br><br><ul><li><b>Dudma:</b> Sileru (Machhkund).</li><li><b>Gokak:</b> Ghatprabha.</li><li><b>Dudhasagar:</b> Mandovi.</li><li><b>Jog:</b> Sharavati.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Dudma vs Dudhasagar:</b> Phonetically similar waterfalls on entirely different coasts (Orissa/AP vs Goa).</li></ul><br><b>PYQ Alignment:</b> Matches 2024 PYQ on Dhuandhar/Hundru/Gersoppa waterfalls.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Dams and Rivers",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Dam/Reservoir : River</b><br>1. Salal Project : Chenab<br>2. Nathpa Jhakri : Satluj<br>3. Matatila Dam : Betwa<br>4. Ukai Dam : Tapi<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: All four pairs</b><br><br><ul><li><b>All are correct:</b> Salal is on the Chenab. Nathpa Jhakri is on the Satluj. Matatila is on the Betwa. Ukai is on the Tapi.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Volume of Data:</b> Presenting four highly correct but regionally diverse projects to induce doubt.</li></ul><br><b>PYQ Alignment:</b> Infrastructure overlay on hydrology.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Historical Passes",
+    "question": "<b>Consider the following statements regarding historical mountain passes:</b><br><br>1. The Khyber Pass traverses the Spin Ghar mountains and connects the town of Landi Kotal to the Valley of Peshawar.<br>2. The Bolan Pass cuts through the Toba Kakar Range of Balochistan.<br>3. Mehrgarh, an ancient archaeological site, is located near the Khyber Pass.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><ul><li><b>Statements 1 and 2 are correct:</b> Khyber cuts through Spin Ghar. Bolan cuts through Toba Kakar.</li><li><b>Statement 3 is incorrect:</b> Mehrgarh is located near the <b>Bolan Pass</b>, not the Khyber Pass.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Archaeological Misplacement:</b> Linking famous ancient sites to the wrong strategic chokepoint.</li></ul><br><b>PYQ Alignment:</b> Historical geography and border passes.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Southern Coastal Rivers",
+    "question": "<b>Consider the following statements regarding the rivers of Kerala and Tamil Nadu:</b><br><br>1. The Periyar River is the longest river in Kerala and its water is diverted into the Vaigai River.<br>2. The Pambiyar River empties into the Vembanad Lake and is venerated as Dakshin Ganga.<br>3. The Vaigai River drains near the Pamban Channel.<br><br><b>How many of the statements given above are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><ul><li><b>All statements are correct:</b> Periyar (244km) is diverted to Vaigai. Pambiyar (Sabarimala) flows into Vembanad and is called Dakshin Ganga locally. Vaigai drains near Pamban.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Dakshin Ganga Conflation:</b> While Godavari is widely known as Dakshin Ganga, Pambiyar holds this veneration locally in Kerala, testing niche regional knowledge.</li></ul><br><b>PYQ Alignment:</b> Micro-regional hydrology and cultural linkages.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Central Indian Drainage",
+    "question": "<b>Which of the following rivers flow through the Bundelkhand Plateau?</b><br><br>1. Betwa<br>2. Ken<br>3. Parbati<br>4. Sind<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><ul><li><b>Bundelkhand Rivers (1, 2):</b> Both Betwa and Ken explicitly flow through the Bundelkhand Plateau.</li><li><b>Malwa Rivers (3, 4):</b> Parbati flows through the Malwa Plateau. Sind flows between Chambal and Betwa but is not strictly defined by the Bundelkhand core.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Plateau Boundaries:</b> Differentiating adjacent central Indian plateaus (Malwa vs Bundelkhand).</li></ul><br><b>PYQ Alignment:</b> Basin overlay with physiographic divisions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Goa River Systems",
+    "question": "<b>Consider the following statements regarding the river systems of Goa:</b><br><br>1. Zuari is the largest river of Goa and originates within the state.<br>2. Mandovi, also known as Mahadeyi, originates in Karnataka.<br>3. The Cumbahuem Canal links the Zuari and Mandovi rivers.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><ul><li><b>Statements 2 and 3 are correct:</b> Mandovi originates at Bhimgad (Karnataka). They are linked by the Cumbahuem Canal.</li><li><b>Statement 1 is incorrect:</b> Zuari is the largest (34 km), but it originates at Hemad-Barshem in the Western Ghats (Goa boundary), whereas Mandovi brings significant volume from Karnataka. However, the exact trap here is checking if Zuari is indeed the largest. The source confirms Zuari is the largest.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Length vs Basin:</b> Zuari is largest within Goa, while Mandovi brings inter-state waters.</li></ul><br><b>PYQ Alignment:</b> State-specific crucial infrastructure (canals/links).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Himalayan Passes and Glaciers",
+    "question": "<b>Match the following passes with the regions they connect:</b><br><br><b>Pass</b><br>1. Sasser La<br>2. Auden's Col<br>3. Goecha La<br>4. Traill's Pass<br><br><b>Location/Connection</b><br>A. Pindari to Milam valley<br>B. Sikkim<br>C. Nubra & Siachen Glacier<br>D. Uttarakhand<br><br><b>Select the correct matching:</b>",
+    "options": [
+      "1-C, 2-D, 3-B, 4-A",
+      "1-D, 2-C, 3-A, 4-B",
+      "1-C, 2-A, 3-B, 4-D",
+      "1-A, 2-D, 3-B, 4-C"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1-C, 2-D, 3-B, 4-A</b><br><br><ul><li><b>Sasser La:</b> Connects Nubra to Siachen.</li><li><b>Auden's Col:</b> High pass in Uttarakhand.</li><li><b>Goecha La:</b> Sikkim.</li><li><b>Traill's Pass:</b> Pindari to Milam valley (Uttarakhand).</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Glacial Valleys:</b> Connecting highly specific mountaineering passes to their glacial basins.</li></ul><br><b>PYQ Alignment:</b> High-altitude topography.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Confluences",
+    "question": "<b>Which of the following river confluences is incorrectly matched?</b>",
+    "options": [
+      "Bhagirathi and Alaknanda : Devprayag",
+      "Pindar and Alaknanda : Karan Prayag",
+      "Tumar, Arun, and Sun Kosi : Triveni",
+      "Chandra and Bhanga : Rohtang Pass"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Chandra and Bhanga : Rohtang Pass</b><br><br><ul><li><b>Incorrect Match:</b> Chandra and Bhanga unite near <b>Bara Lacha Pass</b>, not Rohtang Pass, to form the Chenab.</li><li><b>Correct Matches:</b> Bhagirathi/Alaknanda at Devprayag. Pindar/Alaknanda at Karan Prayag. Kosi streams at Triveni.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Adjacent Passes:</b> Rohtang and Bara Lacha are close in Himachal, making it a highly effective distractor.</li></ul><br><b>PYQ Alignment:</b> Precision mapping of river origins.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Himalayan Rivers",
+    "question": "<b>Consider the following statements regarding the Kosi River:</b><br><br>1. Arun is the main stream of the Kosi, rising north of Gosainthan.<br>2. It forms the Chokar Gorge in the Mahabharat Range.<br>3. A barrage has been built on it at Hanuman Nagar in Nepal.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><ul><li><b>Statements 1 and 3 are correct:</b> Arun is the main stream. Hanuman Nagar barrage controls it.</li><li><b>Statement 2 is incorrect:</b> The Chokar Gorge is formed by the <b>Bagmati</b> river, not the Kosi.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Gorge Misattribution:</b> Both Bagmati and Kosi flow from Nepal, but specific geological formations must not be swapped.</li></ul><br><b>PYQ Alignment:</b> Trans-boundary river infrastructure and geomorphology.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Ganga Tributaries",
+    "question": "<b>Which of the following tributaries of the Ganga rises in the Garhwal district and joins the Ganga near Kannauj?</b>",
+    "options": [
+      "Gomati",
+      "Ramganga",
+      "Sarju",
+      "Rapti"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Ramganga</b><br><br><ul><li><b>Ramganga:</b> Rises in Garhwal and joins Ganga near Kannauj.</li><li><b>Gomati:</b> Rises in Pilibhit, joins downstream of Sarnath.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>UP Plains Geography:</b> Distinguishing the exact confluence points of parallel-flowing left-bank tributaries.</li></ul><br><b>PYQ Alignment:</b> Exact confluence mapping.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Western Ghats Rivers",
+    "question": "<b>The NH-17 and the Konkan Railway pass over which of the following rivers near Karwar?</b>",
+    "options": [
+      "Sharavati",
+      "Kalinadi",
+      "Zuari",
+      "Ulhas"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Kalinadi</b><br><br><ul><li><b>Kalinadi:</b> The northernmost river of Karnataka's west coast. Karwar is located at its mouth, and both NH-17 and the Konkan Railway cross it.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Infrastructure Overlap:</b> Testing knowledge of major transport arteries crossing specific geographical features.</li></ul><br><b>PYQ Alignment:</b> Integration of physical and economic/transport geography.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Islands",
+    "question": "<b>Consider the following rivers:</b><br><br>1. Subansiri<br>2. Burhi Dibang<br>3. Dikhu<br>4. Dhansiri<br><br><b>Which of the rivers mentioned above join the Brahmaputra specifically in relation to the Majuli Island (either near, upstream, or downstream of it)?</b>",
+    "options": [
+      "1 and 4 only",
+      "2 and 3 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br><ul><li><b>All relate to Majuli:</b> Subansiri joins near Majuli. Burhi Dibang joins before Majuli. Dikhu joins south of Majuli. Dhansiri joins downstream of Majuli.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Spatial Anchors:</b> Using a massive geographical feature (Majuli) as an anchor point to test relative positioning of multiple tributaries.</li></ul><br><b>PYQ Alignment:</b> Spatial sequencing using natural landmarks.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Mahanadi Basin",
+    "question": "<b>Consider the following statements regarding the rivers of Odisha:</b><br><br>1. The Mahanadi River rises from the Sihava Parbat in Chhattisgarh.<br>2. The Brahmani River is formed by the confluence of the Sankh and South Koel.<br>3. The Baitarni River rises from the Garhjat Hills and joins the Mahanadi delta independently without merging with Brahmani.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><ul><li><b>Statements 1 and 2 are correct:</b> Mahanadi rises from Sihava Parbat. Brahmani is formed by Sankh and South Koel.</li><li><b>Statement 3 is incorrect:</b> Baitarni joins the Mahanadi delta <b>along with</b> the Brahmani River, not independently.</li></ul><br><b>Examiner's Trap:</b><br><ul><li><b>Deltaic Mergers:</b> Conflating the independent vs combined outfalls of adjacent deltaic rivers.</li></ul><br><b>PYQ Alignment:</b> Terminal hydrology of eastern coastal plains.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
