@@ -145,6 +145,8 @@
 ,
 {"name": "Parliament PYQs", "filename": "Parliament PYQs.json", "path": "tests/upsc/Parliament PYQs.json"}
 ,
+{"name": "Political Theory & Concepts", "filename": "Political Theory & Concepts.json", "path": "tests/upsc/Political Theory & Concepts.json"}
+,
 {"name": "Polity CoI, citizenship, oci", "filename": "Polity CoI, citizenship, oci.json", "path": "tests/upsc/Polity CoI, citizenship, oci.json"}
 ,
 {"name": "PreGS-2022", "filename": "PreGS-2022.json", "path": "tests/upsc/PreGS-2022.json"}

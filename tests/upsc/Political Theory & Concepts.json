@@ -1,0 +1,317 @@
+[
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>Which one of the following statements best reflects the Chief purpose of the ‘Constitution’ of a country? (2023)</b>",
+    "options": [
+      "It determines the objective for the making of necessary laws.",
+      "It enables the creation of political offices and a government.",
+      "It defines and limits the powers of government.",
+      "It secures social justice, social equality and social security."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: It defines and limits the powers of government.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The ultimate, absolute function of a Constitution in any modern democracy is to prevent tyranny by defining the operational boundaries and limiting the powers of the State (The principle of Limited Government/Constitutionalism).<br><b>The Generic Trap:</b> Options A, B, and D are positive side-effects or components of specific constitutions (like DPSP in India), but they are not the <i>chief theoretical purpose</i> of a Constitution itself.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>In essence, what does ‘Due Process of Law’ mean? (2023)</b>",
+    "options": [
+      "The principle of natural justice",
+      "The procedure established by law",
+      "Fair application of law",
+      "Equality before law"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: The principle of natural justice</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>‘Due process of law’ checks not only whether there is a law to deprive a person of their life and liberty (Procedure Established by Law) but also whether the law made is fair, just, and not arbitrary. It embodies the core philosophical <i>principle of natural justice</i>.<br><b>The Phrase Trap:</b> The Indian Constitution explicitly mentions 'Procedure established by law' (Article 21), but the Supreme Court (Maneka Gandhi case) interpreted it to inherently include 'Due process'.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>We adopted parliamentary democracy based on the British model, but how does our model differ from that model? (2021)</b><br><br>1. As regards legislation, the British Parliament is supreme or sovereign but in India, the power of the Parliament to legislate is limited.<br>2. In India, matters related to the constitutionality of the Amendment of an Act of the Parliament are referred to the Constitution Bench by the Supreme Court.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> Britain has Parliamentary Sovereignty. India has Constitutional Supremacy. The Indian Parliament’s power is limited by written Fundamental Rights, federal distribution of powers, and judicial review.<br><b>Statement 2 is correct:</b> Article 145(3) mandates that any case involving a substantial question of law regarding the interpretation of the Constitution must be decided by a Constitution Bench (minimum 5 judges).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>Which one of the following factors constitutes the best safeguard of liberty in a liberal democracy? (2021)</b>",
+    "options": [
+      "A committed judiciary",
+      "Centralization of powers",
+      "Elected government",
+      "Separation of powers"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Separation of powers</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Concept Trap:</b> A \"committed judiciary\" (committed to the government's ideology) destroys liberty. An \"elected government\" can easily turn into a majoritarian tyranny. The mechanical, absolute safeguard for individual liberty is Montesquieu's doctrine of <b>Separation of Powers</b>—ensuring the legislature, executive, and judiciary act as checks and balances upon each other so no single entity can abuse power.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>Constitutional government means: (2021)</b>",
+    "options": [
+      "a representative government of a nation with a federal structure",
+      "a government whose Head enjoys nominal powers",
+      "a government whose Head enjoys real powers",
+      "a government limited by the terms of the Constitution"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: a government limited by the terms of the Constitution</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>This is a recurrent theme. A constitutional government is strictly synonymous with a <b>limited government</b>. <br><b>Distractor Logic:</b> A country can have a unitary structure (like the UK) and still be a constitutional government. The defining factor is not federalism or the nature of the Head of State, but the limitation of state power.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>Which one of the following best defines the term ‘State’? (2021)</b>",
+    "options": [
+      "A community of persons permanently occupying a definite territory independent of external control and possessing an organized government.",
+      "A politically organized people of a definite territory and possessing an authority to govern them, maintain law and order, protect their natural rights, and safeguard their means of sustenance.",
+      "A number of persons who have been living in a definite territory for a very long time with their own culture, tradition, and government.",
+      "A society permanently living in a definite territory with a central authority, an executive responsible to the central authority, and an independent judiciary."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: A community of persons permanently occupying a definite territory independent of external control and possessing an organized government.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The examiner tests the strict Political Science definition of a \"State\" (the Montevideo Convention framework). A State MUST have four absolute elements: <b>Population, Territory, Government, and Sovereignty</b> (independent of external control). Option A perfectly captures all four parameters.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>A Parliamentary System of Government is one in which (2020)</b>",
+    "options": [
+      "all political parties in the Parliament are represented in the Government",
+      "the Government is responsible to the Parliament and can be removed by it",
+      "the Government is elected by the people and can be removed by them",
+      "the Government is chosen by the Parliament but cannot be removed by it before completion of a fixed term"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: the Government is responsible to the Parliament and can be removed by it</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Bedrock Principle:</b> The singular defining feature of a Parliamentary system (versus a Presidential system) is the fusion of powers where the Executive is drawn from the Legislature and is <b>collectively responsible</b> to it (Article 75 in India). The legislature can remove the government via a No-Confidence Motion.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>A constitutional government by definition is a (2020)</b>",
+    "options": [
+      "government by legislature",
+      "popular government",
+      "multi-party government",
+      "limited government"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: limited government</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The examiner repeats this core theme almost every alternate year (see 2021 PYQ). Constitutionalism equals limitation of absolute power to protect individual liberties. It prevents the state from acting arbitrarily.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>In the context of India, which one of the following is the characteristic appropriate for bureaucracy? (2020)</b>",
+    "options": [
+      "An agency for widening the scope of parliamentary democracy",
+      "An agency for strengthening the structure of federalism",
+      "An agency for facilitating political stability and economic growth",
+      "An agency for the implementation of public policy"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: An agency for the implementation of public policy</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>While bureaucracy assists in stability and growth, its strict theoretical definition and functional mandate is the execution and <b>implementation of public policy</b> framed by the elected political executive.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>In the context of polity, which one of the following would you accept as the most appropriate definition of liberty? (2019)</b>",
+    "options": [
+      "Protection against the tyranny of political rulers",
+      "Absence of restraint",
+      "Opportunity to do whatever one likes",
+      "Opportunity to develop oneself fully."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Opportunity to develop oneself fully.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Philosophical Trap:</b> The examiner baits candidates with the classical negative definition of liberty (\"Absence of restraint\"). However, in modern democratic polity, liberty is viewed positively—not just as being left alone, but as providing the conditions and <b>opportunity to develop oneself fully</b> (positive liberty).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>In the context of any country, which one of the following would be considered as part of its social capital? (2019)</b>",
+    "options": [
+      "The proportion of literates in the population",
+      "The stock of its buildings, other infrastructure and machines",
+      "The size of population in the working age group",
+      "The level of mutual trust and harmony in the society"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: The level of mutual trust and harmony in the society</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Terminology Swap:</b><br>- Options A and C define <i>Human Capital</i>.<br>- Option B defines <i>Physical/Economic Capital</i>.<br>- <i>Social Capital</i> refers strictly to the networks, shared norms, values, and <b>mutual trust</b> that facilitate cooperation within or among groups.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>Which of the following are regarded as the main features of the “Rule of Law” ?<br><br>1. Limitation of powers<br>2. Equality before law<br>3. People’s responsibility to the Government<br>4. Liberty and civil rights<br><br>Select the correct answer using the code given below : (2018)</b>",
+    "options": [
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 2 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>A.V. Dicey’s concept of the Rule of Law includes three core pillars: Absence of arbitrary power (Limitation of powers), Equality before the law, and Primacy of the rights of the individual (Liberty and civil rights).<br><b>The Reversal Trap:</b> Statement 3 states \"People's responsibility to the Government\". Rule of Law enforces the <b>Government's</b> responsibility/accountability to the people and the law, not the other way around.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>Which one of the following reflects the most appropriate relationship between law and liberty? (2018)</b>",
+    "options": [
+      "If there are more laws, there is less liberty.",
+      "If there are no laws, there is no liberty.",
+      "If there is liberty laws have to be made by the people.",
+      "If laws are changed too often, liberty is in danger."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: If there are no laws, there is no liberty.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>This tests John Locke’s famous philosophical paradigm: \"Where there is no law, there is no freedom.\" Without laws to protect rights, individuals are subject to the arbitrary will and force of others. Law is the protective perimeter of liberty.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>One of the implications of equality in society is the absence of (2017)</b>",
+    "options": [
+      "Privileges",
+      "Restraints",
+      "Competition",
+      "Ideology"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Privileges</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Equality inherently means the <b>absence of special privileges</b> for any particular section of society (e.g., Article 18 abolishing titles). Absence of restraints is related to Liberty. Competition and Ideology exist irrespective of equality.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>The main advantage of the parliamentary form of government is that (2017)</b>",
+    "options": [
+      "the executive and legislature work independently.",
+      "it provides continuity of policy and is more efficient.",
+      "the executive remains responsible to the legislature.",
+      "the head of the government cannot be changed without election."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: the executive remains responsible to the legislature.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Another iteration of the core Parliamentary vs. Presidential concept. The Presidential system ensures independent working of organs and continuity (fixed term), but the Parliamentary system sacrifices some stability to ensure daily <b>accountability</b> of the Executive to the Legislature.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government : (2017)</b>",
+    "options": [
+      "An arrangement for minimizing the criticism against the Government whose responsibilities are complex and hard to carry out to the satisfaction of all.",
+      "A mechanism for speeding up the activities of the Government whose responsibilities are increasing day by day.",
+      "A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people.",
+      "A device for strengthening the hands of the head of the Government whose hold over the people is in a state of decline."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The Cabinet system (the core of the Westminster model) operates on the principle of <b>collective responsibility</b> (Article 75(3)). The Cabinet swims and sinks together, taking responsibility for the governance of the nation on behalf of the people via their elected representatives.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>‘Democracy’s superior virtue lies in the fact that it calls into activity (2017)</b>",
+    "options": [
+      "the intelligence and character of ordinary men and women.",
+      "the methods for strengthening executive leadership",
+      "a superior individual with dynamism and vision.",
+      "a band of dedicated party workers."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: the intelligence and character of ordinary men and women.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Bureaucratic Decoy:</b> Options B, C, and D are characteristics of authoritarian, fascist, or strictly vanguard-party systems. Democracy is fundamentally built on universal adult franchise, resting entirely on the assumption that the <b>ordinary citizen</b> possesses the intelligence to govern themselves and choose their representatives.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>Which one of the following statements is correct? (2017)</b>",
+    "options": [
+      "Right are claims of the State against the citizens.",
+      "Rights are privileges which are incorporated in the Constitution of a State.",
+      "Rights are claims of the citizens against the State.",
+      "Rights are privileges of a few citizens against the many"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Rights are claims of the citizens against the State.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Rights are legally recognized claims or entitlements of an individual against arbitrary actions of the State. They act as limitations on the tyranny of the executive and the legislature. They are NOT claims of the state (that would be duties), nor are they privileges (which implies inequality).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>There is a Parliamentary System of Government in India because the (2015)</b>",
+    "options": [
+      "Lok Sabha is elected directly by the people",
+      "Parliament can amend the Constitution",
+      "Rajya Sabha cannot be dissolved",
+      "Council of Ministers is responsible to the Lok Sabha"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Council of Ministers is responsible to the Lok Sabha</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The examiner reiterates the defining core of the Parliamentary system. A country can have a directly elected legislature and amendment powers (like the USA) without being a parliamentary system. The defining feature is the Executive's (Council of Ministers) collective responsibility to the popular house (Lok Sabha).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>Consider the following statements : A Constitutional Government is one which:<br><br>1. places effective restrictions on individual liberty in the interest of State Authority.<br>2. places effective restrictions on the Authority of the State in the interest of individual liberty.<br><br>Which of the statements given above is/are correct? (2014)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Absolute Inversion Trap:</b> Statement 1 describes an authoritarian or totalitarian regime. A Constitutional government (Constitutionalism) exists precisely to do the opposite: it places legal, effective restrictions on the State's authority (via Fundamental Rights) to protect individual liberty.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Political Theory & Concepts",
+    "question": "<b>Which of the following provisions of the Constitution of India have a bearing on Education?<br><br>1. Directive Principles of State Policy<br>2. Rural and Urban Local Bodies<br>3. Fifth Schedule<br>4. Sixth Schedule<br>5. Seventh Schedule<br><br>Select the correct answer using the code given below: (2012)</b>",
+    "options": [
+      "1 and 2 only",
+      "3, 4 and 5 only",
+      "1, 2 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3, 4 and 5</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Interlinkage Stress-Test:</b><br>- DPSP: Article 45 (Early childhood care and education).<br>- Local Bodies: 11th & 12th Schedules delegate education/vocational training to Panchayats and Municipalities.<br>- 5th & 6th Schedules: Deal with tribal administration, granting autonomous councils the power to establish and manage primary schools.<br>- 7th Schedule: Education is explicitly listed in the Concurrent List (Entry 25).",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
