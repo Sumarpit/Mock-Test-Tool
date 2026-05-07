@@ -1,0 +1,287 @@
+[
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>Consider the following statements:</b><br><br>1. Pursuant to the report of H.N. Sanyal Committee, the Contempt of Courts Act, 1971 was passed.<br>2. The Constitution of India empowers the Supreme Court and the High Courts to punish for contempt of themselves.<br>3. The Constitution of India defines Civil Contempt and Criminal Contempt.<br>4. In India, the Parliament is vested with the powers to make laws on Contempt of Court.<br><br><b>Which of the statements given above is/are correct? (2022)</b>",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4",
+      "3 and 4 only",
+      "3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 2 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> The Contempt of Courts Act, 1971 was enacted based on the recommendations of the H.N. Sanyal Committee.<br><b>Statement 2 is correct:</b> Articles 129 and 215 of the Constitution explicitly declare the Supreme Court and High Courts respectively as 'Courts of Record' with the power to punish for their contempt.<br><b>Statement 3 is incorrect (The 'Definition' Trap):</b> The Constitution of India <b>does not</b> define Civil or Criminal Contempt. These definitions are provided under Section 2 of the Contempt of Courts Act, 1971. The examiner frequently traps candidates by claiming the Constitution 'defines' a term when it only 'mentions' it.<br><b>Statement 4 is correct:</b> Entry 77 of List I (Union List) gives Parliament the power to legislate on the contempt of the Supreme Court.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>With reference to India, consider the following statements:</b><br><br>1. Government law officers and legal firms are recognised as advocates, but corporate lawyers and patent attorneys are excluded from recognition as advocates.<br>2. Bar Councils have the power to lay down the rules relating to legal education and recognition of law colleges.<br><br><b>Which of the statements given above is/are correct? (2022)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The Exclusion Trap):</b> Under the Advocates Act, 1961, only individuals can be enrolled as advocates. \"Legal firms\" are not recognized as advocates. Furthermore, full-time salaried employees (like corporate lawyers) are generally excluded from practicing as advocates, but legal firms themselves are not recognized.<br><b>Statement 2 is correct:</b> The Bar Council of India (BCI) has the statutory mandate to promote legal education and to lay down standards of such education, including the recognition of universities whose degree in law shall be a qualification for enrolment as an advocate.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>With reference to India, consider the following statements:</b><br><br>1. Judicial custody means an accused is in the custody of the concerned magistrate, and such an accused is locked up in the police station, not in jail.<br>2. During judicial custody, the police officer in charge of the case is not allowed to interrogate the suspect without the approval of the court.<br><br><b>Which of the statements given above is/are correct? (2021)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The Location Swap Trap):</b> In Police Custody, the accused is held in the police station lockup. In <b>Judicial Custody</b>, the accused is lodged in the central/state <b>jail</b> under the custody of the Magistrate, not the police station.<br><b>Statement 2 is correct:</b> Since the accused is technically under the court's custody while in jail, the police cannot interrogate them freely. They must obtain explicit permission/approval from the concerned magistrate.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>With reference to the Indian judiciary, consider the following statements:</b><br><br>1. Any retired judge of the Supreme Court of India can be called back to sit & act as a Supreme Court judge by the Chief Justice of India with prior permission from the President of India.<br>2. A High Court in India has the power to review its own judgment, as the Supreme Court does.<br><br><b>Which of the statements given above is/are correct? (2021)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> Article 128 explicitly allows the Chief Justice of India, at any time, with the previous consent of the President, to request any person who has held the office of a Judge of the Supreme Court to sit and act as a Judge of the Supreme Court.<br><b>Statement 2 is incorrect (The Strict Constitutional Provision Trap):</b> Article 137 explicitly grants the Supreme Court the power to review its own judgments. There is <b>no explicit constitutional article</b> granting the High Court the exact same review power, although High Courts exercise review under their inherent powers as a 'Court of Record' (Article 215). UPSC considered Statement 2 incorrect based on the absence of a direct parallel constitutional provision.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>With reference to India, consider the following statements:</b><br><br>1. When a prisoner makes out a sufficient case, parole cannot be denied to such a prisoner because it becomes a matter of his/her right.<br>2. State Governments have their own Prisoners Release on Parole Rules.<br><br><b>Which of the statements given above is/are correct? (2021)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The 'Absolute Right' Trap):</b> Parole is a privilege/concession granted to a prisoner, <b>not an absolute right</b>. Even if a sufficient case is made, authorities can deny parole on grounds of public safety, risk of absconding, etc.<br><b>Statement 2 is correct:</b> Under the Seventh Schedule of the Constitution, \"Prisons and persons detained therein\" falls under the <b>State List</b> (Entry 4). Therefore, State Governments draft their own distinct rules regarding parole and furlough.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>Consider the following statements:</b><br><br>1. The Constitution of India defines its ‘basic structure’ in terms of federalism, secularism, fundamental rights and democracy.<br>2. The Constitution of India provides for ‘judicial review’ to safeguard the citizens’ liberties and to preserve the ideals on which the Constitution is based.<br><br><b>Which of the statements given above is/are correct? (2020)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The 'Definition' Trap):</b> The Constitution of India <b>nowhere defines or even mentions</b> the term 'Basic Structure'. This doctrine is entirely a judicial creation stemming from the <i>Kesavananda Bharati (1973)</i> judgment.<br><b>Statement 2 is incorrect (The Explicit Text Trap):</b> While the Supreme Court derives the power of judicial review from Article 13 and others, the Constitution <b>does not explicitly state or provide</b> \"judicial review to safeguard the citizens' liberties\" as a defined text. The examiner exploits the difference between implied judicial interpretations and explicit constitutional text.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>In India, Legal Services Authorities provide free legal services to which of the following type of citizens?</b><br><br>1. Person with an annual income of less than Rs 1,00,000<br>2. Transgender with an annual income of less than Rs 2,00,000<br>3. Member of Other Backward Classes (OBC) with an annual income of less than ₹ 3,00,000<br>4. All Senior Citizens<br><br><b>Select the correct answer using the code given below: (2020)</b>",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "2 and 3 only",
+      "1 and 4 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statements 1 and 2 are correct:</b> Under the Legal Services Authorities Act, 1987, general persons with an income less than Rs. 1 Lakh, and transgender persons with an income less than Rs. 2 Lakh are eligible for free legal aid.<br><b>Statement 3 is incorrect:</b> There is no specific, separate income limit category carved out exclusively for OBCs (they fall under the general income limit).<br><b>Statement 4 is incorrect (The 'All' Trap):</b> The examiner uses the extreme word \"All\". Senior citizens are eligible, but strictly subject to varying income limits laid down by individual State Governments, not unconditionally.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>Consider the following statements:</b><br><br>1. The motion to impeach a Judge of the Supreme Court of India cannot be rejected by the Speaker of the Lok Sabha as per the Judges (Inquiry) Act, 1968.<br>2. The Constitution of India defines and gives details of what Constitutes ‘incapacity and proved misbehaviour’ of the Judges of the Supreme Court of India.<br>3. The details of the process of impeachment of the Judges of the Supreme Court of India are given in the Judges (Inquiry) Act, 1968.<br>4. If the motion for the impeachment of a Judge is taken up for voting, the law requires the motion to be backed by each House of the Parliament and supported by a majority of total membership of that House and by not less than two-thirds of total members of that House present and voting.<br><br><b>Which of the statements given above is/are correct? (2019)</b>",
+    "options": [
+      "1 and 2",
+      "3 only",
+      "3 and 4 only",
+      "1, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> Under the Judges (Inquiry) Act, 1968, the Speaker/Chairman has the absolute discretionary authority to either admit or <b>reject</b> the impeachment motion.<br><b>Statement 2 is incorrect (The 'Definition' Trap):</b> The Constitution mentions removal on grounds of \"proved misbehaviour or incapacity\" (Art 124), but it <b>does not define</b> them or give details. This is left to the Inquiry Committee.<br><b>Statements 3 and 4 are correct:</b> The statutory procedure is fully codified in the Judges (Inquiry) Act, 1968, and the constitutional voting requirement is a strict special majority (majority of total membership AND 2/3rd of members present and voting).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>With reference to the Constitution of India, consider the following statements:</b><br><br>1. No High Court shall have the jurisdiction to declare any central law to be constitutionally invalid.<br>2. An amendment to the Constitution of India cannot be called into question by the Supreme Court of India.<br><br><b>Which of the statements given above is / are correct? (2019)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (Historical Reversal Trap):</b> The 42nd Amendment Act (1976) had indeed stripped High Courts of the power to invalidate Central laws. However, the 43rd Amendment Act (1977) <b>restored this original jurisdiction</b>. High Courts today fully possess the power to strike down central laws.<br><b>Statement 2 is incorrect:</b> Established via the 'Basic Structure Doctrine' in <i>Kesavananda Bharati (1973)</i>, the Supreme Court has absolute authority to review and strike down any constitutional amendment if it violates the basic structure.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>With reference to the Constitution of India, prohibitions or limitations or provisions contained in ordinary laws cannot act as prohibitions or limitations on the constitutional powers under Article 142. It could mean which one of the following? (2019)</b>",
+    "options": [
+      "The decisions taken by the Election Commission of India while discharging its duties cannot be challenged in any court of law.",
+      "The Supreme Court of India is not constrained in the exercise of its powers by laws made by the Parliament.",
+      "In the event of grave financial crisis in the country, the President of India can declare Financial Emergency without the counsel from the Cabinet.",
+      "State Legislatures cannot make laws on certain matters without the concurrence of Union Legislature."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The Supreme Court of India is not constrained in the exercise of its powers by laws made by the Parliament.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Article 142 grants the Supreme Court the unique power to pass any decree or make any order necessary for doing \"complete justice\" in any cause or matter pending before it. This acts as a constitutional 'trump card' meaning statutory/ordinary laws cannot bind or limit this extraordinary inherent power of the Supreme Court.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>In India, Judicial Review implies (2017)</b>",
+    "options": [
+      "the power of the Judiciary to pronounce upon the constitutionality of laws and executive orders.",
+      "the power of the Judiciary to question the wisdom of the laws enacted by the Legislatures.",
+      "the power of the Judiciary to review all the legislative enactments before they are assented to by the President.",
+      "the power of the Judiciary to review its own judgements given earlier in similar or different cases"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: the power of the Judiciary to pronounce upon the constitutionality of laws and executive orders.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The 'Wisdom vs. Legality' Trap:</b> The Judiciary examines only the constitutional validity (legality/competence/rights violation) of a law, <b>not</b> its political wisdom or legislative necessity (Option B). Option C describes a non-existent pre-assent review mechanism. Option D describes the 'Review Jurisdiction' (Article 137), not 'Judicial Review' (derived from Article 13).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>Who/Which of the following is the custodian of the Constitution of India? (2015)</b>",
+    "options": [
+      "The President of India",
+      "The Prime Minister of India",
+      "The Lok Sabha Secretariat",
+      "The Supreme Court of India"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: The Supreme Court of India</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Presidential Oath Trap:</b> While the President of India takes an oath to \"preserve, protect and defend the Constitution\" (Article 60), the ultimate <b>Custodian and Guarantor</b> of the Constitution (and Fundamental Rights) is unequivocally the Supreme Court of India, possessing the final power of constitutional interpretation.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>The power of the Supreme Court of India to decide disputes between the Centre and the States falls under its: (2014)</b>",
+    "options": [
+      "advisory jurisdiction",
+      "appellate jurisdiction",
+      "original jurisdiction",
+      "writ jurisdiction"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: original jurisdiction</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Article 131 explicitly outlines the <b>Original Jurisdiction</b> of the Supreme Court, making it the sole forum of first instance for any dispute involving federal entities: Government of India vs. one or more States, or between two or more States.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>The power to increase the number of judges in the Supreme Court of India is vested in? (2014)</b>",
+    "options": [
+      "The President of India.",
+      "The Parliament.",
+      "The Chief Justice of India.",
+      "The Law Commission."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The Parliament.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The 'High Court vs. Supreme Court' Trap:</b> The examiner plays on the asymmetry. For High Courts, the <b>President</b> determines the number of judges depending on the workload. For the Supreme Court, Article 124(1) strictly limits the maximum number of judges until <b>Parliament</b> by law prescribes a larger number.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>With reference to National Legal Services Authority, consider the following statements :</b><br><br>1. Its objective is to provide free and competent legal services to the weaker sections of the society on the basis of equal opportunity.<br>2. It issues guidelines for the State Legal Services Authorities to implement the legal programmes and schemes throughout the country.<br><br><b>Which of the statements given above is/ are correct? (2013)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>NALSA was constituted under the Legal Services Authorities Act, 1987. It serves a dual mandate: providing free legal aid directly (fulfilling DPSP Article 39A) and acting as the apex regulatory body that funds, monitors, and issues guidelines to State Legal Services Authorities (SLSAs) and District level authorities.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>Which of the following are included in the original jurisdiction of the Supreme Court?</b><br><br>1. A dispute between the Government of India and one or more States<br>2. A dispute regarding elections to either House of the Parliament or that of Legislature of a State<br>3. A dispute between the Government of India and a Union Territory<br>4. A dispute between two or more States<br><br><b>Select the correct answer using the code given below: (2012)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 4 only",
+      "3 and 4 only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Exclusions to Original Jurisdiction Trap (Article 131):</b><br>- <b>Statement 2 is incorrect:</b> Election disputes of MPs/MLAs are heard by the <b>High Courts</b> under their original jurisdiction, not the Supreme Court.<br>- <b>Statement 3 is incorrect:</b> Union Territories are administrative extensions of the Centre; hence a dispute between GOI and a UT does not qualify as a true 'federal' dispute under Article 131.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>What is the provision to safeguard the autonomy of the Supreme Court of India?</b><br><br>1. While appointing the Supreme Court Judges, the President of India has to consult the Chief Justice of India.<br>2. The Supreme Court Judges can be removed by the Chief Justice of India only.<br>3. The salaries of the Judges are charged on the Consolidated Fund of India to which the legislature does not have to vote.<br>4. All appointments of officers & staff of the Supreme Court of India are made by the Government only after consulting the Chief Justice of India.<br><br><b>Which of the statements given above is/ are correct? (2012)</b>",
+    "options": [
+      "1 and 3 only",
+      "3 and 4 only",
+      "4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> Consultation with CJI is mandatory (Art 124), ensuring executive doesn't act arbitrarily.<br><b>Statement 2 is incorrect:</b> A judge can only be removed by an order of the <b>President</b> after an address by <b>Parliament</b> (Impeachment). CJI has no power to remove judges.<br><b>Statement 3 is correct:</b> Salaries are \"charged\" on the CFI, meaning they are non-votable by Parliament.<br><b>Statement 4 is incorrect (The Appointment Trap):</b> Appointments of officers/staff of the SC are made directly by the <b>Chief Justice of India</b> (Article 146) without any interference or required appointment from the Government.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>Consider the following statements :</b><br><br>The Supreme Court of India tenders advice to the President of India on matters of law or fact<br>1. on its own initiative (on any matter of larger public interest).<br>2. if he seeks such an advice.<br>3. only if the matters relate to the Fundamental Rights of the citizens.<br><br><b>Which of the statements given above is/ are correct ? (2010)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "3 only",
+      "1 and 2 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Advisory Jurisdiction Trap (Article 143):</b> The Supreme Court cannot dispense unsolicited advice on its own initiative (suo motu), nor is it restricted only to Fundamental Rights. The SC can <i>only</i> tender advice if the <b>President specifically refers</b> a question of law or fact to it for consideration.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Judiciary",
+    "question": "<b>Consider the following statements :</b><br><br>1. The Advocate General of a State in India is appointed by the President of India upon the recommendation of the Governor of the concerned State.<br>2. As provided in Civil Procedure Code, High Courts have original, appellate and advisory jurisdiction at the State level.<br><br><b>Which of the statements given above is/ are correct ? (2009)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (Appointing Authority Swap):</b> Under Article 165, the Advocate General for a State is appointed directly by the <b>Governor</b> of the State, not by the President.<br><b>Statement 2 is incorrect (Jurisdictional Scope Trap):</b> While High Courts possess original and appellate jurisdiction, the Constitution strictly reserves <b>Advisory Jurisdiction (Article 143) exclusively for the Supreme Court</b>. High Courts cannot tender advisory opinions.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]

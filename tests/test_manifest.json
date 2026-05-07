@@ -143,6 +143,8 @@
 ,
 {"name": "Ind Geo+Env", "filename": "Ind Geo+Env.json", "path": "tests/upsc/Ind Geo+Env.json"}
 ,
+{"name": "Judiciary PYQs", "filename": "Judiciary PYQs.json", "path": "tests/upsc/Judiciary PYQs.json"}
+,
 {"name": "Parliament PYQs Part 2", "filename": "Parliament PYQs Part 2.json", "path": "tests/upsc/Parliament PYQs Part 2.json"}
 ,
 {"name": "Parliament PYQs", "filename": "Parliament PYQs.json", "path": "tests/upsc/Parliament PYQs.json"}
