@@ -137,6 +137,8 @@
 ,
 {"name": "Env CA Species Part 2", "filename": "Env CA Species Part 2.json", "path": "tests/upsc/Env CA Species Part 2.json"}
 ,
+{"name": "FR FD DPSP", "filename": "FR FD DPSP.json", "path": "tests/upsc/FR FD DPSP.json"}
+,
 {"name": "IVC PYQs", "filename": "IVC PYQs.json", "path": "tests/upsc/IVC PYQs.json"}
 ,
 {"name": "Ind Geo+Env", "filename": "Ind Geo+Env.json", "path": "tests/upsc/Ind Geo+Env.json"}

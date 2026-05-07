@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Provision in the Constitution of India : Stated under</b><br>1. Separation of Judiciary from the Executive in the public services of the State : The Directive Principles of the State Policy<br>2. Valuing and preserving of the rich heritage of our composite culture : The Fundamental Duties<br>3. Prohibition of employment of children below the age of 14 years in factories : The Fundamental Rights<br><br><b>How many of the above pairs are correctly matched? (2025)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All the three</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Pair 1 is correct:</b> Article 50 directs the state to separate the judiciary from the executive (DPSP).<br><b>Pair 2 is correct:</b> Article 51A(f) mandates preserving our composite cultural heritage (Fundamental Duty).<br><b>Pair 3 is correct:</b> Article 24 explicitly prohibits child labor in hazardous employment (Fundamental Right).<br><b>The Cross-Pollination Trap:</b> The examiner frequently swaps the exact text of a DPSP with a Fundamental Duty to exploit fuzzy memory. Memorize the anchor words: 'composite culture' strictly belongs to Duties.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>Under which of the following Articles of the Constitution of India, has the Supreme Court of India placed the Right to Privacy? (2024)</b>",
+    "options": [
+      "Article 15",
+      "Article 16",
+      "Article 19",
+      "Article 21"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Article 21</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Jurisdictional Evolution Trap:</b> The Right to Privacy is not explicitly written in the Constitution. The examiner tests if you know the landmark <i>K.S. Puttaswamy (2017)</i> ruling, which firmly anchored privacy as an intrinsic part of the Right to Life and Personal Liberty under <b>Article 21</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>Consider the following statements :</b><br><br><b>Statement-I:</b> The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration.<br><b>Statement-II:</b> Article 335 of the Constitution of India defines the term 'efficiency of administration'.<br><br><b>Which one of the following is correct in respect of the above statements? (2023)</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> In cases like <i>M. Nagaraj (2006)</i> and <i>Jarnail Singh (2018)</i>, the SC held that reservations in promotions must not compromise administrative efficiency under Article 335.<br><b>Statement-II is incorrect (The 'Defines' Trap):</b> This is a classic UPSC absolute trap. The Constitution frequently <i>mentions</i> terms (like 'efficiency of administration', 'untouchability', 'martial law', 'office of profit') but almost never <b>defines</b> them.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>Consider the following statements:</b><br><br>1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances.<br>2. The Constitution of India exempts the States from providing legal counsel to person being held for preventive detention.<br>3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence.<br><br><b>How many of the above statements are correct? (2023)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> Article 355 explicitly mandates the Union to protect every State against external aggression and internal disturbance.<br><b>Statement 2 is incorrect (Semantic Trap):</b> Article 22(1) grants the right to <i>consult</i> a legal practitioner. While Article 22(3) denies this specific Fundamental Right to preventively detained persons, it does not mean the Constitution 'exempts the State from providing' it (the State isn't strictly mandated to provide it under 22(1) anyway; that falls under Legal Aid in DPSP 39A).<br><b>Statement 3 is incorrect:</b> POTA 2002 actually made confessions given to a police officer (SP rank or above) admissible in court, an exception to standard evidence laws.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India? (2021)</b>",
+    "options": [
+      "Article 14",
+      "Article 28",
+      "Article 32",
+      "Article 44"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Article 14</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Arbitrariness Trap:</b> Unguided and uncontrolled discretionary power is the very definition of arbitrariness. In Indian constitutional law, arbitrariness is the direct antithesis of Equality before Law. Therefore, it fundamentally violates <b>Article 14</b> (Rule of Law).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>'Right to Privacy' is protected under which Article of the Constitution of India? (2021)</b>",
+    "options": [
+      "Article 15",
+      "Article 19",
+      "Article 21",
+      "Article 29"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Article 21</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Repetition Trap:</b> The examiner tests core landmark judgments repeatedly. As established in the <i>Puttaswamy case (2017)</i>, Privacy is an intrinsic part of Life and Personal Liberty under Article 21.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>What is the position of the Right to Property in India? (2021)</b>",
+    "options": [
+      "Legal right available to citizens only",
+      "Legal right available to any person",
+      "Fundamental Right available to citizens only",
+      "Neither Fundamental Right nor legal right"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Legal right available to any person</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The 'Citizens Only' Trap:</b> The 44th Amendment Act (1978) abolished the Right to Property as a Fundamental Right and made it a constitutional/legal right under Article 300A. Crucially, Article 300A states, 'No <i>person</i> shall be deprived of his property save by authority of law'. The word 'person' extends this right to non-citizens and corporations, not just citizens.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>Which one of the following categories of Fundamental Rights incorporates protection against untouchability as a form of discrimination? (2020)</b>",
+    "options": [
+      "Right against Exploitation",
+      "Right to Freedom",
+      "Right to Constitutional Remedies",
+      "Right to Equality"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Right to Equality</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Categorization Trap:</b> Because untouchability is an exploitative practice, candidates instinctively guess 'Right against Exploitation' (Articles 23-24). However, Article 17 (Abolition of Untouchability) falls squarely under the <b>Right to Equality</b> (Articles 14-18).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>Other than the Fundamental Rights, which of the following parts of the Constitution of India reflect/reflects the principles and provisions of the Universal Declaration of Human Rights (1948)?</b><br><br>1. Preamble<br>2. Directive Principles of State Policy<br>3. Fundamental Duties<br><br><b>Select the correct answer using the code given below: (2020)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The UDHR Broad Sweep Trap:</b> The UDHR is incredibly comprehensive. The Preamble reflects its ideals of dignity and justice (UDHR Art 1). The DPSP reflects its socio-economic rights (UDHR Art 22-27). The Fundamental Duties reflect UDHR Article 29(1), which states, 'Everyone has duties to the community'.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>Which Article of the Constitution of India safeguards one’s right to marry the person of one’s choice? (2019)</b>",
+    "options": [
+      "Article 19",
+      "Article 21",
+      "Article 25",
+      "Article 29"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Article 21</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Derivative Rights Trap:</b> In the <i>Hadiya case (2018)</i>, the Supreme Court ruled that the right to marry a person of one's choice is an integral part of personal liberty guaranteed under <b>Article 21</b>. The examiner uses Article 25 (Freedom of Religion) as a decoy trap since marriages often involve inter-faith elements.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement? (2018)</b>",
+    "options": [
+      "Article 14 and the provisions under the 42nd Amendment to the Constitution",
+      "Article 17 and the Directive Principles of State Policy in Part IV",
+      "Article 21 and the freedoms guaranteed in Part III",
+      "Article 24 and the provisions under the 44th Amendment to the Constitution"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Article 21 and the freedoms guaranteed in Part III</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Core Anchor Trap:</b> Direct validation of the <i>K.S. Puttaswamy (2017)</i> ruling. The examiner mixes random Articles with random Amendments to confuse you. Privacy is firmly rooted in Article 21 and the broader Part III (Fundamental Rights).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>Which of the following are envisaged by the Right against Exploitation in the Constitution of India?</b><br><br>1. Prohibition of traffic in human beings and forced labour<br>2. Abolition of untouchability<br>3. Protection of the interests of minorities<br>4. Prohibition of employment of children in factories and mines<br><br><b>Select the correct answer using the code given below: (2017)</b>",
+    "options": [
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Micro-Classification Trap:</b> The Right against Exploitation contains exactly two articles: Article 23 (Traffic in human beings & forced labor) and Article 24 (Child labor). Untouchability (Art 17) is under Right to Equality. Minorities (Art 29) is under Cultural and Educational Rights.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>Which of the following statements is/are true of the Fundamental Duties of an Indian citizen?</b><br><br>1. A legislative process has been provided to enforce these duties.<br>2. They are correlative to legal duties.<br><br><b>Select the correct answer using the code given below: (2017)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The Constitutional Provision Trap):</b> While Parliament <i>can</i> make laws to enforce duties (like the Prevention of Insults to National Honour Act), the Constitution itself <b>does not provide</b> a legislative process for their enforcement.<br><b>Statement 2 is incorrect:</b> They are moral/civic duties and are not strictly correlative to legal duties. There is no legal sanction for violating them unless backed by a specific statute.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>In the context of India, which one of the following is the correct relationship between Rights and Duties? (2017)</b>",
+    "options": [
+      "Rights are correlative with Duties.",
+      "Rights are personal and hence independent of society and Duties.",
+      "Rights, not Duties, are important for the advancement of the personality of the citizen.",
+      "Duties, not Rights, are important for the stability of the State."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Rights are correlative with Duties.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Philosophical Reality Trap:</b> You cannot have rights without duties. My right to speech imposes a duty on you not to silence me. Thus, rights and duties are inherently correlative and inseparable.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>Right to vote and to be elected in India is a (2017)</b>",
+    "options": [
+      "Fundamental Right",
+      "Natural Right",
+      "Constitutional Right",
+      "Legal Right"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Constitutional Right</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Statutory vs Constitutional Trap:</b> The Supreme Court (in Rajbala vs. State of Haryana, 2015) clarified that the right to vote and contest is a <b>Constitutional Right</b>, deriving its mandate explicitly from Article 326 (Adult Suffrage). It is not a Fundamental Right (Part III).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>To uphold and protect the Sovereignty, Unity and Integrity of India is a provision made in the (2015)</b>",
+    "options": [
+      "Preamble of the Constitution",
+      "Directive Principles of State Policy",
+      "Fundamental Rights",
+      "Fundamental Duties"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Fundamental Duties</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Vocabulary Match Trap:</b> While the Preamble mentions 'unity and integrity of the Nation', the exact phrasiology 'To uphold and protect the sovereignty, unity and integrity of India' is Article 51A(c), an explicit Fundamental Duty.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>Which of the following is/are among the Fundamental Duties of citizens laid down in the Indian Constitution?</b><br><br>1. To preserve the rich heritage of our composite culture<br>2. To protect the weaker sections from social injustice<br>3. To develop the scientific temper and spirit of inquiry<br>4. To strive towards excellence in all spheres of individual and collective activity<br><br><b>Select the correct answer using the code given below: (2012)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1, 3 and 4",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 3 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The DPSP vs FD Trap:</b> Protecting the weaker sections from social injustice (Statement 2) is a <b>Directive Principle of State Policy</b> (Article 46), not a Fundamental Duty of the citizen. Eliminating option 2 instantly gives the correct answer.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>Under the Constitution of India, which one of the following is not a Fundamental Duty? (2011)</b>",
+    "options": [
+      "To vote in public elections",
+      "To develop the scientific temper",
+      "To safeguard public property",
+      "To abide by the Constitution and respect its ideals"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: To vote in public elections</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Swaran Singh Rejection Trap:</b> The Swaran Singh Committee (which recommended Fundamental Duties) originally suggested duty to pay taxes and duty to vote. However, these were <b>not incorporated</b> into Article 51A. Voting is a Constitutional Right (Art 326).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>Consider the following:</b><br><br>1. Right to education<br>2. Right to equal access to public service<br>3. Right to food<br><br><b>Which of the above is/are Human Right/Human Rights under “Universal Declaration of Human Rights”? (2011)</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The Universal Declaration of Human Rights (UDHR) is an extensive document. It covers education (Art 26), equal access to public service (Art 21), and an adequate standard of living including food (Art 25). All are correct.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "Fundamental Rights and Duties",
+    "question": "<b>In India, if a religious sect/community is given “the status of a national minority”, what special advantages is it entitled to?</b><br><br>1. It can establish and administer exclusive educational institutions.<br>2. The President of India automatically nominates a representative of the community to Lok Sabha.<br>3. It can derive benefits from the Prime Minister’s 15-Point Programme.<br><br><b>Which of the statements given above is/are correct? (2011)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> Protected strictly under Article 30 (Right to establish educational institutions).<br><b>Statement 2 is incorrect (The Anglo-Indian Decoy Trap):</b> There is NO provision for 'automatic nomination' for religious minorities to the Lok Sabha. (Previously, only Anglo-Indians had a nomination provision, which was also abolished by the 104th Amendment).<br><b>Statement 3 is correct:</b> Minorities are the specific target of the PM's 15-Point Programme.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "DPSP",
+    "question": "<b>Under the Indian Constitution, concentration of wealth violates (2021)</b>",
+    "options": [
+      "the Right to Equality",
+      "the Directive Principles of State Policy",
+      "the Right to Freedom",
+      "the Concept of Welfare"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: the Directive Principles of State Policy</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Ideological Boundary Trap:</b> Article 39(c) explicitly directs the State to ensure that the operation of the economic system does not result in the <b>concentration of wealth</b> and means of production to the common detriment. This falls purely under DPSP.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "DPSP",
+    "question": "<b>Which part of the Constitution of India declares the ideal of Welfare State? (2020)</b>",
+    "options": [
+      "Directive Principles of State Policy",
+      "Fundamental Rights",
+      "Preamble",
+      "Seventh Schedule"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Directive Principles of State Policy</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Welfare State Trap:</b> The defining objective of Part IV (DPSP) is to establish a 'Welfare State' (promoting socio-economic justice), moving away from the colonial 'Police State'.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "DPSP",
+    "question": "<b>With reference to the provisions contained in Part IV of the Constitution of India, which of the following statements is/are correct?</b><br><br>1. They shall be enforceable by courts.<br>2. They shall not be enforceable by any court.<br>3. The principles laid down in this part are to influence the making of laws by the State.<br><br><b>Select the correct answer using the code given below: (2020)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 3 only",
+      "2 and 3 only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Execution Trap:</b> Tested strictly on Article 37. DPSP are fundamentally <b>non-justiciable</b> (cannot be enforced by any court). However, Article 37 dictates that these principles are \"nevertheless fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws.\"",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "DPSP",
+    "question": "<b>In India, separation of judiciary from the executive is enjoined by (2020)</b>",
+    "options": [
+      "the Preamble of the Constitution",
+      "a Directive Principle of State Policy",
+      "the Seventh Schedule",
+      "the conventional practice"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: a Directive Principle of State Policy</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>This is a direct application of <b>Article 50</b>. The State is directed to take steps to separate the judiciary from the executive in the public services of the State. It is purely a DPSP.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "DPSP",
+    "question": "<b>Consider the following statements:</b><br><br><b>With reference to the Constitution of India, the Directive Principles of State Policy constitute limitations upon</b><br>1. legislative function<br>2. executive function<br><br><b>Which of the above statements is/are correct? (2017)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Limitation Trap:</b> Fundamental Rights act as negative limitations on the State. DPSPs are <b>positive directives</b> requiring the State to take action. They do not constitute 'limitations' upon either the legislative or executive functions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "DPSP",
+    "question": "<b>Consider the following statements regarding the Directive Principles of State Policy:</b><br><br>1. The Principles spell out the socio-economic democracy in the country.<br>2. The provisions contained in these Principles are not enforceable by any court.<br><br><b>Which of the statements given above is/are correct? (2015)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> While Fundamental Rights establish <i>political democracy</i>, DPSPs establish <i>socio-economic democracy</i>.<br><b>Statement 2 is correct:</b> Dictated by Article 37, they are legally non-justiciable.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "DPSP",
+    "question": "<b>The ideal of ‘Welfare State’ in the Indian Constitution is enshrined in its (2015)</b>",
+    "options": [
+      "Preamble",
+      "Directive Principles of State Policy",
+      "Fundamental Rights",
+      "Seventh Schedule"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Directive Principles of State Policy</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Repetition Trap:</b> The examiner tests this exact core principle across multiple years (see 2020 PYQ). The 'Welfare State' ideal is the definitive mandate of Part IV.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "DPSP",
+    "question": "<b>In the Constitution of India, promotion of international peace and security is included in the: (2014)</b>",
+    "options": [
+      "Preamble to the constitution.",
+      "Directive Principles of State Policy.",
+      "Fundamental Duties.",
+      "Ninth Schedule."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Directive Principles of State Policy.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The International Relations Trap:</b> Article 51 (the very last DPSP) directs the State to promote international peace and security, maintain just and honourable relations between nations, and foster respect for international law.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "DPSP",
+    "question": "<b>According to the Constitution of India, which of the following are fundamental for the governance of the country? (2013)</b>",
+    "options": [
+      "Fundamental Rights",
+      "Fundamental Duties",
+      "Directive Principles of State Policy",
+      "Fundamental Rights and Fundamental Duties"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Directive Principles of State Policy</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Textual Definition Trap:</b> Do not guess based on intuition. Article 37 explicitly contains the phrase: \"The principles therein laid down are nevertheless <b>fundamental in the governance of the country</b>...\" Only DPSP fits this exact constitutional text.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "DPSP",
+    "question": "<b>'Economic Justice’ as one of objectives of the Indian Constitution has been provided in (2013)</b>",
+    "options": [
+      "the Preamble and the Fundamental Rights",
+      "the Preamble and the Directive Principles of State Policy",
+      "the Fundamental Rights and the Directive Principles of State Policy",
+      "None of the above"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: the Preamble and the Directive Principles of State Policy</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Interlinkage Trap:</b> The Preamble secures to all citizens 'Justice, social, economic and political'. Article 38 (DPSP) directs the State to secure a social order permeated by 'justice, social, economic and political'. Fundamental Rights are primarily concerned with political justice and civil liberties.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "DPSP",
+    "question": "<b>Consider the following provisions under the Directive Principles of State Policy as enshrined in the Constitution of India:</b><br><br>1. Securing for citizens of India a uniform civil code<br>2. Organizing village Panchayats<br>3. Promoting cottage industries in rural areas<br>4. Securing for all workers reasonable leisure and cultural opportunities<br><br><b>Which of the above are the Gandhian Principles that are reflected in the Directive Principles of State Policy? (2012)</b>",
+    "options": [
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Ideological Split Trap:</b> DPSPs are classified (unofficially) into Socialist, Gandhian, and Liberal-Intellectual. <br>- Uniform Civil Code (Art 44) is Liberal-Intellectual.<br>- Leisure/cultural opportunities (Art 43) is Socialist.<br>- Village Panchayats (Art 40) and Cottage Industries (Art 43) are strictly <b>Gandhian</b> principles.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Polity",
+    "topic": "DPSP",
+    "question": "<b>With reference to the Constitution of India, consider the following:</b><br><br>1. Fundamental Rights<br>2. Fundamental Duties<br>3. Directive Principles of State Policy<br><br><b>Which of the above provisions of the Constitution of India is/are fulfilled by the National Social Assistance Programme launched by the Government of India ? (2010)</b>",
+    "options": [
+      "1 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Scheme-to-Constitution Trap:</b> The National Social Assistance Programme (NSAP) provides pensions to the elderly, widows, and disabled. This directly fulfills <b>Article 41</b> of the DPSP, which directs the State to secure the right to work, education, and public assistance in cases of unemployment, old age, sickness, and disablement.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
