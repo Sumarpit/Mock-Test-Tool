@@ -157,6 +157,8 @@
 ,
 {"name": "Pre_BenchmarkTest", "filename": "Pre_BenchmarkTest.json", "path": "tests/upsc/Pre_BenchmarkTest.json"}
 ,
+{"name": "RBI Function & Monetary Policy PYQs", "filename": "RBI Function & Monetary Policy PYQs.json", "path": "tests/upsc/RBI Function & Monetary Policy PYQs.json"}
+,
 {"name": "SC HC", "filename": "SC HC.json", "path": "tests/upsc/SC HC.json"}
 ,
 {"name": "SFG 01", "filename": "SFG 01.json", "path": "tests/upsc/SFG 01.json"}

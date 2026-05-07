@@ -1,0 +1,227 @@
+[
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>Which of the following are the sources of income for the Reserve Bank of India (RBI)? (2025)</b><br><br>1. Buying and selling Government bonds<br>2. Buying and selling foreign currency<br>3. Pension fund management<br>4. Lending to private companies<br>5. Printing and distributing currency notes<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4",
+      "1, 3, 4 and 5",
+      "1, 2 and 5"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 5</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Institutional Mandate Trap:</b> The examiner tests if you can separate RBI's core central banking functions from commercial banking/financial services. <br><b>Statements 3 and 4 are incorrect:</b> RBI is the apex monetary institution. It does not manage retail pension funds (that is PFRDA/EPFO) and it strictly does <b>not</b> lend to private companies (commercial banks do that).<br><b>Statements 1, 2, and 5 are correct:</b> RBI earns income via Open Market Operations (G-Bonds), Forex interventions (buying/selling dollars), and Seigniorage (the economic profit from printing currency notes where face value exceeds production cost).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>Consider the following statements: (2025)</b><br><br><b>Statement-I:</b> The Reserve Bank of India mandates all the listed companies in India to submit a Business Responsibility and Sustainability Report (BRSR).<br><b>Statement-II:</b> In India, a company submitting a BRSR makes disclosures in the report that are largely non-financial in nature.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: II only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is incorrect (The Jurisdictional Swap Trap):</b> The examiner routinely swaps the mandates of RBI and SEBI. The BRSR (Business Responsibility and Sustainability Report) is strictly mandated by <b>SEBI</b> for the top 1000 listed companies, not the RBI.<br><b>Statement-II is correct:</b> BRSR mandates Environmental, Social, and Governance (ESG) data. These are fundamentally <b>non-financial</b> disclosures (e.g., carbon footprint, employee welfare, CSR).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>Consider the following statements in respect of the digital rupee: (2024)</b><br><br>1. It is a sovereign currency issued by the Reserve Bank of India (RBI) in alignment with its monetary policy.<br>2. It appears as a liability on the RBI’s balance sheet.<br>3. It is insured against inflation by its very design.<br>4. It is freely convertible against commercial bank money and cash.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Crypto Conflation Trap:</b> The examiner wants you to confuse CBDC (Central Bank Digital Currency) with decentralized cryptocurrencies (like Bitcoin). <br><b>Statement 3 is incorrect:</b> Cryptocurrencies often have hard-coded supply limits to resist inflation. The Digital Rupee is simply a digital fiat currency. It is subjected to the exact same macroeconomic inflationary pressures as physical paper money.<br><b>Statements 1, 2, and 4 are correct:</b> As fiat money, it is sovereign, it is a direct liability of the RBI (just like paper notes), and it is 1:1 convertible with physical cash.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>Which one of the following activities of the Reserve Bank of India is considered to be part of ‘sterilization’? (2023)</b>",
+    "options": [
+      "Conducting ‘Open Market Operations’",
+      "Oversight of settlement and payment systems",
+      "Debt and cash management for the Central and State Governments",
+      "Regulating the functions of Non-banking Financial Institutions"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Conducting ‘Open Market Operations’</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Core Concept Definition:</b> 'Sterilization' is a highly specific macroeconomic intervention. When the RBI buys massive amounts of foreign currency (dollars) to prevent the Rupee from appreciating, it injects billions of Rupees into the domestic economy, risking hyperinflation. To 'sterilize' or neutralize this excess liquidity, the RBI sells Government Securities via <b>Open Market Operations (OMO)</b>, sucking the Rupees back out of the system.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>Consider the following statements : (2023)</b><br><br><b>Statement-I:</b> In the post-pandemic recent past, many Central Banks worldwide had carried out interest rate hikes.<br><b>Statement-II:</b> Central Banks generally assume that they have the ability to counteract the rising consumer prices via monetary policy means.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Applied Macroeconomics Trap:</b> This tests the fundamental lever of monetary policy. Post-COVID supply chain disruptions and stimulus packages caused global inflation. Central banks (like the US Fed and RBI) explicitly target consumer price stability. They raised interest rates (hawkish stance) precisely because it makes borrowing expensive, cools down aggregate demand, and thereby counteracts rising consumer prices. Statement-II is the textbook theoretical justification for the empirical action in Statement-I.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>Consider the following statements : (2022)</b><br><br>1. Tight monetary policy of US Federal Reserve could lead to capital flight.<br>2. Capital flight may increase the interest cost of firms with existing External Commercial Borrowings (ECBs).<br>3. Devaluation of domestic currency decreases the currency risk associated with ECBs.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> A 'tight' US Fed policy means higher US interest rates. Foreign Portfolio Investors (FPIs) pull money out of emerging markets to invest in safer, higher-yielding US bonds (Capital Flight).<br><b>Statement 2 is correct:</b> Capital flight leads to a shortage of dollars, depreciating the Rupee. If an Indian firm has to repay ECBs in dollars, they now need more Rupees to buy the same amount of dollars, increasing their effective interest/repayment cost.<br><b>Statement 3 is incorrect (The Reversal Trap):</b> Devaluation <b>increases</b> the currency risk for ECBs, it does not decrease it. The borrower's liability balloons in domestic currency terms.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>With reference to the Indian economy, consider the following statements : (2022)</b><br><br>1. If the inflation is too high, Reserve Bank of India (RBI) is likely to buy government securities.<br>2. If the rupee is rapidly depreciating, RBI is likely to sell dollars in the market.<br>3. If interest rates in the USA or European Union were to fall, that is likely to induce RBI to buy dollars.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The Liquidity Reversal Trap):</b> If inflation is high, there is excess liquidity (money) in the market. To control it, the RBI will <b>sell</b> government securities to suck money out of the system. <i>Buying</i> securities would inject more money and worsen inflation.<br><b>Statement 2 is correct:</b> To arrest a falling Rupee (caused by dollar shortage), the RBI sells dollars from its forex reserves, increasing dollar supply and stabilizing the exchange rate.<br><b>Statement 3 is correct:</b> If US/EU rates fall, foreign investors flood the Indian market with dollars seeking higher yields. This causes the Rupee to appreciate too fast. To prevent export uncompetitiveness, RBI will <b>buy</b> these excess dollars.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>Consider the following statements: (2021)</b><br><br>1. The Governor of the Reserve Bank of India (RBI) is appointed by the Central Government.<br>2. Certain provisions in the Constitution of India give the Central Government the right to issue directions to the RBI in the public interest.<br>3. The Governor of the RBI derives his power from the RBI Act.<br><br><b>Which of the above statements are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2, and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The 'Constitutional vs. Statutory' Absolute Trap:</b> <br><b>Statement 2 is entirely incorrect:</b> The power of the Central Government to issue binding directions to the RBI in public interest comes strictly from <b>Section 7 of the RBI Act, 1934</b>. The RBI is a statutory body, and there is absolutely <b>zero mention</b> of the RBI or its governance in the Constitution of India. The examiner plays on the fact that the power exists, but fakes its legal source.<br><b>Statements 1 and 3 are correct:</b> Governed by Section 8 and Section 7(3) of the RBI Act respectively.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>In India, the central bank’s function as the ‘lender of last resort’ usually refers to which of the following: (2021)</b><br><br>1. Lending to trade and industry bodies when they fail to borrow from other sources.<br>2. Providing liquidity to the banks having a temporary crisis.<br>3. Lending to governments to finance budgetary deficits.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Target Audience Trap:</b> 'Lender of Last Resort' is a highly specific central banking function. It strictly means stepping in to provide emergency liquidity to <b>scheduled commercial banks</b> that are facing a sudden bank run or temporary insolvency to prevent systemic systemic collapse. <br>The RBI does <b>not</b> lend directly to private trade/industry (Statement 1). While it manages government debt, lending to finance deficits (Statement 3) is termed 'deficit financing' or 'monetization of deficit', not 'lender of last resort'.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>If the RBI decides to adopt an expansionist monetary policy, which of the following would it not do? (2020)</b><br><br>1. Cut and optimize the Statutory Liquidity Ratio<br>2. Increase the Marginal Standing Facility Rate<br>3. Cut the Bank Rate and Repo Rate<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Negative Query Trap ('NOT DO'):</b> An expansionist policy aims to inject more money into the economy to boost growth. <br>- Cutting SLR (1) frees up bank funds to lend. (It WOULD do this).<br>- Cutting Repo Rate (3) makes borrowing cheaper, injecting liquidity. (It WOULD do this).<br>- Increasing the MSF rate (2) makes overnight borrowing for banks more expensive, acting as a tightening/contractionary measure. Therefore, the RBI would <b>NOT DO</b> this.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>If you withdraw Rs. 1,00,000 in cash from your Demand Deposit Account at your bank, the immediate effect on aggregate money supply in the economy will be (2020)</b>",
+    "options": [
+      "to reduce it by Rs. 1,00,000",
+      "to increase it by Rs. 1,00,000",
+      "to increase it by more than Rs. 1,00,000",
+      "to leave it unchanged"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: to leave it unchanged</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Money Supply Formula Trap:</b> Aggregate money supply (M1) is calculated as: <b>Currency with the public + Demand Deposits with the banking system</b>. When you withdraw cash, the 'Demand Deposit' component decreases by 1 Lakh, but the 'Currency with the public' component increases by exactly 1 Lakh. The net immediate effect on the aggregate M1 money supply is exactly zero. It merely changes the <i>form</i> of the money.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>Consider the following statements: (2018)</b><br><br>1. Capital Adequacy Ratio (CAR) is the amount that banks have to maintain in the form of their own funds to offset any loss that banks incur if any account-holders fail to repay dues.<br>2. CAR is decided by each individual bank.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> CAR (or CRAR) acts as a shock absorber. It requires banks to keep a percentage of their risk-weighted assets as their own capital to prevent insolvency during NPAs.<br><b>Statement 2 is incorrect (The Regulatory Trap):</b> Macro-prudential norms like CAR are absolutely <b>not</b> decided by individual banks. If left to themselves, banks would keep zero CAR to maximize lending. CAR is strictly mandated by the Central Bank (RBI) in accordance with the international <b>Basel III Norms</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>Which of the following statements is/are correct regarding the Monetary Policy Committee (MPC)? (2017)</b><br><br>1. It decides the RBI’s benchmark interest rates.<br>2. It is a 12-member body including the Governor of RBI and is reconstituted every year.<br>3. It functions under the chairmanship of the Union Finance Minister.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> Formed in 2016 (by amending the RBI Act), its core mandate is to determine the policy repo rate required to achieve the inflation target.<br><b>Statement 2 is incorrect (The Numbers Trap):</b> It is a <b>6-member</b> body (3 from RBI, 3 appointed by the Govt). It is not reconstituted every year; external members have a fixed 4-year term.<br><b>Statement 3 is incorrect (The Authority Trap):</b> The MPC functions under the chairmanship of the <b>Governor of the RBI</b>, not the Finance Minister. Autonomy of monetary policy is paramount.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>What is/are the purpose/purposes of the ‘Marginal Cost of Funds based Lending Rate (MCLR)’ announced by RBI? (2016)</b><br><br>1. These guidelines help improve the transparency in the methodology followed by banks for determining the interest rates on advances.<br>2. These guidelines help ensure availability of bank credit at interest rates which are fair to the borrowers as well as the banks.<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>MCLR was introduced in 2016 to replace the opaque 'Base Rate' system. Prior to MCLR, when RBI cut repo rates, banks did not pass the benefit to consumers. MCLR forces banks to price loans based strictly on their <i>marginal cost of funds</i> (including the repo rate), ensuring rapid monetary policy transmission, operational transparency, and fairness to both parties.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "RBI Functions & Monetary Policy",
+    "question": "<b>In the context of Indian economy which of the following is/are the purpose/purposes of ‘Statutory Reserve Requirements’? (2014)</b><br><br>1. To enable the Central Bank to control the amount of advances the banks can create.<br>2. To make the people’s deposits with banks safe and liquid.<br>3. To prevent the commercial banks from making excessive profits.<br>4. To force the banks to have sufficient vault cash to meet their day-to-day requirements.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Economic Rationale Trap:</b> Statutory Reserve Requirements (CRR and SLR) are primarily macroeconomic tools for <b>monetary control</b>. By varying CRR/SLR, the RBI dictates how much credit (advances) banks can create (Statement 1).<br><b>Why others are wrong:</b> <br>- Safe/Liquid deposits (2) and vault cash (4) are operational side-effects, but the core 'purpose' is credit control. Vault cash specifically is for daily operations, while CRR is kept with RBI.<br>- Preventing 'excessive profits' (3) is a socialist distractor. RBI does not cap bank profits.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
