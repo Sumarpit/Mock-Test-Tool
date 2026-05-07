@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
     <title>Exam Mock Tool</title>
-    <!-- PDF Generation Library -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
     <link rel="manifest" href="manifest.json">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📘</text></svg>">
@@ -428,7 +427,6 @@
             <div class="score-card"><h2 id="r-skip">0</h2><small>Skipped</small></div>
         </div>
         
-        <!-- ADVANCED METRICS -->
         <div class="adv-metrics-row" id="adv-metrics-row"></div>
 
         <div class="analysis-section">
@@ -1112,7 +1110,7 @@
         delete responses[currIdx]; 
         delete confidence[currIdx]; 
         eliminated[currIdx] = []; 
-        stamps[currIdx] = []; // Clear stamps as well
+        stamps[currIdx] = []; 
         loadQ(currIdx); 
         saveState(); 
     }
@@ -1337,11 +1335,11 @@
 
             const ans = responses[i];
             const conf = confidence[i] || 'None';
-            let status = 'Skipped', cls = 'skip';
+            let status = 'Skipped', cls = 'skip', uAns = 'Skipped';
 
             if(ans !== undefined) {
-                if(ans === q.answer) { status='Correct'; cls='correct'; }
-                else { status='Wrong'; cls='wrong'; }
+                if(ans === q.answer) { status='Correct'; cls='correct'; uAns=q.options[ans]; }
+                else { status='Wrong'; cls='wrong'; uAns=q.options[ans]; }
             }
 
             // Generating Feature 1: The Autopsy View
@@ -1819,6 +1817,20 @@
             const key = e.key.toLowerCase();
             if (key === 'c') { if (typeof clearRes === 'function') clearRes(); }
             if (key === 'n') { if (typeof toggleSidebar === 'function') toggleSidebar(); }
+            
+            // NEW: 'x' key for Stamp Toggling
+            if (key === 'x') {
+                e.preventDefault(); 
+                if (typeof setStampTool === 'function') {
+                    if (!currentStampTool) {
+                        setStampTool('cross');
+                    } else if (currentStampTool === 'cross') {
+                        setStampTool('tick');
+                    } else {
+                        setStampTool('cross');
+                    }
+                }
+            }
             
             if (e.key === 'ArrowRight') { if (typeof nextQ === 'function') nextQ(); } 
             else if (e.key === 'ArrowLeft') { if (typeof prevQ === 'function') prevQ(); }
