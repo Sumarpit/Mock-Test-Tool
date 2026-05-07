@@ -1,0 +1,302 @@
+[
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement I:</b> Circular economy reduces the emissions of greenhouse gases.<br><b>Statement II:</b> Circular economy reduces the use of raw materials as inputs.<br><b>Statement III:</b> Circular economy reduces wastage in the production process.<br><br><b>Which one of the following is correct in respect of the above statements? (2025)</b>",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement I and Statement II are correct & Statement I explains Statement II",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement II and Statement III are correct and both of them explain Statement I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Causal Mechanism Trap:</b> The examiner tests whether you understand the fundamental mechanics of a concept, not just its definition. Statement I is the macro-level outcome (reduced emissions). Statements II and III are the exact physical and process methods (minimizing new raw material extraction and reducing waste generation) that <i>cause</i> and <i>explain</i> that macro-level outcome. Reusing and recycling directly cut emissions from transportation, extraction, and disposal.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>Consider the following statements:</b><br><br>1. The Self-Help Group (SHG) Programme was originally initiated by the State Bank of India by providing microcredit to the financial deprived.<br>2. In an SHG, all members of a group take responsibility for a loan that an individual member takes.<br>3. The Regional Rural Banks and Scheduled Commercial Banks support SHGs.<br><br><b>How many of the above statements are correct? (2023)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The Institutional Genesis Trap):</b> The examiner intentionally swaps the foundational institution. The SHG-Bank Linkage Programme was notoriously initiated by <b>NABARD</b> in 1992, not the State Bank of India. Candidates frequently conflate the largest commercial bank with the apex rural development bank.<br><b>Statements 2 and 3 are correct:</b> The bedrock of SHG lending is 'joint liability' or peer pressure (Statement 2), and they are extensively supported by the formal banking sector including RRBs and SCBs (Statement 3).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>With reference to land reforms in independent India, which one of the following statements is correct? (2019)</b>",
+    "options": [
+      "The ceiling laws were aimed at family holdings and not individual holdings.",
+      "The major aim of land reforms was providing agricultural land to all the landless.",
+      "It resulted in cultivation of cash crops as a predominant form of cultivation.",
+      "Land reforms permitted no exemptions to the ceiling limits."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The major aim of land reforms was providing agricultural land to all the landless.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Exemption/Absolute Trap:</b> Option D uses the extreme phrase \"permitted no exemptions\" - ceiling limits had massive exemptions for plantations, orchards, and religious trusts. Option A is inverted: initially, ceiling laws targeted <i>individual</i> holdings, which led to massive evasion via benami transfers to family members, before being amended. Option B states the absolute core objective of independent India's land redistribution.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>In a given year in India, official poverty lines are higher in some States than in others because (2019)</b>",
+    "options": [
+      "poverty rates vary from State to State",
+      "price levels vary from State to State",
+      "Gross State Product varies from State to State",
+      "quality of public distribution varies from State to State"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: price levels vary from State to State</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Rate vs. Line Semantic Trap:</b> The examiner tests the mathematical definition of the 'Poverty Line' (Tendulkar Methodology). The poverty line is the exact rupee value required to purchase a fixed, standard basket of goods (food, education, health). Because the physical cost (inflation/price level) of this exact same basket varies geographically across states, the monetary 'line' must naturally be higher in states with higher price levels.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>With reference to India’s Five-Year Plans, which of the following statements is/are correct?</b><br><br>1. From the Second Five-Year Plan, there was a determined thrust towards substitution of basic and capital good industries.<br>2. The Fourth Five-Year Plan adopted the objective of correcting the earlier trend of increased concentration of wealth and economic power.<br>3. In the Fifth Five-Year Plan, for the first time, the financial sector was included as an integral part of the Plan.<br><br><b>Select the correct answer using the code given below. (2019)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> The Mahalanobis model of the 2nd FYP prioritized heavy, basic, and capital goods industries.<br><b>Statement 2 is correct:</b> The 4th Plan aimed to curb the urban bias and wealth concentration generated by the earlier plans by moving towards a socialistic pattern.<br><b>Statement 3 is incorrect (The Timeline Trap):</b> The financial sector was integrated into planning much later, specifically post-liberalization (Ninth FYP onwards), not during the Fifth Plan (which was famed for <i>Garibi Hatao</i>).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>Despite being a high saving economy, capital formation may not result in significant increase in output due to (2018)</b>",
+    "options": [
+      "weak administrative machinery",
+      "illiteracy",
+      "high population density",
+      "high capital-output ratio"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: high capital-output ratio</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Economic Equation Trap:</b> The examiner ignores socio-political distractors (A, B, C) to test a pure macroeconomic identity. The Incremental Capital-Output Ratio (ICOR) measures the amount of capital required to produce one unit of output. If this ratio is extremely high, it implies the economy is inefficient. Therefore, even if you pour massive savings/capital into the system, the output will stagnate because the machinery/processes are highly inefficient.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>Which of the following has/have occurred in India after its liberalization of economic policies in 1991?</b><br><br>1. Share of agriculture in GDP increased enormously.<br>2. Share of India’s exports in world trade increased.<br>3. FDI inflows increased.<br>4. India’s foreign exchange reserves increased enormously.<br><br><b>Select the correct answer using the codes given below: (2017)</b>",
+    "options": [
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2, 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The Sectoral Shift Trap):</b> While agricultural <i>output</i> grew in absolute terms post-1991, its proportional <i>share in the GDP</i> crashed dramatically (from ~31% to under 20%) as the services and manufacturing sectors exploded. <br><b>Statements 2, 3, and 4 are correct:</b> Liberalization inherently deregulated the external sector, leading to massive spikes in FDI, exports, and forex reserves (from a dismal $5.8B in 1991).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>The substitution of steel for wooden ploughs in agricultural production is an example of (2015)</b>",
+    "options": [
+      "labour-augmenting technological progress",
+      "capital-augmenting technological progress",
+      "capital-reducing technological progress",
+      "None of the above"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: capital-augmenting technological progress</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Economic Taxonomy Trap:</b> The examiner tests your understanding of productivity variables. A plough is a capital good. Replacing a less efficient wooden plough with a highly durable and efficient steel plough increases the productivity and output of that specific capital good without requiring additional labor. This is the textbook definition of <b>capital-augmenting technological progress</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>The main objective of the 12th Five-Year Plan is: (2014)</b>",
+    "options": [
+      "inclusive growth and poverty reduction.",
+      "inclusive and sustainable growth.",
+      "sustainable and inclusive growth to reduce unemployment.",
+      "faster, sustainable and more inclusive growth."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: faster, sustainable and more inclusive growth.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Nomenclature Trap:</b> The examiner relies on candidates confusing the 11th and 12th Plan themes. The 11th FYP slogan was \"Towards Faster & More Inclusive Growth\". The 12th FYP (2012-2017) explicitly added the term <b>\"Sustainable\"</b> due to rising global environmental concerns, culminating in the exact phrase: \"Faster, Sustainable, and More Inclusive Growth\".",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>Which of the following are associated with ‘Planning’ in India?</b><br><br>1. The Finance Commission<br>2. The National Development Council<br>3. The Union Ministry of Rural Development<br>4. The Union Ministry of Urban Development<br>5. The Parliament<br><br><b>Select the correct answer using the code given below: (2014)</b>",
+    "options": [
+      "1, 2 and 5 only",
+      "1, 3 and 4 only",
+      "2 and 5 only",
+      "1, 2, 3, 4 and 5 only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 2 and 5 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Jurisdictional Boundary Trap:</b> The Finance Commission (Article 280) is strictly meant for the devolution of tax revenues between the Centre and States; it has zero mandate in macroeconomic planning. Individual ministries (Rural/Urban Development) execute specific schemes but do not formulate the national 'Plan'. Only the <b>National Development Council</b> (the apex approval body for Five Year Plans) and the <b>Parliament</b> (which votes on the required budgetary outlays) are fundamentally associated with the apex Planning architecture.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>Disguised unemployment generally means (2013)</b>",
+    "options": [
+      "large number of people remain unemployed",
+      "alternative employment is not available",
+      "marginal productivity of labour is zero",
+      "productivity of workers is low"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: marginal productivity of labour is zero</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Technical Definition Trap:</b> Disguised unemployment is a hidden form of unemployment rampant in Indian agriculture. While options B and D are true <i>symptoms</i> or <i>causes</i>, the strict economic definition is when surplus labor is employed (e.g., 15 people doing a job that requires 10). Because the extra 5 workers add absolutely nothing to the total output, the <b>marginal productivity</b> of the additional labor is exactly <b>zero</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>To obtain full benefits of demographic dividend, what should India do? (2013)</b>",
+    "options": [
+      "Promoting skill development",
+      "Introducing more social security schemes",
+      "Reducing infant mortality rate",
+      "Privatization of higher education"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Promoting skill development</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Prerequisite Trap:</b> A demographic dividend represents a massive bulge in the working-age population. However, this population is an economic liability (leading to unrest) if they are unemployable. The absolute pre-requisite to converting raw youth numbers into economic growth is equipping them with industry-relevant competencies through aggressive <b>skill development</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>Economic growth in country X will necessarily have to occur if (2013)</b>",
+    "options": [
+      "there is a technical progress in the world economy",
+      "there is population growth in X",
+      "there is capital formation in X",
+      "the volume of trade grows in the world economy"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: there is capital formation in X</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The \"Necessarily\" Trap:</b> Options A and D are global factors that might bypass country X if it has a closed economy. Population growth (Option B) can lead to poverty if not productive. The only macroeconomic certainty is that if there is <b>capital formation</b> (investment in fixed assets like machinery, factories, infrastructure), the productive capacity of the nation increases, making domestic economic growth a mathematical necessity.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>The national income of a country for a given period is equal to the (2013)</b>",
+    "options": [
+      "total value of goods and services produced by the nationals",
+      "sum of total consumption and investment expenditure",
+      "sum of personal income of all individuals",
+      "money value of final goods and services produced"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: money value of final goods and services produced</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Double Counting Trap:</b> National Income measures the total economic output. It is critical to measure only the <b>final</b> goods and services. If intermediate goods are included, it leads to the error of double counting. Option C is wrong because personal income excludes corporate retained earnings and taxes.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>Which of the following can be said to be essentially the parts of ‘Inclusive Governance’?</b><br><br>1. Permitting the Non-Banking Financial Companies to do banking<br>2. Establishing effective District Planning Committees in all the districts<br>3. Increasing the government spending on public health<br>4. Strengthening the Mid-day Meal Scheme<br><br><b>Select the correct answer using the code given below: (2012)</b>",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 2, 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Terminology Dilution Trap:</b> 'Inclusive Governance' strictly means empowering marginalized sections and ensuring grassroots participation. DPCs (2) ensure decentralized, democratic planning. Spending on public health (3) and the Mid-Day Meal scheme (4) directly protect the most vulnerable strata. Permitting NBFCs to perform standard banking functions (1) is a matter of financial sector deregulation and does not inherently guarantee inclusiveness for the marginalized.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>The term “Gresham’s Law” is often mentioned in the context of economics. What does it state? (2011)</b>",
+    "options": [
+      "Bad money drives out good money when both are in circulation.",
+      "Good money drives out bad money when both are in circulation.",
+      "Inflation drives out deflation in the economy.",
+      "Market competition drives out inefficient producers."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Bad money drives out good money when both are in circulation.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Classic Static Theory:</b> Gresham's Law observes human economic behavior regarding legal tender. If two forms of money have the same face value but different intrinsic values (e.g., a silver coin vs. a debased copper coin), the public will hoard the \"good\" money (silver) and exclusively spend the \"bad\" money. Thus, bad money drives the good money out of active circulation.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>What does the term “economic liberalization” refer to in the context of Indian economy? (2011)</b>",
+    "options": [
+      "Expansion of the public sector",
+      "Restriction of foreign investment",
+      "Removal of restrictions on private sector and encouragement of free market policies",
+      "Increase in trade barriers"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Removal of restrictions on private sector and encouragement of free market policies</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Ideological Baseline:</b> The 1991 LPG (Liberalization, Privatization, Globalization) reforms dismantled the \"License Raj\". Liberalization explicitly refers to the relaxation of previous government restrictions (de-regulation) on economic activities, allowing the private sector and free-market forces greater control over resource allocation.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>India is regarded as a country with a “Demographic Dividend”. This is due to (2011)</b>",
+    "options": [
+      "Its high population in the age group below 15 years.",
+      "Its high population in the age group of 15-64 years.",
+      "Its high population in the age group above 65 years.",
+      "Its high total population."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Its high population in the age group of 15-64 years.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Dependency Ratio Trap:</b> The examiner tests the exact demographic age bracket. A population below 15 or above 65 is technically a \"dependent\" population, increasing the economic burden on the State. The \"dividend\" strictly arises from a massive bulge in the independent, working-age population, globally classified as <b>15-64 years</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>In the context of Indian economy, consider the following pairs:</b><br><br><b>Term : Most appropriate description</b><br>1. Melt down : Fall in stock prices<br>2. Recession : Fall in growth rate<br>3. Slow down : Fall in GDP<br><br><b>Which of the pairs given above is/are correctly matched? (2010)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Semantic Swap Trap:</b> The examiner intentionally swapped the definitions for pairs 2 and 3. <br>- A <b>Slowdown</b> means the economy is still growing, but the <i>rate</i> of growth has fallen.<br>- A <b>Recession</b> is a drastic macroeconomic event defined by a prolonged contraction in output, meaning an absolute <i>fall in GDP</i> for two or more consecutive quarters.<br>- A Meltdown correctly refers to a steep, sudden fall in asset/stock prices.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Economic Growth & Macro-Framework",
+    "question": "<b>In the context of India’s Five Year Plans, a shift in the pattern of industrialization, with lower emphasis on heavy industries and more on infrastructure begins in (2010)</b>",
+    "options": [
+      "Fourth Plan",
+      "Sixth Plan",
+      "Eighth Plan",
+      "Tenth Plan"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Eighth Plan</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Post-Liberalization Pivot:</b> The Eighth Five Year Plan (1992-1997) was the first plan implemented after the 1991 economic crisis and the subsequent LPG reforms. Recognizing the limitations of the State running heavy industries (the old Nehru-Mahalanobis model), the government shifted its role to an \"indicative planning\" framework, focusing heavily on building <b>infrastructure</b> while leaving heavy industrial manufacturing to the newly unleashed private sector.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
