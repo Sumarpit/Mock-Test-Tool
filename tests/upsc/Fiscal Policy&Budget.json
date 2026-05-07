@@ -1,0 +1,467 @@
+[
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Consider the following statements:</b><br><br>I. Capital receipts create a liability or cause a reduction in the assets of the Government.<br>II. Borrowings and disinvestment are capital receipts.<br>III. Interest received on loans creates a liability of the Government.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I and II only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement I is correct:</b> The fundamental definition of a capital receipt in government accounting is that it either creates a liability (e.g., borrowing) or reduces an asset (e.g., selling PSU shares).<br><b>Statement II is correct:</b> Borrowings create a liability for future repayment. Disinvestment involves selling government assets. Both perfectly fit the definition of capital receipts.<br><b>Statement III is incorrect (The Accounting Trap):</b> Interest received on loans given by the government is a recurring income. It neither creates a liability nor reduces an asset. It is strictly classified as a <b>Revenue Receipt</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Suppose the revenue expenditure is ₹80,000 crores and the revenue receipts of the Government are ₹60,000 crores. The Government budget also shows borrowings of ₹10,000 crores and interest payments of ₹6,000 crores. Which of the following statements are correct?</b><br><br>I. Revenue deficit is ₹20,000 crores.<br>II. Fiscal deficit is ₹10,000 crores.<br>III. Primary deficit is ₹4,000 crores.<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: I, II and III</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement I is correct:</b> Revenue Deficit = Revenue Expenditure - Revenue Receipts = 80,000 - 60,000 = ₹20,000 crores.<br><b>Statement II is correct (The Identity Trap):</b> The examiner omits capital expenditure data to induce panic. However, by foundational macroeconomic definition, <b>Fiscal Deficit is exactly equal to Total Borrowings</b>. Since borrowings are explicitly given as ₹10,000 crores, the fiscal deficit is intrinsically ₹10,000 crores.<br><b>Statement III is correct:</b> Primary Deficit = Fiscal Deficit - Interest Payments = 10,000 - 6,000 = ₹4,000 crores.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>A country’s fiscal deficit stands at ₹50,000 crores. It is receiving ₹10,000 crores through non-debt creating capital receipts. The country’s interest liabilities are ₹1,500 crores. What is the gross primary deficit?</b>",
+    "options": [
+      "₹48,500 crores",
+      "₹51,500 crores",
+      "₹58,500 crores",
+      "None of the above"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: ₹48,500 crores</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Distractor Trap:</b> This question tests your absolute conviction in formulas. The formula for Primary Deficit is simple: <b>Fiscal Deficit - Interest Payments</b>. Here, that is 50,000 - 1,500 = ₹48,500 crores. The \"₹10,000 crores non-debt creating capital receipts\" is a pure statistical decoy injected by the examiner to trap candidates into over-calculating.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>With reference to the Indian economy, consider the following statements :</b><br><br>1. A share of the household financial savings goes towards government borrowings.<br>2. Dated securities issued at market-related rates in auctions form a large component of internal debt.<br><br><b>Which of the above statements is/are correct ?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> A massive chunk of the government's internal borrowing is financed by household financial savings, which are channeled through banks (via the Statutory Liquidity Ratio mandate) and small savings schemes like Provident Funds.<br><i>Note: While Dated Securities do form the largest component of India's internal debt in real-world economics, the provided official source key strictly marks only statement 1 as correct for this specific PYQ. Examiners sometimes manipulate definitions of \"large component\" based on relative context.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>With reference to the expenditure made by an organisation or a company, which of the following statements is/are correct ?</b><br><br>1. Acquiring new technology is capital expenditure.<br>2. Debt financing is considered capital expenditure, while equity financing is considered revenue expenditure.<br><br><b>Select the correct answer using the code given below :</b>",
+    "options": [
+      "1 only",
+      "Both 1 and 2",
+      "2 only",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> Acquiring new technology generates long-term future economic benefits and creates an asset. Therefore, it is strictly classified as Capital Expenditure.<br><b>Statement 2 is incorrect (The Accounting Swap Trap):</b> Equity financing is absolutely <b>not</b> revenue expenditure. Both debt financing (issuing bonds/taking loans) and equity financing (issuing shares) are mechanisms to raise long-term capital and are recorded under the capital account.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Which among the following steps is most likely to be taken at the time of an economic recession?</b>",
+    "options": [
+      "Cut in tax rates accompanied by an increase in interest rates.",
+      "Increase in expenditure on public projects.",
+      "Increase in tax rates accompanied by a reduction of interest rates.",
+      "Reduction of expenditure on public projects."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Increase in expenditure on public projects.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Counter-Cyclical Policy Trap:</b> During a recession, the private sector pulls back investment and consumption. To counteract this downward spiral, the government must adopt an <b>expansionary fiscal policy</b>. Increasing expenditure on public infrastructure injects immediate liquidity, creates jobs, and boosts aggregate demand. Raising interest rates (Option A) or tax rates (Option C) would choke off credit and contract the economy further.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Which one of the following effects of the creation of black money in India has been the main cause of worry to the Government of India?</b>",
+    "options": [
+      "Diversion of resources to the purchase of real estate and investment in luxury housing",
+      "Investment in unproductive activities and purchase of precious stones, jewelry, gold, etc.",
+      "Large donations to political parties and the growth of regionalism",
+      "Loss of revenue to the State Exchequer due to tax evasion"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Loss of revenue to the State Exchequer due to tax evasion</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Bureaucratic Perspective Trap:</b> Options A, B, and C are indeed valid socio-economic side-effects of a parallel black economy. However, from the strict, functional standpoint of the Government apparatus (the Treasury/Exchequer), the <b>primary and direct macroscopic worry</b> is the massive loss of tax revenue, which paralyzes fiscal policy, forces higher borrowing, and restricts public welfare spending.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>With reference to the Indian economy after the 1991 economic liberalization, consider the following statements:</b><br><br>1. Worker productivity (Rupee per worker at 2004-05 prices) increased in urban areas while it decreased in rural areas.<br>2. The percentage share of rural areas in the workforce steadily increased.<br>3. In rural areas, the growth in non-farm economy increased.<br>4. The growth rate in rural employment decreased.<br><br><b>Which of the statements given above is/ are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "3 only",
+      "1, 2 and 4 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> Due to liberalization and mechanization, worker productivity actually increased in <i>both</i> urban and rural areas.<br><b>Statement 2 is incorrect (The 'Steady' Trap):</b> The percentage share of rural areas in the total workforce has steadily <i>declined</i> (not increased) due to mass migration to urban centers for better wages.<br><b>Statements 3 and 4 are correct:</b> Post-1991, the rural non-farm sector (like construction and basic services) saw growth, but the overall growth rate of rural employment decreased as agriculture saturated and began shedding surplus labor.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Along with the Budget, the Finance Minister also places other documents before the Parliament which include ‘The Macro Economic Framework Statement’. The aforesaid document is presented because this is mandated by</b>",
+    "options": [
+      "Long standing parliamentary convention",
+      "Article 112 and Article 110(1) of the Constitution of India",
+      "Article 113 of the Constitution of India",
+      "Provisions of the Fiscal Responsibility and Budget Management Act, 2003"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Provisions of the Fiscal Responsibility and Budget Management Act, 2003</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Constitutional vs. Statutory Trap:</b> Candidates often blindly guess Constitutional Articles for any budget-related document. The 'Macro Economic Framework Statement', along with the 'Medium-Term Fiscal Policy Statement' and 'Fiscal Policy Strategy Statement', are strictly <b>statutory requirements</b> mandated by the Fiscal Responsibility and Budget Management (FRBM) Act of 2003, not the Constitution.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>If another global financial crisis happens in the near future, which of the following actions/policies are most likely to give some immunity to India?</b><br><br>1. Not depending on short-term foreign borrowings<br>2. Opening up to more foreign banks<br>3. Maintaining full capital account convertibility<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> Short-term foreign borrowings are highly volatile (often called \"hot money\"). Restricting dependence on them shields the economy from sudden, catastrophic capital flight during a global panic.<br><b>Statements 2 and 3 are incorrect (The Contagion Trap):</b> Opening up to more foreign banks and allowing full capital account convertibility would integrate India deeper into the global financial system. During a crisis, this drastically <b>increases</b> our vulnerability to global contagion rather than providing immunity.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Consider the following statements:</b><br><br>1. Most of India’s external debt is owed by governmental entities.<br>2. All of India’s external debt is denominated in US dollars.<br><br><b>Which of the statements given above is / are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> The largest component of India's external debt is consistently <b>commercial borrowings</b> (owed by the private sector), not sovereign debt owed by governmental entities.<br><b>Statement 2 is incorrect (The Extreme Word Trap):</b> The examiner uses the absolute word \"All\". While the US dollar is the dominant currency for denomination, India's external debt is heavily diversified and also denominated in Indian Rupees, SDRs, Japanese Yen, and Euros.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>In the context of India, which of the following factors is/are contributor/ contributors to reducing the risk of a currency crisis?</b><br><br>1. The foreign currency earnings of India’s IT sector<br>2. Increasing the government expenditure<br>3. Remittances from Indians abroad<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statements 1 and 3 are correct:</b> A currency crisis happens when a country lacks sufficient foreign exchange. Both IT exports and NRI remittances bring massive amounts of foreign exchange (dollars) into the RBI's reserves, strengthening the Rupee and defending against crises.<br><b>Statement 2 is incorrect (The Deficit Trap):</b> Increasing government expenditure generally widens the fiscal deficit. This can lead to inflation and higher import demand, which drains forex reserves and actually <b>increases</b> the risk of a currency crisis.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Consider the following statements:</b><br><br>1. The Fiscal Responsibility and Budget Management (FRBM) Review Committee Report has recommended a debt to GDP ratio of 60% for the general (combined) government by 2023, comprising 40% for the Central Government and 20% for the State Governments.<br>2. The Central Government has domestic liabilities of 21% of GDP as compared to that of 49% of GDP of the State Governments.<br>3. As per the Constitution of India, it is mandatory for a State to take the Central Government’s consent for raising any loan if the former owes any outstanding liabilities to the latter.<br><br><b>Which of the statements given above is/ are correct?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> The N.K. Singh Committee (FRBM Review) explicitly recommended the 60% combined debt target (40% Centre + 20% States).<br><b>Statement 2 is incorrect (The Statistical Reversal Trap):</b> The examiner swapped the numbers. The Central government's debt was much higher (~49% of GDP) compared to the States (~21% of GDP).<br><b>Statement 3 is correct:</b> This is mandated under Article 293(3) of the Constitution, operating as a strict federal safeguard to enforce fiscal discipline over state governments.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>If a commodity is provided free to the public by the Government, then</b>",
+    "options": [
+      "the opportunity cost is zero.",
+      "the opportunity cost is ignored.",
+      "the opportunity cost is transferred from the consumers of the product to the tax-paying public.",
+      "the opportunity cost is transferred from the consumers of the product to the Government."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: the opportunity cost is transferred from the consumers of the product to the tax-paying public.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The \"Free\" Illusion Trap:</b> In core economic theory, \"There is no such thing as a free lunch.\" If a good is free to the consumer, the opportunity cost is never zero. It is absorbed by the tax-paying public, whose funds could have been deployed for alternative infrastructural or developmental projects. The abstract entity of the \"Government\" does not bear the cost; the taxpayers do.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>With reference to the ‘Prohibition of Benami Property Transactions Act, 1988 (PBPT Act)’, consider the following statements:</b><br><br>1. A property transaction is not treated as a benami transaction if the owner of the property is not aware of the transaction.<br>2. Properties held benami are liable for confiscation by the Government.<br>3. The Act provides for three authorities for investigations but does not provide for any appellate mechanism.<br><br><b>Which of the statements given above is/ are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 3 only",
+      "2 and 3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> Ignorance is no defense under this law. A transaction is considered benami regardless of whether the fictitious/front owner is aware of it.<br><b>Statement 2 is correct:</b> The core penal provision of the PBPT Act allows the Central Government to confiscate benami properties without providing any compensation.<br><b>Statement 3 is incorrect (The Appellate Trap):</b> The Act respects natural justice and explicitly establishes an Adjudicating Authority and an Appellate Tribunal to hear appeals.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Which of the following is/are included in the capital budget of the Government of India?</b><br><br>1. Expenditure on acquisition of assets like roads, buildings, machinery, etc.<br>2. Loans received from foreign governments<br>3. Loans and advances granted to the States and Union Territories<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Capital Budget Definition:</b> The capital budget deals exclusively with transactions that alter the asset/liability status of the Government.<br>1. Asset acquisition = Creates an asset = Capital Expenditure.<br>2. Foreign loans = Creates a future liability = Capital Receipt.<br>3. Loans given to States = Creates an asset (future repayment/interest) = Capital Expenditure. All three correctly fall under the Capital Budget.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>There has been a persistent deficit budget year after year. Which action/actions of the following can be taken by the Government to reduce the deficit?</b><br><br>1. Reducing revenue expenditure<br>2. Introducing new welfare schemes<br>3. Rationalizing subsidies<br>4. Reducing import duty<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Basic Arithmetic Trap:</b> To reduce a fiscal deficit, the government must either increase receipts or decrease expenditure. <br>- Reducing revenue exp (1) and rationalizing subsidies (3) decrease expenditure (Correct). <br>- Introducing new welfare schemes (2) increases expenditure (Widens deficit). <br>- Reducing import duty (4) decreases tax revenue (Widens deficit).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Convertability of rupee implies</b>",
+    "options": [
+      "being able to convert rupee notes into gold",
+      "allowing the value of rupee to be fixed by market forces",
+      "freely permitting the conversion of rupee to other currencies and vice versa",
+      "developing an international market for currencies in India"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: freely permitting the conversion of rupee to other currencies and vice versa</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Exchange Mechanism Trap:</b> Currency convertibility is the ease with which a country's currency can be exchanged. In the modern fiat context, it exclusively means the unhindered ability of residents and non-residents to swap Rupees for Dollars/Euros/etc., at market-determined rates for trade and capital transfers. (Option B defines a 'floating exchange rate', which is a related mechanism but not the strict definition of convertibility).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>There has been a persistent deficit budget year after year. Which of the following actions can be taken by the government to reduce the deficit?</b><br><br>(1) Reducing revenue expenditure<br>(2) Introducing new welfare schemes<br>(3) Rationalizing subsidies<br>(4) Expanding industries<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Repeater Trap:</b> This is virtually identical to the 2016 PYQ. The examiner re-uses the exact same logic matrix. Expanding industries (4) requires massive government capital expenditure or subsidies in the short term, which would widen the immediate budget deficit. Only cost-cutting austerity measures (1 and 3) directly reduce it.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>With reference to Union Budget, which of the following is/are covered under Non-Plan Expenditure?</b><br><br>1. Defence expenditure<br>2. Interest payments<br>3. Salaries and pensions<br>4. Subsidies<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4",
+      "None of the above"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Legacy Classification Trap:</b> Prior to the 2017-18 budget, expenditure was classified into 'Plan' and 'Non-Plan'. 'Non-Plan' was essentially all routine, maintenance, and committed liabilities of the government. Defence, Interest obligations, Salaries, Pensions, and Subsidies were the absolute largest components of this non-discretionary Non-Plan expenditure.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Which of the following constitute Capital Account?</b><br><br>(1). Foreign Loans<br>(2). Foreign Direct Investment<br>(3). Private Remittances<br>(4). Portfolio Investment<br><br><b>Select the correct answer using the codes given below.</b>",
+    "options": [
+      "1, 2 and 3",
+      "1, 2 and 4",
+      "2, 3 and 4",
+      "1, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 2 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Current vs. Capital BoP Trap:</b> The Capital Account records international transactions that alter the asset/liability status of the country. Loans (1), FDI (2), and FPI/Portfolio (4) all create future claims or financial liabilities. Private Remittances (3) are unilateral transfers (gifts/money sent home by NRIs) and strictly fall under the <b>Current Account</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>In India, deficit financing is used for raising resources for</b>",
+    "options": [
+      "economic development",
+      "redemption of public debt",
+      "adjusting the balance of payments",
+      "reducing the foreign debt"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: economic development</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Policy Objective Trap:</b> While deficit financing (borrowing or printing money to cover a budget shortfall) often causes inflation, its explicit macroeconomic policy objective in developing nations like India is to mobilize resources for rapid capital formation and <b>economic development</b>. It is counterproductive to use deficit financing simply to pay off old debts or balance external trade accounts.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Which one of the following statements appropriately describes the “fiscal stimulus”?</b>",
+    "options": [
+      "It is a massive investment by the Government in manufacturing sector to ensure the supply of goods to meet demand surge caused by rapid economic growth.",
+      "It is an intense affirmative action of the Government to boost economic activity in the country.",
+      "It is the Government’s intensive action on financial institutions to ensure disbursement of loans to agriculture and allied sectors to promote greater food production and contain food inflation.",
+      "It is an extreme affirmative action by the government to pursue its policy of financial inclusion."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: It is an intense affirmative action of the Government to boost economic activity in the country.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sectoral Limitation Trap:</b> A fiscal stimulus is an interventionist macroeconomic policy where the government deliberately increases its spending or cuts taxes to revive a sluggish aggregate economy. The examiner uses distractors (Options A, C, D) to restrict the definition to specific sectors like manufacturing, agriculture, or financial inclusion. A true fiscal stimulus is broad-based.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>In the context of the Indian economy, what does the term “deficit financing” refer to?</b>",
+    "options": [
+      "Financing by the Central Government to cover the deficit in the current account of the balance of payments.",
+      "Financing by the Central Government to cover the fiscal deficit by borrowing from the market.",
+      "Financing by the State Governments to cover their revenue deficit.",
+      "Financing by private corporations to cover their financial losses."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Financing by the Central Government to cover the fiscal deficit by borrowing from the market.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Narrow Definition Trap:</b> Deficit financing is the budgetary situation where total expenditure exceeds total revenue. To bridge this gap, the government resorts to deficit financing, primarily by borrowing from the market (issuing G-Secs) or the central bank. It has absolutely nothing to do with private corporations or covering the external Current Account Deficit.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Consider the following action which the Government can take:</b><br><br>1. Devaluing the domestic currency.<br>2. Reduction in export subsidy.<br>3. Adopting suitable policies which attract greater FDI and more funds from FIIs.<br><br><b>Which of the following action/actions can help in reducing the Current Account Deficit?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1 and 3 only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The BoP Mechanics Trap:</b> Devaluing the currency (1) makes exports cheaper and imports costlier, directly reducing the Current Account Deficit (CAD). Attracting FDI/FII (3) brings in massive foreign exchange, which offsets the deficit in the overall balance of payments. Reduction in export subsidy (2) would hurt exports and severely worsen the CAD.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>A “closed economy” is an economy in which</b>",
+    "options": [
+      "the money supply is fully controlled",
+      "deficit financing takes place",
+      "only exports take place",
+      "neither exports nor imports take place"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: neither exports nor imports take place</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Absolute Autarky Definition:</b> A closed economy (Autarky) is an absolute theoretical extreme where a nation is entirely self-sufficient. It has zero economic interaction with the outside world. Therefore, there is no international trade (neither exports nor imports) and no cross-border capital flows.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>All revenues received by the Union Government by way of taxes and other receipts for the conduct of Government business are credited to the</b>",
+    "options": [
+      "Contingency Fund of India",
+      "Public Account",
+      "Consolidated Fund of India",
+      "Deposits and Advances Fund"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Consolidated Fund of India</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Constitutional Anchor (Article 266):</b> All revenues (direct/indirect taxes), loans raised by the government, and receipts from loan recoveries flow strictly into the <b>Consolidated Fund of India</b>. The Public Account handles money where the government acts merely as a banker (e.g., Provident Funds), and the Contingency Fund is reserved for unforeseen emergencies.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Which one of the following was not stipulated in the Fiscal Responsibility and Budget Management Act, 2003 ?</b>",
+    "options": [
+      "Elimination of revenue deficit by the end of fiscal year 2007-08",
+      "Non-borrowing by the central government from Reserve Bank of India except under certain circumstances",
+      "Elimination of primary deficit by the end of the fiscal year 2008-09",
+      "Fixing government guarantees in any financial year as a percentage of GDP"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Elimination of primary deficit by the end of the fiscal year 2008-09</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Metric Swap Trap:</b> The original FRBM Act of 2003 legally mandated the elimination of the <b>Revenue Deficit</b> and the reduction of the <b>Fiscal Deficit</b> to 3% of GDP by 2008-09. It completely ignored the \"Primary Deficit\" as a hard target. The examiner relies on your inability to distinguish between these three distinct deficit metrics.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>In the Context of governance, consider the following:</b><br><br>1. Encouraging Foreign Direct Investment inflows<br>2. Privatization of higher educational Institutions<br>3. Down-sizing of bureaucracy<br>4. Selling/offloading the shares of Public Sector Undertakings<br><br><b>Which of the above can be used as measures to control the fiscal deficit in India?</b>",
+    "options": [
+      "1,2 and 3",
+      "2,3 and 4",
+      "1,2 and 4",
+      "3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2, 3 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Expenditure/Receipt Logic Trap:</b> <br>- Privatization (2) reduces the government's running subsidy burden. <br>- Downsizing bureaucracy (3) slashes long-term revenue expenditure (salaries/pensions). <br>- Selling PSU shares / Disinvestment (4) generates immediate capital receipts. All three directly reduce the fiscal deficit. <br>- FDI inflows (1) flow into the private sector and the broader capital account; they have no direct mitigating effect on the Government's internal fiscal deficit.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Which one of the following is responsible for the preparation and presentation of Union Budget of the Parliament?</b>",
+    "options": [
+      "Department of Revenue",
+      "Department of Economic Affairs",
+      "Department of Financial Services",
+      "Department of Expenditure"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Department of Economic Affairs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Intra-Ministry Trap:</b> The examiner tests your precise knowledge of the Finance Ministry's internal architecture. The Budget Division, which prepares the Union Budget, operates strictly under the <b>Department of Economic Affairs (DEA)</b>, not the Department of Revenue (which only handles tax administration and collection) or the Department of Expenditure.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Fiscal Policy and Budget",
+    "question": "<b>Consider the following actions by the Government:</b><br><br>1. Cutting the tax rates<br>2. Increasing the government spending<br>3. Abolishing the subsidies<br><br><b>In the context of economic recession, which of the above actions can be considered a part of the ‘fiscal stimulus’ package?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1,2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Counter-Cyclical Logic Trap:</b> A fiscal stimulus is designed to inject money into the hands of citizens during a recession. <br>- Cutting tax rates (1) increases disposable income for consumption. <br>- Increasing government spending (2) directly creates demand and jobs. <br>- Abolishing subsidies (3) is an austerity measure that would extract money from the vulnerable public, heavily deepening the recession.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
