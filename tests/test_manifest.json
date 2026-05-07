@@ -165,6 +165,8 @@
 ,
 {"name": "RBI Function & Monetary Policy PYQs", "filename": "RBI Function & Monetary Policy PYQs.json", "path": "tests/upsc/RBI Function & Monetary Policy PYQs.json"}
 ,
+{"name": "River System & Drainage PYQs", "filename": "River System & Drainage PYQs.json", "path": "tests/upsc/River System & Drainage PYQs.json"}
+,
 {"name": "SC HC", "filename": "SC HC.json", "path": "tests/upsc/SC HC.json"}
 ,
 {"name": "SFG 01", "filename": "SFG 01.json", "path": "tests/upsc/SFG 01.json"}
