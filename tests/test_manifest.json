@@ -111,6 +111,8 @@
 ,
 {"name": "2023Pre", "filename": "2023Pre.json", "path": "tests/upsc/2023Pre.json"}
 ,
+{"name": "Banking&Finance", "filename": "Banking&Finance.json", "path": "tests/upsc/Banking&Finance.json"}
+,
 {"name": "CA UPSC Essentials Part 1", "filename": "CA UPSC Essentials Part 1.json", "path": "tests/upsc/CA UPSC Essentials Part 1.json"}
 ,
 {"name": "CA UPSC Essentials Part 2", "filename": "CA UPSC Essentials Part 2.json", "path": "tests/upsc/CA UPSC Essentials Part 2.json"}

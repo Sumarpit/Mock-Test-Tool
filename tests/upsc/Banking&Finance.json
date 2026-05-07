@@ -1,0 +1,362 @@
+[
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Syndicated lending spreads the risk of borrower default across multiple lenders.<br><b>Statement-II:</b> The syndicated loan can be a fixed amount/lump sum of funds, but cannot be a credit line.<br><br><b>Which one of the following is correct in respect of the above statements? (2024)</b>",
+    "options": [
+      "Both Statement-I & Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I & Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct, but Statement-II is incorrect</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement-I is correct:</b> Syndicated lending involves a group of lenders providing funds to a single borrower, fundamentally designed to disperse and spread credit risk.<br><b>Statement-II is incorrect (The Definitional Limit Trap):</b> The examiner inserts an absolute constraint ('cannot be a credit line'). In corporate finance, a syndicated loan can be a term loan (lump sum) OR a revolving credit facility (credit line).<br><b>2026 Calibration:</b> With the rise in corporate deleveraging, expect questions comparing syndicated loans with external commercial borrowings (ECBs).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>With reference to the rule/rules imposed by the Reserve Bank of India while treating foreign banks, consider the following statements:</b><br><br>1. There is no minimum capital requirement for wholly owned banking subsidiaries in India.<br>2. For wholly owned banking subsidiaries in India, at least 50% of the board members should be Indian nationals.<br><br><b>Which of the statements given above is/are correct? (2024)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The Exemption Trap):</b> The examiner tests the false assumption that foreign subsidiaries get a free pass. Under RBI norms, wholly owned subsidiaries (WOS) of foreign banks have a strict minimum initial capital requirement (₹500 crore/₹10 billion).<br><b>Statement 2 is correct:</b> Corporate governance mandates that not less than 50% of the directors should be Indian nationals/NRIs/PIOs, subject to one-third being resident Indian nationals.<br><b>PYQ Reverse-Engineering:</b> RBI’s differentiated licensing conditions for foreign banks, SFBs, and Payment Banks are top-tier themes.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>With reference to the Central Bank digital currencies, consider the following statements:</b><br><br>1. It is possible to make payments in a digital currency without using US dollar or SWIFT system.<br>2. A digital currency can be distributed with a condition programmed into it such as time-frame for spending it.<br><br><b>Which of the statements given above is/are correct? (2023)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> The core geopolitical motivation for CBDCs (like e-Rupee) is bypassing the SWIFT network and dollar hegemony for direct cross-border settlements.<br><b>Statement 2 is correct:</b> CBDCs are programmable money. Central banks can embed 'smart contracts' dictating expiry dates or restricting usage to specific sectors (e.g., agricultural subsidies).<br><b>2026 Calibration:</b> Cross-reference this with the UPI internationalization (NIPL) and Project Nexus (RBI-BIS collaboration) for instant cross-border payments.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>Consider the following statements with reference to India:</b><br><br>1. According to the ‘Micro, Small and Medium Enterprises Development (MSMED) Act, 2006’, the ‘medium enterprises’ are those with investments in plant and machinery between Rs. 15 crore and Rs. 25 crore.<br>2. All bank loans to the Micro, Small and Medium Enterprises qualify under the priority sector.<br><br><b>Which of the statements given above is/are correct? (2023)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The Outdated Data Trap):</b> The examiner uses the obsolete 2006 definition. The MSME classification was revised in July 2020. A 'medium' enterprise now allows investment up to ₹50 crore and turnover up to ₹250 crore.<br><b>Statement 2 is correct:</b> Under RBI's Priority Sector Lending (PSL) guidelines, all bank loans to MSMEs are mandated to be classified as priority sector advances.<br><b>Current Affairs Integration:</b> Tracking the Udyam Registration portal statistics is necessary for the upcoming prelims.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>With reference to the ‘Banks Board Bureau (BBB)’, which of the following statements are correct?</b><br><br>1. The Governor of RBI is the Chairman of BBB.<br>2. BBB recommends for the selection of heads for Public Sector Banks.<br>3. BBB helps the Public Sector Banks in developing strategies and capital raising plans.<br><br><b>Select the correct answer using the code given below: (2022)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The Institutional Head Trap):</b> The BBB (now replaced by the Financial Services Institutions Bureau - FSIB) was headed by a Central Government appointee, not the RBI Governor.<br><b>Statements 2 and 3 are correct:</b> Based on the P.J. Nayak Committee, it was formed to recommend whole-time directors for PSBs and advise them on capital-raising strategies.<br><b>Current Affairs Integration:</b> Note that the BBB has been reconstituted as the FSIB; understand its extended mandate over public sector insurance companies.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>What is the importance of the term “Interest Coverage Ratio” of a firm in India?</b><br><br>1. It helps in understanding the present risk of a firm that a bank is going to give loan to.<br>2. It helps in evaluating the emerging risk of a firm that a bank is going to give loan to.<br>3. The higher a borrowing firm’s level of Interest Coverage Ratio, the worse is its ability to service its debt.<br><br><b>Select the correct answer using the code given below: (2020)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 3 is incorrect (The Inverse Logic Trap):</b> Interest Coverage Ratio (EBIT / Interest Expense) measures a company's ease in paying interest. A *higher* ratio implies the firm generates significantly more earnings than its interest obligations, meaning a *better* (not worse) ability to service debt.<br><b>Statements 1 and 2 are correct:</b> It is a standard metric used by banks to assess credit risk.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>“Gold Tranche” (Reserve Tranche) refers to (2020)</b>",
+    "options": [
+      "a loan system of the World Bank",
+      "one of the operations of a Central Bank",
+      "a credit system granted by WTO to its members",
+      "a credit system granted by IMF to its members"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: a credit system granted by IMF to its members</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Institutional Nomenclature Trap:</b> 'Reserve Tranche' is an IMF-specific term. It represents the portion of the required quota of currency each member country must provide to the IMF that can be accessed without a service fee or economic reform conditions. It has no connection to the World Bank or WTO.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>The Service Area Approach was implemented under the purview of (2019)</b>",
+    "options": [
+      "Integrated Rural Programme",
+      "Lead Bank Scheme",
+      "Mahatma Gandhi National Rural Employment Guarantee Scheme",
+      "National Skill Development Mission"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Lead Bank Scheme</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The Service Area Approach (SAA) was introduced in 1989 to bring about an orderly and planned development of rural and semi-urban areas. It was a direct operational extension of the <b>Lead Bank Scheme</b> (initiated by RBI under the Gadgil Study Group recommendations), wherein specific banks were assigned 'lead' responsibilities for districts.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>The Chairman of public sector banks are selected by the (2019)</b>",
+    "options": [
+      "Banks Board Bureau",
+      "Reserve Bank of India",
+      "Union Ministry of Finance",
+      "Management of concerned Bank"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Banks Board Bureau</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Authority Trap:</b> Candidates instinctively guess the Ministry of Finance or RBI. To depoliticize PSB appointments (P.J. Nayak Committee), the <b>Banks Board Bureau</b> was created to exclusively recommend whole-time directors and non-executive chairpersons. (Update for 2026: The BBB is now the FSIB).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>Which of the following is not included in the assets of a commercial bank in India? (2019)</b>",
+    "options": [
+      "Advances",
+      "Deposits",
+      "Investments",
+      "Money at call and short notice"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Deposits</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Accounting Illusion Trap:</b> To a layman, money in the bank (deposits) feels like an asset. To the bank's balance sheet, however, customer deposits are strict <b>liabilities</b> because the bank owes this money back to the depositors. Advances (loans given), investments (G-Secs), and call money are assets.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>What was the purpose of Inter-Creditor Agreement signed by Indian banks and financial institutions recently? (2019)</b>",
+    "options": [
+      "To lessen the Government of India’s perennial burden of fiscal deficit and current account deficit",
+      "To support the infrastructure projects of Central and State Governments",
+      "To act as independent regulator in case of applications for loans of Rs. 50 crore or more",
+      "To aim at faster resolution of stressed assets of Rs. 50 crore or more which are under consortium lending"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: To aim at faster resolution of stressed assets of Rs. 50 crore or more which are under consortium lending</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The Inter-Creditor Agreement (ICA) was part of the \"Project Sashakt\" committee framework (Sunil Mehta panel). It was signed by banks to authorize the lead bank to implement a resolution plan in consortium lending without delays caused by minority dissenting lenders, specifically targeting NPA resolution.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>With reference to the governance of public sector banking in India, consider the following statements:</b><br><br>1. Capital infusion into public sector banks by the Government of India has steadily increased in the last decade.<br>2. To put the public sector banks order, the merger of associate banks with the parent State Bank of India has been affected.<br><br><b>Which of the statements given above is/are correct? (2018)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The 'Steadily' Trap):</b> In UPSC economy questions, absolute trend words like 'steadily' or 'continuously' over a decade are almost universally false due to macroeconomic fluctuations. Capital infusion spiked around 2017 but dipped previously.<br><b>Statement 2 is correct:</b> The 5 associate banks and Bharatiya Mahila Bank were formally merged with SBI in 2017 for operational synergy.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>Which one of the following best describes the term “Merchant Discount Rate” sometimes seen in news? (2018)</b>",
+    "options": [
+      "The incentive given by a bank to a merchant for accepting payments through debit cards pertaining to that bank.",
+      "The amount paid back by banks to their customers when they use debit cards for financial transactions for purchasing goods or services.",
+      "The charge to a merchant by a bank for accepting payments from his customers through the bank’s debit cards.",
+      "The incentive given by the Government to merchants for promoting digital payments by their customers through Point of Sale (PoS) machines and debit cards."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: The charge to a merchant by a bank for accepting payments from his customers through the bank’s debit cards.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Semantic Deception Trap:</b> The word \"Discount\" misleads candidates into choosing Option A or D (incentives). Merchant Discount Rate (MDR) is actually a <b>fee or charge</b> levied on the merchant by the bank for the payment processing infrastructure provided (POS terminals/gateways).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>Which of the following statements best describes the term ‘Scheme for Sustainable Structuring of Stressed Assets (S4A)’, recently seen in the news? (2017)</b>",
+    "options": [
+      "It is a procedure for considering ecological costs of developmental schemes formulated by the Government.",
+      "It is a scheme of RBI for reworking the financial structure of big corporate entities facing genuine difficulties.",
+      "It is a disinvestment plan of the Government regarding Central Public Sector Undertakings.",
+      "It is an important provision in ‘The Insolvency and Bankruptcy Code’ recently implemented by the Government."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: It is a scheme of RBI for reworking the financial structure of big corporate entities facing genuine difficulties.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Environmental Decoy:</b> The term \"Sustainable\" in Option A is placed specifically to catch candidates guessing based on nomenclature. S4A is an RBI restructuring mechanism that splits large corporate debt into sustainable (manageable) and unsustainable (convertible to equity) components.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>The term ‘Core Banking Solution’ is sometimes seen in the news. Which of the following statements best describes/describe this term?</b><br><br>1. It is a networking of a bank’s branches which enables customers to operate their accounts from any branch of the bank on its network regardless of where they open their accounts.<br>2. It is an effort to increase RBI’s control over commercial banks through computerization.<br>3. It is a detailed procedure by which a bank with huge non-performing assets is taken over by another bank.<br><br><b>Select the correct answer using the code given below. (2016)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> CBS (Core Banking Solution) centralizes the database, allowing 'anywhere, anytime' banking across all branches.<br><b>Statements 2 and 3 are incorrect:</b> CBS is an internal IT infrastructure upgrade for customer service and operational efficiency. It is not an RBI control mechanism (Statement 2) nor an NPA resolution or merger procedure (Statement 3).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>‘Basel III Accord’ or simply ‘Basel III’ often seen in the news, seeks to (2015)</b>",
+    "options": [
+      "develop national strategies for the conservation and sustainable use of biological diversity",
+      "improve banking sector’s ability to deal with financial and economic stress and improve risk management",
+      "reduce the greenhouse gas emissions but places a heavier burden on developed countries",
+      "transfer technology from developed countries to poor countries to enable them to replace the use of chlorofluorocarbons"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: improve banking sector’s ability to deal with financial and economic stress and improve risk management</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The examiner creates heavily environmental distractors (Options A, C, D) capitalizing on the location of Basel (Switzerland) which hosts the Basel Convention on hazardous waste. However, the Basel 'Accord' (issued by the BCBS) focuses strictly on global banking capital adequacy and liquidity requirements (CRAR/LCR) to prevent a repeat of the 2008 subprime crisis.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>What is/are the facility/facilities the beneficiaries can get from the services of Business Correspondent (Bank Saathi) in branchless areas?</b><br><br>1. It enables the beneficiaries to draw their subsidies and social security benefits in their villages.<br>2. It enables the beneficiaries in the rural areas to make deposits and withdrawals.<br><br><b>Select the correct answer using the code given below: (2014)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Business Correspondents (BCs) are retail agents engaged by banks for providing banking services at locations other than a bank branch/ATM. They facilitate foundational financial inclusion: handling cash deposits, withdrawals, and routing DBT subsidies (like MNREGA, pensions) directly into villagers' hands via micro-ATMs.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>The terms ‘Marginal Standing Facility Rate’ and ‘Net Demand and Time Liabilities’, sometimes appearing in news, are used in relation to: (2014)</b>",
+    "options": [
+      "banking operations",
+      "communications networking",
+      "military strategies",
+      "supply and demand of agricultural product"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: banking operations</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>This is a foundational definition check. MSF is the penal rate at which banks can borrow overnight funds from the RBI against approved government securities. NDTL represents a bank's total deposit liabilities (current, savings, fixed), upon which statutory reserve ratios (CRR and SLR) are calculated.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>Priority Sector Lending by banks in India constitutes the lending to (2013)</b>",
+    "options": [
+      "agriculture",
+      "micro and small enterprises",
+      "weaker sections",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: All of the above</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>Priority Sector Lending (PSL) is an RBI mandate requiring domestic and foreign banks to allocate a specified portion of their Adjusted Net Bank Credit (ANBC) to sectors critical for inclusive growth. This explicitly includes Agriculture, MSMEs, Weaker Sections, Education, Housing, and Renewable Energy.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>Why is the offering of “teaser loans” by commercial banks a cause of economic concern?</b><br><br>1. The teaser loans are considered to be an aspect of subprime lending and banks may be exposed to the risk of defaulters in future.<br>2. In India, the teaser loans are mostly given to inexperienced entrepreneurs to set up manufacturing or export units.<br><br><b>Select the correct answer using the code given below: (2011)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is correct:</b> Teaser loans offer low initial interest rates that rise sharply later. If the borrower's income does not rise commensurately, it creates immense NPA/subprime risk.<br><b>Statement 2 is incorrect (The Target Audience Trap):</b> In India, teaser loans were historically offered almost exclusively in the <b>retail home loan segment</b> to attract home-buyers, not to inexperienced manufacturing entrepreneurs.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>Microfinance is the provision of financial services to people of low-income groups. This includes both the consumers and the self-employed. The service/services rendered under microfinance is/are:</b><br><br>1. Credit facilities<br>2. Savings facilities<br>3. Insurance facilities<br>4. Fund Transfer facilities<br><br><b>Select the correct answer using the code given below: (2011)</b>",
+    "options": [
+      "1 only",
+      "1 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Narrow Scope Trap:</b> Candidates often mistakenly limit 'Microfinance' purely to micro-credit (loans). The established international and RBI definition of Microfinance encompasses the entire suite of financial inclusion tools for the unbanked: micro-credit, micro-savings, micro-insurance, and payment/remittance facilities.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>With reference to the institution of Banking Ombudsman in India, which one of the statement is not correct? (2010)</b>",
+    "options": [
+      "The Banking Ombudsman is appointed by the Reserve Bank of India",
+      "The Banking Ombudsman can consider complaints from Non Resident Indians having accounts in India.",
+      "The orders passed by the Banking Ombudsman are final and binding on the parties concerned",
+      "The service provided by the Banking Ombudsman is free of any fee"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: The orders passed by the Banking Ombudsman are final and binding on the parties concerned</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Absolute Authority Trap:</b> The orders (Awards) passed by the Banking Ombudsman are <b>not</b> final and binding. An aggrieved party (either the complainant or the bank) has the statutory right to file an appeal against the award before the Appellate Authority (the Deputy Governor of the RBI).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>With reference to India, Consider the following:</b><br><br>1. Nationalization of Banks<br>2. Formation of Regional Rural Banks<br>3. Adoption of villages by Bank Branches<br><br><b>Which of the above can be considered as steps taken to achieve the “financial inclusion” in India? (2010)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br>The primary motive for the Nationalization of Banks (1969) was to divert credit from elite urban corporates to the neglected agriculture and rural sectors. RRBs (1975) were established specifically for rural credit. The Village Adoption Scheme (VAS) was formulated to develop the rural economy in a phased manner. All three were sequential, structural steps toward foundational financial inclusion.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Economy",
+    "topic": "Banking and Finance",
+    "question": "<b>Consider the following pairs:</b><br><br>1. ABN Amro Bank : USA<br>2. Barclays Bank : UK<br>3. Kookmin Bank : Japan<br><br><b>Which of the above pairs is/are correctly matched? (2009)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 2",
+      "1 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Origin Swap Trap:</b> The examiner tests awareness of major foreign banks operating in India or featuring in global news.<br>- <b>Pair 1 is incorrect:</b> ABN AMRO is a Dutch bank, headquartered in the Netherlands (not USA).<br>- <b>Pair 2 is correct:</b> Barclays is a prominent British multinational universal bank headquartered in London, UK.<br>- <b>Pair 3 is incorrect:</b> Kookmin Bank is headquartered in Seoul, South Korea (not Japan).",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
