@@ -123,6 +123,8 @@
 ,
 {"name": "Current Affairs Polity Constitution", "filename": "Current Affairs Polity Constitution.json", "path": "tests/upsc/Current Affairs Polity Constitution.json"}
 ,
+{"name": "Eco Geography PYQs", "filename": "Eco Geography PYQs.json", "path": "tests/upsc/Eco Geography PYQs.json"}
+,
 {"name": "Eco Growth Macro Framework", "filename": "Eco Growth Macro Framework.json", "path": "tests/upsc/Eco Growth Macro Framework.json"}
 ,
 {"name": "Env CA Part 2", "filename": "Env CA Part 2.json", "path": "tests/upsc/Env CA Part 2.json"}

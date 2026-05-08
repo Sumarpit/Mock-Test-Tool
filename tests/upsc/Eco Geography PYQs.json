@@ -1,0 +1,287 @@
+[
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>The total fertility rate in an economy is defined as: (2024)</b>",
+    "options": [
+      "the number of children born per 1000 people in the population in a year.",
+      "the number of children born to a couple in their lifetime in a given population.",
+      "the birth rate minus death rate.",
+      "the average number of live births a woman would have by the end of her child-bearing age."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: the average number of live births a woman would have by the end of her child-bearing age.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Definitional Trap:</b> The examiner tests your precision in demographic terminology. Option A defines the 'Crude Birth Rate'. Option B is a distractor describing general couple fertility. <b>Total Fertility Rate (TFR)</b> is strictly defined as the average number of children a woman would bear during her entire reproductive lifetime (usually 15-49 years) if she experienced the exact current age-specific fertility rates.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>With reference to physical capital in Indian economy, consider the following pairs:</b><br><br><b>Items : Category</b><br>1. Farmer’s plough : Working capital<br>2. Computer : Fixed capital<br>3. Yarn used by the weaver : Fixed capital<br>4. Petrol : Working capital<br><br><b>How many of the above pairs are correctly matched? (2024)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Asset Lifespan Trap:</b> Fixed capital includes durable assets used repeatedly over years (machinery, buildings). Working capital includes single-use raw materials and money in hand. <br>- <b>Pair 1 is incorrect:</b> A farmer's plough is a durable asset used for many years, hence it is <b>Fixed Capital</b>.<br>- <b>Pair 2 is correct:</b> A computer is Fixed Capital.<br>- <b>Pair 3 is incorrect:</b> Yarn is a raw material consumed in the weaving process, hence it is <b>Working Capital</b>.<br>- <b>Pair 4 is correct:</b> Petrol is consumed immediately, making it Working Capital.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>With reference to the sectors of the Indian economy, consider the following pairs:</b><br><br><b>Economic activity : Sector</b><br>1. Storage of agricultural produce : Secondary<br>2. Dairy farm : Primary<br>3. Mineral exploration : Tertiary<br>4. Weaving cloth : Secondary<br><br><b>How many of the pairs given above are correctly matched? (2024)</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three",
+      "All four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two pairs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sectoral Misclassification Trap:</b><br>- <b>Pair 1 is incorrect:</b> Storage (warehousing) is a service provided after production, falling strictly under the <b>Tertiary</b> sector.<br>- <b>Pair 2 is correct:</b> Dairy farming involves biological extraction, making it Primary.<br>- <b>Pair 3 is incorrect:</b> Mineral exploration and extraction deal directly with natural resources, which is a <b>Primary</b> sector activity.<br>- <b>Pair 4 is correct:</b> Weaving cloth involves manufacturing (processing raw materials), placing it in the Secondary sector.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>Consider the following countries:</b><br><br>1. Italy<br>2. Japan<br>3. Nigeria<br>4. South Korea<br>5. South Africa<br><br><b>Which of the above countries are frequently mentioned in the media for their low birth rates, or ageing population or declining population? (2024)</b>",
+    "options": [
+      "1, 2 and 4",
+      "1, 3 and 5",
+      "2 and 4 only",
+      "3 and 5 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Demographic Contrast Trap:</b> The examiner mixes advanced, aging economies with developing African nations experiencing population booms. Nigeria and South Africa have growing, relatively young populations. Italy, Japan, and South Korea (which has the world's lowest fertility rate) are globally notorious for their demographic crises involving aging and declining populations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>Consider the following statements :</b><br><br>1. India has more arable area than China.<br>2. The proportion of irrigated area is more in India as compared to China.<br>3. The average productivity per hectare in Indian agriculture is higher than that in China.<br><br><b>How many of the above statements are correct? (2023)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Comparative Illusion Trap:</b><br>- <b>Statement 1 is correct:</b> India has the largest arable land area in the world (~156 million hectares), significantly more than China (~120 million hectares).<br>- <b>Statement 2 is incorrect (The Proportion Trap):</b> While India has more absolute irrigated land, China has a much higher <i>proportion</i> (percentage) of its total cropland under irrigation.<br>- <b>Statement 3 is incorrect:</b> Due to advanced technology, chemical use, and intensive farming, China's average agricultural productivity per hectare is vastly higher than India's.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>With reference to coal-based thermal power plants in India, consider the following statements:</b><br><br>1. None of them uses seawater.<br>2. None of them is set up in water-stressed district.<br>3. None of them is privately owned.<br><br><b>How many of the above statements are correct? (2023)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: None</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Absolute Denial Trap ('None'):</b> In UPSC, extreme words like \"none\" applied across a vast, decentralized sector are almost always false.<br>- <b>Statement 1 is incorrect:</b> Coastal thermal plants (like Mundra UMPP) explicitly use seawater for cooling.<br>- <b>Statement 2 is incorrect:</b> Up to 40% of India's thermal power plants are located in severely water-stressed regions (e.g., Vidarbha, parts of Rajasthan).<br>- <b>Statement 3 is incorrect:</b> A massive chunk of the thermal power sector is privately owned (Adani Power, Tata Power, Reliance Power).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>Which of the following activities constitute real sector in the economy ?</b><br><br>1. Farmers harvesting their crops<br>2. Textile mills converting raw cotton into fabrics<br>3. A commercial bank lending money to a trading company<br>4. A corporate body issuing Rupee Denominated Bonds overseas<br><br><b>Select the correct answer using the code given below : (2022)</b>",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The 'Real' vs 'Financial' Sector Trap:</b> The macroeconomic framework divides the economy into the 'Real Sector' (where actual physical goods and non-financial services are produced) and the 'Financial Sector' (which manages money, credit, and paper assets). <br>- Harvesting crops (1) and converting cotton to fabric (2) are physical production activities (Real Sector).<br>- Bank lending (3) and issuing bonds (4) deal exclusively with money/credit creation, making them part of the Financial Sector.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>Consider the following statements :</b><br><br>1. Vietnam has been one of the fastest growing economies in the world in the recent years.<br>2. Vietnam is led by a multi-party political system.<br>3. Vietnam’s economic growth is linked to its integration with global supply chains and focus on exports.<br>4. For a long time Vietnam’s low labour costs and stable exchange rates have attracted global manufacturers.<br>5. Vietnam has the most productive e-service sector in the Indo-Pacific region.<br><br><b>Which of the statements given above are correct ? (2022)</b>",
+    "options": [
+      "2 and 4",
+      "3 and 5",
+      "1, 3 and 4",
+      "1 and 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 3 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geopolitical Ignorance Trap:</b> <br>- <b>Statement 2 is entirely incorrect:</b> Vietnam is a strict, single-party Communist state (Communist Party of Vietnam), not a multi-party democracy. Eliminating options with '2' clears half the board.<br>- <b>Statement 5 is incorrect:</b> While growing, Vietnam does not have the \"most productive\" e-service sector in the Indo-Pacific (countries like Singapore, South Korea, and Japan vastly outperform it).<br>- <b>Statements 1, 3, and 4 correctly describe</b> Vietnam's \"China Plus One\" export-driven manufacturing boom.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>Consider the following statements :</b><br><br>Human capital formation as a concept is better explained in terms of a process which enables<br>1. individuals of a country to accumulate more capital.<br>2. increasing the knowledge, skill levels and capacities the people of the country.<br>3. accumulation of tangible wealth.<br>4. accumulation of intangible wealth.<br><br><b>Which of the statements given above is/are correct? (2018)</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "2 and 4",
+      "1, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 2 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Tangible vs. Intangible Trap:</b> \"Capital\" generally implies money, but \"Human Capital\" specifically refers to the non-physical, productive capabilities embedded in humans. <br>- Accumulating more physical capital/money (1) and tangible wealth like land or gold (3) relates to <i>Economic Capital</i>, not Human Capital.<br>- Increasing knowledge/skills (2) and accumulating <i>intangible wealth</i> like expertise and health (4) are the strict definitions of Human Capital Formation.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>With reference to ‘Changpa’ community of India, consider the following statements:</b><br><br>1. They live mainly in the State of Uttarakhand.<br>2. They rear the Pashmina goats that yield fine wool.<br>3. They are kept in the category of Scheduled Tribes.<br><br><b>Which of the statements given above is/are correct? (2014)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The State Boundary Trap:</b> The Changpa are a semi-nomadic Tibetan people found mainly in the Changtang plateau of <b>Ladakh</b> (Jammu & Kashmir/Ladakh UT), not Uttarakhand. They are internationally famous for rearing the Changthangi (Pashmina) goats and are officially recognized as a Scheduled Tribe.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>Consider the following pairs :</b><br><br><b>Tribe : State</b><br>(1). Limboo (Limbu) : Sikkim<br>(2). Karbi : Himachal Pradesh<br>(3). Dongaria Kondh : Odisha<br>(4). Bonda : Tamil Nadu<br><br><b>Which of the above pairs are correctly matched? (2013)</b>",
+    "options": [
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geographic Dislocation Trap:</b><br>- <b>Pair 2 is incorrect:</b> The Karbi tribe is an indigenous group native to the Karbi Anglong district in <b>Assam</b>, not Himachal Pradesh.<br>- <b>Pair 4 is incorrect:</b> The Bonda are a Particularly Vulnerable Tribal Group (PVTG) living in the isolated Malkangiri district of <b>Odisha</b>, not Tamil Nadu.<br>- <b>Pairs 1 and 3 are correct</b> (Limboo in Sikkim/Nepal border, Dongaria Kondh in Niyamgiri hills, Odisha).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>Consider the following specific stages of demographic transition associated with economic development:</b><br><br>1. Low birth rate with low death rate<br>2. High birth rate with high death rate<br>3. High birth rate with low death rate<br><br><b>Select the correct answer using the code given below: (2012)</b>",
+    "options": [
+      "1, 2, 3",
+      "2, 1, 3",
+      "2, 3, 1",
+      "3, 2, 1"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 2, 3, 1</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Classical Demographic Model Trap:</b> The Demographic Transition Theory outlines a country's population history:<br>- <b>Stage 1 (Pre-industrial):</b> High birth rate + High death rate (Stable, low population).<br>- <b>Stage 2 (Developing/Medical revolution):</b> High birth rate + Falling/Low death rate (Population explosion).<br>- <b>Stage 3 (Advanced/Industrialized):</b> Low birth rate + Low death rate (Stable, aging population).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>The approximate representation of land use classification in India is (2010)</b>",
+    "options": [
+      "Net area sown 25%; forests 33%; other areas 42%",
+      "Net area sown 58%; forests 17%; other areas 25%",
+      "Net area sown 43%; forests 29%; other areas 28%",
+      "Net area sown 47%; forests 23%; other areas 30%"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Net area sown 47%; forests 23%; other areas 30%</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Target vs. Reality Trap:</b> The National Forest Policy targets 33% forest cover, which often tricks candidates into selecting Option A. However, the actual ground reality (land use statistics) reveals that India's Net Sown Area is exceptionally high (around 46-47%), while official forest cover hovers around 21-24%.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>In India, during the last decade the total cultivated land for which one of the following crops has remained more or less stagnant? (2010)</b>",
+    "options": [
+      "Rice",
+      "Oilseeds",
+      "Pulses",
+      "Sugarcane"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Pulses</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Green Revolution Bias Trap:</b> While the area and production of rice, wheat, sugarcane, and oilseeds expanded massively post-Green Revolution due to MSP and irrigation support, the cultivated area for <b>Pulses</b> remained notoriously stagnant for decades (hovering around 20-23 million hectares) as they were pushed to marginal, rainfed lands.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>Among the following, who are the Agaria community? (2009)</b>",
+    "options": [
+      "A traditional toddy tappers community of Andhra Pradesh",
+      "A traditional fishing community of Maharashtra",
+      "A traditional silk- weaving community of Karnataka",
+      "A traditional salt pan workers community of Gujarat"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: A traditional salt pan workers community of Gujarat</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Anthropological Trivia Trap:</b> The Agaria (or Agariya) are a socially marginalized, traditional salt-producing community primarily found in the Little Rann of Kutch, Gujarat. They spend eight months a year in harsh desert conditions harvesting salt.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>Consider the following statements :</b><br><br>1. Between Census 1951 and Census 2001, the density of the population of India has increased more than three times.<br>2. Between Census 1951 and Census 2001, the annual growth rate (exponential) of the population of India has doubled.<br><br><b>Which of the statements given above is/ are correct ? (2009)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Absolute Statistical Multiplier Trap:</b> <br>- <b>Statement 1 is incorrect:</b> Population density in 1951 was 117 persons/sq km. In 2001, it was 324 persons/sq km. This is roughly 2.7 times, <i>not</i> 'more than three times'.<br>- <b>Statement 2 is incorrect:</b> The annual growth rate in 1951 was around 1.25%. In 2001, it had stabilized around 1.93% (having peaked earlier). It did not double.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>Which one among the following South Asian countries has the highest population density ? (2009)</b>",
+    "options": [
+      "India",
+      "Nepal",
+      "Pakistan",
+      "Sri Lanka"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: India</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Regional Relativity Trap:</b> While Bangladesh has the absolute highest population density in South Asia, the examiner explicitly excluded it from the options to force relative comparison. Among the provided options (India, Nepal, Pakistan, Sri Lanka), <b>India</b> possesses the highest population density.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>Consider the following statements :</b><br><br>1. Infant mortality rate takes into account the death of infants within a month after birth.<br>2. Infant mortality rate is the number of infant deaths in a particular year per 100 live births during that year.<br><br><b>Which of the above statements is/are correct ? (2009)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Metric Definition Trap:</b> <br>- <b>Statement 1 is incorrect:</b> Deaths within the first month (28 days) are classified as <i>Neonatal Mortality</i>. <b>Infant Mortality Rate (IMR)</b> accounts for deaths up to <b>one year</b> of age.<br>- <b>Statement 2 is incorrect:</b> IMR is universally calculated per <b>1,000</b> live births, not per 100. <br><i>(Note: While some legacy compilations erroneously marked (b), the strict demographical definition makes both statements unequivocally false.)</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Economic/Human Geography",
+    "question": "<b>In which one of the following places is the Shompen tribe found ? (2009)</b>",
+    "options": [
+      "Nilgiri Hills",
+      "Nicobar Islands",
+      "Spiti Valley",
+      "Lakshwadeep Islands"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Nicobar Islands</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The PVTG Geography Trap:</b> The Shompen are an indigenous Particularly Vulnerable Tribal Group (PVTG) who reside deep in the dense tropical rainforests of the Great <b>Nicobar Island</b>. Unlike the Andaman tribes (who are Negrito), the Shompen possess Mongoloid features.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
