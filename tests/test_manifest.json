@@ -151,6 +151,8 @@
 ,
 {"name": "Judiciary PYQs", "filename": "Judiciary PYQs.json", "path": "tests/upsc/Judiciary PYQs.json"}
 ,
+{"name": "Minerals & Resource Geography PYQs", "filename": "Minerals & Resource Geography PYQs.json", "path": "tests/upsc/Minerals & Resource Geography PYQs.json"}
+,
 {"name": "Parliament PYQs Part 2", "filename": "Parliament PYQs Part 2.json", "path": "tests/upsc/Parliament PYQs Part 2.json"}
 ,
 {"name": "Parliament PYQs", "filename": "Parliament PYQs.json", "path": "tests/upsc/Parliament PYQs.json"}
@@ -165,7 +167,7 @@
 ,
 {"name": "RBI Function & Monetary Policy PYQs", "filename": "RBI Function & Monetary Policy PYQs.json", "path": "tests/upsc/RBI Function & Monetary Policy PYQs.json"}
 ,
-{"name": "River System & Drainage PYQs", "filename": "River System & Drainage PYQs.json", "path": "tests/upsc/River System & Drainage PYQs.json"}
+{"name": "River system & drainage", "filename": "River system & drainage.json", "path": "tests/upsc/River system & drainage.json"}
 ,
 {"name": "SC HC", "filename": "SC HC.json", "path": "tests/upsc/SC HC.json"}
 ,

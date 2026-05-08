@@ -1,0 +1,377 @@
+[
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>With reference to the Himalayan rivers joining the Ganga downstream of Prayagraj from West to East, which one of the following sequences is correct? (2024)</b>",
+    "options": [
+      "Ghaghara – Gomati – Gandak – Kosi",
+      "Gomati – Ghaghara – Gandak – Kosi",
+      "Ghaghara – Gomati – Kosi – Gandak",
+      "Gomati – Ghaghara – Kosi – Gandak"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Gomati – Ghaghara – Gandak – Kosi</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Spatial Alignment Trap:</b> The examiner tests strict West-to-East map alignment. Gomati joins the Ganga near Varanasi, followed by Ghaghara near Chhapra, Gandak near Hajipur, and finally Kosi near Katihar. Memorizing origin points is insufficient; confluence sequences are the actual testing metric for 2026.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Consider the following information:</b><br><br><b>Waterfall : Region : River</b><br>1. Dhuandhar : Malwa : Narmada<br>2. Hundru : Chota Nagpur : Subarnarekha<br>3. Gersoppa : Western Ghats : Netravati<br><br><b>In how many of the above rows is the given information correctly matched? (2024)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sub-Regional Swap Trap:</b> The examiner manipulates micro-regions and associated rivers.<br>- <b>Row 1 is incorrect:</b> Dhuandhar Falls is on the Narmada, but it is located in Bhedaghat (Jabalpur), not the Malwa plateau.<br>- <b>Row 2 is correct:</b> Hundru Falls is indeed situated on the rainfed Subarnarekha River in the Chota Nagpur Plateau.<br>- <b>Row 3 is incorrect:</b> Gersoppa (Jog Falls) is in the Western Ghats but is formed by the <b>Sharavathi River</b>, not the Netravati.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Consider the following statements :</b><br><br>1. Jhelum River passes through Wular Lake.<br>2. Krishna River directly feeds Kolleru Lake.<br>3. Meandering of Gandak River formed Kanwar Lake.<br><br><b>How many of the statements given above are correct? (2023)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The \"Direct Feed\" Trap:</b><br>- <b>Statement 1 is correct:</b> Jhelum flows through Srinagar and Wular Lake.<br>- <b>Statement 2 is incorrect:</b> Kolleru Lake is situated <i>between</i> the deltas of the Godavari and Krishna rivers but is <b>not directly fed</b> by the Krishna River; it is fed by seasonal streams like Budameru.<br>- <b>Statement 3 is incorrect:</b> Kanwar Lake in Bihar is Asia's largest freshwater oxbow lake, but it was formed by the meandering of the <b>Burhi Gandak</b> river, not the main Gandak River. <br><i>Note: The official CivilsDaily key marked 'Only two', but deeper source analysis strictly validates only one statement. Rely on precise hydro-geomorphology.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Gandikota canyon of South India was created by which one of the following rivers? (2022)</b>",
+    "options": [
+      "Cauvery",
+      "Manjira",
+      "Pennar",
+      "Tungabhadra"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Pennar</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geomorphic Feature Trap:</b> Canyons and gorges are high-yield areas. The examiner bypassed the standard Himalayan gorges to test a Peninsular anomaly. The Gandikota Canyon (often called the Grand Canyon of India) is carved through Erramala hills by the <b>Pennar River</b> in Andhra Pradesh.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Consider the following rivers:</b><br><br>1. Brahmani<br>2. Nagavali<br>3. Subarnarekha<br>4. Vamsadhara<br><br><b>Which of the above rise from the Eastern Ghats? (2021)</b>",
+    "options": [
+      "1 and 2",
+      "2 and 4",
+      "3 and 4",
+      "1 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Plateau vs. Ghats Trap:</b> The examiner expects you to conflate rivers flowing <i>towards</i> the East with rivers <i>originating</i> in the Eastern Ghats.<br>- <b>Brahmani</b> and <b>Subarnarekha</b> originate in the Chota Nagpur Plateau (Jharkhand).<br>- Only <b>Nagavali</b> and <b>Vamsadhara</b> strictly originate from the hills of the Eastern Ghats (Odisha).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>With reference to the Indus river system, of the following four rivers, three of them pour into one of them which joins the Indus directly. Among the following, which one is such a river that joins the Indus directly? (2021)</b>",
+    "options": [
+      "Chenab",
+      "Jhelum",
+      "Ravi",
+      "Sutlej"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Sutlej</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Confluence Hierarchy Trap:</b> The examiner is testing the exact terminal sequence of the Panjnad. Jhelum and Ravi join Chenab. Chenab then merges with Sutlej at Hari-Ke-Patan (or nearby regions, creating the Panjnad), and it is ultimately the <b>Sutlej</b> that carries the combined waters and joins the Indus directly at Mithankot in Pakistan.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>With reference to India, Didwana, Kuchaman, Sargol and Khatu are the names of (2021)</b>",
+    "options": [
+      "glaciers",
+      "mangrove areas",
+      "Ramsar sites",
+      "saline lakes"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: saline lakes</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Nomenclature Trap:</b> The examiner pulls obscure local names from the NCERT text. Didwana, Kuchaman, Sargol, and Khatu are significant playa/saline lakes located in the arid regions of Rajasthan, vital for inland salt production.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Consider the following pairs:</b><br><br><b>River : Flows into</b><br>1. Mekong : Andaman Sea<br>2. Thames : Irish Sea<br>3. Volga : Caspian Sea<br>4. Zambezi : Indian Ocean<br><br><b>Which of the pairs given above is/are correctly matched? (2020)</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "3 and 4 only",
+      "1, 2 and 4 only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Outflow Swap Trap:</b> <br>- <b>Pair 1 is incorrect:</b> Mekong flows into the South China Sea, not the Andaman Sea.<br>- <b>Pair 2 is incorrect:</b> The Thames flows into the North Sea, not the Irish Sea.<br>- <b>Pairs 3 and 4 are correct:</b> Volga (Europe's longest) empties into the Caspian Sea (a closed basin), and Zambezi empties into the Indian Ocean.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>What is common to the places known as Aliyar, Isapur and Kangsabati? (2019)</b>",
+    "options": [
+      "Recently discovered uranium deposits",
+      "Tropical rain forests",
+      "Underground cave systems",
+      "Water reservoirs"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Water reservoirs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Multi-State Convergence Trap:</b> The examiner picks three distinct geographic locations (Aliyar in Tamil Nadu, Isapur in Maharashtra, Kangsabati in West Bengal) to test if the candidate can identify their shared functional utility. They are all major dams/water reservoirs.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Glacier : River</b><br>1. Bandarpunch : Yamuna<br>2. Bara Shigri : Chenab<br>3. Milam : Mandakini<br>4. Siachen : Nubra<br>5. Zemu : Manas<br><br><b>Which of the pairs given above are correctly matched? (2019)</b>",
+    "options": [
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2 and 5",
+      "3 and 5"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Glacier Origin Trap:</b><br>- <b>Pair 3 is incorrect:</b> Milam Glacier (Kumaon Himalayas) is the source of the Gori Ganga, not Mandakini (which originates from Chorabari Glacier).<br>- <b>Pair 5 is incorrect:</b> Zemu Glacier (Sikkim) is the source of the Teesta River, not Manas.<br>- <b>Pairs 1, 2, and 4 are correct.</b>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Which one of the following is an ‘artificial lake’? (2018)</b>",
+    "options": [
+      "Kodaikanal (Tamil Nadu)",
+      "Kolleru (Andhra Pradesh)",
+      "Nainital (Uttarakhand)",
+      "Renuka (Himachal Pradesh)"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Kodaikanal (Tamil Nadu)</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Man-Made vs. Natural Trap:</b> Nainital (tectonic/glacial), Kolleru (deltaic depression), and Renuka (natural wetland) are natural formations. Kodaikanal Lake is a star-shaped artificial lake created in 1863 by British civil servants.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>With reference to river Teesta, consider the following statements:</b><br><br>1. The source of river Teesta is the same as that of Brahmaputra but it flows through Sikkim.<br>2. River Rangeet originates in Sikkim and it is a tributary of river Teesta.<br>3. River Teesta flows into Bay of Bengal on the border of India and Bangladesh.<br><br><b>Which of the statements given above is/are correct? (2017)</b>",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect:</b> Teesta originates from the Pahunri (or Teesta Kangse) glacier in Sikkim, completely distinct from the Brahmaputra's source (Chemayungdung glacier in Tibet).<br><b>Statement 3 is incorrect:</b> Teesta does NOT flow directly into the Bay of Bengal. It joins the Brahmaputra (Jamuna) inside Bangladesh at Teestamukh Ghat.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Recently, linking of which of the following rivers was undertaken? (2016)</b>",
+    "options": [
+      "Cauvery and Tungabhadra",
+      "Godavari and Krishna",
+      "Mahanadi and Son",
+      "Narmada and Tapti"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Godavari and Krishna</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Project Identification Trap:</b> The Pattiseema Lift Irrigation Project formally linked the Godavari and Krishna rivers in Andhra Pradesh in 2015 to transfer surplus Godavari water to the deficit Rayalaseema region. <br><i>Note: The CivilsDaily raw text erroneously marked 'Narmada and Tapti' as the key, but standard UPSC keys and authentic source texts (including the provided analysis document) confirm Godavari and Krishna.</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Which of the following is/are tributary/ tributaries of Brahmaputra?</b><br><br>1. Dibang<br>2. Kameng<br>3. Lohit<br><br><b>Select the correct answer using the code given below. (2016)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Fundamental Drainage Test:</b> The examiner expects absolute mastery of the Brahmaputra system. Dibang and Lohit are major left-bank tributaries forming the Brahmaputra near Sadiya. Kameng is a major right-bank tributary flowing through Arunachal Pradesh and Assam.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Consider the following rivers :</b><br><br>1. Vamsadhara<br>2. Indravati<br>3. Pranahita<br>4. Pennar<br><br><b>Which of the above are tributaries of Godavari? (2015)</b>",
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 2 and 4",
+      "2 and 3 only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Independent River Trap:</b> Pennar (Pinakini) and Vamsadhara are completely independent east-flowing rivers emptying directly into the Bay of Bengal; they are not tributaries of any other system. Indravati and Pranahita (formed by the confluence of Wardha, Penganga, and Wainganga) are massive left-bank tributaries of the Godavari.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Which one of the following pairs of islands is separated from each other by the ‘Ten Degree Channel’? (2014)</b>",
+    "options": [
+      "Andaman and Nicobar",
+      "Nicobar and Sumatra",
+      "Maldives and Lakshadweep",
+      "Sumatra and Java"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Andaman and Nicobar</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Coordinates Trap:</b> The 10-degree North latitude acts as the strict hydrographic separator between the Andaman Island group (to its north) and the Nicobar Island group (to its south). <br><i>2026 Strategy: Cross-map this with indigenous PVTGs (Negritos north of the channel, Mongoloids south of it).</i>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Consider the following rivers :</b><br><br>1. Barak<br>2. Lohit<br>3. Subansiri<br><br><b>Which of the above flows/flow through Arunachal Pradesh ? (2014)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The State Boundary Trap:</b> Barak River rises in the Manipur hills and flows through Manipur, Mizoram, and Assam before entering Bangladesh. It has absolutely zero geographic overlap with Arunachal Pradesh. Lohit and Subansiri are prime Himalayan rivers cutting through Arunachal Pradesh.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>The Narmada river flows to the west, while most other large peninsular rivers flow to the east. Why?</b><br><br>1. It occupies a linear rift valley.<br>2. It flows between the Vindhyas and the Satpuras.<br>3. The land slopes to the west from Central India.<br><br><b>Select the correct answer using the codes given below. (2013)</b>",
+    "options": [
+      "1 only",
+      "2 and 3",
+      "1 and 3",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Causality vs. Coincidence Trap:</b> Statement 2 is factually true (it flows between Vindhyas and Satpuras), but it is NOT the <i>geological reason</i> why it flows west instead of east. The absolute geomorphic reason for its westward flow, contrary to the general eastern tilt of the Peninsular plateau (invalidating Statement 3), is that it occupies a fault-created <b>linear rift valley</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>The Brahmaputra, Irrawaddy and Mekong Rivers originate in Tibet’s narrow and parallel mountain ranges in their upper reaches. Of these rivers, Brahmaputra makes a “U” turn in its course to flow into India. This “U” turn is due to (2011)</b>",
+    "options": [
+      "Uplift of folded Himalayan series",
+      "Syntaxial bending of geologically young Himalayas",
+      "Geo-tectonic disturbance in the tertiary folded mountain chains",
+      "Both (a) and (b) above"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Syntaxial bending of geologically young Himalayas</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geotectonic Terminology Trap:</b> The Himalayas exhibit a sudden, sharp southward hairpin bend at their eastern and western extremities. This specific structural anomaly is known geologically as a <b>Syntaxial bend</b>. At the eastern syntaxial bend around Namcha Barwa, the Brahmaputra is forced to take its dramatic U-turn into Arunachal Pradesh.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Rivers that pass through Himachal Pradesh are (2010)</b>",
+    "options": [
+      "Beas and Chenab only",
+      "Beas and Ravi only",
+      "Chenab, Ravi and Sutlej only",
+      "Beas, Chenab, Ravi, Sutlej and Yamuna"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Beas, Chenab, Ravi, Sutlej and Yamuna</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The \"Yamuna Exclusion\" Trap:</b> Candidates easily identify the Indus tributaries (Beas, Chenab, Ravi, Sutlej) cutting through HP. However, the Yamuna also touches the eastern border of Himachal Pradesh (Sirmour district) before entering Haryana/UP. Missing this minor overlap guarantees a negative mark.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>With reference to the river Luni, which one of the following statements is correct ? (2010)</b>",
+    "options": [
+      "It flows into Gulf of Khambhat",
+      "It flows into Gulf of Kachchh",
+      "It flows into Pakistan and merges with a tributary of Indus",
+      "It is lost in the marshy land of the Rann of Kuchcch"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: It is lost in the marshy land of the Rann of Kuchcch</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Ephemeral River Mechanism:</b> The Luni (originating in the Pushkar valley of the Aravallis) is a classic example of an ephemeral, endorheic (inland) drainage system. It lacks the volume and momentum to reach the ocean and simply dissipates/evaporates into the saline marshes of the Rann of Kutch.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Which one of the following pairs is not correctly matched ?</b><br><br><b>Dam/Lake : River</b><br>A. Govind Sagar : Satluj<br>B. Kolleru Lake : Krishna<br>C. Ukai Reservoir : Tapi<br>D. Wular Lake : Jhelum<br><br><b>(2010)</b>",
+    "options": [
+      "Govind Sagar - Satluj",
+      "Kolleru Lake - Krishna",
+      "Ukai Reservoir - Tapi",
+      "Wular Lake - Jhelum"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Kolleru Lake - Krishna</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Deltaic \"In-Between\" Trap:</b> This is a recurring UPSC trap (repeated conceptually in 2023). Kolleru Lake is situated <i>between</i> the Godavari and Krishna deltas, but it is a standalone depression fed by seasonal streams (Budameru, Tammileru), not the Krishna river itself.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Which one of the following rivers does not originate in India ? (2009)</b>",
+    "options": [
+      "Beas",
+      "Chenab",
+      "Ravi",
+      "Sutlej"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Sutlej</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Trans-Himalayan Trap:</b> Among the Punjab rivers, Beas (Rohtang Pass), Ravi (Kangra), and Chenab (Bara Lacha Pass) originate within Indian territory (Himachal Pradesh). The Sutlej is a trans-Himalayan river originating from Lake Rakshastal (near Mansarovar) in Tibet, entering India through the Shipki La pass.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>At which one of the following places do two important rivers of India originate; while one of them flows towards north and merges with another important river flowing towards Bay of Bengal, the other one flows towards Arabian Sea ? (2009)</b>",
+    "options": [
+      "Amarkantak",
+      "Badrinath",
+      "Mahabaleshwar",
+      "Nasik"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Amarkantak</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Radial Drainage Pattern Trap:</b> The Amarkantak plateau (Madhya Pradesh) acts as a prominent radial drainage hub. The Narmada flows west towards the Arabian Sea, while the Son River flows north to join the Ganga (which eventually empties into the Bay of Bengal).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "River Systems & Drainage",
+    "question": "<b>Consider the following statements :</b><br><br>1. There are no east flowing rivers in Kerala.<br>2. There are no west flowing rivers in Madhya Pradesh.<br><br><b>Which of the statements given above is/ are correct ? (2009)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Absolute \"No\" Trap:</b> Both statements use the extreme absolute \"no\". <br>- <b>Statement 1 is incorrect:</b> Kerala has three significant east-flowing rivers (Kabani, Bhavani, and Pambar) that cross the Western Ghats to join the Cauvery system.<br>- <b>Statement 2 is incorrect:</b> Madhya Pradesh is the origin state of two of India's largest west-flowing rivers: the Narmada and the Tapti.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
