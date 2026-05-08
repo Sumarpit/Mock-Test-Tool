@@ -1,0 +1,242 @@
+[
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>Consider the following description:</b><br><br>1. Annual and daily range of temperatures is low.<br>2. Precipitation occurs throughout the year.<br>3. Precipitation varies between 50 cm – 250 cm.<br><br><b>What is this type of climate? (2024)</b>",
+    "options": [
+      "Equatorial Climate",
+      "China type climate",
+      "Humid sub tropical climate",
+      "Marine west coast climate"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Marine west coast climate</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Climatology Identifier Trap:</b> The examiner provides specific numerical and descriptive boundaries. Equatorial climates have low temperature ranges, but their precipitation is typically much higher (>250cm) and lacks the specific 50-250cm variability boundary listed here. The defining trait of the Marine West Coast (British Type) climate is precisely its year-round precipitation (due to westerlies) and moderated, low annual temperature range caused by immense oceanic influence.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>One of the following regions has the world’s largest tropical peatland, which holds about three years’ worth of global carbon emissions from fossil fuels, and the possible destruction of which can exert a detrimental effect on the global climate. Which one of the following denotes that region? (2024)</b>",
+    "options": [
+      "Amazon Basin",
+      "Congo Basin",
+      "Kikori basin",
+      "Rio De La Plata Basin"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Congo Basin</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The \"Amazon Default\" Trap:</b> Candidates instinctively associate \"world's largest tropical [anything]\" with the Amazon. However, the Cuvette Centrale peatlands in the <b>Congo Basin</b> hold the title for the world's largest tropical peatland. It acts as a massive global carbon sink.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>Consider the following statements:</b><br><br>1. The Red Sea receives very little precipitation in any form.<br>2. No water enters the Red Sea from rivers.<br><br><b>Which of the statements given above is/ are correct? (2024)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Absolute Denial Trap:</b> Statement 1 is correct; the Red Sea is located in a hyper-arid desert region and receives negligible rainfall. However, Statement 2 uses the extreme word \"No\". While there is no <i>major</i> perennial river inflow, minor ephemeral streams (wadis) do occasionally discharge water into it during flash floods. Thus, \"no water\" makes the statement factually incorrect.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>Which one of the following is a part of the Congo Basin? (2023)</b>",
+    "options": [
+      "Cameroon",
+      "Nigeria",
+      "South Sudan",
+      "Uganda"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Cameroon</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Bordering Country Trap:</b> The Congo Basin spans six core countries: Cameroon, Central African Republic, Democratic Republic of the Congo, Republic of the Congo, Equatorial Guinea, and Gabon. Countries like Nigeria and South Sudan may border the broader geographic zone but do not fall strictly within the hydrological Congo basin.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> The soil in tropical rain forests is rich in nutrients.<br><b>Statement-II:</b> The high temperature and moisture of tropical rain forests cause dead organic matter in the soil to decompose quickly.<br><br><b>Which one of the following is correct in respect of the above statements? (2023)</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect but Statement-II is correct</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Lush Biomass Paradox Trap:</b> Candidates see dense tropical rainforests and intuitively assume the soil must be hyper-fertile (Statement I). In reality, tropical lateritic soils are notoriously nutrient-poor and acidic due to intense daily leaching. The lushness is sustained precisely because dead organic matter decomposes incredibly fast (Statement II) and the released nutrients are immediately re-absorbed by the massive root systems, leaving almost nothing stored in the soil itself.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>The vegetation of savannah consists of grassland with scattered small trees, but extensive areas have no trees. The forest development in such areas is generally kept in check by one or more or a combination of some conditions. Which of the following are such conditions?</b><br><br>1. Burrowing animals and termites<br>2. Fire<br>3. Grazing herbivores<br>4. Seasonal rainfall<br>5. Soil properties<br><br><b>Select the correct answer using the code given below. (2021)</b>",
+    "options": [
+      "1 and 2",
+      "4 and 5",
+      "2, 3 and 4",
+      "1, 3 and 5"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 2, 3 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Climax Ecosystem Check:</b> The Savanna is a transitional biome located between equatorial forests and hot deserts. Its classic \"grassland with scattered trees\" structure is maintained strictly by three massive limiting factors: prolonged <b>seasonal dry periods (rainfall constraints)</b>, frequent <b>wildfires</b>, and massive herds of <b>grazing herbivores</b> that consume and trample tree saplings before they can mature.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>Each day is more or less the same, the morning is clear and bright with a sea breeze; as the Sun climbs high in the sky, heat mounts up, dark clouds form, then rain comes with thunder and lightning. But rain is soon over. Which of the following regions is described in the above passage? (2015)</b>",
+    "options": [
+      "Savannah",
+      "Equatorial",
+      "Monsoon",
+      "Mediterranean"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Equatorial</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Diurnal Weather Pattern Trap:</b> The passage flawlessly describes the daily convectional rainfall cycle (often called the \"4 o'clock shower\") that is entirely unique to the Equatorial region. The lack of seasonal variation (\"Each day is more or less the same\") completely eliminates the Monsoon, Mediterranean, and Savannah climates, which rely heavily on distinct wet and dry seasons.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>In a particular region in India, the local people train the roots of living trees into robust bridges across the streams. As the time passes, these bridges become stronger. These unique ‘living root bridges’ are found in (2015)</b>",
+    "options": [
+      "Meghalaya",
+      "Himachal Pradesh",
+      "Jharkhand",
+      "Tamil Nadu"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Meghalaya</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Traditional Ecological Knowledge (TEK) Check:</b> Known locally as <i>Jingkieng Jri</i>, these living root bridges are grown over decades by the indigenous Khasi and Jaintia tribes in the dense, hyper-humid, high-rainfall evergreen forests of <b>Meghalaya</b> using the aerial roots of the Indian Rubber Tree (<i>Ficus elastica</i>).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>Consider the following States :</b><br><br>1. Arunachal Pradesh<br>2. Himachal Pradesh<br>3. Mizoram<br><br><b>In which of the above States do ‘Tropical Wet Evergreen Forests’ occur? (2015)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Altitude vs. Latitude Trap:</b> Tropical Wet Evergreen forests mandate high temperatures and massive rainfall (>200cm). They are prominently found in the Western Ghats, Andaman & Nicobar Islands, and the North-Eastern states (Arunachal Pradesh, Mizoram, Assam, Meghalaya). Himachal Pradesh (2) is strictly eliminated because its high altitude and high northern latitude only support Montane/Temperate and Alpine vegetation.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>Which one of the following regions of India has a combination of mangrove forest, evergreen forest and deciduous forest? (2015)</b>",
+    "options": [
+      "North Coastal Andhra Pradesh",
+      "South-West Bengal",
+      "Southern Saurashtra",
+      "Andaman and Nicobar Islands"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Andaman and Nicobar Islands</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Biome Overlap Trap:</b> The Andaman and Nicobar Islands possess a highly unique, overlapping phytogeography. Their extensive coastlines support massive Mangrove swamps; their high-rainfall interior supports Tropical Evergreen forests; and their distinct rain-shadow or relatively dryer geographic pockets host Tropical Deciduous forests.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>Climate is extreme, rainfall is scanty and the people used to be nomadic herders. The above statement best describes which of the following regions? (2013)</b>",
+    "options": [
+      "African Savannah",
+      "Central Asian Steppe",
+      "North American Prairie",
+      "Siberian Tundra"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Central Asian Steppe</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Anthropological Climatology Trap:</b> Steppes and Prairies are both temperate grasslands with scanty rainfall and extreme continental climates. However, the examiner inserted a critical sociological clue: \"nomadic herders.\" Historically, the Central Asian Steppes were the domain of fierce nomadic pastoralists (like the Mongols and Kazakhs), completely distinct from the commercially farmed, settled Prairies of North America.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>Which one of the following is the characteristic climate of the Tropical Savannah Region? (2012)</b>",
+    "options": [
+      "Rainfall throughout the year",
+      "Rainfall in winter only",
+      "An extremely short dry season",
+      "A definite dry and wet season"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: A definite dry and wet season</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Seasonal Delineation Trap:</b> The absolute defining feature of the Sudan/Savannah type climate is an alternating, distinctly pronounced wet season (summer) and dry season (winter). \"Rainfall in winter only\" is Mediterranean. \"Rainfall throughout the year\" represents the Equatorial belt.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>What could be the main reason/reasons for the formation of African and Eurasian desert belts?</b><br><br>1. It is located in the sub-tropical high pressure cells.<br>2. It is under the influence of warm ocean currents.<br><br><b>Select the correct answer using the code given below. (2011)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Ocean Current Reversal Trap:</b> Statement 2 is chemically and meteorologically inverted. Major hot deserts (Sahara, Atacama, Namib) are formed due to massive air subsidence in the Sub-Tropical High-Pressure Belts (Statement 1) AND the desiccating effect of <b>cold</b> ocean currents (not warm) on their western margins, which chill the air and completely inhibit cloud formation and rainfall.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>A state in India has the following characteristics:</b><br><br>1. Its northern part is arid and semi-arid.<br>2. Its central part produces cotton.<br>3. Cultivation of cash crops is predominant over food crops.<br><br><b>Which one of the following states has all of the above characteristics? (2011)</b>",
+    "options": [
+      "Andhra Pradesh",
+      "Gujarat",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Gujarat</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Regional Agronomy Trap:</b> Gujarat flawlessly matches the matrix provided: Northern Gujarat (Kutch and Banaskantha regions) is arid/semi-arid; Central Gujarat is blanketed in moisture-retentive black soil yielding massive cotton harvests; and the state's agricultural economy is overwhelmingly dominated by high-value cash crops like cotton and groundnut, unlike the food-grain heavy states in the north.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>A geographic area with an altitude of 400 metres has following characteristics shown in table below. If this geographic area were to have a natural forest, which one of the following would it most likely be ?</b><br><br><b>Month</b> | J | F | M | A | M | J | J | A | S | O | N | D<br><b>Average Maximum Temp. °C</b> | 3.1 | 3.1 | 3.1 | 3.1 | 3.0 | 3.0 | 2.9 | 2.8 | 2.9 | 2.9 | 3.0 | 2.1<br><b>Average Minimum Temp. °C</b> | 2.1 | 2.1 | 2.1 | 2.1 | 2.1 | 2.1 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0<br><b>Rainfall (mm)</b> | 51 | 85 | 1.88 | 1.58 | 1.39 | 1.21 | 1.34 | 1.68 | 1.85 | 2.21 | 1.98 | 86<br><br><i>(Note: Original PYQ contained typographical anomalies in the data representations, typically interpreting the temperatures as ~31°C and ~21°C respectively).</i><br><br><b>(2010)</b>",
+    "options": [
+      "Moist Temperate Coniferous Forest",
+      "Montane Subtropical Forest",
+      "Temperate Forest",
+      "Tropical Rainforest"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Moist Temperate Coniferous Forest</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Tabular Data Interpretation Test:</b> Based on the official UPSC key for 2010, the correct answer for the provided climatological data matrix is the Moist Temperate Coniferous Forest.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Climatic & Geographic Regions",
+    "question": "<b>A geographic region has the following distinct characteristics:</b><br><br>1. Warm and dry climate<br>2. Mild and wet winter<br>3. Evergreen oak trees<br><br><b>The above features are the distinct characteristics of which one of the following regions ? (2010)</b>",
+    "options": [
+      "Mediterranean",
+      "Eastern China",
+      "Central Asia",
+      "Atlantic Coast of North America"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Mediterranean</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Winter Precipitation Anchor:</b> The absolute, undeniable defining characteristic of the Mediterranean climate is <b>winter rainfall</b> (driven by shifting westerlies) paired with hot, dry summers. The natural vegetation (such as Cork Oak, Olive) is sclerophyllous—specifically adapted with deep roots and thick barks to survive the harsh summer drought.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
