@@ -149,6 +149,8 @@
 ,
 {"name": "Fiscal Policy&Budget", "filename": "Fiscal Policy&Budget.json", "path": "tests/upsc/Fiscal Policy&Budget.json"}
 ,
+{"name": "Freedom Movement Personalities PYQs", "filename": "Freedom Movement Personalities PYQs.json", "path": "tests/upsc/Freedom Movement Personalities PYQs.json"}
+,
 {"name": "IVC PYQs", "filename": "IVC PYQs.json", "path": "tests/upsc/IVC PYQs.json"}
 ,
 {"name": "Ind Geo+Env", "filename": "Ind Geo+Env.json", "path": "tests/upsc/Ind Geo+Env.json"}
