@@ -123,6 +123,8 @@
 ,
 {"name": "Climatic & Geo Regions PYQs", "filename": "Climatic & Geo Regions PYQs.json", "path": "tests/upsc/Climatic & Geo Regions PYQs.json"}
 ,
+{"name": "Constitutional Development & Acts PYQs", "filename": "Constitutional Development & Acts PYQs.json", "path": "tests/upsc/Constitutional Development & Acts PYQs.json"}
+,
 {"name": "Current Affairs Polity Constitution", "filename": "Current Affairs Polity Constitution.json", "path": "tests/upsc/Current Affairs Polity Constitution.json"}
 ,
 {"name": "Eco Geography PYQs", "filename": "Eco Geography PYQs.json", "path": "tests/upsc/Eco Geography PYQs.json"}
