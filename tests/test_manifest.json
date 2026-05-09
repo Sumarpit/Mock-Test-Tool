@@ -163,6 +163,8 @@
 ,
 {"name": "Ind Geo+Env", "filename": "Ind Geo+Env.json", "path": "tests/upsc/Ind Geo+Env.json"}
 ,
+{"name": "International Org & Treaties - Economy PYQs", "filename": "International Org & Treaties - Economy PYQs.json", "path": "tests/upsc/International Org & Treaties - Economy PYQs.json"}
+,
 {"name": "Judiciary PYQs", "filename": "Judiciary PYQs.json", "path": "tests/upsc/Judiciary PYQs.json"}
 ,
 {"name": "Minerals & Resource Geography PYQs", "filename": "Minerals & Resource Geography PYQs.json", "path": "tests/upsc/Minerals & Resource Geography PYQs.json"}

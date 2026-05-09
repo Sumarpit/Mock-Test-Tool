@@ -1,0 +1,422 @@
+[
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>India is one of the founding members of the International North-South Transport Corridor (INSTC), a multimodal transportation corridor, which will connect (2025)</b>",
+    "options": [
+      "India to Central Asia to Europe via Iran",
+      "India to Central Asia via China",
+      "India to South-East Asia through Bangladesh and Myanmar",
+      "India to Europe through Azerbaijan"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: India to Central Asia to Europe via Iran</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Strategic Route Trap:</b> The examiner expects you to map India's strategic counter-initiatives to China's BRI. The INSTC is a 7,200-km-long multimodal network bypassing the Suez Canal. It links India (via sea to Iran's Bandar Abbas/Chabahar port), up through Iran, via Azerbaijan into Russia and Europe. It completely bypasses China.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>Consider the following statements in respect of the International Bank for Reconstruction and Development (IBRD):</b><br><br>I. It provides loans and guarantees to middle income countries.<br>II. It works single-handedly to help developing countries to reduce poverty.<br>III. It was established to help Europe rebuild after World War II.<br><br><b>Which of the statements given above are correct? (2025)</b>",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: I and III only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Absolute Phrasing Trap:</b><br>- <b>Statement II is incorrect:</b> The word \"single-handedly\" makes this factually absurd. IBRD is part of the broader World Bank Group and partners with IDA (which targets the poorest nations), IMF, and other multilateral bodies.<br>- <b>Statements I and III are correct:</b> IBRD explicitly targets middle-income and creditworthy low-income countries, and its original 1944 Bretton Woods mandate was literally post-WWII European reconstruction.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Recently, the United States of America (USA) and the European Union (EU) have launched the ‘Trade and Technology Council’.<br><b>Statement-II:</b> The USA and the EU claim that through this they are trying to bring technological progress and physical productivity under their control.<br><br><b>Which one of the following is correct in respect of the above statements? (2023)</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II does not explain Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geopolitical Intent Trap:</b><br>- <b>Statement-I is correct:</b> The US and EU did launch the TTC to coordinate approaches to key global trade and tech issues.<br>- <b>Statement-II is incorrect:</b> The examiner uses sinister, exaggerated phrasing (\"bring under their control\"). Official diplomatic bodies claim to foster collaboration, standard-setting, and supply chain resilience, not absolute authoritarian \"control\" over physical productivity.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>Consider the following statements:</b><br><br>The ‘Stability and Growth Pact’ of the European Union is a treaty that<br>1. limits the levels of the budgetary deficit of the countries of the European Union<br>2. makes the countries of the European Union to share their infrastructure facilities<br>3. enables the countries of the European Union to share their technologies<br><br><b>How many of the above statements are correct? (2023)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Institutional Mandate Trap:</b> The examiner tests if you know the exact functional boundary of the treaty. The Stability and Growth Pact (SGP) is strictly a <b>fiscal discipline</b> framework. It requires EU members to keep their budget deficits below 3% of GDP and public debt below 60%. It has absolutely no provisions for sharing infrastructure (Statement 2) or technologies (Statement 3).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>With reference to the “G20 Common Framework”, consider the following statements:</b><br><br>1. It is an initiative endorsed by the G20 together with the Paris Club.<br>2. It is an initiative to support Low Income Countries with unsustainable debt.<br><br><b>Which of the statements given above is/are correct? (2022)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sovereign Debt Baseline:</b> Following the COVID-19 pandemic, developing nations faced massive debt crises. The 'Common Framework for Debt Treatments beyond the DSSI' was jointly agreed upon by the <b>G20 and the Paris Club</b> to coordinate and provide debt relief/restructuring to 73 eligible Low-Income Countries.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>“Rapid Financing Instrument” and “Rapid Credit Facility” are related to the provisions of lending by which one of the following? (2022)</b>",
+    "options": [
+      "Asian Development Bank",
+      "International Monetary Fund",
+      "United Nations Environment Programme Finance Initiative",
+      "World Bank"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: International Monetary Fund</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Emergency Lending Trap:</b> Both the Rapid Financing Instrument (RFI) and Rapid Credit Facility (RCF) are emergency assistance windows deployed by the <b>International Monetary Fund (IMF)</b> to provide fast, low-conditionality financial support to member countries facing urgent balance of payments (BoP) needs, heavily utilized during the COVID-19 shock.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>In which one of the following groups are all the four countries members of G20? (2020)</b>",
+    "options": [
+      "Argentina, Mexico, South Africa and Turkey",
+      "Australia, Canada, Malaysia and New Zealand",
+      "Brazil, Iran, Saudi Arabia and Vietnam",
+      "Indonesia, Japan, Singapore and South Korea"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Argentina, Mexico, South Africa and Turkey</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Group Membership Filter:</b> You must rigidly memorize G20 members. <br>- Option B is incorrect because Malaysia and New Zealand are not members.<br>- Option C is incorrect because Iran and Vietnam are not members.<br>- Option D is incorrect because Singapore is not a member.<br>- Option A contains only actual G20 member states.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>With reference to Asian Infrastructure Investment Bank (AIIB), consider the following statements:</b><br><br>1. AIIB has more than 80 member nations.<br>2. India is the largest shareholder in AIIB.<br>3. AIIB does not have any members from outside Asia.<br><br><b>Which of the statements given above is/are correct? (2019)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Hegemony & Regional Traps:</b><br>- <b>Statement 2 is incorrect:</b> <b>China</b> is the largest shareholder (holding veto-level voting power), while India is the second-largest.<br>- <b>Statement 3 is incorrect:</b> Despite \"Asian\" in the name, AIIB deliberately recruited globally to build legitimacy; it has dozens of non-regional members (including major European powers like the UK and Germany).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>Consider the following countries:</b><br><br>1. Australia<br>2. Canada<br>3. China<br>4. India<br>5. Japan<br>6. USA<br><br><b>Which of the above are among the ‘free-trade partners’ of ASEAN? (2018)</b>",
+    "options": [
+      "1, 2, 4 and 5",
+      "3, 4, 5 and 6",
+      "1, 3, 4 and 5",
+      "2, 3, 4 and 6"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 3, 4 and 5</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The FTA Partner Exclusion Trap:</b> ASEAN (10 nations) established formal Free Trade Agreements (FTAs) with exactly 6 key regional partners: Australia, New Zealand, China, Japan, South Korea, and India. The USA (6) and Canada (2) are structurally excluded from this specific Asian FTA matrix.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>Consider the following statements:</b><br><br>1. India has ratified the Trade Facilitation Agreement (TFA) of WTO.<br>2. TFA is a part of WTO’s Bali Ministerial Package of 2013.<br>3. TFA came into force in January 2016.<br><br><b>Which of the statements given above is/are correct? (2017)</b>",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Chronological Timeline Trap:</b> <br>- <b>Statement 3 is incorrect:</b> The WTO's Trade Facilitation Agreement officially entered into force in <b>February 2017</b> (when it crossed the threshold of two-thirds ratification by members), not January 2016.<br>- Statements 1 and 2 are correct historical markers for the Bali Package.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>The Global Infrastructure Facility is a/an (2017)</b>",
+    "options": [
+      "ASEAN initiative to upgrade infrastructure in Asia and financed by credit from the Asian Development Bank.",
+      "World Bank collaboration that facilitates the preparation and structuring of complex infrastructure Public-Private Partnerships (PPPs) to enable mobilization of private sector and institutional investor capital.",
+      "Collaboration among the major banks of the world working with the OECD and focused on expanding the set of infrastructure projects that have the potential to mobilize private investment.",
+      "UNCTAD funded initiative that seeks to finance and facilitate infrastructure development in the world."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: World Bank collaboration that facilitates the preparation and structuring of complex infrastructure Public-Private Partnerships (PPPs) to enable mobilization of private sector and institutional investor capital.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Platform Identification Trap:</b> The Global Infrastructure Facility (GIF) is a G20 initiative, specifically housed and co-chaired by the <b>World Bank Group</b>. It acts as an open platform integrating efforts of multilateral development banks, governments, and private investors to prepare viable infrastructure PPPs in emerging markets.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>Recently, which one of the following currencies has been proposed to be added to the basket of IMF’s SDR? (2016)</b>",
+    "options": [
+      "Rouble",
+      "Rand",
+      "Indian Rupee",
+      "Renminbi"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Renminbi</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Reserve Asset Composition:</b> The Special Drawing Right (S SDR) is an international reserve asset created by the IMF. In 2016, reflecting China's massive integration into the global financial system, the IMF officially added the Chinese <b>Renminbi (Yuan)</b> as the 5th currency in the SDR basket (joining the US Dollar, Euro, Japanese Yen, and British Pound).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>With reference to the International Monetary and Financial Committee (IMFC), consider the following statements:</b><br><br>1. IMFC discusses matters of concern affecting the global economy, and advises the International Monetary Fund (IMF) on the direction of its work.<br>2. The World Bank participates as observer in IMFC’s meetings.<br><br><b>Which of the statements given above is/are correct? (2016)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sister-Institution Linkage:</b> The IMFC is the principal advisory body to the IMF Board of Governors. Because the IMF and World Bank are the \"Bretton Woods twins,\" they coordinate closely. The World Bank explicitly participates as an observer in IMFC meetings to ensure structural alignment.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>European Stability Mechanism’, sometimes seen in the news, is an (2016)</b>",
+    "options": [
+      "agency created by EU to deal with the impact of millions of refugees arriving from Middle East",
+      "agency of EU that provides financial assistance to eurozone countries",
+      "agency of EU to deal with all the bilateral and multilateral agreements on trade",
+      "agency of EU to deal with the conflicts arising among the member countries"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: agency of EU that provides financial assistance to eurozone countries</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Crisis Response Mechanism Trap:</b> The term emerged during the devastating Eurozone sovereign debt crisis (post-2008/Greece crisis). The ESM is explicitly a firewall/bailout fund (financial institution) set up to provide emergency financial assistance to Eurozone member states in severe financial distress.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>The term ‘Regional Comprehensive Economic Partnership’ often appears in the news in the context of the affairs of a group of countries known as (2016)</b>",
+    "options": [
+      "G2O",
+      "ASEAN",
+      "SCO",
+      "SAARC"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ASEAN</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Regional Hub Anchor:</b> RCEP is a massive Free Trade Agreement entirely centered around the 10 member states of <b>ASEAN</b> and its free trade partners (China, Japan, South Korea, Australia, New Zealand). India famously opted out of RCEP in 2019.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>Consider the following statements:</b><br><br>1. New Development Bank has been set up by APEC.<br>2. The headquarters of New Development Bank is in Shanghai.<br><br><b>Which of the statements given above is/are correct? (2016)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Founding Group Trap:</b> <br>- <b>Statement 1 is incorrect:</b> The New Development Bank (NDB) was explicitly established by the <b>BRICS</b> nations (Brazil, Russia, India, China, South Africa) following the Fortaleza Declaration, absolutely not by APEC.<br>- <b>Statement 2 is correct:</b> The NDB is headquartered in Shanghai, China.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>The term ‘Base Erosion and Profit Shifting’ is sometimes seen in the news in the context of (2016)</b>",
+    "options": [
+      "mining operation by multinational companies in resource-rich but backward areas",
+      "curbing of the tax evasion by multinational companies",
+      "exploitation of genetic resources of a country by multinational companies",
+      "lack of consideration of environmental costs in the planning and implementation of developmental projects."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: curbing of the tax evasion by multinational companies</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Corporate Tax Loophole Definition:</b> BEPS refers to tax planning strategies used by multinational enterprises (like tech giants) that exploit gaps and mismatches in tax rules to artificially shift profits to low or no-tax locations. The OECD and G20 lead the inclusive framework to combat this massive tax evasion.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>The ‘Fortaleza Declaration’, recently in the news, is related to the affairs of (2015)</b>",
+    "options": [
+      "ASEAN",
+      "BRICS",
+      "OECD",
+      "WTO"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: BRICS</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Summit Declaration Anchor:</b> Signed at the 6th BRICS Summit in 2014 in Fortaleza, Brazil, this declaration formally announced the creation of the New Development Bank (NDB) and the Contingent Reserve Arrangement (CRA) to bypass Western-dominated financial institutions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>With reference to a grouping of countries known as BRICS, consider the following statements:</b><br><br>1. The First Summit of BRICS was held in Rio de Janeiro in 2009.<br>2. South Africa was the last to join the BRICS grouping.<br><br><b>Which of the statements given above is/are correct? (2014)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The First Summit Geography Trap:</b> <br>- <b>Statement 1 is incorrect:</b> The first formal summit of the original BRIC nations was held in <b>Yekaterinburg, Russia</b> in 2009, not Rio de Janeiro.<br>- <b>Statement 2 is correct:</b> South Africa joined the bloc in 2010 (changing BRIC to BRICS). *Note: As of Jan 2024, the bloc expanded further, but this applies to the historical 2014 context.*",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>Regarding the International Monetary Fund, which one of the following statements is correct? (2011)</b>",
+    "options": [
+      "It can grant loans to any country.",
+      "It can grant loans to only developed countries.",
+      "It grants loans to only member countries.",
+      "It can grant loans to the central bank of a country."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: It grants loans to only member countries.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Membership Mandate Constraint:</b> The IMF acts essentially as a global credit union. It provides BoP crisis loans and policy advice <b>exclusively to its quota-paying member nations</b>. It does not act as a generic bank granting loans to \"any\" country outside its treaty structure.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>In the context of the affairs of which of the following is the phrase ‘Special Safeguard Mechanisms’ mentioned in the news frequently? (2010)</b>",
+    "options": [
+      "United Nations Environment Programme",
+      "WTO",
+      "ASEAN-Free Trade Agreement",
+      "G-20 Summits"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: WTO</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Agricultural Trade Safety Net:</b> The Special Safeguard Mechanism (SSM) was a massive sticking point during the WTO's Doha Round negotiations. It is a proposed tool that would allow developing countries (like India) to temporarily raise tariffs on agricultural imports to protect domestic farmers from sudden import surges or price falls.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>As regards the use of international food safety standards as reference point for the dispute settlements, which one of the following does WTO collaborate with? (2010)</b>",
+    "options": [
+      "Codex Alimentarius Commission",
+      "International Federation of Standard Users",
+      "International Organization of Standardization",
+      "World Standards Cooperation"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Codex Alimentarius Commission</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Standard-Setting Interlock:</b> Under the WTO's Sanitary and Phytosanitary (SPS) Agreement, trade restrictions based on health safety must be scientifically justified. The WTO explicitly recognizes the joint FAO/WHO <b>Codex Alimentarius Commission</b> as the absolute benchmark standard for international food safety.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>In the context of bilateral trade negotiations between India and European Union, what is the difference between European commission and European Council?</b><br><br>1. European Commission represents the EU in trade negotiations whereas European Council participated in the legislation of matters pertaining to economic policies of the European Union<br>2. European Commission comprises the heads of State of govt. of member countries whereas the European Council comprises of the persons nominated by European Parliament<br><br><b>Which of the statements given above is/are correct? (2010)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Executive vs. Intergovernmental Swap Trap:</b> <br>- <b>Statement 2 is completely inverted:</b> The European Council is composed of the national Heads of State/Government of EU member states (providing macro political direction). The European Commission is the executive body, consisting of appointed Commissioners.<br>- <b>Statement 1 misrepresents legislative powers:</b> While the Commission negotiates trade, the Council (along with the Parliament) acts as the co-legislator.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>The International Development Association, a lending agency, is administered by the (2010)</b>",
+    "options": [
+      "International Bank for Reconstruction and Development",
+      "International Fund for Agricultural Development",
+      "United Nations Development Programme.",
+      "United Nations Industrial Development Organization"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: International Bank for Reconstruction and Development</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Institutional Umbrella Trap:</b> The International Development Association (IDA), which offers concessional loans and grants to the world's poorest developing countries, is one of the two main pillars of the \"World Bank\". It is administered directly by its sister institution, the <b>IBRD</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>With reference to BRIC countries, consider the following statements:</b><br><br>1. At present, China’s GDP is more than the combined GDP of all the three other countries.<br>2. China’s population is more than the combined population of any two other countries.<br><br><b>Which of the statements given above is/are correct? (2010)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Demographic Math Trap:</b><br>- <b>Statement 1 is correct:</b> China is the economic behemoth of the bloc; its nominal GDP vastly overshadows the combined GDP of Brazil, Russia, and India.<br>- <b>Statement 2 is mathematically incorrect:</b> China's population (~1.4 billion) is massive, but it is certainly <i>not</i> greater than India's population (~1.3-1.4 billion) plus any other nation combined.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>Other than Venezuela, which one among the following from South America is a member of OPEC? (2009)</b>",
+    "options": [
+      "Argentina",
+      "Brazil",
+      "Ecuador",
+      "Bolivia"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Ecuador</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Cartel Roster Verification:</b> At the time of this question (2009), <b>Ecuador</b> was the only other South American member of the Organization of the Petroleum Exporting Countries (OPEC) alongside Venezuela. *(Note: Ecuador subsequently suspended its membership and officially left OPEC on January 1, 2020).*.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>NAMA-11 (Nama-11) group of countries frequently appears in the news in the context of the affairs of which one of the following ? (2009)</b>",
+    "options": [
+      "Nuclear Suppliers Group",
+      "World Bank",
+      "World Economic Forum",
+      "W.T.O."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: W.T.O.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Trade Negotiation Acronym Trap:</b> NAMA stands for <b>Non-Agricultural Market Access</b>. The NAMA-11 was a coalition of developing countries (including India, Brazil, and South Africa) formed within the <b>World Trade Organization (WTO)</b> to protect their domestic industrial tariffs from aggressive cuts demanded by developed nations during the Doha Round.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Org & Treaties - Economy",
+    "question": "<b>Consider the following pairs:</b><br><br>1. Asian Development Bank: Tokyo<br>2. Asia-Pacific Economic Cooperation :Singapore<br>3. Association of South East Asian Nations :Bangkok<br><br><b>Which of the above pairs is/are correct matched? (2009)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "2 and 3 only",
+      "3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Headquarter Location Trap:</b> <br>- <b>Pair 1 is incorrect:</b> The Asian Development Bank (ADB) is headquartered in <b>Manila</b> (Philippines), not Tokyo.<br>- <b>Pair 2 is correct:</b> APEC's secretariat is based in <b>Singapore</b>.<br>- <b>Pair 3 is incorrect:</b> ASEAN was founded via the Bangkok Declaration, but its formal headquarters/secretariat is located in <b>Jakarta</b> (Indonesia).",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
