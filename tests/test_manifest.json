@@ -315,6 +315,8 @@
 ,
 {"name": "SnT CA Part 9", "filename": "SnT CA Part 9.json", "path": "tests/upsc/SnT CA Part 9.json"}
 ,
+{"name": "Sources & Literature AMAC PYQs", "filename": "Sources & Literature AMAC PYQs.json", "path": "tests/upsc/Sources & Literature AMAC PYQs.json"}
+,
 {"name": "Temple & Cave Architecture PYQs", "filename": "Temple & Cave Architecture PYQs.json", "path": "tests/upsc/Temple & Cave Architecture PYQs.json"}
 ,
 {"name": "center state relations 20q", "filename": "center state relations 20q.json", "path": "tests/upsc/center state relations 20q.json"}

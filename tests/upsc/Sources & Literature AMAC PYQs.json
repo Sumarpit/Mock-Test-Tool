@@ -1,0 +1,182 @@
+[
+  {
+    "section": "Art & Culture",
+    "topic": "Sources & Literature",
+    "question": "<b>Which one of the following is a work attributed to playwright Bhāsa? (2024)</b>",
+    "options": [
+      "Kavyaalankara",
+      "Natyashastra",
+      "Madhyama-vyayoga",
+      "Mahabhashya"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Madhyama-vyayoga</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Author-Text Swap Trap:</b> The examiner tests foundational ancient literature. 'Natyashastra' is famously attributed to Bharata Muni, and 'Mahabhashya' (a commentary on grammar) is by Patanjali. Bhamaha wrote 'Kavyalankara'. <b>Madhyama-vyayoga</b> is a classic Sanskrit play based on the Mahabharata, composed by the eminent early playwright <b>Bhāsa</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Sources & Literature",
+    "question": "<b>Consider the following statements:</b><br><br>1. There are no parables in Upanishads.<br>2. Upanishads were composed earlier than the Puranas.<br><br><b>Which of the statements given above is/ are correct? (2024)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>Statement 1 is incorrect (The Absolute Denial Trap):</b> The examiner uses \"no parables\". The Upanishads frequently use parables, analogies, and metaphors (like the famous 'Parable of the Two Birds' in the Mundaka and Shvetashvatara Upanishads) to explain complex metaphysical concepts like the Atman and Brahman.<br><b>Statement 2 is correct (The Chronological Era Trap):</b> The Principal Upanishads are part of the Late Vedic literature (approx. 800-500 BCE). The major Puranas were written/compiled much later, primarily during and after the Gupta period (approx. 3rd-5th Century CE onwards).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Sources & Literature",
+    "question": "<b>With reference to ancient Indian History, consider the following pairs :</b><br><br><b>Literary work → Author</b><br>1. Devichandragupta → Bilhana<br>2. Hammira-Mahakavya → Nayachandra Suri<br>3. Milinda-panha → Nagarjuna<br>4. Nitivakyamrita → Somadeva Suri<br><br><b>How many of the above pairs are correctly matched? (2023)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Famous Monk/Author Conflation Trap:</b><br>- <b>Pair 1 is incorrect:</b> <i>Devichandraguptam</i> is a famous political drama written by <b>Vishakhadatta</b> (who also wrote Mudrarakshasa), not Bilhana.<br>- <b>Pair 2 is correct:</b> <i>Hammira-Mahakavya</i> is a 15th-century Sanskrit epic by Jain scholar Nayachandra Suri.<br>- <b>Pair 3 is incorrect:</b> <i>Milinda-panha</i> contains the dialogue between Indo-Greek King Menander and the Buddhist monk <b>Nagasena</b>, not Nagarjuna (who founded the Madhyamaka school).<br>- <b>Pair 4 is correct:</b> <i>Nitivakyamrita</i> was composed by the Jain scholar Somadeva Suri.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Sources & Literature",
+    "question": "<b>Which one of the following explains the practice of 'Vattakirutal' as mentioned in Sangam poems? (2023)</b>",
+    "options": [
+      "Kings employing women bodyguards",
+      "Learned persons assembling in royal courts to discuss religious and philosophical matters",
+      "Young girls keeping watch over agricultural fields and driving away birds and animals",
+      "A king defeated in a battle committing ritual suicide by starving himself to death"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: A king defeated in a battle committing ritual suicide by starving himself to death</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sangam Terminology Trap:</b> The examiner digs deep into ancient Tamil martial traditions (Puram poetry). <b>Vattakirutal</b> (or Vadakkiruthal) was a Tamil martial and honor code where a king, upon facing crushing defeat or severe dishonor in battle, would face the North and fast to death (ritual suicide) alongside his loyal followers.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Sources & Literature",
+    "question": "<b>With reference to Indian history, consider the following texts :</b><br><br>1. Nettipakarana<br>2. Parishishtaparvan<br>3. Avadanashataka<br>4. Trishashtilakshana Mahapurana<br><br><b>Which of the above are Jaina texts? (2022)</b>",
+    "options": [
+      "1, 2 and 3",
+      "2 and 4 only",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sectarian Literature Trap:</b> You must segregate Jain and Buddhist canons rigorously.<br>- <i>Nettipakarana</i> and <i>Avadanashataka</i> are foundational <b>Buddhist</b> texts (the former a Pali guide to teaching, the latter a Sanskrit collection of noble deeds).<br>- <i>Parishishtaparvan</i> (by Hemachandra) and <i>Trishashtilakshana Mahapurana</i> (by Jinasena and Gunabhadra) are iconic <b>Jaina</b> texts.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Sources & Literature",
+    "question": "<b>Which one of the following statements about Sangam literature in ancient South India is correct ? (2022)</b>",
+    "options": [
+      "Sangam poems are devoid of any reference to material culture.",
+      "The social classification of Varna was known to Sangam poets.",
+      "Sangam poems have no reference to warrior ethic.",
+      "Sangam literature refers to magical forces as irrational."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The social classification of Varna was known to Sangam poets.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sociological Absolute Trap:</b> <br>- Option A is absurd: Sangam literature is our primary source for the booming material culture and trade of early historic Tamil Nadu.<br>- Option C is absurd: The entire 'Puram' corpus of Sangam poetry is dedicated to heroism, war, and the <b>warrior ethic</b>.<br>- Option B is correct: While the rigid four-fold Varna system of the North hadn't fully entrenched itself, the Sangam poets were fully aware of the social classification (mentioning Brahmans, Arasars/Kings, Vaisiyars, and Vellalars).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Sources & Literature",
+    "question": "<b>According to Kautilya’s Arthashastra, which of the following are correct ?</b><br><br>1. A person could be a slave as a result of a judicial punishment.<br>2. If a female slave bore her master a son, she was legally free.<br>3. If a son born to a female slave was fathered by her master, the son was entitled to the legal status of the master’s son.<br><br><b>Which of the statements given above are correct ? (2022)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Ancient Law & Society Trap:</b> Kautilya's <i>Arthashastra</i> provided an incredibly detailed and surprisingly progressive legal code regarding slaves (Dasas), completely distinct from Greek/Roman slavery. It explicitly outlined that slavery could result from capture in war, birth, or <b>judicial punishment</b> (Statement 1). It also provided legal protections for female slaves: bearing the master's child granted both the mother her freedom (Statement 2) and the child the legal status of a legitimate heir (Statement 3).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Sources & Literature",
+    "question": "<b>“Yogavasistha” was translated into Persian by Nizamuddin Panipati during the reign of: (2022)</b>",
+    "options": [
+      "Akbar",
+      "Humayun",
+      "Shahjahan",
+      "Aurangzeb"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Akbar</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Mughal Patronage Trap:</b> Translation of major Sanskrit texts into Persian was a massive state enterprise under the Mughals. While Dara Shikoh (during Shahjahan's reign) is famously known for translating the Upanishads (Sirr-i-Akbar), the translation of the <i>Yogavasistha</i> by Nizamuddin Panipati (and later by others) was primarily commissioned during the highly syncretic reign of <b>Akbar</b>, who established the <i>Maktab Khana</i> (translation bureau).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Sources & Literature",
+    "question": "<b>With reference to the history of ancient India, Bhavabhuti, Hastimalla and Kshemeshvara were famous (2021)</b>",
+    "options": [
+      "Jain monks",
+      "playwrights",
+      "temple architects",
+      "philosophers"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: playwrights</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Ancient Personalities Trap:</b> The examiner expects you to map obscure names to their cultural contributions. Bhavabhuti (author of <i>Malatimadhava</i> and <i>Uttaramacharita</i>), Hastimalla (a Hoysala era writer), and Kshemeshvara (author of <i>Chandakaushika</i>) are all highly celebrated Sanskrit <b>playwrights/dramatists</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Sources & Literature",
+    "question": "<b>With reference to the scholars/ litterateurs of ancient India, consider the following statements:</b><br><br>1. Panini is associated with Pushyamitra Shunga.<br>2. Amarasimha is associated with Harshavardhana.<br>3. Kalidasa is associated with Chandra Gupta - II.<br><br><b>Which of the statements given above is/ are correct? (2020)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Royal Patronage Chronology Trap:</b><br>- <b>Statement 1 is incorrect:</b> Panini (the great grammarian, author of <i>Ashtadhyayi</i>) lived around the 6th-4th century BCE, long before the Shunga dynasty (2nd century BCE). It was <i>Patanjali</i> who was associated with Pushyamitra Shunga.<br>- <b>Statement 2 is incorrect:</b> Amarasimha (author of the Sanskrit lexicon <i>Amarakosha</i>) was one of the Navaratnas (Nine Gems) in the court of <b>Chandra Gupta II</b>, not Harshavardhana (7th century CE).<br>- <b>Statement 3 is correct:</b> Kalidasa is historically anchored as the literary jewel of Chandra Gupta II's (Vikramaditya) court.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Sources & Literature",
+    "question": "<b>Which one of the following books of ancient India has the love story of the son of the founder of Sunga dynasty? (2016)</b>",
+    "options": [
+      "Swapnavasavadatta",
+      "Malavikagnimitra",
+      "Meghadoota",
+      "Ratnavali"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Malavikagnimitra</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Historical Fiction Identifier:</b> The founder of the Sunga dynasty was Pushyamitra Sunga. His son was <b>Agnimitra</b>. Kalidasa's classic play <i>Malavikagnimitra</i> (Malavika and Agnimitra) explicitly details the courtly love story and political events of Agnimitra's reign.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Art & Culture",
+    "topic": "Sources & Literature",
+    "question": "<b>The national motto of India, ‘Satyameva Jayate’ inscribed below the Emblem of India is taken from? (2014)</b>",
+    "options": [
+      "Katha Upanishad",
+      "Chandogra Upanishad",
+      "Aitareya Upanishad",
+      "Mundaka Upanishad"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Mundaka Upanishad</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Vedic Source Trap:</b> This is an absolute foundational fact. The phrase 'Satyameva Jayate' (Truth alone triumphs) is a mantra from the ancient Indian scripture, the <b>Mundaka Upanishad</b>. It was adopted as the national motto of India on 26 January 1950.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
