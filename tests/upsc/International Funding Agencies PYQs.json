@@ -1,0 +1,332 @@
+[
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>Which organization has enacted the Nature Restoration Law (NRL) to tackle climate change and biodiversity loss? (2025)</b>",
+    "options": [
+      "The European Union",
+      "The World Bank",
+      "The Organization for Economic Cooperation and Development",
+      "The Food and Agriculture Organization"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: The European Union</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Legislative Architecture Trap:</b> The examiner tests your understanding of regional vs. global legal authority. The World Bank (B) is a financial institution, and the OECD (C) and FAO (D) are intergovernmental/UN bodies that can propose frameworks but lack sovereign legislative power. The <b>European Union</b> is the only supranational entity listed capable of \"enacting\" a legally binding continental law (the Nature Restoration Law) for its member states.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>Consider the following statements with regard to BRICS:</b><br><br>I. 16th BRICS Summit was held under the Chairship of Russia in Kazan.<br>II. Indonesia has become a full member of BRICS.<br>III. The theme of the 16th BRICS Summit was Strengthening Multiculturalism for Just Global Development and Security.<br><br><b>Which of the statements given above is/ are correct? (2025)</b>",
+    "options": [
+      "I and II",
+      "II and III",
+      "I and III",
+      "I only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: I only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Membership Tier & Semantic Precision Traps:</b><br><b>Statement II is incorrect:</b> The examiner tests newly created structural tiers. Indonesia did not become a \"full member.\" Instead, the 16th Kazan Summit created a secondary <b>\"Partner Country\"</b> category, to which Indonesia was inducted.<br><b>Statement III is incorrect:</b> A classic Semantic Substitution Trap. The examiner deliberately swapped <b>\"Multilateralism\"</b> (a geopolitical concept of multiple countries working together) with \"Multiculturalism\" (a sociological concept).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>Consider the following statements regarding World Toilet Organization:</b><br><br>1. It is one of the agencies of the United Nations.<br>2. World Toilet Summit, World Toilet Day, and World Toilet College are the initiatives of this organization, to inspire action to tackle the global sanitation crisis.<br>3. The main focus of its function is to grant funds to the least developed countries and developing countries to achieve the end of open defecation.<br><br><b>Which of the statements given above is/ are correct? (2024)</b>",
+    "options": [
+      "2 only",
+      "3 only",
+      "1 and 2",
+      "2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Institutional Nomenclature Trap:</b> Candidates see 'World' and 'Organization' and reflexively assume a UN affiliation (Statement 1). The World Toilet Organization (WTO) is actually a global non-profit NGO founded in 2001. <br><b>Statement 3 is incorrect:</b> Its primary focus is advocacy, breaking the sanitation taboo, and education (World Toilet College), not acting as a financial funding agency granting capital to LDCs.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>Consider the following statements:</b><br><br>1. India is a member of the International Grains Council.<br>2. The country needs to be a member of the International Grains Council for exporting or importing rice and wheat.<br><br><b>Which of the statements given above is/ are correct? (2024)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Extreme Phrasing Trap:</b> Statement 2 uses the extreme conditional requirement \"needs to be a member... for exporting or importing\". International trade is fundamentally governed by bilateral agreements and WTO frameworks. Membership in a specific commodity council (IGC) is <b>never</b> a mandatory prerequisite for sovereign states to trade rice and wheat.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>Consider the following statements:</b><br><br>1. The Global Ocean Commission grants licenses for seabed exploration and mining in international waters.<br>2. India has received licenses for seabed mineral exploration in international waters.<br>3. ‘Rare earth minerals’ are present on the seafloor in international waters.<br><br><b>Which of the statements given above are correct? (2021)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2, and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Mandate Substitution Trap:</b> Statement 1 is historically and factually incorrect. The Global Ocean Commission was an international awareness initiative (now defunct). The sole regulatory body explicitly mandated under UNCLOS to grant licenses for seabed exploration and mining in international waters is the <b>International Seabed Authority (ISA)</b>. India holds ISA licenses for the Central Indian Ocean Basin.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>With reference to ‘Water Credit’, consider the following statements:</b><br><br>1. It puts microfinance tools to work in the water and sanitation sector.<br>2. It is a global initiative launched under the aegis of the World Health Organization and the World Bank.<br>3. It aims to enable the poor people to meet their water needs without depending on subsidies.<br><br><b>Which of the statements given above are correct? (2021)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Agency Authorship Trap:</b> The examiner frequently attributes successful NGO initiatives to massive multilateral bodies like WHO/World Bank (Statement 2). WaterCredit is actually a flagship initiative pioneered by <b>Water.org</b> (a non-profit co-founded by Gary White and Matt Damon) that applies microfinance directly to WASH (Water, Sanitation, and Hygiene) solutions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>Consider the following pairs:</b><br><br><b>International agreement /set-up : Subject</b><br>1. Alma-Ata Declaration : Healthcare of the people<br>2. Hague Convention : Biological and chemical weapons<br>3. Talanoa Dialogue : Global climate change<br>4. Under2 Coalition : Child rights<br><br><b>Which of the pairs given above is/are correctly matched? (2020)</b>",
+    "options": [
+      "1 and 2 only",
+      "4 only",
+      "1 and 3 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Subject Swap Trap:</b><br>- <b>Pair 2 is incorrect:</b> The Hague Convention (in modern civil law context) heavily deals with International Child Abduction, not biological weapons (which fall under the BWC/CWC).<br>- <b>Pair 4 is incorrect:</b> The Under2 Coalition is a global community of <i>sub-national governments</i> committed to keeping global warming under 2°C (climate change), totally unrelated to child rights.<br>- <b>Pairs 1 & 3 are correct:</b> Alma-Ata (1978) established the baseline for Primary Healthcare. Talanoa Dialogue was an inclusive climate framework under UNFCCC COP23.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>In India, why are some nuclear reactors kept “IAEA Safeguards” while others are not? (2020)</b>",
+    "options": [
+      "Some use uranium and others use thorium",
+      "Some use imported uranium and others use domestic supplies",
+      "Some are operated by foreign enterprises and others are operated by domestic",
+      "Some are State-owned and others are privately-owned"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Some use imported uranium and others use domestic supplies</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Strategic Separation Baseline:</b> Following the 2008 Indo-US Civil Nuclear Deal, India was explicitly required to cleanly separate its civilian and military nuclear facilities. Reactors designated as 'civilian' and fueled by <b>imported uranium</b> are strictly placed under IAEA safeguards to assure suppliers the fuel is not diverted to weapons. Indigenous reactors kept for strategic (military) purposes run on domestic supplies and remain outside IAEA purview.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>In the Indian context, what is the implication of ratifying the ‘Additional Protocol’ with the ‘International Atomic Energy Agency (IAEA)’? (2018)</b>",
+    "options": [
+      "The civilian nuclear reactors come under IAEA safeguards.",
+      "The military nuclear installations come under the inspection of IAEA",
+      "The country will have the privilege to buy uranium from the Nuclear Suppliers Group (NSG).",
+      "The country automatically becomes a member of the NSG."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: The civilian nuclear reactors come under IAEA safeguards.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sovereign Exception Trap:</b> Option B is a fatal trap; India categorically refuses to allow international inspection of its military installations. Ratifying the IAEA Additional Protocol specifically granted the IAEA enhanced, unannounced inspection rights to India's explicitly designated <b>civilian</b> nuclear facilities to verify the peaceful use of nuclear material.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>What is/are the consequence/ consequences of a country becoming the member of the ‘Nuclear Suppliers Group’?</b><br><br>1. It will have access to the latest and most efficient nuclear technologies.<br>2. It automatically becomes a member of “The Treaty on the Non-Proliferation of Nuclear Weapons (NPT)”.<br><br><b>Which of the statements given above is/ are correct? (2018)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Causal Inversion Trap:</b> Statement 2 reverses the political reality. Membership in the NSG does not \"automatically\" make a country a member of the NPT. In fact, signing the NPT is traditionally considered a <i>prerequisite</i> to joining the NSG (which is why India’s bid to join the NSG is continuously blocked by China, as India is a non-NPT signatory).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>With reference to `Asia Pacific’ Ministerial Conference on Housing and Urban Development (APMCHUD)’, consider the following statements:</b><br><br>1. The first APMCHUD was held in India in 2006 on the theme `Emerging Urban Forms – Policy Responses and Governance Structure’.<br>2. India hosts all the Annual Ministerial Conferences in partnership with ADB, APEC and ASEAN.<br><br><b>Which of the statements given above is/ are correct? (2017)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Absolute Host Trap:</b> <br><b>Statement 1 is incorrect:</b> The first APMCHUD was indeed held in New Delhi in 2006, but the theme was \"A Vision for Sustainable Urbanization in the Asia-Pacific by 2020\".<br><b>Statement 2 is entirely absurd:</b> The examiner uses the extreme word \"all\". The conference rotates biennially among member countries (e.g., Iran, Indonesia), making the claim that India hosts \"all\" of them objectively false.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>Consider the following in respect of Indian Ocean Naval Symposium (IONS) :</b><br><br>1. Inaugural IONS was held in India in 2015 under the chairmanship of the Indian Navy.<br>2. IONS is a voluntary initiative that seeks to increase maritime co-operation among navies of the littoral states of the Indian Ocean Region.<br><br><b>Which of the above statements is/are correct ? (2017)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Timeline Distortion Trap:</b> <br><b>Statement 1 is incorrect:</b> The inaugural IONS seminar was indeed held in India under the Indian Navy's chairmanship, but the examiner fabricated the timeline. It was held in <b>2008</b>, not 2015.<br><b>Statement 2 is correct:</b> It accurately describes the mandate of IONS to foster voluntary interoperability and maritime security among Indian Ocean littoral navies.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>Consider the following statements:</b><br><br>1. The Nuclear Security Summits are periodically held under the aegis of the United Nations.<br>2. The International Panel on Fissile Materials is an organ of International Atomic Energy Agency.<br><br><b>Which of the statements given above is/ are correct? (2017)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Organizational Umbrella Trap:</b> Both statements assign independent initiatives to major UN bodies.<br><b>Statement 1 is incorrect:</b> The Nuclear Security Summits (NSS) were an ad-hoc, high-level diplomatic initiative driven primarily by US President Barack Obama (2010-2016), outside the formal aegis of the United Nations.<br><b>Statement 2 is incorrect:</b> The International Panel on Fissile Materials (IPFM) is an independent group of arms-control and nonproliferation experts, not an official statutory organ of the IAEA.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>India is an important member of the ‘International Thermonuclear Experimental Reactor’. If this experiment succeeds, what is the immediate advantage for India? (2016)</b>",
+    "options": [
+      "It can use thorium in place of uranium for power generation",
+      "It attain a global role in satellite-navigation",
+      "It can drastically improve the efficiency of its fission reactors in power generation",
+      "It can build fusion reactors for power generation"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: It can build fusion reactors for power generation</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Physics Process Trap:</b> The examiner tests fundamental scientific literacy within IR. \"Thermonuclear\" is the exact scientific term for nuclear <b>fusion</b> (combining light isotopes like deuterium/tritium, the process powering the sun). Options A and C describe nuclear <i>fission</i> (splitting heavy atoms), fundamentally testing if candidates know the difference between current fission plants and future fusion technology (ITER).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>Doctors Without Borders (Medecins Sans Frontieres)’, often in the news, is (2016)</b>",
+    "options": [
+      "a division of World Health Organization",
+      "a non-governmental international organization",
+      "an inter-governmental agency sponsored by European Union",
+      "a specialized agency of the United Nations"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: a non-governmental international organization</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Bureaucratic Umbrella Trap:</b> A recurring UPSC technique. MSF's massive global presence in disaster zones often leads candidates to intuitively group it under official intergovernmental bodies like the WHO (Option A) or UN (Option D). MSF is famously a fierce, independent <b>non-governmental organization (NGO)</b> founded in France.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>With reference to ‘Organisation for the Prohibition of Chemical Weapons (OPCW)’, consider the following statements:</b><br><br>1. It is an organization of European Union in working relation with NATO and WHO.<br>2. It monitors chemical industry to prevent new weapons from emerging.<br>3. It provides assistance and protection to States (Parties) against chemical weapons threats.<br><br><b>Which of the statements given above is/ are correct? (2016)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Supranational Origin Trap:</b><br><b>Statement 1 is incorrect:</b> The OPCW is the implementing body for the Chemical Weapons Convention (CWC), an independent global international organization associated with the United Nations. It is explicitly <b>not</b> a subsidiary organization of the European Union or NATO.<br><b>Statements 2 & 3 are correct:</b> They accurately describe its core mandate to verify the destruction of chemical stockpiles and provide protective assistance.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>Belt and Road Initiative’ is sometimes mentioned in the news in the context of the affairs of (2016)</b>",
+    "options": [
+      "African Union",
+      "Brazil",
+      "European Union",
+      "China"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: China</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geopolitical Anchor:</b> This is a tier-one baseline fact. The Belt and Road Initiative (BRI), originally known as One Belt One Road (OBOR), is the colossal transcontinental infrastructure and economic integration strategy launched aggressively by <b>China</b> under Xi Jinping in 2013.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>Beijing Declaration and Platform for Action’, often seen in the news, is (2015)</b>",
+    "options": [
+      "a strategy to tackle the regional terrorism, an outcome of a meeting of the Shanghai Cooperation Organization",
+      "a plan of action for sustainable economic growth in the Asia-Pacific Region, an outcome of the deliberations of the Asia-Pacific Economic Forum",
+      "an agenda for women’s empowerment, an outcome of a World Conferene convened by the United Nations",
+      "a strategy to combat wildlife trafficking, a declaration of the East Asia Summit"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: an agenda for women’s empowerment, an outcome of a World Conferene convened by the United Nations</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geopolitical Conflation Trap:</b> Because it is named the \"Beijing\" Declaration, candidates instinctively connect it to modern Chinese-led geopolitical forums like the SCO (Option A). The 1995 Beijing Declaration was actually the landmark outcome of the Fourth World Conference on Women, establishing a historic, progressive blueprint for global <b>women's empowerment</b> and gender equality.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>Amnesty International is (2015)</b>",
+    "options": [
+      "an agency of the United Nations to help refugees of civil wars",
+      "a global Human Rights Movement",
+      "a non-governmental voluntary organization to help very poor people",
+      "an inter-governmental agency to cater to medical emergencies in war-ravaged regions"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: a global Human Rights Movement</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Institutional vs. NGO Trap:</b> Amnesty International is rigorously tested on its mandate. It is not an inter-governmental or UN agency (eliminating Options A and D). While it is an NGO, its exclusive, defining focus is campaigning for the Universal Declaration of Human Rights (freeing political prisoners, opposing torture), not generalized poverty alleviation (Option C).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>Consider the following countries :</b><br><br>(1) China<br>(2) France<br>(3) India<br>(4) Israel<br>(5) Pakistan<br><br><b>Which among the above are Nuclear Weapons States as recognized by the Treaty on the Non-Proliferation of Nuclear Weapons, commonly known as Nuclear Non-Proliferation Treaty (NPT)? (2015)</b>",
+    "options": [
+      "1 and 2 only",
+      "1, 3, 4 and 5 only",
+      "2, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Legal Recognition Matrix:</b> The NPT strictly recognizes only five states as legitimate \"Nuclear Weapon States\" (NWS): USA, Russia, UK, <b>France</b>, and <b>China</b> (those who built and tested a device before Jan 1, 1967). India, Pakistan, and Israel possess nuclear weapons but are explicitly <i>unrecognized</i> non-signatories to the NPT. This distinction is the bedrock of global nuclear diplomacy.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>The “New START” treaty was in the news. What is this treaty? (2011)</b>",
+    "options": [
+      "It is a bilateral strategic nuclear arms reduction treaty between the USA and the Russian Federation.",
+      "It is a multilateral energy security cooperation treaty among the members of the East Asia Summit.",
+      "It is a treaty between the Russian Federation and the European Union for energy security cooperation.",
+      "It is a multilateral cooperation treaty among the BRICS countries for the promotion of trade."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: It is a bilateral strategic nuclear arms reduction treaty between the USA and the Russian Federation.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Cold War Legacy Acronym:</b> The Strategic Arms Reduction Treaty (START) lineage is exclusively bilateral architecture between the two ultimate nuclear superpowers: <b>The USA and the Russian Federation</b>. Signed in 2010, the New START replaced previous iterations to verifiably limit deployed strategic nuclear warheads and delivery systems.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations",
+    "topic": "International Funding Agencies",
+    "question": "<b>Recently, the USA decided to support India’s membership in multilateral export control regimes called the “Australia Group” and the “Wassenaar Arrangement”. What is the difference between them?</b><br><br>1. The Australia Group is an informal arrangement which aims to allow exporting countries to minimize the risk of assisting chemical and biological weapons proliferation, whereas the Wassenaar Arrangement is a formal group under the OECD holding identical objectives.<br>2. The Australia Group comprises predominantly of Asian, African, and North American countries, whereas the member countries of Wassenaar Arrangement are predominantly from the European Union and American continents.<br><br><b>Which of the statements given above is/are correct? (2011)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Control Regime Specification Trap:</b><br><b>Statement 1 is incorrect:</b> While the Australia Group focuses on chemical/biological weapons, the Wassenaar Arrangement does <b>not</b> hold identical objectives; it focuses strictly on export controls for Conventional Arms and Dual-Use Goods. Furthermore, Wassenaar is independent and not a formal group under the OECD.<br><b>Statement 2 is incorrect:</b> The examiner injects geographical noise. The Australia Group is vastly dominated by European and Western states (OECD members), completely contradicting the claim of an Asian/African predominance.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]

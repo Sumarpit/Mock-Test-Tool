@@ -165,6 +165,8 @@
 ,
 {"name": "Ind Geo+Env", "filename": "Ind Geo+Env.json", "path": "tests/upsc/Ind Geo+Env.json"}
 ,
+{"name": "International Funding Agencies PYQs", "filename": "International Funding Agencies PYQs.json", "path": "tests/upsc/International Funding Agencies PYQs.json"}
+,
 {"name": "International Org & Treaties - Economy PYQs", "filename": "International Org & Treaties - Economy PYQs.json", "path": "tests/upsc/International Org & Treaties - Economy PYQs.json"}
 ,
 {"name": "Judiciary PYQs", "filename": "Judiciary PYQs.json", "path": "tests/upsc/Judiciary PYQs.json"}
