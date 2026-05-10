@@ -1,0 +1,407 @@
+[
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>GPS-Aided Geo Augmented Navigation (GAGAN) uses a system of ground stations to provide necessary augmentation. Which of the following statements is/are correct in respect of GAGAN? (2025)</b><br><br>I. It is designed to provide additional accuracy and integrity.<br>II. It will allow more uniform and high-quality air traffic management.<br>III. It will provide benefits only in aviation but not in other modes of transportation.<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "I, II and III",
+      "II and III only",
+      "I only",
+      "I and II only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: I and II only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The 'Augmentation' vs. 'Autonomous' Trap:</b> The examiner tests your functional taxonomy of satellite systems. GAGAN is a Satellite Based Augmentation System (SBAS) that *corrects* GPS signals via ground stations and ISRO's GSATs. It is not an autonomous system like NavIC.<br><b>The 'Only' Trap:</b> Statement III uses the extreme word 'only'. In UPSC, asserting that a broad technological platform is strictly locked to one sector is almost universally false. GAGAN's utility spills over to maritime, railways, forestry, and precision agriculture.<br><b>2026 Calibration:</b> Focus on NavIC vs GAGAN. Track the integration of GAGAN by airlines like IndiGo.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>Consider the following space missions: (2025)</b><br><br>I. Axiom-4<br>II. SpaDeX<br>III. Gaganyaan<br><br><b>How many of the space missions given above encourage and support microgravity research?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All the three</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The 'Primary Objective' Fallacy:</b> Candidates often silo missions by their primary mechanical goals.<br>• <b>Axiom-4:</b> Includes Indian payloads for microgravity research executed by ISRO Gaganyatri Group Captain Shubhanshu Shukla.<br>• <b>SpaDeX:</b> Primarily for autonomous docking, but carries the POEM-4 module for biological research (e.g., CROPS payload).<br>• <b>Gaganyaan:</b> Includes the 'Indian Microgravity Experiments (IMEx)' framework.<br><b>2026 Calibration:</b> ISRO is pivoting from a pure launch-vehicle agency to human-spaceflight and scientific-habitats (Bharatiya Antariksh Station). Track secondary scientific payloads like POEM.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>Consider the following statements: (2024)</b><br><br><b>Statement-I:</b> Giant stars live much longer than dwarf stars.<br><b>Statement-II:</b> Compared to dwarf stars, giant stars have a greater rate of nuclear reactions.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Statement-I is incorrect, but Statement-II is correct</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Inverse Lifespan Trap:</b> A classic astrophysics trap. Intuitively, one might assume larger stars have more fuel and thus live longer. However, giant stars consume their fuel at an exponentially greater rate (Statement-II) due to immense gravitational pressure, leading to significantly shorter lifespans compared to red dwarfs, which burn fuel slowly and can live for trillions of years.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>Consider the following pairs: (2023)</b><br><br><b>Objects in space : Description</b><br>1. Cepheids : Giant clouds of dust and gas in space<br>2. Nebulae : Stars which brighten and dim periodically<br>3. Pulsars : Neutron stars that are formed when massive stars run out of fuel and collapse<br><br><b>How many of the above pairs are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only one</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Cyclic Swap Trap:</b> The examiner deliberately swapped the definitions of the first two items.<br>• <b>Cepheids</b> are pulsating variable stars that brighten and dim periodically (used as cosmic yardsticks).<br>• <b>Nebulae</b> are giant clouds of dust and gas in space.<br>• <b>Pulsars</b> is correctly matched; they are rapidly rotating neutron stars emitting beams of radiation.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>Which one of the following statements best reflects the idea behind the “Fractional Orbital Bombardment System” often talked about in the media? (2022)</b>",
+    "options": [
+      "A hypersonic missile is launched into space to counter the asteroid approaching the Earth and explode it in space.",
+      "A spacecraft lands on another planet after making several orbital motions.",
+      "A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth.",
+      "A spacecraft moves along a comet with the same speed and places a probe on its surface."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Vocabulary & Cold War Trap:</b> The term 'Fractional' implies it does not complete a full orbit. FOBS is a concept where a nuclear warhead is placed into low-earth orbit but de-orbited to hit a target *before* completing a revolution, evading traditional early warning radar systems. China's 2021 testing of such technology brought this back into the current affairs cycle.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>If a major solar storm (solar flare) reaches the Earth, which of the following are the possible effects on the Earth? (2022)</b><br><br>1. GPS and navigation systems could fail.<br>2. Tsunamis could occur at equatorial regions.<br>3. Power grids could be damaged.<br>4. Intense auroras could occur over much of the Earth.<br>5. Forest fires could take place over much of the planet.<br>6. Orbits of the satellites could be disturbed.<br>7. Shortwave radio communication of the aircraft flying over polar regions could be interrupted.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2, 4 and 5 only",
+      "2, 3, 5, 6 and 7 only",
+      "1, 3, 4, 6 and 7 only",
+      "1, 2, 3, 4, 5, 6 and 7"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 3, 4, 6 and 7 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geophysical Scope Trap:</b> Solar flares and Coronal Mass Ejections (CMEs) bombard the Earth's upper atmosphere with tremendous electromagnetic and particulate energy. They heavily impact the magnetosphere and electronics (GPS, power grids, satellites, radio, auroras). However, they lack the physical mass or kinetic force to trigger deep geological or purely terrestrial disasters like Tsunamis (2) or global forest fires (5).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>Which one of the following is a reason why astronomical distances are measured in light-years? (2021)</b>",
+    "options": [
+      "Distances among stellar bodies do not change.",
+      "Gravity of stellar bodies does not change.",
+      "Light always travels in a straight line.",
+      "Speed of light is always same."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Speed of light is always same.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Relativity Constant Trap:</b> The examiner tests basic physical constants. Options A and B are fundamentally false in an expanding universe with shifting masses. Option C is false due to gravitational lensing (light bends around massive objects). The speed of light in a vacuum ($c$) is the ultimate, unchanging universal constant, making it the perfect benchmark for astronomical distance.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>Recently, scientists observed the merger of giant ‘blackholes’ billions of light-years away from the Earth. What is the significance of this observation? (2019)</b>",
+    "options": [
+      "‘Higgs boson particles’ were detected.",
+      "‘Gravitational waves’ were detected.",
+      "Possibility of intergalactic space travel through ‘wormhole’ was confirmed.",
+      "It enabled scientists to understand ‘singularity’."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: ‘Gravitational waves’ were detected.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sci-Fi Exaggeration Trap:</b> Options C (wormholes) and D (understanding the infinite density of a singularity) are theoretical physics concepts heavily dramatized in sci-fi, but unproven. The merger of black holes definitively proved Einstein's prediction of <b>Gravitational Waves</b>, successfully detected by the LIGO and VIRGO observatories.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>The term ‘Goldilocks Zone’ is often seen in the news in the context of (2015)</b>",
+    "options": [
+      "the limits of habitable zone above the surface of the Earth",
+      "regions inside the Earth-like planets in outer space",
+      "search for the Earth-like planets in outer space",
+      "search for meteorites containing precious metals"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: search for the Earth-like planets in outer space</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Astrobiology Baseline:</b> The 'Goldilocks Zone' (Habitable Zone) is the specific orbital distance from a star where temperatures are 'just right'—neither too hot nor too cold—for liquid water to exist on a planet's surface, a fundamental prerequisite for the search for extraterrestrial life and Earth-like exoplanets (e.g., TOI 700 d).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>A person stood alone in a desert on a dark night and wanted to reach his village which was situated 5 km east of the point where he was standing. He had no instruments to find the direction, but he located the polestar. The most convenient way now to reach his village is to walk in the: (2012)</b>",
+    "options": [
+      "direction facing the polestar",
+      "direction opposite to the polestar",
+      "direction keeping the polestar to his left",
+      "direction keeping the polestar to his right"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: direction keeping the polestar to his left</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Spatial Orientation Trap:</b> A classic logical deduction question based on astronomy. The Polestar (Polaris) always indicates the geographic North. If the person needs to travel East, he must orient himself so that North is on his left. Therefore, walking while keeping the Polestar to his left ensures he is heading due East.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>Who of the following scientists proved that the stars with mass less than 1.44 times the mass of the Sun end up as White Dwarfs when they die? (2009)</b>",
+    "options": [
+      "Edwin Hubble",
+      "S. Chandrashekhar",
+      "Stephen Hawking",
+      "Steven Weinberg"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: S. Chandrashekhar</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Indian Scientist Attribution:</b> The examiner expects you to know the critical contributions of Indian physicists to astrophysics. The 'Chandrasekhar Limit' mathematically proved that a stellar core with a mass below 1.44 solar masses will collapse into a stable White Dwarf, while heavier cores will continue collapsing into neutron stars or black holes.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>Which one of the following countries has its own Satellite Navigation System? (2023)</b>",
+    "options": [
+      "Australia",
+      "Canada",
+      "Israel",
+      "Japan"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Japan</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Regional Navigation Roster:</b> While global systems like GPS (USA), Galileo (EU), and GLONASS (Russia) are well known, the examiner tests regional autonomy. Japan operates the <b>Quasi-Zenith Satellite System (QZSS)</b> to enhance navigation accuracy in urban canyons. (Note: India has NavIC).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>“The experiment will employ a trio of spacecraft flying in formation in the shape of an equilateral triangle that has sides one million kilometres long, with lasers shining between the craft.” The experiment in question refers to (2020)</b>",
+    "options": [
+      "Voyager-2",
+      "New Horizons",
+      "LISA Pathfinder",
+      "Evolved LISA"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Evolved LISA</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Configuration Trap:</b> The examiner tests space-based interferometry. Ground-based detectors (LIGO) detected high-frequency gravitational waves. <b>eLISA</b> (Evolved Laser Interferometer Space Antenna) is the European Space Agency's ambitious project placing three spacecraft millions of kilometers apart in space to detect low-frequency gravitational ripples, free from Earth's seismic noise.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>Which of the following pairs is/are correctly matched? (2014)</b><br><br><b>Spacecraft : Purpose</b><br>1. Cassini-Huygens : Orbiting the Venus and transmitting data to the Earth.<br>2. Messenger : Mapping and investigating the Mercury.<br>3. Voyager 1 and 2 : Exploring the outer solar system.<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Planetary Swap Trap:</b> <br>• <b>Pair 1 is incorrect:</b> The iconic Cassini-Huygens mission was deployed to explore <b>Saturn</b> and its moons (like Titan), not Venus.<br>• <b>Pairs 2 and 3 are correct:</b> MESSENGER successfully mapped Mercury, and the Voyager probes are famous for exploring the outer solar system and entering interstellar space.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>With reference to India’s satellite launch vehicles, consider the following statements: (2018)</b><br><br>1. PSLVs launch the satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites.<br>2. Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth.<br>3. GSLV Mk III is a four-staged launch vehicle with the first and third stages using solid rocket motors; and the second and fourth stages using liquid rocket engines.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "3 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Orbital & Hardware Mechanics Trap:</b><br>• <b>Statement 2 is entirely incorrect:</b> Satellites that appear \"permanently fixed\" are in Geostationary Orbit (GSO), which is the exact payload objective of the <b>GSLV</b>. PSLV typically inserts satellites into Sun-Synchronous or Low Earth Orbits.<br>• <b>Statement 3 is incorrect:</b> GSLV Mk III (LVM3) is a <b>three-stage</b> heavy-lift vehicle (solid strap-ons, liquid core, and cryogenic upper stage), not four-staged.<br>• <b>Statement 1 is correct</b> regarding the standard functional division between the two launch vehicles.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>With reference to the Indian Regional Navigation Satellite System (IRNSS), consider the following statements: (2018)</b><br><br>1. IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits.<br>2. IRNSS covers the entire India and about 5500 sq. km beyond its borders.<br>3. India will have its own satellite navigation system with full global coverage by the middle of 2019.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geographic & Coverage Exaggeration Trap:</b><br>• <b>Statement 2 is incorrect:</b> IRNSS (NavIC) provides coverage extending up to <b>1,500 km</b> beyond India's borders, not 5500 sq. km.<br>• <b>Statement 3 is incorrect:</b> NavIC is explicitly a <b>regional</b> navigation system, not a global one like GPS or GLONASS.<br>• <b>Statement 1 is correct:</b> The constellation utilizes exactly 3 satellites in geostationary orbit and 4 in inclined geosynchronous orbit.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>Consider the following statements: (2016)</b><br><br><b>The Mangalyaan launched by ISRO</b><br>1. is also called the Mars Orbiter Mission<br>2. made India the second country to have a spacecraft orbit the Mars after USA<br>3. made India the only country to be successful in making its spacecraft orbit the Mars in its very first attempt<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Historical Hierarchy Trap:</b> Statement 2 is incorrect. India was not the second; the Soviet Union and the European Space Agency (ESA) successfully orbited Mars prior to ISRO. However, Statement 3 is correct: India became the first Asian nation to reach Mars and the absolute <b>first in the world to succeed on its maiden attempt</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>With reference to ‘AstroSat’, the astronomical observatory launched by India, which of the following statements is/are correct? (2016)</b><br><br>1. Other than the USA and Russia, India is the only country to have launched a similar observatory into space.<br>2. AstroSat is a 2000 kg satellite placed in an orbit at 1650 km above the surface of the Earth.<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Absolute Exclusivity & Spec Trap:</b><br>• <b>Statement 1 is incorrect:</b> Space observatories have also been successfully launched by the European Space Agency (ESA) and Japan, not just the USA/Russia.<br>• <b>Statement 2 is incorrect:</b> The examiner manipulated the technical specifications. AstroSat had a lift-off mass of ~1513 kg and was placed in a ~650 km orbit, entirely missing the exaggerated 1650 km altitude.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>In which of the following activities are Indian Remote Sensing (IRS) satellites used? (2015)</b><br><br>1. Assessment of crop productivity<br>2. Locating groundwater resources<br>3. Mineral exploration<br>4. Telecommunications<br>5. Traffic studies<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "4 and 5 only",
+      "1 and 2 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Payload Objective Trap:</b> The examiner tests your ability to distinguish between Earth Observation (IRS) and Communication (INSAT/GSAT) satellite functions. IRS satellites utilize cameras and spectral sensors to observe landmasses (crops, groundwater, minerals). They lack the transponders required for <b>Telecommunications</b> (4), and their orbital revisit times render them useless for real-time <b>Traffic studies</b> (5).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>Satellites used for telecommunication relay are kept in a geostationary orbit. A satellite is said to be in such an orbit when: (2011)</b><br><br>1. The orbit is geosynchronous.<br>2. The orbit is circular.<br>3. The orbit lies in the plane of the earth’s equator.<br>4. The orbit is at an altitude of 22,236 km.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Unit Conversion Trap:</b> A geostationary orbit requires three conditions: matching the Earth's rotational period (geosynchronous), zero inclination (plane of the equator), and zero eccentricity (circular). Statement 4 is incorrect because the required altitude is <b>35,786 km</b> (which is roughly 22,236 <i>miles</i>). The examiner swapped km for miles.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>Consider the following statements : The Satellite Oceansat-2 launched by India helps in (2010)</b><br><br>1. estimating the water vapour content in the atmosphere.<br>2. predicting the onset of monsoons.<br>3. monitoring the pollution of coastal waters.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Multi-Spectral Utility:</b> Oceansat-2 carries an Ocean Colour Monitor (OCM) and a Ku-band pencil beam Scatterometer. These instruments allow it to comprehensively monitor oceanic wind vectors, suspended sediments (pollution/phytoplankton), and atmospheric water vapor, thereby feeding critical data into monsoon forecasting models.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>In the context of space technology, what is Bhuvan, recently in the news ? (2010)</b>",
+    "options": [
+      "A mini satellite launched by ISRO for promoting the distance education in India",
+      "The name given to the next Moon Impact Probe, for Chandrayaan-II",
+      "A geoportal of ISRO with 3D imaging capabilities of India",
+      "A space telescope developed by India"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: A geoportal of ISRO with 3D imaging capabilities of India</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Nomenclature Match:</b> Bhuvan (Sanskrit for Earth) is India's sovereign alternative to Google Earth. It is a highly detailed, open-source <b>Geoportal</b> developed by ISRO, hosting massive volumes of Indian remote sensing data, 3D imaging, and disaster management tools.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>India has recently landed its Moon Impact Probe on the Moon. Among the following countries, which one landed such probe on the Moon earlier ? (2009)</b>",
+    "options": [
+      "Australia",
+      "Canada",
+      "China",
+      "Japan"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: China</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Asian Space Race Chronology:</b> India's Moon Impact Probe (MIP) deliberately crashed into the lunar south pole in 2008 during the Chandrayaan-1 mission. Prior to this, <b>China</b> executed a similar hard landing with its Chang'e 1 probe in 2007, solidifying the hierarchy of Asian deep space capabilities at the time.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>The terms ‘Event Horizon’, ‘Singularity’, ‘String Theory’ and ‘Standard Model’ are sometimes seen in the news in the context of (2017)</b>",
+    "options": [
+      "Observation and understanding of the Universe",
+      "Study of the solar and the lunar eclipses",
+      "Placing satellites in the orbit of the Earth",
+      "Origin and evolution of living organisms on the Earth"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Observation and understanding of the Universe</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Conceptual Bucket Check:</b> These are tier-one cosmological and quantum physics terms. Event Horizon and Singularity define black hole mechanics. String Theory and Standard Model represent humanity's attempt to unify the fundamental forces of the Universe.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>In the context of modern scientific research, consider the following statements about ‘IceCube’, a particle detector located at South Pole, which was recently in the news: (2015)</b><br><br>1. It is the world’s largest neutrino detector, encompassing a cubic kilometre of ice.<br>2. It is a powerful telescope to search for dark matter.<br>3. It is buried deep in the ice.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Project Details Baseline:</b> All statements are factually correct. IceCube uses the pristine, ultra-clear deep ice of the Antarctic to detect the faint flashes of blue light (Cherenkov radiation) produced when ghostly cosmic high-energy neutrinos interact with the ice. This advanced subatomic detection helps astrophysicists hunt for the origins of dark matter.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>For the measurement/estimation of which of the following are satellite images/remote sensing data used? (2019)</b><br><br>1. Chlorophyll content in the vegetation of a specific location<br>2. Greenhouse gas emissions from rice paddies of a specific location<br>3. Land surface temperatures of a specific location<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Spectral Utilization Trap:</b> Modern remote sensing extends far beyond visible light mapping. <br>• <b>Statement 1:</b> Near-infrared sensors assess chlorophyll and vegetation health (NDVI).<br>• <b>Statement 2:</b> Synthetic Aperture Radar (SAR) and specialized atmospheric sensors map localized GHG anomalies (like methane from paddies).<br>• <b>Statement 3:</b> Thermal infrared bands accurately measure Land Surface Temperature (LST).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Space Programs (IND + Intl + Theory)",
+    "question": "<b>Consider the following activities: (2020)</b><br><br>1. Spraying pesticides on a crop field<br>2. Inspecting the craters of active volcanoes<br>3. Collecting breath samples from spouting whales for DNA analysis<br><br><b>At the present level of technology, which of the above activities can be successfully carried out by using drones?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Unmanned Systems Baseline:</b> The examiner tests the versatility of UAVs/Drones. Drones are routinely used for agricultural payload delivery (spraying), navigating extreme hazardous environments where humans cannot survive (active volcanic craters), and non-invasive marine biology (flying through whale spouts to collect biological 'snot' samples for DNA extraction).",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
