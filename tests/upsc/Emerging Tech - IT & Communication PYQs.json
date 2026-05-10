@@ -1,0 +1,482 @@
+[
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>Consider the following statements:</b><br><br>I. It is expected that Majorana 1 chip will enable quantum computing.<br>II. Majorana 1 chip has been introduced by Amazon Web Services (AWS).<br>III. Deep learning is a subset of machine learning.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: I and III only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Corporate Attribution Trap:</b> The examiner frequently attributes a real technology to the wrong parent corporation. <b>Statement I is correct:</b> Majorana 1 chip uses topological qubits for advanced quantum computing. <b>Statement II is incorrect:</b> It was developed by Microsoft, not Amazon Web Services (AWS). <b>Statement III is correct:</b> Deep learning is a specialized, neural-network-driven subset of machine learning.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>Which one of the following words/phrases is most appropriately used to denote “an interoperable network of 3D virtual worlds that can be accessed simultaneously by millions of users, who can exert property rights over virtual items”?</b>",
+    "options": [
+      "Big data analytics",
+      "Cryptography",
+      "Metaverse",
+      "Virtual matrix"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Metaverse</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Conceptual Definition Match:</b> The examiner tests emerging web vocabulary. An interoperable 3D virtual environment where millions interact, socialize, and hold virtual property rights (like NFTs and digital land) is the definitive, textbook description of the <b>Metaverse</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>With reference to Web 3.0, consider the following statements :</b><br><br>1. Web 3.0 technology enables people to control their own data.<br>2. In the Web 3.0 world, there can be blockchain based social networks.<br>3. Web 3.0 is operated by users collectively rather than a corporation.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Decentralization Concept:</b> Web 3.0 represents the next iteration of the internet, shifting away from centralized corporate-controlled platforms (Web 2.0) toward decentralized, blockchain-based networks. <b>All statements are correct:</b> Users collectively operate it, control their own data without intermediaries, and can build robust decentralized social networks.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>Which one of the following is the context in which the term “qubit” is mentioned?</b>",
+    "options": [
+      "Cloud Services",
+      "Quantum Computing",
+      "Visible Light Communication Technologies",
+      "Wireless Communication Technologies"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Quantum Computing</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Terminology Anchor:</b> A 'qubit' (quantum bit) is the fundamental unit of information in <b>Quantum Computing</b>. Unlike classical bits that are strictly 0 or 1, qubits can exist in superpositions of both states, granting exponential processing power.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>Consider the following :</b><br><br>1. Aarogya Setu<br>2. CoWIN<br>3. DigiLocker<br>4. DIKSHA<br><br><b>Which of the above are built on top of open-source digital platforms?</b>",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Digital Public Infrastructure (DPI) Pillar:</b> The examiner highlights India's aggressive push for open-source governance. Aarogya Setu, CoWIN, DigiLocker, and DIKSHA are all foundational examples of India's DPI, built entirely on <b>open-source</b> digital architectures to enhance transparency and scale.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>With reference to Non-Fungible Tokens (NFTs), consider the following statements :</b><br><br>1. They enable the digital representation of physical assets.<br>2. They are unique cryptographic tokens that exist on a blockchain.<br>3. They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Medium of Exchange Trap:</b> <b>Statements 1 and 2 are correct:</b> NFTs are unique cryptographic tokens representing physical or digital assets (like art) on a blockchain. <b>Statement 3 is incorrect:</b> They are 'Non-Fungible' (unique and not mutually interchangeable). Therefore, they cannot be traded at equivalency like fiat currency or Bitcoin, and cannot act as a standard medium of commercial exchange.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>With reference to “Software as a Service (SaaS)”, consider the following statements :</b><br><br>1. SaaS buyers can customise the user interface and can change data fields.<br>2. SaaS users can access their data through their mobile devices.<br>3. Outlook, Hotmail and Yahoo! Mail are forms of SaaS.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Cloud Service Baseline:</b> <b>All statements are correct:</b> Software as a Service (SaaS) delivers applications over the internet (e.g., Outlook, Hotmail). Users can access it via mobile or web interfaces without installing local hardware, and buyers (especially enterprise clients) can routinely customize UI and data fields.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>With the present state of development, Artificial Intelligence can effectively do which of the following?</b><br><br>1. Bring down electricity consumption in industrial units.<br>2. Create meaningful short stories and songs.<br>3. Disease diagnosis.<br>4. Text-to-speech conversion.<br>5. Wireless transmission of electrical energy.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2, 3 and 5 only",
+      "1, 3, and 4 only",
+      "2, 4, and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3, 4 and 5</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Omnipotence Trap (Averted):</b> Often, options listing extreme, wide-ranging capabilities are false, but AI has achieved massive cross-domain integration. It actively optimizes industrial power grids, creates generative media (stories/songs), diagnoses diseases rapidly, converts text-to-speech, and is used to optimize the complex alignments required for wireless power transmission systems.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>In India, the term “Public Key Infrastructure” is used in the context of</b>",
+    "options": [
+      "Digital security infrastructure",
+      "Food security infrastructure",
+      "Health care and education infrastructure",
+      "Telecommunication and transportation infrastructure"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Digital security infrastructure</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Acronym Decoder:</b> Public Key Infrastructure (PKI) is the foundational architecture of <b>Digital security</b>. It uses cryptographic public/private key pairs and digital certificates to secure communications, authenticate users, and is heavily used in HTTPS, digital signatures, and e-governance.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>With reference to “Blockchain Technology”, consider the following statements:</b><br><br>1. It is a public ledger that everyone can inspect but which no single user controls.<br>2. The structure and design of the blockchain is such that all the data in it are about cryptocurrency only.<br>3. Applications that depend on basic features of blockchain can be developed without anybody’s permission.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Crypto-Only Trap:</b> <b>Statements 1 and 3 are correct:</b> Blockchain is a decentralized public ledger allowing permissionless development. <b>Statement 2 is entirely incorrect:</b> The examiner artificially limits its scope. Blockchain holds data for smart contracts, supply chains, land records, and health data—absolutely not just cryptocurrency.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>Consider the following statements about a digital signature:</b><br><br>1. An electronic record that identifies the certifying authority issuing it.<br>2. Used to serve as a proof of identity of an individual to access information from a server on the Internet.<br>3. An electronic method of signing an electronic document and ensuring that the original content is unchanged.<br><br><b>Which of the statements given above is/are correct?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Semantic Definition Trap:</b> <b>Statement 3 is correct:</b> A digital signature is specifically the cryptographic mechanism ensuring a document's original content is authentic and unchanged (under the IT Act, 2000). <b>Statements 1 and 2 actually describe Digital Certificates</b>, which act as the proof of identity and list the certifying authority.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>In the context of digital technologies for entertainment, consider the following statements:</b><br><br>1. In Augmented Reality (AR), a simulated environment is created and the physical world is completely shut out.<br>2. In Virtual Reality (VR), images generated from a computer are projected onto real-life objects or surroundings.<br>3. AR allows individuals to be present in the world and improves the experience using the camera of smart-phone or PC.<br>4. VR closes the world, and transposes an individual, providing complete immersion experience.<br><br><b>Which of the statements given above is / are correct?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 and 4",
+      "1, 2 and 3",
+      "4 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 3 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Technology Swap Trap:</b> <b>Statements 1 and 2 are perfectly inverted:</b> Virtual Reality (VR) shuts out the physical world for complete immersion (using headsets). Augmented Reality (AR) overlays digital images onto real-life objects (like Pokemon Go). <b>Statements 3 and 4 are correct</b> definitions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>\"3D printing\" has applications in which of the following?</b><br><br>1. Preparation of confectionery items<br>2. Manufacture of bionic ears<br>3. Automotive industry<br>4. Reconstructive surgeries<br>5. Data processing technologies<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 3 and 4 only",
+      "2, 3 and 5 only",
+      "1 and 4 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3, 4 and 5</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Scope Underestimation Trap:</b> 3D printing (Additive Manufacturing) has penetrated nearly every advanced sector. It is actively used to print food (confectionery), medical prosthetics (bionic ears, reconstructive surgery), aerospace/automotive components, and 3D data modeling architectures.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Terms sometimes seen in news : Context/Topic</b><br>1. Belle II experiment : Artificial Intelligence<br>2. Blockchain technology : Digital/Cryptocurrency<br>3. CRISPR-Cas9 : Particle Physics<br><br><b>Which of the pairs given above is/are correctly matched?</b>",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Tech-Domain Mismatch:</b> <b>Pair 2 is correct:</b> Blockchain underlies cryptocurrency. <b>Pairs 1 and 3 are incorrect:</b> The Belle II experiment is related to particle physics (B-meson decays), not AI. CRISPR-Cas9 is a revolutionary genetic engineering (molecular scissors) tool, not particle physics.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>The terms ‘Wanna Cry, Petya and Eternal Blue' sometimes mentioned in the news recently are related to:</b>",
+    "options": [
+      "Exoplanets",
+      "Crypto currency",
+      "Cyber attacks",
+      "Minisatellites"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Cyber attacks</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Threat Vector Identifier:</b> WannaCry, Petya, and EternalBlue (an NSA exploit) were massive, global <b>Cyber attacks</b> (specifically ransomware) that crippled health and corporate IT networks worldwide.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>With reference to ‘Bitcoins’, sometimes seen in the news, which of the following statements is/are correct?</b><br><br>1. Bitcoins are tracked by the Central Banks of the countries.<br>2. Anyone with a Bitcoin address can send and receive Bitcoins from anyone else with a Bitcoin address.<br>3. Online payments can be sent without either side knowing the identity of the other.<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Centralized Authority Trap:</b> <b>Statement 1 is absolutely incorrect:</b> The foundational premise of Bitcoin is decentralization; it operates outside central monetary regulation and is explicitly <i>not</i> tracked by Central Banks. <b>Statements 2 and 3 are correct</b> features of pseudo-anonymous blockchain transactions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>In addition to fingerprint scanning, which of the following can be used in the biometric identification of a person?</b><br><br>1. Iris scanning<br>2. Retinal scanning<br>3. Voice recognition<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Authentication Scope:</b> Beyond standard fingerprints, biometric identification now routinely utilizes Iris scanning (used heavily in Aadhaar), Retinal scanning (mapping blood vessel patterns), and Voice recognition (behavioral biometrics mapping vocal tract frequencies).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>A new optical disc format known as the Blu-ray disc is becoming popular. In what way is it different from the traditional DVD?</b><br><br>1. DVD supports standard definition video while Blu-ray disc supports high-definition video.<br>2. Compared to a DVD, the Blu-ray disc format has several times more storage capacity.<br>3. Thickness of Blu-ray discs is 2.4 mm while that of DVD is 1.2 mm.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Hardware Specs Trap:</b> <b>Statements 1 and 2 are correct:</b> Blu-ray utilizes a blue-violet laser allowing for much higher density storage (High-Def) than standard DVDs. <b>Statement 3 is incorrect:</b> The physical thickness of both a standard DVD and a Blu-ray disc is identical (1.2 mm), ensuring backward hardware compatibility.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>Consider the following statements:</b><br><br>I. Indian Railways have prepared a National Rail Plan (NRP) to create a ‘future ready’ railway system by 2028.<br>II. ‘Kavach’ is an Automatic Train Protection system developed in collaboration with Germany.<br>III. ‘Kavach’ system consists of RFID tags fitted on track in station section.<br><br><b>Which of the statements given above are not correct?</b>",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: I and II only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Indigenization & Target Year Traps:</b> Note the question asks which are <b>NOT correct</b>. <b>Statement I is incorrect:</b> The National Rail Plan targets 2030, not 2028. <b>Statement II is incorrect:</b> Kavach is a wholly <i>indigenous</i> Automatic Train Protection system, not built with Germany. <b>Statement III is correct:</b> It uses track-fitted RFID tags.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>Consider the following communication technologies :</b><br><br>1. Closed-circuit Television<br>2. Radio Frequency Identification<br>3. Wireless Local Area Network<br><br><b>Which of the above are considered Short-Range devices/ technologies ?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Spectrum Classification:</b> Short-Range Devices (SRDs) operate with low power over short distances to avoid interfering with major telecom bands. CCTV (wireless variants), RFID (Fastag/access cards), and WLAN (Wi-Fi) all strictly qualify as short-range RF technologies.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>With reference to visible light communication (VLC) technology, which of the following statements are correct?</b><br><br>1. VLC uses electromagnetic spectrum wavelengths 375 to 780nm<br>2. VLC is known as long-range optical wireless communication.<br>3. VLC can transmit large amounts of data faster than Bluetooth<br>4. VLC has no electromagnetic interference<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The RF Alternative Trap:</b> <b>Statements 1, 3, and 4 are correct:</b> VLC uses the visible light spectrum (375-780 nm), is incredibly fast, and is immune to RF interference. <b>Statement 2 is incorrect:</b> Because it relies on visible light, it is strictly a <i>short-range</i>, line-of-sight technology, completely unable to penetrate walls (unlike long-range radio).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>With reference to communication technologies, what is/are the difference/differences between LTE (Long-Term Evolution) and VoLTE (Voice over Long-Term Evolution)?</b><br><br>1. LTE is commonly marketed as 3G and VoLTE is commonly marketed as advanced 3G.<br>2. LTE is data-only technology and VoLTE is voice-only technology.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Telecom Generation Trap:</b> <b>Both statements are incorrect:</b> LTE and VoLTE are strictly 4G technologies, not 3G. Furthermore, while standard LTE initially handled data (forcing voice calls to drop to 3G networks), VoLTE (Voice over LTE) allows voice calls to be transmitted directly over the 4G data network, but neither is 'voice-only'.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>In the context of wearable technology, which of the following tasks is/are accomplished by wearable devices?</b><br><br>1. Location identification of a person.<br>2. Sleep monitoring of a person.<br>3. Assisting the hearing-impaired person.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Multipurpose Integration:</b> Modern wearable devices (smartwatches, advanced hearing aids) are heavily integrated with IoT sensors. They effortlessly track GPS location, monitor biometric sleep patterns via heart-rate algorithms, and act as smart-assistive devices for the hearing impaired.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>In which of the following areas, can GPS technology be used?</b><br><br>1. Mobile phone operations<br>2. Banking operations<br>3. Controlling the power grids<br><br><b>Select the correct answer using the codes given below:</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Hidden Backbone of Infrastructure:</b> GPS is famous for navigation, but its unsung utility is high-precision timing. <b>All are correct:</b> Mobile towers use it for call synchronization, banking systems timestamp financial transactions with it, and power grids use GPS microsecond timing to monitor and control phase differences across massive networks.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>When the alarm of your smartphone rings in the morning, you wake up and tap it to stop the alarm which causes your geyser to be switched on automatically. The smart mirror in your bathroom shows the day's weather and also indicates the level of water in your overhead tank. After you take some groceries from your refrigerator for making breakfast, it recognizes the shortage of stock in it and places an order for the supply of fresh grocery items. When you step out of your house and lock the door, all lights, fans, geysers and AC machines get switched off automatically. On your way to the office, your car warns you about traffic congestion ahead and suggests an alternative route, and if you are late for a meeting, it sends a- message to your office accordingly.</b><br><br><b>In the context of emerging communication technologies, which one of the following terms best applies to the above scenario?</b>",
+    "options": [
+      "Border Gateway Protocol",
+      "Internet of Things",
+      "Internet Protocol",
+      "Virtual Private Network"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Internet of Things</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Connected Ecosystem Definition:</b> The scenario describes a seamlessly integrated network of smart home appliances, vehicles, and grid elements communicating and making automated decisions without human intervention. This is the textbook definition of the <b>Internet of Things (IoT)</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>With reference to ‘LiFi’, recently in the news, which of the following statements is/are correct?</b><br><br>1. It uses light as the medium for high-speed data transmission.<br>2. It is wireless technology and is several times faster than ‘WiFi’.<br><br><b>Select the correct answer using the codes given below:</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Light Fidelity Concept:</b> <b>Both statements are correct:</b> Li-Fi (Light Fidelity) uses LED light bulbs to transmit data wirelessly at speeds theoretically over 100 times faster than traditional RF-based Wi-Fi, turning standard illumination into ultra-fast data streams.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>With reference to ‘Near Field Communication (NFC) Technology’, which of the following statements is/are correct?</b><br><br>1. It is a contactless communication technology that uses electromagnetic radio fields.<br>2. NFC is designed for use by devices which can be at distance of even a metre from each other.<br>3. NFC can use encryption when sending sensitive information.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Range Limitation Trap:</b> <b>Statement 2 is incorrect:</b> NFC (Near Field Communication) is explicitly designed for extremely close proximity (typically less than 10 centimeters, like tapping a card), completely failing at a one-meter distance. <b>Statements 1 and 3 are correct.</b>",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>What is a “Virtual Private Network”?</b>",
+    "options": [
+      "It is a private computer network of an organization where the remote users can transmit encrypted information through the server of the organization.",
+      "It is a computer network across a public internet that provides users access to their organization’s network while maintaining the security of the information transmitted.",
+      "It is a computer network in which users can access a shared pool of computing resources through a service provider.",
+      "None of the statements (a), (b) and (c) given above is the correct description of virtual private networks."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: It is a computer network across a public internet that provides users access to their organization’s network while maintaining the security of the information transmitted.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Tunneling Definition:</b> A Virtual Private Network (VPN) creates a secure, encrypted 'tunnel' across a public network (the Internet), allowing users to send and receive data as if their devices were directly connected to a private organizational network.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>What is the difference between Bluetooth and Wi-Fi devices?</b>",
+    "options": [
+      "Bluetooth uses 2.4 GHz radio frequency band, whereas Wi-Fi can use 2.4 GHz or 5 GHz frequency band.",
+      "Bluetooth is used for wireless local area networks (WLAN) only, whereas Wi-Fi is used for wireless wide area networks (WWAN) only.",
+      "When information is transmitted between two devices using Bluetooth technology, the devices have to be in the line of sight of each other, but when Wi-Fi technology is used the devices need not be in the line of sight of each other.",
+      "The statements (a) and (b) given above are correct in this context."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Bluetooth uses 2.4 GHz radio frequency band, whereas Wi-Fi can use 2.4 GHz or 5 GHz frequency band.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Frequency & Protocol Nuance:</b> <b>Option A is correct:</b> Bluetooth operates exclusively in the 2.4 GHz band, while modern Wi-Fi utilizes both 2.4 GHz and 5 GHz bands. Both can penetrate walls (disproving the strict line-of-sight claim for BT in C), and Wi-Fi creates WLANs, not WWANs (disproving B).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>Consider the following :</b><br><br>1. Bluetooth device<br>2. Cordless phone<br>3. Microwave oven<br>4. Wi-Fi device<br><br><b>Which of the above can operate between 2-4 and 2-5 GHz range of radio frequency band ?</b>",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The ISM Band Congestion:</b> The 2.4 GHz Industrial, Scientific, and Medical (ISM) radio band is globally unlicensed. As a result, Bluetooth devices, cordless phones, Wi-Fi routers, and even the magnetron in a Microwave oven all operate within this exact same frequency range.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>Which among the following do/ does not belong/belongs to the GSM family of wireless technologies ?</b>",
+    "options": [
+      "EDGE",
+      "LTE",
+      "DSL",
+      "Both EDGE and LTE"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: DSL</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Wired vs Wireless Trap:</b> EDGE (2G) and LTE (4G) are generational evolutions of the wireless GSM mobile standard. <b>DSL (Digital Subscriber Line)</b> is a completely different technology that transmits digital data over traditional wired telephone lines.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Emerging Tech - IT & Communication",
+    "question": "<b>WiMAX is related to which one of the following ?</b>",
+    "options": [
+      "Biotechnology",
+      "Space Technology",
+      "Missile Technology",
+      "Communication Technology"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Communication Technology</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Legacy Tech Identifier:</b> WiMAX (Worldwide Interoperability for Microwave Access) was an early 4G wireless broadband <b>Communication Technology</b> standard designed to provide high-speed internet across large geographic areas, eventually losing the market war to LTE.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
