@@ -1,0 +1,377 @@
+[
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>Which one of the following statements best describes the role of B cells and T cells in the human body? (2022)</b>",
+    "options": [
+      "They protect the body from environmental allergens.",
+      "They alleviate the body’s pain and inflammation.",
+      "They act as immunosuppressants in the body.",
+      "They protect the body from the diseases caused by pathogens."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: They protect the body from the diseases caused by pathogens.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Basic Immunology Trap:</b> The examiner tests your foundational biology. T cells and B cells are the major cellular components of the adaptive immune response. T cells are involved in cell-mediated immunity (destroying infected cells), whereas B cells are primarily responsible for humoral immunity (producing targeted antibodies). They act specifically to protect the body against pathogens.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>Consider the following statements:</b><br><br>DNA Barcoding can be a tool to :<br>1. assess the age of a plant or animal.<br>2. distinguish among species that look alike.<br>3. identify undesirable animal or plant materials in processed foods.<br><br><b>Which of the statements given above is/are correct? (2022)</b>",
+    "options": [
+      "1 only",
+      "3 only",
+      "1 and 2",
+      "2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Carbon Dating Confusion Trap:</b> Statement 1 is incorrect because assessing the age of a plant/animal/fossil is physically done via Carbon-14 dating or similar radiometric isotopes, not DNA barcoding. DNA barcoding uses a very short, standardized genetic sequence to identify it as belonging to a particular species, effectively distinguishing look-alike species and identifying biological adulterants in processed foods.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>In the context of hereditary diseases, consider the following statements:</b><br><br>1. Passing on mitochondrial diseases from parent to child can be prevented by mitochondrial replacement therapy either before or after in vitro fertilization of the egg.<br>2. A child inherits mitochondrial diseases entirely from the mother and not from the father.<br><br><b>Which of the statements given above is/are correct? (2021)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Maternal Inheritance Principle:</b> Statement 2 is a fundamental biological rule—mitochondrial DNA is inherited almost exclusively from the mother because the sperm's mitochondria are typically destroyed post-fertilization. Statement 1 is correct; Pronuclear transfer or maternal spindle transfer (Three-parent baby technique) can be successfully used to prevent the transmission of these lethal mitochondrial diseases.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>Consider the following:</b><br><br>1. Bacteria<br>2. Fungi<br>3. Virus<br><br><b>Which of the above can be cultured in artificial/synthetic medium? (2021)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Obligate Intracellular Trap:</b> The examiner tests fundamental microbiology. Viruses are obligate intracellular parasites, meaning they absolutely require a living host cell's machinery to replicate. They cannot be grown on a simple synthetic/artificial chemical medium (petri dish). Bacteria and fungi, possessing their own cellular machinery, can easily be cultured on artificial agar/broth.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>The term ‘ACE2’ is talked about in the context of (2021)</b>",
+    "options": [
+      "genes introduced in the genetically modified plants",
+      "development of India’s own satellite navigation system",
+      "radio collars for wildlife tracking",
+      "spread of viral diseases"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: spread of viral diseases</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Pandemic Context Trap:</b> ACE2 (Angiotensin-converting enzyme 2) is a critical receptor protein found on the surface of many human cells. It was heavily in the news because the SARS-CoV-2 virus (causing the COVID-19 pandemic) uses its spike protein to bind to this exact ACE2 receptor to enter and infect human cells.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>In the context of recent advances in human reproductive technology, “Pronuclear Transfer” is used for (2020)</b>",
+    "options": [
+      "fertilization of egg in vitro by the donor sperm",
+      "genetic modification of sperm producing cells",
+      "development of stem cells into functional embryos",
+      "prevention of mitochondrial diseases in offspring"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: prevention of mitochondrial diseases in offspring</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Reproductive Tech Definition:</b> Pronuclear transfer is the precise laboratory procedure underlying Mitochondrial Replacement Therapy (MRT). It involves transferring the pronuclei of a fertilized egg into an enucleated donor egg containing healthy mitochondria, specifically designed to prevent passing maternal mitochondrial DNA defects to the offspring.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>Consider the following statements:</b><br><br>1. Genetic changes can be introduced in the cells that produce eggs or sperms of a prospective parent.<br>2. A person’s genome can be edited before birth at the early embryonic stage.<br>3. Human induced pluripotent stem cells can be injected into the embryo of a pig.<br><br><b>Which of the statements given above are correct? (2020)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Bleeding Edge Tech Trap:</b> UPSC expects you to know what is *scientifically possible* today, not just what is ethically allowed. Statements 1 and 2 refer to germline editing and embryonic CRISPR edits (like the controversial CRISPR babies in China). Statement 3 refers to creating human-animal chimeras (successfully done in labs by injecting human iPSCs into pig embryos to grow transplantable human organs).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>What is Cas9 protein that is often mentioned in news? (2019)</b>",
+    "options": [
+      "A molecular scissors used in targeted gene editing",
+      "A biosensor used in the accurate detection of pathogens in patients",
+      "A gene that makes plants pest-resistant",
+      "A herbicidal substance synthesized in genetically modified crops"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: A molecular scissors used in targeted gene editing</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The CRISPR Anchor:</b> The CRISPR-Cas9 system revolutionized modern biotechnology. While CRISPR refers to the clustered genetic sequences serving as a guide, **Cas9** is the specific endonuclease enzyme that acts as a pair of \"molecular scissors\" to snip the DNA strands at the precise, targeted location.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>The word ‘Denisovan’ is sometimes mentioned in media in reference to (2019)</b>",
+    "options": [
+      "fossils of a kind of dinosaurs",
+      "an early human species",
+      "a cave system found in North-East India.",
+      "a geological period in the history of Indian subcontinent"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: an early human species</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Paleo-Genetics Trap:</b> Denisovans are an extinct species or subspecies of archaic human (hominin). Their discovery was entirely rooted in genetic sequencing of a pinky bone found in the Denisova Cave in Siberia, showing they interbred with both Neanderthals and early modern Homo sapiens.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>With reference to recent developments regarding ‘Recombinant Vector Vaccine,’ consider the following statements:</b><br><br>1. Genetic engineering is applied in the development of these vaccines.<br>2. Bacteria and viruses are used as vectors.<br><br><b>Which of the statements given above is/ are correct? (2021)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Vaccine Mechanism Base:</b> Both statements are correct. Recombinant vector vaccines are a prime application of genetic engineering. Scientists modify a harmless virus or bacterium (the 'vector') by inserting genetic material from the target pathogen (like the COVID-19 spike protein) to safely trigger a cellular immune response.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>In the context of vaccines manufactured to prevent COVID-19 pandemic, Consider the following statements :</b><br><br>1. The Serum Institute of India produced COVID-19 vaccine named Covishield using mRNA platform.<br>2. Sputnik V vaccine is manufactured using vector based platform.<br>3. COVAXIN is an inactivated pathogen based vaccine.<br><br><b>Which of the statements given above are correct? (2022)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Vaccine Platform Swap Trap:</b> Statement 1 is deliberately falsified. Covishield (Oxford-AstraZeneca) uses a **viral vector platform** (modified chimpanzee adenovirus), not an mRNA platform (which is famously used by Pfizer and Moderna). Statements 2 (Sputnik V is a viral vector) and 3 (Covaxin by Bharat Biotech is an inactivated whole virion vaccine) are correct.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>With reference to the recent developments in science, which one of the following statements is not correct? (2019)</b>",
+    "options": [
+      "Functional chromosomes can be created by joining segments of DNA taken from cells of different species.",
+      "Pieces of artificial functional DNA can be created in laboratories.",
+      "A piece of DNA taken out from an animal cell can be made to replicate outside a living cell in a laboratory.",
+      "Cells taken out from plants and animals can be made to undergo cell division in laboratory petri dishes."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Functional chromosomes can be created by joining segments of DNA taken from cells of different species.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Biological Limitation Trap:</b> Option A is NOT correct (and thus the answer). While geneticists can splice small DNA segments between species (recombinant DNA), creating an entirely new, structurally stable, and *functional whole chromosome* by randomly stitching DNA from completely different species is beyond current scientific capability and invariably leads to severe genomic instability.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>RNA interference (RNAi)’ technology has gained popularity in the last few years. Why?</b><br><br>1. It is used in developing gene silencing therapies.<br>2. It can be used in developing therapies for the treatment of cancer.<br>3. It can be used to develop hormone replacement therapies.<br>4. It can be used to produce crop plants that are resistant to viral pathogens.<br><br><b>Select the correct answer using the code given below. (2019)</b>",
+    "options": [
+      "1, 2 and 4",
+      "2 and 3",
+      "1 and 3",
+      "1 and 4 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Mechanism Exclusion Trap:</b> RNA interference is literally a biological process in which RNA molecules inhibit gene expression or translation (**gene silencing**, hence 1 is correct). This is widely utilized in cancer therapeutics (2) and to engineer virus-resistant crops (4). It has absolutely no direct role in **hormone replacement therapy** (3), which relies on administering synthetic or extracted hormones.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>In the context of the developments in Bioinformatics, the term ‘transcriptome’, sometimes seen in the news, refers to (2016)</b>",
+    "options": [
+      "a range of enzymes used in genome editing",
+      "the full range of mRNA molecules expressed by an organism",
+      "the description of the mechanism of gene expression",
+      "a mechanism of genetic mutations taking place in cells"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: the full range of mRNA molecules expressed by an organism</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The ‘Ome’ Suffix Matrix:</b> The *genome* is the total DNA content. The **transcriptome** is the complete set of RNA transcripts (messenger RNA) produced by the genome under specific circumstances or in a specific cell. It provides a real-time snapshot of which genes are actively being expressed.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>With reference to agriculture in India, how can the technique of `genome sequencing’, often seen in the news, be used in the immediate future?</b><br><br>1. Genome sequencing can be used to identify genetic markers far disease resistance and drought tolerance in various crop plants.<br>2. This technique helps in reducing the time required to develop new varieties of crop plants.<br>3. It can be used to decipher the host-pathogen relationships in crops.<br><br><b>Select the correct answer using the code given below: (2017)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Core Biotech Application:</b> Genome sequencing of crops is foundational to modern agri-tech. Decoding the exact DNA sequence allows scientists to pinpoint traits for drought/pest resistance (1), vastly accelerates traditional breeding/genetic modification timelines (2), and uncovers the molecular mechanisms of how pathogens attack the plant (3).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>Recombinant DNA technology (Genetic Engineering) allows genes to be transferred</b><br><br>1. across different species of plants<br>2. from animals to plants<br>3. from microorganisms to higher organisms<br><br><b>Select the correct answer using the codes given below. (2013)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Absolute Barrier Trap (Averted):</b> Normally, cross-species breeding is biologically impossible. However, the fundamental power of **Recombinant DNA technology** is that it shatters these evolutionary barriers. Because DNA is a universal language, a gene can be transferred between completely unrelated domains of life (e.g., bacterial Bt gene inserted into cotton plants).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>With reference to ‘stem cells’, frequently in the news, which of the following statements is/are correct?</b><br><br>1. Stem cells can be derived from mammals only.<br>2. Stem cells can be used for screening new drugs.<br>3. Stem cells can be used for medical therapies.<br><br><b>Select the correct answer using the codes given below. (2012)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The 'Only' Extreme Trap:</b> Statement 1 is entirely incorrect because stem cells (undifferentiated cells that can differentiate into specialized cells) exist in plants (meristems), amphibians, and other non-mammalian organisms. Statements 2 and 3 accurately reflect their major applications in regenerative medicine and pharmacological testing.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>“Bollgard I and Bollgard II technologies are mentioned in the context of: (2021)</b>",
+    "options": [
+      "Clonal propagation of crop plants",
+      "Developing genetically modified crop plants",
+      "Production of plant growth substances",
+      "Production of biofertilizers"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Developing genetically modified crop plants</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Proprietary Technology Anchor:</b> Bollgard is the trademarked, commercial name for the genetically modified **Bt Cotton** traits developed by Monsanto. It involves inserting Cry genes from the soil bacterium *Bacillus thuringiensis* to make the plant produce toxins lethal to the bollworm pest.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>With reference to the Genetically Modified mustard (GM mustard) developed in India, Consider the following statements :</b><br><br>1. GM mustard has the genes of a soil bacterium that give the plant the property of pest-resistance to a wide variety of pests.<br>2. GM mustard has the genes that allow the plant cross-pollination and hybridization.<br>3. GM mustard has been developed jointly by the IARI and Punjab Agricultural University.<br><br><b>Which of the statements given above is/are correct ? (2018)</b>",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Trait and Institute Swap Trap:</b> Statement 1 is a classic trap: it describes Bt Cotton (pest resistance), whereas GM Mustard (DMH-11) is designed primarily with the barnase/barstar system for **hybridization and yield increase**, not pest resistance. Statement 3 is incorrect: it was developed by the Centre for Genetic Manipulation of Crop Plants (CGMCP) at **Delhi University**, not IARI.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>Other than resistance to pests, what are the prospects for which genetically engineered plants have been created?</b><br><br>1. To enable them to withstand drought<br>2. To increase the nutritive value of the produce<br>3. To enable them to grow and do photosynthesis in spaceships and space stations<br>4. To increase their shelf life.<br><br><b>Select the correct answer using the code given below. (2012)</b>",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 2 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sci-Fi Exaggeration Trap:</b> Statements 1, 2, and 4 are well-documented, mainstream applications of agricultural biotechnology (e.g., Golden Rice for nutrition, Flavr Savr tomato for shelf life). Statement 3 is absurd; creating GM crops specifically to perform photosynthesis in space stations is not a terrestrial agricultural genetic engineering objective.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>What are the reasons for the people’s resistance to the introduction of Bt brinjal in India?</b><br><br>1. Bt brinjal has been created by inserting a gene from a soil fungus into its genome.<br>2. The seeds of Bt brinjal are terminator seeds and therefore, the farmers have to buy the seeds before every season from the seed companies.<br>3. There is an apprehension that the consumption of Bt brinjal may have adverse impact on health.<br>4. There is some concern that the introduction of BT brinjal may have adverse effect on the biodiversity.<br><br><b>Select the correct answer using the code given below: (2012)</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 3 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Technical Detail Trap:</b> Statement 1 is wrong: the Bt gene is inserted from a soil **bacterium** (*Bacillus thuringiensis*), not a fungus. Statement 2 is factually false: the Government of India explicitly bans the use of terminator seed technology. The public resistance stems fundamentally from health and biodiversity contamination fears (3 and 4).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>Genetically modified “golden rice” has been engineered to meet human nutritional requirements. Which one of the following statements best qualifies golden rice? (2010)</b>",
+    "options": [
+      "The grains have been fortified with genes to provide three times higher grain yield per acre than other high yielding varieties",
+      "Its grains contain pro-vitamin A which upon ingestion is converted to vitamin A in the human body",
+      "Its modified genes cause the synthesis of all the nine essential amino acids",
+      "Its modified genes cause the fortification of its grains with vitamin D"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Its grains contain pro-vitamin A which upon ingestion is converted to vitamin A in the human body</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Bio-fortification Baseline:</b> Golden Rice was engineered specifically to combat severe Vitamin A deficiency in developing countries. It is modified with genes to produce **Beta-carotene** (Pro-vitamin A), which is metabolized into Vitamin A and gives the rice its distinct golden/yellow hue.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>What is the application of Somatic Cell Nuclear Transfer Technology? (2017)</b>",
+    "options": [
+      "Production of biolarvicides",
+      "Manufacture of biodegradable plastics",
+      "Reproductive cloning of animals",
+      "Production of organisms free of diseases"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Reproductive cloning of animals</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Cloning Lexicon Trap:</b> Somatic Cell Nuclear Transfer (SCNT) is the exact laboratory strategy for creating a viable embryo from a body cell and an egg cell. The technique consists of taking an enucleated oocyte (egg cell) and implanting a donor nucleus from a somatic (body) cell. This is the technology famously used to clone Dolly the sheep.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>With reference to the use of nanotechnology in health sector, which of the following statements is/are correct? (2015)</b><br><br>1. Targeted drug delivery is made possible by nanotechnology.<br>2. Nanotechnology can largely contribute to gene therapy.<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Scale Application Trap:</b> Nanomedicine leverages materials at the nanoscale (1-100 nm). Both statements are absolutely correct. Nanocarriers (like liposomes or gold nanoparticles) precisely deliver toxic drugs directly to cancer cells. Similarly, they act as highly efficient, non-viral vectors to safely transport genetic material into cells for gene therapy.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Genetics & Biotechnology",
+    "question": "<b>At present, scientists can determine the arrangement or relative positions of genes or DNA sequences on a chromosome. How does this knowledge benefit us?</b><br><br>1. It is possible to know the pedigree of livestock.<br>2. It is possible to understand the causes of all human diseases.<br>3. It is possible to develop disease-resistant animal breeds.<br><br><b>Select the correct answer using the code given below: (2011)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The 'All' Extreme Trap:</b> The examiner uses the absolute word \"all\" in Statement 2. Genomic sequencing helps understand genetic diseases, but it absolutely cannot explain the causes of **all** human diseases (such as those caused purely by environmental pathogens, lifestyle, or radiation). Statements 1 and 3 are correct applications of genomic mapping in agriculture.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
