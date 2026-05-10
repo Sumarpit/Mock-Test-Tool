@@ -1,0 +1,707 @@
+[
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement I:</b> Studies indicate that carbon dioxide emissions from cement industry account for more than 5% of global carbon emissions.<br><b>Statement II:</b> Silica-bearing clay is mixed with limestone while manufacturing cement.<br><b>Statement III:</b> Limestone is converted into lime during clinker production for cement manufacturing.<br><br><b>Which one of the following is correct in respect of the above statements? (2025)</b>",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statement II or Statement III is correct and it explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Both Statement II and Statement III are correct but only one of them explains Statement I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Hard-to-Abate Chemical Trap:</b> The examiner tests why cement is a hard-to-abate sector. While both Statements II and III describe factual processes, only Statement III explains Statement I. The massive emissions aren't from mixing clay (II); they are an unavoidable chemical byproduct of calcination (III), where limestone (CaCO3) breaks down into lime (CaO) and CO2 under extreme heat.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Consider the following statements:</b><br><br>I. Carbon dioxide (CO₂) emissions in India are less than 0.5 t CO₂/capita.<br>II. In terms of CO₂ emissions from fuel combustion, India ranks second in Asia-Pacific region.<br>III. Electricity and heat producers are the largest sources of CO₂ emissions in India.<br><br><b>Which of the statements given above is/ are correct? (2025)</b>",
+    "options": [
+      "I and III only",
+      "II only",
+      "II and III only",
+      "I, II and III"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: II and III only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Absolute vs. Per Capita Paradox Trap:</b> India's absolute emissions are massive (ranking 2nd in Asia-Pacific behind China), but Statement I sets an absurdly low per capita trap (0.5 t). India's per capita CO2 emissions are roughly 1.8 to 2.0 tonnes. Statement III is an absolute core fact: the energy sector (coal-heavy grid) dominates India's emission breakdown.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>According to the Environmental Protection Agency (EPA), which one of the following is the largest source of sulphur dioxide emissions? (2024)</b>",
+    "options": [
+      "Locomotives using fossil fuels",
+      "Ships using fossil fuels",
+      "Extraction of metals from ores",
+      "Power plants using fossil fuels"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Power plants using fossil fuels</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sectoral Emission Dominance:</b> The examiner tests macro-pollution contributors. While shipping and metal smelting (like copper) produce SO2, the overwhelming majority of global and EPA-tracked sulfur dioxide emissions stem directly from fossil fuel combustion at power plants (especially coal-fired units).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Consider the following:</b><br><br>1. Pyroclastic debris<br>2. Ash and dust<br>3. Nitrogen compounds<br>4. Sulphur compounds<br><br><b>How many of the above are products of volcanic eruptions? (2024)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: All four</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Natural Pollutant Baseline:</b> Volcanic eruptions are the ultimate natural polluters. They eject solid materials (pyroclastic debris, ash, dust) and massive quantities of volatile gases, primarily water vapor, carbon dioxide, sulphur compounds (SO2, H2S causing volcanic cooling), and nitrogen compounds.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Many chewing gums found in the market are considered a source of environmental pollution.<br><b>Statement-II:</b> Many chewing gums contain plastic as gum base.<br><br><b>Which one of the following is correct in respect of the above statements? (2024)</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II explains Statement-I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Hidden Microplastics Trap:</b> UPSC heavily targets hidden sources of microplastics. Candidates assume gum is made of natural sap (chicle). Modern chewing gum bases are heavily synthesized using non-biodegradable synthetic rubbers and plastic polymers (like polyethylene or polyvinyl acetate), making them persistent environmental pollutants.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>With reference to perfluoroalkyl and polyfluoroalkyl substances (PFAS) that are used in making many consumer products, consider the following statements:</b><br><br>1. PFAS are found to be widespread in drinking water, food, and food packaging materials.<br>2. PFAS are not easily degraded in the environment.<br>3. Persistent exposure to PFAS can lead to bioaccumulation in animal bodies.<br><br><b>Which of the statements given above are correct? (2024)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The 'Forever Chemicals' Identifier:</b> PFAS are colloquially known as \"forever chemicals\" precisely because of their incredibly strong carbon-fluorine bonds. They do not degrade naturally (Statement 2), are ubiquitous in non-stick/waterproofing products and packaging (Statement 1), and bioaccumulate severely in the food chain (Statement 3).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Consider the following:</b><br><br>1. Aerosols<br>2. Foam agents<br>3. Fire retardants<br>4. Lubricants<br><br><b>In the making of how many of the above are hydrofluorocarbons used? (2023)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: All four</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The HFC Application Scope:</b> Hydrofluorocarbons (HFCs) were introduced as replacements for ozone-depleting CFCs. The examiner tests their broad industrial integration. They are heavily utilized across the board as aerosol propellants, foam blowing agents, fire retardants, and specialized lubricants/refrigerants.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Consider the following statements regarding mercury pollution:</b><br><br>1. Gold mining activity is a source of mercury pollution in the world.<br>2. Coal-based thermal power plants cause mercury pollution.<br>3. There is no known safe level of exposure to mercury.<br><br><b>How many of the above statements are correct? (2023)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Heavy Metal Absolute:</b> Statement 3 is a WHO biological absolute: there is no safe level of exposure to mercury, a potent neurotoxin. Artisanal gold mining (using mercury to amalgamate gold) and coal combustion (coal contains trace mercury released upon burning) are the world's top two anthropogenic sources of mercury pollution.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>With reference to polyethylene terephthalate, the use of which is so widespread in our daily lives, Consider the following statements :</b><br><br>1. Its fibres can be blended with wool and cotton fibres to reinforce their properties.<br>2. Containers made of it can be used to store any alcoholic beverage.<br>3. Bottles made of it can be recycled into other products.<br>4. Articles made of it can be easily disposed of by incineration without causing greenhouse gas emissions.<br><br><b>Which of the statements given above are correct? (2022)</b>",
+    "options": [
+      "1 and 3",
+      "2 and 4",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Plastics & GHG Trap:</b> Statement 4 is completely absurd; incinerating any plastic (a petroleum derivative) massive emits GHGs (CO2). Statement 2 is a chemical trap; PET is generally not recommended for strong alcoholic beverages due to leaching risks over time. PET is widely recycled (Statement 3) and blended as polyester in textiles (Statement 1).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Magnetite particles, suspected to cause neurodegenerative problems, are generated as environmental pollutants from which of the following?</b><br><br>1. Brakes of motor vehicles<br>2. Engines of motor vehicles<br>3. Microwave stoves within homes<br>4. Power plants<br>5. Telephone lines<br><br><b>Select the correct answer using the code given below. (2021)</b>",
+    "options": [
+      "1, 2, 3 and 5 only",
+      "1, 2 and 4 only",
+      "3, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 2 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Source Elimination Technique:</b> Magnetite (iron oxide) particles require high-temperature combustion or severe frictional wear of iron/steel components. They are emitted by vehicle brakes, engines, and industrial power plants. Microwave stoves (use electromagnetic waves to vibrate water molecules) and telephone lines (carry low voltage signals) do not generate particulate iron dust.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Why is there a concern about copper smelting plants?</b><br><br>1. They may release lethal quantities of carbon monoxide into the environment.<br>2. The copper slag can cause the leaching of some heavy metals into the environment.<br>3. They may release sulfur dioxide as a pollutant.<br><br><b>Select the correct answer using the code given below: (2021)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2, and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Smelting Byproduct Baseline:</b> Copper ores are heavily sulfide-based (like chalcopyrite). Roasting them inherently releases massive amounts of Sulphur Dioxide (SO2) leading to acid rain (Statement 3). The residual slag contains heavy metals prone to leaching (Statement 2). Lethal quantities of CO release into the open environment is not the defining ecological concern of standard copper smelting.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>‘Triclosan’, considered harmful when exposed to high levels for a long time, is most likely present in which of the following? (2021)</b>",
+    "options": [
+      "Food preservatives",
+      "Fruit-ripening substances",
+      "Reused plastic containers",
+      "Toiletries"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Toiletries</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Chemical Additive Match:</b> Triclosan is a synthetic antibacterial and antifungal agent. Due to these properties, it was historically pumped into consumer <b>toiletries</b> (antibacterial soaps, toothpastes, deodorants) before severe health and antimicrobial-resistance concerns restricted its use.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Bisphenol A (BPA), a cause of concern, is a structural/key component in the manufacture of which of the following kinds of plastics? (2021)</b>",
+    "options": [
+      "Low-density polyethylene",
+      "Polycarbonate",
+      "Polyethylene terephthalate",
+      "Polyvinyl chloride"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Polycarbonate</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Polymer Monomer Trap:</b> The examiner tests hard polymer chemistry. Bisphenol A (BPA) is an endocrine-disrupting chemical specifically used as the fundamental building block (monomer) to synthesize <b>Polycarbonate</b> plastics (used in hard water bottles and food can linings) and epoxy resins.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>With reference to furnace oil, consider the following statements:</b><br><br>1. It is a product of oil refineries.<br>2. Some industries use it to generate power.<br>3. Its use causes sulfur emissions into the environment.<br><br><b>Which of the statements given above are correct? (2021)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2, and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Industrial Fuel Profile:</b> Furnace oil (fuel oil/petcoke) is a dark, viscous residual product of petroleum distillation at refineries. It is heavily utilized by power plants, shipping, and large industries for thermal energy. Because it is the \"bottom of the barrel,\" it is notoriously high in sulfur, leading to severe SOx emissions upon combustion.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Consider the following statements:</b><br><br>1. Coal ash contains arsenic, lead and mercury.<br>2. Coal-fired power plants release sulphur dioxide and oxides of nitrogen into the environment.<br>3. High ash content is observed in Indian coal.<br><br><b>Which of the statements given above is/ are correct? (2020)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Indian Coal Dilemma:</b> All statements accurately define India's thermal power crisis. Indian coal (Gondwana) has notoriously high ash content (35-45%). Combusting it generates massive SOx and NOx emissions (Statement 2), and the residual fly ash concentrates toxic heavy metals like arsenic, lead, and mercury (Statement 1).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Which of the following are the reasons/factors for exposure to benzene pollution?</b><br><br>1. Automobile exhaust<br>2. Tobacco smoke<br>3. Wood burning<br>4. Using varnished wooden furniture<br>5. Using products made of polyurethane<br><br><b>Select the correct answer using the code given below: (2020)</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Combustion Identifier:</b> Benzene is primarily generated through incomplete combustion processes. Therefore, automobile exhaust, tobacco smoke, and wood burning are massive, active sources. While polyurethane and varnishes may off-gas VOCs (like formaldehyde or toluene), they are not primary, significant ambient sources of benzene gas in everyday scenarios.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>In India, the use of carbofuran, methyl parathion, phorate and triazophos is viewed with apprehension. These chemicals are used as (2019)</b>",
+    "options": [
+      "pesticides in agriculture",
+      "preservatives in processed foods",
+      "fruit-ripening agents",
+      "moisturising agents in cosmetics"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: pesticides in agriculture</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Agrochemical Toxicity Check:</b> The examiner expects familiarity with highly toxic, frequently banned agricultural chemicals. Carbofuran, methyl parathion, phorate, and triazophos are all highly potent <b>pesticides/insecticides</b> that cause severe ecological contamination and occupational poisoning among Indian farmers.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Why is there a great concern about the ‘microbeads’ that are released into environment? (2019)</b>",
+    "options": [
+      "They are considered harmful to marine ecosystems.",
+      "They are considered to cause skin cancer in children",
+      "They are small enough to be absorbed by crop plants in irrigated fields.",
+      "They are often found to be used as food adulterants."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: They are considered harmful to marine ecosystems.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Primary Microplastic Threat:</b> Microbeads are manufactured solid plastic particles (often used as exfoliants in cosmetics). Because of their sub-millimeter size, they pass straight through municipal wastewater filtration systems into oceans, where they are ingested by marine life, severely disrupting <b>marine ecosystems</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Consider the following:</b><br><br>1. Carbon monoxide<br>2. Methane<br>3. Ozone<br>4. Sulphur dioxide<br><br><b>Which of the above are released into atmosphere due to the burning of crop/ biomass residue (2019)</b>",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Stubble Burning Complete Profile:</b> The examiner tests the full chemical spectrum of agricultural fires. Biomass burning releases CO, massive particulate matter, VOCs, NOx, SO2, and Methane. Crucially, the VOCs and NOx released react in the presence of sunlight to form tropospheric Ozone (a secondary pollutant), making all 4 correct.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Consider the following pairs :</b><br><br><b>Commonly used / consumed materials : Unwanted or controversial chemicals likely to be found in them</b><br>1. Lipstick : Lead<br>2. Soft drinks : Brominated vegetable oils<br>3. Chinese fast food : Monosodium glutamate<br><br><b>Which of the pairs given above is/are correctly matched? (2017)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Everyday Toxicology Check:</b> All three pairs are globally recognized health and regulatory concerns. Lipsticks historically contain trace lead from colorants. Brominated vegetable oil (BVO) was used as a stabilizer in citrus soft drinks. Monosodium glutamate (MSG) is the infamous flavor enhancer heavily utilized in fast food.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Which of the following adds/add carbon dioxide to the carbon cycle on the planet Earth?</b><br><br>1. Volcanic action<br>2. Respiration<br>3. Photosynthesis<br>4. Decay of organic matter<br><br><b>Select the correct answer using the code given below. (2014)</b>",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4 only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 2 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Cycle Inversion Trap:</b> Photosynthesis (Statement 3) does the exact opposite of adding CO2; it absorbs/removes CO2 from the atmosphere to create glucose. Volcanic action, cellular respiration, and the decay/decomposition of organic matter all actively release CO2 back into the cycle.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Brominated flame retardants are used in many household products like mattresses and upholstery. Why is there some concern about their use?</b><br><br>1. They are highly resistant to degradation in the environment.<br>2. They are able to accumulate in humans and animals.<br><br><b>Select the correct answer using the code given below: (2014)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The POPs Baseline:</b> Brominated flame retardants (BFRs) are textbook Persistent Organic Pollutants (POPs). They are engineered to be chemically stable, meaning they resist environmental degradation (Statement 1) and are highly lipophilic, leading to severe bioaccumulation in the fat tissues of animals and humans (Statement 2).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>There is some concern regarding the nanoparticles of some chemical elements that are used by the industry in the manufacture of various products. Why?</b><br><br>1. They can accumulate in the environment and contaminate water and soil.<br>2. They can enter the food chains.<br>3. They can trigger the production of free radicals.<br><br><b>Select the correct answer using the code given below. (2014)</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Nano-Toxicity Scope:</b> Because of their infinitesimally small size and high surface-area-to-volume ratio, industrial nanoparticles are highly reactive. They can easily bypass biological membranes entering food chains (2), accumulate in soils/aquifers (1), and their high reactivity can trigger cellular damage via free radical production (3).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Which of the following are some important pollutants released by steel industry in India?</b><br><br>1. Oxides of sulphur<br>2. Oxide of nitrogen<br>3. Carbon monoxide<br>4. Carbon dioxide<br><br><b>Select the correct answer using the code given below: (2014)</b>",
+    "options": [
+      "1, 3 and 4 only",
+      "2 and 3 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4 only"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Heavy Industry Exhaust Profile:</b> The steel industry relies heavily on coking coal and blast furnaces. This extreme combustion process releases massive amounts of CO2 and CO (from carbon reduction), alongside SOx (from sulfur impurities in coal/ore) and NOx (generated by atmospheric nitrogen reacting at blast-furnace temperatures).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Photochemical smog is a resultant of the reaction among (2013)</b>",
+    "options": [
+      "NO2, O3 and peroxyacetyl nitrate in the prescence of sunlight",
+      "CO2, O2, and peroxyacetyl nitrate in the prescence of sunlight",
+      "CO, CO2, and NO2 at low temperature",
+      "high concentration of NO2, O3 and CO in the evening"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: NO2, O3 and peroxyacetyl nitrate in the prescence of sunlight</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The LA Smog Equation:</b> The examiner tests the specific atmospheric chemistry of secondary pollutants. Photochemical smog requires UV radiation (sunlight) to trigger reactions between primary pollutants (NOx and Volatile Organic Compounds) to form a toxic soup containing Ozone (O3) and Peroxyacetyl Nitrate (PAN).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Which of the following can be found as pollutants in the drinking water in some parts of India?</b><br><br>1. Arsenic<br>2. Sorbitol<br>3. Fluoride<br>4. Formaldehyde<br>5. Uranium<br><br><b>Select the correct answer using the codes given below. (2013)</b>",
+    "options": [
+      "1 and 3 only",
+      "2, 4 and 5 only",
+      "1, 3 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 3 and 5 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Groundwater Contamination Mapping:</b> India's groundwater heavily suffers from geogenic (natural) contamination. Arsenic (Ganga-Brahmaputra basin), Fluoride (arid regions of Rajasthan/Gujarat), and Uranium (Punjab/Haryana aquifers) are major toxic concerns. Sorbitol is a sugar alcohol and formaldehyde is an industrial chemical, not standard groundwater pollutants.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Due to improper/indiscriminate disposal of old and used computers or their parts, which of the following are released into the environment as e-waste?</b><br><br>1. Beryllium<br>2. Cadmium<br>3. Chromium<br>4. Heptachlor<br>5. Mercury<br>6. Lead<br>7. Plutonium<br><br><b>Select the correct answer using the codes given below. (2013)</b>",
+    "options": [
+      "1, 3, 4, 6 and 7 only",
+      "1, 2, 3, 5 and 6 only",
+      "2, 4, 5 and 7 only",
+      "1, 2, 3, 4, 5, 6 and 7"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 2, 3, 5 and 6 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The E-Waste Composition Trap:</b> E-waste is heavily loaded with toxic metals used in circuit boards, batteries, and screens: Beryllium, Cadmium, Chromium, Mercury, and Lead. The traps are <b>Heptachlor</b> (which is an organochlorine pesticide) and <b>Plutonium</b> (a highly radioactive weapons/reactor grade element, obviously not in household PCs).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Consider the following statements: Chlorofluorocarbons, known as ozone depleting substances, are used</b><br><br>1. In the production of plastic foams<br>2. In the production of tubeless tyres<br>3. In cleaning certain electronic components<br>4. As pressurizing agents in aerosol cans<br><br><b>Which of the statements given above is/ are correct? (2012)</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Historical Industrial Application:</b> Before the Montreal Protocol phase-out, CFCs were celebrated for their inertness. They were widely used as aerosol propellants (4), coolants, solvents to clean circuit boards (3), and blowing agents for plastic foams (1). They have no functional role in the structural production of tubeless rubber tires (2).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Lead, ingested or inhaled, is a health hazard. After the addition of lead to petrol has been banned, what still are the sources of lead poisoning?</b><br><br>1. Smelting units<br>2. Pens and pencils<br>3. Paints<br>4. Hair oils and cosmetics<br><br><b>Select the correct answer using the code given below: (2012)</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Layman Vocabulary Trap:</b> The classic trap is \"Lead Pencils\" (Statement 2). The core of a pencil is made of <b>Graphite</b> (carbon), not the heavy metal lead. Major ongoing environmental sources of lead exposure remain industrial smelting units (batteries/metals) and legacy lead-based paints.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>There is a concern over the increase in harmful algal blooms in the seawater of India. What could be the causative factors?</b><br><br>1. Discharge of nutrients from the estuaries.<br>2. Run-off from the land during the monsoon.<br>3. Upwelling in the seas.<br><br><b>Select the correct answer using the code given below. (2011)</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Eutrophication Triggers:</b> Harmful Algal Blooms (HABs) require a sudden influx of nutrients (Nitrogen/Phosphorus). This is caused by anthropogenic agricultural run-off during monsoons (2) and industrial/sewage discharge through estuaries (1). Oceanographic upwelling (3) also naturally brings deep, nutrient-rich waters to the surface, sparking explosive algal growth.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Consider the following:</b><br><br>1. Carbon dioxide<br>2. Oxides of nitrogen<br>3. Oxides of Sulphur<br><br><b>Which of the above is/are the emission/emissions from coal combustion at thermal power plants? (2011)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2, and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Coal Exhaust Baseline:</b> The fundamental chemistry of burning coal (a fossilized organic hydrocarbon) guarantees massive CO2 emissions. Because coal contains impurities like sulfur, it releases SOx. Because it burns at high temperatures in atmospheric air, atmospheric nitrogen reacts to form NOx.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Due to their extensive rice cultivation, some regions may be contributing to global warming. To what possible reason/ reasons is this attributable?</b><br><br>1. The anaerobic conditions associated with rice cultivation cause the emission of methane.<br>2. When nitrogen based fertilizers are used, nitrous oxide is emitted from the cultivated soil.<br><br><b>Which of the statements given above is/ are correct? (2010)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Agrarian GHG Duopoly:</b> Flooded paddy fields create a zero-oxygen (anaerobic) soil environment perfectly suited for methanogenic bacteria to release massive amounts of Methane (CH4). Simultaneously, the heavy application of synthetic urea/nitrogen fertilizers leads to soil denitrification, releasing Nitrous Oxide (N2O), a potent greenhouse gas.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>With reference to Direct Air Capture, an emerging technology, which of the following statements is/are correct?</b><br><br>I. It can be used as a way of carbon sequestration.<br>II. It can be a valuable approach for plastic production and in food processing.<br>III. In aviation, it can be a source of carbon for combining with hydrogen to create synthetic low-carbon fuel.<br><br><b>Select the correct answer using the code given below. (2025)</b>",
+    "options": [
+      "I and II only",
+      "II only",
+      "I, II, and III",
+      "None of the above statements is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: I, II, and III</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The CCUS Paradigm Shift:</b> The examiner tests Carbon Capture, Utilization, and Storage (CCUS). DAC literally pulls CO2 from ambient air (I). Once captured, treating it as a feedstock (Utilization) allows it to be converted into polycarbonates (plastics) or beverage carbonation (II), and when reacted with green hydrogen, it synthesizes sustainable aviation fuels (SAFs) to decarbonize flying (III).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Statement I:</b> Activated carbon is a good and an attractive tool to remove pollutants from effluent streams and to remediate contaminants from various industries.<br><b>Statement II :</b> Activated carbon exhibits a large surface area and a strong potential for adsorbing heavy metals.<br><b>Statement III :</b> Activated carbon can be easily synthesized from environmental wastes with high carbon content.<br><br><b>Which one of the following is correct in respect of the above statements? (2025)</b>",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement II and Statement III are correct and both of them explain Statement I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Remediation Dual-Justification:</b> Statement I makes two claims: AC is \"good/effective\" and \"attractive/scalable\". Statement II explains the technical effectiveness (massive surface area for chemical adsorption). Statement III explains the economic attractiveness (cheap synthesis from agricultural waste like coconut shells). Therefore, both independently explain the core premise.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>With reference to the role of biofilters in Recirculating Aquaculture System, consider the following statements:</b><br><br>1. Biofilters provide waste treatment by removing uneaten fish feed.<br>2. Biofilters convert ammonia present in fish waste to nitrate.<br>3. Biofilters increase phosphorus as nutrient for fish in water.<br><br><b>How many of the statements given above are correct? (2023)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Nitrogen Cycle Application:</b> Statement 1 is correct (mechanical/biofiltration removes physical waste). Statement 2 is the core biological function: nitrifying bacteria in the filter convert highly toxic ammonia (from fish waste) into less toxic nitrates. Statement 3 is incorrect; biofilters do not magically generate or increase phosphorus nutrients for the fish.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>“Biorock Technology” is talked about in which one of the following situations? (2022)</b>",
+    "options": [
+      "Restoration of damaged coral reefs",
+      "Development of building materials using plant residues",
+      "Identification of areas for exploration/ extraction of shale gas",
+      "Providing salt licks for wild animals in forests."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Restoration of damaged coral reefs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Eco-Engineering Keyword:</b> Biorock (or mineral accretion technology) involves passing a low-voltage electrical current through a submerged steel structure. This causes dissolved seawater minerals to precipitate and coat the structure in a solid limestone layer, providing a perfect, accelerated growth substrate for <b>restoring damaged coral reefs</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>In the context of WHO Air Quality Guidelines, Consider the following statements :</b><br><br>1. The 24-hour mean of PM 2.5 should not exceed 15 μg/m3 and annual mean of PM 2.5 should not exceed 5 μg/m3.<br>2. In a year, the highest levels of ozone pollution occur during the periods of inclement weather.<br>3. PM 10 can penetrate the lung barrier and enter the bloodstream.<br>4. Excessive ozone in the air can trigger asthma.<br><br><b>Which of the statements given above are correct? (2022)</b>",
+    "options": [
+      "1,3 and 4",
+      "1 and 4 only",
+      "2,3 and 4",
+      "1 and 2 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Air Quality Granularity Trap:</b> <br>- <b>Statement 2 is incorrect:</b> Ground-level ozone is formed via photochemical reactions requiring sunlight, hence it peaks during hot, sunny afternoons, not inclement (stormy/cloudy) weather.<br>- <b>Statement 3 is incorrect:</b> PM10 enters the lungs, but it is the ultrafine PM2.5 (and smaller) that can breach the lung barrier and directly enter the bloodstream.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>R2 Code of Practices’ constitutes a tool available for promoting the adoption of (2021)</b>",
+    "options": [
+      "environmentally responsible practices in electronics recycling industry",
+      "ecological management of Wetlands of International Importance under the Ramsar Convention",
+      "sustainable practices in the cultivation of agricultural crops in degraded land",
+      "‘Environmental Impact Assessment’ in the exploitation of natural resources"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: environmentally responsible practices in electronics recycling industry</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Niche Protocol Tag:</b> The Responsible Recycling (R2) Standard is specifically formulated by SERI to ensure that E-waste (discarded electronics) is handled, processed, and recycled in a safe, environmentally sound manner, preventing toxic dumping in developing nations.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>In rural road construction, the use of which of the following is preferred for ensuring environmental sustainability or to reduce carbon footprint?</b><br><br>1. Copper slag<br>2. Cold mix asphalt technology<br>3. Geotextiles<br>4. Hot mix asphalt technology<br>5. Portland cement<br><br><b>Select the correct answer using the code given below: (2020)</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "4 and 5 only",
+      "1 and 5 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sustainable Materials Contrast:</b> Options 4 (Hot mix asphalt) and 5 (Portland cement) are notoriously energy-intensive, high-emission, conventional building materials. To achieve sustainability and lower carbon footprints, engineers utilize industrial waste (Copper slag), low-energy processing (Cold mix asphalt), and eco-friendly soil-stabilization mats (Geotextiles).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Steel slag can be the material for which of the following?</b><br><br>1. Construction of base road<br>2. Improvement of agricultural soil<br>3. Production of cement<br><br><b>Select the correct answer using the code given below: (2020)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Waste-to-Wealth Application:</b> Steel slag is a massive industrial byproduct. To prevent dumping, it is heavily repurposed. It provides excellent aggregate strength for road bases (1), corrects soil acidity and provides trace nutrients like silicate in agriculture (2), and is a standard ingredient mixed into clinker for producing blended Portland slag cement (3).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>In the context of which one of the following are the terms ‘pyrolysis and plasma gasification’ mentioned? (2019)</b>",
+    "options": [
+      "Extraction of rare earth elements",
+      "Natural gas extraction technologies",
+      "Hydrogen fuel-based automobiles",
+      "Waste-to-energy technologies"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Waste-to-energy technologies</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Thermal Processing Identifier:</b> Both pyrolysis (thermal decomposition of materials at elevated temperatures in an inert atmosphere) and plasma gasification (using a plasma torch to ionize waste into syngas) are advanced thermal methods used to cleanly convert municipal solid waste and biomass into usable energy/fuels.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Which of the following is/are the possible consequence/s of heavy sand mining in riverbeds ?</b><br><br>1. Decreased salinity in the river<br>2. Pollution of groundwater<br>3. Lowering of the water-table<br><br><b>Select the correct answer using the code given below : (2018)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Hydro-geological Consequence:</b> Removing sand from riverbeds accelerates water flow, hindering percolation and massively lowering the local water table (3). The disturbance suspends toxic sediments, leading to groundwater pollution (2). <b>Statement 1 is the trap:</b> Riverbed mining in coastal estuaries actually allows tidal seawater to intrude further upstream, <i>increasing</i> salinity, not decreasing it.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>In the context of solving pollution problems what is/are the advantage/disadvantages of bioremediation technique?</b><br><br>1. It is a technique for cleaning up pollution by enhancing the same biodegradation process that occurs in nature.<br>2. Any contaminant with heavy metals such as cadmium and lead can be readily and completely treated by bioremediation using microorganisms.<br>3. Genetic engineering can be used to create microorganisms specifically designed for bioremediation.<br><br><b>Select the correct answer using the code given below: (2017)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Biological Limitation Trap:</b> Bioremediation uses microbes to eat/breakdown organic pollutants (Statement 1) and can be genetically enhanced (Statement 3). However, the absolute word \"any\" in Statement 2 is the trap. Microbes cannot biodegrade elemental heavy metals (like lead and cadmium); they are toxic to the microbes and cannot be \"completely treated\" or destroyed by biological digestion.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>With reference to ‘fly ash’ produced by the power plants using coal as fuel, which of the following statements is/are correct?</b><br><br>1. Fly ash can be used in the production of bricks for building construction.<br>2. Fly ash can be used as a replacement for some of the Portland cement contents of concrete.<br>3. Fly ash is made up of silicon dioxide and calcium oxide only, and does not contain any toxic elements.<br><br><b>Select the correct answer using the code given below. (2015)</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Toxicity Denial Trap:</b> Fly ash is heavily repurposed to reduce environmental dumping, making excellent bricks (1) and replacing cement in concrete blends (2). <b>Statement 3 is a blatant falsehood:</b> Fly ash is notorious precisely because it concentrates the heavy metal impurities found in coal, including toxic elements like arsenic, lead, and mercury.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>In the Union Budget 2011-12, a full exemption from the basic customs duty was extended to the bio-based asphalt (bioasphalt). What is the importance of this material?</b><br><br>1. Unlike traditional asphalt, bio-asphalt is not based on fossil fuels.<br>2. Bioasphalt can be made from non-renewable resources.<br>3. Bioasphalt can be made from organic waste materials.<br>4. It is eco-friendly to use bioasphalt for surfacing of the roads.<br><br><b>Which of the statements given above are correct? (2011)</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Semantic Contradiction Trap:</b> Traditional asphalt is a heavy petroleum (fossil fuel) product. Bio-asphalt is synthesized from renewable, biological organic waste (like sugar/molasses/corn lignin) making it highly eco-friendly. <b>Statement 2 is chemically contradictory:</b> The entire point of \"bio\" asphalt is that it is made from renewable biological resources, bypassing non-renewable crude oil.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Which bacterial strain, developed from natural isolated by genetic manipulations, can be used for treating oil spills? (2010)</b>",
+    "options": [
+      "Agrodbacterium",
+      "Clostridium",
+      "Nitrosomonas",
+      "Pseudomonas"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Pseudomonas</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Genetically Engineered Fix:</b> The examiner tests landmark Indian biotechnology. Developed by Dr. Ananda Mohan Chakrabarty, the genetically engineered \"superbug\" capable of breaking down crude oil/hydrocarbons in oceanic oil spills belongs to the genus <b>Pseudomonas</b> (specifically Pseudomonas putida).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Pollution - Sources, Impact & Remediation",
+    "question": "<b>Excessive release of the pollutant carbon monoxide (CO) into the air may produce a condition in which oxygen supply in the human body decreases. What causes this condition? (2010)</b>",
+    "options": [
+      "When inhaled into the human body CO is converted into CO2",
+      "The inhaled CO has much higher affinity for haemoglobin as compared to oxygen",
+      "The inhaled CO destroys the chemical structure of haemoglobin",
+      "The inhaled CO adversely affects the respiratory centre in the brain"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: The inhaled CO has much higher affinity for haemoglobin as compared to oxygen</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Physiological Mechanism:</b> The examiner tests basic respiratory biology. Carbon Monoxide is deadly because it binds to hemoglobin in the red blood cells with an affinity roughly 200-250 times stronger than Oxygen, creating carboxyhemoglobin and physically blocking oxygen transport to vital organs.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]

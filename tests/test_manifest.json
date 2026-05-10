@@ -189,6 +189,8 @@
 ,
 {"name": "Polity CoI, citizenship, oci", "filename": "Polity CoI, citizenship, oci.json", "path": "tests/upsc/Polity CoI, citizenship, oci.json"}
 ,
+{"name": "Pollution PYQs", "filename": "Pollution PYQs.json", "path": "tests/upsc/Pollution PYQs.json"}
+,
 {"name": "PreGS-2022", "filename": "PreGS-2022.json", "path": "tests/upsc/PreGS-2022.json"}
 ,
 {"name": "Pre_BenchmarkTest", "filename": "Pre_BenchmarkTest.json", "path": "tests/upsc/Pre_BenchmarkTest.json"}
