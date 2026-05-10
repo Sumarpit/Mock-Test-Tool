@@ -1,0 +1,317 @@
+[
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>Consider the following actions:</b><br><br>1. Detection of car crash/collision which results in the deployment of airbags almost instantaneously<br>2. Detection of accidental free fall of a laptop towards the ground which results in the immediate turning off of the hard drive.<br>3. Detection of the tilt of the smart phone which results in the rotation of display between portrait and landscape mode<br><br><b>In how many of the above actions is the function of accelerometer required? (2023)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Applied Tech Baseline:</b> The examiner expects you to map theoretical physics to everyday gadgets. An accelerometer measures proper acceleration (changes in velocity or orientation). All three actions completely depend on this: sensing the sudden deceleration of a crash, the zero-g of a free fall, and the gravitational orientation shift of a screen.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>Which one of the following statements best reflects the idea behind the “Fractional Orbital Bombardment System” often talked about in media? (2022)</b>",
+    "options": [
+      "A hypersonic missile is launched into space to counter the asteroid approaching the Earth and explode it in space.",
+      "A spacecraft lands on another planet after making several orbital motions.",
+      "A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth.",
+      "A spacecraft moves along a comet with the same speed and places a probe on its surface."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Vocabulary Trap:</b> The term 'Fractional' implies it does not complete a full orbit. FOBS is a Cold War-era concept (recently tested by China) where a nuclear warhead is put into low-earth orbit but is de-orbited to hit a target *before* making a complete revolution, thus evading traditional early warning radar systems that look for standard ballistic trajectories.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>In a pressure cooker, the temperature at which the food is cooked depends mainly upon which of the following?</b><br><br>1. Area of the hole in the lid<br>2. Temperature of the flame<br>3. Weight of the lid<br><br><b>Select the correct answer using the code given below. (2021)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The First Principles Trap:</b> The examiner tests fundamental thermodynamics. The cooking *temperature* (boiling point of water) is entirely dictated by the *pressure* inside the vessel. Pressure (P) equals Force divided by Area (F/A). The Force is the weight of the whistle (lid), and the Area is the hole. The flame temperature only dictates how *fast* it reaches that pressure, not the final equilibrium temperature itself. Statement 2 is a fatal distractor.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>The terms ‘Event Horizon’, ‘Singularity’, ‘String Theory’ and ‘Standard Model’ are sometimes seen in the news in the context of (2017)</b>",
+    "options": [
+      "Observation and understanding of the Universe",
+      "Study of the solar and the lunar eclipses",
+      "Placing satellites in the orbit of the Earth",
+      "Origin and evolution of living organisms on the Earth"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Observation and understanding of the Universe</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Conceptual Bucket Check:</b> These are tier-one cosmological and quantum physics terms. Event Horizon and Singularity define black hole mechanics. String Theory and Standard Model represent humanity's attempt to unify the fundamental forces of the Universe.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>What is the purpose of ‘evolved Laser Interferometer Space Antenna (eLISA)’ project? (2017)</b>",
+    "options": [
+      "To detect neutrinos",
+      "To detect gravitational waves",
+      "To detect the effectiveness of missile defence system",
+      "To study the effect of solar flares on our communication systems"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: To detect gravitational waves</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Payload Identifier:</b> Following the massive 2015 detection of gravitational waves by ground-based LIGO, eLISA is the European Space Agency's ambitious project to place interferometers in space (free of Earth's seismic noise) to detect lower-frequency gravitational ripples.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>In the context of modern scientific research, consider the following statements about ‘IceCube’, a particle detector located at South Pole, which was recently in the news :</b><br><br>1. It is the world’s largest neutrino detector, encompassing a cubic kilometer of ice.<br>2. It is a powerful telescope to search for dark matter.<br>3. It is buried deep in the ice.<br><br><b>Which of the statements given above is/ are correct? (2015)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Project Details Baseline:</b> All statements are factually correct. IceCube uses the pristine, ultra-clear deep ice of the Antarctic to detect the faint flashes of blue light (Cherenkov radiation) produced when ghostly cosmic neutrinos interact with the ice, helping scientists hunt for the origins of dark matter.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>Ball bearings are used in bicycles, cars, etc., because (2013)</b>",
+    "options": [
+      "the actual area of contact between the wheel and axle is increased",
+      "the effective area of contact between the wheel and axle is increased",
+      "the effective area of contact between the wheel and axle is reduced",
+      "None of the above statements is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: the effective area of contact between the wheel and axle is reduced</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Mechanical Trap:</b> Friction is mathematically proportional to the surface area in contact. Ball bearings convert high-resistance sliding friction into low-resistance rolling friction strictly by minimizing the effective area of contact to mere points between the spheres and the axle casing.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>The known forces of nature can be divided into four classes, viz., gravity, electromagnetism, weak nuclear force and strong nuclear force. With reference to them, which one of the following statements is not correct? (2013)</b>",
+    "options": [
+      "Gravity is the strongest of the four",
+      "Eletromagnetism acts only on particles with an electric charge",
+      "Weak nuclear force causes radioactivity",
+      "Strong nuclear force holds protons and neutrons inside the nucleus of an atom"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Gravity is the strongest of the four</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Comparative Absolute Trap:</b> Gravity dominates the macroscopic universe, so candidates intuitively guess it is the 'strongest'. Physically, it is exponentially the <b>weakest</b> of the four fundamental forces. The Strong Nuclear Force is the absolute strongest (holding atomic nuclei together against immense electromagnetic repulsion).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>The efforts to detect the existence of Higgs boson particle have become frequent news in the recent past. What is/are the importance/ importances of discovering this particle?</b><br><br>1. It will enable us to understand as to why elementary particles have mass.<br>2. It will enable us in the near future to develop the technology of transferring matter from one point to another without traversing the physical space between them.<br>3. It will enable us to create better fuels for nuclear fission.<br><br><b>Select the correct answer using the codes given below. (2013)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sci-Fi Exaggeration Trap:</b> The examiner blends theoretical physics with science fiction. The Higgs Boson (God Particle) confirms the Higgs field, explaining how fundamental particles acquire mass (Statement 1). Statements 2 (Star Trek-style teleportation) and 3 (better nuclear fission fuels) are completely fabricated distractors unrelated to the Standard Model discovery.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>What is the role of ultraviolet (UV) radiation in the water purification systems?</b><br><br>1. It inactivates/kills the harmful microorganisms in water.<br>2. It removes all the undesirable odours from the water.<br>3. It quickens the sedimentation of solid particles, removes turbidity and improves the clarity of water.<br><br><b>Select the correct answer using the code given below: (2012)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Process Confusion Trap:</b> UV radiation is strictly a biological disinfectant; it damages the DNA of microbes, rendering them harmless (Statement 1). Odour removal is the job of Activated Carbon filters. Quickening sedimentation/turbidity removal is the job of coagulants (like alum) or physical RO membranes, not light waves.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>A team of scientists at Brookhaven National Laboratory including those from India created the heaviest antimatter (anti-helium nucleus). What is/are the implication/ implications of the creation of antimatter?</b><br><br>1. It will make mineral prospecting and oil exploration easier and cheaper.<br>2. It will help probe the possibility of the existence of stars and galaxies made of antimatter.<br>3. It will help understand the evolution of the universe.<br><br><b>Select the correct answer using the code given below: (2012)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Economic Absurdity Trap:</b> Producing antimatter costs trillions of dollars for microscopic fractions of a gram in the world's most advanced colliders. Applying it to \"make mineral prospecting and oil exploration cheaper\" (Statement 1) is laughably false. It is purely for theoretical astrophysics to understand baryonic asymmetry (why there is more matter than antimatter).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>Electrically charged particles from space travelling at speeds of several hundred km/sec can severely harm living beings if they reach the surface of the Earth. What prevents them from reaching the surface of the Earth? (2012)</b>",
+    "options": [
+      "The Earth’s magnetic field diverts them towards its poles",
+      "Ozone layer around the Earth reflects them back to outer space",
+      "Moisture in the upper layers of atmosphere prevents them from reaching the surface of the Earth",
+      "None of the statements (a), (b) and (c) given above is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: The Earth’s magnetic field diverts them towards its poles</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Layer Mechanism Mismatch:</b> Candidates instinctively select the Ozone layer (Option B) whenever 'space protection' is mentioned. The Ozone layer specifically blocks electromagnetic waves (UV radiation). High-energy charged particles (solar wind) are physically deflected by the Earth's <b>magnetosphere</b>, funneling them to the poles to create auroras.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>Which of the following is/are cited by the scientists as evidence/evidences for the continued expansion of the universe?</b><br><br>1. Detection of microwaves in space<br>2. Observation of redshift phenomenon in space<br>3. Movement of asteroids in space<br>4. Occurrence of supernova explosions in space<br><br><b>Choose the correct answer using the code given below: (2012)</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1, 3 and 4",
+      "None of the above can be cited as evidence"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Hubble Benchmark:</b> The two absolute pillars of the Big Bang and cosmic expansion theory are the pervasive Cosmic Microwave Background (CMB) radiation (the afterglow of the Big Bang) and the Doppler Redshift of distant galaxies (indicating they are accelerating away from us). Asteroids and supernovae occur *within* the expanding space but do not prove metric expansion.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>Consider the following statements:</b><br><br>If there were no phenomenon of capillarity<br>1. it would be difficult to use a kerosene lamp<br>2. one would not be able to use a straw to consume a soft drink<br>3. the blotting paper would fail to function<br>4. the big trees that we see around would not have grown on the earth<br><br><b>Which of the following statements given above are correct? (2012)</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Fluid Mechanics Trap:</b> Capillarity is the ability of a liquid to flow in narrow spaces without gravity. It pulls kerosene up a wick (1), ink into blotting paper (3), and water up the xylem of massive trees (4). However, drinking from a straw relies strictly on creating a pressure differential (suction lowers air pressure in the mouth, and atmospheric pressure pushes the liquid up), <b>not</b> capillary action.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>The surface of a lake is frozen in severe winter, but the water at its bottom is still liquid. What is the reason? (2011)</b>",
+    "options": [
+      "Ice is a bad conductor of heat.",
+      "Since the surface of the lake is at the same temperature as the air, no heat is lost.",
+      "The density of water is maximum at 4°c.",
+      "None of the statements (a), (b) and (c) given is correct."
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: The density of water is maximum at 4°c.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Anomalous Expansion Constant:</b> A classic school-level physics concept tested repeatedly. Water behaves anomalously; it is densest at 4°C. Therefore, heavy 4°C water sinks to the bottom, preserving aquatic life, while less dense, freezing 0°C water (ice) stays at the top, acting as a thermal blanket.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>An artificial satellite orbiting around the Earth does not fall down. This is so because the attraction of Earth (2011)</b>",
+    "options": [
+      "does not exist at such a distance.",
+      "is neutralized by the attraction of the moon.",
+      "provides the necessary speed for its steady motion.",
+      "provides the necessary acceleration for its motion."
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: provides the necessary acceleration for its motion.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Free-Fall Physics Trap:</b> An orbiting satellite is literally falling continuously towards Earth. It does not crash because Earth's gravitational pull provides exactly the necessary centripetal acceleration required to keep pulling its velocity vector into a curve that matches the curvature of the Earth.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>India-based Neutrino Observatory is included by the Planning Commission as a mega science project under the 11th five-Year Plan. In this context, consider the following statements:</b><br><br>1. Neutrinos are chargeless elementary particles that travel close to the speed of light.<br>2. Neutrinos are created in nuclear reactions of beta decay.<br>3. Neutrinos have a negligible, but nonzero mass.<br>4. Trillions of Neutrinos pass through human body every second.<br><br><b>Which of the statements given above are correct ? (2010)</b>",
+    "options": [
+      "1 and 3 only",
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Standard Model Checklist:</b> The examiner tests absolute clarity on the most elusive particle. Neutrinos have no electrical charge (Statement 1), are emitted in beta decay/stellar fusion (Statement 2), possess an incredibly tiny but proven non-zero mass (Statement 3), and interact so weakly with normal matter that trillions pass through us seamlessly constantly (Statement 4).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>What is the principle by which a cooling system(Radiator) in a motor car works: (2010)</b>",
+    "options": [
+      "Conduction only",
+      "Convection",
+      "Radiation only",
+      "Both conduction and radiation"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Convection</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Nomenclature Trap:</b> The term \"Radiator\" tricks candidates into choosing Radiation (Option C or D). In engineering, a car's cooling system fundamentally operates via <b>Convection</b>: water/coolant fluid absorbs heat from the engine block and circulates to the radiator where forced air (convection currents) carries the heat away.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>In a dry cell (battery), which of the following are used as electrolytes ? (2009)</b>",
+    "options": [
+      "Ammonium chloride and Zinc chloride",
+      "Sodium chloride and Calcium chloride",
+      "Magnesium chloride and Zinc chloride",
+      "Ammonium chloride and Calcium chloride"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Ammonium chloride and Zinc chloride</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Chemical Composition Baseline:</b> A standard Leclanché (zinc-carbon) dry cell battery utilizes a moist paste of ammonium chloride (NH4Cl) and zinc chloride (ZnCl2) as the conductive electrolyte medium to facilitate the flow of charge.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>Which one of the following types of waves are used in a night vision apparatus ? (2009)</b>",
+    "options": [
+      "Radio waves",
+      "Microwaves",
+      "Infra-red waves",
+      "None of the above"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Infra-red waves</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Electromagnetic Spectrum Match:</b> Night vision technology (thermal imaging) works by detecting the <b>Infra-red</b> radiation (heat signatures) emitted by all objects with a temperature above absolute zero, converting that thermal map into a visible image.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Science & Technology",
+    "topic": "Physics - General",
+    "question": "<b>In the year 2008, which one of the following conducted a complex scientific experiment in which sub-atomic particles were accelerated to nearly the speed of light ? (2009)</b>",
+    "options": [
+      "European Space Agency",
+      "European Organization for Nuclear Research",
+      "International Atomic Energy Agency",
+      "National Aeronautics and Space administration"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: European Organization for Nuclear Research</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Institutional Acronym Verification:</b> The examiner refers to the activation of the Large Hadron Collider (LHC). It was built and is operated by <b>CERN</b> (The European Organization for Nuclear Research) in Geneva. Options like ESA and NASA are space agencies, and IAEA is a UN nuclear watchdog.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
