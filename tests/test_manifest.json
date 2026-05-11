@@ -345,6 +345,8 @@
 ,
 {"name": "United Nations and its Agencies PYQs", "filename": "United Nations and its Agencies PYQs.json", "path": "tests/upsc/United Nations and its Agencies PYQs.json"}
 ,
+{"name": "World Map - Conflict Zones & Water Bodies PYQs", "filename": "World Map - Conflict Zones & Water Bodies PYQs.json", "path": "tests/upsc/World Map - Conflict Zones & Water Bodies PYQs.json"}
+,
 {"name": "center state relations 20q", "filename": "center state relations 20q.json", "path": "tests/upsc/center state relations 20q.json"}
 ,
 {"name": "con stitutional bodies", "filename": "con stitutional bodies.json", "path": "tests/upsc/con stitutional bodies.json"}

@@ -1,0 +1,482 @@
+[
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Country : Reason for being in the news</b><br>1. Argentina : Worst economic crisis<br>2. Sudan : War between the country’s regular army and paramilitary forces<br>3. Turkey : Rescinded its membership of NATO<br><br><b>How many of the pairs given above are correctly matched? (2024)</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two pairs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geopolitical Status Trap:</b> The examiner frequently tests major geopolitical realignments. Argentina (hyperinflation/economic crisis) and Sudan (SAF vs RSF conflict) are correctly matched. Pair 3 is the trap: despite diplomatic friction with the West, Turkey has absolutely <b>not</b> rescinded its NATO membership; it remains a critical strategic anchor for the alliance.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> There is instability and worsening security situation in the Sahel region.<br><b>Statement-II:</b> There have been military takeovers/coups d’état in several countries of the Sahel region in the recent past.<br><br><b>Which one of the following is correct in respect of the above statements? (2024)</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II explains Statement-I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Regional Causality Link:</b> The Sahel is a high-priority sub-region for UPSC. Statement II (recent military coups in Niger, Mali, Burkina Faso) provides the direct geopolitical and administrative vacuum that explains Statement I (worsening security and rampant insurgency by militant groups).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following statements:</b><br><br><b>Statement-I:</b> Sumed pipeline is a strategic route for Persian Gulf oil and natural gas shipments to Europe.<br><b>Statement-II:</b> Sumed pipeline connects the Red Sea with the Mediterranean Sea.<br><br><b>Which one of the following is correct in respect of the above statements? (2024)</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Both Statement-I and Statement-II are correct and Statement-II explains Statement-I</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Chokepoint Alternative Trap:</b> The examiner tests strategic energy corridors bypassing maritime chokepoints. The Sumed (Suez-Mediterranean) pipeline in Egypt literally connects the Red Sea to the Mediterranean Sea (Statement II), acting as the crucial overland alternative when the Suez Canal is congested or blocked, thereby enabling Persian Gulf oil to reach Europe (Statement I).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Regions often mentioned in news : Reason for being in news</b><br>1. North Kivu and Ituri : War between Armenia and Azerbaijan<br>2. Nagorno-Karabakh : Insurgency in Mozambique<br>3. Kherson and Zaporizhzhia : Dispute between Israel and Lebanon<br><br><b>How many of the above pairs are correctly matched? (2023)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: None</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geographic Swapping Trap:</b> A classic UPSC manipulation where regions and conflicts are entirely cross-swapped. North Kivu/Ituri are in the Democratic Republic of Congo (DRC). Nagorno-Karabakh is the disputed territory between Armenia and Azerbaijan. Kherson and Zaporizhzhia are highly contested occupied oblasts in Ukraine.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>In the recent years Chad, Guinea, Mali and Sudan caught the international attention for which one of the following reasons common to all of them? (2023)</b>",
+    "options": [
+      "Discovery of rich deposits of rare earth elements",
+      "Establishment of Chinese military bases",
+      "Southward expansion of Sahara Desert",
+      "Successful coups"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Successful coups</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sub-Saharan Political Crisis:</b> The examiner tests the defining geopolitical trend of the 'Coup Belt' across the Sahel and Horn of Africa. Chad, Guinea, Mali, and Sudan all experienced successful military takeovers unseating civilian or transitional governments in recent years.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Which of the following countries has been suffering from decades of civil strife and food shortages and was in news in the recent past for its very severe famine? (2023)</b>",
+    "options": [
+      "Angola",
+      "Costa Rica",
+      "Ecuador",
+      "Somalia"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Somalia</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Humanitarian Crisis Identifier:</b> The Horn of Africa is a recurring theme. Somalia has faced decades of state collapse, Al-Shabaab insurgency, and consecutive failed rainy seasons, pushing millions into catastrophic famine conditions.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Area of conflict mentioned in news : Country where it is located</b><br>1. Donbas : Syria<br>2. Kachin : Ethiopia<br>3. Tigray : North Yemen<br><br><b>How many of the above pairs are correctly matched? (2023)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: None</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Complete Mismatch Trap:</b> Another zero-match trap. Donbas is the industrial heartland of eastern Ukraine. Kachin is a conflict-ridden state in northern Myanmar. Tigray is the northernmost regional state in Ethiopia, center of a brutal recent civil war.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Which one of the following statements best reflects the issue with Senkaku Islands, sometimes mentioned in the news? (2022)</b>",
+    "options": [
+      "It is generally believed that they are artificial islands made by a country around South China Sea.",
+      "China and Japan engage in maritime disputes over these islands in East China Sea.",
+      "A permanent American military base has been set up there to help Taiwan to increase its defence capabilities.",
+      "Though International Court of Justice declared them as no man’s land, some South-East Asian countries claim them."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: China and Japan engage in maritime disputes over these islands in East China Sea.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sea Classification Trap:</b> The examiner tests precision in maritime geography. Candidates often default all Asian island disputes to the 'South China Sea' (Option A, describing the Spratly/Paracel artificial islands). The Senkaku Islands (Diaoyu in Chinese) are specifically contested between Japan and China in the <b>East China Sea</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Region often mentioned in the news : Country</b><br>1. Anatolia : Turkey<br>2. Amhara : Ethiopia<br>3. Cabo Delgado : Spain<br>4. Catalonia : Italy<br><br><b>How many pairs given above are correctly matched? (2022)</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two pairs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Iberian/African Substitution:</b> Pairs 1 (Anatolia in Turkey) and 2 (Amhara in Ethiopia) are correct. Pair 3 is a trap: Cabo Delgado is a province in Mozambique suffering from Islamist insurgency, not Spain. Pair 4 is a classic trap: Catalonia is an autonomous region demanding independence in Spain, not Italy.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following statements:</b><br><br>1. Bidibidi is a large refugee settlement in north-western Kenya.<br>2. Some people who fled from South Sudan civil war live in Bidibidi.<br>3. Some people who fled from civil war in Somalia live in Dadaab refugee complex in Kenya.<br><br><b>Which of the statements given above is/are correct? (2022)</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Host Nation Swap Trap:</b> Statement 1 is factually incorrect. Bidibidi is one of the world's largest refugee settlements, but it is located in <b>Uganda</b>, not Kenya. It primarily hosts refugees from neighboring South Sudan (Statement 2). Statement 3 is correct; Dadaab is a massive complex in Kenya hosting Somali refugees.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following countries:</b><br><br>1. Azerbaijan<br>2. Kyrgyzstan<br>3. Tajikistan<br>4. Turkmenistan<br>5. Uzbekistan<br><br><b>Which of the above have borders with Afghanistan? (2022)</b>",
+    "options": [
+      "1, 2 and 5 only",
+      "1, 2, 3 and 4 only",
+      "3, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 3, 4 and 5 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Central Asian Stans Trap:</b> Afghanistan's northern border is shared strictly with Tajikistan, Turkmenistan, and Uzbekistan. It does NOT share a border with Kyrgyzstan (separated by the Wakhan Corridor/Tajikistan) or Azerbaijan (which is in the Caucasus, separated by the Caspian Sea).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Country : Important reason for being in the news recently</b><br>1. Chad : Setting up of permanent military base by China<br>2. Guinea : Suspension of Constitution and Government by military<br>3. Lebanon : Severe and prolonged economic depression<br>4. Tunisia : Suspension of Parliament by President<br><br><b>How many pairs given above are correctly matched? (2022)</b>",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Only three pairs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Military Base Attribution Trap:</b> Pairs 2, 3, and 4 correctly map recent political and economic collapses. Pair 1 is incorrect. China's first and only permanent overseas military base is in <b>Djibouti</b> (Horn of Africa), not Chad. Chad was in the news due to the battlefield death of its long-serving President Idriss Déby.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Towns sometimes mentioned in news : Country</b><br>1. Aleppo : Syria<br>2. Kirkuk : Yemen<br>3. Mosul : Palestine<br>4. Mazar-i-sharif : Afghanistan<br><br><b>Which of the pairs given above are correctly matched? (2018)</b>",
+    "options": [
+      "1 and 2",
+      "1 and 4",
+      "2 and 3",
+      "3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The ISIS/Taliban Geography Check:</b> Aleppo (Syria) and Mazar-i-Sharif (Afghanistan) are correct. Kirkuk and Mosul are both major, strategically vital oil-rich cities in <b>Iraq</b>, not Yemen or Palestine. The examiner tests familiarity with the major theaters of the War on Terror.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>The term “two-state solution” is sometimes mentioned in the news in the context of the affairs of (2018)</b>",
+    "options": [
+      "China",
+      "Israel",
+      "Iraq",
+      "Yemen"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Israel</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Core Geopolitical Lexicon:</b> This is an absolute baseline fact. The 'two-state solution' is the primary proposed framework for resolving the Israeli-Palestinian conflict, envisioning an independent State of Palestine alongside the State of Israel.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Very recently, in which of the following countries have lakhs of people either suffered from severe famine/acute malnutrition or died due to starvation caused by war/ethnic conflicts? (2018)</b>",
+    "options": [
+      "Angola and Zambia",
+      "Morocco and Tunisia",
+      "Venezuela and Colombia",
+      "Yemen and South Sudan"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Yemen and South Sudan</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Man-Made Famine Identifier:</b> The UN declared catastrophic famine conditions in both Yemen (due to the Saudi-Houthi war and naval blockades) and South Sudan (due to internal ethnic civil war). The other paired nations face economic distress (Venezuela) but not acute, war-driven starvation at that mass scale.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Community sometimes mentioned in the news : In the affairs of</b><br>1. Kurd : Bangladesh<br>2. Madhesi : Nepal<br>3. Rohingya : Myanmar<br><br><b>Which of the pairs given above is/are correctly matched? (2016)</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Stateless Ethnic Minority Trap:</b> Pairs 2 and 3 are correct. The Madhesis protest structural inequality in Nepal's Terai region. The Rohingya face ethnic cleansing in Myanmar. Pair 1 is drastically wrong; the Kurds are a stateless ethnic group spread across Turkey, Iraq, Iran, and Syria, completely unrelated to Bangladesh.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>The area known as ‘Golan Heights’ sometimes appears in the news in the context of the events related to (2015)</b>",
+    "options": [
+      "Central Asia",
+      "Middle East",
+      "South-East Asia",
+      "Central Africa"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Middle East</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Territorial Annexation Benchmark:</b> The Golan Heights is a highly strategic plateau in the <b>Middle East</b>. It was seized by Israel from Syria during the 1967 Six-Day War and subsequently annexed. It overlooks both the Syrian capital (Damascus) and the Sea of Galilee.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Recently, a series of uprisings of people referred to as ‘Arab Spring’ originally started from (2014)</b>",
+    "options": [
+      "Egypt",
+      "Lebanon",
+      "Syria",
+      "Tunisia"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Tunisia</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Patient Zero Trap:</b> While Egypt (Tahrir Square) and Syria became the most globally televised theaters of the Arab Spring, the entire regional wave of anti-government protests was originally ignited in <b>Tunisia</b> (the Jasmine Revolution) following the self-immolation of street vendor Mohamed Bouazizi in late 2010.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Region often in news : Country</b><br>1. Chechnya : Russian Federation<br>2. Darfur : Mali<br>3. Swat Valley : Iraq<br><br><b>Which of the above pairs is/are correctly matched? (2014)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Flashpoint Re-allocation Trap:</b> Only Pair 1 is correct (Chechnya is a volatile republic in Russia). Darfur is a western region in <b>Sudan</b> infamous for a brutal genocide, not Mali. The Swat Valley is a former Taliban stronghold in <b>Pakistan</b>, not Iraq.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>A very big refugee camp called Dadaab, recently in the news, is located in (2009)</b>",
+    "options": [
+      "Ethiopia",
+      "Kenya",
+      "Somalia",
+      "Sudan"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Kenya</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Cross-Border Displacement Trap:</b> Dadaab was built to host refugees fleeing the civil war in Somalia. However, the physical camp complex itself is located just across the border in <b>Kenya</b>. Do not confuse the origin of the refugees with the location of the asylum camp.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>From which one of the following did Kosovo declare its independence? (2009)</b>",
+    "options": [
+      "Bulgaria",
+      "Croatia",
+      "Macedonia",
+      "Serbia"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Serbia</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Balkan Fragmentation Baseline:</b> Kosovo unilaterally declared independence from <b>Serbia</b> in 2008. The examiner tests your knowledge of the painful disintegration of the former Yugoslavia, where Serbia still considers Kosovo to be its autonomous province.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Which one of the following pairs of countries fought wars over a region called Ogaden? (2009)</b>",
+    "options": [
+      "Eritrea and Sudan",
+      "Ethiopia and Somalia",
+      "Kenya and Somalia",
+      "Ethiopia and Sudan"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Ethiopia and Somalia</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Horn of Africa Territorial Dispute:</b> The Ogaden War (1977-1978) was a massive conventional conflict fought over the disputed Ogaden region, an area in eastern <b>Ethiopia</b> heavily populated by ethnic Somalis, which <b>Somalia</b> attempted to annex.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following water bodies:</b><br><br>I. Lake Tanganyika<br>II. Lake Tonle Sap<br>III. Patos Lagoon<br><br><b>Through how many of them does the equator pass? (2025)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: None</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Latitudinal Precision Trap:</b> The equator passes through specific inland waters like Lake Victoria in Africa. Lake Tanganyika lies strictly south of the equator. Lake Tonle Sap is in Cambodia (Northern Hemisphere). Patos Lagoon is in Brazil (Southern Hemisphere). None intersect the 0-degree latitude.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following countries:</b><br><br>1. Finland<br>2. Germany<br>3. Norway<br>4. Russia<br><br><b>How many of the above countries have a border with the North Sea? (2024)</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Baltic vs. North Sea Confusion:</b> Germany and Norway correctly border the North Sea. The trap lies in Finland and Russia, which border the <b>Baltic Sea</b> (and the Arctic/Barents for Russia, Gulf of Bothnia for Finland), but are entirely cut off from the North Sea by the Scandinavian peninsula and Denmark.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "International Relations & Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following countries:</b><br><br>1. Bulgaria<br>2. Czech Republic<br>3. Hungary<br>4. Latvia<br>5. Lithuania<br>6. Romania<br><br><b>How many of the above-mentioned countries share a land border with Ukraine? (2023)</b>",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "Only five"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Eastern European Ring Trap:</b> Ukraine is the largest country entirely within Europe. It borders Russia, Belarus, Poland, Slovakia, <b>Hungary</b>, <b>Romania</b>, and Moldova. It does NOT border the Baltic states (Latvia/Lithuania), the Czech Republic, or Bulgaria (which borders the Black Sea south of Romania).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>The term “Levant” often heard in the news roughly corresponds to which of the following regions? (2022)</b>",
+    "options": [
+      "Region along the eastern Mediterranean shores",
+      "Region along North African shores stretching from Egypt to Morocco",
+      "Region along Persian Gulf and Horn of Africa",
+      "The entire coastal areas of Mediterranean Sea"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Region along the eastern Mediterranean shores</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Historical Geopolitical Lexicon:</b> The Levant is a historical geographical term referring to the large area in the Eastern Mediterranean region of Western Asia. It typically encompasses modern-day Syria, Lebanon, Jordan, Israel, Palestine, and sometimes Cyprus and the Hatay province.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Which one of the following lakes of West Africa has become dry and turned into a desert? (2022)</b>",
+    "options": [
+      "Lake Victoria",
+      "Lake Faguibine",
+      "Lake Oguta",
+      "Lake Volta"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Lake Faguibine</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Climate-Induced Desertification Marker:</b> Located in Mali, Lake Faguibine used to be one of the largest lakes in West Africa (fed by the Niger River). Sustained droughts since the 1970s and sand encroachment have caused it to dry up entirely, displacing local communities and accelerating desertification.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Which of the following has/have shrunk immensely/dried up in the recent past due to human activities? (2018)</b><br><br>1. Aral Sea<br>2. Black Sea<br>3. Lake Baikal<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "2 only",
+      "1 and 3 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Anthropogenic Disaster Benchmark:</b> The Aral Sea (between Kazakhstan and Uzbekistan) is the textbook example of catastrophic human-induced drying due to Soviet-era river diversions for cotton irrigation. Lake Baikal (world's deepest) and the Black Sea have not suffered this extreme level of volumetric shrinkage.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Sea : Bordering country</b><br>1. Adriatic Sea : Albania<br>2. Black Sea : Croatia<br>3. Caspian Sea : Kazakhstan<br>4. Mediterranean Sea : Morocco<br>5. Red Sea : Syria<br><br><b>Which of the pairs given above are correctly matched? (2019)</b>",
+    "options": [
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Marginal Seas Chokepoint Trap:</b> Pair 2 is a trap: Croatia borders the Adriatic Sea, not the Black Sea. Pair 5 is a trap: Syria borders the Mediterranean Sea, not the Red Sea (it is physically cut off from the Red Sea by Jordan and Israel). Pairs 1, 3, and 4 are perfect geopolitical matches.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Mediterranean Sea is a border of which of the following countries? (2017)</b><br><br>1. Jordan<br>2. Iraq<br>3. Lebanon<br>4. Syria<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1, 2 and 3",
+      "2 and 3 only",
+      "3 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Landlocked Illusion:</b> Lebanon and Syria hold vital coastlines along the Eastern Mediterranean. Jordan and Iraq are the traps. Jordan's only maritime access is a tiny strip on the Gulf of Aqaba (Red Sea). Iraq's only maritime access is a tiny strip on the Persian Gulf. Neither touches the Mediterranean.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Which one of the following countries of South-West Asia does not open out to the Mediterranean Sea? (2015)</b>",
+    "options": [
+      "Syria",
+      "Jordan",
+      "Lebanon",
+      "Israel"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Jordan</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Levantine Exclusion Zone:</b> Similar to the 2017 question, this tests your knowledge of the Levantine coastline. Syria, Lebanon, and Israel all possess direct Mediterranean coastlines. Jordan is wedged inland between Israel and Saudi Arabia, opening only southward to the Red Sea via the Gulf of Aqaba.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "World Map - Conflict Zones & Water Bodies",
+    "question": "<b>Turkey is located between (2014)</b>",
+    "options": [
+      "Black Sea and Caspian Sea",
+      "Black Sea and Mediterranean Sea",
+      "Gulf of Suez and Mediterranean Sea",
+      "Gulf of Aqaba and Dead Sea"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Black Sea and Mediterranean Sea</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Transcontinental Bridge:</b> Turkey (Anatolia/Thrace) acts as the geographic bridge between Europe and Asia. It is bordered by the Black Sea to the north and the Mediterranean Sea to the south (with the Aegean Sea to the west). The Caspian Sea is further east, completely separated by the Caucasus and Iran.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
