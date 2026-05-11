@@ -1,0 +1,497 @@
+[
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Regarding Peacock tarantula (Gooty tarantula), consider the following statements:</b><br><br>I. It is an omnivorous crustacean.<br>II. Its natural habitat in India is only limited to some forest areas.<br>III. In its natural habitat, it is an arboreal species.<br><br><b>Which of the statements given above is/ are correct?</b>",
+    "options": [
+      "I only",
+      "I and III",
+      "II only",
+      "II and III"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: II and III</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Phylum/Class Trap:</b> Statement I is a classic biological classification trap. A tarantula is a spider, making it an <b>arachnid</b>, not a crustacean (crabs/shrimp). Furthermore, tarantulas are strictly <b>carnivorous</b> predators. Statements II and III are correct: it is an arboreal species endemic to a highly restricted forest area in Andhra Pradesh and is critically endangered due to the illegal pet trade.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Which one of the following shows a unique relationship with an insect that has coevolved with it and that is the only insect that can pollinate this tree?</b>",
+    "options": [
+      "Fig",
+      "Mahua",
+      "Sandalwood",
+      "Silk cotton"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Fig</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Obligate Mutualism Check:</b> The examiner tests fundamental ecological interactions. The fig tree and the fig wasp exhibit obligate mutualism. They have coevolved so tightly that neither can reproduce without the other. The wasp is the exclusive pollinator of the fig, and the fig provides the exclusive nursery for the wasp's larvae.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Which one of the following makes a tool with a stick to scrape insects from a hole in a tree or a log of wood?</b>",
+    "options": [
+      "Fishing cat",
+      "Orangutan",
+      "Otter",
+      "Sloth bear"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Orangutan</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Primate Intelligence Baseline:</b> Tool use in the animal kingdom is heavily tested. Orangutans, large arboreal apes from Southeast Asia, are highly intelligent and actively modify sticks to extract insects from nests or crevices. Sloth bears and otters do not manufacture tools in this manner.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Consider the following statements :</b><br><br>1. Some microorganisms can grow in environments with temperature above the boiling point of water.<br>2. Some microorganisms can grow in environments with temperature below the freezing point of water.<br>3. Some microorganisms can grow in highly acidic environment with a pH below 3.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: All three</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Extremophile Absolute Trap (Averted):</b> Normally, extreme absolute statements are false. However, extremophile biology defies normal limits. Thermophiles thrive above 100°C (hydrothermal vents), psychrophiles thrive below freezing (polar ice), and acidophiles thrive in highly acidic environments like acid mine drainage (pH < 3). All statements are scientifically proven.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Consider the following statements :</b><br><br><b>Statement-I:</b> Marsupials are not naturally found in India.<br><b>Statement-II:</b> Marsupials can thrive only in montane grasslands with no predators.<br><br><b>Which one of the following is correct in respect of the above statements?</b>",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Statement-I is correct but Statement-II is incorrect</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geographic & Ecological Absolute Trap:</b> Statement I is correct: Marsupials (like kangaroos and koalas) are evolutionarily restricted to Australasia and the Americas; they are not naturally found in India. Statement II uses the extreme word \"only\". Marsupials thrive in diverse ecosystems (forests, deserts) and coexist with predators (like dingoes or historically the thylacine), making Statement II factually incorrect.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Consider the following statements :</b><br><br>1. Some mushrooms have medicinal properties.<br>2. Some mushrooms have psychoactive properties.<br>3. Some mushrooms have insecticidal properties.<br>4. Some mushrooms have bioluminescent properties.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: All four</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Broad Fungal Utility:</b> The use of the word \"Some\" makes these statements highly probable. Fungi are incredibly diverse: they produce medicines (penicillin/statins), possess psychoactive compounds (psilocybin), act as natural insecticides (entomopathogenic fungi), and many species are bioluminescent (foxfire).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Consider the following statements regarding the Indian squirrels :</b><br><br>1. They build nests by making burrows in the ground.<br>2. They store their food materials like nuts and seeds in the ground.<br>3. They are omnivorous.<br><br><b>How many of the above statements are correct?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Only two</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Species Generalization Trap:</b> While Indian palm squirrels are tree-dwelling, India is also home to ground-dwelling squirrels (like the Himalayan marmot) that burrow and cache food in the ground. They are also omnivorous (eating insects/eggs alongside nuts). However, depending on the strict interpretation of 'Indian Palm Squirrel', UPSC official key nuances often accept 'Only two' as correct since tree squirrels do not typically burrow. Note: Always rely on broad mammalian behavior patterns when specific sub-species aren't named.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Which of the following organisms perform waggle dance for others of their kin to indicate the direction and the distance to a source of their food?</b>",
+    "options": [
+      "Butterflies",
+      "Dragonflies",
+      "Honeybees",
+      "Wasps"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Honeybees</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Behavioral Ecology Fact:</b> This is a foundational zoology concept. Honeybees use a complex, figure-eight \"waggle dance\" to communicate the precise direction, distance, and quality of resources (like nectar or water) to their hive mates.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Certain species of which one of the following organisms are well known as cultivators of fungi?</b>",
+    "options": [
+      "Ant",
+      "Cockroach",
+      "Crab",
+      "Spider"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Ant</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Symbiotic Agriculture Identifier:</b> Leafcutter ants (Attine ants), comprising over 200 species, are famous for their mutualistic relationship where they cultivate specialized fungi in subterranean gardens, using the fungus as their primary food source.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Consider the following animals:</b><br><br>1. Hedgehog<br>2. Marmot<br>3. Pangolin<br><br><b>To reduce the chance of being captured by predators, which of the above organisms rolls up/roll up and protects/protect its/their vulnerable parts?</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "3 only",
+      "1 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Defensive Morphology Match:</b> Hedgehogs (using quills) and Pangolins (using keratin scales) are famous for their defensive mechanism of rolling into a tight, impenetrable ball. Marmots are large ground squirrels that rely on burrowing and alarm calls, not rolling up.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Which of the following are detritivores?</b><br><br>1. Earthworms<br>2. Jellyfish<br>3. Millipedes<br>4. Seahorses<br>5. Woodlice<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1, 2 and 4 only",
+      "2, 3, 4 and 5 only",
+      "1, 3 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 3 and 5 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Trophic Level Trap:</b> Detritivores feed on dead and decaying organic matter. Earthworms, millipedes, and woodlice are classic terrestrial detritivores. Jellyfish are carnivorous predators (using nematocysts to catch prey), and seahorses are also carnivorous (ambush predators of small crustaceans).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Which of the following have species that can establish symbiotic relationship with other organisms?</b><br><br>1. Cnidarians<br>2. Fungi<br>3. Protozoa<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Universal Symbiosis Check:</b> All three establish profound symbiotic relationships. Cnidarians (corals) partner with zooxanthellae (dinoflagellate algae). Fungi partner with plant roots (mycorrhizae) or algae (lichens). Protozoa live symbiotically in the guts of termites and ruminants to digest cellulose.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Consider the following statements:</b><br><br>1. Some species of turtles are herbivores.<br>2. Some species of fish are herbivores.<br>3. Some species of marine mammals are herbivores.<br>4. Some species of snakes are viviparous.<br><br><b>Which of the statements given above are correct?</b>",
+    "options": [
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The \"Some\" Probability Heuristic:</b> The use of the word \"Some\" in biological statements is almost always true because of immense evolutionary diversity. Green sea turtles (1), parrotfish (2), dugongs/manatees (3), and certain boas/vipers that give live birth (4) perfectly validate all statements.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Recently, our scientists have discovered a new and distinct species of banana plant which attains a height of about 11 metres and has orange-coloured fruit pulp. In which part of India has it been discovered?</b>",
+    "options": [
+      "Andaman Islands",
+      "Anaimalai Forests",
+      "Maikala Hills",
+      "Tropical rain forests of northeast"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Andaman Islands</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Endemic Discovery Tag:</b> This refers to the discovery of <i>Musa indandamanensis</i> by Botanical Survey of India scientists. It is a highly distinct wild banana species endemic to the tropical rainforests of Little Andaman Island.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>What is/are unique about ‘Kharai camel’, a breed found in India?</b><br><br>1. It is capable of swimming up to three kilometres in seawater.<br>2. It survives by grazing on mangroves.<br>3. It lives in the wild and cannot be domesticated.<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Domestication Trap:</b> Statements 1 and 2 accurately describe the Kharai camel of Gujarat, famous for its marine swimming and mangrove diet. Statement 3 is entirely incorrect: they are heavily domesticated and herded by the Fakirani Jat and Rabari communities.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Consider the following:</b><br><br>1. Bats<br>2. Bears<br>3. Rodents<br><br><b>The phenomenon of hibernation can be observed in which of the above kinds of animals?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1, 2 and 3 only",
+      "Hibernation cannot be observed in any of the above"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Metabolic Adaptation Check:</b> Hibernation is a state of severe metabolic depression in endotherms to survive harsh winters. It is well-documented in certain species of bats, bears, and rodents (like groundhogs and marmots).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>If you walk through countryside, you are likely to see some birds stalking alongside the cattle to seize the insects disturbed by their movement through grasses. Which of the following is/are such bird/birds?</b><br><br>1. Painted Stork<br>2. Common Myna<br>3. Black-necked Crane<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Ecological Commensalism Trap:</b> This behavior (following livestock to eat flushed insects) is a classic characteristic of the Common Myna (and Cattle Egrets). Painted Storks are large wading birds that fish in shallow waters. The Black-necked Crane is an alpine species of the high Tibetan/Ladakh plateau, not a countryside cattle stalker.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Among the following organisms, which one does not belong to the class of other three?</b>",
+    "options": [
+      "Crab",
+      "Mite",
+      "Scorpion",
+      "Spider"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Crab</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Biological Classification Trap:</b> The examiner tests basic taxonomy. Mites, Scorpions, and Spiders all belong to the class <b>Arachnida</b> (characterized by 8 legs and lack of antennae). A Crab belongs to the subphylum <b>Crustacea</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>What is the difference between the antelopes Oryx and Chiru?</b>",
+    "options": [
+      "Oryx is adapted to live in hot and arid areas whereas Chiru is adapted to live in steppes and semi-desert areas of cold high mountains.",
+      "Oryx is poached for its antlers whereas Chiru is poached for its musk.",
+      "Oryx exists in western India only whereas Chiru exists in north-east India only.",
+      "None of the statements (a), (b) and (c) given above is correct."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Oryx is adapted to live in hot and arid areas whereas Chiru is adapted to live in steppes and semi-desert areas of cold high mountains.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Habitat Contrast:</b> The Oryx is famously adapted to extreme, hot desert environments (like the Arabian Peninsula or Africa). The Chiru (Tibetan Antelope) is adapted to the freezing, high-altitude steppes of the Tibetan plateau and is heavily poached for its fine underwool (Shahtoosh), not musk.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Country : Animal found in its natural habitat</b><br>1. Brazil : Indri<br>2. Indonesia : Elk<br>3. Madagascar : Bonobo<br><br><b>How many of the pairs given above are correctly matched?</b>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: None</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Total Geography Swap:</b> Every pair is a deliberate geographical mismatch. The Indri (a lemur) is endemic to Madagascar, not Brazil. Elk are native to North America and Central/East Asia, not tropical Indonesia. The Bonobo is a great ape endemic to the Democratic Republic of Congo, not Madagascar.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Which of the following are the most likely places to find the musk deer in its natural habitat?</b><br><br>1. Askot Wildlife Sanctuary<br>2. Gangotri National Park<br>3. Kishanpur Wildlife Sanctuary<br>4. Manas National Park<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 and 4 only",
+      "1 and 4 only"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Alpine Species Mapping:</b> Musk deer inhabit the high alpine environments of the Himalayas. Therefore, they are naturally found in Askot WLS and Gangotri NP (both in Uttarakhand). Kishanpur (UP Terai) and Manas (Assam foothills) are lowland/terai habitats completely unsuitable for the alpine musk deer.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Which one of the following protected areas is well-known for the conservation of a sub-species of the Indian swamp deer (Barasingha) that thrives well on hard ground and is exclusively graminivorous?</b>",
+    "options": [
+      "Kanha National Park",
+      "Manas National Park",
+      "Mudumalai Wildlife Sanctuary",
+      "Tal Chhapar Wildlife Sanctuary"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Kanha National Park</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Sub-species Specificity:</b> The Hard-ground Swamp Deer (Barasingha) is a highly specific evolutionary divergence. It is the state animal of Madhya Pradesh and was famously brought back from the brink of extinction through intense conservation efforts strictly in <b>Kanha National Park</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Consider the following statements:</b><br><br>1. Asiatic lion is naturally found In India only.<br>2. Double-humped camel is naturally found in India only.<br>3. One-horned rhinoceros is naturally found in India only.<br><br><b>Which of the statements given above is / are correct?</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The 'Only' Geographic Extent Trap:</b> Statement 1 is true: The Asiatic Lion is restricted entirely to Gujarat's Gir forest. Statements 2 and 3 are false due to the word \"only\". The Double-humped (Bactrian) camel is primarily found in Central Asia (Gobi desert). The One-horned rhinoceros is heavily concentrated in India but is also found naturally in Nepal and Bhutan.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Consider the following pairs:</b><br><br><b>Wildlife : Naturally found in</b><br>1. Blue-finned Mahseer : Cauvery River<br>2. Irrawaddy Dolphin : Chambal River<br>3. Rusty-spotted Cat : Eastern Ghats<br><br><b>Which of the pairs given above are correctly matched?</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The River Basin Mismatch:</b> Pair 2 is incorrect: The Irrawaddy Dolphin is a coastal/estuarine species famously found in Chilika Lake (Odisha), not the inland, freshwater Chambal River (which is famous for the Gangetic Dolphin and Gharial). Pair 1 (Mahseer in Cauvery) and Pair 3 (Rusty-spotted cat in Eastern Ghats) are correctly matched.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Which one of the following groups of plants was domesticated in the ‘New World’ and introduced into the ‘Old World’?</b>",
+    "options": [
+      "Tobacco, cocoa and rubber",
+      "Tobacco, cotton and rubber",
+      "Cotton, coffee and sugarcane",
+      "Rubber, coffee and wheat"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Tobacco, cocoa and rubber</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Columbian Exchange Baseline:</b> The examiner tests the historical transfer of flora. The 'New World' refers to the Americas. Tobacco, cocoa, and rubber all originated in South/Central America. Coffee originated in Africa (Ethiopia), and Sugarcane and Wheat are native to the Old World (Asia/Middle East).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>If you want to see gharials in their natural habitat, which one of the following is the best place to visit ?</b>",
+    "options": [
+      "Bhitarkanika Mangroves",
+      "Chambal River",
+      "Pulicat Lake",
+      "DeeporBeel"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Chambal River</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Keystone Habitat Marker:</b> The National Chambal Sanctuary (straddling MP, UP, Rajasthan) is the absolute stronghold for the critically endangered Gharial. Bhitarkanika is famous for the Saltwater Crocodile, not the freshwater Gharial.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Recently there was a proposal to translocate some of the lions from their natural habitat in Gujarat to which one of the following sites?</b>",
+    "options": [
+      "Corbett National Park",
+      "Kuno Palpur Wildlife Sanctuary",
+      "Mudumalai Wildlife Sanctuary",
+      "Sariska National Park"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Kuno Palpur Wildlife Sanctuary</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Conservation Policy Flag:</b> To prevent a single epidemic from wiping out the entire Asiatic Lion population in Gir, the Supreme Court ordered their translocation to a secondary habitat. <b>Kuno Palpur (Madhya Pradesh)</b> was specifically selected and prepared for this purpose (and later famously used for Cheetah introduction).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>In which of the following regions of India are you most likely to come across the ‘Great Indian Hornbill’ in its natural habitat?</b>",
+    "options": [
+      "Sand deserts of northwest India",
+      "Higher Himalayas of Jammu and Kashmir",
+      "Salt marshes of western Gujarat",
+      "Western Ghats"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Western Ghats</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Forest Canopy Dependency:</b> The Great Indian Hornbill is a large, frugivorous bird that requires massive, old-growth emergent trees with large hollows for nesting. These conditions exist purely in deep tropical evergreen forests like the <b>Western Ghats</b> and the Northeast, not in deserts, salt marshes, or high-altitude alpine zones.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Consider the following :</b><br><br>1. Star tortoise<br>2. Monitor lizard<br>3. Pygmy hog<br>4. Spider monkey<br><br><b>Which of the above are naturally found in India?</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 3 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Exotic Species Elimination Trap:</b> Statement 4 is the trap. Spider monkeys are New World monkeys endemic to the tropical rainforests of Central and South America; they are absolutely not found naturally in India. Star tortoise, monitor lizard, and the critically endangered pygmy hog (Assam) are native.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>In which of the following states is lion-tailed macaque found in its natural habitat?</b><br><br>1. Tamil Nadu<br>2. Kerala<br>3. Karnataka<br>4. Andhra Pradesh<br><br><b>Select the correct answer using the codes given below.</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "2 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1, 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Endemic Range Limitation:</b> The Lion-tailed Macaque is strictly endemic to the fragmented rainforests of the <b>Western Ghats</b>. Therefore, it is found in Karnataka, Kerala, and Tamil Nadu. The Eastern Ghats of Andhra Pradesh do not hold its required habitat.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Consider the following:</b><br><br>1. Black-necked crane<br>2. Cheetah<br>3. Flying squirrel<br>4. Snow leopard<br><br><b>Which of the above are naturally found in India?</b>",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Extinction Trap:</b> This question was asked before the African cheetah reintroduction. At the time (and legally speaking for 'natural' populations), the Asiatic Cheetah had been declared extinct in India since 1952. The Black-necked crane (Ladakh), Flying squirrel, and Snow leopard are native.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>A sandy and saline area is the natural habitat of an Indian animal species. The animal has no predators in that area, but its existence is threatened due to the destruction of its habitat. Which one of the following could be that animal?</b>",
+    "options": [
+      "Indian wild buffalo",
+      "Indian wild ass",
+      "Indian wild boar",
+      "Indian gazelle"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Indian wild ass</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Habitat Description Profiling:</b> The specific combination of \"sandy and saline area\" perfectly describes the Little Rann of Kutch in Gujarat. This harsh, unique environment is the final global stronghold of the <b>Indian Wild Ass</b> (Ghudkhur).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Species - Peculiar Features & Habitat",
+    "question": "<b>Consider the flowing pairs:</b><br><br><b>Protected area : Well-known for</b><br>1. Bhitarkanika, Orissa : Salt Water Crocodile<br>2. Desert National Park, Rajasthan : Great Indian Bustard<br>3. Eravikulam, Kerala : Hoolak Gibbon<br><br><b>Which of the pairs given above is/are correctly matched?</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Regional Endemism Swap:</b> Pair 3 is a glaring mismatch. Eravikulam National Park (Kerala/Western Ghats) is famous for the Nilgiri Tahr. The Hoolock Gibbon, India's only ape, is strictly endemic to the tropical forests of Northeast India (Assam/Arunachal). Pairs 1 and 2 are perfectly matched flagship species.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
