@@ -1,0 +1,257 @@
+[
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>Biological Oxygen Demand (BOD) is a standard criterion for (2017)</b>",
+    "options": [
+      "Measuring oxygen levels in blood",
+      "Computing oxygen levels in forest ecosystems",
+      "Pollution assay in aquatic ecosystems",
+      "Assessing oxygen levels in high altitude regions"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Pollution assay in aquatic ecosystems</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Misdirection Trap:</b> The examiner uses the word \"Oxygen\" across all options to distract you. BOD is not a measure of absolute oxygen present in the water, blood, or altitude; it is a measure of the amount of dissolved oxygen <i>demanded</i> by aerobic biological organisms to break down organic material (pollution/sewage) present in a given aquatic sample. High BOD indicates high organic pollution.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>Which one of the following is the best description of the term ‘ecosystem’? (2015)</b>",
+    "options": [
+      "A community of organisms interacting with one another",
+      "That part of the Earth which is inhabited by living organisms",
+      "A community of organisms together with the environment in which they live",
+      "The flora and fauna of a geographical area"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: A community of organisms together with the environment in which they live</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Definitional First-Principles:</b> Ecosystem fundamentally equals Biotic components (community of living organisms) interacting seamlessly with Abiotic components (their physical, non-living environment). Option A is incorrect as it only mentions biotic interactions (which describes a 'community', not an ecosystem). Option B describes the 'Biosphere'.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>Which one of the following is the process involved in photosynthesis? (2014)</b>",
+    "options": [
+      "Potential energy is released to form free energy.",
+      "Free energy is converted into potential energy and stored.",
+      "Food is oxidized to release carbon dioxide and water.",
+      "Oxygen is taken, and carbon dioxide and water vapour are given out."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Free energy is converted into potential energy and stored.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Metabolic Inversion Trap:</b> The examiner tests fundamental thermodynamics in biology. In photosynthesis, free kinetic energy (sunlight photons) is captured by chlorophyll and converted into potential energy stored within the chemical bonds of glucose. Options C and D perfectly describe the exact opposite process: Cellular Respiration.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>Which one of the following is the correct sequence of a food chain? (2014)</b>",
+    "options": [
+      "Diatoms-Crustaceans-Herrings",
+      "Crustaceans-Diatoms-Herrings",
+      "Diatoms-Herrings-Crustaceans",
+      "Crustaceans-Herrings-Diatom"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Diatoms-Crustaceans-Herrings</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Trophic Level Identification:</b> You must correctly identify the marine trophic hierarchy. Diatoms are microscopic phytoplankton (Primary Producers). Crustaceans (like krill/copepods) are zooplankton that eat the phytoplankton (Primary Consumers). Herrings are small pelagic fish that eat the crustaceans (Secondary Consumers).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>With reference to food chains in ecosystems, Consider the following statements :</b><br><br>1. A food chain illustrates the order in which a chain of organisms feed upon each other.<br>2. Food chains are found within the populations of a species.<br>3. A food chain illustrates the numbers of each organism which are eaten by others.<br><br><b>Which of the statements given above is/ are correct? (2013)</b>",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Intraspecific Trap:</b> Statement 2 is a fatal trap; a food chain describes feeding relationships <b>between different species</b> (interspecific), not within a single population of the same species (intraspecific cannibalism is an exception, not the rule for defining a food chain). Statement 3 describes an Ecological Pyramid of Numbers, not a food chain.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>Which one of the following is the correct sequence of ecosystems in the order of decreasing productivity? (2013)</b>",
+    "options": [
+      "Oceans, lakes, grasslands, mangroves",
+      "Mangroves, oceans, grasslands, lakes",
+      "Mangroves, grasslands, lakes, oceans",
+      "Oceans, mangroves, lake, grasslands"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Mangroves, grasslands, lakes, oceans</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The 'Per Unit Area' Benchmark:</b> Productivity is measured as Net Primary Productivity (NPP) <i>per unit area</i>. Ecotones like Mangroves/Estuaries are incredibly nutrient-rich and hold the highest productivity per unit area. Open oceans, while contributing massively overall due to their vast size, have extremely low productivity per unit area (they are effectively marine deserts), thus placing them last in the sequence.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>In the grasslands, trees do not replace the grasses as a part of an ecological succession because of (2013)</b>",
+    "options": [
+      "insects and fungi",
+      "limited sunlight and paucity of nutrients",
+      "water limits and fire",
+      "None of the above"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: water limits and fire</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Arrested Succession Principle:</b> Grasslands (like the Savannah or Steppes) are prevented from reaching a climax forest stage primarily due to abiotic limiting factors. The severe limitation of water (preventing deep tree root establishment) and frequent natural fires (which easily kill woody saplings but spare the underground rhizomes of grasses) maintain the grassland ecosystem.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>Which one of the following terms describes not only the physical space occupied by an organism, but also its functional role in the community of organisms? (2013)</b>",
+    "options": [
+      "Ecotone",
+      "Ecological niche",
+      "Habitat",
+      "Home range"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Ecological niche</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Habitat vs. Niche Distinction:</b> A classic ecological definition. A 'Habitat' is merely the organism's 'address' (physical space). The 'Ecological Niche' incorporates its 'address' alongside its 'profession'—how it interacts with the environment, what it eats, when it is active, and its exact functional role in the energy flow of the ecosystem.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>With reference to the food chains in ecosystems, which of the following kinds of organism is/are known as decomposer organism/organisms?</b><br><br>1. Virus<br>2. Fungi<br>3. Bacteria<br><br><b>Select the correct answer using the codes given below. (2013)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Viral Obligate Trap:</b> Viruses are obligate intracellular parasites; they absolutely require a living host cell machinery to replicate and survive. They do not possess the enzymes to break down dead, decaying detritus. Therefore, only bacteria and fungi act as primary decomposers in nutrient cycling.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>Biodiversity forms the basis for human existence in the following ways:</b><br><br>1. Soil formation<br>2. Prevention of soil erosion<br>3. Recycling of waste<br>4. Pollination of crops<br><br><b>Select the correct answer using the code given below: (2011)</b>",
+    "options": [
+      "1, 2, and 3 only",
+      "2, 3, and 4 only",
+      "1 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2, 3 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Ecosystem Services Spectrum:</b> This question tests the Millennium Ecosystem Assessment classifications. Biodiversity actively drives Supporting services (Soil formation), Regulating services (Prevention of erosion via root systems, recycling of waste by decomposers), and Provisioning/Regulating services (Pollination of crops by bees/butterflies). All statements are correct.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>Consider the following:</b><br><br>1. Photosynthesis<br>2. Respiration<br>3. Decay of organic matter<br>4. Volcanic action<br><br><b>Which of the above add carbon dioxide to the carbon cycle on earth? (2011)</b>",
+    "options": [
+      "1 and 4 only",
+      "2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2 ,3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 2, 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Carbon Sink Inverse Trap:</b> The examiner tests whether you know what acts as a source vs. a sink. Photosynthesis (1) is the ultimate biological carbon <i>sink</i>—it actively extracts and removes CO2 from the atmosphere to create glucose. Respiration, decay, and volcanic outgassing are all carbon sources that release CO2 into the cycle.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>Consider the following statements:</b><br><br>1. Biodiversity is normally greater in the lower latitudes as compared to the higher latitudes.<br>2. Along the mountain gradients, biodiversity is normally greater in the lower altitudes as compared to the higher altitudes.<br><br><b>Which of the statements given above is/are correct? (2011)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Both 1 and 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Gradient Principle:</b> A fundamental rule of biogeography. Biodiversity decreases as you move from the Equator (lower latitude) toward the poles (higher latitude) due to decreasing temperature and insolation. Exactly the same environmental harshness applies to mountains: biodiversity is richer at the warmer, hospitable base (lower altitude) and decreases drastically toward the freezing peaks.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>A pesticide which is a chlorinated hydrocarbon is sprayed on a food crop. The food chain is: Food crop - Rat -Snake - Hawk. In this food chain, the highest concentration of the pesticide would accumulate in which one of the following? (2010)</b>",
+    "options": [
+      "Food crop",
+      "Rat",
+      "Snake",
+      "Hawk"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Hawk</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Biomagnification Concept:</b> Chlorinated hydrocarbons (like DDT) are fat-soluble and persistent. They do not get excreted but instead accumulate in the lipid tissues of organisms. Through the process of biomagnification, the concentration of the toxin multiplies at every successive trophic level. Therefore, the apex predator at the top of the food chain (the Hawk) will suffer the highest, most toxic concentration.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>From the point of view of evolution of living organisms, which one of the following is the correct sequence of evolution? (2010)</b>",
+    "options": [
+      "Otter-Tortoise-Shark",
+      "Shark-Tortoise-Otter",
+      "Tortoise-Shark-Otter",
+      "Shark-Otter-Tortoise"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Shark-Tortoise-Otter</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Vertebrate Evolution Sequence:</b> The examiner tests the basic chronological emergence of vertebrate classes in geological history. Life evolved in the oceans first (Pisces: Sharks), then moved to land adapting to terrestrial environments (Reptilia: Tortoise), and finally evolved complex endothermic regulation and live-birth (Mammalia: Otter).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>Sustainable development is described as the development that meets the needs of the present without compromising the ability of future generations to meet their own needs. In this perspective, inherently the concept of sustainable development is intertwined with which of the following concepts? (2010)</b>",
+    "options": [
+      "Social Justice and Empowerment",
+      "Inclusive Growth",
+      "Globalization",
+      "Carrying capacity"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Carrying capacity</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Brundtland Linkage:</b> While 'Social Justice' and 'Inclusive Growth' are socioeconomic goals, the absolute ecological ceiling that dictates whether development is <i>sustainable</i> for future generations is the Earth's \"Carrying Capacity\"—the maximum population and resource extraction that an environment can sustain indefinitely without undergoing systemic degradation.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>Some species of plants are insectivorous. Why? (2010)</b>",
+    "options": [
+      "Their growth in shady and dark places does not allow them to undertake sufficient photosynthesis and thus they depend on insects for nutrition.",
+      "They are adapted to grow in nitrogen deficient soils and thus depend on insects for sufficient nitrogenous nutrition.",
+      "They cannot synthesize certain vitamins themselves and depend on the insects digested by them.",
+      "They have remained in that particular stage of evolution as living fossils a link between autotrophs and heterotrophs."
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: They are adapted to grow in nitrogen deficient soils and thus depend on insects for sufficient nitrogenous nutrition.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Photosynthesis Myth Trap:</b> A classic misconception is that insectivorous plants (like Nepenthes/Pitcher Plant or Venus Flytrap) eat bugs for energy because they cannot photosynthesize (Option A). This is false. They photosynthesize normally for carbon/energy, but they grow in extremely nutrient-poor, waterlogged soils (bogs) where Nitrogen is severely depleted. They digest insects strictly to harvest Nitrogen and Phosphorus.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Ecological Theory",
+    "question": "<b>With reference to the evolution of living organisms, which one of the following sequences is correct ? (2009)</b>",
+    "options": [
+      "Octopus-Dolphin-Shark",
+      "Pangolin-Tortoise-Hawk",
+      "Salamander-Python-Kangaroo",
+      "Frog-Crab-Prawn"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Salamander-Python-Kangaroo</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Taxonomic Chronology Check:</b> Similar to the 2010 question, this tests the evolutionary progression of classes: Amphibians to Reptiles to Mammals. <br>• Salamander = Amphibian.<br>• Python = Reptile.<br>• Kangaroo = Mammal (Marsupial).<br>This perfectly maps to the evolutionary timeline.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
