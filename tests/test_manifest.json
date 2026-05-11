@@ -185,6 +185,8 @@
 ,
 {"name": "Minerals & Resource Geography PYQs", "filename": "Minerals & Resource Geography PYQs.json", "path": "tests/upsc/Minerals & Resource Geography PYQs.json"}
 ,
+{"name": "National Parks & Protected Areas PYQs", "filename": "National Parks & Protected Areas PYQs.json", "path": "tests/upsc/National Parks & Protected Areas PYQs.json"}
+,
 {"name": "Non-Congress Parties & Orgs PYQs", "filename": "Non-Congress Parties & Orgs PYQs.json", "path": "tests/upsc/Non-Congress Parties & Orgs PYQs.json"}
 ,
 {"name": "Parliament PYQs Part 2", "filename": "Parliament PYQs Part 2.json", "path": "tests/upsc/Parliament PYQs Part 2.json"}

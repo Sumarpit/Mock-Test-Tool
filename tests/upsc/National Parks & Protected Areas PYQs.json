@@ -1,0 +1,227 @@
+[
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>Which one among the following pairs of National Parks and locations is *not* correctly matched? (CDS 2026)</b>",
+    "options": [
+      "Ranthambore : Rajasthan",
+      "Gir : Gujarat",
+      "Nandankanan : Odisha",
+      "Keibul Lamjao : Arunachal Pradesh"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Keibul Lamjao : Arunachal Pradesh</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The State-Swap Trap:</b> The examiner deliberately relocates a highly unique national park to a neighboring state. Keibul Lamjao is famously located on Loktak Lake in <b>Manipur</b>, not Arunachal Pradesh. It is the world's only floating national park (Phumdis) and the exclusive habitat of the endangered Sangai deer. <br><b>2026 Calibration:</b> CDS 2026 re-tests Keibul Lamjao, affirming UPSC's obsession with highly specialized, endemic habitats.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>Among the following Tiger Reserves, which one has the largest area under “Critical Tiger Habitat”? (2020)</b>",
+    "options": [
+      "Corbett",
+      "Ranthambore",
+      "Nagarjunsagar-Srisailam",
+      "Sunderbans"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Nagarjunsagar-Srisailam</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Legal Distinction Trap:</b> The examiner tests the specific statutory definition under the Wildlife Protection Act. Candidates often confuse 'Total Area' or 'Tiger Density' (where Corbett ranks highest) with 'Critical Tiger Habitat' (Core Area). Nagarjunsagar-Srisailam in Andhra Pradesh/Telangana possesses the absolute largest demarcated core habitat (over 3,728 sq km).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>Which of the following Protected Areas are located in Cauvery basin? (2020)</b><br><br>1. Nagarhole National Park<br>2. Papikonda National Park<br>3. Sathyamangalam Tiger Reserve<br>4. Wayanad Wildlife Sanctuary<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1, 3 and 4 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Drainage Basin Overlay:</b> UPSC is aggressively merging Protected Areas with River Drainages. Papikonda National Park is the elimination trap; it is located in the <b>Godavari</b> river basin in Andhra Pradesh, nowhere near the Cauvery. Nagarhole (Kabini river), Sathyamangalam (Bhavani river), and Wayanad (Kabini river) all drain into the Cauvery.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>With reference to India’s Desert National Park, which of the following statements are correct? (2020)</b><br><br>1. It is spread over two districts.<br>2. There is no human habitation inside the Park.<br>3. It is one of the natural habitats of Great Indian Bustard.<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Extreme Absolute Trap:</b> Statement 2 uses the extreme framing \"no human habitation.\" In India, completely sterile national parks are exceptionally rare. Desert National Park has over 70 historically inhabited villages inside its boundaries. Statement 1 (Jaisalmer and Barmer districts) and Statement 3 (Great Indian Bustard conservation) are correct.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>Which one of the following National Parks lies completely in the temperate alpine zone? (2019)</b>",
+    "options": [
+      "Manas National Park",
+      "Namdapha National Park",
+      "Neora Valley National Park",
+      "Valley of Flowers National Park"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Valley of Flowers National Park</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Elevational Gradient Trap:</b> The examiner tests climatic zoning. Namdapha and Neora Valley are traps because they span massive altitudinal gradients (from tropical at the base to alpine at the peaks). <b>Valley of Flowers</b> (Uttarakhand) is located entirely at a high altitude (>3300m), placing it strictly and exclusively within the temperate alpine zone.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>Which of the following are in Agasthyamala Biosphere Reserve? (2019)</b>",
+    "options": [
+      "Neyyar, Peppara and Shendurney Wildlife Sanctuaries; and Kalakad Mundanthurai Tiger Reserve",
+      "Mudumalai, Sathyamangalam and Wayanad Wildlife Sanctuaries; and Silent Valley National Park",
+      "Kaundinya, Gundla Brahmeswaram and Papikonda Wildlife Sanctuaries; and Mukurthi National Park",
+      "Kawal and Sri Venkateswara Wildlife Sanctuaries; and Nagarjunasagar-Srisailam Tiger Reserve"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Neyyar, Peppara and Shendurney Wildlife Sanctuaries; and Kalakad Mundanthurai Tiger Reserve</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The BR Composition Roster:</b> You must memorize the exact subsidiary sanctuaries within UNESCO Biosphere Reserves. Option B represents the Nilgiri Biosphere Reserve. Option A correctly lists the components of the Agasthyamala Biosphere Reserve spanning the southern tips of Kerala and Tamil Nadu.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>In which one of the following States is Pakhui Wildlife Sanctuary located? (2018)</b>",
+    "options": [
+      "Arunachal Pradesh",
+      "Manipur",
+      "Meghalaya",
+      "Nagaland"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Arunachal Pradesh</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Nomenclature Trap:</b> Pakhui Wildlife Sanctuary is alternatively and more commonly known as Pakke Tiger Reserve. It is a highly celebrated reserve in the East Kameng district of <b>Arunachal Pradesh</b>, famous for its Hornbill adoption program.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>From the ecological point of view, which one of the following assumes importance in being a good link between the Eastern Ghats and the Western Ghats? (2017)</b>",
+    "options": [
+      "Sathyamangalam Tiger Reserve",
+      "Nallamala Forest",
+      "Nagarhole National Park",
+      "Seshachalam Biosphere Reserve"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Sathyamangalam Tiger Reserve</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Ecotone/Corridor Identifier:</b> The examiner tests spatial ecology. Sathyamangalam Tiger Reserve (Tamil Nadu) acts as a crucial genetic corridor bridging the Eastern Ghats and the Western Ghats, functioning within the larger Nilgiri Biosphere Reserve network.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>Which of the following National Parks is unique in being a swamp with floating vegetation that supports a rich biodiversity? (2015)</b>",
+    "options": [
+      "Bhitarkanika National Park",
+      "Keibul Lamjao National Park",
+      "Keoladeo Ghana National Park",
+      "Sultanpur National Park"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Keibul Lamjao National Park</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Endemic Habitat Keyword:</b> The phrase \"swamp with floating vegetation\" is an absolute lock for 'Phumdis' on Loktak Lake. This exclusively points to Keibul Lamjao National Park (Manipur), the only floating national park in the world and the last refuge of the Sangai.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>Which one of the following National Parks has a climate that varies from tropical to subtropical, temperate and arctic? (2015)</b>",
+    "options": [
+      "Khangchendzonga National Park",
+      "Nandadevi National Park",
+      "Neora Valley National Park",
+      "Namdapha National Park"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Namdapha National Park</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Extreme Altitudinal Gradient:</b> Namdapha National Park in Arunachal Pradesh boasts a massive altitudinal variation from roughly 200 meters to 4,500 meters. This sheer vertical rise allows it to uniquely host tropical rainforests at the bottom and permanent arctic snow at the top, sheltering four distinct feline species (Tiger, Leopard, Snow Leopard, Clouded Leopard).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>Consider the following pairs: (2014)</b><br><br>1. Dampa Tiger Reserve : Mizoram<br>2. Gumti Wildlife Sanctuary : Sikkim<br>3. Saramati Peak : Nagaland<br><br><b>Which of the pairs given above is/are correctly matched?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3 only"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The North-East Regional Swap Trap:</b> The examiner tests niche northeastern geography. Pair 1 (Dampa in Mizoram) and Pair 3 (Saramati, the highest peak in Nagaland) are correct. Pair 2 is the trap: Gumti Wildlife Sanctuary is located in <b>Tripura</b>, not Sikkim.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>Consider the following pairs: (2013)</b><br><br>1. Nokrek Biosphere Reserve : Garo Hills<br>2. Logtak (Loktak) Lake : Barail Range<br>3. Namdapha National Park : Dafla Hills<br><br><b>Which of the above pairs is/are correctly matched?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Orogenic Mapping Trap:</b><br>• <b>Pair 1 is correct:</b> Nokrek is the highest peak in the Garo Hills of Meghalaya.<br>• <b>Pair 2 is incorrect:</b> Loktak Lake is located in the Manipur valley, far from the Barail Range (which is in Assam).<br>• <b>Pair 3 is incorrect:</b> Namdapha is in the Patkai/Mishmi hills region of eastern Arunachal, whereas Dafla Hills are in western Arunachal.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>Consider the following pairs : (2013)</b><br><br><b>National Park : River flowing through the Park</b><br>1. Corbett National Park : Ganga<br>2. Kaziranga National Park : Manas<br>3. Silent Valley National Park : Kaveri<br><br><b>Which of the above pairs is/are correctly matched?</b>",
+    "options": [
+      "1 and 2",
+      "3 only",
+      "1 and 3",
+      "None"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: None</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Hydrological Mismatch Matrix:</b> Every single pair is falsified.<br>• <b>Corbett</b> is drained by the Ramganga (a tributary), not the main Ganga river.<br>• <b>Kaziranga</b> is bordered by the Brahmaputra, Diphlu, and Mora Dhansiri. The Manas river flows through Manas NP, not Kaziranga.<br>• <b>Silent Valley</b> is drained by the Kunthipuzha river (a tributary of Bharathappuzha), not the Kaveri.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>Consider the following protected areas: (2012)</b><br><br>1. Bandipur<br>2. Bhitarkanika<br>3. Manas<br>4. Sunderbans<br><br><b>Which of the above are declared Tiger Reserves?</b>",
+    "options": [
+      "1 and 2 Only",
+      "1, 3 and 4 Only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 1, 3 and 4 Only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Apex Predator Elimination:</b> The examiner tests specific NTCA designations. Bandipur, Manas, and Sunderbans are historically foundational Tiger Reserves. Bhitarkanika (Odisha) is a prime estuarine mangrove habitat heavily protected for Saltwater Crocodiles and Olive Ridley turtles, but it is <b>not</b> a designated Tiger Reserve.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "National Parks & Protected Areas",
+    "question": "<b>Consider the following statements: (2010)</b><br><br>1. The boundaries of a National Park are defined by legislation.<br>2. A Biosphere Reserve is declared to conserve a few specific species of flora and fauna.<br>3. In a Wildlife Sanctuary, limited biotic interference is permitted.<br><br><b>Which of the statements given above is / are correct?</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: 1 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Conservation Framework Trap:</b> Statement 1 is correct (boundaries are fixed by state legislation under the WPA 1972). Statement 3 is correct (grazing and timber extraction can be permitted by the Chief Wildlife Warden in a WLS). Statement 2 is the trap: Biosphere Reserves are designed to conserve <b>entire ecosystems</b> (landscape-level conservation), not just a \"few specific species\" (which is closer to the concept of a conservation reserve or a specific project).",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
