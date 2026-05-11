@@ -1,0 +1,227 @@
+[
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>Which one of the following has been constituted under the Environment (Protection) Act, 1986? (2022)</b>",
+    "options": [
+      "Central Water Commission",
+      "Central Ground Water Board",
+      "Central Ground Water Authority",
+      "National Water Development Agency"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Central Ground Water Authority</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Statutory Body Origin Trap:</b> Candidates often confuse the origins of various water and environment bodies. The Central Ground Water Authority (CGWA) was specifically constituted under Section 3(3) of the Environment (Protection) Act, 1986 to regulate and control the development and management of groundwater resources in the country.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>At the national level, which ministry is the nodal agency to ensure effective implementation of the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006? (2021)</b>",
+    "options": [
+      "Ministry of Environment, Forest and Climate Change",
+      "Ministry of Panchayati Raj",
+      "Ministry of Rural Development",
+      "Ministry of Tribal Affairs"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Ministry of Tribal Affairs</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Nodal Ministry Trap:</b> Because the Act contains the word \"Forest\", candidates intuitively guess the Ministry of Environment, Forest and Climate Change (MoEFCC). However, the FRA 2006 is a social justice and rights-based legislation; thus, the nodal agency is the <b>Ministry of Tribal Affairs</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>Consider the following statements :</b><br><br>1. 36% of India’s districts are classified as “overexploited” or “critical” by the Central Ground Water Authority (CGWA).<br>2. CGWA was formed under the Environment (Protection) Act.<br>3. India has the largest area under groundwater irrigation in the world.<br><br><b>Which of the statements given above is/ are correct? (2020)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "2 only",
+      "1 and 3 only"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Data Exaggeration Trap:</b> <br>• <b>Statement 1 is incorrect:</b> The examiner inflated the data. As per the groundwater assessment, a smaller percentage (around 15-20%) of units were classified as overexploited/critical, not 36%.<br>• <b>Statements 2 & 3 are correct:</b> CGWA derives its power from the EPA 1986, and India indeed extracts the most groundwater globally, surpassing both China and the USA combined.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>If a particular plant species is placed under Schedule VI of The Wildlife Protection Act, 1972, what is the implication? (2020)</b>",
+    "options": [
+      "A licence is required to cultivate that plant.",
+      "Such a plant cannot be cultivated under any circumstances.",
+      "It is a Genetically Modified crop plant.",
+      "Such a plant is invasive and harmful to the ecosystem."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: A licence is required to cultivate that plant.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Absolute Prohibition Trap:</b> Schedule VI of the WPA 1972 lists protected plant species (like Red Vanda, Blue Vanda, Pitcher plant). Option B suggests it \"cannot be cultivated under any circumstances\", which is an extreme absolute trap. It CAN be cultivated, but it strictly requires prior permission/license from the Chief Wildlife Warden.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>Consider the following statements:</b><br><br>The Environment Protection Act, 1986 empowers the Government of India to<br>1. state the requirement of public participation in the process of environmental protection, and the procedure and manner in which it is sought<br>2. lay down the standards for emission or discharge of environmental pollutants from various sources<br><br><b>Which of the statements given above is/ are correct? (2019)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The EIA Confusion Trap:</b> Statement 1 is incorrect because the bare act of the EPA 1986 does <b>not</b> explicitly state the requirement of public participation. (Public hearing is a feature of the EIA Notification rules derived later, not a statutory mandate in the principal Act itself). Statement 2 is the core statutory power granted to the Central Government under Section 3 of the EPA.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>Consider the following statements</b><br><br>1. As per law, the Compensatory Afforestation Fund Management and Planning Authority exists at both National and State levels.<br>2. People’s participation is mandatory in the compensatory afforestation programmes carried out under the Compensatory Afforestation Fund Act, 2016.<br><br><b>Which of the statements given above is / are correct? (2019)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Mandatory Participation Trap:</b> Statement 1 is correct; CAMPA is structured at both the National and State levels to manage funds collected for forest land diversion. Statement 2 is incorrect; the CAF Act, 2016 faced heavy criticism from civil society precisely because it does <b>not</b> make the participation of local people (Gram Sabhas) mandatory in compensatory afforestation programmes.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>Consider the following statements:</b><br><br>1. As per recent amendment to the Indian Forest Act, 1927, forest dwellers have the right to fell the bamboos grown on forest areas.<br>2. As per the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, bamboo is a minor forest produce.<br>3. The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 allows ownership of minor forest produce to forest dwellers.<br><br><b>Which of the statements given above is / are correct? (2019)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geography Specificity Trap:</b> Statement 1 is false. The 2017 amendment to the IFA 1927 omitted bamboo from the definition of \"tree\" <b>only in non-forest areas</b>, allowing farmers to fell it without transit permits. In forest areas, it remains classified as a tree. Statements 2 and 3 correctly highlight the Forest Rights Act (FRA), which explicitly recognizes bamboo as a Minor Forest Produce (MFP) and grants ownership rights to traditional dwellers.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>How is the National Green Tribunal (NGT) different from the Central Pollution Control Board (CPCB)?</b><br><br>1. The NGT has been established by an Act whereas the CPCB has been created by an executive order of the Government.<br>2. The NGT provides environmental justice and helps reduce the burden of litigation in the higher courts whereas the CPCB promotes cleanliness of streams and wells, and aims to improve the quality of air in the country.<br><br><b>Which of the statements given above is/ are correct? (2018)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Executive vs. Statutory Trap:</b> Statement 1 is incorrect because CPCB was NOT created by an executive order; it is a statutory organisation constituted under the Water (Prevention and Control of Pollution) Act, 1974. Statement 2 correctly contrasts their functional mandates: NGT is a quasi-judicial body for environmental disputes, while CPCB is the scientific/regulatory board for air and water quality.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>Consider the following statements :</b><br><br>1. The definition of “Critical Wildlife Habitat” is incorporated in the Forest Rights Act, 2006.<br>2. For the first time in India, Baigas have been given Habitat Rights.<br>3. Union Ministry of Environment, Forest and Climate Change officially decides and declares Habitat Rights for Primitive and Vulnerable Tribal Groups in any part of India.<br><br><b>Which of the statements given above is/ are correct? (2018)</b>",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: 1 and 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Legal Definition & Ministry Mismatch:</b> <br>• <b>Statement 1 is correct:</b> \"Critical Wildlife Habitat\" is legally defined specifically under the FRA 2006 (distinct from \"Critical Tiger Habitat\" under WPA).<br>• <b>Statement 2 is correct:</b> Baiga tribals (a PVTG) in Madhya Pradesh were the first to get habitat rights.<br>• <b>Statement 3 is incorrect:</b> The declaration of Habitat Rights is done by the District Level Committee/State government under the nodal Ministry of Tribal Affairs (MoTA), not MoEFCC.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>In India, if a species of tortoise is declared protected under Schedule I of the Wildlife (Protection) Act, 1972, what does it imply ? (2017)</b>",
+    "options": [
+      "It enjoys the same level of protection as the tiger.",
+      "It no longer exists in the wild, a few individuals are under captive protection; and how it is impossible to prevent its extinction.",
+      "It is endemic to a particular region of India.",
+      "Both (b) and (c) stated above are correct in this context."
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: It enjoys the same level of protection as the tiger.</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Schedule Priority Logic:</b> The Wildlife Protection Act, 1972 (prior to the 2022 amendment) categorized species into 6 schedules. Schedule I offers absolute protection and carries the highest penalties for offenses. Since the Tiger is the classic flagship species of Schedule I, declaring a tortoise under the same schedule means they legally share the exact same highest degree of protection.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>According to the Wildlife (Protection) Act, 1972, which of the following animals cannot be hunted by any person except under some provisions provided by law?</b><br><br>1. Gharial<br>2. Indian wild ass<br>3. Wild buffalo<br><br><b>Select the correct answer using the code given below: (2017)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 1, 2 and 3</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Schedule I Roster:</b> The examiner tests your knowledge of high-profile endangered species. Gharial, Indian Wild Ass, and Wild Buffalo are all critically protected under Schedule I of the WPA 1972. Thus, none of them can be hunted except under extreme conditions (like becoming a man-eater or diseased beyond recovery, authorized by the Chief Wildlife Warden).",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>The Genetic Engineering Appraisal Committee is constituted under the (2015)</b>",
+    "options": [
+      "Food Safety and Standards Act, 2006",
+      "Geographical Indications of Goods (Registration and Protection) Act, 1999",
+      "Environment (Protection) Act, 1986",
+      "Wildlife (Protection) Act, 1972"
+    ],
+    "answer": 2,
+    "explanation": "<b>Correct Answer: Environment (Protection) Act, 1986</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Statutory Origin Trap:</b> GM crops involve \"genetic engineering,\" leading candidates to guess Food Safety or Science & Tech laws. However, the GEAC is a statutory body constituted under the Rules for the Manufacture, Use, Import, Export, and Storage of Hazardous Microorganisms/Genetically Engineered Organisms or Cells, 1989, which were framed directly under the <b>Environment (Protection) Act, 1986</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>With reference to ‘Eco-Sensitive Zones’, which of the following statements is/are correct?</b><br><br>1. Eco-Sensitive Zones are the areas that are declared under the Wildlife (Protection) Act, 1972.<br>2. The purpose of the declaration of Eco-Sensitive Zones is to prohibit all kinds of human activities in those zones except agriculture.<br><br><b>Select the correct answer using the code given below. (2014)</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Neither 1 nor 2</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Act Swap and Absolute Prohibitions:</b><br>• <b>Statement 1 is incorrect:</b> The Wildlife Protection Act does NOT mention \"Eco-Sensitive Zones\". ESZs are notified by the MoEFCC under the <b>Environment (Protection) Act, 1986</b> to act as shock absorbers around Protected Areas.<br>• <b>Statement 2 is incorrect:</b> The phrase \"prohibit all kinds of human activities... except agriculture\" is a massive absolute trap. ESZs regulate rather than prohibit everything; activities like rainwater harvesting, organic farming, and cottage industries are actively permitted/promoted.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>Consider the following statements:</b><br><br>1. Animal Welfare Board of India is established under the Environment (Protection) Act, 1986.<br>2. National Tiger Conservation Authority is a statutory body.<br>3. National Ganga River Basin Authority is chaired by the Prime Minister.<br><br><b>Which of the statements given above is/ are correct? (2014)</b>",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 and 3 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Legislative Framework Test:</b><br>• <b>Statement 1 is incorrect:</b> The Animal Welfare Board of India (AWBI) is a statutory advisory body established under the <b>Prevention of Cruelty to Animals Act, 1960</b>, not the EPA 1986.<br>• <b>Statement 2 is correct:</b> NTCA is a statutory body under the Wildlife (Protection) Act, 1972 (amended in 2006).<br>• <b>Statement 3 is correct:</b> NGRBA (now replaced by the National Ganga Council) was established under EPA 1986 and is ex-officio chaired by the Prime Minister.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Environment",
+    "topic": "Environmental Acts",
+    "question": "<b>Under the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, who shall be the authority to initiate the process for determining the nature and extent of individual or community forest rights or both? (2013)</b>",
+    "options": [
+      "State Forest Department",
+      "Distrit Collector/Deputy Commissioner",
+      "Tahsildar/Block Develoment Officer/ Mandal Revenue Officer",
+      "Gram Sabha"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: Gram Sabha</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Grassroots Decentralization Logic:</b> The core philosophy of the Forest Rights Act (FRA), 2006 is to undo historical injustice by decentralizing power. Therefore, the lowest tier of democracy, the <b>Gram Sabha</b>, is the sole statutory authority empowered to initiate the process of determining the nature and extent of Individual Forest Rights (IFR) or Community Forest Rights (CFR). It is not the bureaucracy or the forest department.",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]

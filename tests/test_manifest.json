@@ -157,6 +157,8 @@
 ,
 {"name": "Env CA Species Part 2", "filename": "Env CA Species Part 2.json", "path": "tests/upsc/Env CA Species Part 2.json"}
 ,
+{"name": "Environmental Acts PYQs", "filename": "Environmental Acts PYQs.json", "path": "tests/upsc/Environmental Acts PYQs.json"}
+,
 {"name": "FR FD DPSP", "filename": "FR FD DPSP.json", "path": "tests/upsc/FR FD DPSP.json"}
 ,
 {"name": "Fiscal Policy&Budget", "filename": "Fiscal Policy&Budget.json", "path": "tests/upsc/Fiscal Policy&Budget.json"}
