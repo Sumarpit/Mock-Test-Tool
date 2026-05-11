@@ -173,6 +173,8 @@
 ,
 {"name": "Ind Geo+Env", "filename": "Ind Geo+Env.json", "path": "tests/upsc/Ind Geo+Env.json"}
 ,
+{"name": "Indian River Systems PYQs", "filename": "Indian River Systems PYQs.json", "path": "tests/upsc/Indian River Systems PYQs.json"}
+,
 {"name": "International Funding Agencies PYQs", "filename": "International Funding Agencies PYQs.json", "path": "tests/upsc/International Funding Agencies PYQs.json"}
 ,
 {"name": "International Org & Treaties - Economy PYQs", "filename": "International Org & Treaties - Economy PYQs.json", "path": "tests/upsc/International Org & Treaties - Economy PYQs.json"}
