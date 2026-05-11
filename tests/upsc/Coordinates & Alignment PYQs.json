@@ -1,0 +1,107 @@
+[
+  {
+    "section": "Geography",
+    "topic": "Coordinates & Alignment",
+    "question": "<b>On June 21 every year, which of the following latitude(s) experience a sunlight of more than 12 hours? (2024)</b><br><br>1. Equator<br>2. Tropic of Cancer<br>3. Tropic of Capricorn<br>4. Arctic Circle<br><br><b>Select the correct answer using the code given below:</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "3 and 4",
+      "2 and 4"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: 2 and 4</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Equator Absolute Trap:</b> The Equator experiences exactly 12 hours of day and 12 hours of night year-round; not *more* than 12 hours. This immediately eliminates statement 1.<br><b>The Solstice Alignment:</b> On June 21 (Summer Solstice), the Northern Hemisphere is tilted maximally towards the Sun. The Tropic of Cancer receives direct vertical rays (experiencing its longest day of the year, $>12$ hours), and the Arctic Circle experiences 24 hours of continuous daylight (Midnight Sun). Conversely, the Southern Hemisphere (Tropic of Capricorn) is in winter solstice, experiencing less than 12 hours of daylight.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Coordinates & Alignment",
+    "question": "<b>In the northern hemisphere, the longest day of the year normally occurs in the: (2022)</b>",
+    "options": [
+      "First half of the month of June",
+      "Second half of the month of June",
+      "First half of the month of July",
+      "Second half of the month of July"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: Second half of the month of June</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Specific Timeline Check:</b> The examiner avoids giving the exact date to test your applied knowledge of orbital mechanics. The longest day in the Northern Hemisphere is the Summer Solstice, which invariably falls on June 21st (and occasionally June 20th or 22nd depending on the leap year cycle). This mathematically places it strictly in the <b>second half of June</b>.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Coordinates & Alignment",
+    "question": "<b>On 21st June, the Sun (2019)</b>",
+    "options": [
+      "does not set below the horizon at the Arctic Circle",
+      "does not set below the horizon at Antarctic Circle",
+      "shines vertically overhead at noon on the Equator",
+      "shines vertically overhead at the Tropic of Capricorn"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: does not set below the horizon at the Arctic Circle</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Orbital Mechanics Baseline:</b> June 21 marks the Summer Solstice for the Northern Hemisphere. The North Pole is tilted maximally ($23.5^\\circ$) towards the sun. As a direct result, all regions north of the Arctic Circle ($66.5^\\circ$ N) experience 24 hours of continuous daylight (the sun literally does not set below the horizon). The sun shines vertically overhead at the Tropic of Cancer, ruling out the Equator and Tropic of Capricorn.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Coordinates & Alignment",
+    "question": "<b>Among the following cities, which one lies on a longitude closest to that of Delhi? (2018)</b>",
+    "options": [
+      "Bengaluru",
+      "Hyderabad",
+      "Nagpur",
+      "Pune"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Bengaluru</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Spatial Visualization Test:</b> UPSC frequently tests your mental map of India's longitudinal and latitudinal alignments. Delhi is located at roughly $77.1^\\circ$ E longitude. If you drop a vertical alignment line straight down the map, it passes extremely close to Bengaluru (located at roughly $77.5^\\circ$ E). Hyderabad, Nagpur, and Pune are all situated distinctly further east or west of this specific meridian axis.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Coordinates & Alignment",
+    "question": "<b>Variations in the length of daytime and nighttime from season to season are due to (2013)</b>",
+    "options": [
+      "the earth’s rotation on its axis",
+      "the earth’s revolution round the sun in an elliptical manner",
+      "latitudinal position of the place",
+      "revolution of the earth on a tilted axis"
+    ],
+    "answer": 3,
+    "explanation": "<b>Correct Answer: revolution of the earth on a tilted axis</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Multi-Factor Dependency Trap:</b> The examiner provides partially correct astronomical phenomena. Rotation causes the basic day/night cycle. Revolution in an elliptical orbit causes slight variations in solar intensity. However, the *seasonal variation* in the actual *length* of day and night is exclusively the combined result of the Earth's <b>revolution around the Sun while maintaining a constant axial tilt ($23.5^\\circ$)</b>. Without the tilt, every day would be exactly 12 hours everywhere.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Coordinates & Alignment",
+    "question": "<b>Between India and East Asia, the navigation time and distance can be greatly reduced by which of the following? (2011)</b><br><br>1. Deepening the Malacca straits between Malaysia and Indonesia.<br>2. Opening a new canal across the Kra-isthmus between the Gulf of Siam and Andaman Sea.<br><br><b>Select the correct answer using the code given below.</b>",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "explanation": "<b>Correct Answer: 2 only</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Geographic & Engineering Trap:</b> Deepening the Strait of Malacca (Statement 1) would only allow larger draft vessels (like ultra-large crude carriers) to pass through; it does absolutely nothing to alter the geographic coordinates or reduce the actual physical navigation distance. However, cutting a brand-new shipping canal across the Kra Isthmus in Thailand (Statement 2) would provide a direct maritime shortcut from the Andaman Sea to the Gulf of Thailand, bypassing the lengthy detour around the Malay Peninsula entirely.",
+    "marks": 2.0,
+    "negative": 0.66
+  },
+  {
+    "section": "Geography",
+    "topic": "Coordinates & Alignment",
+    "question": "<b>The latitudes that pass through Sikkim also pass through (2010)</b>",
+    "options": [
+      "Rajasthan",
+      "Punjab",
+      "Himachal Pradesh",
+      "Jammu & Kashmir"
+    ],
+    "answer": 0,
+    "explanation": "<b>Correct Answer: Rajasthan</b><br><br><b>UPSC Mentor Clinical Analysis & Traps:</b><br><b>The Horizontal Slicing Technique:</b> The examiner tests your mental alignment of states. Sikkim is sandwiched between Nepal and Bhutan at approximately $27^\\circ$ to $28^\\circ$ N latitude. Drawing a straight horizontal coordinate line westward across the map of India at this latitude clearly bypasses the northern states of Punjab, Himachal Pradesh, and J&K, intersecting directly through the northern half of Rajasthan (e.g., Alwar/Jaipur region).",
+    "marks": 2.0,
+    "negative": 0.66
+  }
+]
