@@ -412,6 +412,7 @@
                     <button class="split-btn-main" onclick="downloadReport('md')">💾 Save Report (MD)</button>
                     <button class="split-btn-arrow" onclick="toggleReportMenu(event)">▼</button>
                     <div class="dropdown-menu" id="report-menu">
+                        <div class="dropdown-item" onclick="downloadReport('md')">Markdown <span>(.md)</span></div>
                         <div class="dropdown-item" onclick="downloadReport('html')">HTML <span>(.html)</span></div>
                         <div class="dropdown-item" onclick="downloadReport('pdf')">PDF <span>(.pdf)</span></div>
                         <div class="dropdown-item" onclick="downloadCSV()">CSV Data <span>(.csv)</span></div>
@@ -693,13 +694,47 @@
 
     function openPasteModal() { document.getElementById('pasteModal').style.display='flex'; }
     function closePasteModal() { document.getElementById('pasteModal').style.display='none'; }
+    
     async function saveAndSync() {
         const name = document.getElementById('pasteFileName').value.trim();
         const content = document.getElementById('pasteContent').value.trim();
         if(!name || !content) return;
+        
         try {
-            const parsed = JSON.parse(content);
-            const fname = name.endsWith('.json')?name:name+'.json';
+            let parsed;
+            
+            // Check if it looks like JSON
+            if (content.startsWith('[') || content.startsWith('{')) {
+                parsed = JSON.parse(content);
+            } else {
+                // If not JSON, assume TSV (Tab-Separated Values)
+                const lines = content.split('\n');
+                parsed = [];
+                // Skip header row if it exists (checks if first cell is 'Section' or 'section')
+                const startIdx = lines[0].toLowerCase().startsWith('section') ? 1 : 0;
+                
+                for (let i = startIdx; i < lines.length; i++) {
+                    const row = lines[i].trim();
+                    if (!row) continue;
+                    
+                    // Split by Tab character
+                    const cols = row.split('\t'); 
+                    if (cols.length < 9) continue; // Skip malformed rows
+                    
+                    parsed.push({
+                        section: cols[0],
+                        topic: cols[1],
+                        question: cols[2],
+                        options: [cols[3], cols[4], cols[5], cols[6]],
+                        answer: parseInt(cols[7]),
+                        explanation: cols[8],
+                        marks: cols[9] ? parseFloat(cols[9]) : undefined,
+                        negative: cols[10] ? parseFloat(cols[10]) : undefined
+                    });
+                }
+            }
+
+            const fname = name.endsWith('.json') ? name : name + '.json';
             
             library[fname] = parsed; saveLibraryToStorage();
             activeFile = fname; renderGrid();
@@ -708,7 +743,7 @@
             document.getElementById('start-btn').innerText='START';
             document.getElementById('start-btn').disabled=false;
             
-            await navigator.clipboard.writeText(content);
+            await navigator.clipboard.writeText(JSON.stringify(parsed));
             
             const profileFolder = EXAM_PROFILES[currentProfile].folder || 'tests/general'; 
             const subDir = profileFolder.replace(/^tests\//, ''); 
@@ -716,7 +751,9 @@
 
             window.open(`https://github.com/${REPO_OWNER}/${REPO_NAME}/issues/new?title=${encodeURIComponent(gitHubTitle)}&labels=new-test`, '_blank');
             closePasteModal();
-        } catch(e){ alert("Invalid JSON: " + e); }
+        } catch(e){ 
+            alert("Parsing Error. Ensure format is valid JSON or Tab-Separated Text.\n" + e); 
+        }
     }
 
     function loadFiles(files) {
@@ -742,6 +779,20 @@
             rawList = inputData;
         } else {
             return [];
+        }
+
+        // --- NEW ARRAY OF ARRAYS LOGIC ---
+        if (rawList.length > 0 && Array.isArray(rawList[0])) {
+            rawList = rawList.map(row => ({
+                section: row[0] || 'General',
+                topic: row[1] || 'General',
+                question: row[2] || '',
+                options: [row[3], row[4], row[5], row[6]].filter(o => o !== undefined),
+                answer: parseInt(row[7]) || 0,
+                explanation: row[8] || '',
+                marks: row[9] ? parseFloat(row[9]) : undefined,
+                negative: row[10] ? parseFloat(row[10]) : undefined
+            }));
         }
 
         if (rawList.length === 0) return [];
