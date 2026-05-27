@@ -105,6 +105,8 @@
 ,
 {"name": "Standard Costing", "filename": "Standard Costing.json", "path": "tests/sebi/p2/Standard Costing.json"}
 ,
+{"name": "Quant 5", "filename": "Quant 5.json", "path": "tests/ssc/Quant 5.json"}
+,
 {"name": "dummy", "filename": "dummy.json", "path": "tests/ssc/dummy.json"}
 ,
 {"name": "1773-1947", "filename": "1773-1947.json", "path": "tests/upsc/1773-1947.json"}
