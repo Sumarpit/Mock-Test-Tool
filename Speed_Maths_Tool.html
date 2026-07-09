@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speed Math & Reasoning Trainer v8</title>
+    <style>
+        :root {
+            --bg-color: #f9f9f9;
+            --text-color: #333;
+            --primary: #2c3e50;
+            --accent: #3498db;
+            --success: #27ae60;
+            --danger: #e74c3c;
+            --warning: #f39c12;
+            --timer-bg: #ecf0f1;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 420px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        h2 { margin-top: 0; color: var(--primary); font-size: 22px; }
+        
+        .timer-container {
+            width: 100%;
+            height: 6px;
+            background-color: var(--timer-bg);
+            margin-top: 10px;
+            border-radius: 3px;
+            overflow: hidden;
+        }
+        .timer-bar {
+            height: 100%;
+            width: 100%;
+            background-color: var(--danger);
+            transform-origin: left;
+        }
+        .timer-active {
+            animation: shrink 4s linear forwards;
+        }
+        .timer-paused {
+            background-color: var(--warning);
+            transform: scaleX(1);
+            animation: none;
+        }
+        @keyframes shrink {
+            from { transform: scaleX(1); }
+            to { transform: scaleX(0); }
+        }
+
+        select, input, button {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+        .question { 
+            font-size: 24px; 
+            font-weight: bold; 
+            margin: 20px 0; 
+            white-space: pre-line; 
+        }
+        .feedback { font-weight: bold; height: 24px; margin-top: 10px; }
+        .correct { color: var(--success); }
+        .incorrect { color: var(--danger); }
+        .paused-text { color: var(--warning); }
+        .stats {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 14px;
+            color: #666;
+            margin-top: 20px;
+            border-top: 1px solid #eee;
+            padding-top: 10px;
+        }
+        .pool-badge {
+            font-size: 11px;
+            background: #e67e22;
+            color: white;
+            padding: 2px 6px;
+            border-radius: 10px;
+            display: inline-block;
+            margin-top: -5px;
+            margin-bottom: 10px;
+        }
+        .hint {
+            font-size: 12px;
+            color: #7f8c8d;
+            margin-top: -10px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>CGL Core + Reasoning</h2>
+    
+    <select id="modeSelect" onchange="resetAndStart()">
+        <optgroup label="Quantitative Aptitude">
+            <option value="tables">Tables (2-25 full, 26-30 up to ×5)</option>
+            <option value="squares">Squares (1 to 40)</option>
+            <option value="cubes">Cubes (1 to 21)</option>
+            <option value="powers">Exam Powers (2, 3, 4, 5, 6)</option>
+            <option value="arithmetic">3-Digit Operations (Exam Level)</option>
+            <option value="fractions">Percentage vs Fractions</option>
+            <option value="triplets">Pythagorean Triplets</option>
+            <option value="roots">Surds / Square Roots (2 Decimals)</option>
+        </optgroup>
+        <optgroup label="General Intelligence & Reasoning">
+            <option value="alpha">Alphabet (Positions & Pairs)</option>
+            <option value="primes">Prime Numbers (1-100 check)</option>
+            <option value="calendar">Calendar Codes</option>
+        </optgroup>
+    </select>
+
+    <div id="poolContainer" style="height: 20px;">
+        <span id="poolBadge" class="pool-badge" style="display: none;">Friction Loop Active</span>
+    </div>
+
+    <div class="timer-container">
+        <div id="timerBar" class="timer-bar"></div>
+    </div>
+
+    <div class="question" id="questionText">Initializing...</div>
+    <div class="hint">[Spacebar to Pause/Resume]</div>
+    
+    <input type="text" id="answerInput" placeholder="Type answer..." oninput="checkAnswerLive()" autocomplete="off">
+
+    <div class="feedback" id="feedbackText"></div>
+
+    <div class="stats">
+        <span id="scoreText">Score: 0 / 0</span>
+        <button onclick="resetStats()" style="width: auto; padding: 4px 8px; margin: 0; font-size: 12px; background: #95a5a6; color: white; border: none; border-radius: 4px; cursor: pointer;">Reset Stats</button>
+    </div>
+</div>
+
+<script>
+    let currentAnswer = "";
+    let attempts = 0;
+    let correct = 0;
+    let timeoutId = null;
+    let isTransitioning = false;
+    let isPaused = false;
+    
+    // Spaced Repetition State
+    let frictionPool = []; 
+    let activeQuestionSource = "random"; 
+    let activePoolIndex = null;
+    let currentConfig = null; 
+
+    // Data Sets
+    const sscFractions = [
+        { pct: "33.33%", eq: "1 / x", ans: "3" }, { pct: "25%", eq: "1 / x", ans: "4" },
+        { pct: "20%", eq: "1 / x", ans: "5" }, { pct: "16.66%", eq: "1 / x", ans: "6" },
+        { pct: "14.28%", eq: "1 / x", ans: "7" }, { pct: "12.5%", eq: "1 / x", ans: "8" },
+        { pct: "11.11%", eq: "1 / x", ans: "9" }, { pct: "9.09%", eq: "1 / x", ans: "11" },
+        { pct: "8.33%", eq: "1 / x", ans: "12" }, { pct: "7.69%", eq: "1 / x", ans: "13" },
+        { pct: "7.14%", eq: "1 / x", ans: "14" }, { pct: "6.66%", eq: "1 / x", ans: "15" },
+        { pct: "6.25%", eq: "1 / x", ans: "16" }, { pct: "5%", eq: "1 / x", ans: "20" },
+        { pct: "66.66%", eq: "x / 3", ans: "2" }, { pct: "75%", eq: "x / 4", ans: "3" },
+        { pct: "40%", eq: "x / 5", ans: "2" }, { pct: "60%", eq: "x / 5", ans: "3" },
+        { pct: "80%", eq: "x / 5", ans: "4" }, { pct: "83.33%", eq: "x / 6", ans: "5" },
+        { pct: "37.5%", eq: "x / 8", ans: "3" }, { pct: "62.5%", eq: "x / 8", ans: "5" },
+        { pct: "87.5%", eq: "x / 8", ans: "7" }
+    ];
+
+    const triplets = [
+        [3, 4, 5], [6, 8, 10], [9, 12, 15], [5, 12, 13], [10, 24, 26], 
+        [7, 24, 25], [8, 15, 17], [9, 40, 41], [11, 60, 61], [12, 35, 37], 
+        [16, 63, 65], [20, 21, 29], [28, 45, 53], [33, 56, 65], [39, 80, 89]
+    ];
+
+    const squareRoots = [
+        { num: "2", val: "1.41" }, { num: "3", val: "1.73" }, { num: "5", val: "2.24" }
+    ];
+
+    const primeNumbers = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97];
+    
+    const alphaMap = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    const reversePairs = {'A':'Z','B':'Y','C':'X','D':'W','E':'V','F':'U','G':'T','H':'S','I':'R','J':'Q','K':'P','L':'O','M':'N','N':'M','O':'L','P':'K','Q':'J','R':'I','S':'H','T':'G','U':'F','V':'E','W':'D','X':'C','Y':'B','Z':'A'};
+
+    const calendarCodes = [
+        { q: "Month code: Jan (Standard)", a: "1" }, { q: "Month code: Jan (Leap)", a: "0" },
+        { q: "Month code: Feb (Standard)", a: "4" }, { q: "Month code: Feb (Leap)", a: "3" },
+        { q: "Month code: Mar", a: "4" }, { q: "Month code: Apr", a: "0" },
+        { q: "Month code: May", a: "2" }, { q: "Month code: Jun", a: "5" },
+        { q: "Month code: Jul", a: "0" }, { q: "Month code: Aug", a: "3" },
+        { q: "Month code: Sep", a: "6" }, { q: "Month code: Oct", a: "1" },
+        { q: "Month code: Nov", a: "4" }, { q: "Month code: Dec", a: "6" },
+        { q: "Century code: 1600s", a: "6" }, { q: "Century code: 1700s", a: "4" },
+        { q: "Century code: 1800s", a: "2" }, { q: "Century code: 1900s", a: "0" },
+        { q: "Century code: 2000s", a: "6" },
+        { q: "Day code: Sunday", a: "1" }, { q: "Day code: Monday", a: "2" },
+        { q: "Day code: Tuesday", a: "3" }, { q: "Day code: Wednesday", a: "4" },
+        { q: "Day code: Thursday", a: "5" }, { q: "Day code: Friday", a: "6" },
+        { q: "Day code: Saturday", a: "0" }
+    ];
+
+    // Global Key Listener for Pause
+    document.addEventListener('keydown', function(e) {
+        if (e.code === 'Space') {
+            e.preventDefault(); 
+            togglePause();
+        }
+    });
+
+    function togglePause() {
+        isPaused = !isPaused;
+        const qText = document.getElementById('questionText');
+        const ansInput = document.getElementById('answerInput');
+        const timerBar = document.getElementById('timerBar');
+        const feedback = document.getElementById('feedbackText');
+
+        if (isPaused) {
+            clearTimeout(timeoutId);
+            isTransitioning = true;
+            timerBar.className = 'timer-bar timer-paused';
+            qText.innerText = "[[ PAUSED ]]";
+            ansInput.disabled = true;
+            feedback.innerText = "Press Space to Resume";
+            feedback.className = "feedback paused-text";
+        } else {
+            isTransitioning = false;
+            generateQuestion(); 
+        }
+    }
+
+    function getRandomInt(min, max) {
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    function generateQuestion() {
+        if (isPaused) return;
+        
+        isTransitioning = false;
+        clearTimeout(timeoutId);
+        
+        const mode = document.getElementById('modeSelect').value;
+        const qText = document.getElementById('questionText');
+        const ansInput = document.getElementById('answerInput');
+        const timerBar = document.getElementById('timerBar');
+        const badge = document.getElementById('poolBadge');
+        
+        ansInput.value = '';
+        ansInput.disabled = false;
+        ansInput.focus();
+        document.getElementById('feedbackText').innerText = '';
+        
+        timerBar.className = 'timer-bar timer-active';
+        void timerBar.offsetWidth; 
+
+        activeQuestionSource = "random";
+        activePoolIndex = null;
+        badge.style.display = "none";
+
+        const validPoolIndices = frictionPool.map((item, idx) => ({item, idx})).filter(p => p.item.mode === mode);
+        
+        if (validPoolIndices.length > 0 && Math.random() < 0.40) {
+            const chosen = validPoolIndices[getRandomInt(0, validPoolIndices.length - 1)];
+            currentConfig = chosen.item.config;
+            activePoolIndex = chosen.idx;
+            activeQuestionSource = "pool";
+            badge.style.display = "inline-block";
+            badge.innerText = `Friction Loop Active (${validPoolIndices.length} queued)`;
+        } else {
+            currentConfig = buildFreshConfig(mode);
+        }
+
+        qText.innerText = currentConfig.text;
+        currentAnswer = currentConfig.ans.toUpperCase(); // Normalize engine answer
+
+        timeoutId = setTimeout(handleTimeout, 4000);
+    }
+
+    function buildFreshConfig(mode) {
+        let a, b, type;
+        switch(mode) {
+            case 'tables':
+                a = getRandomInt(2, 30);
+                b = (a <= 25) ? getRandomInt(2, 10) : getRandomInt(2, 5);
+                return { text: `${a} × ${b} = ?`, ans: (a * b).toString() };
+            case 'squares':
+                a = getRandomInt(1, 40);
+                return { text: `${a}² = ?`, ans: (a * a).toString() };
+            case 'cubes':
+                a = getRandomInt(1, 21);
+                return { text: `${a}³ = ?`, ans: (a * a * a).toString() };
+            case 'powers':
+                const powerConfigs = [
+                    { base: 2, exp: getRandomInt(2, 12) }, { base: 4, exp: getRandomInt(2, 6) },
+                    { base: 3, exp: getRandomInt(2, 6) }, { base: 5, exp: getRandomInt(2, 6) },
+                    { base: 6, exp: getRandomInt(2, 4) }
+                ];
+                const selected = powerConfigs[getRandomInt(0, powerConfigs.length - 1)];
+                return { text: `${selected.base}^${selected.exp} = ?`, ans: Math.pow(selected.base, selected.exp).toString() };
+            case 'arithmetic':
+                type = getRandomInt(1, 3);
+                if (type === 1) {
+                    a = getRandomInt(100, 999); b = getRandomInt(100, 999);
+                    return { text: `${a} + ${b} = ?`, ans: (a + b).toString() };
+                } else if (type === 2) {
+                    a = getRandomInt(100, 999); b = getRandomInt(100, a);
+                    return { text: `${a} - ${b} = ?`, ans: (a - b).toString() };
+                } else {
+                    a = getRandomInt(100, 999); b = getRandomInt(2, 9);
+                    return { text: `${a} × ${b} = ?`, ans: (a * b).toString() };
+                }
+            case 'fractions':
+                const f = sscFractions[getRandomInt(0, sscFractions.length - 1)];
+                return { text: `${f.pct} = ${f.eq}\n(Find x)`, ans: f.ans };
+            case 'triplets':
+                const t = triplets[getRandomInt(0, triplets.length - 1)];
+                const hideIndex = getRandomInt(0, 2); 
+                let displayTriplet = [...t]; displayTriplet[hideIndex] = "?";
+                return { text: `Triplet:\n${displayTriplet.join(', ')}`, ans: t[hideIndex].toString() };
+            case 'roots':
+                const r = squareRoots[getRandomInt(0, squareRoots.length - 1)];
+                return { text: `√${r.num} = ?\n(2 decimals)`, ans: r.val };
+            case 'alpha':
+                type = getRandomInt(1, 3); // 1: forward, 2: reverse pos, 3: reverse pair
+                let letterIndex = getRandomInt(0, 25);
+                let letter = alphaMap[letterIndex];
+                if (type === 1) return { text: `Forward pos of ${letter}?`, ans: (letterIndex + 1).toString() };
+                if (type === 2) return { text: `Reverse pos of ${letter}?`, ans: (26 - letterIndex).toString() };
+                return { text: `Reverse pair of ${letter}?`, ans: reversePairs[letter] };
+            case 'primes':
+                let num = getRandomInt(1, 100);
+                let isPrime = primeNumbers.includes(num) ? "Y" : "N";
+                return { text: `Is ${num} prime? (Y/N)`, ans: isPrime };
+            case 'calendar':
+                let cal = calendarCodes[getRandomInt(0, calendarCodes.length - 1)];
+                return { text: cal.q, ans: cal.a };
+        }
+    }
+
+    function checkAnswerLive() {
+        if (isTransitioning || isPaused) return;
+
+        // Normalize user input to uppercase and trim spaces
+        const userInput = document.getElementById('answerInput').value.trim().toUpperCase();
+        if (userInput === "") return;
+
+        if (userInput === currentAnswer) {
+            isTransitioning = true;
+            clearTimeout(timeoutId);
+            document.getElementById('timerBar').className = 'timer-bar';
+            
+            attempts++; correct++;
+            
+            if (activeQuestionSource === "pool" && activePoolIndex !== null) {
+                frictionPool.splice(activePoolIndex, 1);
+            }
+            
+            const feedback = document.getElementById('feedbackText');
+            feedback.innerText = "Correct!";
+            feedback.className = "feedback correct";
+            
+            updateStats();
+            setTimeout(generateQuestion, 300); 
+        }
+    }
+
+    function handleTimeout() {
+        if (isPaused) return;
+
+        isTransitioning = true;
+        document.getElementById('answerInput').disabled = true;
+        
+        attempts++;
+        
+        if (activeQuestionSource === "random") {
+            const mode = document.getElementById('modeSelect').value;
+            const clean = frictionPool.every(item => item.mode !== mode || item.config.text !== currentConfig.text);
+            if (clean) frictionPool.push({ mode: mode, config: currentConfig });
+        }
+        
+        const feedback = document.getElementById('feedbackText');
+        feedback.innerText = `Time's up! Answer: ${currentAnswer}`;
+        feedback.className = "feedback incorrect";
+        
+        updateStats();
+        setTimeout(generateQuestion, 1500);
+    }
+
+    function updateStats() {
+        document.getElementById('scoreText').innerText = `Score: ${correct} / ${attempts}`;
+    }
+
+    function resetStats() {
+        attempts = 0; correct = 0;
+        frictionPool = [];
+        document.getElementById('poolBadge').style.display = "none";
+        updateStats();
+        if(isPaused) togglePause(); // unpause on reset
+    }
+
+    function resetAndStart() {
+        resetStats();
+        generateQuestion();
+    }
+
+    window.onload = generateQuestion;
+</script>
+</body>
+</html>
