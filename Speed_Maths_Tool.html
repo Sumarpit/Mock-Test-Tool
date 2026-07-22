@@ -2,424 +2,649 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Speed Math & Reasoning Trainer v9</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Speed Math & Reasoning Trainer v11 - Modular Edition</title>
     <style>
         :root {
-            /* Minimalist, low-friction palette */
-            --bg-color: #F7F7F5;
-            --surface: #FFFFFF;
-            --text-main: #37352F;
-            --text-muted: #787774;
-            --border: #E9E9E7;
-            --primary: #2F3437;
-            --primary-hover: #191B1C;
-            --success: #0F7B6C; 
-            --danger: #E03E3E;
-            --warning: #D9730D;
-            --timer-bg: #EAEAEA;
+            --bg-main: #0E1015;
+            --panel-bg: #21232B;
+            --text-main: #FFFFFF;
+            --text-muted: #8E929D;
+            --circle-bg: #2A2D35;
+            --circle-fg: #94C2FF;
+            --danger-text: #F29C9C;
+            --success-text: #81C995;
+            --key-bg: #323642;
+            --key-active: #4B5162;
+            --accent: #94C2FF;
         }
+        
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            background-color: var(--bg-color);
+            background-color: var(--bg-main);
             color: var(--text-main);
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
             margin: 0;
-            -webkit-font-smoothing: antialiased;
-        }
-        .container {
-            background: var(--surface);
-            padding: 2.5rem 2rem;
-            border-radius: 12px;
-            box-shadow: 0 4px 24px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.04);
-            width: 100%;
-            max-width: 420px;
-            text-align: center;
-            position: relative;
-            border: 1px solid var(--border);
-        }
-        h2 { 
-            margin-top: 0; 
-            color: var(--text-main); 
-            font-size: 20px; 
-            font-weight: 600;
-            letter-spacing: -0.5px;
-        }
-        
-        .timer-container {
-            width: 100%;
-            height: 4px;
-            background-color: var(--timer-bg);
-            margin: 15px 0;
-            border-radius: 2px;
             overflow: hidden;
-        }
-        .timer-bar {
-            height: 100%;
-            width: 100%;
-            background-color: var(--danger);
-            transform-origin: left;
-        }
-        .timer-active {
-            animation: shrink 4s linear forwards;
-        }
-        .timer-paused {
-            background-color: var(--warning);
-            transform: scaleX(1);
-            animation: none;
-        }
-        @keyframes shrink {
-            from { transform: scaleX(1); }
-            to { transform: scaleX(0); }
+            -webkit-font-smoothing: antialiased;
+            touch-action: manipulation;
         }
 
-        select, input, button {
+        .container {
             width: 100%;
+            max-width: 480px;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+            box-sizing: border-box;
+            position: relative;
+        }
+
+        /* View Routing */
+        .view { display: none; flex-direction: column; height: 100%; }
+        .view.active { display: flex; }
+
+        /* --- HOME VIEW --- */
+        .header {
+            text-align: center;
+            margin-bottom: 25px;
+            padding-top: 20px;
+        }
+        .header h1 { font-size: 22px; margin: 0 0 5px 0; letter-spacing: -0.5px; }
+        .header p { color: var(--text-muted); font-size: 13px; margin: 0; }
+        
+        .grid-menu {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            overflow-y: auto;
+            padding-bottom: 20px;
+        }
+        .menu-btn {
+            background-color: var(--panel-bg);
+            border: 1px solid #333;
+            color: var(--text-main);
+            padding: 20px 15px;
+            border-radius: 12px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            text-align: left;
+            transition: background 0.2s, border-color 0.2s;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+        .menu-btn:hover { background-color: var(--key-bg); border-color: var(--text-muted); }
+        .menu-btn .sub { font-size: 11px; color: var(--text-muted); font-weight: 400; }
+        
+        /* --- CONFIG VIEW --- */
+        .config-panel {
+            background-color: var(--panel-bg);
+            border-radius: 12px;
+            padding: 25px;
+            margin-top: 20px;
+        }
+        .config-group { margin-bottom: 20px; text-align: left; }
+        .config-group label {
+            display: block;
+            font-size: 12px;
+            font-weight: 700;
+            color: var(--text-muted);
+            margin-bottom: 8px;
+            text-transform: uppercase;
+        }
+        .config-input {
+            width: 100%;
+            background-color: #16181D;
+            border: 1px solid #333;
+            color: var(--text-main);
             padding: 12px;
-            margin: 8px 0;
-            border: 1px solid var(--border);
-            border-radius: 6px;
+            border-radius: 8px;
             font-size: 16px;
             box-sizing: border-box;
-            background-color: var(--surface);
-            color: var(--text-main);
-            transition: border-color 0.2s, box-shadow 0.2s;
-        }
-        select:focus, input:focus {
             outline: none;
-            border-color: var(--text-muted);
-            box-shadow: 0 0 0 3px rgba(55, 53, 47, 0.08);
         }
-        input {
-            text-align: center;
-            font-weight: 500;
-            font-size: 18px;
+        .config-input:focus { border-color: var(--accent); }
+        .checkbox-group {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
         }
-        button {
-            background-color: var(--primary);
-            color: white;
-            border: none;
+        .checkbox-label {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 14px;
+            font-weight: 600;
             cursor: pointer;
-            font-weight: 500;
         }
-        button:hover { background-color: var(--primary-hover); }
-        
-        .question { 
-            font-size: 26px; 
-            font-weight: 600; 
-            margin: 25px 0 15px; 
-            white-space: pre-line; 
-            letter-spacing: -0.5px;
+        .action-btn {
+            width: 100%;
+            background-color: var(--accent);
+            color: #000;
+            border: none;
+            padding: 15px;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 700;
+            cursor: pointer;
+            margin-top: 10px;
         }
-        .feedback { 
-            font-weight: 600; 
-            height: 24px; 
-            margin-top: 15px; 
-            font-size: 15px;
+        .back-btn {
+            background: none;
+            border: none;
+            color: var(--text-muted);
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            padding: 10px 0;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            margin-bottom: 10px;
         }
-        .correct { color: var(--success); }
-        .incorrect { color: var(--danger); }
-        .paused-text { color: var(--warning); }
-        
-        .stats {
+
+        /* --- QUIZ VIEW (Preserved from v10) --- */
+        .top-bar {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            font-size: 14px;
-            color: var(--text-muted);
-            margin-top: 25px;
-            border-top: 1px solid var(--border);
-            padding-top: 15px;
-            font-weight: 500;
+            padding: 10px 0;
         }
-        .pool-badge {
-            font-size: 11px;
-            background: var(--warning);
-            color: white;
-            padding: 3px 8px;
-            border-radius: 12px;
-            display: inline-block;
-            margin-top: -5px;
-            margin-bottom: 5px;
-            font-weight: 600;
-            letter-spacing: 0.2px;
+        .timer-module {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            min-height: 220px;
         }
-        .hint {
-            font-size: 13px;
-            color: var(--text-muted);
-            margin-top: -5px;
-            margin-bottom: 15px;
+        .svg-circle { width: 220px; height: 220px; transform: rotate(-90deg); }
+        .circle-bg { fill: none; stroke: var(--circle-bg); stroke-width: 12; }
+        .circle-fg {
+            fill: none; stroke: var(--circle-fg); stroke-width: 12;
+            stroke-linecap: round; stroke-dasharray: 603; stroke-dashoffset: 0;
         }
-        optgroup { font-weight: 600; }
+        .timer-content {
+            position: absolute; top: 50%; left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center; width: 180px;
+        }
+        .question-text { font-size: 32px; font-weight: 700; margin-bottom: 10px; white-space: pre-line; line-height: 1.2; }
+        .instruction-text { font-size: 11px; color: var(--text-muted); margin-bottom: 15px; }
+        .feedback-text { font-size: 16px; font-weight: 700; height: 20px; text-transform: uppercase; }
+        .correct { color: var(--success-text); }
+        .incorrect { color: var(--danger-text); }
+        .paused-text { color: #F8C060; }
+        
+        .input-panel { background-color: var(--panel-bg); border-radius: 12px; padding: 20px; text-align: center; margin-bottom: 25px; }
+        .input-label { font-size: 12px; font-weight: 700; color: var(--text-muted); margin-bottom: 15px; letter-spacing: 0.5px; }
+        .virtual-input {
+            background-color: #16181D; border-radius: 8px; padding: 15px; font-size: 20px;
+            font-weight: 600; color: var(--text-muted); min-height: 54px;
+            display: flex; align-items: center; justify-content: center; box-sizing: border-box;
+        }
+        .virtual-input.has-value { color: var(--text-main); }
+        
+        .stats-row { display: flex; justify-content: space-between; margin-bottom: 30px; padding: 0 10px; }
+        .stat-block { text-align: center; flex: 1; }
+        .stat-block:nth-child(2) { border-left: 1px solid #333; border-right: 1px solid #333; }
+        .stat-label { font-size: 10px; font-weight: 700; color: var(--text-muted); margin-bottom: 5px; letter-spacing: 0.5px; }
+        .stat-value { font-size: 16px; font-weight: 700; }
+        
+        .keyboard-container { margin-bottom: 15px; margin-top: auto; }
+        .numpad { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+        .alphapad { display: grid; grid-template-columns: repeat(10, 1fr); gap: 6px; }
+        .key {
+            background-color: var(--key-bg); color: var(--text-main); border: none;
+            border-radius: 8px; padding: 15px 0; font-size: 20px; font-weight: 600;
+            cursor: pointer; user-select: none; transition: background 0.1s;
+        }
+        .key:active { background-color: var(--key-active); }
+        .key.action-key { font-size: 14px; background-color: #21232B; }
+        .key.space-key { grid-column: span 3; font-size: 14px; background-color: #21232B; }
+        .key.alpha-space { grid-column: span 6; font-size: 14px; background-color: #21232B; }
+        .key.alpha-del { grid-column: span 4; font-size: 14px; background-color: #21232B; }
     </style>
 </head>
 <body>
 
 <div class="container">
-    <h2>Performance & Reasoning Core</h2>
     
-    <select id="modeSelect" onchange="resetAndStart()">
-        <optgroup label="Quantitative Aptitude">
-            <option value="tables">Tables (2-25 full, 26-30 up to ×5)</option>
-            <option value="squares">Squares (1 to 40)</option>
-            <option value="cubes">Cubes (1 to 21)</option>
-            <option value="powers">Exam Powers (2, 3, 4, 5, 6)</option>
-            <option value="arithmetic">3-Digit Operations (Exam Level)</option>
-            <option value="fractions">Percentage vs Fractions</option>
-            <option value="triplets">Pythagorean Triplets</option>
-            <option value="roots">Surds / Square Roots (2 Decimals)</option>
-        </optgroup>
-        <optgroup label="General Intelligence & Reasoning">
-            <option value="alpha">Alphabet (Positions & Pairs)</option>
-            <option value="primes">Prime Numbers (1-100 check)</option>
-            <option value="calendar">Calendar Codes</option>
-        </optgroup>
-    </select>
-
-    <div id="poolContainer" style="height: 22px;">
-        <span id="poolBadge" class="pool-badge" style="display: none;">Friction Loop Active</span>
+    <!-- VIEW 1: HOME -->
+    <div id="view-home" class="view active">
+        <div class="header">
+            <h1>CGL Calculation Core</h1>
+            <p>Select a module to configure</p>
+        </div>
+        <div class="grid-menu">
+            <!-- Configurable -->
+            <button class="menu-btn" onclick="openConfig('tables')">Tables<span class="sub">Custom Ranges & Multipliers</span></button>
+            <button class="menu-btn" onclick="openConfig('squares')">Squares<span class="sub">Custom Ranges</span></button>
+            <button class="menu-btn" onclick="openConfig('cubes')">Cubes<span class="sub">Custom Ranges</span></button>
+            <button class="menu-btn" onclick="openConfig('alpha')">Alphabet Codes<span class="sub">Pos, Rev, Pairs</span></button>
+            
+            <!-- Direct Launch (No config needed) -->
+            <button class="menu-btn" onclick="launchDirect('fractions')">Fractions<span class="sub">% to Fraction (Standard)</span></button>
+            <button class="menu-btn" onclick="launchDirect('triplets')">Triplets<span class="sub">Pythagorean (Standard)</span></button>
+            <button class="menu-btn" onclick="launchDirect('roots')">Surds / Roots<span class="sub">2, 3, 5 up to 2 dec</span></button>
+            <button class="menu-btn" onclick="launchDirect('powers')">Exam Powers<span class="sub">Bases 2, 3, 4, 5, 6</span></button>
+            <button class="menu-btn" onclick="launchDirect('arithmetic')">3-Digit Ops<span class="sub">Add, Sub, Mul</span></button>
+            <button class="menu-btn" onclick="launchDirect('primes')">Primes<span class="sub">1-100 check (Y/N)</span></button>
+            <button class="menu-btn" onclick="launchDirect('calendar')">Calendar<span class="sub">Month, Century, Day</span></button>
+        </div>
     </div>
 
-    <div class="timer-container">
-        <div id="timerBar" class="timer-bar"></div>
+    <!-- VIEW 2: CONFIGURATION -->
+    <div id="view-config" class="view">
+        <button class="back-btn" onclick="goHome()">← Back to Menu</button>
+        <div class="header">
+            <h1 id="configTitle">Configure</h1>
+            <p>Format: "12-34, 37"</p>
+        </div>
+        
+        <div class="config-panel" id="configForm">
+            <!-- Dynamic Injection Here -->
+        </div>
+        <button class="action-btn" onclick="applyConfigAndStart()">START DRILL</button>
     </div>
 
-    <div class="question" id="questionText">Initializing...</div>
-    <div class="hint">[Spacebar to Pause / Resume]</div>
-    
-    <input type="text" id="answerInput" placeholder="Enter answer..." oninput="checkAnswerLive()" autocomplete="off">
+    <!-- VIEW 3: QUIZ -->
+    <div id="view-quiz" class="view">
+        <div class="top-bar">
+            <button class="back-btn" style="margin:0;" onclick="goHome()">← Exit</button>
+            <span id="quizModeLabel" style="font-size: 12px; font-weight: 600; color: var(--text-muted); text-transform: uppercase;"></span>
+        </div>
 
-    <div class="feedback" id="feedbackText"></div>
+        <div class="timer-module">
+            <svg class="svg-circle" viewBox="0 0 200 200">
+                <circle class="circle-bg" cx="100" cy="100" r="96"></circle>
+                <circle class="circle-fg" id="timerCircle" cx="100" cy="100" r="96"></circle>
+            </svg>
+            <div class="timer-content">
+                <div class="question-text" id="questionText">Ready</div>
+                <div class="instruction-text">Type answer (Auto-checks)</div>
+                <div class="feedback-text" id="feedbackText"></div>
+            </div>
+        </div>
 
-    <div class="stats">
-        <span id="scoreText">Score: 0 / 0</span>
-        <button onclick="resetStats()" style="width: auto; padding: 6px 12px; margin: 0; font-size: 13px; background: #E9E9E7; color: #37352F; border-radius: 6px; cursor: pointer; transition: background 0.2s;">Reset Stats</button>
+        <div class="input-panel">
+            <div class="input-label">YOUR ANSWER:</div>
+            <div class="virtual-input" id="virtualInput">Type answer...</div>
+        </div>
+
+        <div class="stats-row">
+            <div class="stat-block">
+                <div class="stat-label">SCORE</div>
+                <div class="stat-value" id="scoreText">0</div>
+            </div>
+            <div class="stat-block">
+                <div class="stat-label">TIMER</div>
+                <div class="stat-value" id="timerText">4.0s</div>
+            </div>
+            <div class="stat-block">
+                <div class="stat-label">QUEUE</div>
+                <div class="stat-value" id="queueText">0</div>
+            </div>
+        </div>
+
+        <div class="keyboard-container">
+            <div class="numpad" id="numpad">
+                <button class="key" onclick="handleKey('1')">1</button><button class="key" onclick="handleKey('2')">2</button><button class="key" onclick="handleKey('3')">3</button>
+                <button class="key" onclick="handleKey('4')">4</button><button class="key" onclick="handleKey('5')">5</button><button class="key" onclick="handleKey('6')">6</button>
+                <button class="key" onclick="handleKey('7')">7</button><button class="key" onclick="handleKey('8')">8</button><button class="key" onclick="handleKey('9')">9</button>
+                <button class="key action-key" onclick="handleKey('.')">.</button><button class="key" onclick="handleKey('0')">0</button><button class="key action-key" onclick="handleKey('Backspace')">DEL</button>
+                <button class="key space-key" onclick="handleKey('Space')">PAUSE (SPACE)</button>
+            </div>
+            <div class="alphapad" id="alphapad" style="display: none;">
+                <button class="key" onclick="handleKey('Q')">Q</button><button class="key" onclick="handleKey('W')">W</button><button class="key" onclick="handleKey('E')">E</button>
+                <button class="key" onclick="handleKey('R')">R</button><button class="key" onclick="handleKey('T')">T</button><button class="key" onclick="handleKey('Y')">Y</button>
+                <button class="key" onclick="handleKey('U')">U</button><button class="key" onclick="handleKey('I')">I</button><button class="key" onclick="handleKey('O')">O</button><button class="key" onclick="handleKey('P')">P</button>
+                
+                <button class="key" style="grid-column: 2;" onclick="handleKey('A')">A</button><button class="key" onclick="handleKey('S')">S</button><button class="key" onclick="handleKey('D')">D</button>
+                <button class="key" onclick="handleKey('F')">F</button><button class="key" onclick="handleKey('G')">G</button><button class="key" onclick="handleKey('H')">H</button>
+                <button class="key" onclick="handleKey('J')">J</button><button class="key" onclick="handleKey('K')">K</button><button class="key" onclick="handleKey('L')">L</button>
+                
+                <button class="key" style="grid-column: 3;" onclick="handleKey('Z')">Z</button><button class="key" onclick="handleKey('X')">X</button><button class="key" onclick="handleKey('C')">C</button>
+                <button class="key" onclick="handleKey('V')">V</button><button class="key" onclick="handleKey('B')">B</button><button class="key" onclick="handleKey('N')">N</button><button class="key" onclick="handleKey('M')">M</button>
+                
+                <button class="key alpha-space" style="grid-column: 1 / span 6;" onclick="handleKey('Space')">PAUSE (SPACE)</button>
+                <button class="key alpha-del" style="grid-column: 7 / span 4;" onclick="handleKey('Backspace')">DEL</button>
+            </div>
+        </div>
     </div>
+
 </div>
 
 <script>
+    // --- Routing & Configuration State ---
+    let activeMode = null;
+    let activeConfig = {}; // Stores parsed ranges and toggles
+    
+    // --- Quiz System State ---
     let currentAnswer = "";
+    let currentInput = "";
     let attempts = 0;
     let correct = 0;
-    let timeoutId = null;
     let isTransitioning = false;
     let isPaused = false;
     
-    // Spaced Repetition State
+    // --- Timer State ---
+    let animationFrameId;
+    let startTime = null;
+    let pausedRemaining = 4000;
+    const TIME_LIMIT = 4000;
+    const CIRCUMFERENCE = 603.18;
+    
+    // --- Spaced Repetition State ---
     let frictionPool = []; 
     let activeQuestionSource = "random"; 
     let activePoolIndex = null;
-    let currentConfig = null; 
+    let currentQData = null; 
 
-    // Data Sets
-    const sscFractions = [
-        { pct: "33.33%", eq: "1 / x", ans: "3" }, { pct: "25%", eq: "1 / x", ans: "4" },
-        { pct: "20%", eq: "1 / x", ans: "5" }, { pct: "16.66%", eq: "1 / x", ans: "6" },
-        { pct: "14.28%", eq: "1 / x", ans: "7" }, { pct: "12.5%", eq: "1 / x", ans: "8" },
-        { pct: "11.11%", eq: "1 / x", ans: "9" }, { pct: "9.09%", eq: "1 / x", ans: "11" },
-        { pct: "8.33%", eq: "1 / x", ans: "12" }, { pct: "7.69%", eq: "1 / x", ans: "13" },
-        { pct: "7.14%", eq: "1 / x", ans: "14" }, { pct: "6.66%", eq: "1 / x", ans: "15" },
-        { pct: "6.25%", eq: "1 / x", ans: "16" }, { pct: "5%", eq: "1 / x", ans: "20" },
-        { pct: "66.66%", eq: "x / 3", ans: "2" }, { pct: "75%", eq: "x / 4", ans: "3" },
-        { pct: "40%", eq: "x / 5", ans: "2" }, { pct: "60%", eq: "x / 5", ans: "3" },
-        { pct: "80%", eq: "x / 5", ans: "4" }, { pct: "83.33%", eq: "x / 6", ans: "5" },
-        { pct: "37.5%", eq: "x / 8", ans: "3" }, { pct: "62.5%", eq: "x / 8", ans: "5" },
-        { pct: "87.5%", eq: "x / 8", ans: "7" }
-    ];
-
-    const triplets = [
-        [3, 4, 5], [6, 8, 10], [9, 12, 15], [5, 12, 13], [10, 24, 26], 
-        [7, 24, 25], [8, 15, 17], [9, 40, 41], [11, 60, 61], [12, 35, 37], 
-        [16, 63, 65], [20, 21, 29], [28, 45, 53], [33, 56, 65], [39, 80, 89]
-    ];
-
-    const squareRoots = [
-        { num: "2", val: "1.41" }, { num: "3", val: "1.73" }, { num: "5", val: "2.24" }
-    ];
-
+    // --- Hardcoded Datasets (Skipped configs) ---
+    const sscFractions = [ { pct: "33.33%", ans: "3" }, { pct: "25%", ans: "4" }, { pct: "20%", ans: "5" }, { pct: "16.66%", ans: "6" }, { pct: "14.28%", ans: "7" }, { pct: "12.5%", ans: "8" }, { pct: "11.11%", ans: "9" }, { pct: "9.09%", ans: "11" }, { pct: "8.33%", ans: "12" }, { pct: "7.69%", ans: "13" }, { pct: "7.14%", ans: "14" }, { pct: "6.66%", ans: "15" }, { pct: "6.25%", ans: "16" }, { pct: "5%", ans: "20" }, { pct: "66.66%", ans: "2" }, { pct: "75%", ans: "3" }, { pct: "40%", ans: "2" }, { pct: "60%", ans: "3" }, { pct: "80%", ans: "4" }, { pct: "83.33%", ans: "5" }, { pct: "37.5%", ans: "3" }, { pct: "62.5%", ans: "5" }, { pct: "87.5%", ans: "7" } ];
+    const triplets = [ [3, 4, 5], [6, 8, 10], [9, 12, 15], [5, 12, 13], [10, 24, 26], [7, 24, 25], [8, 15, 17], [9, 40, 41], [11, 60, 61], [12, 35, 37], [16, 63, 65], [20, 21, 29], [28, 45, 53], [33, 56, 65], [39, 80, 89] ];
+    const squareRoots = [{ num: "2", val: "1.41" }, { num: "3", val: "1.73" }, { num: "5", val: "2.24" }];
     const primeNumbers = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97];
-    
     const alphaMap = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     const reversePairs = {'A':'Z','B':'Y','C':'X','D':'W','E':'V','F':'U','G':'T','H':'S','I':'R','J':'Q','K':'P','L':'O','M':'N','N':'M','O':'L','P':'K','Q':'J','R':'I','S':'H','T':'G','U':'F','V':'E','W':'D','X':'C','Y':'B','Z':'A'};
+    const calendarCodes = [ { q: "Jan (Std)", a: "1" }, { q: "Jan (Leap)", a: "0" }, { q: "Feb (Std)", a: "4" }, { q: "Feb (Leap)", a: "3" }, { q: "Mar", a: "4" }, { q: "Apr", a: "0" }, { q: "May", a: "2" }, { q: "Jun", a: "5" }, { q: "Jul", a: "0" }, { q: "Aug", a: "3" }, { q: "Sep", a: "6" }, { q: "Oct", a: "1" }, { q: "Nov", a: "4" }, { q: "Dec", a: "6" }, { q: "1600s/2000s", a: "6" }, { q: "1700s", a: "4" }, { q: "1800s", a: "2" }, { q: "1900s", a: "0" }, { q: "Sun", a: "1" }, { q: "Mon", a: "2" }, { q: "Tue", a: "3" }, { q: "Wed", a: "4" }, { q: "Thu", a: "5" }, { q: "Fri", a: "6" }, { q: "Sat", a: "0" } ];
 
-    const calendarCodes = [
-        { q: "Month code: Jan (Standard)", a: "1" }, { q: "Month code: Jan (Leap)", a: "0" },
-        { q: "Month code: Feb (Standard)", a: "4" }, { q: "Month code: Feb (Leap)", a: "3" },
-        { q: "Month code: Mar", a: "4" }, { q: "Month code: Apr", a: "0" },
-        { q: "Month code: May", a: "2" }, { q: "Month code: Jun", a: "5" },
-        { q: "Month code: Jul", a: "0" }, { q: "Month code: Aug", a: "3" },
-        { q: "Month code: Sep", a: "6" }, { q: "Month code: Oct", a: "1" },
-        { q: "Month code: Nov", a: "4" }, { q: "Month code: Dec", a: "6" },
-        { q: "Century code: 1600s", a: "6" }, { q: "Century code: 1700s", a: "4" },
-        { q: "Century code: 1800s", a: "2" }, { q: "Century code: 1900s", a: "0" },
-        { q: "Century code: 2000s", a: "6" },
-        { q: "Day code: Sunday", a: "1" }, { q: "Day code: Monday", a: "2" },
-        { q: "Day code: Tuesday", a: "3" }, { q: "Day code: Wednesday", a: "4" },
-        { q: "Day code: Thursday", a: "5" }, { q: "Day code: Friday", a: "6" },
-        { q: "Day code: Saturday", a: "0" }
-    ];
+    // --- Core Utilities ---
+    function getRandomFromList(list) { return list[Math.floor(Math.random() * list.length)]; }
+    function getRandomInt(min, max) { return Math.floor(Math.random() * (max - min + 1)) + min; }
 
+    function parseRangeString(inputStr) {
+        let result = new Set();
+        let parts = inputStr.split(',');
+        for(let part of parts) {
+            part = part.trim();
+            if(part.includes('-')) {
+                let [start, end] = part.split('-').map(Number);
+                if(!isNaN(start) && !isNaN(end) && start <= end) {
+                    for(let i = start; i <= end; i++) result.add(i);
+                }
+            } else {
+                let num = Number(part);
+                if(!isNaN(num)) result.add(num);
+            }
+        }
+        return Array.from(result).filter(n => n > 0);
+    }
+
+    // --- UI Routing Logic ---
+    function showView(viewId) {
+        document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+        document.getElementById(viewId).classList.add('active');
+    }
+
+    function goHome() {
+        cancelAnimationFrame(animationFrameId);
+        showView('view-home');
+        activeMode = null;
+    }
+
+    function launchDirect(mode) {
+        activeMode = mode;
+        activeConfig = {}; // No custom ranges
+        document.getElementById('quizModeLabel').innerText = mode.toUpperCase();
+        resetStats();
+        showView('view-quiz');
+        generateQuestion();
+    }
+
+    function openConfig(mode) {
+        activeMode = mode;
+        const title = document.getElementById('configTitle');
+        const form = document.getElementById('configForm');
+        form.innerHTML = ''; // clear
+
+        if (mode === 'tables') {
+            title.innerText = "Configure Tables";
+            form.innerHTML = `
+                <div class="config-group">
+                    <label>Table Numbers (Base)</label>
+                    <input type="text" id="cfg-base" class="config-input" value="2-30">
+                </div>
+                <div class="config-group">
+                    <label>Multipliers (Excl. 1)</label>
+                    <input type="text" id="cfg-mult" class="config-input" value="2-9">
+                </div>
+            `;
+        } else if (mode === 'squares') {
+            title.innerText = "Configure Squares";
+            form.innerHTML = `<div class="config-group"><label>Numbers to Square</label><input type="text" id="cfg-base" class="config-input" value="1-40"></div>`;
+        } else if (mode === 'cubes') {
+            title.innerText = "Configure Cubes";
+            form.innerHTML = `<div class="config-group"><label>Numbers to Cube</label><input type="text" id="cfg-base" class="config-input" value="1-21"></div>`;
+        } else if (mode === 'alpha') {
+            title.innerText = "Configure Alphabet";
+            form.innerHTML = `
+                <div class="checkbox-group">
+                    <label class="checkbox-label"><input type="checkbox" id="cfg-fwd" checked> Forward Positions (A=1)</label>
+                    <label class="checkbox-label"><input type="checkbox" id="cfg-rev" checked> Reverse Positions (Z=1)</label>
+                    <label class="checkbox-label"><input type="checkbox" id="cfg-pair" checked> Reverse Pairs (A=Z)</label>
+                </div>
+            `;
+        }
+        showView('view-config');
+    }
+
+    function applyConfigAndStart() {
+        activeConfig = {};
+        
+        if (['tables', 'squares', 'cubes'].includes(activeMode)) {
+            const baseInput = document.getElementById('cfg-base').value;
+            let bases = parseRangeString(baseInput);
+            if(bases.length === 0) bases = [2]; // Fallback safety
+            activeConfig.bases = bases;
+
+            if (activeMode === 'tables') {
+                const multInput = document.getElementById('cfg-mult').value;
+                let mults = parseRangeString(multInput);
+                mults = mults.filter(m => m !== 1); // Strictly exclude 1
+                if(mults.length === 0) mults = [2];
+                activeConfig.multipliers = mults;
+            }
+        } else if (activeMode === 'alpha') {
+            activeConfig.types = [];
+            if(document.getElementById('cfg-fwd').checked) activeConfig.types.push(1);
+            if(document.getElementById('cfg-rev').checked) activeConfig.types.push(2);
+            if(document.getElementById('cfg-pair').checked) activeConfig.types.push(3);
+            if(activeConfig.types.length === 0) activeConfig.types = [1]; // Fallback
+        }
+
+        document.getElementById('quizModeLabel').innerText = activeMode.toUpperCase();
+        resetStats();
+        showView('view-quiz');
+        generateQuestion();
+    }
+
+    // --- Quiz Generation Logic ---
+    function buildFreshConfig() {
+        let a, b, type;
+        switch(activeMode) {
+            case 'tables':
+                a = getRandomFromList(activeConfig.bases);
+                b = getRandomFromList(activeConfig.multipliers);
+                return { text: `${a} × ${b} = ?`, ans: (a * b).toString() };
+            case 'squares':
+                a = getRandomFromList(activeConfig.bases);
+                return { text: `${a}² = ?`, ans: (a * a).toString() };
+            case 'cubes':
+                a = getRandomFromList(activeConfig.bases);
+                return { text: `${a}³ = ?`, ans: (a * a * a).toString() };
+            case 'alpha':
+                type = getRandomFromList(activeConfig.types); 
+                let letterIndex = getRandomInt(0, 25);
+                let letter = alphaMap[letterIndex];
+                if (type === 1) return { text: `Pos of ${letter}?`, ans: (letterIndex + 1).toString() };
+                if (type === 2) return { text: `Rev Pos ${letter}?`, ans: (26 - letterIndex).toString() };
+                return { text: `Rev Pair ${letter}?`, ans: reversePairs[letter] };
+            
+            // Non-configurable modes fallback to standard logic
+            case 'powers':
+                const pwrs = [ { b: 2, e: getRandomInt(2, 12) }, { b: 4, e: getRandomInt(2, 6) }, { b: 3, e: getRandomInt(2, 6) }, { b: 5, e: getRandomInt(2, 6) }, { b: 6, e: getRandomInt(2, 4) } ];
+                const p = getRandomFromList(pwrs);
+                return { text: `${p.b}^${p.e} = ?`, ans: Math.pow(p.b, p.e).toString() };
+            case 'arithmetic':
+                type = getRandomInt(1, 3);
+                if (type === 1) { a = getRandomInt(100, 999); b = getRandomInt(100, 999); return { text: `${a} + ${b} = ?`, ans: (a + b).toString() }; }
+                if (type === 2) { a = getRandomInt(100, 999); b = getRandomInt(100, a); return { text: `${a} - ${b} = ?`, ans: (a - b).toString() }; }
+                a = getRandomInt(100, 999); b = getRandomInt(2, 9); return { text: `${a} × ${b} = ?`, ans: (a * b).toString() };
+            case 'fractions':
+                const f = getRandomFromList(sscFractions);
+                return { text: `${f.pct} = ?\n(Numerator/Denominator)`, ans: f.ans }; // Adapted for general numerator input conceptually if 1/x, just x.
+            case 'triplets':
+                const t = getRandomFromList(triplets);
+                const hIdx = getRandomInt(0, 2); 
+                let dTrip = [...t]; dTrip[hIdx] = "?";
+                return { text: `Triplet:\n${dTrip.join(', ')}`, ans: t[hIdx].toString() };
+            case 'roots':
+                const r = getRandomFromList(squareRoots);
+                return { text: `√${r.num} = ?\n(2 dec)`, ans: r.val };
+            case 'primes':
+                let num = getRandomInt(1, 100);
+                return { text: `Is ${num} prime?\n(Y/N)`, ans: primeNumbers.includes(num) ? "Y" : "N" };
+            case 'calendar':
+                let cal = getRandomFromList(calendarCodes);
+                return { text: `${cal.q}?`, ans: cal.a };
+        }
+    }
+
+    function determineKeyboard() {
+        if (/[A-Z]/.test(currentAnswer)) {
+            document.getElementById('numpad').style.display = 'none';
+            document.getElementById('alphapad').style.display = 'grid';
+        } else {
+            document.getElementById('numpad').style.display = 'grid';
+            document.getElementById('alphapad').style.display = 'none';
+        }
+    }
+
+    function generateQuestion() {
+        isTransitioning = false;
+        isPaused = false;
+        cancelAnimationFrame(animationFrameId);
+        
+        currentInput = "";
+        updateDisplayInput();
+        
+        document.getElementById('feedbackText').innerText = '';
+        document.getElementById('timerCircle').style.strokeDashoffset = 0;
+        document.getElementById('timerText').innerText = "4.0s";
+        
+        pausedRemaining = TIME_LIMIT;
+
+        activeQuestionSource = "random";
+        activePoolIndex = null;
+
+        const validPoolIndices = frictionPool.map((item, idx) => ({item, idx})).filter(p => p.item.mode === activeMode);
+        
+        if (validPoolIndices.length > 0 && Math.random() < 0.40) {
+            const chosen = validPoolIndices[getRandomInt(0, validPoolIndices.length - 1)];
+            currentQData = chosen.item.qdata;
+            activePoolIndex = chosen.idx;
+            activeQuestionSource = "pool";
+        } else {
+            currentQData = buildFreshConfig();
+        }
+
+        document.getElementById('questionText').innerText = currentQData.text;
+        currentAnswer = currentQData.ans.toUpperCase();
+        
+        determineKeyboard();
+        startTimer();
+    }
+
+    // --- Input & Timer Execution ---
     document.addEventListener('keydown', function(e) {
-        if (e.code === 'Space') {
-            e.preventDefault(); 
-            togglePause();
+        if (document.getElementById('view-quiz').classList.contains('active')) {
+            if (e.code === 'Space') { e.preventDefault(); handleKey('Space'); return; }
+            if (isTransitioning || isPaused) return;
+            if (e.key === 'Backspace') handleKey('Backspace');
+            else if (/^[a-zA-Z0-9.]$/.test(e.key)) handleKey(e.key.toUpperCase());
         }
     });
+
+    function handleKey(key) {
+        if (key === 'Space') { togglePause(); return; }
+        if (isTransitioning || isPaused) return;
+
+        if (key === 'Backspace') currentInput = currentInput.slice(0, -1);
+        else currentInput += key;
+        
+        updateDisplayInput();
+        checkAnswerLive();
+    }
+
+    function updateDisplayInput() {
+        const display = document.getElementById('virtualInput');
+        if (currentInput === "") {
+            display.innerText = "Type answer...";
+            display.classList.remove('has-value');
+        } else {
+            display.innerText = currentInput;
+            display.classList.add('has-value');
+        }
+    }
+
+    function startTimer() {
+        cancelAnimationFrame(animationFrameId);
+        startTime = performance.now();
+        
+        function tick(timestamp) {
+            if (isPaused || isTransitioning) return;
+            const elapsed = timestamp - startTime;
+            const remaining = Math.max(0, pausedRemaining - elapsed);
+            
+            document.getElementById('timerText').innerText = (remaining / 1000).toFixed(1) + 's';
+            document.getElementById('timerCircle').style.strokeDashoffset = CIRCUMFERENCE * (1 - (remaining / TIME_LIMIT));
+            
+            if (remaining <= 0) handleTimeout();
+            else animationFrameId = requestAnimationFrame(tick);
+        }
+        animationFrameId = requestAnimationFrame(tick);
+    }
 
     function togglePause() {
         isPaused = !isPaused;
         const qText = document.getElementById('questionText');
-        const ansInput = document.getElementById('answerInput');
-        const timerBar = document.getElementById('timerBar');
         const feedback = document.getElementById('feedbackText');
-
+        
         if (isPaused) {
-            clearTimeout(timeoutId);
-            isTransitioning = true;
-            timerBar.className = 'timer-bar timer-paused';
-            qText.innerText = "[[ PAUSED ]]";
-            ansInput.disabled = true;
-            feedback.innerText = "Press Space to Resume";
-            feedback.className = "feedback paused-text";
+            cancelAnimationFrame(animationFrameId);
+            const elapsed = performance.now() - startTime;
+            pausedRemaining = Math.max(0, pausedRemaining - elapsed);
+            
+            qText.innerText = "PAUSED";
+            feedback.innerText = "[SPACE] TO RESUME";
+            feedback.className = "feedback-text paused-text";
         } else {
-            isTransitioning = false;
-            generateQuestion(); 
-        }
-    }
-
-    function getRandomInt(min, max) {
-        return Math.floor(Math.random() * (max - min + 1)) + min;
-    }
-
-    function generateQuestion() {
-        if (isPaused) return;
-        
-        isTransitioning = false;
-        clearTimeout(timeoutId);
-        
-        const mode = document.getElementById('modeSelect').value;
-        const qText = document.getElementById('questionText');
-        const ansInput = document.getElementById('answerInput');
-        const timerBar = document.getElementById('timerBar');
-        const badge = document.getElementById('poolBadge');
-        
-        ansInput.value = '';
-        ansInput.disabled = false;
-        ansInput.focus();
-        document.getElementById('feedbackText').innerText = '';
-        
-        // BUG FIX: Strictly remove classes to force DOM reflow before adding animation class
-        timerBar.classList.remove('timer-active', 'timer-paused');
-        void timerBar.offsetWidth; 
-        timerBar.classList.add('timer-active');
-
-        activeQuestionSource = "random";
-        activePoolIndex = null;
-        badge.style.display = "none";
-
-        const validPoolIndices = frictionPool.map((item, idx) => ({item, idx})).filter(p => p.item.mode === mode);
-        
-        if (validPoolIndices.length > 0 && Math.random() < 0.40) {
-            const chosen = validPoolIndices[getRandomInt(0, validPoolIndices.length - 1)];
-            currentConfig = chosen.item.config;
-            activePoolIndex = chosen.idx;
-            activeQuestionSource = "pool";
-            badge.style.display = "inline-block";
-            badge.innerText = `Friction Loop Active (${validPoolIndices.length} queued)`;
-        } else {
-            currentConfig = buildFreshConfig(mode);
-        }
-
-        qText.innerText = currentConfig.text;
-        currentAnswer = currentConfig.ans.toUpperCase();
-
-        timeoutId = setTimeout(handleTimeout, 4000);
-    }
-
-    function buildFreshConfig(mode) {
-        let a, b, type;
-        switch(mode) {
-            case 'tables':
-                a = getRandomInt(2, 30);
-                b = (a <= 25) ? getRandomInt(2, 10) : getRandomInt(2, 5);
-                return { text: `${a} × ${b} = ?`, ans: (a * b).toString() };
-            case 'squares':
-                a = getRandomInt(1, 40);
-                return { text: `${a}² = ?`, ans: (a * a).toString() };
-            case 'cubes':
-                a = getRandomInt(1, 21);
-                return { text: `${a}³ = ?`, ans: (a * a * a).toString() };
-            case 'powers':
-                const powerConfigs = [
-                    { base: 2, exp: getRandomInt(2, 12) }, { base: 4, exp: getRandomInt(2, 6) },
-                    { base: 3, exp: getRandomInt(2, 6) }, { base: 5, exp: getRandomInt(2, 6) },
-                    { base: 6, exp: getRandomInt(2, 4) }
-                ];
-                const selected = powerConfigs[getRandomInt(0, powerConfigs.length - 1)];
-                return { text: `${selected.base}^${selected.exp} = ?`, ans: Math.pow(selected.base, selected.exp).toString() };
-            case 'arithmetic':
-                type = getRandomInt(1, 3);
-                if (type === 1) {
-                    a = getRandomInt(100, 999); b = getRandomInt(100, 999);
-                    return { text: `${a} + ${b} = ?`, ans: (a + b).toString() };
-                } else if (type === 2) {
-                    a = getRandomInt(100, 999); b = getRandomInt(100, a);
-                    return { text: `${a} - ${b} = ?`, ans: (a - b).toString() };
-                } else {
-                    a = getRandomInt(100, 999); b = getRandomInt(2, 9);
-                    return { text: `${a} × ${b} = ?`, ans: (a * b).toString() };
-                }
-            case 'fractions':
-                const f = sscFractions[getRandomInt(0, sscFractions.length - 1)];
-                return { text: `${f.pct} = ${f.eq}\n(Find x)`, ans: f.ans };
-            case 'triplets':
-                const t = triplets[getRandomInt(0, triplets.length - 1)];
-                const hideIndex = getRandomInt(0, 2); 
-                let displayTriplet = [...t]; displayTriplet[hideIndex] = "?";
-                return { text: `Triplet:\n${displayTriplet.join(', ')}`, ans: t[hideIndex].toString() };
-            case 'roots':
-                const r = squareRoots[getRandomInt(0, squareRoots.length - 1)];
-                return { text: `√${r.num} = ?\n(2 decimals)`, ans: r.val };
-            case 'alpha':
-                type = getRandomInt(1, 3); 
-                let letterIndex = getRandomInt(0, 25);
-                let letter = alphaMap[letterIndex];
-                if (type === 1) return { text: `Forward pos of ${letter}?`, ans: (letterIndex + 1).toString() };
-                if (type === 2) return { text: `Reverse pos of ${letter}?`, ans: (26 - letterIndex).toString() };
-                return { text: `Reverse pair of ${letter}?`, ans: reversePairs[letter] };
-            case 'primes':
-                let num = getRandomInt(1, 100);
-                let isPrime = primeNumbers.includes(num) ? "Y" : "N";
-                return { text: `Is ${num} prime? (Y/N)`, ans: isPrime };
-            case 'calendar':
-                let cal = calendarCodes[getRandomInt(0, calendarCodes.length - 1)];
-                return { text: cal.q, ans: cal.a };
+            startTime = performance.now();
+            qText.innerText = currentQData.text;
+            feedback.innerText = "";
+            startTimer();
         }
     }
 
     function checkAnswerLive() {
-        if (isTransitioning || isPaused) return;
-
-        const userInput = document.getElementById('answerInput').value.trim().toUpperCase();
-        if (userInput === "") return;
-
-        if (userInput === currentAnswer) {
+        if (currentInput === currentAnswer) {
             isTransitioning = true;
-            clearTimeout(timeoutId);
-            document.getElementById('timerBar').className = 'timer-bar'; 
+            cancelAnimationFrame(animationFrameId);
             
             attempts++; correct++;
+            if (activeQuestionSource === "pool" && activePoolIndex !== null) frictionPool.splice(activePoolIndex, 1);
             
-            if (activeQuestionSource === "pool" && activePoolIndex !== null) {
-                frictionPool.splice(activePoolIndex, 1);
-            }
-            
-            const feedback = document.getElementById('feedbackText');
-            feedback.innerText = "Correct!";
-            feedback.className = "feedback correct";
+            const fb = document.getElementById('feedbackText');
+            fb.innerText = "CORRECT";
+            fb.className = "feedback-text correct";
             
             updateStats();
             setTimeout(generateQuestion, 300); 
@@ -427,45 +652,36 @@
     }
 
     function handleTimeout() {
-        if (isPaused) return;
-
         isTransitioning = true;
-        document.getElementById('answerInput').disabled = true;
+        cancelAnimationFrame(animationFrameId);
+        
+        document.getElementById('timerText').innerText = "0.0s";
+        document.getElementById('timerCircle').style.strokeDashoffset = CIRCUMFERENCE;
         
         attempts++;
-        
         if (activeQuestionSource === "random") {
-            const mode = document.getElementById('modeSelect').value;
-            const clean = frictionPool.every(item => item.mode !== mode || item.config.text !== currentConfig.text);
-            if (clean) frictionPool.push({ mode: mode, config: currentConfig });
+            const clean = frictionPool.every(item => item.mode !== activeMode || item.qdata.text !== currentQData.text);
+            if (clean) frictionPool.push({ mode: activeMode, qdata: currentQData });
         }
         
-        const feedback = document.getElementById('feedbackText');
-        feedback.innerText = `Time's up! Answer: ${currentAnswer}`;
-        feedback.className = "feedback incorrect";
+        const fb = document.getElementById('feedbackText');
+        fb.innerText = `TIME'S UP! Ans: ${currentAnswer}`;
+        fb.className = "feedback-text incorrect";
         
         updateStats();
         setTimeout(generateQuestion, 1500);
     }
 
     function updateStats() {
-        document.getElementById('scoreText').innerText = `Score: ${correct} / ${attempts}`;
+        document.getElementById('scoreText').innerText = correct;
+        document.getElementById('queueText').innerText = frictionPool.length;
     }
 
     function resetStats() {
-        attempts = 0; correct = 0;
-        frictionPool = [];
-        document.getElementById('poolBadge').style.display = "none";
+        attempts = 0; correct = 0; frictionPool = [];
         updateStats();
-        if(isPaused) togglePause(); 
     }
 
-    function resetAndStart() {
-        resetStats();
-        generateQuestion();
-    }
-
-    window.onload = generateQuestion;
 </script>
 </body>
 </html>
