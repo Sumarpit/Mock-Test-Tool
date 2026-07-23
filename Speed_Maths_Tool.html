@@ -3,9 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Speed Math & Reasoning Trainer v11 - Modular Edition</title>
+    <title>Speed Math & Reasoning Trainer</title>
+    <!-- Embedded Favicon for Brave/Chrome Tabs -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+    
     <style>
         :root {
+            /* Minimalist, low-friction palette */
             --bg-main: #0E1015;
             --panel-bg: #21232B;
             --text-main: #FFFFFF;
@@ -149,7 +153,7 @@
             margin-bottom: 10px;
         }
 
-        /* --- QUIZ VIEW (Preserved from v10) --- */
+        /* --- STREAMING_CHUNK:Configuring the Quiz View --- */
         .top-bar {
             display: flex;
             justify-content: space-between;
@@ -210,6 +214,7 @@
         .key.space-key { grid-column: span 3; font-size: 14px; background-color: #21232B; }
         .key.alpha-space { grid-column: span 6; font-size: 14px; background-color: #21232B; }
         .key.alpha-del { grid-column: span 4; font-size: 14px; background-color: #21232B; }
+        .key.danger-key { color: var(--danger-text); font-weight: 700; }
     </style>
 </head>
 <body>
@@ -230,12 +235,10 @@
             <button class="menu-btn" onclick="openConfig('alpha')">Alphabet Codes<span class="sub">Pos, Rev, Pairs</span></button>
             
             <!-- Direct Launch (No config needed) -->
-            <button class="menu-btn" onclick="launchDirect('fractions')">Fractions<span class="sub">% to Fraction (Standard)</span></button>
+            <button class="menu-btn" onclick="launchDirect('fractions')">Fractions<span class="sub">% to Fraction Mapping</span></button>
             <button class="menu-btn" onclick="launchDirect('triplets')">Triplets<span class="sub">Pythagorean (Standard)</span></button>
-            <button class="menu-btn" onclick="launchDirect('roots')">Surds / Roots<span class="sub">2, 3, 5 up to 2 dec</span></button>
+            <button class="menu-btn" onclick="launchDirect('roots')">Surds & Logs<span class="sub">√ and log₁₀ (2 dec)</span></button>
             <button class="menu-btn" onclick="launchDirect('powers')">Exam Powers<span class="sub">Bases 2, 3, 4, 5, 6</span></button>
-            <button class="menu-btn" onclick="launchDirect('arithmetic')">3-Digit Ops<span class="sub">Add, Sub, Mul</span></button>
-            <button class="menu-btn" onclick="launchDirect('primes')">Primes<span class="sub">1-100 check (Y/N)</span></button>
             <button class="menu-btn" onclick="launchDirect('calendar')">Calendar<span class="sub">Month, Century, Day</span></button>
         </div>
     </div>
@@ -298,7 +301,8 @@
                 <button class="key" onclick="handleKey('1')">1</button><button class="key" onclick="handleKey('2')">2</button><button class="key" onclick="handleKey('3')">3</button>
                 <button class="key" onclick="handleKey('4')">4</button><button class="key" onclick="handleKey('5')">5</button><button class="key" onclick="handleKey('6')">6</button>
                 <button class="key" onclick="handleKey('7')">7</button><button class="key" onclick="handleKey('8')">8</button><button class="key" onclick="handleKey('9')">9</button>
-                <button class="key action-key" onclick="handleKey('.')">.</button><button class="key" onclick="handleKey('0')">0</button><button class="key action-key" onclick="handleKey('Backspace')">DEL</button>
+                <button class="key action-key" onclick="handleKey('.')">.</button><button class="key" onclick="handleKey('0')">0</button>
+                <button class="key action-key danger-key" onclick="handleKey('Backspace')">AC</button>
                 <button class="key space-key" onclick="handleKey('Space')">PAUSE (SPACE)</button>
             </div>
             <div class="alphapad" id="alphapad" style="display: none;">
@@ -314,7 +318,7 @@
                 <button class="key" onclick="handleKey('V')">V</button><button class="key" onclick="handleKey('B')">B</button><button class="key" onclick="handleKey('N')">N</button><button class="key" onclick="handleKey('M')">M</button>
                 
                 <button class="key alpha-space" style="grid-column: 1 / span 6;" onclick="handleKey('Space')">PAUSE (SPACE)</button>
-                <button class="key alpha-del" style="grid-column: 7 / span 4;" onclick="handleKey('Backspace')">DEL</button>
+                <button class="key alpha-del danger-key" style="grid-column: 7 / span 4;" onclick="handleKey('Backspace')">AC</button>
             </div>
         </div>
     </div>
@@ -324,7 +328,7 @@
 <script>
     // --- Routing & Configuration State ---
     let activeMode = null;
-    let activeConfig = {}; // Stores parsed ranges and toggles
+    let activeConfig = {}; 
     
     // --- Quiz System State ---
     let currentAnswer = "";
@@ -347,16 +351,56 @@
     let activePoolIndex = null;
     let currentQData = null; 
 
-    // --- Hardcoded Datasets (Skipped configs) ---
-    const sscFractions = [ { pct: "33.33%", ans: "3" }, { pct: "25%", ans: "4" }, { pct: "20%", ans: "5" }, { pct: "16.66%", ans: "6" }, { pct: "14.28%", ans: "7" }, { pct: "12.5%", ans: "8" }, { pct: "11.11%", ans: "9" }, { pct: "9.09%", ans: "11" }, { pct: "8.33%", ans: "12" }, { pct: "7.69%", ans: "13" }, { pct: "7.14%", ans: "14" }, { pct: "6.66%", ans: "15" }, { pct: "6.25%", ans: "16" }, { pct: "5%", ans: "20" }, { pct: "66.66%", ans: "2" }, { pct: "75%", ans: "3" }, { pct: "40%", ans: "2" }, { pct: "60%", ans: "3" }, { pct: "80%", ans: "4" }, { pct: "83.33%", ans: "5" }, { pct: "37.5%", ans: "3" }, { pct: "62.5%", ans: "5" }, { pct: "87.5%", ans: "7" } ];
-    const triplets = [ [3, 4, 5], [6, 8, 10], [9, 12, 15], [5, 12, 13], [10, 24, 26], [7, 24, 25], [8, 15, 17], [9, 40, 41], [11, 60, 61], [12, 35, 37], [16, 63, 65], [20, 21, 29], [28, 45, 53], [33, 56, 65], [39, 80, 89] ];
-    const squareRoots = [{ num: "2", val: "1.41" }, { num: "3", val: "1.73" }, { num: "5", val: "2.24" }];
-    const primeNumbers = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97];
+    // --- High Yield Datasets ---
+    const sscFractions = [
+        { pct: "33.33%", eq: "1 / ?", ans: "3" }, { pct: "25%", eq: "1 / ?", ans: "4" },
+        { pct: "20%", eq: "1 / ?", ans: "5" }, { pct: "16.66%", eq: "1 / ?", ans: "6" },
+        { pct: "14.28%", eq: "1 / ?", ans: "7" }, { pct: "12.5%", eq: "1 / ?", ans: "8" },
+        { pct: "11.11%", eq: "1 / ?", ans: "9" }, { pct: "9.09%", eq: "1 / ?", ans: "11" },
+        { pct: "8.33%", eq: "1 / ?", ans: "12" }, { pct: "7.69%", eq: "1 / ?", ans: "13" },
+        { pct: "7.14%", eq: "1 / ?", ans: "14" }, { pct: "6.66%", eq: "1 / ?", ans: "15" },
+        { pct: "6.25%", eq: "1 / ?", ans: "16" }, { pct: "5%", eq: "1 / ?", ans: "20" },
+        { pct: "66.66%", eq: "? / 3", ans: "2" }, { pct: "75%", eq: "? / 4", ans: "3" },
+        { pct: "40%", eq: "? / 5", ans: "2" }, { pct: "60%", eq: "? / 5", ans: "3" },
+        { pct: "80%", eq: "? / 5", ans: "4" }, { pct: "83.33%", eq: "? / 6", ans: "5" },
+        { pct: "37.5%", eq: "? / 8", ans: "3" }, { pct: "62.5%", eq: "? / 8", ans: "5" },
+        { pct: "87.5%", eq: "? / 8", ans: "7" }, { pct: "22.22%", eq: "? / 9", ans: "2" },
+        { pct: "44.44%", eq: "? / 9", ans: "4" }, { pct: "27.27%", eq: "? / 11", ans: "3" }
+    ];
+    
+    const triplets = [ 
+        [3, 4, 5], [6, 8, 10], [9, 12, 15], [5, 12, 13], [10, 24, 26], 
+        [7, 24, 25], [8, 15, 17], [9, 40, 41], [11, 60, 61], [12, 35, 37], 
+        [16, 63, 65], [20, 21, 29], [28, 45, 53], [33, 56, 65], [39, 80, 89] 
+    ];
+    
+    const rootsAndLogs = [
+        { text: "√2 = ?\n(2 decimals)", ans: "1.41" },
+        { text: "√3 = ?\n(2 decimals)", ans: "1.73" },
+        { text: "√5 = ?\n(2 decimals)", ans: "2.24" },
+        { text: "√7 = ?\n(2 decimals)", ans: "2.64" },
+        { text: "log₁₀(2) = ?\n(2 decimals)", ans: "0.30" },
+        { text: "log₁₀(3) = ?\n(2 decimals)", ans: "0.48" },
+        { text: "log₁₀(5) = ?\n(2 decimals)", ans: "0.70" },
+        { text: "log₁₀(7) = ?\n(2 decimals)", ans: "0.85" }
+    ];
+
     const alphaMap = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     const reversePairs = {'A':'Z','B':'Y','C':'X','D':'W','E':'V','F':'U','G':'T','H':'S','I':'R','J':'Q','K':'P','L':'O','M':'N','N':'M','O':'L','P':'K','Q':'J','R':'I','S':'H','T':'G','U':'F','V':'E','W':'D','X':'C','Y':'B','Z':'A'};
-    const calendarCodes = [ { q: "Jan (Std)", a: "1" }, { q: "Jan (Leap)", a: "0" }, { q: "Feb (Std)", a: "4" }, { q: "Feb (Leap)", a: "3" }, { q: "Mar", a: "4" }, { q: "Apr", a: "0" }, { q: "May", a: "2" }, { q: "Jun", a: "5" }, { q: "Jul", a: "0" }, { q: "Aug", a: "3" }, { q: "Sep", a: "6" }, { q: "Oct", a: "1" }, { q: "Nov", a: "4" }, { q: "Dec", a: "6" }, { q: "1600s/2000s", a: "6" }, { q: "1700s", a: "4" }, { q: "1800s", a: "2" }, { q: "1900s", a: "0" }, { q: "Sun", a: "1" }, { q: "Mon", a: "2" }, { q: "Tue", a: "3" }, { q: "Wed", a: "4" }, { q: "Thu", a: "5" }, { q: "Fri", a: "6" }, { q: "Sat", a: "0" } ];
+    
+    const calendarCodes = [ 
+        { q: "Jan (Std)", a: "1" }, { q: "Jan (Leap)", a: "0" }, 
+        { q: "Feb (Std)", a: "4" }, { q: "Feb (Leap)", a: "3" }, 
+        { q: "Mar", a: "4" }, { q: "Apr", a: "0" }, { q: "May", a: "2" }, 
+        { q: "Jun", a: "5" }, { q: "Jul", a: "0" }, { q: "Aug", a: "3" }, 
+        { q: "Sep", a: "6" }, { q: "Oct", a: "1" }, { q: "Nov", a: "4" }, 
+        { q: "Dec", a: "6" }, { q: "1600s/2000s", a: "6" }, { q: "1700s", a: "4" }, 
+        { q: "1800s", a: "2" }, { q: "1900s", a: "0" }, { q: "Sun", a: "1" }, 
+        { q: "Mon", a: "2" }, { q: "Tue", a: "3" }, { q: "Wed", a: "4" }, 
+        { q: "Thu", a: "5" }, { q: "Fri", a: "6" }, { q: "Sat", a: "0" } 
+    ];
 
-    // --- Core Utilities ---
+    // --- STREAMING_CHUNK:Building helper functions... ---
     function getRandomFromList(list) { return list[Math.floor(Math.random() * list.length)]; }
     function getRandomInt(min, max) { return Math.floor(Math.random() * (max - min + 1)) + min; }
 
@@ -392,7 +436,7 @@
 
     function launchDirect(mode) {
         activeMode = mode;
-        activeConfig = {}; // No custom ranges
+        activeConfig = {}; 
         document.getElementById('quizModeLabel').innerText = mode.toUpperCase();
         resetStats();
         showView('view-quiz');
@@ -403,7 +447,7 @@
         activeMode = mode;
         const title = document.getElementById('configTitle');
         const form = document.getElementById('configForm');
-        form.innerHTML = ''; // clear
+        form.innerHTML = ''; 
 
         if (mode === 'tables') {
             title.innerText = "Configure Tables";
@@ -442,13 +486,13 @@
         if (['tables', 'squares', 'cubes'].includes(activeMode)) {
             const baseInput = document.getElementById('cfg-base').value;
             let bases = parseRangeString(baseInput);
-            if(bases.length === 0) bases = [2]; // Fallback safety
+            if(bases.length === 0) bases = [2]; 
             activeConfig.bases = bases;
 
             if (activeMode === 'tables') {
                 const multInput = document.getElementById('cfg-mult').value;
                 let mults = parseRangeString(multInput);
-                mults = mults.filter(m => m !== 1); // Strictly exclude 1
+                mults = mults.filter(m => m !== 1); 
                 if(mults.length === 0) mults = [2];
                 activeConfig.multipliers = mults;
             }
@@ -457,7 +501,7 @@
             if(document.getElementById('cfg-fwd').checked) activeConfig.types.push(1);
             if(document.getElementById('cfg-rev').checked) activeConfig.types.push(2);
             if(document.getElementById('cfg-pair').checked) activeConfig.types.push(3);
-            if(activeConfig.types.length === 0) activeConfig.types = [1]; // Fallback
+            if(activeConfig.types.length === 0) activeConfig.types = [1]; 
         }
 
         document.getElementById('quizModeLabel').innerText = activeMode.toUpperCase();
@@ -466,7 +510,7 @@
         generateQuestion();
     }
 
-    // --- Quiz Generation Logic ---
+    // --- STREAMING_CHUNK:Implementing event handling and verification loops... ---
     function buildFreshConfig() {
         let a, b, type;
         switch(activeMode) {
@@ -488,30 +532,22 @@
                 if (type === 2) return { text: `Rev Pos ${letter}?`, ans: (26 - letterIndex).toString() };
                 return { text: `Rev Pair ${letter}?`, ans: reversePairs[letter] };
             
-            // Non-configurable modes fallback to standard logic
+            // Direct launch modules
             case 'powers':
                 const pwrs = [ { b: 2, e: getRandomInt(2, 12) }, { b: 4, e: getRandomInt(2, 6) }, { b: 3, e: getRandomInt(2, 6) }, { b: 5, e: getRandomInt(2, 6) }, { b: 6, e: getRandomInt(2, 4) } ];
                 const p = getRandomFromList(pwrs);
                 return { text: `${p.b}^${p.e} = ?`, ans: Math.pow(p.b, p.e).toString() };
-            case 'arithmetic':
-                type = getRandomInt(1, 3);
-                if (type === 1) { a = getRandomInt(100, 999); b = getRandomInt(100, 999); return { text: `${a} + ${b} = ?`, ans: (a + b).toString() }; }
-                if (type === 2) { a = getRandomInt(100, 999); b = getRandomInt(100, a); return { text: `${a} - ${b} = ?`, ans: (a - b).toString() }; }
-                a = getRandomInt(100, 999); b = getRandomInt(2, 9); return { text: `${a} × ${b} = ?`, ans: (a * b).toString() };
             case 'fractions':
                 const f = getRandomFromList(sscFractions);
-                return { text: `${f.pct} = ?\n(Numerator/Denominator)`, ans: f.ans }; // Adapted for general numerator input conceptually if 1/x, just x.
+                return { text: `Find '?':\n${f.pct} = ${f.eq}`, ans: f.ans };
             case 'triplets':
                 const t = getRandomFromList(triplets);
                 const hIdx = getRandomInt(0, 2); 
                 let dTrip = [...t]; dTrip[hIdx] = "?";
                 return { text: `Triplet:\n${dTrip.join(', ')}`, ans: t[hIdx].toString() };
             case 'roots':
-                const r = getRandomFromList(squareRoots);
-                return { text: `√${r.num} = ?\n(2 dec)`, ans: r.val };
-            case 'primes':
-                let num = getRandomInt(1, 100);
-                return { text: `Is ${num} prime?\n(Y/N)`, ans: primeNumbers.includes(num) ? "Y" : "N" };
+                const r = getRandomFromList(rootsAndLogs);
+                return { text: r.text, ans: r.ans };
             case 'calendar':
                 let cal = getRandomFromList(calendarCodes);
                 return { text: `${cal.q}?`, ans: cal.a };
@@ -541,7 +577,6 @@
         document.getElementById('timerText').innerText = "4.0s";
         
         pausedRemaining = TIME_LIMIT;
-
         activeQuestionSource = "random";
         activePoolIndex = null;
 
@@ -568,8 +603,12 @@
         if (document.getElementById('view-quiz').classList.contains('active')) {
             if (e.code === 'Space') { e.preventDefault(); handleKey('Space'); return; }
             if (isTransitioning || isPaused) return;
-            if (e.key === 'Backspace') handleKey('Backspace');
-            else if (/^[a-zA-Z0-9.]$/.test(e.key)) handleKey(e.key.toUpperCase());
+            if (e.key === 'Backspace') {
+                e.preventDefault();
+                handleKey('Backspace');
+            } else if (/^[a-zA-Z0-9.]$/.test(e.key)) {
+                handleKey(e.key.toUpperCase());
+            }
         }
     });
 
@@ -577,8 +616,12 @@
         if (key === 'Space') { togglePause(); return; }
         if (isTransitioning || isPaused) return;
 
-        if (key === 'Backspace') currentInput = currentInput.slice(0, -1);
-        else currentInput += key;
+        // AC (All Clear) modification
+        if (key === 'Backspace') {
+            currentInput = "";
+        } else {
+            currentInput += key;
+        }
         
         updateDisplayInput();
         checkAnswerLive();
