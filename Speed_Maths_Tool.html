@@ -2,14 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Speed Math & Reasoning Trainer</title>
-    <!-- Embedded Favicon for Brave/Chrome Tabs -->
-    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <!-- SVG Favicon (Lightning Bolt) -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>">
+    <title>CGL Calculation Core v13</title>
     <style>
         :root {
-            /* Minimalist, low-friction palette */
             --bg-main: #0E1015;
             --panel-bg: #21232B;
             --text-main: #FFFFFF;
@@ -30,7 +28,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh;
+            height: 100dvh; /* Dynamic viewport to fix mobile chrome bottom bar issues */
             margin: 0;
             overflow: hidden;
             -webkit-font-smoothing: antialiased;
@@ -43,178 +41,98 @@
             height: 100%;
             display: flex;
             flex-direction: column;
-            padding: 20px;
+            padding: 15px;
             box-sizing: border-box;
             position: relative;
         }
 
-        /* View Routing */
+        /* --- View Routing --- */
         .view { display: none; flex-direction: column; height: 100%; }
         .view.active { display: flex; }
 
         /* --- HOME VIEW --- */
-        .header {
-            text-align: center;
-            margin-bottom: 25px;
-            padding-top: 20px;
-        }
+        .header { text-align: center; margin-bottom: 20px; padding-top: 10px; }
         .header h1 { font-size: 22px; margin: 0 0 5px 0; letter-spacing: -0.5px; }
         .header p { color: var(--text-muted); font-size: 13px; margin: 0; }
         
         .grid-menu {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 12px;
-            overflow-y: auto;
-            padding-bottom: 20px;
+            display: grid; grid-template-columns: 1fr 1fr; gap: 10px;
+            overflow-y: auto; padding-bottom: 20px;
         }
         .menu-btn {
-            background-color: var(--panel-bg);
-            border: 1px solid #333;
-            color: var(--text-main);
-            padding: 20px 15px;
-            border-radius: 12px;
-            font-size: 14px;
-            font-weight: 600;
-            cursor: pointer;
-            text-align: left;
-            transition: background 0.2s, border-color 0.2s;
-            display: flex;
-            flex-direction: column;
-            gap: 6px;
+            background-color: var(--panel-bg); border: 1px solid #333;
+            color: var(--text-main); padding: 15px 12px; border-radius: 10px;
+            font-size: 14px; font-weight: 600; cursor: pointer;
+            text-align: left; display: flex; flex-direction: column; gap: 4px;
         }
-        .menu-btn:hover { background-color: var(--key-bg); border-color: var(--text-muted); }
+        .menu-btn:active { background-color: var(--key-bg); border-color: var(--text-muted); }
         .menu-btn .sub { font-size: 11px; color: var(--text-muted); font-weight: 400; }
         
         /* --- CONFIG VIEW --- */
-        .config-panel {
-            background-color: var(--panel-bg);
-            border-radius: 12px;
-            padding: 25px;
-            margin-top: 20px;
-        }
-        .config-group { margin-bottom: 20px; text-align: left; }
-        .config-group label {
-            display: block;
-            font-size: 12px;
-            font-weight: 700;
-            color: var(--text-muted);
-            margin-bottom: 8px;
-            text-transform: uppercase;
-        }
-        .config-input {
-            width: 100%;
-            background-color: #16181D;
-            border: 1px solid #333;
-            color: var(--text-main);
-            padding: 12px;
-            border-radius: 8px;
-            font-size: 16px;
-            box-sizing: border-box;
-            outline: none;
-        }
+        .config-panel { background-color: var(--panel-bg); border-radius: 12px; padding: 20px; margin-top: 10px; }
+        .config-group { margin-bottom: 15px; text-align: left; }
+        .config-group label { display: block; font-size: 12px; font-weight: 700; color: var(--text-muted); margin-bottom: 6px; text-transform: uppercase; }
+        .config-input { width: 100%; background-color: #16181D; border: 1px solid #333; color: var(--text-main); padding: 12px; border-radius: 8px; font-size: 16px; box-sizing: border-box; outline: none; }
         .config-input:focus { border-color: var(--accent); }
-        .checkbox-group {
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-        }
-        .checkbox-label {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            font-size: 14px;
-            font-weight: 600;
-            cursor: pointer;
-        }
-        .action-btn {
-            width: 100%;
-            background-color: var(--accent);
-            color: #000;
-            border: none;
-            padding: 15px;
-            border-radius: 8px;
-            font-size: 16px;
-            font-weight: 700;
-            cursor: pointer;
-            margin-top: 10px;
-        }
-        .back-btn {
-            background: none;
-            border: none;
-            color: var(--text-muted);
-            font-size: 14px;
-            font-weight: 600;
-            cursor: pointer;
-            padding: 10px 0;
-            display: flex;
-            align-items: center;
-            gap: 5px;
-            margin-bottom: 10px;
-        }
+        .checkbox-group { display: flex; flex-direction: column; gap: 10px; }
+        .checkbox-label { display: flex; align-items: center; gap: 10px; font-size: 14px; font-weight: 600; cursor: pointer; }
+        .action-btn { width: 100%; background-color: var(--accent); color: #000; border: none; padding: 15px; border-radius: 8px; font-size: 16px; font-weight: 700; cursor: pointer; margin-top: 10px; }
+        .back-btn { background: none; border: none; color: var(--text-muted); font-size: 14px; font-weight: 600; cursor: pointer; padding: 5px 0; display: flex; align-items: center; gap: 5px; margin-bottom: 5px; }
 
-        /* --- STREAMING_CHUNK:Configuring the Quiz View --- */
-        .top-bar {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 10px 0;
-        }
-        .timer-module {
-            flex: 1;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            position: relative;
-            min-height: 220px;
-        }
-        .svg-circle { width: 220px; height: 220px; transform: rotate(-90deg); }
+        /* --- QUIZ VIEW --- */
+        .top-bar { display: flex; justify-content: space-between; align-items: center; padding: 5px 0; }
+        .audio-toggle { background: var(--panel-bg); color: var(--text-muted); border: 1px solid #333; border-radius: 20px; padding: 5px 12px; font-size: 12px; font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 6px; }
+        .audio-toggle.active { background: #1C3326; color: var(--success-text); border-color: var(--success-text); }
+        .audio-pulse { width: 8px; height: 8px; border-radius: 50%; background: var(--success-text); display: none; }
+        .audio-toggle.active .audio-pulse { display: block; animation: pulse 1s infinite; }
+        @keyframes pulse { 0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(129, 201, 149, 0.7); } 70% { transform: scale(1); box-shadow: 0 0 0 6px rgba(129, 201, 149, 0); } 100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(129, 201, 149, 0); } }
+
+        .timer-module { flex: 1; display: flex; justify-content: center; align-items: center; position: relative; min-height: 180px; }
+        .svg-circle { width: 200px; height: 200px; transform: rotate(-90deg); transition: width 0.3s, height 0.3s; }
         .circle-bg { fill: none; stroke: var(--circle-bg); stroke-width: 12; }
-        .circle-fg {
-            fill: none; stroke: var(--circle-fg); stroke-width: 12;
-            stroke-linecap: round; stroke-dasharray: 603; stroke-dashoffset: 0;
-        }
-        .timer-content {
-            position: absolute; top: 50%; left: 50%;
-            transform: translate(-50%, -50%);
-            text-align: center; width: 180px;
-        }
-        .question-text { font-size: 32px; font-weight: 700; margin-bottom: 10px; white-space: pre-line; line-height: 1.2; }
-        .instruction-text { font-size: 11px; color: var(--text-muted); margin-bottom: 15px; }
-        .feedback-text { font-size: 16px; font-weight: 700; height: 20px; text-transform: uppercase; }
+        .circle-fg { fill: none; stroke: var(--circle-fg); stroke-width: 12; stroke-linecap: round; stroke-dasharray: 603; stroke-dashoffset: 0; }
+        .timer-content { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; width: 160px; }
+        .question-text { font-size: 28px; font-weight: 700; margin-bottom: 8px; white-space: pre-line; line-height: 1.2; }
+        .instruction-text { font-size: 11px; color: var(--text-muted); margin-bottom: 10px; }
+        .feedback-text { font-size: 14px; font-weight: 700; height: 18px; text-transform: uppercase; }
         .correct { color: var(--success-text); }
         .incorrect { color: var(--danger-text); }
         .paused-text { color: #F8C060; }
+        .reading-text { color: var(--accent); font-size: 12px; }
         
-        .input-panel { background-color: var(--panel-bg); border-radius: 12px; padding: 20px; text-align: center; margin-bottom: 25px; }
-        .input-label { font-size: 12px; font-weight: 700; color: var(--text-muted); margin-bottom: 15px; letter-spacing: 0.5px; }
-        .virtual-input {
-            background-color: #16181D; border-radius: 8px; padding: 15px; font-size: 20px;
-            font-weight: 600; color: var(--text-muted); min-height: 54px;
-            display: flex; align-items: center; justify-content: center; box-sizing: border-box;
-        }
+        .input-panel { background-color: var(--panel-bg); border-radius: 10px; padding: 15px; text-align: center; margin-bottom: 15px; }
+        .virtual-input { background-color: #16181D; border-radius: 8px; padding: 12px; font-size: 20px; font-weight: 600; color: var(--text-muted); min-height: 48px; display: flex; align-items: center; justify-content: center; box-sizing: border-box; }
         .virtual-input.has-value { color: var(--text-main); }
         
-        .stats-row { display: flex; justify-content: space-between; margin-bottom: 30px; padding: 0 10px; }
+        .stats-row { display: flex; justify-content: space-between; margin-bottom: 15px; padding: 0 10px; }
         .stat-block { text-align: center; flex: 1; }
         .stat-block:nth-child(2) { border-left: 1px solid #333; border-right: 1px solid #333; }
-        .stat-label { font-size: 10px; font-weight: 700; color: var(--text-muted); margin-bottom: 5px; letter-spacing: 0.5px; }
-        .stat-value { font-size: 16px; font-weight: 700; }
+        .stat-label { font-size: 10px; font-weight: 700; color: var(--text-muted); margin-bottom: 2px; letter-spacing: 0.5px; }
+        .stat-value { font-size: 15px; font-weight: 700; }
         
-        .keyboard-container { margin-bottom: 15px; margin-top: auto; }
-        .numpad { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
-        .alphapad { display: grid; grid-template-columns: repeat(10, 1fr); gap: 6px; }
-        .key {
-            background-color: var(--key-bg); color: var(--text-main); border: none;
-            border-radius: 8px; padding: 15px 0; font-size: 20px; font-weight: 600;
-            cursor: pointer; user-select: none; transition: background 0.1s;
-        }
+        .keyboard-container { margin-top: auto; padding-bottom: 5px; }
+        .numpad { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+        .alphapad { display: grid; grid-template-columns: repeat(10, 1fr); gap: 4px; }
+        .key { background-color: var(--key-bg); color: var(--text-main); border: none; border-radius: 8px; padding: 12px 0; font-size: 20px; font-weight: 600; cursor: pointer; user-select: none; }
         .key:active { background-color: var(--key-active); }
         .key.action-key { font-size: 14px; background-color: #21232B; }
         .key.space-key { grid-column: span 3; font-size: 14px; background-color: #21232B; }
         .key.alpha-space { grid-column: span 6; font-size: 14px; background-color: #21232B; }
-        .key.alpha-del { grid-column: span 4; font-size: 14px; background-color: #21232B; }
-        .key.danger-key { color: var(--danger-text); font-weight: 700; }
+        .key.alpha-del { grid-column: span 4; font-size: 14px; background-color: #21232B; color: var(--danger-text); }
+        .ac-key { color: var(--danger-text); font-weight: 800; }
+
+        /* --- MOBILE VIEWPORT FIXES --- */
+        @media (max-height: 700px) {
+            .svg-circle { width: 140px; height: 140px; }
+            .circle-bg, .circle-fg { stroke-width: 10; }
+            .timer-module { min-height: 140px; }
+            .question-text { font-size: 24px; }
+            .input-panel { margin-bottom: 10px; padding: 10px; }
+            .virtual-input { min-height: 40px; font-size: 18px; padding: 8px; }
+            .key { padding: 10px 0; font-size: 18px; }
+            .grid-menu { gap: 8px; }
+            .menu-btn { padding: 10px; }
+        }
     </style>
 </head>
 <body>
@@ -224,36 +142,30 @@
     <!-- VIEW 1: HOME -->
     <div id="view-home" class="view active">
         <div class="header">
-            <h1>CGL Calculation Core</h1>
-            <p>Select a module to configure</p>
+            <h1>CGL Core v13</h1>
+            <p>Select Module</p>
         </div>
         <div class="grid-menu">
-            <!-- Configurable -->
-            <button class="menu-btn" onclick="openConfig('tables')">Tables<span class="sub">Custom Ranges & Multipliers</span></button>
+            <button class="menu-btn" onclick="openConfig('tables')">Tables<span class="sub">Ranges & Multipliers</span></button>
             <button class="menu-btn" onclick="openConfig('squares')">Squares<span class="sub">Custom Ranges</span></button>
             <button class="menu-btn" onclick="openConfig('cubes')">Cubes<span class="sub">Custom Ranges</span></button>
             <button class="menu-btn" onclick="openConfig('alpha')">Alphabet Codes<span class="sub">Pos, Rev, Pairs</span></button>
-            
-            <!-- Direct Launch (No config needed) -->
-            <button class="menu-btn" onclick="launchDirect('fractions')">Fractions<span class="sub">% to Fraction Mapping</span></button>
-            <button class="menu-btn" onclick="launchDirect('triplets')">Triplets<span class="sub">Pythagorean (Standard)</span></button>
-            <button class="menu-btn" onclick="launchDirect('roots')">Surds & Logs<span class="sub">√ and log₁₀ (2 dec)</span></button>
-            <button class="menu-btn" onclick="launchDirect('powers')">Exam Powers<span class="sub">Bases 2, 3, 4, 5, 6</span></button>
+            <button class="menu-btn" onclick="launchDirect('fractions')">Fractions<span class="sub">Target Variables</span></button>
+            <button class="menu-btn" onclick="launchDirect('triplets')">Triplets<span class="sub">Pythagorean</span></button>
+            <button class="menu-btn" onclick="launchDirect('roots')">Roots & Logs<span class="sub">2, 3, 5, 7</span></button>
+            <button class="menu-btn" onclick="launchDirect('powers')">Exam Powers<span class="sub">2, 3, 4, 5, 6</span></button>
             <button class="menu-btn" onclick="launchDirect('calendar')">Calendar<span class="sub">Month, Century, Day</span></button>
         </div>
     </div>
 
     <!-- VIEW 2: CONFIGURATION -->
     <div id="view-config" class="view">
-        <button class="back-btn" onclick="goHome()">← Back to Menu</button>
+        <button class="back-btn" onclick="goHome()">← Back</button>
         <div class="header">
             <h1 id="configTitle">Configure</h1>
             <p>Format: "12-34, 37"</p>
         </div>
-        
-        <div class="config-panel" id="configForm">
-            <!-- Dynamic Injection Here -->
-        </div>
+        <div class="config-panel" id="configForm"></div>
         <button class="action-btn" onclick="applyConfigAndStart()">START DRILL</button>
     </div>
 
@@ -261,7 +173,10 @@
     <div id="view-quiz" class="view">
         <div class="top-bar">
             <button class="back-btn" style="margin:0;" onclick="goHome()">← Exit</button>
-            <span id="quizModeLabel" style="font-size: 12px; font-weight: 600; color: var(--text-muted); text-transform: uppercase;"></span>
+            <button class="audio-toggle" id="audioToggleBtn" onclick="toggleAudioMode()">
+                <div class="audio-pulse"></div>
+                <span id="audioToggleText">Mic/Audio: OFF</span>
+            </button>
         </div>
 
         <div class="timer-module">
@@ -271,13 +186,12 @@
             </svg>
             <div class="timer-content">
                 <div class="question-text" id="questionText">Ready</div>
-                <div class="instruction-text">Type answer (Auto-checks)</div>
+                <div class="instruction-text" id="instructionText">Type answer (Auto-checks)</div>
                 <div class="feedback-text" id="feedbackText"></div>
             </div>
         </div>
 
-        <div class="input-panel">
-            <div class="input-label">YOUR ANSWER:</div>
+        <div class="input-panel" id="inputPanelUI">
             <div class="virtual-input" id="virtualInput">Type answer...</div>
         </div>
 
@@ -296,111 +210,91 @@
             </div>
         </div>
 
-        <div class="keyboard-container">
+        <div class="keyboard-container" id="keyboardUI">
             <div class="numpad" id="numpad">
                 <button class="key" onclick="handleKey('1')">1</button><button class="key" onclick="handleKey('2')">2</button><button class="key" onclick="handleKey('3')">3</button>
                 <button class="key" onclick="handleKey('4')">4</button><button class="key" onclick="handleKey('5')">5</button><button class="key" onclick="handleKey('6')">6</button>
                 <button class="key" onclick="handleKey('7')">7</button><button class="key" onclick="handleKey('8')">8</button><button class="key" onclick="handleKey('9')">9</button>
-                <button class="key action-key" onclick="handleKey('.')">.</button><button class="key" onclick="handleKey('0')">0</button>
-                <button class="key action-key danger-key" onclick="handleKey('Backspace')">AC</button>
+                <button class="key action-key" onclick="handleKey('.')">.</button><button class="key" onclick="handleKey('0')">0</button><button class="key action-key ac-key" onclick="handleKey('AC')">AC</button>
                 <button class="key space-key" onclick="handleKey('Space')">PAUSE (SPACE)</button>
             </div>
             <div class="alphapad" id="alphapad" style="display: none;">
                 <button class="key" onclick="handleKey('Q')">Q</button><button class="key" onclick="handleKey('W')">W</button><button class="key" onclick="handleKey('E')">E</button>
                 <button class="key" onclick="handleKey('R')">R</button><button class="key" onclick="handleKey('T')">T</button><button class="key" onclick="handleKey('Y')">Y</button>
                 <button class="key" onclick="handleKey('U')">U</button><button class="key" onclick="handleKey('I')">I</button><button class="key" onclick="handleKey('O')">O</button><button class="key" onclick="handleKey('P')">P</button>
-                
                 <button class="key" style="grid-column: 2;" onclick="handleKey('A')">A</button><button class="key" onclick="handleKey('S')">S</button><button class="key" onclick="handleKey('D')">D</button>
                 <button class="key" onclick="handleKey('F')">F</button><button class="key" onclick="handleKey('G')">G</button><button class="key" onclick="handleKey('H')">H</button>
                 <button class="key" onclick="handleKey('J')">J</button><button class="key" onclick="handleKey('K')">K</button><button class="key" onclick="handleKey('L')">L</button>
-                
                 <button class="key" style="grid-column: 3;" onclick="handleKey('Z')">Z</button><button class="key" onclick="handleKey('X')">X</button><button class="key" onclick="handleKey('C')">C</button>
                 <button class="key" onclick="handleKey('V')">V</button><button class="key" onclick="handleKey('B')">B</button><button class="key" onclick="handleKey('N')">N</button><button class="key" onclick="handleKey('M')">M</button>
-                
                 <button class="key alpha-space" style="grid-column: 1 / span 6;" onclick="handleKey('Space')">PAUSE (SPACE)</button>
-                <button class="key alpha-del danger-key" style="grid-column: 7 / span 4;" onclick="handleKey('Backspace')">AC</button>
+                <button class="key alpha-del ac-key" style="grid-column: 7 / span 4;" onclick="handleKey('AC')">AC (DEL)</button>
             </div>
         </div>
     </div>
-
 </div>
 
 <script>
-    // --- Routing & Configuration State ---
+    // --- Global State ---
     let activeMode = null;
-    let activeConfig = {}; 
-    
-    // --- Quiz System State ---
+    let activeConfig = {};
     let currentAnswer = "";
     let currentInput = "";
-    let attempts = 0;
-    let correct = 0;
-    let isTransitioning = false;
-    let isPaused = false;
+    let attempts = 0, correct = 0;
+    let isTransitioning = false, isPaused = false;
+    let frictionPool = [], activeQuestionSource = "random", activePoolIndex = null, currentQData = null;
     
-    // --- Timer State ---
-    let animationFrameId;
-    let startTime = null;
-    let pausedRemaining = 4000;
+    // Timer 
+    let animationFrameId, startTime = null, pausedRemaining = 4000;
     const TIME_LIMIT = 4000;
     const CIRCUMFERENCE = 603.18;
-    
-    // --- Spaced Repetition State ---
-    let frictionPool = []; 
-    let activeQuestionSource = "random"; 
-    let activePoolIndex = null;
-    let currentQData = null; 
 
-    // --- High Yield Datasets ---
+    // Audio Engine State
+    let audioModeActive = false;
+    let synth = window.speechSynthesis;
+    let recognition = null;
+    let audioCtx = null;
+
+    // --- Hardcoded Datasets ---
     const sscFractions = [
-        { pct: "33.33%", eq: "1 / ?", ans: "3" }, { pct: "25%", eq: "1 / ?", ans: "4" },
-        { pct: "20%", eq: "1 / ?", ans: "5" }, { pct: "16.66%", eq: "1 / ?", ans: "6" },
-        { pct: "14.28%", eq: "1 / ?", ans: "7" }, { pct: "12.5%", eq: "1 / ?", ans: "8" },
-        { pct: "11.11%", eq: "1 / ?", ans: "9" }, { pct: "9.09%", eq: "1 / ?", ans: "11" },
-        { pct: "8.33%", eq: "1 / ?", ans: "12" }, { pct: "7.69%", eq: "1 / ?", ans: "13" },
-        { pct: "7.14%", eq: "1 / ?", ans: "14" }, { pct: "6.66%", eq: "1 / ?", ans: "15" },
-        { pct: "6.25%", eq: "1 / ?", ans: "16" }, { pct: "5%", eq: "1 / ?", ans: "20" },
-        { pct: "66.66%", eq: "? / 3", ans: "2" }, { pct: "75%", eq: "? / 4", ans: "3" },
-        { pct: "40%", eq: "? / 5", ans: "2" }, { pct: "60%", eq: "? / 5", ans: "3" },
-        { pct: "80%", eq: "? / 5", ans: "4" }, { pct: "83.33%", eq: "? / 6", ans: "5" },
-        { pct: "37.5%", eq: "? / 8", ans: "3" }, { pct: "62.5%", eq: "? / 8", ans: "5" },
-        { pct: "87.5%", eq: "? / 8", ans: "7" }, { pct: "22.22%", eq: "? / 9", ans: "2" },
-        { pct: "44.44%", eq: "? / 9", ans: "4" }, { pct: "27.27%", eq: "? / 11", ans: "3" }
+        { q: "Find '?':\n33.33% = 1 / ?", a: "3" }, { q: "Find '?':\n25% = 1 / ?", a: "4" },
+        { q: "Find '?':\n20% = 1 / ?", a: "5" }, { q: "Find '?':\n16.66% = 1 / ?", a: "6" },
+        { q: "Find '?':\n14.28% = 1 / ?", a: "7" }, { q: "Find '?':\n12.5% = 1 / ?", a: "8" },
+        { q: "Find '?':\n11.11% = 1 / ?", a: "9" }, { q: "Find '?':\n9.09% = 1 / ?", a: "11" },
+        { q: "Find '?':\n8.33% = 1 / ?", a: "12" }, { q: "Find '?':\n7.14% = 1 / ?", a: "14" },
+        { q: "Find '?':\n6.66% = 1 / ?", a: "15" }, { q: "Find '?':\n6.25% = 1 / ?", a: "16" },
+        { q: "Find '?':\n66.66% = ? / 3", a: "2" }, { q: "Find '?':\n75% = ? / 4", a: "3" },
+        { q: "Find '?':\n40% = ? / 5", a: "2" }, { q: "Find '?':\n60% = ? / 5", a: "3" },
+        { q: "Find '?':\n80% = ? / 5", a: "4" }, { q: "Find '?':\n83.33% = ? / 6", a: "5" },
+        { q: "Find '?':\n37.5% = ? / 8", a: "3" }, { q: "Find '?':\n62.5% = ? / 8", a: "5" },
+        { q: "Find '?':\n87.5% = ? / 8", a: "7" }
     ];
-    
-    const triplets = [ 
-        [3, 4, 5], [6, 8, 10], [9, 12, 15], [5, 12, 13], [10, 24, 26], 
-        [7, 24, 25], [8, 15, 17], [9, 40, 41], [11, 60, 61], [12, 35, 37], 
-        [16, 63, 65], [20, 21, 29], [28, 45, 53], [33, 56, 65], [39, 80, 89] 
+    const triplets = [ [3, 4, 5], [6, 8, 10], [9, 12, 15], [5, 12, 13], [10, 24, 26], [7, 24, 25], [8, 15, 17], [9, 40, 41], [11, 60, 61], [12, 35, 37], [16, 63, 65], [20, 21, 29], [28, 45, 53], [33, 56, 65], [39, 80, 89] ];
+    const rootsLogs = [
+        { q: "√2", a: "1.41", spk: "Square root of 2" }, { q: "√3", a: "1.73", spk: "Square root of 3" }, 
+        { q: "√5", a: "2.24", spk: "Square root of 5" }, { q: "√7", a: "2.64", spk: "Square root of 7" },
+        { q: "log₁₀ 2", a: "0.30", spk: "Log base 10 of 2" }, { q: "log₁₀ 3", a: "0.47", spk: "Log base 10 of 3" }, 
+        { q: "log₁₀ 5", a: "0.69", spk: "Log base 10 of 5" }, { q: "log₁₀ 7", a: "0.84", spk: "Log base 10 of 7" }
     ];
-    
-    const rootsAndLogs = [
-        { text: "√2 = ?\n(2 decimals)", ans: "1.41" },
-        { text: "√3 = ?\n(2 decimals)", ans: "1.73" },
-        { text: "√5 = ?\n(2 decimals)", ans: "2.24" },
-        { text: "√7 = ?\n(2 decimals)", ans: "2.64" },
-        { text: "log₁₀(2) = ?\n(2 decimals)", ans: "0.30" },
-        { text: "log₁₀(3) = ?\n(2 decimals)", ans: "0.48" },
-        { text: "log₁₀(5) = ?\n(2 decimals)", ans: "0.70" },
-        { text: "log₁₀(7) = ?\n(2 decimals)", ans: "0.85" }
-    ];
-
     const alphaMap = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     const reversePairs = {'A':'Z','B':'Y','C':'X','D':'W','E':'V','F':'U','G':'T','H':'S','I':'R','J':'Q','K':'P','L':'O','M':'N','N':'M','O':'L','P':'K','Q':'J','R':'I','S':'H','T':'G','U':'F','V':'E','W':'D','X':'C','Y':'B','Z':'A'};
-    
-    const calendarCodes = [ 
-        { q: "Jan (Std)", a: "1" }, { q: "Jan (Leap)", a: "0" }, 
-        { q: "Feb (Std)", a: "4" }, { q: "Feb (Leap)", a: "3" }, 
-        { q: "Mar", a: "4" }, { q: "Apr", a: "0" }, { q: "May", a: "2" }, 
-        { q: "Jun", a: "5" }, { q: "Jul", a: "0" }, { q: "Aug", a: "3" }, 
-        { q: "Sep", a: "6" }, { q: "Oct", a: "1" }, { q: "Nov", a: "4" }, 
-        { q: "Dec", a: "6" }, { q: "1600s/2000s", a: "6" }, { q: "1700s", a: "4" }, 
-        { q: "1800s", a: "2" }, { q: "1900s", a: "0" }, { q: "Sun", a: "1" }, 
-        { q: "Mon", a: "2" }, { q: "Tue", a: "3" }, { q: "Wed", a: "4" }, 
-        { q: "Thu", a: "5" }, { q: "Fri", a: "6" }, { q: "Sat", a: "0" } 
+    const calendarCodes = [
+        { q: "Month:\nJan (Std)", a: "1", spk: "Month code for January standard year" }, { q: "Month:\nJan (Leap)", a: "0", spk: "Month code for January leap year" },
+        { q: "Month:\nFeb (Std)", a: "4", spk: "Month code for February standard year" }, { q: "Month:\nFeb (Leap)", a: "3", spk: "Month code for February leap year" },
+        { q: "Month:\nMar", a: "4", spk: "Month code for March" }, { q: "Month:\nApr", a: "0", spk: "Month code for April" },
+        { q: "Month:\nMay", a: "2", spk: "Month code for May" }, { q: "Month:\nJun", a: "5", spk: "Month code for June" },
+        { q: "Month:\nJul", a: "0", spk: "Month code for July" }, { q: "Month:\nAug", a: "3", spk: "Month code for August" },
+        { q: "Month:\nSep", a: "6", spk: "Month code for September" }, { q: "Month:\nOct", a: "1", spk: "Month code for October" },
+        { q: "Month:\nNov", a: "4", spk: "Month code for November" }, { q: "Month:\nDec", a: "6", spk: "Month code for December" },
+        { q: "Century:\n1600s/2000s", a: "6", spk: "Century code for 2000s" }, { q: "Century:\n1700s", a: "4", spk: "Century code for 1700s" },
+        { q: "Century:\n1800s", a: "2", spk: "Century code for 1800s" }, { q: "Century:\n1900s", a: "0", spk: "Century code for 1900s" },
+        { q: "Day:\nSunday", a: "1", spk: "Day code for Sunday" }, { q: "Day:\nMonday", a: "2", spk: "Day code for Monday" },
+        { q: "Day:\nTuesday", a: "3", spk: "Day code for Tuesday" }, { q: "Day:\nWednesday", a: "4", spk: "Day code for Wednesday" },
+        { q: "Day:\nThursday", a: "5", spk: "Day code for Thursday" }, { q: "Day:\nFriday", a: "6", spk: "Day code for Friday" },
+        { q: "Day:\nSaturday", a: "0", spk: "Day code for Saturday" }
     ];
 
-    // --- STREAMING_CHUNK:Building helper functions... ---
+    // --- Core Utilities ---
     function getRandomFromList(list) { return list[Math.floor(Math.random() * list.length)]; }
     function getRandomInt(min, max) { return Math.floor(Math.random() * (max - min + 1)) + min; }
 
@@ -422,13 +316,89 @@
         return Array.from(result).filter(n => n > 0);
     }
 
-    // --- UI Routing Logic ---
+    // --- Audio Cues (Synthesizer) ---
+    function initAudioCtx() {
+        if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+        if (audioCtx.state === 'suspended') audioCtx.resume();
+    }
+    function playTone(freq, type, durationMs) {
+        if(!audioCtx) return;
+        const osc = audioCtx.createOscillator();
+        const gain = audioCtx.createGain();
+        osc.type = type; osc.frequency.setValueAtTime(freq, audioCtx.currentTime);
+        gain.gain.setValueAtTime(0.1, audioCtx.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + durationMs/1000);
+        osc.connect(gain); gain.connect(audioCtx.destination);
+        osc.start(); osc.stop(audioCtx.currentTime + durationMs/1000);
+    }
+    function beepStart() { playTone(600, 'sine', 150); }
+    function beepCorrect() { playTone(800, 'sine', 100); setTimeout(() => playTone(1200, 'sine', 150), 100); }
+    function beepWrong() { playTone(300, 'sawtooth', 300); }
+
+    // --- Speech Recognition (STT) Setup ---
+    function initSTT() {
+        if (!('webkitSpeechRecognition' in window)) {
+            alert("Speech recognition not supported in this browser. Try Chrome.");
+            audioModeActive = false; updateAudioUI(); return false;
+        }
+        recognition = new webkitSpeechRecognition();
+        recognition.continuous = true;
+        recognition.interimResults = true;
+        recognition.lang = 'en-IN'; // Better number parsing for Indian accents
+        
+        recognition.onresult = (event) => {
+            if (isTransitioning || isPaused) return;
+            let transcript = "";
+            for(let i = event.resultIndex; i < event.results.length; i++) {
+                transcript += event.results[i][0].transcript;
+            }
+            evaluateSpeech(transcript);
+        };
+        recognition.onerror = (e) => { console.warn("STT Error: ", e.error); };
+        return true;
+    }
+
+    function toggleAudioMode() {
+        audioModeActive = !audioModeActive;
+        if (audioModeActive) {
+            initAudioCtx();
+            if (!recognition && !initSTT()) return;
+        } else {
+            synth.cancel();
+            if(recognition) { recognition.stop(); }
+        }
+        updateAudioUI();
+        generateQuestion(); // Restart loop with new mode
+    }
+
+    function updateAudioUI() {
+        const btn = document.getElementById('audioToggleBtn');
+        const txt = document.getElementById('audioToggleText');
+        const kbd = document.getElementById('keyboardUI');
+        const inp = document.getElementById('inputPanelUI');
+        
+        if (audioModeActive) {
+            btn.classList.add('active');
+            txt.innerText = "Audio: ON";
+            kbd.style.display = 'none'; // Hide keyboard to save space
+            inp.style.display = 'none';
+        } else {
+            btn.classList.remove('active');
+            txt.innerText = "Audio: OFF";
+            kbd.style.display = 'block';
+            inp.style.display = 'block';
+        }
+    }
+
+    // --- Routing & Launch ---
     function showView(viewId) {
         document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
         document.getElementById(viewId).classList.add('active');
     }
 
     function goHome() {
+        synth.cancel();
+        if(recognition) recognition.stop();
         cancelAnimationFrame(animationFrameId);
         showView('view-home');
         activeMode = null;
@@ -437,7 +407,6 @@
     function launchDirect(mode) {
         activeMode = mode;
         activeConfig = {}; 
-        document.getElementById('quizModeLabel').innerText = mode.toUpperCase();
         resetStats();
         showView('view-quiz');
         generateQuestion();
@@ -447,20 +416,12 @@
         activeMode = mode;
         const title = document.getElementById('configTitle');
         const form = document.getElementById('configForm');
-        form.innerHTML = ''; 
+        form.innerHTML = '';
 
         if (mode === 'tables') {
             title.innerText = "Configure Tables";
-            form.innerHTML = `
-                <div class="config-group">
-                    <label>Table Numbers (Base)</label>
-                    <input type="text" id="cfg-base" class="config-input" value="2-30">
-                </div>
-                <div class="config-group">
-                    <label>Multipliers (Excl. 1)</label>
-                    <input type="text" id="cfg-mult" class="config-input" value="2-9">
-                </div>
-            `;
+            form.innerHTML = `<div class="config-group"><label>Table Numbers (Base)</label><input type="text" id="cfg-base" class="config-input" value="2-30"></div>
+                              <div class="config-group"><label>Multipliers (Excl. 1)</label><input type="text" id="cfg-mult" class="config-input" value="2-9"></div>`;
         } else if (mode === 'squares') {
             title.innerText = "Configure Squares";
             form.innerHTML = `<div class="config-group"><label>Numbers to Square</label><input type="text" id="cfg-base" class="config-input" value="1-40"></div>`;
@@ -482,7 +443,6 @@
 
     function applyConfigAndStart() {
         activeConfig = {};
-        
         if (['tables', 'squares', 'cubes'].includes(activeMode)) {
             const baseInput = document.getElementById('cfg-base').value;
             let bases = parseRangeString(baseInput);
@@ -501,56 +461,51 @@
             if(document.getElementById('cfg-fwd').checked) activeConfig.types.push(1);
             if(document.getElementById('cfg-rev').checked) activeConfig.types.push(2);
             if(document.getElementById('cfg-pair').checked) activeConfig.types.push(3);
-            if(activeConfig.types.length === 0) activeConfig.types = [1]; 
+            if(activeConfig.types.length === 0) activeConfig.types = [1];
         }
-
-        document.getElementById('quizModeLabel').innerText = activeMode.toUpperCase();
         resetStats();
         showView('view-quiz');
         generateQuestion();
     }
 
-    // --- STREAMING_CHUNK:Implementing event handling and verification loops... ---
+    // --- Data Construction ---
     function buildFreshConfig() {
         let a, b, type;
         switch(activeMode) {
             case 'tables':
-                a = getRandomFromList(activeConfig.bases);
-                b = getRandomFromList(activeConfig.multipliers);
-                return { text: `${a} × ${b} = ?`, ans: (a * b).toString() };
+                a = getRandomFromList(activeConfig.bases); b = getRandomFromList(activeConfig.multipliers);
+                return { text: `${a} × ${b} = ?`, ans: (a * b).toString(), spk: `${a} times ${b}` };
             case 'squares':
                 a = getRandomFromList(activeConfig.bases);
-                return { text: `${a}² = ?`, ans: (a * a).toString() };
+                return { text: `${a}² = ?`, ans: (a * a).toString(), spk: `${a} squared` };
             case 'cubes':
                 a = getRandomFromList(activeConfig.bases);
-                return { text: `${a}³ = ?`, ans: (a * a * a).toString() };
+                return { text: `${a}³ = ?`, ans: (a * a * a).toString(), spk: `${a} cubed` };
             case 'alpha':
                 type = getRandomFromList(activeConfig.types); 
-                let letterIndex = getRandomInt(0, 25);
-                let letter = alphaMap[letterIndex];
-                if (type === 1) return { text: `Pos of ${letter}?`, ans: (letterIndex + 1).toString() };
-                if (type === 2) return { text: `Rev Pos ${letter}?`, ans: (26 - letterIndex).toString() };
-                return { text: `Rev Pair ${letter}?`, ans: reversePairs[letter] };
+                let letterIndex = getRandomInt(0, 25); let letter = alphaMap[letterIndex];
+                if (type === 1) return { text: `Pos of ${letter}?`, ans: (letterIndex + 1).toString(), spk: `Forward position of ${letter}` };
+                if (type === 2) return { text: `Rev Pos ${letter}?`, ans: (26 - letterIndex).toString(), spk: `Reverse position of ${letter}` };
+                return { text: `Rev Pair ${letter}?`, ans: reversePairs[letter], spk: `Reverse pair of ${letter}` };
             
-            // Direct launch modules
             case 'powers':
                 const pwrs = [ { b: 2, e: getRandomInt(2, 12) }, { b: 4, e: getRandomInt(2, 6) }, { b: 3, e: getRandomInt(2, 6) }, { b: 5, e: getRandomInt(2, 6) }, { b: 6, e: getRandomInt(2, 4) } ];
                 const p = getRandomFromList(pwrs);
-                return { text: `${p.b}^${p.e} = ?`, ans: Math.pow(p.b, p.e).toString() };
+                return { text: `${p.b}^${p.e} = ?`, ans: Math.pow(p.b, p.e).toString(), spk: `${p.b} to the power of ${p.e}` };
             case 'fractions':
                 const f = getRandomFromList(sscFractions);
-                return { text: `Find '?':\n${f.pct} = ${f.eq}`, ans: f.ans };
+                return { text: f.q, ans: f.a, spk: f.q.replace(/[\?\n\/]/g, " ").replace("=", "equals") };
             case 'triplets':
                 const t = getRandomFromList(triplets);
                 const hIdx = getRandomInt(0, 2); 
                 let dTrip = [...t]; dTrip[hIdx] = "?";
-                return { text: `Triplet:\n${dTrip.join(', ')}`, ans: t[hIdx].toString() };
+                return { text: `Triplet:\n${dTrip.join(', ')}`, ans: t[hIdx].toString(), spk: `Triplet: ${dTrip.join(', ').replace('?', 'blank')}` };
             case 'roots':
-                const r = getRandomFromList(rootsAndLogs);
-                return { text: r.text, ans: r.ans };
+                const r = getRandomFromList(rootsLogs);
+                return { text: `${r.q} = ?\n(2 dec)`, ans: r.a, spk: r.spk };
             case 'calendar':
                 let cal = getRandomFromList(calendarCodes);
-                return { text: `${cal.q}?`, ans: cal.a };
+                return { text: `${cal.q}?`, ans: cal.a, spk: cal.spk };
         }
     }
 
@@ -564,64 +519,72 @@
         }
     }
 
+    // --- Core Execution Loop ---
     function generateQuestion() {
-        isTransitioning = false;
-        isPaused = false;
+        isTransitioning = false; isPaused = false;
         cancelAnimationFrame(animationFrameId);
+        synth.cancel();
+        if (recognition) recognition.stop();
         
-        currentInput = "";
-        updateDisplayInput();
+        currentInput = ""; updateDisplayInput();
         
-        document.getElementById('feedbackText').innerText = '';
+        const fb = document.getElementById('feedbackText');
+        fb.innerText = '';
         document.getElementById('timerCircle').style.strokeDashoffset = 0;
         document.getElementById('timerText').innerText = "4.0s";
         
-        pausedRemaining = TIME_LIMIT;
-        activeQuestionSource = "random";
-        activePoolIndex = null;
-
+        activeQuestionSource = "random"; activePoolIndex = null;
         const validPoolIndices = frictionPool.map((item, idx) => ({item, idx})).filter(p => p.item.mode === activeMode);
-        
         if (validPoolIndices.length > 0 && Math.random() < 0.40) {
             const chosen = validPoolIndices[getRandomInt(0, validPoolIndices.length - 1)];
-            currentQData = chosen.item.qdata;
-            activePoolIndex = chosen.idx;
-            activeQuestionSource = "pool";
+            currentQData = chosen.item.qdata; activePoolIndex = chosen.idx; activeQuestionSource = "pool";
         } else {
             currentQData = buildFreshConfig();
         }
 
         document.getElementById('questionText').innerText = currentQData.text;
         currentAnswer = currentQData.ans.toUpperCase();
-        
         determineKeyboard();
-        startTimer();
+
+        if (audioModeActive) {
+            document.getElementById('instructionText').innerText = "Listen & Speak (Auto)";
+            fb.innerText = "READING..."; fb.className = "feedback-text reading-text";
+            
+            const utterance = new SpeechSynthesisUtterance(currentQData.spk);
+            utterance.rate = 1.1; // Slightly faster to maintain momentum
+            utterance.onend = () => {
+                if (isPaused || isTransitioning) return;
+                fb.innerText = "LISTENING..."; fb.className = "feedback-text paused-text";
+                beepStart();
+                pausedRemaining = TIME_LIMIT;
+                try { recognition.start(); } catch(e){} // Catch if already started
+                startTimer();
+            };
+            synth.speak(utterance);
+        } else {
+            document.getElementById('instructionText').innerText = "Type answer (Auto-checks)";
+            pausedRemaining = TIME_LIMIT;
+            startTimer();
+        }
     }
 
-    // --- Input & Timer Execution ---
+    // --- Manual Input Handling ---
     document.addEventListener('keydown', function(e) {
-        if (document.getElementById('view-quiz').classList.contains('active')) {
+        if (document.getElementById('view-quiz').classList.contains('active') && !audioModeActive) {
             if (e.code === 'Space') { e.preventDefault(); handleKey('Space'); return; }
             if (isTransitioning || isPaused) return;
-            if (e.key === 'Backspace') {
-                e.preventDefault();
-                handleKey('Backspace');
-            } else if (/^[a-zA-Z0-9.]$/.test(e.key)) {
-                handleKey(e.key.toUpperCase());
-            }
+            if (e.key === 'Backspace') handleKey('AC');
+            else if (/^[a-zA-Z0-9.]$/.test(e.key)) handleKey(e.key.toUpperCase());
         }
     });
 
     function handleKey(key) {
+        if (audioModeActive) return; // Disable keyboard if mic is on
         if (key === 'Space') { togglePause(); return; }
         if (isTransitioning || isPaused) return;
 
-        // AC (All Clear) modification
-        if (key === 'Backspace') {
-            currentInput = "";
-        } else {
-            currentInput += key;
-        }
+        if (key === 'AC' || key === 'Backspace') currentInput = "";
+        else currentInput += key;
         
         updateDisplayInput();
         checkAnswerLive();
@@ -630,18 +593,32 @@
     function updateDisplayInput() {
         const display = document.getElementById('virtualInput');
         if (currentInput === "") {
-            display.innerText = "Type answer...";
-            display.classList.remove('has-value');
+            display.innerText = "Type answer..."; display.classList.remove('has-value');
         } else {
-            display.innerText = currentInput;
-            display.classList.add('has-value');
+            display.innerText = currentInput; display.classList.add('has-value');
         }
     }
 
+    // --- Speech Evaluation Logic ---
+    function normalizeSpeech(str) {
+        let s = str.toLowerCase();
+        // Convert homophones and words to digits
+        const map = { 'zero':'0', 'one':'1', 'two':'2', 'to':'2', 'too':'2', 'three':'3', 'tree':'3', 'four':'4', 'for':'4', 'five':'5', 'six':'6', 'seven':'7', 'eight':'8', 'ate':'8', 'nine':'9', 'point':'.', 'dot':'.' };
+        for(let k in map) { s = s.split(k).join(map[k]); }
+        return s.replace(/\s+/g, ''); // Strip all spaces
+    }
+
+    function evaluateSpeech(transcript) {
+        let cleanTranscript = normalizeSpeech(transcript).toUpperCase();
+        if (cleanTranscript.includes(currentAnswer)) {
+            triggerSuccess();
+        }
+    }
+
+    // --- Timer & State Resolution ---
     function startTimer() {
         cancelAnimationFrame(animationFrameId);
         startTime = performance.now();
-        
         function tick(timestamp) {
             if (isPaused || isTransitioning) return;
             const elapsed = timestamp - startTime;
@@ -659,45 +636,54 @@
     function togglePause() {
         isPaused = !isPaused;
         const qText = document.getElementById('questionText');
-        const feedback = document.getElementById('feedbackText');
+        const fb = document.getElementById('feedbackText');
         
         if (isPaused) {
             cancelAnimationFrame(animationFrameId);
+            synth.cancel();
+            if(recognition) recognition.stop();
             const elapsed = performance.now() - startTime;
             pausedRemaining = Math.max(0, pausedRemaining - elapsed);
-            
             qText.innerText = "PAUSED";
-            feedback.innerText = "[SPACE] TO RESUME";
-            feedback.className = "feedback-text paused-text";
+            fb.innerText = "[SPACE] TO RESUME";
+            fb.className = "feedback-text paused-text";
         } else {
             startTime = performance.now();
             qText.innerText = currentQData.text;
-            feedback.innerText = "";
+            fb.innerText = "";
+            if(audioModeActive) { try{ recognition.start(); }catch(e){} }
             startTimer();
         }
     }
 
+    function triggerSuccess() {
+        isTransitioning = true;
+        cancelAnimationFrame(animationFrameId);
+        if(recognition) recognition.stop();
+        
+        if(audioModeActive) beepCorrect();
+        
+        attempts++; correct++;
+        if (activeQuestionSource === "pool" && activePoolIndex !== null) frictionPool.splice(activePoolIndex, 1);
+        
+        const fb = document.getElementById('feedbackText');
+        fb.innerText = "CORRECT"; fb.className = "feedback-text correct";
+        
+        updateStats();
+        setTimeout(generateQuestion, 300); 
+    }
+
     function checkAnswerLive() {
-        if (currentInput === currentAnswer) {
-            isTransitioning = true;
-            cancelAnimationFrame(animationFrameId);
-            
-            attempts++; correct++;
-            if (activeQuestionSource === "pool" && activePoolIndex !== null) frictionPool.splice(activePoolIndex, 1);
-            
-            const fb = document.getElementById('feedbackText');
-            fb.innerText = "CORRECT";
-            fb.className = "feedback-text correct";
-            
-            updateStats();
-            setTimeout(generateQuestion, 300); 
-        }
+        if (currentInput === currentAnswer) { triggerSuccess(); }
     }
 
     function handleTimeout() {
         isTransitioning = true;
         cancelAnimationFrame(animationFrameId);
+        if(recognition) recognition.stop();
         
+        if(audioModeActive) beepWrong();
+
         document.getElementById('timerText').innerText = "0.0s";
         document.getElementById('timerCircle').style.strokeDashoffset = CIRCUMFERENCE;
         
@@ -708,11 +694,17 @@
         }
         
         const fb = document.getElementById('feedbackText');
-        fb.innerText = `TIME'S UP! Ans: ${currentAnswer}`;
-        fb.className = "feedback-text incorrect";
-        
+        fb.innerText = `ANS: ${currentAnswer}`; fb.className = "feedback-text incorrect";
         updateStats();
-        setTimeout(generateQuestion, 1500);
+
+        if (audioModeActive) {
+            const utterance = new SpeechSynthesisUtterance(`Answer is ${currentAnswer}`);
+            utterance.rate = 1.2;
+            utterance.onend = () => { setTimeout(generateQuestion, 800); };
+            synth.speak(utterance);
+        } else {
+            setTimeout(generateQuestion, 1500);
+        }
     }
 
     function updateStats() {
@@ -720,11 +712,7 @@
         document.getElementById('queueText').innerText = frictionPool.length;
     }
 
-    function resetStats() {
-        attempts = 0; correct = 0; frictionPool = [];
-        updateStats();
-    }
-
+    function resetStats() { attempts = 0; correct = 0; frictionPool = []; updateStats(); }
 </script>
 </body>
 </html>
