@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
-    <!-- SVG Favicon (Lightning Bolt) -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>">
-    <title>CGL Calculation Core v13</title>
+    <title>CGL Calculation Core v14 - Spaced Repetition</title>
     <style>
         :root {
             --bg-main: #0E1015;
@@ -28,7 +27,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100dvh; /* Dynamic viewport to fix mobile chrome bottom bar issues */
+            height: 100dvh; 
             margin: 0;
             overflow: hidden;
             -webkit-font-smoothing: antialiased;
@@ -142,8 +141,8 @@
     <!-- VIEW 1: HOME -->
     <div id="view-home" class="view active">
         <div class="header">
-            <h1>CGL Core v13</h1>
-            <p>Select Module</p>
+            <h1>CGL Core v14</h1>
+            <p>Spaced Repetition & Audio Edition</p>
         </div>
         <div class="grid-menu">
             <button class="menu-btn" onclick="openConfig('tables')">Tables<span class="sub">Ranges & Multipliers</span></button>
@@ -205,7 +204,7 @@
                 <div class="stat-value" id="timerText">4.0s</div>
             </div>
             <div class="stat-block">
-                <div class="stat-label">QUEUE</div>
+                <div class="stat-label">DUE REVIEWS</div>
                 <div class="stat-value" id="queueText">0</div>
             </div>
         </div>
@@ -242,7 +241,8 @@
     let currentInput = "";
     let attempts = 0, correct = 0;
     let isTransitioning = false, isPaused = false;
-    let frictionPool = [], activeQuestionSource = "random", activePoolIndex = null, currentQData = null;
+    let currentQData = null;
+    let globalSessionTick = 0; // Tick incremented on every question
     
     // Timer 
     let animationFrameId, startTime = null, pausedRemaining = 4000;
@@ -254,6 +254,56 @@
     let synth = window.speechSynthesis;
     let recognition = null;
     let audioCtx = null;
+
+    // --- Spaced Repetition State (SM-2 simplified implementation) ---
+    // Memory map tracking uniquely identifiable string representations of questions
+    const sm2Memory = new Map();
+    // { n: repetitions, ef: easiness factor, dueTick: globalSessionTick target }
+
+    function getSM2Data(qText) {
+        if (!sm2Memory.has(qText)) {
+            sm2Memory.set(qText, { n: 0, ef: 2.5, dueTick: globalSessionTick });
+        }
+        return sm2Memory.get(qText);
+    }
+
+    function processReview(qText, quality) {
+        // quality: 0-5 scale. For our binary system: 5 is correct, 0 is wrong/timeout.
+        const mem = getSM2Data(qText);
+        
+        let newEf = mem.ef + (0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02));
+        if (newEf < 1.3) newEf = 1.3;
+
+        let interval;
+        if (quality < 3) {
+            mem.n = 0;
+            interval = 2; // Hard failure, show again in 2 ticks
+        } else {
+            if (mem.n === 0) interval = 1;
+            else if (mem.n === 1) interval = 6;
+            else interval = Math.round(mem.interval * newEf);
+            
+            // Limit interval to avoid questions completely disappearing during a session
+            if(interval > 25) interval = 25; 
+            mem.n += 1;
+        }
+
+        mem.ef = newEf;
+        mem.interval = interval;
+        mem.dueTick = globalSessionTick + interval;
+    }
+
+    function getDueCountForMode(mode) {
+        let count = 0;
+        for (const [key, mem] of sm2Memory.entries()) {
+            // Check if key belongs to the current mode (we'll prefix keys with mode identifier)
+            if (key.startsWith(`[${mode}]`) && mem.dueTick <= globalSessionTick) {
+                count++;
+            }
+        }
+        return count;
+    }
+
 
     // --- Hardcoded Datasets ---
     const sscFractions = [
@@ -521,6 +571,7 @@
 
     // --- Core Execution Loop ---
     function generateQuestion() {
+        globalSessionTick++;
         isTransitioning = false; isPaused = false;
         cancelAnimationFrame(animationFrameId);
         synth.cancel();
@@ -533,12 +584,21 @@
         document.getElementById('timerCircle').style.strokeDashoffset = 0;
         document.getElementById('timerText').innerText = "4.0s";
         
-        activeQuestionSource = "random"; activePoolIndex = null;
-        const validPoolIndices = frictionPool.map((item, idx) => ({item, idx})).filter(p => p.item.mode === activeMode);
-        if (validPoolIndices.length > 0 && Math.random() < 0.40) {
-            const chosen = validPoolIndices[getRandomInt(0, validPoolIndices.length - 1)];
-            currentQData = chosen.item.qdata; activePoolIndex = chosen.idx; activeQuestionSource = "pool";
+        // SM-2 Review Check
+        let dueKeys = [];
+        for (const [key, mem] of sm2Memory.entries()) {
+            if (key.startsWith(`[${activeMode}]`) && mem.dueTick <= globalSessionTick) {
+                dueKeys.push(key);
+            }
+        }
+
+        if (dueKeys.length > 0) {
+            // Prioritize due questions
+            const chosenKey = getRandomFromList(dueKeys);
+            const parsedObj = JSON.parse(chosenKey.replace(`[${activeMode}]`, ''));
+            currentQData = parsedObj;
         } else {
+            // New random question
             currentQData = buildFreshConfig();
         }
 
@@ -551,13 +611,13 @@
             fb.innerText = "READING..."; fb.className = "feedback-text reading-text";
             
             const utterance = new SpeechSynthesisUtterance(currentQData.spk);
-            utterance.rate = 1.1; // Slightly faster to maintain momentum
+            utterance.rate = 1.1; 
             utterance.onend = () => {
                 if (isPaused || isTransitioning) return;
                 fb.innerText = "LISTENING..."; fb.className = "feedback-text paused-text";
                 beepStart();
                 pausedRemaining = TIME_LIMIT;
-                try { recognition.start(); } catch(e){} // Catch if already started
+                try { recognition.start(); } catch(e){} 
                 startTimer();
             };
             synth.speak(utterance);
@@ -566,6 +626,8 @@
             pausedRemaining = TIME_LIMIT;
             startTimer();
         }
+        
+        updateStats(); // Refresh due count visually
     }
 
     // --- Manual Input Handling ---
@@ -579,7 +641,7 @@
     });
 
     function handleKey(key) {
-        if (audioModeActive) return; // Disable keyboard if mic is on
+        if (audioModeActive) return; 
         if (key === 'Space') { togglePause(); return; }
         if (isTransitioning || isPaused) return;
 
@@ -664,7 +726,10 @@
         if(audioModeActive) beepCorrect();
         
         attempts++; correct++;
-        if (activeQuestionSource === "pool" && activePoolIndex !== null) frictionPool.splice(activePoolIndex, 1);
+        
+        // SM-2 Update (Score 5 = Perfect Recall)
+        const qKey = `[${activeMode}]${JSON.stringify(currentQData)}`;
+        processReview(qKey, 5);
         
         const fb = document.getElementById('feedbackText');
         fb.innerText = "CORRECT"; fb.className = "feedback-text correct";
@@ -688,10 +753,10 @@
         document.getElementById('timerCircle').style.strokeDashoffset = CIRCUMFERENCE;
         
         attempts++;
-        if (activeQuestionSource === "random") {
-            const clean = frictionPool.every(item => item.mode !== activeMode || item.qdata.text !== currentQData.text);
-            if (clean) frictionPool.push({ mode: activeMode, qdata: currentQData });
-        }
+        
+        // SM-2 Update (Score 0 = Complete Failure/Timeout)
+        const qKey = `[${activeMode}]${JSON.stringify(currentQData)}`;
+        processReview(qKey, 0);
         
         const fb = document.getElementById('feedbackText');
         fb.innerText = `ANS: ${currentAnswer}`; fb.className = "feedback-text incorrect";
@@ -709,10 +774,10 @@
 
     function updateStats() {
         document.getElementById('scoreText').innerText = correct;
-        document.getElementById('queueText').innerText = frictionPool.length;
+        document.getElementById('queueText').innerText = getDueCountForMode(activeMode);
     }
 
-    function resetStats() { attempts = 0; correct = 0; frictionPool = []; updateStats(); }
+    function resetStats() { attempts = 0; correct = 0; sm2Memory.clear(); updateStats(); }
 </script>
 </body>
 </html>
