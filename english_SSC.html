@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SSC English Speed Trainer</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card-bg: #1e293b;
+      --accent: #3b82f6;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --correct: #22c55e;
+      --wrong: #ef4444;
+      --border: #334155;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; }
+    body { background: var(--bg); color: var(--text); display: flex; flex-direction: column; align-items: center; min-height: 100vh; padding: 20px; }
+
+    header { width: 100%; max-width: 600px; display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+    h1 { font-size: 1.25rem; font-weight: 700; color: var(--accent); }
+    .stats { display: flex; gap: 15px; font-size: 0.9rem; font-weight: 600; }
+
+    .nav-tabs { display: flex; gap: 10px; margin-bottom: 20px; width: 100%; max-width: 600px; }
+    .tab-btn { flex: 1; padding: 10px; background: var(--card-bg); border: 1px solid var(--border); color: var(--text-muted); border-radius: 8px; cursor: pointer; font-weight: 600; text-align: center; }
+    .tab-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
+
+    .container { width: 100%; max-width: 600px; background: var(--card-bg); border: 1px solid var(--border); border-radius: 12px; padding: 24px; position: relative; box-shadow: 0 10px 25px -5px rgba(0,0,0,0.3); }
+
+    .card { text-align: center; display: flex; flex-direction: column; gap: 15px; }
+    .word-display { font-size: 2rem; font-weight: 800; letter-spacing: 1px; color: #fff; }
+    .meaning-display { font-size: 0.95rem; color: var(--text-muted); min-height: 1.5em; }
+
+    /* Mode 1: Options Grid */
+    .options-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 15px; }
+    .option-btn { background: #0f172a; border: 1px solid var(--border); padding: 14px; border-radius: 8px; color: var(--text); font-size: 0.95rem; cursor: pointer; text-align: left; display: flex; justify-content: space-between; transition: 0.1s; }
+    .option-btn:hover { border-color: var(--accent); }
+    .key-badge { background: var(--border); color: var(--text-muted); padding: 2px 6px; border-radius: 4px; font-size: 0.75rem; }
+
+    /* Mode 2: Tinder Swipe Buttons */
+    .binary-actions { display: flex; gap: 15px; margin-top: 15px; }
+    .binary-btn { flex: 1; padding: 16px; border-radius: 8px; border: none; font-size: 1rem; font-weight: 700; cursor: pointer; color: white; display: flex; justify-content: center; align-items: center; gap: 8px; }
+    .btn-wrong { background: var(--wrong); }
+    .btn-correct { background: var(--correct); }
+
+    /* JSON Data Modal */
+    .data-section { width: 100%; max-width: 600px; margin-top: 20px; }
+    textarea { width: 100%; height: 80px; background: var(--card-bg); border: 1px solid var(--border); border-radius: 8px; color: var(--text); padding: 10px; font-family: monospace; font-size: 0.8rem; resize: vertical; }
+    .load-btn { width: 100%; margin-top: 8px; padding: 10px; background: var(--border); color: var(--text); border: none; border-radius: 6px; font-weight: 600; cursor: pointer; }
+    .load-btn:hover { background: var(--accent); color: white; }
+
+    /* Feedback Animations */
+    .flash-correct { border-color: var(--correct) !important; box-shadow: 0 0 15px rgba(34, 197, 94, 0.4); }
+    .flash-wrong { border-color: var(--wrong) !important; box-shadow: 0 0 15px rgba(239, 68, 68, 0.4); }
+    .hidden { display: none !important; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>SSC Prep Engine</h1>
+    <div class="stats">
+      <span>Score: <strong id="score">0</strong></span>
+      <span>Streak: <strong id="streak">0</strong></span>
+    </div>
+  </header>
+
+  <div class="nav-tabs">
+    <div class="tab-btn active" onclick="switchMode('vocab')">1. Vocab & Meaning</div>
+    <div class="tab-btn" onclick="switchMode('spelling')">2. Spelling Tinder</div>
+  </div>
+
+  <div class="container" id="app-container">
+    <div class="card">
+      <div class="word-display" id="target-word">---</div>
+      <div class="meaning-display" id="sub-info">---</div>
+
+      <!-- Mode 1 UI -->
+      <div id="vocab-ui">
+        <div class="options-grid" id="options-container"></div>
+      </div>
+
+      <!-- Mode 2 UI -->
+      <div id="spelling-ui" class="hidden">
+        <div class="binary-actions">
+          <button class="binary-btn btn-wrong" onclick="handleBinaryChoice(false)">Incorrect [←]</button>
+          <button class="binary-btn btn-correct" onclick="handleBinaryChoice(true)">Correct [→]</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="data-section">
+    <textarea id="json-input" placeholder="Paste NotebookLM JSON array here..."></textarea>
+    <button class="load-btn" onclick="loadCustomData()">Load Data Set</button>
+  </div>
+
+  <script>
+    // Fallback default dataset using token-optimized format
+    let dataset = [
+      { w: "abate", m: "to become less intense", o: ["subside", "amplify", "prolong", "emerge"], a: 0 },
+      { w: "deleterious", m: "causing harm or damage", o: ["beneficial", "harmful", "gregarious", "frugal"], a: 1 },
+      { w: "vaccuum", m: "state of emptiness", f: false, c: "vacuum" },
+      { w: "accommodate", m: "provide lodging or space", f: true, c: "accommodate" },
+      { w: "ephemeral", m: "lasting for a very short time", o: ["eternal", "transient", "permanent", "dense"], a: 1 },
+      { w: "mischievious", m: "causing trouble", f: false, c: "mischievous" }
+    ];
+
+    let currentMode = 'vocab';
+    let filteredList = [];
+    let currentIndex = 0;
+    let score = 0;
+    let streak = 0;
+
+    function init() {
+      filterData();
+      renderCard();
+    }
+
+    function switchMode(mode) {
+      currentMode = mode;
+      document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+      event.target.classList.add('active');
+
+      if (mode === 'vocab') {
+        document.getElementById('vocab-ui').classList.remove('hidden');
+        document.getElementById('spelling-ui').classList.add('hidden');
+      } else {
+        document.getElementById('vocab-ui').classList.add('hidden');
+        document.getElementById('spelling-ui').classList.remove('hidden');
+      }
+      currentIndex = 0;
+      filterData();
+      renderCard();
+    }
+
+    function filterData() {
+      if (currentMode === 'vocab') {
+        filteredList = dataset.filter(item => item.o && item.o.length > 0);
+      } else {
+        filteredList = dataset.filter(item => item.f !== undefined);
+      }
+    }
+
+    function renderCard() {
+      if (filteredList.length === 0) {
+        document.getElementById('target-word').innerText = "No Data";
+        document.getElementById('sub-info').innerText = "Load JSON data for this mode below.";
+        document.getElementById('options-container').innerHTML = "";
+        return;
+      }
+
+      const item = filteredList[currentIndex];
+      document.getElementById('target-word').innerText = item.w;
+
+      if (currentMode === 'vocab') {
+        document.getElementById('sub-info').innerText = "Select the correct synonym/meaning:";
+        const container = document.getElementById('options-container');
+        container.innerHTML = "";
+        item.o.forEach((opt, idx) => {
+          const btn = document.createElement('button');
+          btn.className = 'option-btn';
+          btn.innerHTML = `<span>${opt}</span><span class="key-badge">${idx + 1}</span>`;
+          btn.onclick = () => handleVocabChoice(idx);
+          container.appendChild(btn);
+        });
+      } else {
+        document.getElementById('sub-info').innerText = item.m ? `Meaning: ${item.m}` : "Is this spelling correct?";
+      }
+    }
+
+    function handleVocabChoice(selectedIndex) {
+      const item = filteredList[currentIndex];
+      const isCorrect = selectedIndex === item.a;
+      processResult(isCorrect);
+    }
+
+    function handleBinaryChoice(userChoice) {
+      const item = filteredList[currentIndex];
+      const isCorrect = userChoice === item.f;
+      
+      if (!isCorrect && item.c) {
+        alert(`Incorrect! Correct spelling is: ${item.c}`);
+      }
+      processResult(isCorrect);
+    }
+
+    function processResult(isCorrect) {
+      const container = document.getElementById('app-container');
+      if (isCorrect) {
+        score += 10;
+        streak += 1;
+        container.classList.add('flash-correct');
+      } else {
+        streak = 0;
+        container.classList.add('flash-wrong');
+      }
+
+      document.getElementById('score').innerText = score;
+      document.getElementById('streak').innerText = streak;
+
+      setTimeout(() => {
+        container.classList.remove('flash-correct', 'flash-wrong');
+        currentIndex = (currentIndex + 1) % filteredList.length;
+        renderCard();
+      }, 200);
+    }
+
+    function loadCustomData() {
+      const input = document.getElementById('json-input').value.trim();
+      if (!input) return;
+      try {
+        const parsed = JSON.parse(input);
+        if (Array.isArray(parsed)) {
+          dataset = parsed;
+          currentIndex = 0;
+          filterData();
+          renderCard();
+          alert("Data loaded successfully!");
+        }
+      } catch (e) {
+        alert("Invalid JSON format. Please check the structure.");
+      }
+    }
+
+    // Keyboard controls (1-4 for Vocab, Arrow Left/Right for Spelling)
+    window.addEventListener('keydown', (e) => {
+      if (document.activeElement.tagName === 'TEXTAREA') return;
+
+      if (currentMode === 'vocab') {
+        if (['1', '2', '3', '4'].includes(e.key)) {
+          handleVocabChoice(parseInt(e.key) - 1);
+        }
+      } else if (currentMode === 'spelling') {
+        if (e.key === 'ArrowLeft') handleBinaryChoice(false);
+        if (e.key === 'ArrowRight') handleBinaryChoice(true);
+      }
+    });
+
+    init();
+  </script>
+</body>
+</html>
