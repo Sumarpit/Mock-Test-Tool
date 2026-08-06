@@ -383,5 +383,1199 @@
   {"w":"insipid","m":"tasteless or bland","f":true,"c":""},
   {"w":"incepid","m":"tasteless or bland","f":false,"c":"insipid"},
   {"w":"inimical","m":"hostile or harmful","f":true,"c":""},
-  {"w":"inimicall","m":"hostile or harmful","f":false,"c":"inimical"}
+  {"w":"inimicall","m":"hostile or harmful","f":false,"c":"inimical"},
+  {"w":"kleptomaniac","m":"having an irresistible urge to steal","o":["speaker","stealer","helper","murderer"],"a":1},
+  {"w":"kindred","m":"family or relatives","o":["enemies","relatives","strangers","coworkers"],"a":1},
+  {"w":"kindle","m":"to ignite or provoke","o":["extinguish","provoke","pacify","suppress"],"a":1},
+  {"w":"kernel","m":"fundamental or core part","o":["exterior","core","surface","waste"],"a":1},
+  {"w":"keen","m":"eager or anxious","o":["dull","eager","lazy","uninterested"],"a":1},
+  {"w":"kinship","m":"family relationship or affinity","o":["hostility","affinity","distance","separation"],"a":1},
+  {"w":"knotty","m":"complex or complicated","o":["simple","complicated","straight","easy"],"a":1},
+  {"w":"knell","m":"the sound of a bell ringing","o":["silence","ringing","music","whisper"],"a":1},
+  {"w":"kleptomaniac","m":"irresistible urge to steal","f":true,"c":""},
+  {"w":"kindrad","m":"family or relatives","f":false,"c":"kindred"},
+  {"w":"knotty","m":"complex or complicated","f":true,"c":""},
+  {"w":"lugubrious","m":"sad and dismal","o":["cheerful","sad","excited","angry"],"a":1},
+  {"w":"lachrymose","m":"tearful or sad","o":["joyful","tearful","indifferent","calm"],"a":1},
+  {"w":"lackadaisical","m":"lazy and careless","o":["active","lazy","careful","energetic"],"a":1},
+  {"w":"languid","m":"slow and relaxed or lazy","o":["energetic","lazy","swift","prompt"],"a":1},
+  {"w":"lucid","m":"clear and easy to understand","o":["confusing","clear","hidden","dark"],"a":1},
+  {"w":"limpid","m":"completely clear or transparent","o":["opaque","clear","muddy","vague"],"a":1},
+  {"w":"lethargic","m":"sluggish and apathetic","o":["active","sluggish","attentive","lively"],"a":1},
+  {"w":"lush","m":"abundant or growing luxuriantly","o":["barren","abundant","dry","scarce"],"a":1},
+  {"w":"luxuriant","m":"rich and profuse in growth","o":["scanty","luxuriant","poor","weak"],"a":1},
+  {"w":"loquacious","m":"tending to talk a great deal","o":["silent","talkative","shy","reserved"],"a":1},
+  {"w":"liability","m":"a responsibility or debt","o":["asset","responsibility","freedom","reward"],"a":1},
+  {"w":"laud","m":"to praise highly","o":["criticize","praise","ignore","punish"],"a":1},
+  {"w":"lurid","m":"unpleasantly bright or shocking","o":["dull","shocking","pleasant","calm"],"a":1},
+  {"w":"labyrinth","m":"a complicated irregular network of passages or maze","o":["straight path","maze","bridge","tunnel"],"a":1},
+  {"w":"latent","m":"hidden or concealed","o":["obvious","hidden","active","visible"],"a":1},
+  {"w":"loathe","m":"to feel intense dislike or disgust for","o":["love","disgust","admire","respect"],"a":1},
+  {"w":"lavish","m":"sumptuously rich or extravagant","o":["poor","extravagant","cheap","scanty"],"a":1},
+  {"w":"licentious","m":"promiscuous and unprincipled or corrupt","o":["moral","corrupt","pure","innocent"],"a":1},
+  {"w":"lethal","m":"deadly or fatal","o":["safe","fatal","harmless","helpful"],"a":1},
+  {"w":"lament","m":"a passionate expression of grief or sorrow","o":["rejoice","mourn","ignore","praise"],"a":1},
+  {"w":"lionize","m":"to treat as a celebrity or idolize","o":["ignore","idolize","insult","criticize"],"a":1},
+  {"w":"luscious","m":"having a pleasingly rich, sweet taste","o":["tasteless","delicious","bitter","sour"],"a":1},
+  {"w":"lackluster","m":"lacking in vitality, force, or conviction; dull","o":["brilliant","dull","shining","energetic"],"a":1},
+  {"w":"lugubrious","m":"sad and dismal","f":true,"c":""},
+  {"w":"lackadasical","m":"lazy and careless","f":false,"c":"lackadaisical"},
+  {"w":"loquacious","m":"tending to talk a great deal","f":true,"c":""},
+  {"w":"labirynth","m":"a complicated maze","f":false,"c":"labyrinth"},
+  {"w":"licencious","m":"unprincipled or corrupt","f":false,"c":"licentious"},
+  {"w":"malignant","m":"harmful or having a bad effect","o":["beneficial","harmful","healing","calm"],"a":1},
+  {"w":"murky","m":"dark and gloomy","o":["bright","clear","gloomy","clean"],"a":2},
+  {"w":"mutinous","m":"rebellious or disobedient","o":["rebellious","obedient","loyal","silent"],"a":0},
+  {"w":"monotonous","m":"dull, tedious, and repetitious","o":["exciting","boring","varying","vivid"],"a":1},
+  {"w":"master","m":"expert in a particular subject","o":["beginner","novice","expert","learner"],"a":2},
+  {"w":"munificent","m":"extremely generous","o":["stingy","generous","greedy","selfish"],"a":1},
+  {"w":"mounting","m":"increasing or growing","o":["decreasing","falling","increasing","shrinking"],"a":2},
+  {"w":"moribund","m":"at the point of death or dying","o":["thriving","dying","growing","active"],"a":1},
+  {"w":"magniloquent","m":"using high-flown or bombastic language","o":["simple","boastful","humble","quiet"],"a":1},
+  {"w":"misprize","m":"to despise or undervalue","o":["praise","underestimate","honor","value"],"a":1},
+  {"w":"mere","m":"just or only","o":["huge","only","complex","vast"],"a":1},
+  {"w":"mores","m":"customs and traditions of a community","o":["rebellions","customs","innovations","crimes"],"a":1},
+  {"w":"magnitude","m":"the great size or extent of something","o":["smallness","extent","weakness","center"],"a":1},
+  {"w":"momentous","m":"of great importance or significance","o":["trivial","important","brief","common"],"a":1},
+  {"w":"mercurial","m":"subject to sudden or unpredictable changes of mood","o":["fickle","stable","calm","constant"],"a":0},
+  {"w":"metamorphosis","m":"a transformation or dramatic change","o":["stagnation","transformation","delay","decline"],"a":1},
+  {"w":"masticate","m":"to chew food","o":["swallow","chew","drink","bite"],"a":1},
+  {"w":"mawkish","m":"sentimental in a feeble or sickly way","o":["brave","sentimental","logical","cruel"],"a":1},
+  {"w":"muster","m":"to collect or assemble","o":["disperse","scatter","collect","divide"],"a":2},
+  {"w":"mercenary","m":"primarily concerned with making money","o":["generous","greedy","charitable","kind"],"a":1},
+  {"w":"manacles","m":"chains or fetters for the hands","o":["keys","fetters","weapons","shields"],"a":1},
+  {"w":"mordant","m":"biting or caustic in thought, manner, or style","o":["sweet","caustic","gentle","soothing"],"a":1},
+  {"w":"mellifluous","m":"sweet-sounding and smooth","o":["harsh","noisy","sweet-sounding","shrill"],"a":2},
+  {"w":"myriad","m":"a countless or extremely great number","o":["few","scarce","countless","limited"],"a":2},
+  {"w":"mollify","m":"to appease the anger or anxiety of someone","o":["pacify","enrage","provoke","irritate"],"a":0},
+  {"w":"moot","m":"subject to debate, dispute, or uncertainty","o":["certain","undeniable","controversial","settled"],"a":2},
+  {"w":"magnificent","m":"impressively beautiful, elaborate, or extravagant","o":["plain","splendid","dull","ugly"],"a":1},
+  {"w":"menace","m":"a person or thing that is likely to cause harm","o":["comfort","danger","help","safety"],"a":1},
+  {"w":"morass","m":"a complicated or confused situation; a swamp","o":["clarity","swamp","solution","order"],"a":1},
+  {"w":"meager","m":"lacking in quantity or quality","o":["abundant","plentiful","scanty","huge"],"a":2},
+  {"w":"morose","m":"sullen and ill-tempered","o":["cheerful","gloomy","happy","joyful"],"a":1},
+  {"w":"morsel","m":"a small piece or amount of food","o":["feast","small piece","bulk","whole"],"a":1},
+  {"w":"mammoth","m":"huge or enormous","f":true,"c":""},
+  {"w":"melancoly","m":"a feeling of pensive sadness","f":false,"c":"melancholy"},
+  {"w":"masterly","m":"performed or performing very skillfully","f":true,"c":""},
+  {"w":"metle","m":"courage and fortitude","f":false,"c":"mettle"},
+  {"w":"multitude","m":"a large number of people or things","f":true,"c":""},
+  {"w":"memoir","m":"a historical account or biography","f":true,"c":""},
+  {"w":"nimbel","m":"quick and light in movement","f":false,"c":"nimble"},
+  {"w":"nurture","m":"to care for and protect","f":true,"c":""},
+  {"w":"negligent","m":"failing to take proper care","f":true,"c":""},
+  {"w":"neofite","m":"a person who is new to a subject","f":false,"c":"neophyte"},
+  {"w":"nugatory","m":"of no value or importance","f":true,"c":""},
+  {"w":"nonplused","m":"surprised and confused","f":false,"c":"nonplussed"},
+  {"w":"nebulous","m":"unclear or vague","f":true,"c":""},
+  {"w":"niggardly","m":"ungenerous with money","f":true,"c":""},
+  {"w":"nasty","m":"highly unpleasant","f":true,"c":""},
+  {"w":"noizily","m":"in a loud and disturbing way","f":false,"c":"noisily"},
+  {"w":"naive","m":"showing a lack of experience","f":true,"c":""},
+  {"w":"narrative","m":"a spoken or written account","f":true,"c":""},
+  {"w":"noob","m":"inexperienced person","f":true,"c":""},
+  {"w":"nativ","m":"associated with place of birth","f":false,"c":"native"},
+  {"w":"natty","m":"smart and fashionable","f":true,"c":""},
+  {"w":"nauseous","m":"feeling sick","f":true,"c":""},
+  {"w":"navigate","m":"to direct a course","f":true,"c":""},
+  {"w":"novelty","m":"the quality of being new","f":true,"c":""},
+  {"w":"nectar","m":"sugary fluid","f":true,"c":""},
+  {"w":"negate","m":"to make ineffective","f":true,"c":""},
+  {"w":"nulify","m":"to make legally void","f":false,"c":"nullify"},
+  {"w":"nefarious","m":"wicked or criminal","f":true,"c":""},
+  {"w":"negligable","m":"so small as to be not worth considering","f":false,"c":"negligible"},
+  {"w":"nuance","m":"a subtle difference in meaning","f":true,"c":""},
+  {"w":"nemesis","m":"inescapable agent of downfall","f":true,"c":""},
+  {"w":"ominous","m":"threatening or dangerous","o":["safe","threatening","hopeful","joyful"],"a":1},
+  {"w":"onerous","m":"burdensome or heavy responsibility","o":["easy","light","burdensome","pleasant"],"a":2},
+  {"w":"obsolete","m":"outdated or no longer in use","o":["modern","outdated","current","fresh"],"a":1},
+  {"w":"obtuse","m":"dull or slow to understand","o":["sharp","clever","dull","quick"],"a":2},
+  {"w":"originate","m":"to arise or begin","f":true,"c":""},
+  {"w":"ocult","m":"supernatural or magical","f":false,"c":"occult"},
+  {"w":"obscure","m":"unclear or vague","o":["clear","obvious","unclear","bright"],"a":2},
+  {"w":"obstinate","m":"stubborn or unyielding","o":["flexible","stubborn","submissive","polite"],"a":1},
+  {"w":"overturn","m":"to reject or cancel","o":["accept","support","reject","maintain"],"a":2},
+  {"w":"onslaut","m":"a fierce attack","f":false,"c":"onslaught"},
+  {"w":"odd","m":"strange or peculiar","o":["strange","normal","common","usual"],"a":0},
+  {"w":"oasis","m":"a refuge or shelter","o":["desert","refuge","danger","storm"],"a":1},
+  {"w":"obstreprous","m":"noisy or unruly","f":false,"c":"obstreperous"},
+  {"w":"obedient","m":"dutiful or willing to obey","o":["rebellious","dutiful","stubborn","hostile"],"a":1},
+  {"w":"obeisance","m":"loyalty or faithfulness","o":["disloyalty","loyalty","betrayal","rebellion"],"a":1},
+  {"w":"objective","m":"impartial or fair","o":["biased","impartial","subjective","prejudiced"],"a":1},
+  {"w":"obligation","m":"duty or responsibility","f":true,"c":""},
+  {"w":"oblique","m":"indirect or not straightforward","o":["direct","straight","indirect","clear"],"a":2},
+  {"w":"obliveous","m":"unaware or careless","f":false,"c":"oblivious"},
+  {"w":"obnoxious","m":"extremely unpleasant or bad","o":["pleasant","charming","unpleasant","sweet"],"a":2},
+  {"w":"obsequeous","m":"excessively flattering","f":false,"c":"obsequious"},
+  {"w":"oracular","m":"mysterious or enigmatic","o":["clear","mysterious","simple","obvious"],"a":1},
+  {"w":"obstruct","m":"to hinder or block","o":["help","hinder","promote","clear"],"a":1},
+  {"w":"obtain","m":"to get or acquire","o":["lose","scatter","acquire","drop"],"a":2},
+  {"w":"odious","m":"hateful or extremely unpleasant","o":["lovable","hateful","attractive","kind"],"a":1},
+  {"w":"opulence","m":"wealth or abundance","f":true,"c":""},
+  {"w":"obligatory","m":"compulsory or necessary","o":["optional","compulsory","voluntary","free"],"a":1},
+  {"w":"offend","m":"to insult or annoy","o":["please","soothe","insult","praise"],"a":2},
+  {"w":"oficious","m":"bossy or domineering","f":false,"c":"officious"},
+  {"w":"omen","m":"a sign or indication","o":["solution","sign","mystery","answer"],"a":1},
+  {"w":"optimistic","m":"hopeful and confident about the future","o":["pessimistic","sad","hopeful","gloomy"],"a":2},
+  {"w":"omnipresent","m":"present everywhere","o":["limited","everywhere","scarce","rare"],"a":1},
+  {"w":"omnipotent","m":"all-powerful","o":["weak","powerful","clumsy","fragile"],"a":1},
+  {"w":"omnicient","m":"knowing everything","f":false,"c":"omniscient"},
+  {"w":"ogle","m":"to stare at in a lecherous manner","o":["ignore","stare","blink","glance"],"a":1},
+  {"w":"oath","m":"a solemn promise or pledge","o":["lie","joke","pledge","deceit"],"a":2},
+  {"w":"opponent","m":"a rival or competitor","o":["friend","ally","competitor","supporter"],"a":2},
+  {"w":"oppress","m":"to suppress or rule harshly","f":true,"c":""},
+  {"w":"queer","m":"strange or odd","o":["normal","strange","usual","common"],"a":1},
+  {"w":"quaint","m":"attractively unusual or old-fashioned","o":["modern","unusual","common","recent"],"a":1},
+  {"w":"quell","m":"to suppress or crush","o":["encourage","suppress","support","incite"],"a":1},
+  {"w":"quever","m":"to tremble or shake","f":false,"c":"quiver"},
+  {"w":"quicken","m":"to accelerate or speed up","o":["delay","accelerate","slow","halt"],"a":1},
+  {"w":"quarrelsom","m":"argumentative","f":false,"c":"quarrelsome"},
+  {"w":"quash","m":"to reject or cancel","o":["approve","reject","maintain","support"],"a":1},
+  {"w":"query","m":"a question or doubt","o":["answer","solution","question","fact"],"a":2},
+  {"w":"quarry","m":"a victim or place of excavation","o":["predator","victim","hunter","guard"],"a":1},
+  {"w":"quest","m":"a long or arduous search","o":["discovery","search","loss","hide"],"a":1},
+  {"w":"queiscent","m":"inactive or dormant","f":false,"c":"quiescent"},
+  {"w":"quote","m":"to repeat or mention","o":["hide","mention","forget","ignore"],"a":1},
+  {"w":"quixotic","m":"unrealistic and impractical","f":true,"c":""},
+  {"w":"quack","m":"an unqualified doctor or fraud","o":["expert","specialist","fraud","master"],"a":2},
+  {"w":"quarentine","m":"isolation to prevent the spread of disease","f":false,"c":"quarantine"},
+  {"w":"quagmire","m":"a swamp or difficult situation","o":["solution","dilemma","clarity","ease"],"a":1},
+  {"w":"quandary","m":"a state of perplexity or uncertainty","o":["certainty","confidence","confusion","peace"],"a":2},
+  {"w":"quintesential","m":"the most perfect example","f":false,"c":"quintessential"},
+  {"w":"procrastinate","m":"to delay or postpone action","o":["accelerate","postpone","accept","create"],"a":1},
+  {"w":"penury","m":"extreme poverty","o":["wealth","prosperity","poverty","cleanliness"],"a":2},
+  {"w":"pensive","m":"deeply thoughtful or reflective","o":["thoughtful","cheerful","ignorant","lazy"],"a":0},
+  {"w":"pinnacle","m":"the highest point or peak","o":["bottom","base","peak","middle"],"a":2},
+  {"w":"placid","m":"calm and peaceful","o":["violent","peaceful","noisy","turbulent"],"a":1},
+  {"w":"plagiarism","m":"literary theft or copying content","o":["originality","theft","honesty","creation"],"a":1},
+  {"w":"platitude","m":"a flat, dull, or trite remark","o":["cliché","novelty","wisdom","truth"],"a":0},
+  {"w":"pliable","m":"flexible or easily bent","o":["rigid","flexible","brittle","hard"],"a":1},
+  {"w":"plethora","m":"an abundance or excess","o":["scarcity","abundance","poverty","need"],"a":1},
+  {"w":"prevaricate","m":"to speak or act evasively or mislead","o":["tell truth","mislead","support","confront"],"a":1},
+  {"w":"prudent","m":"wise, careful or cautious","o":["careless","careful","foolish","reckless"],"a":1},
+  {"w":"pusillanimous","m":"cowardly or timid","o":["brave","timid","bold","active"],"a":1},
+  {"w":"pejorative","m":"expressing contempt or insulting","o":["praising","insulting","neutral","helpful"],"a":1},
+  {"w":"perfidy","m":"deceitfulness or untrustworthiness","o":["loyalty","treachery","honesty","friendship"],"a":1},
+  {"w":"ponder","m":"to think about or reflect deeply","o":["ignore","forget","meditate","disregard"],"a":2},
+  {"w":"prodigal","m":"wasteful or extravagant","o":["miserly","thrifty","wasteful","careful"],"a":2},
+  {"w":"prognosis","m":"a forecast of the likely course of a disease","o":["forecast","cure","cause","history"],"a":0},
+  {"w":"promulgate","m":"to promote or declare widely","o":["hide","declare","suppress","delay"],"a":1},
+  {"w":"propitiate","m":"to win or regain the favor of; appease","o":["provoke","appease","ignore","anger"],"a":1},
+  {"w":"proscribe","m":"to forbid or ban","o":["allow","ban","promote","recommend"],"a":1},
+  {"w":"prosaic","m":"commonplace, dull, or boring","o":["exciting","boring","original","creative"],"a":1},
+  {"w":"puerile","m":"childish, silly, or trivial","o":["mature","childish","wise","experienced"],"a":1},
+  {"w":"parsimonious","m":"extremely unwilling to spend money; stingy","o":["generous","stingy","wasteful","rich"],"a":1},
+  {"w":"palpable","m":"able to be touched or felt; clear","o":["unclear","vague","clear","hidden"],"a":2},
+  {"w":"parity","m":"the state or condition of being equal","o":["difference","equality","injustice","scarcity"],"a":1},
+  {"w":"provoke","m":"to stimulate or incite to anger","o":["pacify","incite","soothe","ignore"],"a":1},
+  {"w":"propensity","m":"an inclination or natural tendency","o":["dislike","inclination","apathy","aversion"],"a":1},
+  {"w":"pique","m":"a feeling of irritation or resentment","o":["pleasure","irritation","calmness","joy"],"a":1},
+  {"w":"pompous","m":"arrogant or self-important","o":["humble","arrogant","modest","shy"],"a":1},
+  {"w":"perilous","m":"full of danger or risk","o":["safe","dangerous","pleasant","easy"],"a":1},
+  {"w":"pacific","m":"peaceful or calm","o":["turbulent","peaceful","angry","noisy"],"a":1},
+  {"w":"paucity","m":"the presence of something only in small or insufficient quantities","o":["abundance","shortage","plethora","wealth"],"a":1},
+  {"w":"prodigious","m":"remarkably or impressively great in extent, size, or degree","o":["tiny","huge","weak","common"],"a":1},
+  {"w":"yell","m":"to shout or scream","o":["whisper","shout","murmur","listen"],"a":1},
+  {"w":"yearn","m":"to have an intense feeling of longing","o":["dislike","longing","ignore","forget"],"a":1},
+  {"w":"yoke","m":"oppression or bondage","o":["freedom","bondage","peace","joy"],"a":1},
+  {"w":"yokel","m":"an unrefined country person","o":["scholar","rustic","expert","noble"],"a":1},
+  {"w":"yesteryears","m":"years gone by or the past","o":["future","present","past","tomorrow"],"a":2},
+  {"w":"yank","m":"to pull with a sudden sharp movement","o":["push","pull","drop","throw"],"a":1},
+  {"w":"yield","m":"to produce or surrender","o":["resist","surrender","demand","fight"],"a":1},
+  {"w":"procrastinate","m":"to delay or postpone action","f":true,"c":""},
+  {"w":"procrastenat","m":"to delay or postpone action","f":false,"c":"procrastinate"},
+  {"w":"paraphernalia","m":"miscellaneous articles or equipment","f":true,"c":""},
+  {"w":"paraphernelia","m":"miscellaneous articles or equipment","f":false,"c":"paraphernalia"},
+  {"w":"penance","m":"atonement or expiation","f":true,"c":""},
+  {"w":"pennance","m":"atonement or expiation","f":false,"c":"penance"},
+  {"w":"pinnacle","m":"highest point or peak","f":true,"c":""},
+  {"w":"pinacle","m":"highest point or peak","f":false,"c":"pinnacle"},
+  {"w":"pusillanimous","m":"cowardly or timid","f":true,"c":""},
+  {"w":"pusilanimous","m":"cowardly or timid","f":false,"c":"pusillanimous"},
+  {"w":"pejorative","m":"derogatory or insulting","f":true,"c":""},
+  {"w":"pejoretive","m":"derogatory or insulting","f":false,"c":"pejorative"},
+  {"w":"yokel","m":"an unrefined country person","f":true,"c":""},
+  {"w":"yokle","m":"an unrefined country person","f":false,"c":"yokel"},
+  {"w":"revoke","m":"to cancel or repeal","o":["cancel","support","create","prolong"],"a":0},
+  {"w":"rescind","m":"to revoke or cancel","o":["continue","repeal","validate","accept"],"a":1},
+  {"w":"repudiate","m":"to reject or disown","o":["accept","welcome","disown","praise"],"a":2},
+  {"w":"retain","m":"to keep or continue to have","o":["lose","keep","reject","distribute"],"a":1},
+  {"w":"robust","m":"strong and healthy","o":["weak","strong","lazy","clumsy"],"a":1},
+  {"w":"repugnance","m":"strong dislike or disgust","o":["liking","disgust","harmony","friendship"],"a":1},
+  {"w":"rapacious","m":"extremely greedy","o":["generous","greedy","thrifty","lazy"],"a":1},
+  {"w":"regal","m":"royal or majestic","o":["royal","common","poor","vague"],"a":0},
+  {"w":"remonstrate","m":"to protest or object","o":["agree","protest","ignore","support"],"a":1},
+  {"w":"refrain","m":"to stop oneself from doing something","o":["continue","insist","abstain","persist"],"a":2},
+  {"w":"remorseful","m":"filled with regret or sorry","o":["unapologetic","proud","sorry","joyful"],"a":2},
+  {"w":"rustic","m":"rural or uncivilized","o":["urban","uncivilized","modern","polite"],"a":1},
+  {"w":"ridicule","m":"to mock or laugh at","o":["praise","mock","help","respect"],"a":1},
+  {"w":"refute","m":"to prove a statement to be wrong","o":["support","prove","disprove","accept"],"a":2},
+  {"w":"resolute","m":"admirably purposeful or determined","o":["determined","weak","uncertain","hesitant"],"a":0},
+  {"w":"repentant","m":"expressing regret or remorse","o":["remorseful","happy","stubborn","proud"],"a":0},
+  {"w":"regress","m":"to return to a less developed state","o":["progress","improve","return","grow"],"a":2},
+  {"w":"revert","m":"to return to a previous state","o":["change","return","progress","forward"],"a":1},
+  {"w":"relish","m":"to enjoy greatly","o":["hate","enjoy","ignore","avoid"],"a":1},
+  {"w":"resentment","m":"bitterness or anger","o":["satisfaction","joy","bitterness","peace"],"a":2},
+  {"w":"retort","m":"to reply quickly or sharply","o":["question","reply","listen","ignore"],"a":1},
+  {"w":"rectitude","m":"honesty and integrity","o":["corruption","dishonesty","honesty","greed"],"a":2},
+  {"w":"rectify","m":"to correct or make right","o":["correct","spoil","destroy","ignore"],"a":0},
+  {"w":"ravage","m":"to destroy or devastate","o":["construct","protect","destroy","repair"],"a":1},
+  {"w":"restive","m":"restless or impatient","o":["calm","patient","restless","satisfied"],"a":1},
+  {"w":"reverie","m":"a state of being pleasantly lost in thoughts or daydream","o":["reality","nightmare","daydream","work"],"a":2},
+  {"w":"repose","m":"a state of rest or tranquility","o":["rest","movement","noise","work"],"a":0},
+  {"w":"reiterate","m":"to say or perform again; repeat","o":["invent","repeat","cancel","forget"],"a":1},
+  {"w":"redeem","m":"to save or recover","o":["lose","save","waste","destroy"],"a":1},
+  {"w":"rubicund","m":"having a high, healthy reddish color","o":["reddish","pale","white","dark"],"a":0},
+  {"w":"ruffian","m":"a violent, lawless person","f":true,"c":""},
+  {"w":"rufian","m":"a violent, lawless person","f":false,"c":"ruffian"},
+  {"w":"rankle","m":"to cause annoyance or resentment","f":true,"c":""},
+  {"w":"rancle","m":"to cause annoyance or resentment","f":false,"c":"rankle"},
+  {"w":"ramification","m":"a complex or unwelcome consequence","f":true,"c":""},
+  {"w":"ramifecation","m":"a complex or unwelcome consequence","f":false,"c":"ramification"},
+  {"w":"ravenous","m":"extremely hungry","f":true,"c":""},
+  {"w":"ravenus","m":"extremely hungry","f":false,"c":"ravenous"},
+  {"w":"rout","m":"a decisive defeat","f":true,"c":""},
+  {"w":"rowt","m":"a decisive defeat","f":false,"c":"rout"},
+  {"w":"rampant","m":"flourishing or spreading unchecked","f":true,"c":""},
+  {"w":"rampent","m":"flourishing or spreading unchecked","f":false,"c":"rampant"},
+  {"w":"rotund","m":"plump or round","f":true,"c":""},
+  {"w":"rotand","m":"plump or round","f":false,"c":"rotund"},
+  {"w":"reside","m":"to dwell permanently","f":true,"c":""},
+  {"w":"resaide","m":"to dwell permanently","f":false,"c":"reside"},
+  {"w":"resilient","m":"able to recoil or spring back","f":true,"c":""},
+  {"w":"resilent","m":"able to recoil or spring back","f":false,"c":"resilient"},
+  {"w":"recourse","m":"a source of help in a difficult situation","f":true,"c":""},
+  {"w":"recource","m":"a source of help in a difficult situation","f":false,"c":"recourse"}
+][
+  {"w":"sycophant","m":"flatterer","o":["flatterer","leader","helper","enemy"],"a":0},
+  {"w":"salubrious","m":"healthy","o":["sickly","healthy","dirty","scary"],"a":1},
+  {"w":"sullen","m":"gloomy","o":["cheerful","gloomy","active","talkative"],"a":1},
+  {"w":"succulent","m":"juicy","o":["dry","bitter","juicy","tasteless"],"a":2},
+  {"w":"stale","m":"not fresh","o":["fresh","sweet","not fresh","delicious"],"a":2},
+  {"w":"somber","m":"gloomy","o":["bright","cheerful","gloomy","active"],"a":2},
+  {"w":"skittish","m":"playful or nervous","o":["brave","stable","playful","calm"],"a":2},
+  {"w":"spooky","m":"scary","o":["scary","pleasant","cheerful","bright"],"a":0},
+  {"w":"sagacious","m":"wise","o":["foolish","wise","ignorant","timid"],"a":1},
+  {"w":"shrewd","m":"clever","o":["foolish","clumsy","clever","naive"],"a":2},
+  {"w":"sluggish","m":"lazy","o":["active","fast","lazy","quick"],"a":2},
+  {"w":"slothful","m":"lazy","o":["industrious","lazy","active","lively"],"a":1},
+  {"w":"sedentary","m":"inactive","o":["active","moving","inactive","swift"],"a":2},
+  {"w":"spinster","m":"unmarried woman","o":["married woman","unmarried woman","young girl","widow"],"a":1},
+  {"w":"swashbuckler","m":"daring adventurer","o":["coward","daring adventurer","scholar","beggar"],"a":1},
+  {"w":"supple","m":"flexible","o":["rigid","stiff","flexible","hard"],"a":2},
+  {"w":"solitude","m":"being alone","o":["crowd","being alone","friendship","party"],"a":1},
+  {"w":"solace","m":"comfort","o":["pain","anger","comfort","grief"],"a":2},
+  {"w":"surreptitious","m":"secret","o":["public","obvious","secret","honest"],"a":2},
+  {"w":"spruce","m":"neat and smart","o":["dirty","neat and smart","clumsy","lazy"],"a":1},
+  {"w":"scintillating","m":"sparkling","o":["dull","dark","sparkling","boring"],"a":2},
+  {"w":"submissive","m":"obedient","o":["rebellious","stubborn","obedient","arrogant"],"a":2},
+  {"w":"sprightly","m":"lively","o":["lazy","tired","lively","silent"],"a":2},
+  {"w":"sycophant","m":"flatterer","f":true,"c":""},
+  {"w":"sicophant","m":"flatterer","f":false,"c":"sycophant"},
+  {"w":"salubrious","m":"healthy","f":true,"c":""},
+  {"w":"salubrius","m":"healthy","f":false,"c":"salubrious"},
+  {"w":"sullen","m":"gloomy","f":true,"c":""},
+  {"w":"sullan","m":"gloomy","f":false,"c":"sullen"},
+  {"w":"succulent","m":"juicy","f":true,"c":""},
+  {"w":"succulant","m":"juicy","f":false,"c":"succulent"},
+  {"w":"somber","m":"gloomy","f":true,"c":""},
+  {"w":"sombar","m":"gloomy","f":false,"c":"somber"},
+  {"w":"sagacious","m":"wise","f":true,"c":""},
+  {"w":"sagashious","m":"wise","f":false,"c":"sagacious"},
+  {"w":"shrewd","m":"clever","f":true,"c":""},
+  {"w":"shrude","m":"clever","f":false,"c":"shrewd"},
+  {"w":"sluggish","m":"lazy","f":true,"c":""},
+  {"w":"slugish","m":"lazy","f":false,"c":"sluggish"},
+  {"w":"slothful","m":"lazy","f":true,"c":""},
+  {"w":"slotheful","m":"lazy","f":false,"c":"slothful"},
+  {"w":"sedentary","m":"inactive","f":true,"c":""},
+  {"w":"sedentery","m":"inactive","f":false,"c":"sedentary"},
+  {"w":"surreptitious","m":"secret","f":true,"c":""},
+  {"w":"surreptitius","m":"secret","f":false,"c":"surreptitious"},
+  {"w":"scintillating","m":"sparkling","f":true,"c":""},
+  {
+    "w": "tenure",
+    "m": "holding period or term of office",
+    "o": [
+      "term of office",
+      "agreement",
+      "refusal",
+      "salary"
+    ],
+    "a": 0
+  },
+  {
+    "w": "timid",
+    "m": "shy or lacking courage",
+    "o": [
+      "bold",
+      "shy",
+      "clumsy",
+      "intelligent"
+    ],
+    "a": 1
+  },
+  {
+    "w": "transparent",
+    "m": "clear or easy to see through",
+    "o": [
+      "opaque",
+      "clear",
+      "hidden",
+      "dark"
+    ],
+    "a": 1
+  },
+  {
+    "w": "torrent",
+    "m": "a strong fast-moving stream or heavy downpour",
+    "o": [
+      "drought",
+      "breeze",
+      "downpour",
+      "calm"
+    ],
+    "a": 2
+  },
+  {
+    "w": "torrid",
+    "m": "hot and dry or passionate",
+    "o": [
+      "cold",
+      "hot and dry",
+      "wet",
+      "gentle"
+    ],
+    "a": 1
+  },
+  {
+    "w": "totalitarian",
+    "m": "dictatorial or ruling with absolute power",
+    "o": [
+      "democratic",
+      "dictatorial",
+      "peaceful",
+      "liberal"
+    ],
+    "a": 1
+  },
+  {
+    "w": "taut",
+    "m": "tightly stretched or tense",
+    "o": [
+      "loose",
+      "relaxed",
+      "tense",
+      "weak"
+    ],
+    "a": 2
+  },
+  {
+    "w": "tenacity",
+    "m": "persistence or firm determination",
+    "o": [
+      "persistence",
+      "laziness",
+      "fear",
+      "weakness"
+    ],
+    "a": 0
+  },
+  {
+    "w": "temporal",
+    "m": "relating to worldly or physical things",
+    "o": [
+      "spiritual",
+      "worldly",
+      "permanent",
+      "holy"
+    ],
+    "a": 1
+  },
+  {
+    "w": "tantalizing",
+    "m": "teasingly attractive or tempting",
+    "o": [
+      "repulsive",
+      "tempting",
+      "boring",
+      "painful"
+    ],
+    "a": 1
+  },
+  {
+    "w": "tangible",
+    "m": "clear, concrete, or touchable",
+    "o": [
+      "vague",
+      "clear",
+      "unreal",
+      "spiritual"
+    ],
+    "a": 1
+  },
+  {
+    "w": "tentative",
+    "m": "uncertain or provisional",
+    "o": [
+      "certain",
+      "uncertain",
+      "permanent",
+      "final"
+    ],
+    "a": 1
+  },
+  {
+    "w": "tenet",
+    "m": "a principle, belief, or doctrine",
+    "o": [
+      "principle",
+      "doubt",
+      "rebellion",
+      "crime"
+    ],
+    "a": 0
+  },
+  {
+    "w": "tenuous",
+    "m": "very weak or thin",
+    "o": [
+      "strong",
+      "thick",
+      "weak",
+      "important"
+    ],
+    "a": 2
+  },
+  {
+    "w": "tenor",
+    "m": "course of action or general character",
+    "o": [
+      "disruption",
+      "course",
+      "beginning",
+      "end"
+    ],
+    "a": 1
+  },
+  {
+    "w": "terminal",
+    "m": "concluding at the end or final",
+    "o": [
+      "starting",
+      "final",
+      "ongoing",
+      "developing"
+    ],
+    "a": 1
+  },
+  {
+    "w": "territory",
+    "m": "an area of land under a ruler; province",
+    "o": [
+      "sky",
+      "sea",
+      "province",
+      "forest"
+    ],
+    "a": 2
+  },
+  {
+    "w": "threshold",
+    "m": "starting point or doorway",
+    "o": [
+      "end",
+      "starting point",
+      "climax",
+      "decline"
+    ],
+    "a": 1
+  },
+  {
+    "w": "thrive",
+    "m": "to grow, flourish, or prosper",
+    "o": [
+      "flourish",
+      "fail",
+      "die",
+      "shrink"
+    ],
+    "a": 0
+  },
+  {
+    "w": "throttle",
+    "m": "to choke, strangle, or restrict",
+    "o": [
+      "choke",
+      "free",
+      "help",
+      "breathe"
+    ],
+    "a": 0
+  },
+  {
+    "w": "thrust",
+    "m": "to push with force",
+    "o": [
+      "pull",
+      "push",
+      "drag",
+      "hold"
+    ],
+    "a": 1
+  },
+  {
+    "w": "thwart",
+    "m": "to block, stop, or frustrate a plan",
+    "o": [
+      "assist",
+      "promote",
+      "block",
+      "permit"
+    ],
+    "a": 2
+  },
+  {
+    "w": "tirade",
+    "m": "long angry speech of criticism",
+    "o": [
+      "praise",
+      "criticism",
+      "silence",
+      "compliment"
+    ],
+    "a": 1
+  },
+  {
+    "w": "toil",
+    "m": "exhausting physical labor or hard work",
+    "o": [
+      "rest",
+      "hard work",
+      "leisure",
+      "play"
+    ],
+    "a": 1
+  },
+  {
+    "w": "trajectory",
+    "m": "path or route of a moving object",
+    "o": [
+      "path",
+      "destination",
+      "start",
+      "speed"
+    ],
+    "a": 0
+  },
+  {
+    "w": "tranquility",
+    "m": "peacefulness, calmness, or quiet",
+    "o": [
+      "noise",
+      "calmness",
+      "chaos",
+      "war"
+    ],
+    "a": 1
+  },
+  {
+    "w": "transcendental",
+    "m": "supernatural or spiritual",
+    "o": [
+      "physical",
+      "supernatural",
+      "common",
+      "real"
+    ],
+    "a": 1
+  },
+  {
+    "w": "torpor",
+    "m": "laziness or sluggish inactivity",
+    "o": [
+      "activity",
+      "laziness",
+      "speed",
+      "enthusiasm"
+    ],
+    "a": 1
+  },
+  {
+    "w": "traitor",
+    "m": "betrayer of country or friends; gaddar",
+    "o": [
+      "betrayer",
+      "loyalist",
+      "supporter",
+      "soldier"
+    ],
+    "a": 0
+  },
+  {
+    "w": "transfix",
+    "m": "to hypnotize or make motionless with awe",
+    "o": [
+      "hypnotize",
+      "ignore",
+      "excite",
+      "awaken"
+    ],
+    "a": 0
+  },
+  {
+    "w": "transgression",
+    "m": "an offense or violation of law",
+    "o": [
+      "obedience",
+      "violation",
+      "good deed",
+      "respect"
+    ],
+    "a": 1
+  },
+  {
+    "w": "transitory",
+    "m": "temporary or short-lived",
+    "o": [
+      "permanent",
+      "temporary",
+      "lasting",
+      "eternal"
+    ],
+    "a": 1
+  },
+  {
+    "w": "transpire",
+    "m": "to happen, occur, or come to light",
+    "o": [
+      "happen",
+      "prevent",
+      "hide",
+      "fail"
+    ],
+    "a": 0
+  },
+  {
+    "w": "transverse",
+    "m": "to cross or intersect",
+    "o": [
+      "cross",
+      "parallel",
+      "align",
+      "follow"
+    ],
+    "a": 0
+  },
+  {
+    "w": "travesty",
+    "m": "a mockery or poor imitation",
+    "o": [
+      "respect",
+      "mockery",
+      "original",
+      "tribute"
+    ],
+    "a": 1
+  },
+  {
+    "w": "treacherous",
+    "m": "guilty of betrayal; disloyal",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "treachrous",
+    "m": "guilty of betrayal; disloyal",
+    "f": false,
+    "c": "treacherous"
+  },
+  {
+    "w": "treason",
+    "m": "the crime of betraying one's country",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "treson",
+    "m": "the crime of betraying one's country",
+    "f": false,
+    "c": "treason"
+  },
+  {
+    "w": "tremulous",
+    "m": "shaking, trembling, or unsteady",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "tremulus",
+    "m": "shaking, trembling, or unsteady",
+    "f": false,
+    "c": "tremulous"
+  },
+  {
+    "w": "tribulation",
+    "m": "great suffering, hardship, or distress",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "tribulletion",
+    "m": "great suffering, hardship, or distress",
+    "f": false,
+    "c": "tribulation"
+  },
+  {
+    "w": "trifling",
+    "m": "unimportant, insignificant, or trivial",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "tryfling",
+    "m": "unimportant, insignificant, or trivial",
+    "f": false,
+    "c": "trifling"
+  },
+  {
+    "w": "trio",
+    "m": "a group of three people or things",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "truncate",
+    "m": "to shorten by cutting off the top or end",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "truncat",
+    "m": "to shorten by cutting off the top or end",
+    "f": false,
+    "c": "truncate"
+  },
+  {
+    "w": "tumult",
+    "m": "loud noise, uproar, or state of confusion",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "tumultous",
+    "m": "loud noise, uproar, or state of confusion",
+    "f": false,
+    "c": "tumultuous"
+  },
+  {
+    "w": "tyro",
+    "m": "a beginner or novice",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "ubiquitous",
+    "m": "present everywhere at once",
+    "o": [
+      "rare",
+      "everywhere",
+      "unusual",
+      "hidden"
+    ],
+    "a": 1
+  },
+  {
+    "w": "undaunted",
+    "m": "not discouraged or fearless",
+    "o": [
+      "fearful",
+      "fearless",
+      "careless",
+      "lazy"
+    ],
+    "a": 1
+  },
+  {
+    "w": "unilateral",
+    "m": "one-sided",
+    "o": [
+      "one-sided",
+      "mutual",
+      "complex",
+      "shared"
+    ],
+    "a": 0
+  },
+  {
+    "w": "unscathed",
+    "m": "without suffering any injury or harm",
+    "o": [
+      "wounded",
+      "captured",
+      "unharmed",
+      "angry"
+    ],
+    "a": 2
+  },
+  {
+    "w": "unfeigned",
+    "m": "genuine and sincere",
+    "o": [
+      "fake",
+      "sincere",
+      "hidden",
+      "proud"
+    ],
+    "a": 1
+  },
+  {
+    "w": "unctuous",
+    "m": "excessively flattering or oily",
+    "o": [
+      "flattering",
+      "rude",
+      "quiet",
+      "honest"
+    ],
+    "a": 0
+  },
+  {
+    "w": "uncouth",
+    "m": "lacking good manners or unrefined",
+    "o": [
+      "polite",
+      "unrefined",
+      "learned",
+      "handsome"
+    ],
+    "a": 1
+  },
+  {
+    "w": "upbraid",
+    "m": "to find fault with or scold",
+    "o": [
+      "praise",
+      "scold",
+      "forgive",
+      "help"
+    ],
+    "a": 1
+  },
+  {
+    "w": "usurp",
+    "m": "to seize and take control by force",
+    "o": [
+      "release",
+      "seize",
+      "request",
+      "support"
+    ],
+    "a": 1
+  },
+  {
+    "w": "urbane",
+    "m": "courteous, refined, and suave",
+    "o": [
+      "rustic",
+      "refined",
+      "foolish",
+      "scared"
+    ],
+    "a": 1
+  },
+  {
+    "w": "utopian",
+    "m": "idealistic but impractical",
+    "o": [
+      "practical",
+      "imaginary",
+      "historical",
+      "logical"
+    ],
+    "a": 1
+  },
+  {
+    "w": "veracity",
+    "m": "truthfulness or accuracy",
+    "o": [
+      "falsehood",
+      "truthfulness",
+      "greed",
+      "bravery"
+    ],
+    "a": 1
+  },
+  {
+    "w": "vacillate",
+    "m": "to waver in mind or opinion",
+    "o": [
+      "decide",
+      "waver",
+      "persist",
+      "agree"
+    ],
+    "a": 1
+  },
+  {
+    "w": "venal",
+    "m": "corrupt and open to bribery",
+    "o": [
+      "honest",
+      "corrupt",
+      "sacred",
+      "valuable"
+    ],
+    "a": 1
+  },
+  {
+    "w": "venial",
+    "m": "pardonable or excusable",
+    "o": [
+      "unforgivable",
+      "severe",
+      "excusable",
+      "fatal"
+    ],
+    "a": 2
+  },
+  {
+    "w": "venerable",
+    "m": "accorded a great deal of respect",
+    "o": [
+      "respected",
+      "infamous",
+      "young",
+      "foolish"
+    ],
+    "a": 0
+  },
+  {
+    "w": "vehement",
+    "m": "showing strong feeling or forceful",
+    "o": [
+      "weak",
+      "forceful",
+      "silent",
+      "indifferent"
+    ],
+    "a": 1
+  },
+  {
+    "w": "vapid",
+    "m": "offering nothing that is stimulating; dull",
+    "o": [
+      "exciting",
+      "dull",
+      "sharp",
+      "fragrant"
+    ],
+    "a": 1
+  },
+  {
+    "w": "vacuous",
+    "m": "having or showing a lack of thought; mindless",
+    "o": [
+      "intelligent",
+      "thoughtful",
+      "mindless",
+      "full"
+    ],
+    "a": 2
+  },
+  {
+    "w": "vituperate",
+    "m": "to blame or insult with strong language",
+    "o": [
+      "praise",
+      "abuse",
+      "ignore",
+      "protect"
+    ],
+    "a": 1
+  },
+  {
+    "w": "vertigo",
+    "m": "a sensation of whirling and loss of balance",
+    "o": [
+      "dizziness",
+      "strength",
+      "vision",
+      "silence"
+    ],
+    "a": 0
+  },
+  {
+    "w": "zenith",
+    "m": "the highest point or peak",
+    "o": [
+      "bottom",
+      "peak",
+      "middle",
+      "side"
+    ],
+    "a": 1
+  },
+  {
+    "w": "zealot",
+    "m": "a fanatical partisan or uncompromising person",
+    "o": [
+      "fanatic",
+      "moderate",
+      "pacifist",
+      "scholar"
+    ],
+    "a": 0
+  },
+  {
+    "w": "zany",
+    "m": "amusingly unconventional and idiosyncratic",
+    "o": [
+      "serious",
+      "unconventional",
+      "common",
+      "boring"
+    ],
+    "a": 1
+  },
+  {
+    "w": "zest",
+    "m": "great enthusiasm and energy",
+    "o": [
+      "laziness",
+      "sadness",
+      "energy",
+      "indifference"
+    ],
+    "a": 2
+  },
+  {
+    "w": "ubiquitous",
+    "m": "present everywhere",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "ubiquitus",
+    "m": "present everywhere",
+    "f": false,
+    "c": "ubiquitous"
+  },
+  {
+    "w": "unctuous",
+    "m": "flattering",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "unctious",
+    "m": "flattering",
+    "f": false,
+    "c": "unctuous"
+  },
+  {
+    "w": "vacillate",
+    "m": "to waver in opinion",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "vacilate",
+    "m": "to waver in opinion",
+    "f": false,
+    "c": "vacillate"
+  },
+  {
+    "w": "veracity",
+    "m": "truthfulness",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "veracityy",
+    "m": "truthfulness",
+    "f": false,
+    "c": "veracity"
+  },
+  {
+    "w": "vituperate",
+    "m": "to insult or abuse",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "vituperat",
+    "m": "to insult or abuse",
+    "f": false,
+    "c": "vituperate"
+  },
+  {
+    "w": "zephyr",
+    "m": "a gentle breeze",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "zephir",
+    "m": "a gentle breeze",
+    "f": false,
+    "c": "zephyr"
+  },
+  {
+    "w": "zealot",
+    "m": "fanatic",
+    "f": true,
+    "c": ""
+  },
+  {
+    "w": "zelot",
+    "m": "fanatic",
+    "f": false,
+    "c": "zealot"
+  },
+  {
+    "w": "zenith",
+    "m": "highest point",
+    "f": true,
+    "c": ""
+  },
+  {"w":"wrath","m":"extreme anger or rage","o":["anger","peace","happiness","calm"],"a":0},
+  {"w":"wary","m":"cautious or careful","o":["careless","cautious","foolish","lazy"],"a":1},
+  {"w":"wretched","m":"miserable or very bad","o":["happy","healthy","miserable","wealthy"],"a":2},
+  {"w":"writhe","m":"twist or squirm in pain","o":["relax","squirm","stand","smile"],"a":1},
+  {"w":"wrought","m":"created or shaped","o":["destroyed","created","forgotten","wasted"],"a":1},
+  {"w":"wry","m":"twisted or ironic","o":["straight","happy","ironic","polite"],"a":2},
+  {"w":"windfall","m":"sudden good luck or success","o":["misfortune","sudden success","poverty","disaster"],"a":1},
+  {"w":"widespread","m":"present everywhere or pervasive","o":["rare","pervasive","limited","hidden"],"a":1},
+  {"w":"waspish","m":"irritable or quarrelsome","o":["friendly","irritable","polite","generous"],"a":1},
+  {"w":"withstand","m":"resist or endure","o":["surrender","resist","fail","ignore"],"a":1},
+  {"w":"wayward","m":"stubborn or disobedient","o":["obedient","stubborn","polite","humble"],"a":1},
+  {"w":"winnow","m":"sift or separate","o":["combine","sift","waste","mix"],"a":1},
+  {"w":"wane","m":"decrease or decline","o":["increase","decline","grow","start"],"a":1},
+  {"w":"wan","m":"pale or weak","o":["bright","pale","strong","healthy"],"a":1},
+  {"w":"whim","m":"fancy or sudden desire","o":["plan","fancy","certainty","dislike"],"a":1},
+  {"w":"wily","m":"cunning or crafty","o":["honest","cunning","naive","foolish"],"a":1},
+  {"w":"wince","m":"flinch or shrink in fear","o":["confront","flinch","smile","face"],"a":1},
+  {"w":"wispy","m":"fragile or delicate","o":["strong","delicate","heavy","thick"],"a":1},
+  {"w":"wistful","m":"yearning or longing","o":["satisfied","longing","cheerful","indifferent"],"a":1},
+  {"w":"withhold","m":"retain or keep back","o":["release","retain","give","share"],"a":1},
+  {"w":"wrest","m":"seize or grab by force","o":["release","seize","give","offer"],"a":1},
+  {"w":"wheedle","m":"coax or flatter","o":["insult","coax","ignore","scold"],"a":1},
+  {"w":"weaken","m":"enfeeble or attenuate","o":["strengthen","enfeeble","improve","grow"],"a":1},
+  {"w":"waver","m":"oscillate or vacillate","o":["decide","vacillate","remain","agree"],"a":1},
+  {"w":"wrangle","m":"quarrel or fight","o":["agree","quarrel","cooperate","praise"],"a":1},
+  {"w":"wonted","m":"accustomed or usual","o":["unusual","accustomed","rare","new"],"a":1},
+  {"w":"warrant","m":"permission or sanction","o":["refusal","permission","prohibition","ban"],"a":1},
+  {"w":"waive","m":"forgo or excuse","o":["demand","forgo","insist","keep"],"a":1},
+  {"w":"xenophobia","m":"fear of foreigners","o":["fear of heights","fear of foreigners","fear of water","fear of darkness"],"a":1},
+  {"w":"wrath","m":"anger","f":true,"c":""},
+  {"w":"rath","m":"anger","f":false,"c":"wrath"},
+  {"w":"wary","m":"cautious","f":true,"c":""},
+  {"w":"waryy","m":"cautious","f":false,"c":"wary"},
+  {"w":"wretched","m":"miserable","f":true,"c":""},
+  {"w":"reched","m":"miserable","f":false,"c":"wretched"},
+  {"w":"wheedle","m":"coax or flatter","f":true,"c":""},
+  {"w":"whiddle","m":"coax or flatter","f":false,"c":"wheedle"},
+  {"w":"xenophobia","m":"fear of foreigners","f":true,"c":""},
+  {"w":"zenophobia","m":"fear of foreigners","f":false,"c":"xenophobia"}
 ]
