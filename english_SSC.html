@@ -23,33 +23,43 @@
     h1 { font-size: 1.25rem; font-weight: 700; color: var(--accent); }
     .stats { display: flex; gap: 15px; font-size: 0.9rem; font-weight: 600; }
 
+    /* Filter Panel */
+    .filter-panel { width: 100%; max-width: 600px; background: var(--card-bg); padding: 15px; border-radius: 8px; border: 1px solid var(--border); display: flex; gap: 10px; margin-bottom: 20px; align-items: center; }
+    .filter-panel input { flex: 1; padding: 10px; border-radius: 6px; border: 1px solid var(--border); background: var(--bg); color: var(--text); font-size: 0.9rem; }
+    .filter-panel button { padding: 10px 20px; background: var(--accent); color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: 600; }
+    .filter-panel button:hover { opacity: 0.9; }
+
     .nav-tabs { display: flex; gap: 10px; margin-bottom: 20px; width: 100%; max-width: 600px; }
     .tab-btn { flex: 1; padding: 10px; background: var(--card-bg); border: 1px solid var(--border); color: var(--text-muted); border-radius: 8px; cursor: pointer; font-weight: 600; text-align: center; }
     .tab-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
 
-    .container { width: 100%; max-width: 600px; background: var(--card-bg); border: 1px solid var(--border); border-radius: 12px; padding: 24px; position: relative; box-shadow: 0 10px 25px -5px rgba(0,0,0,0.3); }
+    .container { width: 100%; max-width: 600px; background: var(--card-bg); border: 1px solid var(--border); border-radius: 12px; padding: 24px; position: relative; box-shadow: 0 10px 25px -5px rgba(0,0,0,0.3); transition: border-color 0.2s, box-shadow 0.2s; }
 
     .card { text-align: center; display: flex; flex-direction: column; gap: 15px; }
-    .word-display { font-size: 2rem; font-weight: 800; letter-spacing: 1px; color: #fff; }
+    .word-display { font-size: 2rem; font-weight: 800; letter-spacing: 1px; color: #fff; text-transform: capitalize; }
     .meaning-display { font-size: 0.95rem; color: var(--text-muted); min-height: 1.5em; }
 
-    /* Mode 1: Options Grid */
+    /* Feedback Display */
+    #feedback-box { padding: 12px; border-radius: 8px; font-weight: 600; display: none; margin-top: 10px; }
+    .feedback-error { background: rgba(239, 68, 68, 0.2); color: #fca5a5; border: 1px solid var(--wrong); }
+    .feedback-success { background: rgba(34, 197, 94, 0.2); color: #86efac; border: 1px solid var(--correct); }
+
+    /* Mode 1 UI */
     .options-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 15px; }
     .option-btn { background: #0f172a; border: 1px solid var(--border); padding: 14px; border-radius: 8px; color: var(--text); font-size: 0.95rem; cursor: pointer; text-align: left; display: flex; justify-content: space-between; transition: 0.1s; }
-    .option-btn:hover { border-color: var(--accent); }
+    .option-btn:hover:not(:disabled) { border-color: var(--accent); }
+    .option-btn:disabled { opacity: 0.6; cursor: not-allowed; }
     .key-badge { background: var(--border); color: var(--text-muted); padding: 2px 6px; border-radius: 4px; font-size: 0.75rem; }
 
-    /* Mode 2: Tinder Swipe Buttons */
+    /* Mode 2 UI */
     .binary-actions { display: flex; gap: 15px; margin-top: 15px; }
     .binary-btn { flex: 1; padding: 16px; border-radius: 8px; border: none; font-size: 1rem; font-weight: 700; cursor: pointer; color: white; display: flex; justify-content: center; align-items: center; gap: 8px; }
     .btn-wrong { background: var(--wrong); }
     .btn-correct { background: var(--correct); }
 
-    /* JSON Data Modal */
-    .data-section { width: 100%; max-width: 600px; margin-top: 20px; }
-    textarea { width: 100%; height: 80px; background: var(--card-bg); border: 1px solid var(--border); border-radius: 8px; color: var(--text); padding: 10px; font-family: monospace; font-size: 0.8rem; resize: vertical; }
-    .load-btn { width: 100%; margin-top: 8px; padding: 10px; background: var(--border); color: var(--text); border: none; border-radius: 6px; font-weight: 600; cursor: pointer; }
-    .load-btn:hover { background: var(--accent); color: white; }
+    .spelling-input-container { display: none; flex-direction: column; gap: 10px; margin-top: 15px; }
+    .spelling-input-container input { padding: 14px; border-radius: 8px; border: 1px solid var(--border); background: var(--bg); color: var(--text); font-size: 1rem; text-align: center; }
+    .spelling-input-container button { padding: 14px; border-radius: 8px; border: none; background: var(--accent); color: white; font-weight: 700; cursor: pointer; }
 
     /* Feedback Animations */
     .flash-correct { border-color: var(--correct) !important; box-shadow: 0 0 15px rgba(34, 197, 94, 0.4); }
@@ -64,8 +74,15 @@
     <div class="stats">
       <span>Score: <strong id="score">0</strong></span>
       <span>Streak: <strong id="streak">0</strong></span>
+      <span>Q: <strong id="q-tracker">0/0</strong></span>
     </div>
   </header>
+
+  <div class="filter-panel">
+    <input type="number" id="filter-count" placeholder="Limit (e.g. 50)" min="1">
+    <input type="text" id="filter-alpha" placeholder="Letters (e.g. A-C, e)">
+    <button onclick="applyFilters()">Apply Filters</button>
+  </div>
 
   <div class="nav-tabs">
     <div class="tab-btn active" onclick="switchMode('vocab')">1. Vocab & Meaning</div>
@@ -76,6 +93,8 @@
     <div class="card">
       <div class="word-display" id="target-word">---</div>
       <div class="meaning-display" id="sub-info">---</div>
+      
+      <div id="feedback-box"></div>
 
       <!-- Mode 1 UI -->
       <div id="vocab-ui">
@@ -84,150 +103,268 @@
 
       <!-- Mode 2 UI -->
       <div id="spelling-ui" class="hidden">
-        <div class="binary-actions">
+        <div class="binary-actions" id="binary-buttons">
           <button class="binary-btn btn-wrong" onclick="handleBinaryChoice(false)">Incorrect [←]</button>
           <button class="binary-btn btn-correct" onclick="handleBinaryChoice(true)">Correct [→]</button>
+        </div>
+        <div class="spelling-input-container" id="spelling-input-ui">
+          <input type="text" id="spell-input" placeholder="Type correct spelling..." autocomplete="off">
+          <button onclick="submitSpellingCorrection()">Submit [Enter]</button>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="data-section">
-    <textarea id="json-input" placeholder="Paste NotebookLM JSON array here..."></textarea>
-    <button class="load-btn" onclick="loadCustomData()">Load Data Set</button>
-  </div>
-
   <script>
-    let dataset = [];
-  let currentMode = 'vocab';
-  let filteredList = [];
-  let currentIndex = 0;
-  let score = 0;
-  let streak = 0;
+    let fullDataset = [];
+    let filteredList = [];
+    let currentMode = 'vocab';
+    let currentIndex = 0;
+    let score = 0;
+    let streak = 0;
+    let isWaiting = false; // Prevents input during feedback display
 
-  // Fetch data automatically on load
-  async function init() {
-    try {
-      const response = await fetch('./data.json');
-      if (!response.ok) throw new Error('Network response was not ok');
-      dataset = await response.json();
+    // Core Init
+    async function init() {
+      try {
+        const response = await fetch('./data.json');
+        if (!response.ok) throw new Error('Network error');
+        fullDataset = await response.json();
+        applyFilters();
+      } catch (error) {
+        console.error('Failed to load data:', error);
+        document.getElementById('target-word').innerText = "Fetch Error";
+        document.getElementById('sub-info').innerText = "Could not load data.json.";
+      }
+    }
+
+    // --- Alphabet Parsing & Filtering ---
+    function parseAlphabets(inputStr) {
+      if (!inputStr.trim()) return null;
+      const letters = new Set();
+      const parts = inputStr.toLowerCase().split(',');
       
-      // Hide the manual load section if fetch is successful
-      document.querySelector('.data-section').style.display = 'none';
-      
-      filterData();
+      for (let p of parts) {
+        p = p.trim();
+        if (p.includes('-') && p.length === 3) {
+          const start = p.charCodeAt(0);
+          const end = p.charCodeAt(2);
+          if (start <= end) {
+            for (let i = start; i <= end; i++) letters.add(String.fromCharCode(i));
+          }
+        } else if (p.length === 1 && p.match(/[a-z]/)) {
+          letters.add(p);
+        }
+      }
+      return letters.size > 0 ? Array.from(letters) : null;
+    }
+
+    function applyFilters() {
+      const countInput = document.getElementById('filter-count').value;
+      const alphaInput = document.getElementById('filter-alpha').value;
+      const allowedLetters = parseAlphabets(alphaInput);
+
+      // 1. Filter by mode
+      let baseList = fullDataset.filter(item => currentMode === 'vocab' ? item.o !== undefined : item.f !== undefined);
+
+      // 2. Filter by Alphabet
+      if (allowedLetters) {
+        baseList = baseList.filter(item => allowedLetters.includes(item.w.charAt(0).toLowerCase()));
+      }
+
+      // 3. Shuffle
+      for (let i = baseList.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [baseList[i], baseList[j]] = [baseList[j], baseList[i]];
+      }
+
+      // 4. Slice to count
+      const limit = parseInt(countInput);
+      if (!isNaN(limit) && limit > 0) {
+        baseList = baseList.slice(0, limit);
+      }
+
+      filteredList = baseList;
+      currentIndex = 0;
       renderCard();
-    } catch (error) {
-      console.error('Failed to load data.json:', error);
-      document.getElementById('target-word').innerText = "Fetch Error";
-      document.getElementById('sub-info').innerText = "Could not load data.json. Ensure it is in the same directory.";
-    }
-  }
-
-  function switchMode(mode) {
-    currentMode = mode;
-    document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
-    event.target.classList.add('active');
-
-    if (mode === 'vocab') {
-      document.getElementById('vocab-ui').classList.remove('hidden');
-      document.getElementById('spelling-ui').classList.add('hidden');
-    } else {
-      document.getElementById('vocab-ui').classList.add('hidden');
-      document.getElementById('spelling-ui').classList.remove('hidden');
-    }
-    currentIndex = 0;
-    filterData();
-    renderCard();
-  }
-
-  // Routes objects based on their JSON keys
-  function filterData() {
-    if (currentMode === 'vocab') {
-      filteredList = dataset.filter(item => item.o !== undefined); // Has options array
-    } else {
-      filteredList = dataset.filter(item => item.f !== undefined); // Has boolean flag
-    }
-  }
-
-  function renderCard() {
-    if (filteredList.length === 0) {
-      document.getElementById('target-word').innerText = "Complete";
-      document.getElementById('sub-info').innerText = "No more words in this category.";
-      document.getElementById('options-container').innerHTML = "";
-      return;
     }
 
-    const item = filteredList[currentIndex];
-    document.getElementById('target-word').innerText = item.w;
+    function switchMode(mode) {
+      if (isWaiting) return;
+      currentMode = mode;
+      document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+      event.target.classList.add('active');
 
-    if (currentMode === 'vocab') {
-      document.getElementById('sub-info').innerText = "Select the correct synonym/meaning:";
-      const container = document.getElementById('options-container');
-      container.innerHTML = "";
-      item.o.forEach((opt, idx) => {
-        const btn = document.createElement('button');
-        btn.className = 'option-btn';
-        btn.innerHTML = `<span>${opt}</span><span class="key-badge">${idx + 1}</span>`;
-        btn.onclick = () => handleVocabChoice(idx);
-        container.appendChild(btn);
-      });
-    } else {
-      document.getElementById('sub-info').innerText = item.m ? `Hint: ${item.m}` : "Is this spelling correct?";
+      document.getElementById('vocab-ui').classList.toggle('hidden', mode !== 'vocab');
+      document.getElementById('spelling-ui').classList.toggle('hidden', mode !== 'spelling');
+      
+      applyFilters();
     }
-  }
 
-  function handleVocabChoice(selectedIndex) {
-    const item = filteredList[currentIndex];
-    const isCorrect = selectedIndex === item.a;
-    processResult(isCorrect);
-  }
+    // --- UI Rendering ---
+    function renderCard() {
+      isWaiting = false;
+      document.getElementById('feedback-box').style.display = 'none';
+      document.getElementById('app-container').classList.remove('flash-correct', 'flash-wrong');
+      
+      if (filteredList.length === 0) {
+        document.getElementById('target-word').innerText = "No words found";
+        document.getElementById('sub-info').innerText = "Adjust your alphabet or limit filters.";
+        document.getElementById('options-container').innerHTML = "";
+        document.getElementById('q-tracker').innerText = "0/0";
+        return;
+      }
 
-  function handleBinaryChoice(userChoice) {
-    const item = filteredList[currentIndex];
-    const isCorrect = userChoice === item.f;
-    
-    if (!isCorrect && item.c && !item.f) {
-      alert(`Incorrect! Correct spelling is: ${item.c}`);
+      document.getElementById('q-tracker').innerText = `${currentIndex + 1}/${filteredList.length}`;
+      const item = filteredList[currentIndex];
+      document.getElementById('target-word').innerText = item.w;
+
+      if (currentMode === 'vocab') {
+        document.getElementById('sub-info').innerText = "Select the correct synonym/meaning:";
+        const container = document.getElementById('options-container');
+        container.innerHTML = "";
+        item.o.forEach((opt, idx) => {
+          const btn = document.createElement('button');
+          btn.className = 'option-btn';
+          btn.innerHTML = `<span>${opt}</span><span class="key-badge">${idx + 1}</span>`;
+          btn.onclick = () => handleVocabChoice(idx);
+          container.appendChild(btn);
+        });
+      } else {
+        // Reset Spelling UI state
+        document.getElementById('sub-info').innerText = item.m ? `Hint: ${item.m}` : "Is this spelling correct?";
+        document.getElementById('binary-buttons').style.display = 'flex';
+        document.getElementById('spelling-input-ui').style.display = 'none';
+        document.getElementById('spell-input').value = "";
+      }
     }
-    processResult(isCorrect);
-  }
 
-  function processResult(isCorrect) {
-    const container = document.getElementById('app-container');
-    if (isCorrect) {
+    function showFeedback(message, type) {
+      const box = document.getElementById('feedback-box');
+      box.textContent = message;
+      box.className = type === 'error' ? 'feedback-error' : 'feedback-success';
+      box.style.display = 'block';
+    }
+
+    // --- Mode 1 Logic (Vocab) ---
+    function handleVocabChoice(selectedIndex) {
+      if (isWaiting) return;
+      const item = filteredList[currentIndex];
+      const isCorrect = selectedIndex === item.a;
+
+      if (isCorrect) {
+        processSuccess();
+      } else {
+        processFailure(`Incorrect! The correct meaning is: ${item.o[item.a]}`);
+      }
+    }
+
+    // --- Mode 2 Logic (Spelling) ---
+    function handleBinaryChoice(userSaysCorrect) {
+      if (isWaiting) return;
+      const item = filteredList[currentIndex];
+      const actuallyCorrect = item.f;
+
+      if (!userSaysCorrect) {
+        // User clicked "Incorrect"
+        if (!actuallyCorrect) {
+          // User correctly identified it as wrong. Now test them on correct spelling.
+          document.getElementById('binary-buttons').style.display = 'none';
+          document.getElementById('spelling-input-ui').style.display = 'flex';
+          const input = document.getElementById('spell-input');
+          input.focus();
+        } else {
+          // User thought it was incorrect, but it's correct
+          processFailure("Wrong! The spelling was actually correct.");
+        }
+      } else {
+        // User clicked "Correct"
+        if (actuallyCorrect) {
+          processSuccess();
+        } else {
+          processFailure(`Wrong! The correct spelling is: ${item.c}`);
+        }
+      }
+    }
+
+    function submitSpellingCorrection() {
+      if (isWaiting) return;
+      const typedVal = document.getElementById('spell-input').value.trim().toLowerCase();
+      const item = filteredList[currentIndex];
+      
+      if (typedVal === item.c.toLowerCase()) {
+        processSuccess();
+      } else {
+        processFailure(`Wrong! Correct spelling: ${item.c}`);
+      }
+    }
+
+    // --- State Management ---
+    function processSuccess() {
+      isWaiting = true;
       score += 10;
       streak += 1;
+      updateStats();
+      
+      const container = document.getElementById('app-container');
       container.classList.add('flash-correct');
-    } else {
+      
+      setTimeout(advanceQuestion, 400); // Quick transition for correct answers
+    }
+
+    function processFailure(feedbackMessage) {
+      isWaiting = true;
       streak = 0;
+      updateStats();
+
+      const container = document.getElementById('app-container');
       container.classList.add('flash-wrong');
+      showFeedback(feedbackMessage, 'error');
+
+      // Disable vocab buttons temporarily to prevent spam clicks
+      document.querySelectorAll('.option-btn').forEach(btn => btn.disabled = true);
+
+      // Wait 2.5 seconds before moving on so user can read the correct answer
+      setTimeout(advanceQuestion, 2500);
     }
 
-    document.getElementById('score').innerText = score;
-    document.getElementById('streak').innerText = streak;
+    function updateStats() {
+      document.getElementById('score').innerText = score;
+      document.getElementById('streak').innerText = streak;
+    }
 
-    setTimeout(() => {
-      container.classList.remove('flash-correct', 'flash-wrong');
-      currentIndex = (currentIndex + 1) % filteredList.length;
-      renderCard();
-    }, 200);
-  }
-
-  // Keyboard controls
-  window.addEventListener('keydown', (e) => {
-    if (currentMode === 'vocab') {
-      if (['1', '2', '3', '4'].includes(e.key)) {
-        handleVocabChoice(parseInt(e.key) - 1);
+    function advanceQuestion() {
+      currentIndex++;
+      if (currentIndex >= filteredList.length) {
+        alert("Completed this set!");
+        currentIndex = 0; // Loop back or you could re-shuffle
       }
-    } else if (currentMode === 'spelling') {
-      if (e.key === 'ArrowLeft') handleBinaryChoice(false);
-      if (e.key === 'ArrowRight') handleBinaryChoice(true);
+      renderCard();
     }
-  });
 
-  // Start app
-  init();
+    // --- Keyboard Bindings ---
+    window.addEventListener('keydown', (e) => {
+      // Ignore if typing in text inputs
+      if (document.activeElement.tagName === 'INPUT' && e.key !== 'Enter') return;
+
+      if (isWaiting) return;
+
+      if (currentMode === 'vocab') {
+        if (['1', '2', '3', '4'].includes(e.key)) {
+          handleVocabChoice(parseInt(e.key) - 1);
+        }
+      } else if (currentMode === 'spelling') {
+        const inputUI = document.getElementById('spelling-input-ui');
+        if (inputUI.style.display === 'flex') {
+          if (e.key === 'Enter') submitSpellingCorrection();
+        } else {
+          if (e.key === 'ArrowLeft') handleBinaryChoice(false);
+          if (e.key === 'ArrowRight') handleBinaryChoice(true);
+        }
+      }
+    });
+
+    init();
   </script>
 </body>
 </html>
