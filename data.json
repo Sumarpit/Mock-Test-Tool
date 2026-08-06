@@ -645,8 +645,7 @@
   {"w":"resilient","m":"able to recoil or spring back","f":true,"c":""},
   {"w":"resilent","m":"able to recoil or spring back","f":false,"c":"resilient"},
   {"w":"recourse","m":"a source of help in a difficult situation","f":true,"c":""},
-  {"w":"recource","m":"a source of help in a difficult situation","f":false,"c":"recourse"}
-][
+  {"w":"recource","m":"a source of help in a difficult situation","f":false,"c":"recourse"},
   {"w":"sycophant","m":"flatterer","o":["flatterer","leader","helper","enemy"],"a":0},
   {"w":"salubrious","m":"healthy","o":["sickly","healthy","dirty","scary"],"a":1},
   {"w":"sullen","m":"gloomy","o":["cheerful","gloomy","active","talkative"],"a":1},
