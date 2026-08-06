@@ -88,8 +88,7 @@
   {"w":"acerbic","m":"sharp and bitter","f":true,"c":""},
   {"w":"aserbic","m":"sharp and bitter","f":false,"c":"acerbic"},
   {"w":"affable","m":"friendly and good-natured","f":true,"c":""},
-  {"w":"afable","m":"friendly and good-natured","f":false,"c":"affable"}
-,
+  {"w":"afable","m":"friendly and good-natured","f":false,"c":"affable"},
   {"w":"blandishment","m":"flattery or coaxing","o":["flattery","abuse","truth","silence"],"a":0},
   {"w":"bellicose","m":"quarrelsome or eager to fight","o":["peaceful","quarrelsome","polite","careful"],"a":1},
   {"w":"baleful","m":"harmful or destructive","o":["helpful","friendly","harmful","blessed"],"a":2},
@@ -125,8 +124,7 @@
   {"w":"barbaric","m":"uncivilized or brutal","f":true,"c":""},
   {"w":"barbric","m":"uncivilized or brutal","f":false,"c":"barbaric"},
   {"w":"beneficiary","m":"recipient of funds or help","f":true,"c":""},
-  {"w":"benefisary","m":"recipient of funds or help","f":false,"c":"beneficiary"}
-,
+  {"w":"benefisary","m":"recipient of funds or help","f":false,"c":"beneficiary"},
   {"w":"cajole","m":"to persuade by flattery","o":["force","ignore","flatter","reject"],"a":2},
   {"w":"candid","m":"frank and honest","o":["shy","cunning","honest","hostile"],"a":2},
   {"w":"capricious","m":"whimsical or inconstant","o":["stable","whimsical","bold","scared"],"a":1},
@@ -169,8 +167,7 @@
   {"w":"copious","m":"plentiful","f":true,"c":""},
   {"w":"copeous","m":"plentiful","f":false,"c":"copious"},
   {"w":"corroborate","m":"confirm","f":true,"c":""},
-  {"w":"coroborate","m":"confirm","f":false,"c":"corroborate"}
-,
+  {"w":"coroborate","m":"confirm","f":false,"c":"corroborate"},
   {"w":"dwindle","m":"to gradually diminish or shrink in size","o":["increase","shrink","float","create"],"a":1},
   {"w":"dejected","m":"sad and depressed","o":["excited","satisfied","hopeful","sad"],"a":3},
   {"w":"diffident","m":"shy or lacking self-confidence","o":["confident","shy","arrogant","quick"],"a":1},
@@ -205,8 +202,7 @@
   {"w":"demise","m":"death","f":true,"c":""},
   {"w":"demyse","m":"death","f":false,"c":"demise"},
   {"w":"detrimental","m":"harmful","f":true,"c":""},
-  {"w":"detremental","m":"harmful","f":false,"c":"detrimental"}
-,
+  {"w":"detremental","m":"harmful","f":false,"c":"detrimental"},
   {"w":"exterminate","m":"to destroy or get rid of completely","o":["destroy","create","build","protect"],"a":0},
   {"w":"esoteric","m":"mysterious or difficult to understand","o":["clear","unclear","common","friendly"],"a":1},
   {"w":"eminent","m":"famous and respected","o":["poor","famous","unknown","lazy"],"a":1},
@@ -254,8 +250,7 @@
   {"w":"explicit","m":"clear and distinct","f":true,"c":""},
   {"w":"explicet","m":"clear and distinct","f":false,"c":"explicit"},
   {"w":"expiation","m":"atonement","f":true,"c":""},
-  {"w":"expietion","m":"atonement","f":false,"c":"expiation"}
-,
+  {"w":"expietion","m":"atonement","f":false,"c":"expiation"},
   {"w":"foment","m":"to instigate or stir up","o":["calm","ignore","instigate","prevent"],"a":2},
   {"w":"fastidious","m":"very fussy or hard to please","o":["cooperative","fussy","lazy","ignorant"],"a":1},
   {"w":"fidelity","m":"loyalty or faithfulness","o":["treachery","loyalty","hatred","doubt"],"a":1},
@@ -291,8 +286,7 @@
   {"w":"furtive","m":"secret","f":true,"c":""},
   {"w":"firtive","m":"secret","f":false,"c":"furtive"},
   {"w":"futility","m":"uselessness","f":true,"c":""},
-  {"w":"futillety","m":"uselessness","f":false,"c":"futility"}
-,
+  {"w":"futillety","m":"uselessness","f":false,"c":"futility"},
   {"w":"gregarious","m":"sociable and fond of company","o":["shy","unsociable","sociable","hostile"],"a":2},
   {"w":"gallant","m":"brave or heroic","o":["cowardly","polite","brave","foolish"],"a":2},
   {"w":"gainsay","m":"to deny or contradict","o":["agree","deny","support","ignore"],"a":1},
@@ -327,8 +321,7 @@
   {"w":"grandeur","m":"splendor and impressiveness","f":true,"c":""},
   {"w":"grandure","m":"splendor and impressiveness","f":false,"c":"grandeur"},
   {"w":"gracious","m":"courteous and polite","f":true,"c":""},
-  {"w":"grashious","m":"courteous and polite","f":false,"c":"gracious"}
-,
+  {"w":"grashious","m":"courteous and polite","f":false,"c":"gracious"},
   {"w":"haughty","m":"arrogant or proud","o":["humble","arrogant","polite","careful"],"a":1},
   {"w":"heinous","m":"extremely wicked or hateful","o":["noble","wicked","cheerful","unimportant"],"a":1},
   {"w":"haggle","m":"to dispute or bargain persistently","o":["agree","bargain","donate","refuse"],"a":1},
@@ -358,8 +351,7 @@
   {"w":"judicious","m":"wise","f":true,"c":""},
   {"w":"judiciouss","m":"wise","f":false,"c":"judicious"},
   {"w":"jovial","m":"cheerful","f":true,"c":""},
-  {"w":"joviel","m":"cheerful","f":false,"c":"jovial"}
-,
+  {"w":"joviel","m":"cheerful","f":false,"c":"jovial"},
   {"w":"insidious","m":"stealthily treacherous or cunning","o":["honest","innocent","cunning","clumsy"],"a":2},
   {"w":"insolent","m":"rude and disrespectful","o":["polite","humble","rude","careful"],"a":2},
   {"w":"indolent","m":"lazy and inactive","o":["active","lazy","intelligent","careful"],"a":1},
