@@ -16,26 +16,26 @@
         
         .controls {
             display: flex;
-            flex-wrap: wrap;
             gap: 10px;
             margin-bottom: 20px;
             background: #fff;
             padding: 15px;
             border-radius: 8px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            align-items: flex-end;
         }
-        .control-group { flex: 1 1 100px; display: flex; flex-direction: column; min-width: 0; }
+        .control-group { flex: 1; display: flex; flex-direction: column; min-width: 0; }
         label { font-size: 12px; font-weight: 600; margin-bottom: 4px; color: #475569; }
-        select, input, button { 
-            padding: 10px; 
+        select, button { 
+            padding: 12px; 
             font-size: 14px; 
             border: 1px solid #cbd5e1; 
             border-radius: 6px; 
             width: 100%;
         }
+        select:focus { outline: 2px solid var(--primary); border-color: transparent; }
         button { background: #0f172a; color: white; border: none; cursor: pointer; font-weight: 600; }
         button:active { opacity: 0.8; }
-        button:disabled { background: #94a3b8; cursor: not-allowed; }
         
         .board { display: flex; gap: 10px; width: 100%; }
         .col { flex: 1; display: flex; flex-direction: column; gap: 8px; width: 50%; }
@@ -68,26 +68,27 @@
         
         #nextBtn { margin-top: 15px; display: none; background: var(--primary); padding: 15px; font-size: 16px; width: 100%; border-radius: 8px; color: white; border: none; cursor: pointer; font-weight: 600;}
         #status { text-align: center; margin-top: 10px; font-size: 14px; color: #475569; font-weight: 600; }
+        
+        /* Highlight dropdown animation when quiz finishes */
+        .highlight-pulse { animation: pulseBorder 1.5s infinite; }
+        @keyframes pulseBorder {
+            0% { box-shadow: 0 0 0 0 rgba(37, 99, 235, 0.4); }
+            70% { box-shadow: 0 0 0 10px rgba(37, 99, 235, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(37, 99, 235, 0); }
+        }
     </style>
 </head>
 <body>
 
     <div class="controls">
         <div class="control-group">
-            <label>Category</label>
-            <input type="text" id="categoryInput" placeholder="e.g., Polity Articles">
+            <label>Select Category</label>
+            <select id="categorySelect">
+                <option value="">Loading data...</option>
+            </select>
         </div>
-        <div class="control-group" style="flex: 1 1 45px;">
-            <label>Start ID</label>
-            <input type="number" id="startId" placeholder="Min">
-        </div>
-        <div class="control-group" style="flex: 1 1 45px;">
-            <label>End ID</label>
-            <input type="number" id="endId" placeholder="Max">
-        </div>
-        <div class="control-group" style="flex: 1 1 100%;">
-            <label>&nbsp;</label>
-            <button onclick="startQuiz()">Load & Start</button>
+        <div class="control-group" style="flex: 0 0 auto;">
+            <button onclick="startQuiz()">Start</button>
         </div>
     </div>
 
@@ -96,17 +97,41 @@
         <div class="col" id="rightCol"></div>
     </div>
     
-    <button id="nextBtn" onclick="loadNextBatch()">Next 5 Questions</button>
+    <button id="nextBtn" onclick="loadNextBatch()">Next Batch</button>
     <div id="status"></div>
 
     <script>
-        let pool = [];
+        let globalData = [];
         let remainingData = [];
-        let stopThreshold = 0;
         
         let leftSelected = null;
         let rightSelected = null;
         let matchesInRound = 0;
+
+        // Load JSON and populate dropdown on page load
+        document.addEventListener("DOMContentLoaded", async () => {
+            try {
+                const response = await fetch('gs_data.json');
+                if (!response.ok) throw new Error("File not found");
+                globalData = await response.json();
+                
+                const categories = [...new Set(globalData.map(item => item.c))].sort();
+                const select = document.getElementById('categorySelect');
+                
+                select.innerHTML = '';
+                categories.forEach(cat => {
+                    const option = document.createElement('option');
+                    option.value = cat;
+                    option.textContent = cat;
+                    select.appendChild(option);
+                });
+                
+            } catch (e) {
+                document.getElementById('categorySelect').innerHTML = '<option value="">Error loading JSON</option>';
+                alert("Error loading gs_data.json. Ensure the file is in the same directory.");
+                console.error(e);
+            }
+        });
 
         function shuffle(array) {
             for (let i = array.length - 1; i > 0; i--) {
@@ -116,60 +141,50 @@
             return array;
         }
 
-        async function startQuiz() {
-            try {
-                const response = await fetch('gs_data.json');
-                if (!response.ok) throw new Error("File not found");
-                const rawData = await response.json();
+        function startQuiz() {
+            const cat = document.getElementById('categorySelect').value;
+            if (!cat) return;
 
-                const cat = document.getElementById('categoryInput').value.toLowerCase();
-                const start = parseInt(document.getElementById('startId').value);
-                const end = parseInt(document.getElementById('endId').value);
+            // Remove any highlight from previous completion
+            document.getElementById('categorySelect').classList.remove('highlight-pulse');
 
-                // Filter Data using minimal keys: i, c, l, r
-                pool = rawData.filter(item => {
-                    let match = true;
-                    if (cat && item.c.toLowerCase() !== cat) match = false;
-                    if (!isNaN(start) && item.i < start) match = false;
-                    if (!isNaN(end) && item.i > end) match = false;
-                    return match;
-                });
+            // Filter Data for the selected category
+            let pool = globalData.filter(item => item.c === cat);
 
-                if (pool.length < 5) {
-                    alert("Not enough data matching filters. Need at least 5 items.");
-                    return;
-                }
-
-                remainingData = shuffle([...pool]);
-                stopThreshold = Math.floor(pool.length * 0.1);
-                
-                document.getElementById('board').style.display = 'flex';
-                document.getElementById('status').innerText = `Pool Size: ${pool.length} pairs.`;
-                loadNextBatch();
-
-            } catch (e) {
-                alert("Error loading gs_data.json. Ensure the file is in the same directory.");
-                console.error(e);
-            }
-        }
-
-        function loadNextBatch() {
-            if (remainingData.length <= stopThreshold) {
-                document.getElementById('board').style.display = 'none';
-                document.getElementById('nextBtn').style.display = 'none';
-                document.getElementById('status').innerText = "Quiz Complete! Over 90% exhausted.";
+            if (pool.length < 3) {
+                alert("Need at least 3 items in this category to play.");
                 return;
             }
 
-            const batch = remainingData.splice(0, Math.min(5, remainingData.length));
+            remainingData = shuffle([...pool]);
+            
+            document.getElementById('board').style.display = 'flex';
+            loadNextBatch();
+        }
+
+        function loadNextBatch() {
+            if (remainingData.length === 0) {
+                document.getElementById('board').style.display = 'none';
+                document.getElementById('nextBtn').style.display = 'none';
+                document.getElementById('status').innerText = "Quiz Complete! Select a new category.";
+                
+                // Prompt user to change category
+                const selectEl = document.getElementById('categorySelect');
+                selectEl.classList.add('highlight-pulse');
+                selectEl.focus();
+                return;
+            }
+
+            const batchSize = Math.min(5, remainingData.length);
+            const batch = remainingData.splice(0, batchSize);
+            
             matchesInRound = 0;
             leftSelected = null;
             rightSelected = null;
 
             document.getElementById('nextBtn').style.display = 'none';
-            document.getElementById('status').innerText = `Remaining in pool: ${remainingData.length}`;
+            document.getElementById('status').innerText = `Questions remaining in category: ${remainingData.length}`;
 
-            // Map minimal keys to UI text and generate a unique ID
             let leftItems = batch.map(b => ({ text: b.l, uid: b.l + b.r }));
             let rightItems = batch.map(b => ({ text: b.r, uid: b.l + b.r }));
 
