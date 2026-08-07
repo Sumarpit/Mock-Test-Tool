@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>SSC Static GK - Relational Matcher</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --success: #16a34a;
+            --error: #dc2626;
+            --bg: #f8fafc;
+        }
+        * { box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+        body { margin: 0; padding: 15px; background: var(--bg); color: #0f172a; overflow-x: hidden; }
+        
+        .controls {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+            background: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .control-group { flex: 1 1 100px; display: flex; flex-direction: column; min-width: 0; }
+        label { font-size: 12px; font-weight: 600; margin-bottom: 4px; color: #475569; }
+        select, input, button { 
+            padding: 10px; 
+            font-size: 14px; 
+            border: 1px solid #cbd5e1; 
+            border-radius: 6px; 
+            width: 100%;
+        }
+        button { background: #0f172a; color: white; border: none; cursor: pointer; font-weight: 600; }
+        button:active { opacity: 0.8; }
+        button:disabled { background: #94a3b8; cursor: not-allowed; }
+        
+        .board { display: flex; gap: 10px; width: 100%; }
+        .col { flex: 1; display: flex; flex-direction: column; gap: 8px; width: 50%; }
+        .card {
+            background: #fff;
+            padding: 15px 10px;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            text-align: center;
+            font-size: 14px;
+            cursor: pointer;
+            user-select: none;
+            transition: all 0.15s ease;
+            word-wrap: break-word;
+            min-height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .card.selected { border-color: var(--primary); background: #eff6ff; color: var(--primary); font-weight: 600; }
+        .card.matched { border-color: var(--success); background: #f0fdf4; color: var(--success); pointer-events: none; opacity: 0.7; }
+        .card.wrong { border-color: var(--error); background: #fef2f2; color: var(--error); animation: shake 0.3s; }
+        
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            25% { transform: translateX(-5px); }
+            75% { transform: translateX(5px); }
+        }
+        
+        #nextBtn { margin-top: 15px; display: none; background: var(--primary); padding: 15px; font-size: 16px; width: 100%; border-radius: 8px; color: white; border: none; cursor: pointer; font-weight: 600;}
+        #status { text-align: center; margin-top: 10px; font-size: 14px; color: #475569; font-weight: 600; }
+    </style>
+</head>
+<body>
+
+    <div class="controls">
+        <div class="control-group">
+            <label>Category</label>
+            <input type="text" id="categoryInput" placeholder="e.g., Polity Articles">
+        </div>
+        <div class="control-group" style="flex: 1 1 45px;">
+            <label>Start ID</label>
+            <input type="number" id="startId" placeholder="Min">
+        </div>
+        <div class="control-group" style="flex: 1 1 45px;">
+            <label>End ID</label>
+            <input type="number" id="endId" placeholder="Max">
+        </div>
+        <div class="control-group" style="flex: 1 1 100%;">
+            <label>&nbsp;</label>
+            <button onclick="startQuiz()">Load & Start</button>
+        </div>
+    </div>
+
+    <div id="board" class="board" style="display: none;">
+        <div class="col" id="leftCol"></div>
+        <div class="col" id="rightCol"></div>
+    </div>
+    
+    <button id="nextBtn" onclick="loadNextBatch()">Next 5 Questions</button>
+    <div id="status"></div>
+
+    <script>
+        let pool = [];
+        let remainingData = [];
+        let stopThreshold = 0;
+        
+        let leftSelected = null;
+        let rightSelected = null;
+        let matchesInRound = 0;
+
+        function shuffle(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+
+        async function startQuiz() {
+            try {
+                const response = await fetch('gs_data.json');
+                if (!response.ok) throw new Error("File not found");
+                const rawData = await response.json();
+
+                const cat = document.getElementById('categoryInput').value.toLowerCase();
+                const start = parseInt(document.getElementById('startId').value);
+                const end = parseInt(document.getElementById('endId').value);
+
+                // Filter Data using minimal keys: i, c, l, r
+                pool = rawData.filter(item => {
+                    let match = true;
+                    if (cat && item.c.toLowerCase() !== cat) match = false;
+                    if (!isNaN(start) && item.i < start) match = false;
+                    if (!isNaN(end) && item.i > end) match = false;
+                    return match;
+                });
+
+                if (pool.length < 5) {
+                    alert("Not enough data matching filters. Need at least 5 items.");
+                    return;
+                }
+
+                remainingData = shuffle([...pool]);
+                stopThreshold = Math.floor(pool.length * 0.1);
+                
+                document.getElementById('board').style.display = 'flex';
+                document.getElementById('status').innerText = `Pool Size: ${pool.length} pairs.`;
+                loadNextBatch();
+
+            } catch (e) {
+                alert("Error loading gs_data.json. Ensure the file is in the same directory.");
+                console.error(e);
+            }
+        }
+
+        function loadNextBatch() {
+            if (remainingData.length <= stopThreshold) {
+                document.getElementById('board').style.display = 'none';
+                document.getElementById('nextBtn').style.display = 'none';
+                document.getElementById('status').innerText = "Quiz Complete! Over 90% exhausted.";
+                return;
+            }
+
+            const batch = remainingData.splice(0, Math.min(5, remainingData.length));
+            matchesInRound = 0;
+            leftSelected = null;
+            rightSelected = null;
+
+            document.getElementById('nextBtn').style.display = 'none';
+            document.getElementById('status').innerText = `Remaining in pool: ${remainingData.length}`;
+
+            // Map minimal keys to UI text and generate a unique ID
+            let leftItems = batch.map(b => ({ text: b.l, uid: b.l + b.r }));
+            let rightItems = batch.map(b => ({ text: b.r, uid: b.l + b.r }));
+
+            leftItems = shuffle(leftItems);
+            rightItems = shuffle(rightItems);
+
+            renderCol('leftCol', leftItems, 'left');
+            renderCol('rightCol', rightItems, 'right');
+        }
+
+        function renderCol(colId, items, side) {
+            const col = document.getElementById(colId);
+            col.innerHTML = '';
+            items.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'card';
+                div.innerText = item.text;
+                div.dataset.uid = item.uid;
+                div.dataset.side = side;
+                div.onclick = () => handleSelect(div, side);
+                col.appendChild(div);
+            });
+        }
+
+        function handleSelect(element, side) {
+            if (element.classList.contains('matched')) return;
+
+            const siblings = element.parentElement.children;
+            for (let el of siblings) el.classList.remove('selected');
+
+            element.classList.add('selected');
+
+            if (side === 'left') leftSelected = element;
+            else rightSelected = element;
+
+            checkMatch();
+        }
+
+        function checkMatch() {
+            if (leftSelected && rightSelected) {
+                if (leftSelected.dataset.uid === rightSelected.dataset.uid) {
+                    leftSelected.className = 'card matched';
+                    rightSelected.className = 'card matched';
+                    matchesInRound++;
+                    resetSelections();
+
+                    if (matchesInRound >= document.getElementById('leftCol').children.length) {
+                        document.getElementById('nextBtn').style.display = 'block';
+                    }
+                } else {
+                    leftSelected.classList.add('wrong');
+                    rightSelected.classList.add('wrong');
+                    
+                    setTimeout(() => {
+                        if (leftSelected) leftSelected.classList.remove('wrong', 'selected');
+                        if (rightSelected) rightSelected.classList.remove('wrong', 'selected');
+                        resetSelections();
+                    }, 400);
+                }
+            }
+        }
+
+        function resetSelections() {
+            leftSelected = null;
+            rightSelected = null;
+        }
+    </script>
+</body>
+</html>
