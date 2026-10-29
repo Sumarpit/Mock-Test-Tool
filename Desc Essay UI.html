@@ -1,0 +1,760 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#15253f">
+  <title>IBPS Descriptive Writing Practice</title>
+  <style>
+    :root {
+      --navy: #15253f;
+      --navy-2: #20395e;
+      --blue: #2f67b2;
+      --blue-light: #eaf1fb;
+      --ink: #182230;
+      --muted: #647184;
+      --line: #d7dee8;
+      --panel: #ffffff;
+      --canvas: #edf1f6;
+      --green: #1d7652;
+      --red: #b42318;
+      --amber: #9b5b00;
+      --shadow: 0 2px 10px rgba(20, 37, 63, .06);
+    }
+
+    * { box-sizing: border-box; }
+    html, body { width: 100%; height: 100%; margin: 0; overflow: hidden; }
+    body {
+      color: var(--ink);
+      background: var(--canvas);
+      font: 14px/1.45 "Segoe UI", Arial, Helvetica, sans-serif;
+    }
+    button, input, textarea { font: inherit; }
+    button { cursor: pointer; }
+    button:disabled { cursor: not-allowed; opacity: .52; }
+
+    .app {
+      height: 100vh;
+      height: 100dvh;
+      min-height: 440px;
+      display: grid;
+      grid-template-rows: 58px auto minmax(0, 1fr) 30px;
+      overflow: hidden;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      padding: 0 22px;
+      color: #fff;
+      background: var(--navy);
+      border-bottom: 3px solid #477fca;
+    }
+    .brand { min-width: 0; }
+    .brand h1 {
+      margin: 0;
+      font-size: 16px;
+      font-weight: 650;
+      letter-spacing: .2px;
+    }
+    .brand p {
+      margin: 1px 0 0;
+      color: #c6d1e1;
+      font-size: 11px;
+    }
+    .exam-label {
+      flex: 0 0 auto;
+      border: 1px solid rgba(255,255,255,.26);
+      border-radius: 4px;
+      padding: 5px 9px;
+      color: #eef4fd;
+      font-size: 11px;
+      letter-spacing: .7px;
+      text-transform: uppercase;
+    }
+
+    .controlbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px 16px;
+      padding: 10px 18px;
+      background: #fff;
+      border-bottom: 1px solid var(--line);
+      box-shadow: var(--shadow);
+      z-index: 2;
+    }
+    .timer-side, .action-side, .time-adjust { display: flex; align-items: center; gap: 8px; }
+    .timer-box {
+      display: flex;
+      flex-direction: column;
+      min-width: 106px;
+      padding-right: 12px;
+      border-right: 1px solid var(--line);
+    }
+    .eyebrow {
+      color: var(--muted);
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: .7px;
+      text-transform: uppercase;
+    }
+    #timerDisplay {
+      color: var(--navy);
+      font: 700 25px/1.15 Consolas, "Courier New", monospace;
+      letter-spacing: .5px;
+      font-variant-numeric: tabular-nums;
+    }
+    #timerDisplay.warning { color: var(--amber); }
+    #timerDisplay.expired { color: var(--red); }
+    .time-adjust { padding-left: 4px; }
+    .time-adjust label { color: var(--muted); font-size: 11px; white-space: nowrap; }
+    .time-input {
+      width: 57px;
+      padding: 7px 6px;
+      border: 1px solid #cbd4e0;
+      border-radius: 4px;
+      text-align: center;
+      color: var(--ink);
+      background: #fff;
+    }
+    .time-separator { color: var(--muted); margin: 0 -5px; }
+    .btn {
+      min-height: 34px;
+      padding: 7px 12px;
+      border: 1px solid #c5cfdd;
+      border-radius: 4px;
+      color: #22324a;
+      background: #fff;
+      font-size: 12px;
+      font-weight: 650;
+      white-space: nowrap;
+    }
+    .btn:hover:not(:disabled) { background: #f5f8fc; }
+    .btn-primary { color: #fff; background: var(--blue); border-color: var(--blue); }
+    .btn-primary:hover:not(:disabled) { background: #255894; }
+    .btn-danger { color: #9f251e; border-color: #e2b9b6; }
+    .btn-danger:hover:not(:disabled) { background: #fff6f5; }
+    .btn-small { min-height: 31px; padding: 6px 9px; }
+
+    .workspace {
+      min-height: 0;
+      display: grid;
+      grid-template-columns: minmax(250px, .78fr) minmax(420px, 1.55fr);
+      gap: 12px;
+      padding: 12px;
+      overflow: hidden;
+    }
+    .panel {
+      min-width: 0;
+      min-height: 0;
+      display: flex;
+      flex-direction: column;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 5px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+    .panel-heading {
+      min-height: 47px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--line);
+      background: #fbfcfe;
+    }
+    .panel-heading h2 { margin: 0; font-size: 13px; font-weight: 700; }
+    .panel-heading .sub { color: var(--muted); font-size: 11px; }
+    .prompt-content { display: flex; flex: 1; min-height: 0; flex-direction: column; gap: 13px; padding: 14px; }
+    .field-label {
+      display: block;
+      margin-bottom: 6px;
+      color: #3e4b5e;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: .3px;
+    }
+    .field-input, .prompt-textarea {
+      width: 100%;
+      border: 1px solid #cbd4e0;
+      border-radius: 4px;
+      outline: none;
+      color: var(--ink);
+      background: #fff;
+    }
+    .field-input { min-height: 36px; padding: 8px 10px; }
+    .prompt-textarea {
+      min-height: 120px;
+      flex: 1;
+      resize: none;
+      padding: 11px;
+      line-height: 1.6;
+      overflow-y: auto;
+    }
+    .field-input:focus, .prompt-textarea:focus, .essay-editor:focus { border-color: #6c9bd7; box-shadow: 0 0 0 2px rgba(47,103,178,.1); }
+    .word-limit-row { display: flex; align-items: center; gap: 10px; }
+    .word-limit-row .field-input { width: 100px; }
+    .muted-note { color: var(--muted); font-size: 11px; }
+    .rules-box {
+      padding: 10px 11px;
+      border: 1px solid #d9e4f2;
+      border-radius: 4px;
+      background: #f5f8fd;
+      color: #46566c;
+      font-size: 11px;
+      line-height: 1.55;
+    }
+    .rules-box strong { color: #253a57; }
+    .rules-box ul { margin: 5px 0 0; padding-left: 17px; }
+    .rules-box li { margin: 2px 0; }
+
+    .editor-panel { position: relative; }
+    .editor-head-left { min-width: 0; }
+    .editor-metrics { display: flex; flex-wrap: wrap; justify-content: flex-end; align-items: center; gap: 12px; }
+    .metric { color: var(--muted); font-size: 11px; white-space: nowrap; }
+    .metric strong { color: var(--navy); font-size: 13px; }
+    .word-progress { height: 3px; background: #e7ecf3; }
+    .word-progress-fill { width: 0; height: 100%; background: var(--blue); transition: width .12s linear; }
+    .word-progress-fill.over { background: var(--red); }
+    .editor-wrap { position: relative; flex: 1; min-height: 0; padding: 0; }
+    .essay-editor {
+      display: block;
+      width: 100%;
+      height: 100%;
+      min-height: 0;
+      margin: 0;
+      padding: 23px 25px 26px;
+      border: 0;
+      border-radius: 0;
+      outline: none;
+      box-shadow: none;
+      resize: none;
+      overflow-x: hidden;
+      overflow-y: scroll;
+      scrollbar-gutter: stable;
+      color: #202b3a;
+      background: #fff;
+      font: 15px/1.8 Arial, Helvetica, sans-serif;
+      letter-spacing: .05px;
+      white-space: pre-wrap;
+      overflow-wrap: break-word;
+      tab-size: 4;
+    }
+    .essay-editor:focus { box-shadow: none; }
+    .essay-editor[readonly] { cursor: default; background: #fff; }
+    .essay-editor::placeholder { color: #a1aaba; }
+    .essay-editor::-webkit-scrollbar, .prompt-textarea::-webkit-scrollbar { width: 13px; }
+    .essay-editor::-webkit-scrollbar-track, .prompt-textarea::-webkit-scrollbar-track { background: #f0f3f7; border-left: 1px solid #e0e5ec; }
+    .essay-editor::-webkit-scrollbar-thumb, .prompt-textarea::-webkit-scrollbar-thumb { min-height: 30px; background: #aeb9c9; border: 3px solid #f0f3f7; border-radius: 9px; }
+    .essay-editor::-webkit-scrollbar-thumb:hover, .prompt-textarea::-webkit-scrollbar-thumb:hover { background: #8393aa; }
+    .editor-overlay {
+      position: absolute;
+      inset: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 22px;
+      pointer-events: none;
+    }
+    .overlay-message {
+      padding: 9px 13px;
+      border: 1px solid #d7dee8;
+      border-radius: 4px;
+      color: #56657a;
+      background: rgba(248,250,253,.95);
+      font-size: 12px;
+      text-align: center;
+      box-shadow: 0 3px 12px rgba(21,37,63,.08);
+    }
+    .editor-footer {
+      min-height: 34px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 7px 12px;
+      color: var(--muted);
+      background: #fbfcfe;
+      border-top: 1px solid var(--line);
+      font-size: 10px;
+    }
+    .status-left { display: flex; align-items: center; gap: 8px; min-width: 0; }
+    .status-dot { width: 7px; height: 7px; flex: 0 0 7px; border-radius: 100%; background: var(--green); }
+    #sessionStatus { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .footerbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      padding: 0 16px;
+      color: #677387;
+      background: #e5eaf1;
+      font-size: 10px;
+    }
+    .footerbar strong { color: #46546a; font-weight: 650; }
+
+    @media (max-width: 920px) {
+      .app { grid-template-rows: auto auto minmax(0, 1fr) auto; }
+      .topbar { min-height: 58px; padding: 8px 14px; }
+      .controlbar { align-items: flex-start; padding: 9px 12px; }
+      .timer-side { flex-wrap: wrap; }
+      .action-side { flex-wrap: wrap; justify-content: flex-end; }
+      .workspace { grid-template-columns: minmax(0, .82fr) minmax(0, 1.25fr); gap: 8px; padding: 8px; }
+      .prompt-content { padding: 10px; }
+      .essay-editor { padding: 17px; }
+    }
+    @media (max-width: 680px) {
+      html, body { height: auto; min-height: 100%; overflow: auto; }
+      .app { height: auto; min-height: 100dvh; overflow: visible; grid-template-rows: auto auto auto auto; }
+      .topbar { align-items: flex-start; }
+      .exam-label { display: none; }
+      .controlbar { flex-direction: column; align-items: stretch; }
+      .timer-side { justify-content: space-between; }
+      .time-adjust { flex-wrap: wrap; }
+      .action-side { justify-content: flex-start; }
+      .workspace { grid-template-columns: 1fr; overflow: visible; }
+      .panel { min-height: 260px; }
+      .prompt-panel { min-height: 280px; }
+      .prompt-textarea { min-height: 100px; }
+      .editor-panel { height: 62vh; min-height: 390px; }
+      .editor-metrics { gap: 8px; }
+      .essay-editor { padding: 14px; }
+      .footerbar { min-height: 30px; padding: 6px 10px; flex-wrap: wrap; }
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand">
+        <h1>Descriptive Writing Practice</h1>
+        <p>Computer-based essay test simulator</p>
+      </div>
+      <div class="exam-label">IBPS-style practice interface</div>
+    </header>
+
+    <section class="controlbar" aria-label="Timer controls">
+      <div class="timer-side">
+        <div class="timer-box" aria-live="polite">
+          <span class="eyebrow">Time remaining</span>
+          <span id="timerDisplay">30:00</span>
+        </div>
+        <div class="time-adjust">
+          <label for="minutesInput">Adjust time</label>
+          <input id="minutesInput" class="time-input" type="number" min="0" max="599" step="1" value="30" aria-label="Remaining minutes">
+          <span class="time-separator">:</span>
+          <input id="secondsInput" class="time-input" type="number" min="0" max="59" step="1" value="00" aria-label="Remaining seconds">
+          <button id="applyTimeButton" class="btn btn-small" type="button">Apply time</button>
+        </div>
+      </div>
+      <div class="action-side">
+        <button id="startPauseButton" class="btn btn-primary" type="button">Start timer</button>
+        <button id="downloadButton" class="btn" type="button">Download answer</button>
+        <button id="resetButton" class="btn btn-danger" type="button">New attempt</button>
+      </div>
+    </section>
+
+    <main class="workspace">
+      <section class="panel prompt-panel" aria-labelledby="promptHeading">
+        <div class="panel-heading">
+          <h2 id="promptHeading">Question panel</h2>
+          <span class="sub">Editable practice prompt</span>
+        </div>
+        <div class="prompt-content">
+          <div>
+            <label class="field-label" for="topicInput">Topic / question title</label>
+            <input id="topicInput" class="field-input" type="text" value="Digital financial inclusion and inclusive growth in India" autocomplete="off" spellcheck="false">
+          </div>
+          <div style="display:flex; flex:1; min-height:0; flex-direction:column;">
+            <label class="field-label" for="promptInput">Question / instructions</label>
+            <textarea id="promptInput" class="prompt-textarea" autocomplete="off" autocorrect="off" spellcheck="false">Discuss how digital financial inclusion can promote inclusive growth in India. Examine the opportunities, challenges and measures needed to make digital financial services accessible, affordable and secure.</textarea>
+          </div>
+          <div>
+            <label class="field-label" for="wordLimitInput">Target word count</label>
+            <div class="word-limit-row">
+              <input id="wordLimitInput" class="field-input" type="number" min="1" max="10000" step="1" value="250">
+              <span class="muted-note">Used for the progress indicator; it does not stop typing.</span>
+            </div>
+          </div>
+          <div class="rules-box">
+            <strong>Practice restrictions</strong>
+            <ul>
+              <li>Use the editor's scrollbar to move through long answers; mouse-wheel scrolling is blocked inside the answer.</li>
+              <li>Tab and Ctrl/Cmd + arrow navigation are blocked while the timer is running.</li>
+              <li>Copy, cut, paste, context-menu and drag/drop are blocked in the answer editor.</li>
+              <li>Pause freezes the editor as well as the clock. Apply time to change the remaining time without pausing a running timer.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel editor-panel" aria-labelledby="editorHeading">
+        <div class="panel-heading">
+          <div class="editor-head-left">
+            <h2 id="editorHeading">Answer area</h2>
+            <span class="sub" id="editorSubheading">Plain-text response · spellcheck disabled</span>
+          </div>
+          <div class="editor-metrics" aria-live="polite">
+            <span class="metric">Words <strong id="wordCount">0</strong><span id="wordTarget"> / 250</span></span>
+            <span class="metric">Characters <strong id="charCount">0</strong></span>
+          </div>
+        </div>
+        <div class="word-progress" aria-hidden="true"><div id="wordProgressFill" class="word-progress-fill"></div></div>
+        <div class="editor-wrap">
+          <textarea id="essayEditor" class="essay-editor" aria-label="Type your essay here" placeholder="Your answer will appear here. Start the timer to begin typing." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" readonly></textarea>
+          <div id="editorOverlay" class="editor-overlay"><div id="overlayMessage" class="overlay-message">Select “Start timer” to begin typing.</div></div>
+        </div>
+        <div class="editor-footer">
+          <div class="status-left"><span id="statusDot" class="status-dot"></span><span id="sessionStatus">Ready. Your draft is saved in this browser.</span></div>
+          <span id="wordStatus">Target: 250 words</span>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footerbar">
+      <span><strong>Local practice tool</strong> · No account or internet connection required</span>
+      <span>Use a desktop browser for the closest experience</span>
+    </footer>
+  </div>
+
+  <script>
+    (() => {
+      'use strict';
+
+      const STORAGE_KEY = 'ibps-descriptive-practice-v1';
+      const DEFAULT_DURATION_MS = 30 * 60 * 1000;
+      const $ = (id) => document.getElementById(id);
+
+      const timerDisplay = $('timerDisplay');
+      const minutesInput = $('minutesInput');
+      const secondsInput = $('secondsInput');
+      const applyTimeButton = $('applyTimeButton');
+      const startPauseButton = $('startPauseButton');
+      const downloadButton = $('downloadButton');
+      const resetButton = $('resetButton');
+      const topicInput = $('topicInput');
+      const promptInput = $('promptInput');
+      const wordLimitInput = $('wordLimitInput');
+      const essayEditor = $('essayEditor');
+      const wordCountEl = $('wordCount');
+      const wordTargetEl = $('wordTarget');
+      const charCountEl = $('charCount');
+      const wordProgressFill = $('wordProgressFill');
+      const sessionStatus = $('sessionStatus');
+      const statusDot = $('statusDot');
+      const wordStatus = $('wordStatus');
+      const editorSubheading = $('editorSubheading');
+      const editorOverlay = $('editorOverlay');
+      const overlayMessage = $('overlayMessage');
+
+      let remainingMs = DEFAULT_DURATION_MS;
+      let initialDurationMs = DEFAULT_DURATION_MS;
+      let timerStarted = false;
+      let timerRunning = false;
+      let timerFinished = false;
+      let lastTickAt = 0;
+      let lastRenderedSecond = null;
+      let lastSaveAt = 0;
+
+      function setStatus(message, type = 'normal') {
+        sessionStatus.textContent = message;
+        statusDot.style.background = type === 'error' ? 'var(--red)' : type === 'warning' ? '#bd7a12' : 'var(--green)';
+      }
+
+      function getWordCount(text) {
+        const trimmed = text.trim();
+        return trimmed ? trimmed.split(/\s+/u).length : 0;
+      }
+
+      function getWordLimit() {
+        const parsed = Number.parseInt(wordLimitInput.value, 10);
+        return Number.isFinite(parsed) && parsed > 0 ? Math.min(parsed, 10000) : 250;
+      }
+
+      function formatTime(milliseconds) {
+        const totalSeconds = Math.max(0, Math.ceil(milliseconds / 1000));
+        const minutes = Math.floor(totalSeconds / 60);
+        const seconds = totalSeconds % 60;
+        return `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+      }
+
+      function updateTimeInputs(force = false) {
+        // Freeze both input fields while either is focused, so a live countdown
+        // cannot overwrite a value the user is in the process of editing.
+        const timeInputFocused = document.activeElement === minutesInput || document.activeElement === secondsInput;
+        if (!force && timeInputFocused) return;
+        const totalSeconds = Math.max(0, Math.ceil(remainingMs / 1000));
+        minutesInput.value = String(Math.floor(totalSeconds / 60));
+        secondsInput.value = String(totalSeconds % 60).padStart(2, '0');
+      }
+
+      function renderTimer(force = false) {
+        const totalSeconds = Math.ceil(Math.max(0, remainingMs) / 1000);
+        if (force || totalSeconds !== lastRenderedSecond) {
+          timerDisplay.textContent = formatTime(remainingMs);
+          lastRenderedSecond = totalSeconds;
+        }
+        timerDisplay.classList.toggle('warning', remainingMs <= 5 * 60 * 1000 && remainingMs > 60 * 1000);
+        timerDisplay.classList.toggle('expired', remainingMs <= 60 * 1000);
+        updateTimeInputs(force);
+        updateControls();
+      }
+
+      function updateControls() {
+        if (timerFinished) {
+          startPauseButton.textContent = 'Time expired';
+          startPauseButton.disabled = true;
+        } else if (timerRunning) {
+          startPauseButton.textContent = 'Pause timer';
+          startPauseButton.disabled = false;
+        } else if (timerStarted) {
+          startPauseButton.textContent = 'Resume timer';
+          startPauseButton.disabled = false;
+        } else {
+          startPauseButton.textContent = 'Start timer';
+          startPauseButton.disabled = false;
+        }
+
+        const editable = timerRunning && !timerFinished;
+        essayEditor.readOnly = !editable;
+        editorOverlay.style.display = editable ? 'none' : 'flex';
+        if (timerFinished) {
+          overlayMessage.textContent = 'Time expired. Your answer is locked; download it to keep a copy.';
+          editorSubheading.textContent = 'Time expired · response locked';
+        } else if (timerRunning) {
+          editorSubheading.textContent = 'Plain-text response · spellcheck disabled';
+          overlayMessage.textContent = 'Timer running';
+        } else if (timerStarted) {
+          overlayMessage.textContent = 'Timer paused. Resume to continue typing.';
+          editorSubheading.textContent = 'Timer paused · response locked';
+        } else {
+          overlayMessage.textContent = 'Select “Start timer” to begin typing.';
+          editorSubheading.textContent = 'Plain-text response · spellcheck disabled';
+        }
+        applyTimeButton.disabled = timerFinished;
+      }
+
+      function updateWordCount() {
+        const count = getWordCount(essayEditor.value);
+        const characters = essayEditor.value.length;
+        const limit = getWordLimit();
+        wordCountEl.textContent = String(count);
+        wordTargetEl.textContent = ` / ${limit}`;
+        charCountEl.textContent = String(characters);
+        wordStatus.textContent = count > limit ? `${count - limit} words over target` : `${limit - count} words to target`;
+        wordProgressFill.style.width = `${Math.min(100, (count / limit) * 100)}%`;
+        wordProgressFill.classList.toggle('over', count > limit);
+      }
+
+      function saveState() {
+        try {
+          const state = {
+            topic: topicInput.value,
+            prompt: promptInput.value,
+            wordLimit: getWordLimit(),
+            answer: essayEditor.value,
+            remainingMs,
+            initialDurationMs,
+            timerStarted,
+            timerFinished,
+            savedAt: Date.now()
+          };
+          localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+          lastSaveAt = Date.now();
+        } catch (error) {
+          setStatus('Autosave unavailable in this browser session. Download your answer regularly.', 'warning');
+        }
+      }
+
+      function loadState() {
+        try {
+          const raw = localStorage.getItem(STORAGE_KEY);
+          if (!raw) return;
+          const state = JSON.parse(raw);
+          if (typeof state.topic === 'string') topicInput.value = state.topic;
+          if (typeof state.prompt === 'string') promptInput.value = state.prompt;
+          if (typeof state.answer === 'string') essayEditor.value = state.answer;
+          if (Number.isFinite(state.wordLimit) && state.wordLimit > 0) wordLimitInput.value = String(state.wordLimit);
+          if (Number.isFinite(state.remainingMs) && state.remainingMs >= 0) remainingMs = state.remainingMs;
+          if (Number.isFinite(state.initialDurationMs) && state.initialDurationMs > 0) initialDurationMs = state.initialDurationMs;
+          timerStarted = Boolean(state.timerStarted);
+          timerFinished = Boolean(state.timerFinished) || remainingMs <= 0;
+          if (timerFinished) remainingMs = 0;
+          // A page reload never silently resumes a live countdown. The user must press Resume.
+          timerRunning = false;
+          setStatus('Draft restored from this browser. Press Resume to continue the timer.', 'normal');
+        } catch (error) {
+          setStatus('Saved draft could not be restored.', 'warning');
+        }
+      }
+
+      function finishTimer() {
+        remainingMs = 0;
+        timerRunning = false;
+        timerFinished = true;
+        renderTimer(true);
+        saveState();
+        setStatus('Time expired. The answer is locked and saved locally.', 'error');
+      }
+
+      function tick() {
+        if (!timerRunning || timerFinished) return;
+        const now = Date.now();
+        const elapsed = Math.max(0, now - lastTickAt);
+        remainingMs = Math.max(0, remainingMs - elapsed);
+        lastTickAt = now;
+        renderTimer();
+        if (remainingMs <= 0) {
+          finishTimer();
+          return;
+        }
+        if (now - lastSaveAt >= 1000) saveState();
+      }
+
+      function startOrPauseTimer() {
+        if (timerFinished) return;
+        if (timerRunning) {
+          tick();
+          if (timerFinished) return;
+          timerRunning = false;
+          saveState();
+          renderTimer(true);
+          setStatus('Timer paused. The answer is locked until you resume.', 'warning');
+          return;
+        }
+        if (remainingMs <= 0) {
+          finishTimer();
+          return;
+        }
+        timerStarted = true;
+        timerRunning = true;
+        lastTickAt = Date.now();
+        renderTimer(true);
+        essayEditor.focus();
+        setStatus('Timer running. Keyboard and scroll restrictions are active.', 'normal');
+        saveState();
+      }
+
+      function applyTime() {
+        if (timerFinished) return;
+        const minutes = Number.parseInt(minutesInput.value, 10);
+        const seconds = Number.parseInt(secondsInput.value, 10);
+        if (!Number.isFinite(minutes) || !Number.isFinite(seconds) || minutes < 0 || minutes > 599 || seconds < 0 || seconds > 59) {
+          setStatus('Enter minutes from 0–599 and seconds from 0–59.', 'error');
+          updateTimeInputs(true);
+          return;
+        }
+        const newTime = (minutes * 60 + seconds) * 1000;
+        if (newTime <= 0 && !timerStarted) {
+          setStatus('Set a time greater than 00:00 before starting.', 'error');
+          return;
+        }
+        remainingMs = newTime;
+        if (!timerStarted) initialDurationMs = newTime;
+        lastTickAt = Date.now();
+        if (newTime === 0) {
+          finishTimer();
+          return;
+        }
+        renderTimer(true);
+        saveState();
+        setStatus(timerRunning ? 'Remaining time updated. The countdown is still running.' : 'Remaining time updated.', 'normal');
+      }
+
+      function downloadAnswer() {
+        const topic = topicInput.value.trim() || 'Descriptive writing answer';
+        const answer = essayEditor.value;
+        const content = `${topic}\n${'='.repeat(Math.min(80, Math.max(10, topic.length)))}\n\n${answer}\n\nWords: ${getWordCount(answer)}\nCharacters: ${answer.length}\nTime remaining at export: ${formatTime(remainingMs)}\n`;
+        const blob = new Blob([content], { type: 'text/plain;charset=utf-8' });
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = `descriptive-answer-${new Date().toISOString().slice(0, 10)}.txt`;
+        document.body.appendChild(link);
+        link.click();
+        link.remove();
+        URL.revokeObjectURL(url);
+        setStatus('Answer downloaded as a text file.', 'normal');
+      }
+
+      function newAttempt() {
+        const confirmed = window.confirm('Start a new attempt? This clears the current answer but keeps the topic and question. Download your answer first if you need a copy.');
+        if (!confirmed) return;
+        timerRunning = false;
+        timerStarted = false;
+        timerFinished = false;
+        remainingMs = initialDurationMs || DEFAULT_DURATION_MS;
+        essayEditor.value = '';
+        lastTickAt = 0;
+        lastRenderedSecond = null;
+        updateWordCount();
+        renderTimer(true);
+        saveState();
+        setStatus('New attempt ready. Start the timer when you are ready to write.', 'normal');
+      }
+
+      // Exam-console style restrictions. These are practice controls, not secure proctoring.
+      [essayEditor, promptInput].forEach((scrollableTextArea) => {
+        scrollableTextArea.addEventListener('wheel', (event) => {
+          event.preventDefault(); // Use the native scrollbar rather than the wheel/trackpad.
+        }, { passive: false });
+      });
+
+      document.addEventListener('keydown', (event) => {
+        const isEditor = event.target === essayEditor;
+        if (!isEditor || !timerRunning || timerFinished) return;
+
+        if (event.key === 'Tab') {
+          event.preventDefault();
+          return;
+        }
+
+        const modifier = event.ctrlKey || event.metaKey;
+        if (modifier && ['ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown', 'Home', 'End'].includes(event.key)) {
+          event.preventDefault();
+          return;
+        }
+
+        // Block clipboard, select-all, undo/redo and browser print/save shortcuts in the answer.
+        if (modifier && ['a', 'c', 'v', 'x', 'z', 'y', 'p', 's'].includes(event.key.toLowerCase())) {
+          event.preventDefault();
+        }
+      }, true);
+
+      ['copy', 'cut', 'paste', 'contextmenu', 'drop'].forEach((eventName) => {
+        essayEditor.addEventListener(eventName, (event) => event.preventDefault());
+      });
+      essayEditor.addEventListener('beforeinput', (event) => {
+        if (!timerRunning || timerFinished) {
+          event.preventDefault();
+          return;
+        }
+        if (event.inputType === 'insertFromPaste' || event.inputType === 'insertFromDrop' || event.inputType === 'insertFromYank') {
+          event.preventDefault();
+        }
+      });
+
+      startPauseButton.addEventListener('click', startOrPauseTimer);
+      applyTimeButton.addEventListener('click', applyTime);
+      downloadButton.addEventListener('click', downloadAnswer);
+      resetButton.addEventListener('click', newAttempt);
+      essayEditor.addEventListener('input', () => { updateWordCount(); saveState(); });
+      topicInput.addEventListener('input', saveState);
+      promptInput.addEventListener('input', saveState);
+      wordLimitInput.addEventListener('input', () => { updateWordCount(); saveState(); });
+      window.addEventListener('beforeunload', saveState);
+
+      loadState();
+      updateWordCount();
+      renderTimer(true);
+      window.setInterval(tick, 200);
+    })();
+  </script>
+</body>
+</html>
